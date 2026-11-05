@@ -104,3 +104,20 @@ FOLKTRIBUNALEN bör därför följa affären som en fråga om ägande, instituti
 - **Öppet:** Hämta Lantmäteriets registerutdrag och de separata förvärvstillstånden för 18:3 och 18:5; begär diarienummer och fullständiga beslut från Länsstyrelsen; följ JO:s handläggning; jämför fastighetsgränser med offentliga Fornsök- och naturvärdeskartor; begär den nya skogsbruksplanen och dokumenterade jaktupplåtelser.
 
 **Status:** Komplett artikelutkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Separat mineralrättighet i Berg – ingen belagd koppling till Cladonia
+
+Bergsstaten meddelade den 24 juni 2026 att myndigheten den 23 juni hade beslutat att förlänga **Pallas Metals AB:s undersökningstillstånd Storåsen nr 300** i Bergs kommun (diarienummer **BS 201-939-2026**).
+
+Det är en **PRIMÄRKÄLLA** för att ett undersökningstillstånd har förlängts. Ett undersökningstillstånd ger rätt att undersöka ett område enligt minerallagen; det är inte en bearbetningskoncession, inte en gruva i drift och inte en bekräftad mineralreserv.
+
+Denna uppgift ska följas i både mineralspåret och Storsjöspåret eftersom den gäller Bergs kommun. Men den bevisar inte att tillståndets polygon överlappar Cladonias fastigheter. Någon geospatial överlagring mellan Bergsstaten/SGU:s tillståndsgeometri och Cladonias lagfarna fastigheter har inte genomförts i denna kontroll. Det finns inte heller något belägg här för samordning mellan Pallas Metals AB, Cladonia Skog AB eller Alex Karp personligen.
+
+**Källor**
+- Bergsstaten, kungörelser juni 2026, *Förlängning av Storåsen nr 300*: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/juni/
+- Bergsstaten, samlad kungörelsesida 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/
+
+**Öppet:** Hämta tillståndets kartgeometri och jämför den med Lantmäteriets fastighetsgränser först när de lagfarna fastighetsutdragen finns. Kontrollera även arbetsplaner och eventuella markägarunderrättelser i respektive diarieföring. Publicera inte slutsatser om överlappning innan geometrin är jämförd.
+
+**Status:** Utkast kompletterat med separat myndighetsbeslut. Ingen koppling mellan aktörerna är fastställd.
