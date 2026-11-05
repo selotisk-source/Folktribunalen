@@ -60,6 +60,22 @@ FN:s brev framhåller att en framtida närvaro skulle behöva komplettera en st�
 
 Den institutionella luckan är därför fortfarande öppen: UNIFIL:s ordinarie operationer upphör den 31 december 2026, men en efterföljande FN- eller europeisk modell har inte fått ett slutligt mandat.
 
+## EU:s stödmission är formellt etablerad – men ännu inte utplacerad
+
+**PRIMÄRKÄLLA:** Den 12 oktober 2026 antog EU-rådet beslut (Gusp) 2026/2296 om att inrätta **European Union Support Mission in Lebanon (EUSM Lebanon)** under den gemensamma säkerhets- och försvarspolitiken. Beslutet publicerades i EU:s officiella tidning den 13 oktober. Missionens mandat löper i tre år från den dag den faktiskt lanseras, inte från beslutsdagen.
+
+Den juridiska texten innehåller en viktig geografisk begränsning: missionen ska inledningsvis verka **norr om Litani-floden**. Verksamhet söder om Litani kräver att nödvändiga politiska och säkerhetsmässiga villkor är uppfyllda och att den libanesiska regeringen samtycker.
+
+Missionen har två pelare:
+- **Militär:** rådgivning och utbildning för den libanesiska armén, med inriktning på gränsövervakning och gränskontroll, underrättelse, övervakning och spaning, bekämpning av smuggling, operativ samordning och maritim säkerhet.
+- **Civil:** stöd till Internal Security Forces, bland annat utbildningsstrukturer, cyberbrott, smuggling och hamnsäkerhetsstyrning, inklusive Beiruts hamn.
+
+**Detta är inte en ersättare för UNIFIL.** EU:s egen förklaring säger uttryckligen att missionen inte ska ersätta FN-styrkan och inte enbart ska fokusera på södra Libanon. Den kompletterar i stället det libanesiska statliga säkerhetsbygget.
+
+**Beslut är inte detsamma som operativ start:** enligt artikel 20 i rådets beslut krävs en separat rådsakt efter att den civila pelarens operationsplan och den militära pelarens missionsplan och insatsregler har godkänts. Något sådant lanseringsbeslut eller faktisk utplacering har inte identifierats i denna kontroll.
+
+Det betyder att två processer nu löper parallellt men med olika uppgifter: FN:s tre modeller för en möjlig efterföljande närvaro längs Blå linjen är fortfarande inte beslutade, medan EU har etablerat en stödmission vars första geografiska tyngdpunkt ligger norr om Litani. De två systemen får inte beskrivas som utbytbara.
+
 ## Den institutionella frågan efter UNIFIL
 
 UNIFIL har varit en del av den internationella säkerhetsordningen i södra Libanon sedan 1978. Resolution 1701 från 2006 gav styrkan en utvidgad roll efter kriget mellan Israel och Hizbollah.
@@ -87,6 +103,8 @@ För de kristna samhällena i söder är detta inte en abstrakt geopolitisk frå
 - FN:s UNIFIL-mandatregister: https://mandates.un.org/mandate/2790%20%282025%29
 - House of Commons Library, *Lebanon and the end of UNIFIL’s mandate in 2026*, 24 september 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-10348/
 - Reuters, EU-förslag om treårig rådgivnings- och utbildningsmission, 24 juni 2026: https://www.reuters.com/world/middle-east/eu-diplomatic-service-proposes-three-year-mission-advise-train-lebanese-forces-2026-06-24/
+- Rådet för Europeiska unionen, *Lebanon: EU establishes new CSDP support mission*, 12 oktober 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/
+- Rådets beslut (Gusp) 2026/2296 om EUSM Lebanon, antaget 12 oktober och publicerat 13 oktober 2026: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2296
 - FN i Libanon, *Southern Lebanon: Families are returning. Daily Survival Remains a Struggle*, 9 oktober 2026: https://lebanon.un.org/en/324094-southern-lebanon-families-are-returning-daily-survival-remains-struggle
 
 **Oberoende rapportering**
@@ -102,4 +120,4 @@ För de kristna samhällena i söder är detta inte en abstrakt geopolitisk frå
 - **Inte belagt:** Att UNIFIL:s hela personal och alla funktioner försvinner den 31 december 2026; resolutionen anger ett tillbakadragande inom ett år och begränsade uppgifter under perioden.
 - **Öppet:** FN:s generalsekreterares plan efter 1 juni 2026, libanesiska arméns resurser, säkerhetsarrangemang för lokalsamhällen och dokumenterad situation i enskilda kristna byar.
 
-**Status:** Utkast uppdaterat 6 november 2026 med FN:s tre efterföljande alternativ och EU:s separata utbildningsförslag. Inget efterföljande mandat är beslutat; inte publicerat.
+**Status:** Utkast uppdaterat 6 november 2026 med FN:s tre efterföljande alternativ och EU:s formellt etablerade EUSM Lebanon. EU-missionen är ännu inte lanserad och ersätter inte UNIFIL; inte publicerat.
