@@ -5,15 +5,15 @@
 **Faktaläge:** 5 november 2026, amerikansk handel under dagen  
 **Berörda redaktionella spår:** Europas AI-datacenter · NVIDIA, finansiering och säkerheter · strategisk energi
 
-*Efter en kraftig uppgång följde en hård nedgång för flera av AI-boomens mest centrala aktier. Nvidia föll 8,7 procent, AMD 15,5 procent och datacenteroperatören CoreWeave 12,5 procent under torsdagens handel enligt AP:s marknadsrapport. Investerare väger nu kostnaden för kapital, takten i datacenterutbyggnaden och den politiska risken efter USA:s mellanårsval.*
+*Efter en kraftig uppgång följde en hård nedgång för flera av AI-boomens mest centrala aktier. I AP:s uppdatering med omkring en timme kvar av handeln föll Nvidia 8 procent, AMD 14 procent och datacenteroperatören CoreWeave 8,9 procent. Investerare väger nu kostnaden för kapital, takten i datacenterutbyggnaden och den politiska risken efter USA:s mellanårsval.*
 
 ## En nedgång som säger något om finansieringen
 
-Den 5 november föll S&P 500 med 3,9 procent och Nasdaq Composite med 5,2 procent under den amerikanska handelsdagen, enligt Associated Press. Nasdaq låg därmed mer än tio procent under rekordnivån från oktober – den nivå som normalt beskrivs som en marknadskorrektion.
+Den 5 november föll S&P 500 med 3,6 procent och Nasdaq Composite med 4,5 procent i AP:s uppdatering med omkring en timme kvar av handeln. Nasdaq låg då 11 procent under rekordnivån från oktober – mer än gränsen på tio procent som normalt definierar en marknadskorrektion.
 
-Nvidia föll 8,7 procent, AMD 15,5 procent och CoreWeave 12,5 procent. Även GE Vernova, som levererar utrustning kopplad till elförsörjningen till bland annat datacenter, föll 7,7 procent.
+Nvidia föll 8 procent, AMD 14 procent och CoreWeave 8,9 procent. Även GE Vernova, som levererar utrustning kopplad till elförsörjningen till bland annat datacenter, föll 6,9 procent.
 
-Detta är intradagsuppgifter från AP:s rapportering, inte slutkurser för handelsdagen. Men rörelsen visar hur snabbt sentimentet kan förändras när investerare börjar ifrågasätta kostnaden och takten i nästa utbyggnadsfas.
+Detta är AP:s intradagsuppgifter med omkring en timme kvar av handeln, inte slutkurser för handelsdagen. Men rörelsen visar hur snabbt sentimentet kan förändras när investerare börjar ifrågasätta kostnaden och takten i nästa utbyggnadsfas.
 
 ## Datacenter behöver mer än efterfrågan
 
@@ -60,13 +60,14 @@ AI-modeller kan förbättras snabbt, men datacenter byggs i verkliga kommuner, p
 
 ## Källor
 
-- Associated Press, *A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%*, 5 november 2026: https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e
+- Associated Press, *A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%*, 5 november 2026: https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e
+- Reuters, *Chip selloff drags global stocks lower on AI spending concerns*, 5 november 2026: https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/
 - Reuters, *Tankers hit in Hormuz as Iran keeps up pressure after US vote*, 5 november 2026, för den geopolitiska marknadskontexten: https://www.reuters.com/world/middle-east/tankers-hit-hormuz-iran-keeps-up-pressure-after-us-vote-2026-11-05/
 - AP, *Democrats win US House and Senate, taking full control of Congress*, 5 november 2026: https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226
 
 ## Faktastatus och öppna kontrollpunkter
 
-- **Oberoende marknadsrapportering:** AP:s marknadstal är intradagsuppgifter och ska inte presenteras som stängningskurser.
+- **Oberoende marknadsrapportering:** AP:s tal är intradagsuppgifter med omkring en timme kvar av handeln. Reuters redovisar något andra nivåer vid en annan tidpunkt. Ingen av uppsättningarna ska presenteras som slutkurser.
 - **Politiskt faktum:** AP rapporterar att Demokraterna vunnit kontroll över båda kamrarna.
 - **Marknadstolkning:** Att högre lånekostnader och politisk osäkerhet bidrog till nedgången är rapporterad analys, inte ett fastställt orsakssamband för varje aktie.
 - **Inte belagt:** Att kursfallet i sig visar att AI-efterfrågan kollapsar eller att en specifik datacenterfinansiering har fallerat.
