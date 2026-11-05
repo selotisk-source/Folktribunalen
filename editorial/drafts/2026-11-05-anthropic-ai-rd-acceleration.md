@@ -31,9 +31,19 @@ METR:s subjektiva uppskattning är att en majoritet – möjligen omkring 80 pro
 
 Anthropic-anställdas egna uppgifter om produktivitetslyft nådde i vissa interna enkäter mycket höga nivåer. METR varnar dock för att sådana självrapporter är svaga mått: urvalet kan vara skevt, svaren är inte oberoende produktivitetsmätningar och ett individuellt upplevt lyft på exempelvis tolv gånger betyder inte att hela organisationens forskningsförmåga växer tolv gånger snabbare.
 
+## Anthropic svarar – och lovar en egen redovisning
+
+Anthropics medgrundare och chefsarkitekt Sam McCandlish sade efter publiceringen att METR:s slutsatser i stora drag stämde med hans egen bild: AI påskyndar forskningen, men det är svårt att ange exakt hur mycket. Han meddelade också att Anthropic planerar att publicera en egen analys av utvecklingstakten inom företaget under de kommande veckorna.
+
+Det är ett viktigt nästa steg. En sådan redovisning kan ge ytterligare underlag, men den ersätter inte oberoende granskning. Den avgörande frågan blir vilka mätserier, definitioner och osäkerhetsintervall Anthropic faktiskt offentliggör – och om de kan jämföras med METR:s mått.
+
+METR publicerade dessutom en separat genomgång av Anthropics offentliga riskrapport från augusti. Där ifrågasätter METR formuleringen att accelerationen låg “under en faktor två”, eftersom den offentliga formuleringen kan ge intrycket att den låg tydligt under två, medan siffrorna i den interna versionen enligt METR låg omkring 1,97. METR:s egen analys av ledande indikatorer gav ett spann på 1,3–2,8 beroende på definition och tidsperiod. Även här betonar METR att metodiken är osäker och att de olika måtten inte utan vidare kan översättas till en enda total utvecklingstakt.
+
+Detta är inte i sig belägg för att Anthropic medvetet vilselett allmänheten. Det visar däremot hur mycket ordval, urval av mätetal och redaktionella sammanfattningar betyder när bolagen själva publicerar riskbedömningar för en teknik de utvecklar.
+
 ## Den stora kunskapsluckan: vad fick allmänheten inte se?
 
-METR genomförde en elva veckor lång bedömning med tillgång till intern information från Anthropic. Organisationen uppger att Anthropic hade rätt att maskera konfidentiellt material. En majoritet av den evidens som METR beskriver som mest informativ för sina slutsatser redigerades bort.
+METR genomförde en elva veckor lång bedömning, från den 12 augusti till den 29 oktober, med omkring 2,5 heltidstjänster och tillgång till utvalda interna uppgifter från Anthropic. Granskarna fick inte tillgång till icke-offentliga modeller och uppdraget gav dem inte obegränsad, anställningsliknande åtkomst. Organisationen uppger att Anthropic hade rätt att maskera konfidentiellt material. En majoritet av den evidens som METR beskriver som mest informativ för sina slutsatser redigerades bort.
 
 Det är centralt för läsaren. Rapporten är en extern bedömning, men den är inte en fullt reproducerbar offentlig granskning av allt underlag. METR redovisar att vissa av de maskerade uppgifterna kunde tolkas på flera sätt och att det därför är svårt för utomstående att självständigt värdera hela beviskedjan.
 
@@ -67,10 +77,11 @@ Den avgörande frågan är därför inte bara hur smart nästa modell blir. Den 
 
 **Primärkälla**
 - METR, *Independent Assessment of AI R&D Acceleration at Anthropic in October 2026*, 5 november 2026: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/
+- METR, *Review of the “Risks from automated R&D” section in Anthropic’s Risk Report (August 2026)*, 5 november 2026: https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/
 
 **Oberoende rapportering**
 - Reuters, *Anthropic's models improving nearly twice as fast with help from AI, study finds*, 5 november 2026: https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/
-- Associated Press, *Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says*, 5 november 2026: https://apnews.com/article/9cf8c590ffc1abdb489179bdccc69c23
+- Associated Press, *Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says*, 5 november 2026: https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23
 
 ## Faktastatus och öppna kontrollpunkter
 
@@ -79,6 +90,7 @@ Den avgörande frågan är därför inte bara hur smart nästa modell blir. Den 
 - **METR:s uppskattning:** 1,9x acceleration på AECI; 95-procentigt intervall 1,5–2,8x.
 - **Osäker attribution:** METR:s uppskattning om att kanske 80 procent av den aktuella accelerationen beror på AI är en subjektiv bedömning, inte en direkt uppmätt kausal andel.
 - **Begränsning:** En stor del av den mest informativa evidensen är maskerad. Benchmarkresultat är inte samma sak som generell eller samhällelig förmåga.
+- **Ny partsreaktion:** Anthropics medgrundare säger att METR:s slutsatser i stora drag stämmer och utlovar en egen analys under de kommande veckorna.
 - **Inte belagt:** Att Anthropic redan bedriver helt autonom rekursiv självförbättring.
 - **Öppet:** Begär förtydligande om redaktionens möjlighet att få METR:s fullständiga metodbilaga och eventuella framtida uppdateringar.
 
