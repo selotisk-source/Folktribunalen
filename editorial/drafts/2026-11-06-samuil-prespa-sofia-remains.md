@@ -35,6 +35,16 @@ Den marmorsarkofag som nu står i Sankt Sofia är ett nytt, specialbyggt monumen
 
 Detta är särskilt viktigt när Sofias arkeologiska lager beskrivs. Utgrävningarna under Sankt Sofia-kyrkan visar äldre byggnads- och begravningsmiljöer, men Tsar Samuils identifierade kvarlevor har en separat dokumenterad fyndhistoria i basilikan Sankt Achillios vid Prespasjön. Den nya platsen i Sofia är en senare liturgisk och nationell minnesplats.
 
+## De 48 föremålen: visningen har nått sin slutdag – slutlig leverans återstår att belägga
+
+Den grekiska premiärministerns kansli bekräftade den 3 oktober att de 48 föremålen fysiskt överlämnades till den grekiska sidan vid ceremonin i Thessaloniki. De skulle därefter visas på Museum of Byzantine Culture till och med **5 november 2026**, innan de skulle föras vidare till Panagia Eikosifoinissa, Timios Prodromos i Serres och Serres och Nigritas metropolitdöme enligt föremålens proveniens.
+
+Den grekiska regeringens informationssida var uppdaterad den 4 november och angav fortfarande denna plan. Vid faktabrytningen den 6 november har redaktionen inte hittat ett daterat myndighets- eller institutionsmeddelande som bekräftar att den sista överlämningen från museet till de tre ursprungsinstitutionerna faktiskt genomförts. Det betyder inte att överlämningen inte skett; det betyder att den sista delen av kedjan ännu saknar offentlig bekräftelse i det material som granskats.
+
+Den här skillnaden är viktig: **den mellanstatliga överlämningen den 3 oktober är dokumenterad**, medan den efterföljande fördelningen till de tre religiösa institutionerna är en aviserad åtgärd vars genomförande behöver följas upp.
+
+Det grekiska samförståndsavtalet beskrivs som en ömsesidig ”deposition” eller förvaring av historiskt betydelsefulla föremål. Premiärministerkontoret använder samtidigt ordet återlämnande. Utan den fullständiga operativa avtalstexten bör artikeln beskriva den fysiska överföringen och den avtalade förvaringsordningen, men inte slå fast att juridisk äganderätt ändrats.
+
 ## Aktörer, platser och öppna frågor
 
 - **Greklands kulturministerium och regering:** avtalets grekiska part och ansvarig för de 48 kyrkliga föremålens återföring.
@@ -56,7 +66,8 @@ Men historien blir mer korrekt när tre platser hålls isär: fyndet vid Sankt A
 ## Källor
 
 **Primärkällor**
-- Greklands regering, samförståndsavtal om 48 kyrkliga föremål och Tsar Samuils kvarlevor, 29 september 2026: https://www.government.gov.gr/simfonia-metaxi-elladas-ke-voulgarias-gia-tin-epistrofi-sti-chora-mas-48-kimilion-pou-proerchonte-apo-ieres-mones-ke-ti-metafora-ton-lipsanon-tou-tsarou-samouil-sti-gitona/
+- Greklands regering, samförståndsavtal om 48 kyrkliga föremål och Tsar Samuils kvarlevor, 29 september 2026, uppdaterad 4 november: https://www.government.gov.gr/simfonia-metaxi-elladas-ke-voulgarias-gia-tin-epistrofi-sti-chora-mas-48-kimilion-pou-proerchonte-apo-ieres-mones-ke-ti-metafora-ton-lipsanon-tou-tsarou-samouil-sti-gitona/
+- Greklands premiärministers kansli, protokoll och planerad slutleverans efter museivisning 5 november, 3 oktober 2026: https://www.primeminister.gr/en/2026/10/03/39469
 - Bulgariens regering, officiell överlämning av kvarlevorna, 3 oktober 2026: https://www.gov.bg/special/bg/prestsentar/novini/balgariya-poluchi-tlennite-ostanki-na-tsar-samuil-%E2%80%93-istoricheski-akt-na-priyatelstvoto-mezhdu-balgariya-i-gartsia
 - Bulgariens regering, förhandsbesked om ceremonin, 3 oktober 2026: https://www.gov.bg/bg/prestsentar/predstoyashti-sabitia/balgariya-posreshta-tsar-samuil-na-3-oktomvri
 - National Archaeological Institute with Museum (NAIM-BAS), preliminära antropologiska resultat återgivna av BTA, 8 oktober 2026: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
@@ -74,7 +85,7 @@ Men historien blir mer korrekt när tre platser hålls isär: fyndet vid Sankt A
 - **OBEROENDE BEKRÄFTELSE:** AP, Reuters och BTA rapporterar ceremonin och placeringen i Sofia. De oberoende nyhetsrapporterna bekräftar händelsen, inte en ny forensisk identifikation.
 - **VETENSKAPLIGT UNDERLAG:** En antropologisk studie från 2010 stöder Moutsopoulos identifiering med historiska och osteologiska argument. De nya 2026-resultaten är preliminära.
 - **OBEKRÄFTAT:** Något publicerat DNA-resultat som självständigt bekräftar identiteten har inte hittats.
-- **ÖPPEN DOKUMENTFRÅGA:** Det fullständiga samförståndsavtalet, inventariet över de 48 föremålen och de ursprungliga utgrävningsdagböckerna har inte hämtats.
+- **ÖPPEN DOKUMENTFRÅGA:** Det fullständiga samförståndsavtalet, inventariet över de 48 föremålen och de ursprungliga utgrävningsdagböckerna har inte hämtats. Den planerade slutleveransen av de 48 föremålen från museet till ursprungsinstitutionerna efter 5 november saknar ännu en hittad offentlig bekräftelse.
 - **DATERINGSAVVIKELSE:** Officiell grekisk information anger 1965, BTA har återgett 1969, medan den akademiska studien beskriver utgrävningar 1965–1975 och identifiering 1965–1966.
 
-**Status:** Nytt artikelutkast för chefredaktörens granskning. Inte publicerat.
+**Status:** Nytt artikelutkast uppdaterat 6 november med kontroll av den planerade slutleveransen efter 5 november. För chefredaktörens granskning; inte publicerat.
