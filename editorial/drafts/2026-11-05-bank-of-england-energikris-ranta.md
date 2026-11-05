@@ -71,7 +71,8 @@ Det är därför utvecklingen i Hormuz inte bara ska följas genom oljepriset. D
 - Bank of England, *Bank rate increased to 4% – November 2026 Monetary Policy Summary and Minutes*, 5 november 2026: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026
 
 **Oberoende rapportering**
-- Associated Press, *Wall Street reels from AI sell-off; S&P 500 slumps more than 3%*, 5 november 2026: https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e
+- Associated Press, *BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead*, 5 november 2026: https://apnews.com/article/dce506792fe3b452ec4c3982147286f3
+- Reuters, *Bank of England delivers first rate hike in three years, gilt yields rise*, 5 november 2026: https://www.reuters.com/world/uk/view-bank-england-delivers-first-rate-hike-three-years-gilt-yields-rise-2026-11-05/
 
 ## Faktastatus och öppna kontrollpunkter
 
