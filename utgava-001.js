@@ -6,16 +6,15 @@ const tracks=[
 {n:3,title:'Synkronicitetsprotokollet',note:'Ett dokumentärt arbetssätt där observation, tidslinje, hypotes och empiriskt belägg hålls åtskilda.',files:['editorial/drafts/2026-11-05-synkronicitet-två-nya-teoretiska-modeller.md']},
 {n:4,title:'Sofia – staden under staden',note:'Arkeologiska lager, museisamlingar, kyrkor och stadens historiska kontinuitet. Utställningar beskrivs inte som nya utgrävningar.',files:['editorial/drafts/2026-11-05-sofia-glomda-gudar-arkeologi.md']},
 {n:5,title:'Strategiska råvaror och Urbergsskölden',note:'GTK, RAKKA, Onkalo, litium, gruvavfall, återvinning och Europas försörjningskedjor.',files:['editorial/drafts/2026-11-05-urbergsskölden-onkalo-rakka-litium.md']},
-{n:6,title:'NVIDIA, finansiering och säkerheter',note:'Kreditkedjor, chipfinansiering, projektbolag, säkerheter och marknadens stresstest. Aktiebelåning och utrustningsfinansiering hålls isär.',files:['editorial/drafts/2026-11-05-ai-finansiering-895bn-google-blackstone.md','editorial/drafts/2026-11-05-ai-infrastruktur-marknadstest.md']},
-{n:7,title:'Libanons kristna historia och regional geopolitik',note:'Kristna lokalsamhällen, politisk historia, säkerhetsläget och UNIFIL:s framtid.',files:['editorial/drafts/2026-11-05-libanon-unifil-kristna-syd.md','editorial/drafts/2026-11-05-gripen-ukraina-saab-industri.md']},
+{n:6,title:'NVIDIA, finansiering och säkerheter',note:'Kreditkedjor, chipfinansiering, projektbolag, säkerheter och marknadens stresstest. Aktiebelåning och utrustningsfinansiering hålls isär.',files:['editorial/drafts/2026-11-05-ai-finansiering-895bn-google-blackstone.md']},
+{n:7,title:'Libanons kristna historia och regional geopolitik',note:'Kristna lokalsamhällen, politisk historia, säkerhetsläget och UNIFIL:s framtid.',files:['editorial/drafts/2026-11-05-libanon-unifil-kristna-syd.md']},
 {n:8,title:'Kyrkorna som överlevde imperierna',note:'Wiesbaden, Warszawa, Prag, Sofia och Varna fortsätter som ett eget jämförande kulturarvsspår. Den här cykeln gav inget nytt restaureringsbeslut eller annan nyhet som passerade källtröskeln. Spåret kvarstår i redaktionsplanen.',files:[]},
 {n:9,title:'Fennoskandien – urberg, skog och hästkultur',note:'Geologi, markanvändning, skogslandskap, hästkultur och historiska kontinuiteter. Ingen ny substansierad händelse passerade notiströskeln i denna cykel; GTK:s Li Path följs inom råvaruspåret.',files:[]}
 ];
 const additional=[
 {title:'Hormuz och sjöfarten',file:'editorial/drafts/2026-11-05-hormuz.md'},
-{title:'Anthropic och AI-assisterad forskning',file:'editorial/drafts/2026-11-05-anthropic-ai-rd-acceleration.md'},
-{title:'Bank of England och energichocken',file:'editorial/drafts/2026-11-05-bank-of-england-energikris-ranta.md'},
 {title:'Europa: flyghot och gränskontroll',file:'editorial/drafts/2026-11-05-europa-flyg-hot-granskontroll.md'},
+{title:'Bank of England och energichocken',file:'editorial/drafts/2026-11-05-bank-of-england-energikris-ranta.md'},
 {title:'Gripen till Ukraina',file:'editorial/drafts/2026-11-05-gripen-ukraina-saab-industri.md'},
 {title:'Storsjö och Cladonia',file:'editorial/drafts/2026-11-05-storsjo-cladonia-15000-300ha.md'}
 ];
@@ -41,7 +40,7 @@ return '<article class="story"><div class="meta">FÖRDJUPNING · KÄLLOR OCH FAK
 const host=document.getElementById('issue-content');let count=0;let html='';
 for(const t of tracks){
 html+='<section class="track" id="track-'+t.n+'"><div class="issue-kicker">REDAKTIONELLT HUVUDSPÅR '+String(t.n).padStart(2,'0')+'</div><h2>'+t.title+'</h2><p class="track-note">'+t.note+'</p>';
-for(const file of t.files){const title=file.split('/').pop().replace(/^2026-11-05-/,'').replace(/\.md$/,'').replace(/-/g,' ');html+=card(title,file,count++);}
+for(const file of t.files){const title=({ '2026-11-05-palantir-nhs-offentlig-makt.md':'Palantir och NHS: offentlig makt', '2026-11-05-europas-ai-gigafactories-energi.md':'Europas AI-gigafabriker', '2026-11-05-ai-infrastruktur-marknadstest.md':'AI-boomens marknadstest', '2026-11-05-anthropic-ai-rd-acceleration.md':'Anthropic och AI-assisterad forskning', '2026-11-05-synkronicitet-två-nya-teoretiska-modeller.md':'Synkronicitet: två nya teoretiska modeller', '2026-11-05-sofia-glomda-gudar-arkeologi.md':'Sofia: The Forgotten Deities', '2026-11-05-urbergsskölden-onkalo-rakka-litium.md':'Urbergsskölden, Onkalo och RAKKA', '2026-11-05-ai-finansiering-895bn-google-blackstone.md':'AI-finansiering: Anthropic, Google och Blackstone', '2026-11-05-libanon-unifil-kristna-syd.md':'Libanon och UNIFIL', '2026-11-05-hormuz.md':'Hormuz och sjöfarten', '2026-11-05-bank-of-england-energikris-ranta.md':'Bank of England och energichocken', '2026-11-05-europa-flyg-hot-granskontroll.md':'Europa: flyghot och gränskontroll', '2026-11-05-gripen-ukraina-saab-industri.md':'Gripen till Ukraina', '2026-11-05-storsjo-cladonia-15000-300ha.md':'Storsjö och Cladonia' })[file.split('/').pop()]||file;html+=card(title,file,count++);}
 if(!t.files.length)html+='<div class="status-note"><strong>Bevakningen fortsätter.</strong> Spåret finns kvar i redaktionens masterplan och täckningsmatris. Avsaknad av en ny artikel i denna utgåva betyder inte att spåret har tagits bort.</div>';
 html+='</section>';
 }
