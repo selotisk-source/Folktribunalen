@@ -78,7 +78,7 @@ De brev som rapporterats den 5 november befinner sig huvudsakligen på nivå tv�
 | Denys Sienik / Ukraina | Ukrainsk diplomat | Förnyelse av Starshield-avtalet inför mitten av 2027 |
 | Brian Mast | Ordförande, House Foreign Affairs Committee | Begärd briefing från NVIDIA |
 | John Moolenaar | Ordförande, House Select Committee on China | Chip, exportkontroll och Kina |
-| Eric Crawford | Ordförande, House Intelligence Committee | Säkerhetsrisker kring avancerad AI-teknik |
+| Rick Crawford | Ordförande, House Intelligence Committee | Säkerhetsrisker kring avancerad AI-teknik |
 | Jensen Huang / NVIDIA | Privat chipleverantör | Kundkontroll, informationssäkerhet och exportefterlevnad |
 | Bobby Scott | Demokratisk ledamot, House Education and Workforce | Bevarande av federala handlingar |
 | Federal myndigheter | Verkställande grenen | Dokumentbevarande, sekretess och framtida tillsyn |
@@ -115,7 +115,7 @@ Den centrala frågan för FOLKTRIBUNALEN blir därför: **kan kongressen visa ve
 - Associated Press, 2026 midterm results and outstanding races, 5 november 2026: https://apnews.com/article/d4f55516fd72155d746cfbbc2017c743
 - The Guardian, *Democrats warn Trump officials to keep records or risk criminal penalties after midterm victories*, 4 november 2026: https://www.theguardian.com/us-news/2026/nov/04/democrats-warn-trump-officials-preserve-records
 
-## Faktastatus och öppna kontrollpunkter
+**Namnanmärkning:** Reuters återger i artikeln namnet som Eric Crawford; representanthusets officiella kommittésida använder det offentliga namnet Rick Crawford (formellt Eric A. “Rick” Crawford).\n\n## Faktastatus och öppna kontrollpunkter
 
 - **PRIMÄRKÄLLA:** Blumenthals officiella brev till försvarsministern och SpaceX.
 - **OBEROENDE BEKRÄFTELSE:** Reuters om Starshield-avtalets rapporterade utgång omkring mitten av 2027 och om NVIDIAs begärda briefing.
