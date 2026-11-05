@@ -9,15 +9,22 @@
 
 ## 895,4 miljarder dollar är inte en omedelbar skuld
 
-I sin ändrade börsregistrering till den amerikanska finansinspektionen SEC redovisar Anthropic sammanlagda framtida inköps- och leasingåtaganden på omkring **895,4 miljarder dollar**.
+I sin ändrade börsregistrering till den amerikanska finansinspektionen SEC redovisar Anthropic sammanlagda inköps- och leasingåtaganden, inklusive kortfristiga åtaganden och leasingavtal som ännu inte börjat löpa, på omkring **895,4 miljarder dollar**.
 
 Summan ska förstås korrekt. Den är inte en omedelbar skuld på 895 miljarder dollar. Den omfattar framtida köp och leasing över många år, där en del av åtagandena ännu inte börjat löpa.
 
 Anthropic anger att omkring **447,5 miljarder dollar** väntas belasta perioden fram till den 31 december 2030. Cirka **69,8 miljarder dollar** förfaller under de tolv månaderna efter den 30 september 2026.
 
-Bolaget redovisar samtidigt **146,6 miljarder dollar i likviditet och tillgängliga kreditresurser** före eventuella intäkter från börsintroduktionen. I registreringshandlingen specificeras detta som 95,6 miljarder dollar i kontanter och likvida medel, 36,3 miljarder i kortfristiga investeringar och 14,7 miljarder i tillgängliga kreditresurser.
+Bolaget redovisar samtidigt **146,6 miljarder dollar i likviditet** före eventuella intäkter från börsintroduktionen: 95,6 miljarder dollar i kontanter och likvida medel, 36,3 miljarder i kortfristiga investeringar och 14,8 miljarder i tillgänglighet under en utökad kreditfacilitet. Därutöver uppger Anthropic att strategiska partner står för upp till **77 miljarder dollar i tillgänglig finansieringskapacitet** genom vissa finansieringsavtal och upp till **5 miljarder dollar i aktieåtaganden**. Dessa belopp är separata från den redovisade likviditeten och ska inte summeras som om de vore kontanter på bankkontot.
 
 En betydande del av de framtida åtagandena gäller det som Anthropic kallar Anthropic Direct – en modell där bolaget säkrar mer dedikerad beräkningskapacitet över tid. Företaget skriver att investeringarna ska finansieras genom intäkter och kapital som bolaget tar in.
+
+
+Anthropic redovisar dessutom att cirka **213,8 miljarder dollar** av de samlade åtagandena omfattas av uppsägningsrättigheter som kan utnyttjas eller av villkor som måste uppfyllas innan avtalen börjar löpa. Exempel som bolaget nämner är att motparten måste säkra finansiering, anläggningar eller myndighetstillstånd. Om villkoren inte uppfylls kan avtalet i vissa fall sägas upp.
+
+Detta är en avgörande nyans. De 895,4 miljarderna är inte en enda, odelbar skuldmassa. En del är bindande minimiköp och take-or-pay-åtaganden; andra delar är villkorade eller har särskilda uppsägningsmöjligheter. Den exakta fördelningen mellan dessa kategorier behöver granskas i SEC-handlingens tabell över avtalsförpliktelser och i de bakomliggande avtalen.
+
+Anthropic uppger också uttryckligen att bolaget inte hade och inte hade några aktuella arrangemang för finansiering utanför balansräkningen under de perioder som redovisades. Det är en uppgift om Anthropics egen redovisningsmässiga klassificering. Den utesluter inte att leverantörer, datacenterbolag eller särskilda projektbolag använder egen projektfinansiering, leasing eller kreditstöd runt den infrastruktur som Anthropic hyr eller köper.
 
 Det är alltså inte fråga om att hela beloppet måste betalas kontant i dag. Men åtagandena skapar ett beroende av att intäkter, finansiering, efterfrågan och leveranser utvecklas tillräckligt väl under många år.
 
@@ -100,6 +107,7 @@ Det är därför inte tillräckligt att fråga hur mycket AI-industrin investera
 - **Oberoende rapportering:** Reuters om Blackstones 63-miljardersfinansiering och marknadens bredare kapitalbehov.
 - **Partsuppgift:** TeraWulfs 19 miljarder dollar är bolagets redovisade kontrakterade hyresintäkter, inte redan erhållna pengar.
 - **Viktig distinktion:** Google backstoppar vissa skyldigheter under tre specifika TeraWulf–Anthropic-hyresavtal; stödet är villkorat och inte en generell garanti för Anthropics hela åtagandeportfölj.
+- **Anthropics egen uppgift:** 213,8 miljarder dollar av åtagandena omfattas av uppsägningsrätt eller villkor före avtalsstart. Bolaget uppger också att det inte har egna arrangemang för off-balance-sheet-finansiering, samtidigt som strategiska partner står för upp till 77 miljarder dollar i tillgänglig finansieringskapacitet och upp till 5 miljarder dollar i aktieåtaganden.
 - **Öppet:** Begär fullständiga kreditstödsavtal och eventuella utelämnade bilagor; klarlägg formell låntagare, ägande och säkerheter i Blackstone-/bankfinansieringen.
 - **Inte belagt:** Att Anthropic redan har en omedelbar skuld på 895,4 miljarder dollar eller att bolaget självt är låntagare för hela Blackstones 63-miljarderspaket.
 
