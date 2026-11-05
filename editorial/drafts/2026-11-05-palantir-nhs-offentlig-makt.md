@@ -13,7 +13,7 @@ Palantir byggde länge sin affär kring myndigheter, försvar och underrättelse
 
 I sitt aktieägarbrev den 2 november redovisade Palantir en kvartalsomsättning på cirka 2,313 miljarder dollar, en ökning med 96 procent jämfört med samma kvartal året före. Amerikanska kommersiella kunder stod för 984 miljoner dollar. Amerikanska myndighetskunder stod för 953 miljoner.
 
-Det kommersiella segmentet växte 148 procent på årsbasis. Den amerikanska myndighetsverksamheten växte 96 procent. Bolaget redovisade också en GAAP-vinst på omkring 1,13 miljarder dollar och 10,4 miljarder dollar i likvida medel och amerikanska statspapper.
+Det kommersiella segmentet växte 148 procent på årsbasis. Den amerikanska myndighetsverksamheten växte 96 procent. Bolaget redovisade också en GAAP-vinst på omkring 1,13 miljarder dollar.
 
 Detta är bolagets egna redovisade siffror, inte en oberoende värdering av hur väl produkterna fungerar hos kunderna.
 
