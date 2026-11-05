@@ -112,3 +112,21 @@ Det är därför inte tillräckligt att fråga hur mycket AI-industrin investera
 - **Inte belagt:** Att Anthropic redan har en omedelbar skuld på 895,4 miljarder dollar eller att bolaget självt är låntagare för hela Blackstones 63-miljarderspaket.
 
 **Status:** Komplett artikelutkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Ny kontrollpunkt: kongressens granskning av NVIDIA:s kund- och säkerhetskedja
+
+Den 5 november rapporterade Reuters att tre republikanska utskottsordförande i representanthuset – Brian Mast, John Moolenaar och Eric Crawford – i ett brev daterat den 4 november begärt en sluten briefing med NVIDIAs vd Jensen Huang den **18 november 2026**.
+
+Bakgrunden är en rapport från *The New York Times* om att amerikanska myndigheter granskar Alice Huang, tidigare chef på Singapore-baserade Megaspeed, ett företag som köper AI-chip från NVIDIA. Megaspeed misstänks enligt rapporteringen ha hjälpt Beijing att få tillgång till avancerade chip som inte får exporteras till Kina. Reuters uppger att kongressledamöterna vill fråga om NVIDIAs säkerhetsrutiner mot utländsk underrättelseinhämtning.
+
+Detta är en **begäran om briefing**, inte en stämning eller ett konstaterande av skuld. Reuters har sett brevet, men den offentliga originalskrivelsen har inte lokaliserats i denna kontroll. NVIDIA svarade att Jensen Huang talar med tusentals kundchefer varje år och att asiatiska molnkunder får vanlig affärsinformation, inte känsliga företagshemligheter eller information om USA:s nationella säkerhet. Bolaget uppgav också att det följer amerikanska myndigheters vägledning om aktörer av oro.
+
+**Varför detta hör hemma i finansieringsgranskningen:** Chipkedjan är inte bara en fråga om kapital, säkerheter och restvärde. Den är också beroende av exportlicenser, kundernas identitet, slutlig användning och kontroll över vem som får tillgång till avancerad beräkningskapacitet. En kund- eller exportkontrollfråga kan påverka leveransbarhet, kontraktsvärde och värdet på finansierad utrustning. Det finns dock inget belägg i det granskade materialet för att den påstådda Megaspeed-utredningen redan har påverkat NVIDIAs redovisade intäkter eller de finansieringsavtal som analyseras ovan.
+
+**Källor**
+- Reuters, *Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations*, 5 november 2026: https://www.reuters.com/legal/litigation/key-republicans-seek-briefing-nvidia-ceo-over-chinese-spy-allegations-document-2026-11-05/
+- NVIDIA:s svar återgivet av Reuters i samma artikel.
+- För den bredare institutionella tidslinjen: se separat utkast om USA:s kongress och teknisk makt.
+
+**Status:** Utkast kompletterat. Påståendena om Megaspeed är fortfarande utredningsuppgifter, inte fastslagna fakta.
