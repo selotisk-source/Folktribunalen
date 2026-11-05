@@ -1,11 +1,11 @@
-# Europas AI-gigafabriker: 30 miljarder euro och en deadline den 12 november
+# Europas AI-gigafabriker: 30 miljarder euro, svensk medfinansiering och två anbudsfrister
 
 **Artikeltyp:** Teknik · industri · energi · EU-politik  
 **Publiceringsdatum:** 5 november 2026  
 **Faktaläge:** 5 november 2026  
 **Berörda redaktionella spår:** Europas AI-datacenter · NVIDIA och AI-finansiering · strategisk energi · offentlig makt
 
-*EU:s upphandling av upp till sju AI-gigafabriker går in i ett avgörande skede. Initiativet kan mobilisera upp till 10 miljarder euro i offentlig finansiering och minst 20 miljarder i privat kapital. Samtidigt vill kommissionen införa gemensam transparens och minimikrav för datacenters energiprestanda.*
+*EU:s upphandling av upp till sju AI-gigafabriker går in i ett avgörande skede. Sverige har nu fått mandat att medfinansiera framtida beräkningskapacitet med upp till 50 miljoner euro under fem år, genom en svensk nod kopplad till en planerad gigafabrik i Finland. Samtidigt har upphandlingen fått två olika slutdatum: 3 december 2026 för stora anläggningar och 4 februari 2027 för medelstora.*
 
 ## Nästa steg i Europas digitala industripolitik
 
@@ -58,14 +58,24 @@ Det blir viktigt att följa om anläggningarna drivs som öppna infrastrukturer,
 
 Den offentliga finansieringen är en katalysator, men det betyder inte att staten automatiskt äger den infrastruktur som byggs. Det måste granskas projekt för projekt.
 
-## Vad ska bevakas före den 12 november?
+## Sverige köper tillgång till kapacitet – inte en färdig svensk gigafabrik
 
-1. Vilka konsortier lämnar slutliga anbud?
-2. Vilka medlemsstater och regioner erbjuder mark, el och offentligt kapital?
-3. Vilka operatörer, chipleverantörer och investerare ingår?
+**PRIMÄRKÄLLA:** Riksdagen beslutade den 21 oktober 2026 om betänkande 2026/27:FiU12. Regeringen eller en utsedd myndighet får därmed ingå fleråriga ekonomiska åtaganden för beräkningskraft inom EuroHPC:s upphandling. Det svenska åtagandet kan uppgå till högst **50 miljoner euro under fem år**, med möjlighet till ytterligare frivilliga åtaganden.
+
+Den 22 oktober gav regeringen Skatteverket befogenhet att ingå det gemensamma upphandlingsavtalet med EuroHPC JU. Regeringens pressmeddelande beskriver upplägget som en **nod i Sverige kopplad till en AI-gigafabrik i Finland**. Sverige förbinder sig att köpa beräkningskraft från den framtida infrastrukturen.
+
+Detta är en konkret svensk deltagande- och upphandlingsåtgärd, men inte ett beslut om att bygga en fullskalig AI-gigafabrik i Sverige. Riksdagens bemyndigande är inte heller detsamma som att hela beloppet redan har betalats ut. Plats, teknisk utformning, faktisk nätbelastning, operatör, tilldelning av kapacitet och avtalsvillkor återstår att följa.
+
+**Oberoende bekräftelse:** DataCenterSweden beskriver beslutet som tillgång till beräkningskraft, inte som ett beslut om en svensk datacenteretablering. Den skillnaden är central när offentlig medfinansiering jämförs med privata bygginvesteringar.
+
+## Vad ska bevakas i nästa upphandlingssteg?
+
+1. Vilka konsortier lämnar anbud till Lot 2 senast den 3 december 2026?
+2. Vilka medlemsstater färdigställer de nationella budgetåtaganden som behövs för Lot 1 före den 4 februari 2027?
+3. Vilken myndighet och vilka operatörer utformar den svenska noden och den finska gigafabrikens koppling?
 4. Hur mycket av den privata finansieringen är bindande och hur mycket är avsiktsförklaringar?
 5. Vilka villkor ställs på öppen tillgång, dataskydd, säkerhet och energiprestanda?
-6. Hur ska elnäts- och vattenkostnader fördelas mellan operatörer och samhälle?
+6. Vilken elnätskapacitet, kylning, vattenförsörjning och redundans kräver de konkreta platserna?
 
 ## Slutsats
 
@@ -81,6 +91,10 @@ Den 3 december 2026 är kontrollpunkten för stora anläggningar; den 4 februari
 - EU-kommissionen, upphandling av AI-gigafabriker, 30 juli 2026: https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion
 - EU Funding & Tenders Portal, upphandlingsdokument: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/bc712395-692d-41ab-aa25-8e254ae86eb2-CN
 - EU-kommissionen, konsultation om datacenters energiprestanda, 21 september 2026: https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en
+- Sveriges riksdag, betänkande 2026/27:FiU12 och beslut 21 oktober 2026: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/andring-i-statens-budget-for-2026-bemyndigande_he01fiu12/
+- Regeringen, *Nästa steg i satsningen på europeiska AI-gigafabriker*, 22 oktober 2026: https://www.regeringen.se/pressmeddelanden/2026/10/nasta-steg-i-satsningen-pa-europeiska-ai-gigafabriker/
+- EuroHPC JU, uppdaterade slutdatum för Lot 1 och Lot 2, 5 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- DataCenterSweden, *Riksdagen öppnar för svensk medfinansiering av EU:s AI-gigafabriker*, 21 oktober 2026: https://www.datacentersweden.se/news/riksdagen-eurohpc-ai-gigafactories-2026-10/
 
 **Kompletterande information**
 - EuroHPC JU, uppdaterad utlysning och nya tidsfrister, 5 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
@@ -91,7 +105,8 @@ Den 3 december 2026 är kontrollpunkten för stora anläggningar; den 4 februari
 - **Planerad finansiering:** Upp till 10 miljarder euro i offentlig finansiering och minst 20 miljarder i förväntad privat investering.
 - **Inte utbetalt kapital:** Beloppen ska inte beskrivas som redan investerade pengar.
 - **Tidsgräns:** Upphandlingen har två slutdatum: 3 december 2026 för Lot 2 (stora anläggningar) och 4 februari 2027 för Lot 1 (medelstora anläggningar), enligt EuroHPC:s uppdatering den 5 november.
+- **Svenskt åtagande:** Riksdagen har bemyndigat upp till 50 miljoner euro över fem år; regeringen anger en svensk nod kopplad till en gigafabrik i Finland. Detta är köp av framtida beräkningskapacitet, inte en bekräftad svensk gigafabriksbyggnad eller redan utbetalt kapital.
 - **Regelverk:** Konsultationen om energiprestanda är öppen till 14 december 2026; lagförslag väntas under andra kvartalet 2027.
 - **Öppet:** Slutliga anbud, konsortier, lokaliseringar, projektfinansiering, tillgångsmodell, nätanslutningar och vattenbehov.
 
-**Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+**Status:** Utkast uppdaterat 6 november 2026 med Riksdagens bemyndigande, regeringens svenska nod och EuroHPC:s nya tvådelade tidsfrist. För chefredaktörens granskning; inte publicerat.
