@@ -17,6 +17,20 @@ Det kommersiella segmentet växte 148 procent på årsbasis. Den amerikanska myn
 
 Detta är bolagets egna redovisade siffror, inte en oberoende värdering av hur väl produkterna fungerar hos kunderna.
 
+## Vad 10-Q-rapporten visar om framtida intäkter och molnberoende
+
+Palantirs SEC-inlämnade 10-Q ger en mer detaljerad bild än kvartalsrubrikerna.
+
+Per den 30 september 2026 redovisade bolaget **4,9 miljarder dollar i återstående prestationsåtaganden** – kontrakterade intäkter som ännu inte redovisats. Palantir räknar med att redovisa cirka 44 procent av detta under de följande tolv månaderna, 37 procent under de därpå följande 13–36 månaderna och resterande belopp senare.
+
+Bolaget påpekar samtidigt att många kundavtal kan sägas upp av kunden med mindre än tolv månaders varsel. Därför är återstående prestationsåtaganden inte samma sak som alla framtida förväntade intäkter eller en garanti för att varje kund stannar hela den ursprungliga avtalstiden.
+
+10-Q-rapporten redovisar också ett långfristigt molnköpsåtagande. Efter en ändring i mars 2026 har Palantir förbundit sig att köpa minst **5,6 miljarder dollar** i tredjepartsbaserade molntjänster över tio avtalsår, till och med den 29 februari 2036. Årliga minimiköp ligger enligt noten mellan 268 miljoner och 979 miljoner dollar.
+
+Detta är inte en skuld på 5,6 miljarder dollar som förfaller omedelbart. Det är ett långfristigt minimiköpsåtagande som visar hur beroende plattformens drift och tillväxt är av extern molninfrastruktur.
+
+Palantir uppgav också att bolaget den 30 september inte hade några utestående skuldsaldon och hade 500 miljoner dollar i outnyttjad revolverande kredit. Det ger en annan bild än att bara läsa de stora framtida åtagandena: bolaget hade ingen redovisad utestående skuld i den rapporterade kreditfaciliteten, men har samtidigt betydande långfristiga köp- och driftåtaganden.
+
 ## Omsättning är inte samma sak som nya långsiktiga åtaganden
 
 Reuters noterade en viktig motbild i samma rapportering: värdet av nya amerikanska kommersiella kontrakt, mätt som total contract value, ökade med 11 procent jämfört med året före – betydligt långsammare än föregående kvartals ökning på över 153 procent.
@@ -65,7 +79,7 @@ Det är därför offentlig kontroll måste handla om mer än vem som formellt ä
 
 ## Slutsats
 
-Palantirs kvartalsrapport visar ett företag med mycket snabb tillväxt och en allt större kommersiell kundbas. NHS-frågan visar samtidigt hur svårt det är för offentliga institutioner att byta leverantör när en teknisk plattform blivit en del av verksamhetens vardag.
+Palantirs kvartalsrapport visar ett företag med mycket snabb tillväxt och en allt större kommersiell kundbas. SEC-rapporten visar samtidigt hur den växande plattformen är beroende av långfristiga molnåtaganden och hur kontrakterade intäkter fördelas över flera år. NHS-frågan visar hur svårt det är för offentliga institutioner att byta leverantör när en teknisk plattform blivit en del av verksamhetens vardag.
 
 Det är inte ett argument för att varje stort AI-avtal är fel. Det är ett argument för att offentlig makt måste kunna mäta resultat, redovisa kostnader och behålla en realistisk möjlighet att byta system.
 
@@ -91,11 +105,12 @@ Om en regering förlänger ett avtal därför att ett leverantörsbyte anses fö
 
 ## Faktastatus och öppna kontrollpunkter
 
-- **Bolagets egna uppgifter:** Omsättning, segmentintäkter och vinst kommer från Palantirs rapportering.
+- **Bolagets egna uppgifter:** Omsättning, segmentintäkter, GAAP-vinst, återstående prestationsåtaganden, molnköpsåtagande och kreditfacilitet kommer från Palantirs rapportering.
 - **Oberoende rapportering:** Reuters bekräftar huvuddragen i resultatet och beskriver inbromsningen i kontraktsvärde.
 - **Offentlig/parlamentarisk dokumentation:** House of Commons Library redogör för avtalsperioden, break clause och regeringens tidigare besked.
 - **Oberoende granskning:** Guardian bygger sin rapport om 29 truster på över 100 informationsförfrågningar. NHS England har lämnat ett bemötande och beskrivit en bredare definition av rapporterade fördelar.
 - **Rapporterad men ännu inte formellt offentliggjord uppgift:** FT och The Times uppger att regeringen lutar åt eller beslutat att förlänga avtalet. Ett formellt publicerat regeringsbeslut har inte hämtats.
+- **Viktig distinktion:** 5,6 miljarder dollar är ett långfristigt minimiköpsåtagande för molntjänster, inte en omedelbar skuld. Återstående prestationsåtaganden på 4,9 miljarder dollar är inte detsamma som garanterade framtida kassainbetalningar.
 - **Öppet:** Hämta senaste upphandlings- och avtalsdokument, regeringens slutliga besked och OSR:s fortsatta bedömning. Begär bemötande från Palantir, NHS England och berörda parlamentariska utskott.
 
 **Status:** Komplett artikelutkast för chefredaktörens granskning. Inte publicerat.
