@@ -102,7 +102,7 @@ Detta tillägg uppdaterar den tidigare matrisen efter ytterligare kontroll av ny
 - Bergsstaten, June 2026 notices – Storåsen nr 300: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/juni/
 - ISOF, Sjöodjur / Storsjöodjuret: https://www.isof.se/folkminnen/amnesomraden/folktro-och-forestallningsvarldar/lar-dig-mer-om-vasen-i-folktron/vasengalleriet/sjoodjur
 - Riksantikvarieämbetet, Runor: https://www.raa.se/hitta-information/runor/
-- Politico, Peter Thiel Nashville lectures, 8 oktober 2026: https://www.politico.com/news/2026/10/08/peter-thiel-anti-christ-lectures-obama-pope-01110215
+- Politico, Peter Thiel Nashville lectures, 8 oktober 2026: https://www.politico.com/news/2026/10/08/peter-thiel-ai-obama-pope-leo-01112122
 - Politico, Thiel on Iran war, 21 oktober 2026: https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284
 
 **Status:** Intern arbetslogg uppdaterad efter sen cykelkontroll. Inte publicerad på webbplatsen.
