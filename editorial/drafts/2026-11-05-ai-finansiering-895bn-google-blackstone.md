@@ -130,3 +130,24 @@ Detta är en **begäran om briefing**, inte en stämning eller ett konstaterande
 - För den bredare institutionella tidslinjen: se separat utkast om USA:s kongress och teknisk makt.
 
 **Status:** Utkast kompletterat. Påståendena om Megaspeed är fortfarande utredningsuppgifter, inte fastslagna fakta.
+
+
+## Tillägg – Anthropics IPO möter ett nytt värderingstest
+
+**Publiceringsdatum:** 5 november 2026 kl. 23.41 UTC (Reuters)  
+**Källstatus:** **PARTSUPPGIFT/OBEROENDE MEDIERAPPORTERING** baserad på anonyma personer med insyn i investerardiskussioner. Anthropic avböjde kommentar. Något formellt uppskjutet erbjudande har inte meddelats.
+
+Reuters rapporterade sent den 5 november att potentiella investerare ifrågasätter om Anthropic kan genomföra den planerade roadshowen veckan den 9 november och hinna med en börsnotering i november. En värdering omkring 1,5 biljoner dollar beskrivs av vissa investerare som den övre delen av förväntningsspannet. Enligt Reuters kan bolaget behöva erbjuda en större rabatt för att säkra åtaganden, särskilt mot bakgrund av kvartalsförluster och omfattande åtaganden till AI-infrastrukturpartner.
+
+Investerare uppges också invänta oktober månads intäktsuppgift, som lämnats tom i den uppdaterade S-1-handlingen. Detta är en uppgift om investerarnas syn och den planerade processen, inte ett bekräftat beslut om att noteringen försenas. Den publicerade S-1/A och bolagets egna uppgifter om framtida åtaganden är primärdokument; Reuters uppgifter om investerarnas värderingsdiskussioner bygger på källor som inte namnges.
+
+**Varför det spelar roll:** Anthropics kapitalbehov måste bedömas mot de stora framtida inköps- och leasingåtagandena, de villkorade avtalen, strategiska partnernas finansieringskapacitet och de separata projektfinansieringsstrukturerna. En lägre IPO-värdering eller senare notering skulle kunna ändra bolagets finansieringsalternativ och förhandlingsläge, men säger inte i sig att bolaget saknar likviditet eller att åtagandena förfaller omedelbart.
+
+**Källor:**
+- Reuters, *AI backlash could threaten Anthropic IPO timing, potential investors say*, 5 november 2026: https://www.reuters.com/world/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-2026-11-05/
+- Anthropic, Form S-1/A, 2 november 2026: https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm
+- Reuters, *Democrats' election wins spooks AI investors, hammering stocks*, 5 november 2026: https://www.reuters.com/legal/government/democrats-vow-rein-trump-he-shows-off-white-house-ballroom-2026-11-05/
+
+**Öppna kontrollfrågor:** Hämta nästa S-1/A och jämför intäktsuppgiften; kontrollera om roadshowen startar den 9 november; följ prisintervall, rabatt, ankarinvesterare och eventuella ändringar av noteringsdatum. Separera varje faktisk kapitalinbetalning från avsiktsförklaringar, leasingåtaganden och kreditstöd.
+
+**Status:** Tillägg 6 november 2026 kl. 01.54 Europe/Sofia. Inte publicerat.
