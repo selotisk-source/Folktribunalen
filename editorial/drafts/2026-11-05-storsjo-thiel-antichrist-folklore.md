@@ -97,7 +97,7 @@ De tre kan mötas i en artikel om hur människor använder vatten-, monster- och
 - Uppenbarelseboken 13: https://www.biblegateway.com/passage/?search=Revelation%2013&version=NRSVUE
 
 **Ursprunglig journalistisk rapportering om Thiel**
-- Politico, *Peter Thiel slams Obama, Pope Leo in new “Antichrist” lectures*, 8 oktober 2026: https://www.politico.com/news/2026/10/08/peter-thiel-anti-christ-lectures-obama-pope-01110215
+- Politico, *Peter Thiel slams Obama, Pope Leo in new “Antichrist” lectures*, 8 oktober 2026: https://www.politico.com/news/2026/10/08/peter-thiel-ai-obama-pope-leo-01112122
 - Politico, *Peter Thiel on Trump’s Iran war*, 21 oktober 2026: https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284
 - Associated Press/andra medier återger delar av Politicos rapportering; de ska inte räknas som oberoende inspelningskällor.
 
