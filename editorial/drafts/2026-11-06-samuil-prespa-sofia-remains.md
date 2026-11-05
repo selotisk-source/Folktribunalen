@@ -64,7 +64,7 @@ Men historien blir mer korrekt när tre platser hålls isär: fyndet vid Sankt A
 - Yordan Yordanov, *A Medico-Anthropological Study of the Skeleton and a Plastic Reconstruction of the Skull of Tsar Samuil*, Acta morphologica et anthropologica 16, 2010: https://www.iempam.bas.bg/journals/acta/acta_16.pdf
 
 **Oberoende rapportering**
-- Reuters, överenskommelsen mellan Grekland och Bulgarien, 29 september 2026: https://www.reuters.com/world/europe/greece-agrees-hand-over-remains-medieval-tsar-bulgaria-2026-09-29/
+- Reuters, överenskommelsen mellan Grekland och Bulgarien, 29 september 2026: https://theprint.in/world/greece-agrees-to-hand-over-remains-of-medieval-tsar-to-bulgaria/3057315/
 - Associated Press, kvarlevornas ankomst och ceremonin i Sofia, 3 oktober 2026: https://apnews.com/article/5acf2293fc67336678ad04035a3f0698
 - The Guardian, överföringen och den kyrkliga kulturarvsöverenskommelsen, 3 oktober 2026: https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks
 
