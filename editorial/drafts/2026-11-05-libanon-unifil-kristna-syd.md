@@ -46,6 +46,20 @@ Det är också viktigt att skilja mellan tre nivåer:
 - den libanesiska statens beslut och faktiska kontroll,
 - de lokala invånarnas dokumenterade situation.
 
+## Tre alternativ för en FN-närvaro efter UNIFIL
+
+**PRIMÄRKÄLLA:** I ett brev daterat den 1 juni 2026 (S/2026/453) lade generalsekreterare António Guterres fram tre möjliga modeller för FN:s fortsatta närvaro efter UNIFIL. Brevet var ett svar på säkerhetsrådets begäran i resolution 2790 (2025). Det är förslag till rådet, inte ett beslutat mandat.
+
+- **Alternativ 1 – cirka 5 525 personer:** den mest omfattande modellen, med omkring 350 obeväpnade militära observatörer och större skydds- och stödförband. Den skulle ge den starkaste möjligheten att övervaka hela Blå linjen, stödja nedtrappning och bidra till den libanesiska arméns närvaro.
+- **Alternativ 2 – cirka 3 370 personer:** en mindre närvaro med omkring 285 observatörer och mer begränsad förmåga att övervaka och ingripa mellan parterna.
+- **Alternativ 3 – cirka 1 980 personer:** en betydligt mindre modell med omkring 215 observatörer. Den skulle i högre grad vara beroende av teknisk övervakning och sakna förmåga att fysiskt ställa sig mellan parterna.
+
+FN:s brev framhåller att en framtida närvaro skulle behöva komplettera en stärkt politisk FN-roll och stödja dialog, samordning och den libanesiska arméns utplacering. Ingen av modellerna är antagen av säkerhetsrådet.
+
+**Oberoende bekräftelse:** House of Commons Library redovisade den 24 september 2026 att ingen slutlig ersättningsstyrka hade beslutats. Reuters rapporterade den 24 juni att EU:s utrikestjänst föreslagit en separat treårig rådgivnings- och utbildningsmission för Libanons väpnade styrkor och inre säkerhetsstyrkor. Det är inte samma sak som en ny FN-styrka och kräver stöd från EU:s medlemsstater.
+
+Den institutionella luckan är därför fortfarande öppen: UNIFIL:s ordinarie operationer upphör den 31 december 2026, men en efterföljande FN- eller europeisk modell har inte fått ett slutligt mandat.
+
 ## Den institutionella frågan efter UNIFIL
 
 UNIFIL har varit en del av den internationella säkerhetsordningen i södra Libanon sedan 1978. Resolution 1701 från 2006 gav styrkan en utvidgad roll efter kriget mellan Israel och Hizbollah.
@@ -69,7 +83,10 @@ För de kristna samhällena i söder är detta inte en abstrakt geopolitisk frå
 
 **Primärkällor**
 - FN:s säkerhetsråd, resolution 2790 (2025), antagen 28 augusti 2025: https://digitallibrary.un.org/record/4087395
+- FN:s säkerhetsråd, generalsekreterarens brev S/2026/453, 1 juni 2026: https://docs.un.org/en/S/2026/453
 - FN:s UNIFIL-mandatregister: https://mandates.un.org/mandate/2790%20%282025%29
+- House of Commons Library, *Lebanon and the end of UNIFIL’s mandate in 2026*, 24 september 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-10348/
+- Reuters, EU-förslag om treårig rådgivnings- och utbildningsmission, 24 juni 2026: https://www.reuters.com/world/middle-east/eu-diplomatic-service-proposes-three-year-mission-advise-train-lebanese-forces-2026-06-24/
 - FN i Libanon, *Southern Lebanon: Families are returning. Daily Survival Remains a Struggle*, 9 oktober 2026: https://lebanon.un.org/en/324094-southern-lebanon-families-are-returning-daily-survival-remains-struggle
 
 **Oberoende rapportering**
@@ -85,4 +102,4 @@ För de kristna samhällena i söder är detta inte en abstrakt geopolitisk frå
 - **Inte belagt:** Att UNIFIL:s hela personal och alla funktioner försvinner den 31 december 2026; resolutionen anger ett tillbakadragande inom ett år och begränsade uppgifter under perioden.
 - **Öppet:** FN:s generalsekreterares plan efter 1 juni 2026, libanesiska arméns resurser, säkerhetsarrangemang för lokalsamhällen och dokumenterad situation i enskilda kristna byar.
 
-**Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+**Status:** Utkast uppdaterat 6 november 2026 med FN:s tre efterföljande alternativ och EU:s separata utbildningsförslag. Inget efterföljande mandat är beslutat; inte publicerat.
