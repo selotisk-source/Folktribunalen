@@ -1,4 +1,4 @@
-# AI-boomens stresstest: när räntan och politiken pressar datacenteraktierna
+# AI-boomens stresstest: 63 miljarder i chipfinansiering medan aktierna faller
 
 **Artikeltyp:** Ekonomi · AI-infrastruktur · kapitalmarknad  
 **Publiceringsdatum:** 5 november 2026  
@@ -31,6 +31,21 @@ Det finns en skillnad mellan politisk möjlighet och ett faktiskt beslut. Ett ny
 
 Datacenter är numera också en fråga om markanvändning, vatten, elnät, skatteincitament, lokal acceptans och nationell industripolitik. En finansieringsmodell som fungerar i ett område kan möta politiskt motstånd i ett annat.
 
+
+## 63 miljarder dollar för Broadcom-utrustning till Anthropic
+
+Den 3 november rapporterade Reuters om en av de största finansieringsaffärerna kopplade till AI-utbyggnaden. Blackstone hade veckan före gått med på att tillsammans med Bank of America, Citi och Morgan Stanley tillhandahålla **63 miljarder dollar i finansiering för att köpa Broadcoms AI-chip och nätverksutrustning till Anthropic**.
+
+Reuters beskrev affären som en av de största skuldrelaterade transaktionerna i AI-utbyggnaden. Men rapporteringen offentliggjorde inte hela den juridiska och finansiella konstruktionen. Det framgår inte av Reuters-texten vem som är formell låntagare, vem som äger utrustningen efter köpet, vilka tillgångar som pantsätts, hur återbetalningen säkras eller i vilken omfattning åtagandet hamnar i Anthropics egen balansräkning.
+
+Därför ska beloppet inte beskrivas som att Anthropic automatiskt har tagit upp en skuld på 63 miljarder dollar. Det vi kan säga är att ett stort finansieringspaket från Blackstone och tre banker ska användas för att köpa Broadcom-utrustning till bolagets AI-infrastruktur. Den exakta riskfördelningen mellan finansiär, utrustningsägare, operatör och kund är den centrala granskningsfrågan.
+
+## Sju biljoner dollar i planerade investeringar
+
+Reuters återgav också en uppskattning från S&P om att de sex största amerikanska hyperscalers – Amazon, Microsoft, Alphabet, Oracle, Meta och SpaceX – kan spendera mer än **7 biljoner dollar** på datacenter och annan AI-relaterad kapitalutbyggnad mellan 2025 och 2030. S&P bedömde samtidigt att deras samlade fria kassaflöde skulle vara negativt åtminstone till nästa år.
+
+Det är en prognos, inte ett redan investerat belopp. Men den visar varför finansieringen behöver följas som en egen industri: obligationslån, banklån, leasing, specialbolag, kundåtaganden och kreditstöd blir en del av den fysiska AI-infrastrukturen.
+
 ## Varför ett kursfall inte bevisar en AI-bubbla
 
 Aktiekurser reagerar på förväntningar, räntor, positionering och riskaptit. Ett fall på en handelsdag bevisar inte att den underliggande tekniken saknar ekonomiskt värde.
@@ -61,7 +76,8 @@ AI-modeller kan förbättras snabbt, men datacenter byggs i verkliga kommuner, p
 ## Källor
 
 - Associated Press, *A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%*, 5 november 2026: https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e
-- Reuters, *Chip selloff drags global stocks lower on AI spending concerns*, 5 november 2026: https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/
+- Reuters, *Tech-stock rout accelerates retreat from the AI trade*, 5 november 2026: https://www.reuters.com/business/view-tech-stock-rout-accelerates-retreat-ai-trade-2026-11-05/
+- Reuters, *Big-ticket tech deals need to keep pace with AI boom but risks remain high, financial leaders say*, 3 november 2026: https://www.reuters.com/business/finance/blackstone-president-says-more-tech-sector-fundraising-ahead-keep-up-with-ai-2026-11-03/
 - Reuters, *Tankers hit in Hormuz as Iran keeps up pressure after US vote*, 5 november 2026, för den geopolitiska marknadskontexten: https://www.reuters.com/world/middle-east/tankers-hit-hormuz-iran-keeps-up-pressure-after-us-vote-2026-11-05/
 - AP, *Democrats win US House and Senate, taking full control of Congress*, 5 november 2026: https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226
 
@@ -70,6 +86,8 @@ AI-modeller kan förbättras snabbt, men datacenter byggs i verkliga kommuner, p
 - **Oberoende marknadsrapportering:** AP:s tal är intradagsuppgifter med omkring en timme kvar av handeln. Reuters redovisar något andra nivåer vid en annan tidpunkt. Ingen av uppsättningarna ska presenteras som slutkurser.
 - **Politiskt faktum:** AP rapporterar att Demokraterna vunnit kontroll över båda kamrarna.
 - **Marknadstolkning:** Att högre lånekostnader och politisk osäkerhet bidrog till nedgången är rapporterad analys, inte ett fastställt orsakssamband för varje aktie.
+- **Finansieringsuppgift:** Reuters rapporterar ett Blackstone-/bankpaket på 63 miljarder dollar för Broadcom-utrustning till Anthropic. Den formella låntagaren, äganderätten, säkerheterna och återbetalningsstrukturen framgår inte av den öppna rapporteringen.
+- **Prognos, inte utfall:** S&P:s uppskattning om mer än 7 biljoner dollar i AI-relaterad capex 2025–2030 är en prognos.
 - **Inte belagt:** Att kursfallet i sig visar att AI-efterfrågan kollapsar eller att en specifik datacenterfinansiering har fallerat.
 - **Öppet:** Hämta stängningskurser, bolagens senaste skuldsättning, obligationsvillkor, leasingåtaganden, kundkoncentration, elanslutningar och lokala tillstånd för utvalda projekt.
 
