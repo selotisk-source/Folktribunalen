@@ -91,7 +91,7 @@ Om en regering förlänger ett avtal därför att ett leverantörsbyte anses fö
 
 ## Faktastatus och öppna kontrollpunkter
 
-- **Bolagets egna uppgifter:** Omsättning, segmentintäkter, vinst och likvida medel kommer från Palantirs rapportering.
+- **Bolagets egna uppgifter:** Omsättning, segmentintäkter och vinst kommer från Palantirs rapportering.
 - **Oberoende rapportering:** Reuters bekräftar huvuddragen i resultatet och beskriver inbromsningen i kontraktsvärde.
 - **Offentlig/parlamentarisk dokumentation:** House of Commons Library redogör för avtalsperioden, break clause och regeringens tidigare besked.
 - **Oberoende granskning:** Guardian bygger sin rapport om 29 truster på över 100 informationsförfrågningar. NHS England har lämnat ett bemötande och beskrivit en bredare definition av rapporterade fördelar.
