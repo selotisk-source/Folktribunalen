@@ -77,6 +77,7 @@ För FOLKTRIBUNALENS Synkronicitetsprotokoll öppnar de två artiklarna därför
 **Vetenskapliga primärkällor**
 - Angus McCoss, *Synchronistic Experience as Salience Alignment in Biosemiotic Feedback Systems*, Biosemiotics, publicerad 21 september 2026: https://link.springer.com/article/10.1007/s12304-026-09663-z
 - Steven Kotler, Michael Mannino, Scott Kelso och Karl Friston, *Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning*, Neuroscience of Consciousness, publicerad 19 oktober 2026: https://academic.oup.com/nc/article/2026/1/niag063/8943654
+- Lena Adel m.fl., *Interpersonal Cardiac Synchrony During Emotional Sharing Between Strangers*, Psychophysiology, först publicerad 27 oktober 2026: https://onlinelibrary.wiley.com/doi/full/10.1111/psyp.70431
 
 ## Faktastatus och öppna kontrollpunkter
 
@@ -87,4 +88,4 @@ För FOLKTRIBUNALENS Synkronicitetsprotokoll öppnar de två artiklarna därför
 - **Inte belagt:** Att synkronicitet är en acausal fysisk princip eller att de föreslagna neurobiologiska markörerna är en etablerad signatur för synkronicitet.
 - **Öppet:** Granska artiklarnas referensunderlag, metodkritik och kommande empiriska studier. Utforma ett protokoll med förhandsregistrering och kontrollfrekvenser.
 
-**Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+**Status:** Utkast uppdaterat 6 november 2026 med en ny experimentell studie om fysiologisk synkronisering. Studien hålls uttryckligen åtskild från Jungsk synkronicitet; inte publicerat.
