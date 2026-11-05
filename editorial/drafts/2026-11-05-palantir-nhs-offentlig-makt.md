@@ -76,6 +76,8 @@ Om en regering förlänger ett avtal därför att ett leverantörsbyte anses fö
 **Bolagets primärkälla**
 - Palantir, *Q3 2026 Letter to Shareholders*, 2 november 2026: https://www.palantir.com/q3-2026-letter/en
 - Palantir Investor Relations, Q3 2026 resultat och finansiella uppgifter: https://investors.palantir.com/
+- SEC EDGAR, Palantirs Q3 2026 Form 10-Q, inlämnad 3 november 2026: https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000048/pltr-20260930.htm
+- SEC EDGAR, Palantirs Q3 2026 resultatmeddelande (Form 8-K, Exhibit 99.1), 2 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000045/a2026q3ex991pressrelease.htm
 
 **Parlamentarisk och offentlig dokumentation**
 - House of Commons Library, *What’s happening with the NHS Federated Data Platform?*, 29 oktober 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-12264/
