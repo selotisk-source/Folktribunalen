@@ -35,7 +35,7 @@ Det offentliga materialet visar ännu inte hela avtalskedjan: exakt avtalspart, 
 
 ## NVIDIA: kongressen vill höra Jensen Huang
 
-Den 5 november rapporterade Reuters att tre republikanska ordförande i representanthusets utskott – Brian Mast, John Moolenaar och Eric Crawford – begärt en sluten briefing med NVIDIAs vd Jensen Huang den **18 november**.
+Den 5 november rapporterade Reuters att tre republikanska ordförande i representanthusets utskott – Brian Mast, John Moolenaar och Rick Crawford (Eric A. “Rick” Crawford) – begärt en sluten briefing med NVIDIAs vd Jensen Huang den **18 november**.
 
 Brevet är daterat den 4 november. Enligt Reuters har ledamöterna reagerat på en *New York Times*-rapport om att amerikanska myndigheter granskar Alice Huang, en tidigare chef på Singapore-baserade Megaspeed. Megaspeed köper AI-chip från NVIDIA och misstänks enligt rapporteringen ha hjälpt Beijing att få tillgång till avancerade chip som är förbjudna att exportera till Kina.
 
@@ -104,7 +104,7 @@ Den centrala frågan för FOLKTRIBUNALEN blir därför: **kan kongressen visa ve
 ## Källor
 
 **Primära dokument och institutionella källor**
-- U.S. Senator Richard Blumenthal, officiell pressrelease och brev om Starlink/Starshield, 22 oktober 2026: https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-announces-congressional-inquiry-into-starlink-and-starshield
+- U.S. Senator Richard Blumenthal, officiell pressrelease om Starlink/Starshield-granskningen, 22 oktober 2026: https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-announces-congressional-inquiry-into-starlink-and-starshield
 - U.S. Senate, Blumenthals brev till SpaceX, 22 oktober 2026: https://www.hsgac.senate.gov/subcommittees/investigations/library/files/2026-10-22-letter-from-ranking-member-blumenthal-to-spacex/
 - Federal Records Act, 44 U.S.C. Chapter 31: https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter31&edition=prelim
 
