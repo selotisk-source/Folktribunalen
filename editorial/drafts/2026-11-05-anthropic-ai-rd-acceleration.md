@@ -39,7 +39,9 @@ Det är ett viktigt nästa steg. En sådan redovisning kan ge ytterligare underl
 
 METR publicerade dessutom en separat genomgång av Anthropics offentliga riskrapport från augusti. Där ifrågasätter METR formuleringen att accelerationen låg “under en faktor två”, eftersom den offentliga formuleringen kan ge intrycket att den låg tydligt under två, medan siffrorna i den interna versionen enligt METR låg omkring 1,97. METR:s egen analys av ledande indikatorer gav ett spann på 1,3–2,8 beroende på definition och tidsperiod. Även här betonar METR att metodiken är osäker och att de olika måtten inte utan vidare kan översättas till en enda total utvecklingstakt.
 
-Detta är inte i sig belägg för att Anthropic medvetet vilselett allmänheten. Det visar däremot hur mycket ordval, urval av mätetal och redaktionella sammanfattningar betyder när bolagen själva publicerar riskbedömningar för en teknik de utvecklar.
+Detta är inte i sig belägg för att Anthropic medvetet vilselett allmänheten. METR gör också en viktig avgränsning: organisationen bedömer fortfarande att den direkta katastrofrisken från de modeller som fanns den 15 juli var låg, även om det är plausibelt att ett tidigt varningströskelvärde hade passerats. METR:s invändning gäller alltså främst hur starkt den offentliga rapporten hävdade att tröskeln inte var nådd – inte att den redan hade bevisat en nära förestående katastrof.
+
+Det visar däremot hur mycket ordval, urval av mätetal och redaktionella sammanfattningar betyder när bolagen själva publicerar riskbedömningar för en teknik de utvecklar.
 
 ## Den stora kunskapsluckan: vad fick allmänheten inte se?
 
