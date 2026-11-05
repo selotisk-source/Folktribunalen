@@ -104,3 +104,23 @@ För Cavecore och civil energilagring är lärdomen att varje plats måste bedö
 - **Öppet:** Hämta Finlex-lagtext, RAKKA:s objektsmetadata, Posivas kommande driftsättningsbesked och Zero Mines miljöärende.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+## Sen lagstiftningskontroll – Finland och CRMA, 5 november
+
+Den tidigare versionen beskrev HE 133/2026 som ett förslag vars slutliga lagstatus återstod att kontrollera. Den formuleringen behöver preciseras.
+
+**PRIMÄRKÄLLA:** Eduskuntas ärendesökning anger HE 133/2026 som behandlat och **godkänt med ändringar**. Ekonomiutskottets betänkande TaVM 26/2026 redovisar att GTK ska ansvara för det nationella prospekteringsprogrammet och databasen över nedlagda utvinningsavfallsområden. Utskottet föreslog också en precisering av vem som ansvarar för marknadskontrollen av produkter med permanenta magneter.
+
+Den föreslagna ikraftträdandedagen var **1 november 2026**. I denna kontroll har den slutliga promulguerade Finlex-texten och lagnumret ännu inte lokaliserats. Därför är det korrekt att säga att riksdagen godkänt lagpaketet med ändringar och att avsedd ikraftträdandedag passerat; det är ännu inte korrekt att hänvisa till ett kontrollerat Finlex-lagnummer.
+
+**PRIMÄRKÄLLA:** EU:s förordning (EU) 2024/1252, artikel 27.3, anger att operatörer av befintliga utvinningsavfallsanläggningar ska lämna in den ekonomiska bedömningsstudien senast **24 november 2026**. Studien ska bedöma mängder, halter samt teknisk och ekonomisk återvinningsbarhet för kritiska råmaterial i avfallet. Detta är inte ett generellt krav på alla gruvor oavsett om de omfattas av reglerna om utvinningsavfallsanläggningar.
+
+Tidsfristen är nu en konkret kontrollpunkt för myndigheter och berörda verksamhetsutövare. Den visar också varför RAKKA-databasen och GTK:s nya myndighetsuppgifter har betydelse: det handlar inte bara om att visa gamla gruvområden på en karta, utan om att få fram jämförbara data för potentiell återvinning och miljömässig hantering.
+
+**Källor**
+- Eduskunta, TaVM 26/2026 / HE 133/2026: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732
+- Eduskuntas ärendesökning, status HE 133/2026: https://www.eduskunta.fi/fi/haku?asiasanat=j%C3%A4tteet&category=asioiden-kasittelytiedot
+- EU-förordning 2024/1252, artikel 27: https://eur-lex.europa.eu/eli/reg/2024/1252/oj
+- GTK, myndighetsuppgifter enligt CRMA, 13 augusti 2026: https://www.gtk.fi/ajankohtaista/geologian-tutkimuskeskukselle-saadetaan-eun-kriittisten-raaka-aineiden-asetuksen-mukaisia-tehtavia/
+
+**Status:** Utkast korrigerat med parlamentariskt läge och EU-rättslig tidsfrist. Finlex-publicering/lagnummer återstår.
