@@ -15,7 +15,7 @@ Kommissionen beskriver finansieringsramen som upp till 10 miljarder euro i EU- o
 
 Upphandlingen administreras inom EuroHPC-systemet. Den ska kunna leda till upp till sju projekt, och 18 medlemsstater har anslutit sig till den gemensamma upphandlingsramen.
 
-**Sista dag för anbud är den 12 november 2026.** Beslut om vilka projekt som väljs väntas i början av 2027. De utvalda anläggningarna ska därefter kunna tas i drift inom högst 18 månader från att kontraktet har undertecknats.
+**Upphandlingen har två olika slutdatum.** För stora AI-gigafabriker (Lot 2) är sista anbudsdag den 3 december 2026 kl. 17.00. För medelstora AI-gigafabriker (Lot 1) har EuroHPC den 5 november förlängt fristen till den 4 februari 2027 kl. 17.00. De utvalda anläggningarna ska därefter kunna tas i drift inom högst 18 månader från att kontraktet har undertecknats.
 
 ## Gigafabriker är mer än stora serverhallar
 
@@ -73,7 +73,7 @@ EU:s AI-gigafabriker är ett försök att göra europeisk AI-kapacitet till en i
 
 Den avgörs också av vem som finansierar byggandet, vem som äger anläggningarna, vem som får tillgång till kapaciteten och hur mycket el och vatten som krävs för att hålla dem i drift.
 
-Den 12 november är därför en viktig kontrollpunkt. Då stänger upphandlingen och går från politisk ambition till konkreta projektförslag.
+Den 3 december 2026 är kontrollpunkten för stora anläggningar; den 4 februari 2027 gäller medelstora anläggningar. EuroHPC meddelade den 5 november att Lot 1 fått förlängd frist medan Lot 2 behåller sitt tidigare datum. Det är två separata tidsfrister, inte en gemensam deadline.
 
 ## Källor
 
@@ -83,14 +83,14 @@ Den 12 november är därför en viktig kontrollpunkt. Då stänger upphandlingen
 - EU-kommissionen, konsultation om datacenters energiprestanda, 21 september 2026: https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en
 
 **Kompletterande information**
-- EU Digital Skills & Jobs Platform, tidsplan och upphandlingsstruktur: https://digital-skills-jobs.europa.eu/en/latest/news/eu-ai-gigafactories-call-open-until-12-november-targeting-over-eu30-billion-investment
+- EuroHPC JU, uppdaterad utlysning och nya tidsfrister, 5 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
 
 ## Faktastatus och öppna kontrollpunkter
 
 - **Primärkälla:** EU-kommissionen har offentliggjort upphandlingen och konsultationen.
 - **Planerad finansiering:** Upp till 10 miljarder euro i offentlig finansiering och minst 20 miljarder i förväntad privat investering.
 - **Inte utbetalt kapital:** Beloppen ska inte beskrivas som redan investerade pengar.
-- **Tidsgräns:** Upphandlingen stänger 12 november 2026; beslut väntas i början av 2027.
+- **Tidsgräns:** Upphandlingen har två slutdatum: 3 december 2026 för Lot 2 (stora anläggningar) och 4 februari 2027 för Lot 1 (medelstora anläggningar), enligt EuroHPC:s uppdatering den 5 november.
 - **Regelverk:** Konsultationen om energiprestanda är öppen till 14 december 2026; lagförslag väntas under andra kvartalet 2027.
 - **Öppet:** Slutliga anbud, konsortier, lokaliseringar, projektfinansiering, tillgångsmodell, nätanslutningar och vattenbehov.
 
