@@ -125,3 +125,29 @@ Den centrala frågan för FOLKTRIBUNALEN blir därför: **kan kongressen visa ve
 - **Öppet:** Hämta NVIDIAs originalbrev; kontrollera Pentagon/SpaceX-svar 5 november och briefing 12 november; begär Starshield-avtalets offentliga delar; följ delstatscertifiering och den nya kongressens utskottsorganisation.
 
 **Status:** Artikelutkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Tillägg – valresultatet får en direkt lokal och finansiell AI-effekt
+
+**Händelsedatum:** 3–5 november 2026  
+**Publiceringsdatum för källorna:** 4–5 november 2026  
+**Källstatus:** AP:s valbedömning är **OBEROENDE BEKRÄFTELSE**; lokala omröstningar och kandidatlöften är återgivna av The Guardian; marknadsreaktionen är Reuters rapportering. Delstatscertifiering och lagstiftning återstår.
+
+Associated Press rapporterade den 5 november att Demokraterna vunnit kontroll över både representanthuset och senaten. Den nya kongressen tillträder först i januari 2027. Fram till dess behåller den avgående kongressen sina befogenheter, vilket innebär att den republikanska majoriteten fortfarande styr under den så kallade lame-duck-perioden.
+
+Valet gav också ett mer direkt utslag mot datacenterutbyggnaden på lokal nivå. The Guardian rapporterade den 4 november, uppdaterat den 5 november, att datacenterfrågor fanns på valsedlar i minst 40 jurisdiktioner i tio delstater. I Ohio antog minst 14 kommuner förbud eller begränsningar; i Maine antog åtta kommuner tillfälliga moratorier; och i Emporia, Kansas, röstade väljarna igenom ett förbud mot datacenter med stor påverkan. Hardwood i North Dakota var ett undantag där begränsningen röstades ned. Det är lokala beslut med olika rättslig räckvidd, inte ett nationellt förbud.
+
+På delstatsnivå har nyvalda guvernörer i Texas, Georgia och Ohio uttalat stöd för moratorier eller hårdare villkor. Texas guvernörsval vinnare Gina Hinojosa har lovat att stoppa ny datacenterbyggnation och öka lokalt inflytande. Dessa uttalanden är politiska löften; de blir inte bindande förrän de omsätts i beslut, regler eller lag.
+
+Reuters rapporterade den 5 november att Nasdaq föll 5,56 procent, den största dagsnedgången på 19 månader. Reuters kopplade marknadsoron till utsikterna om hårdare regler för AI-infrastruktur, bland annat krav på att skydda hushåll från högre elkostnader och krav på oberoende testning av AI-system. Detta är en rapporterad marknadsreaktion och investerartolkning, inte bevis för att en viss valåtgärd redan har ändrat datacenterbolagens kassaflöden.
+
+**Institutionell distinktion:** Den nya kongressen kan från januari 2027 använda utskottsmakt, anslag, utfrågningar och lagstiftning. Lokala moratorier och delstatliga tillståndsregler verkar däremot genom egna rättsliga system och kan få effekt tidigare. Därför bör datacenterfrågan inte reduceras till en enda federal politisk förändring.
+
+**Källor:**
+- AP, *Democrats win US House and Senate, taking full control of Congress*, 5 november 2026: https://apnews.com/article/f126e12e05b579a327b98481c0ae2226
+- The Guardian, *Datacenters were on the ballot. US voters rejected them*, 4 november 2026, uppdaterad 5 november: https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections
+- Reuters, *Democrats' election wins spooks AI investors, hammering stocks*, 5 november 2026: https://www.reuters.com/legal/government/democrats-vow-rein-trump-he-shows-off-white-house-ballroom-2026-11-05/
+
+**Öppna kontrollfrågor:** Följ delstaternas och kommunernas certifierade resultat, rättslig utformning av moratorierna, eventuella överklaganden, Hinojosas tillträde i januari 2027, samt eventuella federala lagförslag om datacenterel, nätkostnader och oberoende AI-testning.
+
+**Status:** Tillägg 6 november 2026 kl. 01.54 Europe/Sofia. Inte publicerat.
