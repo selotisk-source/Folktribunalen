@@ -25,7 +25,7 @@ Institutet för språk och folkminnen beskriver Storsjöodjuret som det mest kä
 
 Det är ett folkloristiskt material som kan undersökas historiskt: vilka berättade, när skrevs berättelserna ned, vilka detaljer återkommer och hur har motivet förändrats? Men vittnesmål om en upplevelse är inte i sig en zoologisk identifiering.
 
-En ofta upprepad berättelse knyter ett sjöodjur till årtalet 1635 och till en magisk bindning i sjön. I denna kontroll har den exakta ursprungshandlingen inte hämtats ur ett samtida arkiv. Därför använder vi myndighetens försiktigare datering – källor från 1600-talet – och behandlar den mer precisa 1635-berättelsen som en tradition som kräver separat proveniensgranskning.
+ISOF:s arkiv visar också hur berättelsen om stenen och odjuret utvecklats i muntlig tradition. En uppteckning som berättades 1955 av Eric Andersson, född 1851, återger en sägen om hur Kettil Jämte band odjuret med en formel på en sten vid Frösön. En annan uppteckning skickades till arkivet 1965 och återger en berättelse om en observation omkring 1898. Händelsedatum och uppteckningsdatum är alltså olika. Dessa är folkloristiska vittnesmål, inte samtida runinskrift eller zoologiska fynd.\n\nEn ofta upprepad berättelse knyter ett sjöodjur till årtalet 1635 och till en magisk bindning i sjön. I denna kontroll har den exakta ursprungshandlingen inte hämtats ur ett samtida arkiv. Därför använder vi myndighetens försiktigare datering – källor från 1600-talet – och behandlar den mer precisa 1635-berättelsen som en tradition som kräver separat proveniensgranskning.
 
 ### Vad kan prövas?
 
@@ -92,7 +92,7 @@ De tre kan mötas i en artikel om hur människor använder vatten-, monster- och
 
 **Primära myndighets- och kulturarvskällor**
 - Institutet för språk och folkminnen, *Sjöodjur*: https://www.isof.se/folkminnen/amnesomraden/folktro-och-forestallningsvarldar/lar-dig-mer-om-vasen-i-folktron/vasengalleriet/sjoodjur
-- Riksantikvarieämbetet, *Runor*: https://www.raa.se/hitta-information/runor/
+- Riksantikvarieämbetet, *Jämtland och Härjedalen – runstenar*, uppdaterad 22 maj 2026: https://www.raa.se/kulturarv/runor-och-runstenar/runstenar-i-sverige/jamtland-och-harjedalen/\n- Riksantikvarieämbetet, *Runor*: https://www.raa.se/hitta-information/runor/
 - Visit Östersund, *Frösö Runestone*: https://visitostersund.se/en/froso-runestone-the-worlds-northernmost/
 - Uppenbarelseboken 13: https://www.biblegateway.com/passage/?search=Revelation%2013&version=NRSVUE
 
