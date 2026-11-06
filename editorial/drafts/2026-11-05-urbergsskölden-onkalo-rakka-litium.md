@@ -144,7 +144,7 @@ Den nordiska fördelningen är särskilt relevant för Urbergsskölden:
 
 | Land | Projekt | Huvudsaklig råvara eller värdekedja |
 |---|---|---|
-| Finland | CoNiKo, Karleby | Kobolt- och nickelraffinering |
+| Finland | CoNiKo (Coniko), Karleby | Kobolt- och nickelraffinering |
 | Finland | Hautalampi, Outokumpu | Kobolt, nickel och koppar |
 | Finland | Project Arctial, Karleby–Kronoby | Primär aluminiumproduktion |
 | Finland | Sokli, Savukoski | Sällsynta jordartsmetaller för magneter; fyndigheten innehåller även fosfat, niob och järn |
@@ -155,9 +155,9 @@ Svenska Yle bekräftar de fem finländska projekten. Kommissionens beslut skilje
 
 ### Strategisk status är inte samma sak som finansiering eller gruvtillstånd
 
-CRMA-statusen innebär prioriterad handläggning, tidsfrister för tillståndsprocesser och bättre förutsättningar att söka finansiering. Den innebär **inte** att projektet automatiskt får EU-pengar, att nationell lagstiftning sätts ur spel eller att miljöprövning kan hoppas över.
+CRMA-statusen innebär prioriterad handläggning och bindande tidsfrister för tillståndsprocesser: högst 27 månader för utvinningsprojekt och 15 månader för andra projekt. Statusen kan också stärka möjligheten att söka finansiering och, där nationell lag redan medger det, söka särskilda undantag. Den innebär däremot **inte** en generell dispens från miljölagstiftningen, att kommunala beslut sätts ur spel eller att lagstadgade prövningssteg kan hoppas över.
 
-Svenska Yle citerade den 9 oktober en sakkunnig vid Finlands arbets- och näringsministerium som uttryckligen sade att statusen inte innebär direkt finansiering. Kommunala beslut och den nationella miljölagstiftningen gäller fortfarande. CRMA:s snabbare handläggning ska därför inte beskrivas som ett generellt undantag från miljökrav.
+Svenska Yle citerade den 9 oktober en sakkunnig vid Finlands arbets- och näringsministerium som uttryckligen sade att statusen inte innebär direkt finansiering. Yle rapporterade samtidigt att listningen kan underlätta ansökningar om vissa undantag, men kommunala beslut och den nationella miljölagstiftningen gäller fortfarande. Karleby stads utvecklingsdirektör sade att projektmapparna i praktiken flyttas högre upp i myndigheternas kö, inte att lagstadgade steg försvinner. CRMA ska därför beskrivas som prioriterad och tidsatt handläggning, inte som ett generellt undantag från miljökrav.
 
 ### Viscaria: strategisk status möter en ännu öppen projektfinansiering
 
