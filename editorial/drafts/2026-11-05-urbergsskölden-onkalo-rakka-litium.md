@@ -129,3 +129,86 @@ Tidsfristen är nu en konkret kontrollpunkt för myndigheter och berörda verksa
 - GTK, myndighetsuppgifter enligt CRMA, 13 augusti 2026: https://www.gtk.fi/ajankohtaista/geologian-tutkimuskeskukselle-saadetaan-eun-kriittisten-raaka-aineiden-asetuksen-mukaisia-tehtavia/
 
 **Status:** Utkast korrigerat med parlamentariskt läge och EU-rättslig tidsfrist. Finlex-publicering/lagnummer återstår.
+
+
+## Ny kontroll – EU:s andra CRMA-lista och Viscarias Q3-rapport, 6 november 2026
+
+### EU pekar ut 46 nya strategiska projekt
+
+**Besluts-/publiceringsdatum:** 9 oktober 2026.  
+**Källstatus:** **PRIMÄRKÄLLA** från EU-kommissionen; **OBEROENDE BEKRÄFTELSE** från Svenska Yle.
+
+EU-kommissionen lade den 9 oktober till **46 nya strategiska projekt inom unionen**, fördelade på 16 medlemsstater. Projekten berör 15 av EU:s 17 strategiska råvaror. Tillsammans med den första EU-omgångens 47 projekt och 13 projekt i länder utanför unionen omfattar den samlade listan 106 strategiska projekt.
+
+Den nordiska fördelningen är särskilt relevant för Urbergsskölden:
+
+| Land | Projekt | Huvudsaklig råvara eller värdekedja |
+|---|---|---|
+| Finland | CoNiKo, Karleby | Kobolt och nickel |
+| Finland | Hautalampi, Outokumpu | Kobolt, nickel och koppar |
+| Finland | Project Arctial, Karleby–Kronoby | Aluminiumförädling |
+| Finland | Sokli, Savukoski | Fosfat och associerade råvaror |
+| Finland | Suhanko, Ranua | PGM och andra metaller |
+| Sverige | Viscaria, Kiruna | Koppar |
+
+Svenska Yle bekräftar de fem finländska projekten och redovisar dem som tre utvinningsprojekt och två förädlingsprojekt. Viscarias egen information bekräftar att gruvan i Kiruna ingår i kommissionens uppdaterade lista.
+
+### Strategisk status är inte samma sak som finansiering eller gruvtillstånd
+
+CRMA-statusen innebär prioriterad handläggning, tidsfrister för tillståndsprocesser och bättre förutsättningar att söka finansiering. Den innebär **inte** att projektet automatiskt får EU-pengar, att nationell lagstiftning sätts ur spel eller att miljöprövning kan hoppas över.
+
+Svenska Yle citerade den 9 oktober en sakkunnig vid Finlands arbets- och näringsministerium som uttryckligen sade att statusen inte innebär direkt finansiering. Kommunala beslut och den nationella miljölagstiftningen gäller fortfarande. CRMA:s snabbare handläggning ska därför inte beskrivas som ett generellt undantag från miljökrav.
+
+### Viscaria: strategisk status möter en ännu öppen projektfinansiering
+
+**Publiceringsdatum för bolagets rapport:** 5 november 2026 kl. 07.30.  
+**Period:** juli–september 2026.  
+**Källstatus:** **PRIMÄRKÄLLA/PARTSUPPGIFT** för bolagets finansiella uppgifter och prognoser.
+
+Gruvaktiebolaget Viscarias Q3-rapport visar:
+
+- Nettoomsättning: **0 kronor** under kvartalet.
+- Resultat efter skatt: **−21,0 miljoner kronor**.
+- Kassaflöde för kvartalet: **123 miljoner kronor**.
+- Likvida medel den 30 september: **1 471 miljoner kronor**.
+- Eget kapital den 30 september: **5 341 miljoner kronor**.
+- Aktiverade utgifter för prospektering och utvärdering under kvartalet: **152 miljoner kronor**.
+
+Bolaget redovisar också ett borrhål med sex meter på 1,9 procent koppar cirka 700 meter utanför den befintliga mineraltillgången. Det är ett bolagsrapporterat prospekteringsresultat och ska inte förväxlas med en uppdaterad mineralreserv eller ett nytt tillstånd.
+
+En riktad nyemission och konvertering av aktieägarlån hade ett totalt transaktionsvärde på cirka **2,4 miljarder kronor**. Av detta avsåg **681 miljoner kronor** aktieägarlån som omvandlades till eget kapital. Viscaria uppgav den 29 oktober att skuldfinansieringen för återöppningen fortfarande pågår, med ING och Société Générale som ledande arrangörer och kreditgodkännande från dessa banker väntat omkring årsskiftet. Bolaget räknar med att slutföra finansieringsprocessen inom 90 dagar.
+
+Detta är en viktig skillnad: bolaget har betydande likvida medel och en genomförd kapitalanskaffning, men den planerade bankfinansieringen är ännu inte beskriven som slutligt stängd eller utbetald. Bolagets mål om första säljbara koppar 2028 är en framtidsprognos, inte ett redan uppnått produktionsläge.
+
+### Varför detta spelar roll för Urbergsskölden
+
+CRMA-listan visar hur EU försöker samordna råvaruförsörjning, men Viscarias Q3-rapport visar vad som återstår mellan strategisk status och kommersiell produktion: kapital, byggnation, miljövillkor, teknisk driftsättning och kundbar leverans.
+
+Samma distinktion ska användas för alla projekt i Finland och Sverige:
+
+1. Strategisk EU-status.
+2. Geologisk förekomst och klassificerad resurs.
+3. Bearbetningskoncession och miljötillstånd.
+4. Slutligt finansieringsbeslut och utbetalt kapital.
+5. Byggd och driftsatt anläggning.
+6. Faktisk kommersiell produktion och försäljning.
+
+### Öppna frågor och nästa kontrollpunkt
+
+- Hämta EU-kommissionens slutliga projektbilaga och kontrollera projektens klassificering och materialflöden mot respektive bolags dokumentation.
+- Följ Viscarias bankkreditbeslut från ING och Société Générale omkring årsskiftet; skilj kreditgodkännande från undertecknat avtal och utbetalning.
+- Följ Viscarias miljö- och byggvillkor, järnvägsanslutning, elförsörjning och första säljbara koppar.
+- Följ de fem finländska projekten separat: kommunala beslut, miljöprövning, finansiering och verklig byggstart.
+- Följ om CRMA:s kortare tillståndstider leder till faktiska beslut eller främst ändrar myndigheternas prioriteringsordning.
+
+### Källor
+
+**Primärkällor**
+- EU-kommissionen, uppdaterad lista över strategiska projekt enligt CRMA, 9 oktober 2026: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma_en
+- Gruvaktiebolaget Viscaria, Q3-rapport 5 november 2026: https://www.viscaria.com/en/interim-report-july-september-2026/
+- Viscaria, uppdatering om projektfinansiering 29 oktober 2026: https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/
+
+**Oberoende bekräftelse och rättslig förklaring**
+- Svenska Yle, *Fem nya gruvprojekt i Finland på EU:s strategiska expresslista*, 9 oktober 2026: https://yle.fi/a/7-10106712
+
+**Status:** Utkast kompletterat med EU:s andra CRMA-omgång och Viscarias Q3-rapport. Strategisk status, tillstånd, finansiering och kommersiell produktion hålls åtskilda. Inte publicerat.
