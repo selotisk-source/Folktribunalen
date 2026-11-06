@@ -154,3 +154,22 @@ Källor:
 - Crusoe, 6 november 2026: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
 - Reuters, 5 november 2026: https://www.reuters.com/world/us/google-plans-17-billion-wyoming-data-center-amid-rising-threats-curbs-2026-11-05/
 - Reuters, 6 november 2026: https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06/
+
+
+## Nätbolagen flyttar kapital – och gör kostnadsfrågan konkret
+
+Utbyggnaden syns också i energibolagens balansräkningar och investeringsplaner.
+
+**DTE Energy, 5 november:** bolaget meddelade att det ingått avtal om att sälja huvuddelen av sin icke-reglerade verksamhet DTE Vantage för cirka **3 miljarder dollar** till institutionella investerare rådgivna av J.P. Morgan Asset Managements Global Infrastructure-grupp. Affären väntas stänga första halvåret 2027 och är fortfarande villkorad av myndighetsgodkännanden och andra sedvanliga villkor. DTE säger att likviden ska stärka investeringarna i den reglerade el- och gasverksamheten och att bolagets femårsplan omfattar cirka **44 miljarder dollar** i kundinriktade investeringar. DTE uppger att dess Googleavtal innebär att datacenterkunderna betalar hela kostnaden för den energi och de nätinvesteringar som krävs för att betjäna dem.
+
+**Ameren, 5–6 november:** bolagets tredje kvartalsrapport och resultatpresentation visar en femårig kapitalplan på **38,1 miljarder dollar** för 2027–2031. Planen utgår från cirka 2,9 GW ny Missouri-last till 2031, varav bolaget säger att 2,8 GW täcks av undertecknade elserviceavtal. Google- och Amazonprojekten i Amerens område uppges representera cirka 25 miljarder dollar i planerade investeringar. Ameren planerar omkring 7,7 GW ny produktionskapacitet 2027–2031 och söker regulatoriskt godkännande för ett gaskraftverk på 2,1 GW. Reuters rapporterade den 6 november att bolaget kan behöva investera ännu mer om ytterligare serviceavtal tecknas under 2027.
+
+**Varför det spelar roll:** AI-datacenter är inte en isolerad tekniksektor. De driver investeringar i reglerade nät, ny kraftproduktion, gas, lagring och transmission. Samtidigt blir kostnadsfördelningen en politisk fråga: bolagens uppgift att stora kunder betalar sina egna merkostnader måste kunna jämföras med faktiska serviceavtal, tariffbeslut och tillsynsmyndigheternas dokument.
+
+**Källstatus:** DTE och Ameren är **PRIMÄRKÄLLOR** för sina egna transaktioner och investeringsplaner. Reuters är **OBEROENDE BEKRÄFTELSE** av DTE-affären och Amerens plan. Bolagens påståenden om kundernas fulla kostnadsansvar ska inte behandlas som oberoende revision av varje avtalsvillkor.
+
+Källor:
+- DTE Energy, 5 november 2026: https://www.dteenergy.com/us/en/newsroom/2026/DTE-Energy-reports-third-quarter-2026-accomplishments%2C-investments-and-earnings-.html
+- Reuters, DTE Vantage-försäljningen, 5 november 2026: https://www.reuters.com/legal/litigation/dte-energy-sell-its-non-utility-business-about-3-billion-2026-11-05/
+- Ameren Q3 2026 release, 5 november 2026: https://www.prnewswire.com/news-releases/ameren-announces-third-quarter-2026-results-302931351.html
+- Reuters, Amerens investeringsplan och datacenteravtal, 6 november 2026: https://www.reuters.com/legal/litigation/ameren-sees-data-center-deals-pushing-investment-beyond-38-billion-plan-2026-11-06/
