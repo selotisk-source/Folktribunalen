@@ -239,3 +239,51 @@ Detta är ett exempel på hur hyperscalers kan bli kreditförstärkare och poten
 - SEC/TeraWulf Exhibit 10.1, Credit Support Agreement: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-069810/exhibit101-googlexterawulf.htm
 - TeraWulf Exhibit 99.1, 4 november 2026: https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulfhawesvillecsaandepcmpr.htm
 - Reuters, 4 november 2026: https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/
+
+
+## TeraWulfs Q3-rapport 6 november: kontraktsvärde, kassaflöde och skulder måste hållas isär
+
+TeraWulfs 10-Q för kvartalet som avslutades den 30 september lämnades in den **6 november 2026**. Det tillför den finansiella bas som saknades i den första rapporteringen om Google-backstoppen.
+
+### Resultatbilden
+
+- Tredje kvartalets intäkter: **76,2 miljoner dollar**, varav **63,0 miljoner** kom från HPC-leasing.
+- Rapporterad nettoinkomst: **709,9 miljoner dollar**.
+- Rörelseförlust: **88,2 miljoner dollar**.
+- Justerad EBITDA: cirka **−12,8 miljoner dollar**.
+- Nettoförlust för de första nio månaderna: **659,0 miljoner dollar**.
+- Kassaflöde från löpande verksamhet för nio månader: **−178,9 miljoner dollar**.
+- Investeringar i anläggningar och utrustning för nio månader: cirka **2,23 miljarder dollar**.
+
+Den stora redovisade nettoinkomsten under tredje kvartalet ska inte tolkas som ett motsvarande operativt kassaflöde. Resultatet påverkades av en icke-kontant värdeförändring i warrant- och derivatskulder på cirka **728,4 miljoner dollar** och en redovisad vinst på cirka **95 miljoner dollar** från försäljningen av en ägarandel i ett joint venture. Bolaget redovisade samtidigt en rörelseförlust och negativ justerad EBITDA.
+
+### Likviditet och skuldsättning per 30 september
+
+10-Q redovisar:
+- kontanter och likvida medel: **1,602 miljarder dollar**,
+- begränsade kontanter: **753 miljoner dollar**,
+- sammanlagt kontanter, likvida medel och begränsade kontanter: **2,355 miljarder dollar**,
+- negativt rörelsekapital: **79,2 miljoner dollar**,
+- långfristig skuld netto: cirka **3,032 miljarder dollar**,
+- kortfristiga konvertibla skuldebrev: cirka **491,5 miljoner dollar**,
+- långfristiga konvertibla skuldebrev: cirka **1,627 miljarder dollar**.
+
+De begränsade kontanterna är inte fritt disponibla för allmän drift. 10-Q anger också att kassaflödet från investeringsverksamheten var cirka **−2,20 miljarder dollar** under de första nio månaderna, huvudsakligen till följd av investeringar i HPC-infrastruktur och förvärv av Justified- och Muskie-anläggningarna.
+
+### Separat energispår: Muskie når 1 GW kontrakterad effekt – med regulatoriskt villkor
+
+TeraWulf uppger att bolaget genom ändrade elservice- och överföringsavtal med Kentucky Power ökat den kontrakterade effekten vid **Muskie-campus** från 500 MW till **1 000 MW**. Den andra 500 MW-fasen väntas enligt bolaget levereras 2029, men utökningen är villkorad av godkännande från Kentucky Public Service Commission.
+
+Muskie ska hållas åtskilt från Justified-campus i Hawesville, där Anthropic-leasen och Googles kreditstöd gäller.
+
+### Vad detta betyder – och inte betyder
+
+TeraWulfs 19 miljarder dollar är bolagets uppgivna värde av framtida kontrakterade hyresintäkter över 20 år. Det är inte kontanter som redan har betalats, inte årets omsättning och inte Googles garantibelopp. Google-backstoppen är ett kreditförstärkande arrangemang för vissa hyresförpliktelser och kan ge Google rätt att ta över hyresavtalet eller, i vissa fall, betala en avgift och få en ägarandel i Raylan.
+
+TeraWulfs finansiella rapport visar samtidigt att utvecklingen är kapitalintensiv: stora investeringar, negativt operativt kassaflöde, betydande skuld och en stor andel begränsade kontanter. Det är relevant för långivarnas riskbedömning, men räcker inte ensamt för att fastslå betalningsproblem eller att någon garanti kommer att behöva utlösas.
+
+**Källstatus:** **PRIMÄRKÄLLA – Form 10-Q, 6 november 2026.** Resultat- och balansräkningssiffrorna är bolagets SEC-rapporterade uppgifter. För den redovisningsmässiga tolkningen ska warrantomvärderingen, JV-försäljningen och det operativa kassaflödet hållas åtskilda.
+
+Källa:
+- TeraWulf Form 10-Q, period avslutad 30 september 2026, inlämnad 6 november: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071671/wulf-20260930.htm
+- TeraWulf Q3 2026 release, 6 november: https://investors.terawulf.com/news-events/press-releases/detail/149/terawulf-reports-third-quarter-2026-results
