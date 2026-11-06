@@ -70,9 +70,9 @@ Detta är en konkret svensk deltagande- och upphandlingsåtgärd, men inte ett b
 
 ## Upphandlingen får en förlängning av Lot 1
 
-EuroHPC:s officiella uppdatering den 5 november gäller **en förlängning av Lot 1**, inte en förlängning av Lot 1 av hela upphandlingen. Myndigheten anger att medlemsstaterna behöver mer tid för att slutföra nationella budgetprocesser och lämna in sina ekonomiska åtaganden för medelstora AI-gigafabriker. Därför flyttas Lot 1:s sista anbudsdag till den 4 februari 2027 kl. 17.00. **Lot 2:s deadline är oförändrad: 3 december 2026 kl. 17.00.**
+EuroHPC:s officiella uppdatering den 5 november gäller **en förlängning av Lot 1**, inte en teknisk omstart av hela upphandlingen. Myndigheten anger att medlemsstaterna behöver mer tid för att slutföra nationella budgetprocesser och lämna in sina ekonomiska åtaganden för medelstora AI-gigafabriker. Därför flyttas Lot 1:s sista anbudsdag till den 4 februari 2027 kl. 17.00. **Lot 2:s deadline är oförändrad: 3 december 2026 kl. 17.00.**
 
-EuroHPC:s publicerade besked säger inte att tidigare utkast eller redan inlämnade anbud måste återskapas, att uppdaterade anbudsfrister ska ersätta de gamla eller att en teknisk incident har inträffat. Sådana uppgifter har därför tagits bort ur denna granskning.
+EuroHPC:s publicerade besked säger inte att tidigare utkast eller redan inlämnade anbud måste återskapas, att nya inlämningslänkar ska ersätta de gamla eller att en teknisk incident har inträffat. Sådana uppgifter har därför tagits bort ur denna granskning.
 
 ## Vad ska bevakas i nästa upphandlingssteg?
 
@@ -110,9 +110,9 @@ Den 3 december 2026 är kontrollpunkten för stora anläggningar; den 4 februari
 - **Primärkälla:** EU-kommissionen har offentliggjort upphandlingen och konsultationen.
 - **Planerad finansiering:** Upp till 10 miljarder euro i offentlig finansiering och minst 20 miljarder i förväntad privat investering.
 - **Inte utbetalt kapital:** Beloppen ska inte beskrivas som redan investerade pengar.
-- **Tidsgräns och systemstatus:** Upphandlingen har två slutdatum: 3 december 2026 för Lot 2 (stora anläggningar) och 4 februari 2027 för Lot 1 (medelstora anläggningar). EuroHPC meddelade 5 november dessutom att EuroHPC förlängde endast Lot 1; ingen generell återinlämning anges i primärkällan; de gamla länkarna kommer inte att användas.
+- **Tidsgräns och systemstatus:** EuroHPC:s uppdatering 5 november förlängde endast Lot 1 till 4 februari 2027 på grund av medlemsstaternas nationella budgetprocesser. Lot 2 ligger kvar på 3 december 2026. Ingen teknisk omstart eller generell skyldighet att lämna in anbud på nytt anges i den officiella uppdateringen.
 - **Svenskt åtagande:** Riksdagen har bemyndigat upp till 50 miljoner euro över fem år; regeringen anger en svensk nod kopplad till en gigafabrik i Finland. Detta är köp av framtida beräkningskapacitet, inte en bekräftad svensk gigafabriksbyggnad eller redan utbetalt kapital.
-- **Förlängning av Lot 1:** EuroHPC säger att samtliga befintliga utkast och inlämnade anbud inte kommer att beaktas och måste återskapas på uppdaterade tidsfrister. Den tekniska orsaken är inte offentliggjord.
+- **Korrigering 6 november:** Den tidigare uppgiften om teknisk omstart och krav på att återskapa alla anbud saknar stöd i EuroHPC:s publicerade besked och har tagits bort.
 - **Regelverk:** Konsultationen om energiprestanda är öppen till 14 december 2026; lagförslag väntas under andra kvartalet 2027.
 - **Öppet:** Slutliga anbud, konsortier, lokaliseringar, projektfinansiering, tillgångsmodell, nätanslutningar och vattenbehov.
 
