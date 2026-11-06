@@ -145,6 +145,16 @@ Samtidigt jämförs ansikten i realtid mot en förutbestämd bevakningslista. De
 
 Begreppen "general immigration enforcement" och "general monitoring" är inte identiska. Home Office använder det första som en bred beskrivning av verksamhetens ändamål, men säger samtidigt att tekniken inte får användas för allmän, ändamålslös övervakning. En proaktiv insats vid en transportknutpunkt kan ändå innebära att alla förbipasserande i kamerazonen skannas mot en avgränsad lista. Den avgörande proportionalitetsfrågan blir därför hur listan sätts samman, hur länge den gäller, vilka civilrättsliga överträdelser som får utlösa en träff och varför just platsen och tidpunkten är nödvändiga.
 
+### Vad det rättsliga mandatet faktiskt begränsar
+
+Home Offices Legal Mandate beskriver den primära användningen som att lokalisera personer som försöker återvända till Storbritannien i strid med ett gällande deportationsbeslut. Det är en snävare beskrivning än den bredare framtida användning vid transportknutpunkter och evenemang som Guardian/Liberty Investigates rapporterat om. Skillnaden måste undersökas mot de faktiska watchlistkategorierna och godkännandena för varje insats.
+
+Mandatet anger bland annat att bevakningslistor ska vara insatsspecifika, ändamålsspecifika och tidsbegränsade. En person får bara tas upp om det finns en aktuell laglig grund, en objektivt definierad kategori, nödvändighet och proportionalitet samt om mindre ingripande metoder inte räcker. Underrättelseuppgifter ensamma ska inte göra en person behörig för en bevakningslista.
+
+En möjlig träff är inte i sig en grund för ingripande. Träffen ska granskas av utbildad personal och varje åtgärd måste vila på en befintlig laglig befogenhet. Biom­etriska mallar för personer som inte ger en träff ska raderas omedelbart. Vilket dataskyddsregelverk som gäller beror på insatsens huvudsakliga syfte: administrativa migrationsändamål omfattas av UK GDPR och del 2 i Data Protection Act 2018, medan brottsbekämpande ändamål omfattas av del 3. Vid gemensamma insatser ska personuppgiftsansvar och eventuella gemensamma ansvarsförhållanden dokumenteras före behandlingen.
+
+Detta ger en tydlig granskningslinje: hur väl överensstämmer den bredare operativa planeringen med den snävare beskrivningen av primär användning, och vilka kategorier godkänns faktiskt i varje enskild insats?
+
 ### Vad de publicerade försöksresultaten visar
 
 Home Office publicerade den 15 oktober 2026 en uppdaterad tabell över insatser vid Holyhead. Tabellen innehåller åtta insatser i november 2025 och tio insatser den 24–26 februari 2026.
