@@ -346,3 +346,31 @@ EuroHPC:s uppdatering 5 november ska läsas exakt: Lot 1:s deadline flyttas till
 En sökning utan nytt fynd är inte bevis för att inget har hänt eller att alla register är uttömmande genomgångna. Flera nyhetsartiklar som återger samma domstolsmeddelande räknas inte som flera oberoende primärbelägg. Fitburg-domen är primärkälla för domslutet; Yle, Reuters och AP används som oberoende rapportering och komplettering.
 
 **Arbetsstatus 6 november 2026, 04.32 Europe/Sofia:** 19 huvudspår sökta; ett nytt artikelutkast skapat (Fitburg); befintligt Onkalo-utkast kompletterat; täckningsmatris uppdaterad. Ingen artikel mergad eller publicerad på webbplatsen.
+
+
+---
+
+## Cykelkontroll – 6 november 2026, 05.58 Europe/Sofia
+
+**Omfattning:** A–S (samtliga 19 huvudspår) genomgångna med en ny riktad sökning efter dokument och händelser publicerade sedan föregående cykel. Ingen ytterligare nyhet utöver redan öppna artiklar och kontrollpunkter passerade notiströskeln. Detta är en riktad öppen-källkontroll, inte en fullständig kontroll av samtliga nationella diarier, fastighetsregister eller bolagsakter.
+
+### Källkontroller som tillför precision
+
+- **N/S – Fitburg:** Helsingfors tingsrätts primära pressmeddelande öppnades och kontrollerades. Domstolen anger 31 december 2025 som händelsedatum, dom/publicering 5 november 2026, fällande dom för *törkeä tuhotyö*, 3 år 6 månader för kaptenen och 2 år 10 månader för överstyrmannen. Den beskriver att ankare och kätting släpades cirka 130 km, korsade nio telekommunikations- och elkablar samt en gasledning, att två telekommunikationskablar skadades och att övrig infrastruktur utsattes för risk. Domstolens jurisdiktionsskäl är att följderna visat sig i Finland. Källa: https://www.tuomioistuimet.fi/ajankohtaista/tiedotteet/karajaoikeus-on-antanut-tuomion-ns-fitburg-asiassa/. Reuters och AP bekräftar domslutet oberoende. Överklagande och fullständig skriftlig dom följs fortsatt; ingen statlig ordergivning är belagd.
+- **O – Hormuz:** IMO:s uppdaterade primärlista anger 129 bekräftade incidenter och 24 dödsfall bland sjöfolk per 5 november 2026. Den identifierar fartyget i händelsen norr om Qatar den 4 november som **VELOS SAPPHIRE (IMO 9321201)**, skadat 50 nautiska mil norr om Madinat ash Shamal, med **en saknad sjöman** och ingen rapporterad förorening. Detta ersätter den tidigare preliminära formuleringen att fartyget var oidentifierat och att besättningens status var helt okänd. Källa: https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx. Reuters rapporterade UKMTO-varningen; IMO är den tydligare källan för identitet och besättningsstatus.
+- **O – Hormuz, separat partsuppgift:** IRGC:s uppgifter den 5 november om två tankfartyg och en bogserbåt som ska ha fattat eld har återgivits av Reuters och Iran International. Fartygsidentiteter, skador och händelseförlopp har inte oberoende fastställts i de granskade källorna. De får inte räknas in i IMO:s bekräftade incidentantal utan separat belägg.
+- **R/S – Onkalo:** Finlands regerings primärsammanfattning bekräftar driftlicensbeslutet den 22 oktober 2026 till och med 2070. Posiva får inte inleda drift före STUK:s lagstadgade förhandsinspektion. Källa: https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility?languageId=en_US. Ingen ny driftstart har fastställts i denna cykel.
+- **B – AI-gigafabriker:** EuroHPC:s primärkälla bekräftar att upphandlingen gäller upp till sju anläggningar och att ansökningstiden går ut 12 november 2026. Det offentliga finansieringsåtagandet fungerar som ankarkund och förväntas mobilisera mer än 20 miljarder euro i privat kapital; det är ett förväntat investeringsbelopp, inte redan utbetalt kapital. Källa: https://www.eurohpc-ju.europa.eu/eurohpc-joint-undertaking-launches-ai-gigafactories-call-2026-07-30_en.
+- **Q – Gripen/AI:** Saab publicerade den 3 november 2026 ett bolagsmeddelande om egna AI-agenter som enligt Saab flugits på Gripen E och autonomt styrt flygplanet i BVR-stridsscenarier under prov. Detta är en partsuppgift om provresultat; oberoende testprotokoll, antal flygningar, FMV:s granskningsunderlag och exakt gräns mot autonom vapenauktorisation har inte hämtats. Källa: https://www.saab.com/newsroom/press-releases/2026/saab-unveils-its-ai-agents-for-future-fighter-systems.
+
+### Täckning A–S
+
+Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självständigt belagd händelse efter föregående cykel identifierades i A, C–M, P och de övriga delarna av E, F, G, H, I, J, K, L och M. I A–S kvarstår följande kontrollpunkter: Palantirs formella myndighets- och NHS-avtal; faktisk drift, finansiering och elanslutning för datacenter; reproducerbar forskning om synkronicitet; fynd- och föremålsdokumentation i Sofia; registerklassade mineralresurser och tillstånd; offentliga avtalsbilagor för AI-finansiering; EUSM/UNIFIL-beslut; stadsvisa kyrko- och byggnadsakter; historiska mark- och hästregister; originalvittnesmål och runologiska källor; Cladonias lagfarter och fastighetsakter; Skaga kapells RAÄ-/länsstyrelseakter; Athos katalog- och provenienshandlingar; och offentlig rättslig dokumentation av biometriska system. För K har inget nytt registerutdrag för ytterligare fastigheter hämtats; tidigare rapporterade arealer är fortsatt medierapporterade tills lagfarts- och fastighetsakter har kontrollerats.
+
+### Arbetsstatus
+
+- Befintliga utkast och PR #1 har lästs; PR #1 är fortsatt öppen och i draft-läge.
+- Fitburg-utkastet finns redan i granskningsgrenen.
+- Hormuz-utkastet innehåller redan UKMTO/IMO-händelsen och IRGC-påståendet; den nya primärkontrollen bekräftar att IMO namnger VELOS SAPPHIRE och anger en saknad sjöman.
+- Onkalo-utkastet innehåller regeringens licensvillkor och STUK:s förhandsinspektion.
+- Ingen ny artikel skapad, ingen artikel mergad och ingen publicering utförd i denna cykel.
