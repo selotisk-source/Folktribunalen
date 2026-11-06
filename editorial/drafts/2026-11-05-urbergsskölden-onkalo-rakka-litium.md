@@ -25,6 +25,10 @@ Posiva måste avsluta driftsättningsfasen och genomföra tester. Strålsäkerhe
 
 Anläggningen är dimensionerad för upp till omkring 3 300 kapslar. Posiva har inte publicerat något slutligt startdatum för den reguljära slutförvaringen.
 
+Regeringens licensbeslut preciserar också den långsiktiga ramen. När driften väl har inletts är den planerade takten högst 60 kapslar per år. Slutförvaringen väntas fortsätta in på 2120-talet. Efter att förvaret har förslutits övergår ansvaret för det använda kärnbränslet till staten enligt kärnenergilagen. Posivas ägare, Teollisuuden Voima (TVO) och Fortum, ansvarar för att verksamheten har tillräckliga ekonomiska förutsättningar.
+
+STUK ska inspektera anläggningen före driftsättning. Licensen tillåter alltså inte att Posiva börjar ta emot bränsle för slutförvaring innan den kontrollen är genomförd. Posiva ska dessutom lämna en periodisk säkerhetsbedömning och en uppdaterad långsiktig säkerhetsredovisning till STUK inom tio år från licensbeslutet. World Nuclear News återger samma villkor i sin genomgång av regeringens beslut.
+
 ## RAKKA gör gruvavfallet synligare
 
 Den 4 juni 2026 publicerade Geologiska forskningscentralen GTK en studie av åtta anrikningssandområden och två gråbergsområden i Finland. Resultatet var mer återhållsamt än den vanliga berättelsen om att gamla gruvavfallsområden skulle vara en stor dold metallreserv.
@@ -90,13 +94,14 @@ För Cavecore och civil energilagring är lärdomen att varje plats måste bedö
 - Zero Mine, miljötillståndsansökan i Jyväskylä, 21 juli 2026: https://zeromine.fi/en/zero-mine-moves-forward-technical-design-in-final-stages-and-permitting-processes-underway-copy/
 
 **Oberoende och regulatorisk komplettering**
+- World Nuclear News, *Posiva given go-ahead to operate Finnish used fuel repository*, 23 oktober 2026: https://wnn.world-nuclear.org/articles/posiva-given-go-ahead-to-operate-finnish-used-fuel-repository
 - American Nuclear Society / Nuclear Newswire, STUK:s säkerhetsbedömning av Onkalo, 10 augusti 2026: https://www.ans.org/news/2026-08-10/article-8280/onkalo-snf-repository-passes-safety-assessment/
 - Finlex, lagstiftning: https://www.finlex.fi/
 
 ## Faktastatus och öppna kontrollpunkter
 
 - **Primärkälla:** Finlands regerings driftlicens för Posiva och Posivas egen information.
-- **Oberoende belägg:** Nuclear Newswire rapporterade STUK:s positiva säkerhetsbedömning i augusti 2026.
+- **Oberoende belägg:** World Nuclear News 23 oktober 2026 återger regeringens licensbeslut och villkoren; Nuclear Newswire rapporterade STUK:s positiva säkerhetsbedömning i augusti 2026.
 - **Primärkälla:** GTK:s studie visar att den ekonomiska potentialen i de undersökta gruvavfallsområdena i huvudsak är begränsad.
 - **Partsuppgift:** Zero Mines planerade investering på 40–50 miljoner euro och framtida processkapacitet kommer från bolagets egen kommunikation.
 - **Planerad lagändring:** GTK angav 1 november 2026 som avsett ikraftträdande. Slutlig lagtext har inte hämtats i denna genomgång.
