@@ -82,6 +82,25 @@ Det viktigaste för bevakningen är därför att följa övergången mellan två
 
 ---
 
+
+
+## 6 november: den nya majoriteten pekar ut datacenterel, AI-testning och produktansvar
+
+Reuters rapporterade den 6 november att demokratiska ledamöter, kongressmedarbetare och policyföreträdare förbereder en bred våg av AI-relaterade lagförslag när den nya kongressen tillträder i januari. De områden som nämns är:
+
+- skydd för elkunder mot högre elräkningar som kopplas till datacenters snabba expansion,
+- oberoende expertutvärdering av avancerade AI-modeller mot säkerhetsstandarder,
+- tydligare ansvar för AI-företag när deras produkter orsakar skada,
+- utökad tillsyn genom utfrågningar och krav på att ledande företag redogör för säkerhetsrutiner och oavsiktliga AI-åtgärder.
+
+Reuters namnger bland andra senator Chuck Schumer, representanten Lori Trahan och representanten Zoe Lofgren. Schumer har pekat ut konsumenternas elkostnader som en prioritet; Trahan avser att driva modelltestning och produktansvar. Detta är **politiska planer och uttalanden**, inte färdiga lagförslag, utskottsbeslut eller antagen lag.
+
+Det finns också en viktig institutionell begränsning: den demokratiska majoriteten tillträder först den 3 januari 2027. Fram till dess har den sittande kongressen sina nuvarande utskottsordförande och beslutsregler. Även efter januari kommer ett lagförslag att behöva passera utskott, båda kamrarna och presidentens beslut eller ett eventuellt vetoövervinnande.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 6 november 2026. **ÖPPET:** vilka lagtexter som faktiskt lämnas in, vilka utskottsordförande som utses, om energikostnader regleras genom federal lag eller anslag, samt hur långtgående modelltestningskrav blir.
+
+**Källa:** https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06/
+
 ## Källor
 
 **Primärkälla**
