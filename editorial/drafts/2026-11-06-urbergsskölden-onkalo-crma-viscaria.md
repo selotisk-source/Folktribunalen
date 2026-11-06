@@ -83,6 +83,20 @@ För Cavecore och civil energilagring är lärdomen att varje plats måste bedö
 6. Sverige: jämförbara SGU- och Bergsstaten-data, särskilt nedlagda gruvor, mineralresurser och tillstånd.
 7. Energi: dokumenterade civila pilotprojekt för värme- och energilagring i nedlagda gruvor, utan att blanda ihop värmelagring med el-lagring.
 
+
+
+## Finland och USA undertecknar kritiskt mineralramverk – men inget projektkapital är utlovat
+
+Den **29 oktober 2026** undertecknade Finland och USA ett Technology Prosperity Deal och ett separat **Critical Minerals Framework** i Washington. Enligt Finlands regering ska ramverket förbättra förutsättningarna för amerikanska investeringar i mineralförädling och raffinering i Finland samt stärka forskning och utveckling inom cirkulär råvaruhantering, resurseffektivitet och materialinnovation.
+
+Detta är en bilateral politisk ram för samarbete. Den offentliggjorda texten anger inte något specifikt gruvprojekt, investeringsbelopp, låneåtagande, garanti, ägarandel eller bindande köpavtal. Den ska därför inte beskrivas som att USA redan har finansierat en viss finsk gruva eller förädlingsanläggning.
+
+Sambandet med CRMA är strategiskt: EU:s andra omgång med 46 nya strategiska projekt ger utvalda projekt en prioriterad ram för tillståndsprocesser och samordning, medan det finsk-amerikanska ramverket öppnar för industriellt kapital och förädlingskompetens. Båda kan förbättra projektens förutsättningar, men inget av dem ersätter miljötillstånd, koncessioner, finansieringsavtal eller faktiskt utbetalt kapital.
+
+**PRIMÄRKÄLLA:** Finlands regering, *Finland and the US deepen cooperation in technology and critical minerals*, publicerad 29 oktober 2026. **OBEROENDE BEKRÄFTELSE:** ingen separat oberoende granskning av ramverkets kommersiella effekter har identifierats i denna kontroll. **ÖPPET:** vilka företag som får delta, hur investeringar väljs, vilka finansieringsinstrument som kan användas och om konkreta projektavtal följer.
+
+**Källa:** https://valtioneuvosto.fi/-/1410877/suomi-ja-yhdysvallat-syventavat-yhteistyotaan-teknologiassa-ja-kriittisissa-mineraaleissa?languageId=en_US
+
 ## Källor
 
 **Primärkällor**
