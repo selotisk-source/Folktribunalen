@@ -304,3 +304,70 @@ Detta är en förfalloprofil, inte en uppgift om att hela beloppet ska refinansi
 **Öppet:** exakt fördelning mellan senior secured notes, konvertibler och andra instrument; eventuella återköps-/refinansieringsvillkor; vilka tillgångar och kassaflöden som är pantsatta; och om Justified-projektets nya finansiering påverkar eller är separat från befintliga säkerhetspaket.
 
 Källa: TeraWulf Form 10-Q, 6 november 2026, Note 10 – Debt, principal maturities as of 30 September 2026: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071671/wulf-20260930.htm
+
+
+## IREN: Microsofts designändring skjuter upp intäktsmålet – 18,95 miljarder dollar i kapitalåtaganden
+
+IREN lämnade den **5 november 2026** in en 10-Q och publicerade sitt Q1 FY27-resultat. Det ger en konkret kontrollpunkt för hur stora AI-kundavtal, kundförskott och framtida finansieringsbehov hänger ihop.
+
+### Kundprojektet och den försenade leveransen
+
+IREN:s femåriga Microsoftavtal gäller cirka **200 MW kritisk IT-last** vid Childress-campus i Texas och har tidigare redovisats till ett kontraktsvärde på cirka **9,7 miljarder dollar**. Den första 50 MW-byggnaden, Horizon 1, togs enligt IREN i drift för Microsoft under kvartalet. De återstående leveranserna har försenats.
+
+IREN:s egen resultatrapport säger att målet om mer än **4 miljarder dollar i annualiserad run-rate revenue (ARR)**, tidigare planerat till årsskiftet, nu väntas i januari 2027 och kan glida till slutet av februari. Orsakerna anges som en kundbegärd designändring och leverantörernas leveranstider. Reuters identifierar kunden som Microsoft och rapporterar att ändringen gäller nätverksdesign. Reuters uppger också att förseningen inte ska medföra förseningskrediter eftersom den följer av en kundbegärd ändring.
+
+Detta är inte ett besked om att Microsoft sagt upp avtalet. Det är en försening i leverans och driftsättning, med en ny tidsplan.
+
+### Resultat och kundkoncentration
+
+IREN redovisade:
+- kvartalsintäkter: **228 miljoner dollar**,
+- AI Cloud-intäkter: **200 miljoner dollar**, upp 182 procent sekventiellt,
+- nettoförlust: **263 miljoner dollar**,
+- justerad EBITDA: **66 miljoner dollar**,
+- AI Cloud-segmentets bruttomarginal: **86 procent**,
+- intäktsbacklog: **20,3 miljarder dollar**, varav cirka två tredjedelar enligt bolaget har motparter med investment-grade-rating.
+
+10-Q visar samtidigt att tre kunder stod för **28, 24 respektive 18 procent** av koncernens intäkter under kvartalet. Namnen är maskerade i den offentliga koncentrationsnoten. Det går därför inte att fastställa att någon av dessa tre är Microsoft utan ytterligare dokumentation.
+
+### Finansieringen är blandad – och en del återstår att ordna
+
+IREN uppger att målet på över 4 miljarder dollar i ARR är fullt kontrakterat och finansierat. Samtidigt planerar bolaget cirka **15 miljarder dollar i återstående investeringar under räkenskapsåret**:
+- cirka **9 miljarder dollar** ska täckas av befintliga kontanter, redan åtagna GPU-finansieringar och kundförskott,
+- cirka **6 miljarder dollar** ska komma från målsatt GPU-finansiering, ytterligare förskott, datacenterfinansiering och andra källor som är beroende av marknadsförhållanden.
+
+10-Q redovisar **18,947 miljarder dollar i kapitalåtaganden** per 30 september. Bolagets pressmeddelande anger också att en ny femårig AI-kundaffär efter kvartalets slut prissatts till omkring 22 miljoner dollar per IT-MW och att kunden förskottsbetalar 90 procent av den tillhörande GPU-capexen. Kunden namnges inte.
+
+Det är viktigt att skilja mellan:
+- redan undertecknade kundkontrakt,
+- förskott som faktiskt har betalats,
+- kreditfaciliteter som är bindande,
+- finansiering som bolaget endast planerar att ta upp,
+- och ARR som är ett annualiserat driftmått, inte redovisad omsättning.
+
+### Microsofts bredare omprövning av neocloud-leverantörer
+
+Reuters återgav den 5 november Bloomberg-uppgifter om att Microsoft skärper tillsynen över vissa projekt hos IREN, Nebius och Nscale och internt omprövar nya avtal med externa AI-molnleverantörer. Reuters rapporterade den 6 november också att Microsoft enligt Bloomberg håller på att fasa ut ett äldre avtal om hyrd AI-kapacitet från Oracle och inte förnyar det. Oracle uppgav att efterfrågan på dess AI-infrastruktur fortsatt är stark; Microsoft hade inte kommenterat den specifika Oracle-uppgiften.
+
+Detta ska inte beskrivas som att Microsoft lämnar alla externa leverantörer. Microsofts offentliga linje är att bolaget kombinerar egna datacenter, leasade anläggningar och strategiska partnerskap. Men tillsammans med Nscale-besluten och IREN:s leveransförsening visar uppgifterna att köparen granskar kompatibilitet, leveranstid och ekonomisk risk hårdare.
+
+### Källstatus och öppna frågor
+
+- **PRIMÄRKÄLLA:** IREN:s Form 10-Q, 5 november 2026, inklusive kundkoncentration och kapitalåtaganden.
+- **PRIMÄRKÄLLA / PARTSUPPGIFT:** IREN:s Q1 FY27-resultat och uppgifter om ARR, förskott och framtida finansieringskällor.
+- **OBEROENDE BEKRÄFTELSE:** Reuters, 5 november, om Microsofts begärda nätverksändring och leveransförseningen.
+- **OBEROENDE RAPPORTERING VIA BLOOMBERG:** Reuters 5–6 november om Microsofts skärpta kontroll av neocloudprojekt och Oracle-kapaciteten. De specifika interna besluten är inte bekräftade genom offentlig Microsoft- eller Oracle-kontraktsdokumentation.
+
+Öppet:
+1. Vilka tre kunder står för 28/24/18 procent av IREN:s kvartalsintäkter?
+2. Hur mycket av de 9 md USD i finansiering och förskott har faktiskt dragits respektive betalats in?
+3. Vilka villkor gäller för de återstående 6 md USD som är beroende av marknadsförhållanden?
+4. Vilken kostnad och vilket ägande av nätverksutrustningen följer av Microsofts ändring?
+5. Hur mycket av Microsofts Oracle-kapacitet är faktiskt avstängd, och vilka uppsägnings- eller förnyelsevillkor gäller?
+
+Källor:
+- IREN Form 10-Q, 5 november 2026: https://irisenergy.gcs-web.com/node/12706/xbrl-viewer
+- IREN Q1 FY27 release, 5 november 2026: https://iren.gcs-web.com/news-releases/news-release-details/iren-reports-q1-fy27-results
+- Reuters, IREN/Microsoft delivery delay, 5 november 2026: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
+- Reuters, Microsoft neocloud oversight, 5 november 2026: https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/
+- Reuters, Microsoft/Oracle capacity, 6 november 2026: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
