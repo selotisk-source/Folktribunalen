@@ -27,6 +27,8 @@ IREN:s Q1 FY27-rapport visar hur snabbt ett neocloud-bolag kan växa och hur kap
 | Räntebärande skuld | 9,897 miljarder USD |
 | Återstående planerad capex under FY27 | cirka 15 miljarder USD |
 
+IREN uppger att Horizon 1 har tagits i drift för Microsoft och att systemet har NVIDIA Exemplar-status för GB300 NVL72. Det är ett konkret driftsteg, men uppgiften kommer från bolagets egen rapport; det fullständiga oberoende testprotokollet har inte publicerats i detta material.
+
 Två tredjedelar av den redovisade backloggen uppges ha motparter med investment-grade-rating. Men IREN:s fotnot definierar backloggen som återstående prestationsåtaganden, återstående leasingarrangemang och andra belopp som bolaget uppskattar kan bli intäkter under bindande kundavtal – förutsatt att leverans och tillgänglighet av tjänsten uppfylls. Backlog är alltså inte samma sak som redan redovisad omsättning eller pengar på bankkontot.
 
 ### ”Fully funded” betyder något mer begränsat än kontanter i kassan
@@ -42,7 +44,7 @@ Finansieringen är dessutom villkorad av att kraven i kreditfaciliteterna uppfyl
 
 ### Ett efterföljande kontrakt har 90 procent GPU-förskott
 
-IREN uppger också att bolaget efter kvartalets slut tecknat ett femårigt avtal med ett anonymiserat ledande AI-laboratorium, med uppskattad årlig intäkt om cirka 22 miljoner dollar per IT-megawatt och kundförskott som täcker 90 procent av den tillhörande GPU-investeringen. Bolaget redovisar dessutom ett kortare avtal på cirka 40 miljoner dollar per IT-megawatt och säger att priset på H100-GPU:er i ett nytt kontrakt är dubbelt så högt som i ett tidigare avtal.
+IREN uppger också att bolaget efter kvartalets slut tecknat ett femårigt avtal med ett anonymiserat ledande AI-laboratorium, med uppskattad årlig intäkt om cirka 22 miljoner dollar per IT-megawatt och kundförskott som täcker 90 procent av den tillhörande GPU-investeringen. Bolaget redovisar dessutom ett kortare avtal på cirka 40 miljoner dollar per IT-megawatt och säger att priset på H100-GPU:er i ett nytt kontrakt är dubbelt så högt som i ett tidigare avtal vid Prince George. Det är en bolagsrapporterad prisjämförelse för två avtal, inte ett belägg för att marknadspriset på H100-GPU:er generellt har fördubblats.
 
 Detta är bolagets egna uppgifter. Förskottet minskar finansieringsbehovet för just den kontrakterade GPU-kapaciteten, men visar inte att alla framtida projekt har motsvarande förskottsvillkor. Motpartens identitet och fullständiga avtalsvillkor har inte offentliggjorts i rapporten.
 
@@ -179,6 +181,7 @@ Detta är ett stresstest av riskfördelningen, inte ett bevis för att AI-indust
 **Primärkällor**
 - IREN, *IREN Reports Q1 FY27 Results*, 5 november 2026: https://iren.gcs-web.com/static-files/8b5ff1cc-4a7c-444d-a3bf-bf5a621cf4b7
 - IREN Investor Relations, rapportarkiv: https://iren.com/investors/reports
+- IREN SEC-filings, visar 10-Q och 8-K inlämnade 5 november 2026: https://iren.com/investors/sec-filings
 
 **Oberoende rapportering**
 - Reuters, IREN:s Q1-resultat och leveransförskjutning, 5 november 2026: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
