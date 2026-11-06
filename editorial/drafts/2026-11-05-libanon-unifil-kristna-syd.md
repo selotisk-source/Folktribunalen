@@ -1,0 +1,123 @@
+# Libanon inför en säkerhetspolitisk övergång: UNIFIL ska lämna – och patriarken varnar för ett nytt krig
+
+**Artikeltyp:** Regional geopolitik · kristna samfund · internationell säkerhet  
+**Publiceringsdatum:** 5 november 2026  
+**Faktaläge:** 5 november 2026  
+**Berörda redaktionella spår:** Libanons kristna historia · regional geopolitik · kyrkor och kulturarv i Mellanöstern
+
+*Den maronitiske patriarken Bechara Rai uppmanade den 1 november Libanon att inte dras in i ännu ett regionalt krig. Samtidigt närmar sig ett historiskt skifte: FN:s säkerhetsråd har beslutat att UNIFIL ska upphöra med sina ordinarie operationer den 31 december 2026 och därefter genomföra ett ordnat tillbakadragande under ett år.*
+
+## Patriarkens budskap den 1 november
+
+I en predikan i Bkerke den 1 november uppmanade den maronitiske patriarken Bechara Rai Libanon att undvika att dras in i krig som går utöver landets och befolkningens intressen.
+
+Enligt L’Orient Today betonade Rai att beslut om krig och fred måste ligga hos den libanesiska staten och dess legitima institutioner. Han kopplade landets suveränitet till statens kontroll över vapen och till att det inte ska finnas flera konkurrerande beslutscentra.
+
+Uttalandet är ett kyrkligt och politiskt ställningstagande från en central maronitisk ledare. Det är inte ett beslut från Libanons regering och ska inte behandlas som en bindande säkerhetspolitisk överenskommelse.
+
+## UNIFIL:s mandat går mot ett historiskt slut
+
+FN:s säkerhetsråd antog den 28 augusti 2025 resolution 2790. Den förlängde UNIFIL:s mandat för sista gången till den 31 december 2026.
+
+Resolutionen säger att UNIFIL ska upphöra med sina ordinarie operationer den 31 december 2026 och därefter påbörja ett ordnat och säkert tillbakadragande som ska genomföras inom ett år. Under tillbakadragandet får styrkan endast utföra begränsade uppgifter inom sina resurser, bland annat skydd av FN-personal och anläggningar, lägesbild kring egna positioner och eskort för vissa FN-uppdrag.
+
+Det är alltså fel att säga att hela FN-närvaron försvinner över en natt den 31 december. Men det är en avgörande förändring att den nuvarande fredsbevarande operationen ska upphöra och att ansvaret för säkerheten i södra Libanon i högre grad ska övergå till den libanesiska staten.
+
+Säkerhetsrådet bad också generalsekreteraren att utreda hur genomförandet av resolution 1701 ska hanteras efter UNIFIL:s tillbakadragande.
+
+## Vad betyder detta för byarna i söder?
+
+FN:s humanitära samordnare rapporterade den 9 oktober att familjer återvänder till delar av södra Libanon, men att vardagslivet fortfarande är svårt. I Zawtar al-Gharbiyeh hade omkring 90 av byns 500 familjer återvänt. Bostäderna var delvis beboeliga, men byn saknade el från både det offentliga nätet och generatorer. Vatten levererades med lastbil.
+
+FN uppgav att samordnaren och hans team hade hållit fem konsultationer med över 40 borgmästare och kommunala sammanslutningar mellan den 27 juli och den 4 september 2026. Samtalen handlade om återställande av grundläggande service, arbetstillfällen och lokal försörjning.
+
+Detta är en viktig motbild till en rent militär beskrivning av situationen. Säkerhet handlar också om att människor kan återvända, få vatten, el, skolgång, sjukvård och försörjning.
+
+FN-rapporten gäller samhällen i södra Libanon generellt. Den ska inte användas som belägg för att varje uppgift gäller en specifik kristen by.
+
+## Kristna samfund och lokal kontinuitet
+
+Södra Libanon rymmer kristna samhällen, bland annat maronitiska och melkitiska församlingar, sida vid sida med muslimska samhällen. Deras framtid påverkas av samma frågor som övriga invånare: säkerhet, återuppbyggnad, markägande, skolor, kyrkor, kommunal service och möjligheten att bo kvar.
+
+För FOLKTRIBUNALENS granskning behöver varje by behandlas separat. Kyrklig tillhörighet får inte härledas enbart från ortnamn eller historiska kartor. Uppgifter om förstörelse, återvändande, kyrkobyggnader och församlingars situation måste knytas till dokumenterade platser och källor.
+
+Det är också viktigt att skilja mellan tre nivåer:
+- kyrkoledarnas offentliga uttalanden,
+- den libanesiska statens beslut och faktiska kontroll,
+- de lokala invånarnas dokumenterade situation.
+
+## Tre alternativ för en FN-närvaro efter UNIFIL
+
+**PRIMÄRKÄLLA:** I ett brev daterat den 1 juni 2026 (S/2026/453) lade generalsekreterare António Guterres fram tre möjliga modeller för FN:s fortsatta närvaro efter UNIFIL. Brevet var ett svar på säkerhetsrådets begäran i resolution 2790 (2025). Det är förslag till rådet, inte ett beslutat mandat.
+
+- **Alternativ 1 – cirka 5 525 personer:** den mest omfattande modellen, med omkring 350 obeväpnade militära observatörer och större skydds- och stödförband. Den skulle ge den starkaste möjligheten att övervaka hela Blå linjen, stödja nedtrappning och bidra till den libanesiska arméns närvaro.
+- **Alternativ 2 – cirka 3 370 personer:** en mindre närvaro med omkring 285 observatörer och mer begränsad förmåga att övervaka och ingripa mellan parterna.
+- **Alternativ 3 – cirka 1 980 personer:** en betydligt mindre modell med omkring 215 observatörer. Den skulle i högre grad vara beroende av teknisk övervakning och sakna förmåga att fysiskt ställa sig mellan parterna.
+
+FN:s brev framhåller att en framtida närvaro skulle behöva komplettera en stärkt politisk FN-roll och stödja dialog, samordning och den libanesiska arméns utplacering. Ingen av modellerna är antagen av säkerhetsrådet.
+
+**Oberoende bekräftelse:** House of Commons Library redovisade den 24 september 2026 att ingen slutlig ersättningsstyrka hade beslutats. Reuters rapporterade den 24 juni att EU:s utrikestjänst föreslagit en separat treårig rådgivnings- och utbildningsmission för Libanons väpnade styrkor och inre säkerhetsstyrkor. Det är inte samma sak som en ny FN-styrka och kräver stöd från EU:s medlemsstater.
+
+Den institutionella luckan är därför fortfarande öppen: UNIFIL:s ordinarie operationer upphör den 31 december 2026, men en efterföljande FN- eller europeisk modell har inte fått ett slutligt mandat.
+
+## EU:s stödmission är formellt etablerad – men ännu inte utplacerad
+
+**PRIMÄRKÄLLA:** Den 12 oktober 2026 antog EU-rådet beslut (Gusp) 2026/2296 om att inrätta **European Union Support Mission in Lebanon (EUSM Lebanon)** under den gemensamma säkerhets- och försvarspolitiken. Beslutet publicerades i EU:s officiella tidning den 13 oktober. Missionens mandat löper i tre år från den dag den faktiskt lanseras, inte från beslutsdagen.
+
+Den juridiska texten innehåller en viktig geografisk begränsning: missionen ska inledningsvis verka **norr om Litani-floden**. Verksamhet söder om Litani kräver att nödvändiga politiska och säkerhetsmässiga villkor är uppfyllda och att den libanesiska regeringen samtycker.
+
+Missionen har två pelare:
+- **Militär:** rådgivning och utbildning för den libanesiska armén, med inriktning på gränsövervakning och gränskontroll, underrättelse, övervakning och spaning, bekämpning av smuggling, operativ samordning och maritim säkerhet.
+- **Civil:** stöd till Internal Security Forces, bland annat utbildningsstrukturer, cyberbrott, smuggling och hamnsäkerhetsstyrning, inklusive Beiruts hamn.
+
+**Detta är inte en ersättare för UNIFIL.** EU:s egen förklaring säger uttryckligen att missionen inte ska ersätta FN-styrkan och inte enbart ska fokusera på södra Libanon. Den kompletterar i stället det libanesiska statliga säkerhetsbygget.
+
+**Beslut är inte detsamma som operativ start:** enligt artikel 20 i rådets beslut krävs en separat rådsakt efter att den civila pelarens operationsplan och den militära pelarens missionsplan och insatsregler har godkänts. Något sådant lanseringsbeslut eller faktisk utplacering har inte identifierats i denna kontroll.
+
+Det betyder att två processer nu löper parallellt men med olika uppgifter: FN:s tre modeller för en möjlig efterföljande närvaro längs Blå linjen är fortfarande inte beslutade, medan EU har etablerat en stödmission vars första geografiska tyngdpunkt ligger norr om Litani. De två systemen får inte beskrivas som utbytbara.
+
+## Den institutionella frågan efter UNIFIL
+
+UNIFIL har varit en del av den internationella säkerhetsordningen i södra Libanon sedan 1978. Resolution 1701 från 2006 gav styrkan en utvidgad roll efter kriget mellan Israel och Hizbollah.
+
+När UNIFIL nu ska lämna uppstår frågor om vem som ska övervaka gränsområdet, stödja den libanesiska armén, dokumentera överträdelser och bidra till att civila kan återvända.
+
+Det är särskilt viktigt att följa:
+1. hur den libanesiska arméns resurser och mandat utvecklas,
+2. vilka internationella stödmekanismer som ersätter UNIFIL:s funktioner,
+3. hur Israel och Libanon hanterar kvarstående säkerhetsfrågor,
+4. hur Hizbollahs vapenfråga påverkar statens auktoritet,
+5. om återuppbyggnad och återvändande sker i praktiken.
+
+## Slutsats
+
+Patriarkens varning den 1 november och FN:s planerade avveckling av UNIFIL är två olika händelser, men de möts i samma fråga: vem fattar beslut om Libanons framtid och vem kan garantera säkerheten för landets invånare?
+
+För de kristna samhällena i söder är detta inte en abstrakt geopolitisk fråga. Den handlar om möjligheten att återvända till hem, kyrkor, skolor och mark – och om staten kan skapa tillräcklig säkerhet för att människor ska kunna stanna.
+
+## Källor
+
+**Primärkällor**
+- FN:s säkerhetsråd, resolution 2790 (2025), antagen 28 augusti 2025: https://digitallibrary.un.org/record/4087395
+- FN:s säkerhetsråd, generalsekreterarens brev S/2026/453, 1 juni 2026: https://docs.un.org/en/S/2026/453
+- FN:s UNIFIL-mandatregister: https://mandates.un.org/mandate/2790%20%282025%29
+- House of Commons Library, *Lebanon and the end of UNIFIL’s mandate in 2026*, 24 september 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-10348/
+- Reuters, EU-förslag om treårig rådgivnings- och utbildningsmission, 24 juni 2026: https://www.reuters.com/world/middle-east/eu-diplomatic-service-proposes-three-year-mission-advise-train-lebanese-forces-2026-06-24/
+- Rådet för Europeiska unionen, *Lebanon: EU establishes new CSDP support mission*, 12 oktober 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/
+- Rådets beslut (Gusp) 2026/2296 om EUSM Lebanon, antaget 12 oktober och publicerat 13 oktober 2026: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2296
+- FN i Libanon, *Southern Lebanon: Families are returning. Daily Survival Remains a Struggle*, 9 oktober 2026: https://lebanon.un.org/en/324094-southern-lebanon-families-are-returning-daily-survival-remains-struggle
+
+**Oberoende rapportering**
+- L’Orient Today, *Rai calls to keep Lebanon out of wars that go beyond its borders and interests*, 1 november 2026: https://today.lorientlejour.com/article/1552868/rai-calls-to-keep-lebanon-out-of-wars-that-go-beyond-its-borders-and-interests.html
+- UN Peacekeeping, beslutet om slutlig förlängning och tillbakadragande, 28 augusti 2025: https://peacekeeping.un.org/en/news/security-council-un-peacekeeping-mission-in-lebanon-extended-for-a-final-time-0
+
+## Faktastatus och öppna kontrollpunkter
+
+- **Primärkälla:** Säkerhetsrådets resolution 2790 fastställer mandatets slutdatum och tillbakadragandets ramar.
+- **Primärkälla:** FN:s humanitära samordnare redovisar kommunala konsultationer och återvändandesituationen i oktober 2026.
+- **Oberoende rapportering:** L’Orient Today återger patriarkens predikan den 1 november.
+- **Parts-/kyrkligt uttalande:** Patriarkens position om statens monopol på vapen är ett religiöst och politiskt ställningstagande.
+- **Inte belagt:** Att UNIFIL:s hela personal och alla funktioner försvinner den 31 december 2026; resolutionen anger ett tillbakadragande inom ett år och begränsade uppgifter under perioden.
+- **Öppet:** FN:s generalsekreterares plan efter 1 juni 2026, libanesiska arméns resurser, säkerhetsarrangemang för lokalsamhällen och dokumenterad situation i enskilda kristna byar.
+
+**Status:** Utkast uppdaterat 6 november 2026 med FN:s tre efterföljande alternativ och EU:s formellt etablerade EUSM Lebanon. EU-missionen är ännu inte lanserad och ersätter inte UNIFIL; inte publicerat.
