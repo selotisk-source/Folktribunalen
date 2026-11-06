@@ -173,3 +173,10 @@ Källor:
 - Reuters, DTE Vantage-försäljningen, 5 november 2026: https://www.reuters.com/legal/litigation/dte-energy-sell-its-non-utility-business-about-3-billion-2026-11-05/
 - Ameren Q3 2026 release, 5 november 2026: https://www.prnewswire.com/news-releases/ameren-announces-third-quarter-2026-results-302931351.html
 - Reuters, Amerens investeringsplan och datacenteravtal, 6 november 2026: https://www.reuters.com/legal/litigation/ameren-sees-data-center-deals-pushing-investment-beyond-38-billion-plan-2026-11-06/
+
+
+### Texas institutionell kontroll: delad lagstiftande makt
+
+Associated Press rapporterade den 6 november att demokraterna vunnit kontroll över Texas House of Representatives medan republikanerna behåller delstatens senat. Det betyder att Hinojosas löfte om nya datacenterlagar möter en delad lagstiftande församling. Hon kan försöka använda verkställande befogenheter på samma sätt som Abbott gjort, men omfattningen och rättsliga hållbarheten för sådana åtgärder är ännu oklar. Det är därför för tidigt att beskriva hennes vallöfte som ett färdigt moratorium.
+
+**OBEROENDE BEKRÄFTELSE:** Associated Press, 6 november 2026: https://apnews.com/article/5640fa066346ce909f21b719ab073ee2
