@@ -20,7 +20,7 @@ IREN:s Q1 FY27-rapport visar hur snabbt ett neocloud-bolag kan växa och hur kap
 | AI Cloud-omsättning | 200 miljoner USD |
 | Bitcoin mining-omsättning | 28 miljoner USD |
 | Nettoresultat | −263 miljoner USD |
-| Justerad EBITDA | 66 miljoner USD |
+| Justerad EBITDA (icke-GAAP) | 66 miljoner USD |
 | Revenue backlog | 20,3 miljarder USD |
 | Kassa och bankmedel 30 september | 3,522 miljarder USD |
 | Begränsade likvida medel | 2,256 miljarder USD |
@@ -40,6 +40,12 @@ IREN säger att ett program med ett mål om mer än **4 miljarder dollar i årli
 
 Finansieringen är dessutom villkorad av att kraven i kreditfaciliteterna uppfylls och att spärrade medel kan frigöras. Det är inte samma sak som att hela beloppet redan finns som fria kontanter.
 
+### Ett efterföljande kontrakt har 90 procent GPU-förskott
+
+IREN uppger också att bolaget efter kvartalets slut tecknat ett femårigt avtal med ett anonymiserat ledande AI-laboratorium, med uppskattad årlig intäkt om cirka 22 miljoner dollar per IT-megawatt och kundförskott som täcker 90 procent av den tillhörande GPU-investeringen. Bolaget redovisar dessutom ett kortare avtal på cirka 40 miljoner dollar per IT-megawatt och säger att priset på H100-GPU:er i ett nytt kontrakt är dubbelt så högt som i ett tidigare avtal.
+
+Detta är bolagets egna uppgifter. Förskottet minskar finansieringsbehovet för just den kontrakterade GPU-kapaciteten, men visar inte att alla framtida projekt har motsvarande förskottsvillkor. Motpartens identitet och fullständiga avtalsvillkor har inte offentliggjorts i rapporten.
+
 Även ARR-måttet behöver läsas noggrant. IREN räknar det utifrån timpriser för driftsatta GPU:er under avtal, multiplicerat med 8 760 timmar per år och kompletterat med lagring och tilläggstjänster. Bolaget skriver självt att måttet bygger på interna antaganden om utnyttjandegrad och prissättning, inte är ett GAAP-mått och inte ersätter redovisad omsättning. Den faktiska omsättningen kan bli väsentligt lägre.
 
 ### Den viktigaste finansieringsraden är de återstående sex miljarderna
@@ -49,6 +55,8 @@ IREN uppskattar återstående capex under räkenskapsåret till cirka **15 milja
 Balansräkningen den 30 september redovisar 950 miljoner dollar i kortfristig skuld och 8,947 miljarder i långfristig skuld. Därutöver finns finansieringsleasingskulder. Det är verkliga redovisade skuldposter, medan den återstående capex-planen och finansieringsmålet är framtida behov och källor.
 
 Det här är den centrala skillnaden mellan ett finansierat delprogram och hela expansionsplanen: IREN säger att 0,3 GW-programmet som stöder 4-miljardersmålet är finansierat enligt bolagets definition, men bolagets bredare investeringsplan innehåller fortfarande 6 miljarder dollar i finansiering som ska säkras på marknaden.
+
+Bolaget uppger samtidigt att det har mer än 5 GW säkrad effekt och en utvecklingspipeline över 35 GW. IREN:s egen fotnot säger att utvecklingspipelinen ligger före undertecknade nätanslutningsavtal och att bolaget inte väntar sig att en betydande del ska bli säkrad effekt. De 35 GW får därför inte räknas som tillgänglig nätkapacitet eller färdig datacenterkraft.
 
 ### Tidsplanen har redan flyttats
 
