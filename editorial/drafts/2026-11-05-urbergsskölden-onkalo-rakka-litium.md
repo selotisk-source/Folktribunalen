@@ -135,7 +135,7 @@ Tidsfristen är nu en konkret kontrollpunkt för myndigheter och berörda verksa
 
 ### EU pekar ut 46 nya strategiska projekt
 
-**Besluts-/publiceringsdatum:** 9 oktober 2026.  
+**Beslutsdatum:** 9 oktober 2026. **Publicering i Europeiska unionens officiella tidning:** 22 oktober 2026.  
 **Källstatus:** **PRIMÄRKÄLLA** från EU-kommissionen; **OBEROENDE BEKRÄFTELSE** från Svenska Yle.
 
 EU-kommissionen lade den 9 oktober till **46 nya strategiska projekt inom unionen**, fördelade på 16 medlemsstater. Kommissionens översikt redovisar 16 råvarukategorier i projekten. Tillsammans med den första EU-omgångens 47 projekt och 13 projekt i länder utanför unionen omfattar den samlade listan 106 strategiska projekt.
@@ -178,7 +178,7 @@ Bolaget redovisar också ett borrhål med sex meter på 1,9 procent koppar cirka
 
 En riktad nyemission och konvertering av aktieägarlån hade ett totalt transaktionsvärde på cirka **2,4 miljarder kronor**. Av detta avsåg **681 miljoner kronor** aktieägarlån som omvandlades till eget kapital. Viscaria uppgav den 29 oktober att skuldfinansieringen för återöppningen fortfarande pågår, med ING och Société Générale som ledande arrangörer och kreditgodkännande från dessa banker väntat omkring årsskiftet. Bolaget räknar med att slutföra finansieringsprocessen inom 90 dagar.
 
-Detta är en viktig skillnad: bolaget har betydande likvida medel och en genomförd kapitalanskaffning, men den planerade bankfinansieringen är ännu inte beskriven som slutligt stängd eller utbetald. Bolagets mål om första säljbara koppar 2028 är en framtidsprognos, inte ett redan uppnått produktionsläge.
+Detta är en viktig skillnad: bolaget har betydande likvida medel och en genomförd kapitalanskaffning, men den planerade bankfinansieringen är ännu inte beskriven som slutligt stängd eller utbetald. Bolagets mål om produktionsstart 2028 är en framtidsprognos, inte ett redan uppnått produktionsläge.
 
 ### Varför detta spelar roll för Urbergsskölden
 
