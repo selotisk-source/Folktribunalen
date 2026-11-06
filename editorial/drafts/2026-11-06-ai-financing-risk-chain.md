@@ -1,8 +1,8 @@
 # Nästan 900 miljarder dollar – vem bär kreditrisken i AI-boomen?
 
 **Artikeltyp:** Ekonomisk granskning · AI-infrastruktur · kreditmarknad  
-**Publiceringsdatum:** 5 november 2026  
-**Faktaläge:** 5 november 2026  
+**Utkastdatum:** 6 november 2026  
+**Faktaläge:** 6 november 2026  
 **Berörda redaktionella spår:** NVIDIA, finansiering och säkerheter · Europas AI-datacenter · strategisk energi
 
 *Anthropic redovisar 895,4 miljarder dollar i framtida inköps- och leasingåtaganden. Samtidigt backar Google upp vissa hyresåtaganden i ett datacenterprojekt på 19 miljarder dollar, medan Blackstone och tre banker enligt Reuters finansierar köp av Broadcom-utrustning för Anthropic. Det är tre olika konstruktioner – och tre olika sätt att fördela risk.*
