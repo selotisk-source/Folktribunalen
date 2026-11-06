@@ -88,8 +88,9 @@ Det viktigaste för bevakningen är därför att följa övergången mellan två
 - USA:s konstitution, tjugonde tillägget, som anger när kongressens mandatperioder börjar: https://constitution.congress.gov/constitution/amendment-20/
 
 **Oberoende rapportering**
-- Associated Press, rapportering om att Demokraterna vunnit kontroll över representanthuset och senaten i 2026 års mellanårsval, 4–5 november 2026.
-- Reuters, rapportering om valresultatet och maktskiftet i kongressen, 5 november 2026.
+- Associated Press, *Calling control of Congress in the 2026 midterm elections*, 5 november 2026: https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/
+- Associated Press, *Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans*, 4 november 2026: https://apnews.com/article/f126e12e05b579a327b98481c0ae2226
+- Reuters, *Democrats seize Congress in sweeping midterm repudiation of Trump*, 4 november 2026: https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/
 
 **Kompletterande primärdokument att hämta**
 - Delstaternas officiella valmyndigheters canvass- och certifieringsresultat.
