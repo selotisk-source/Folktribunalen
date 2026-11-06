@@ -151,3 +151,16 @@ Investerare uppges också invänta oktober månads intäktsuppgift, som lämnats
 **Öppna kontrollfrågor:** Hämta nästa S-1/A och jämför intäktsuppgiften; kontrollera om roadshowen startar den 9 november; följ prisintervall, rabatt, ankarinvesterare och eventuella ändringar av noteringsdatum. Separera varje faktisk kapitalinbetalning från avsiktsförklaringar, leasingåtaganden och kreditstöd.
 
 **Status:** Tillägg 6 november 2026 kl. 01.54 Europe/Sofia. Inte publicerat.
+
+
+## Ny kontrollpunkt 6 november: ING erbjuder en portfölj med datacenterlån
+
+Reuters rapporterade den 6 november, med hänvisning till Bloomberg och personer med insyn, att nederländska ING erbjuder en portfölj på omkring **500 miljoner dollar** i datacenterlån till försäljning. Portföljen uppges omfatta tolv lån, bland annat en låneandel på 25 miljoner dollar kopplad till en datacenteranläggning i New Mexico inom Stargate-samarbetet mellan OpenAI, SoftBank och Oracle. Skulder kopplade till Vantage Data Centers och CyrusOne ska också ingå. Bud uppges vara välkomna till den 19 november, med ett minsta bud om 10 miljoner dollar.
+
+**Källstatus:** Detta är ännu inte en primärbekräftad transaktion. Reuters återger Bloomberg-uppgifter och skriver uttryckligen att Reuters inte kunde verifiera rapporten oberoende. ING avböjde att kommentera. Inga offentliga lånehandlingar, försäljningsmemorandum eller uppgifter om köpare har identifierats.
+
+Det går därför inte att slå fast varför ING säljer portföljen. En bank kan sälja lån för att frigöra kapital, minska koncentration, ombalansera risk eller realisera värde – utan att låntagaren är i betalningsproblem. Portföljförsäljningen är inte i sig bevis för fallissemang eller att Stargate-projektet har stoppats.
+
+**Vad som behöver kontrolleras:** om portföljen verkligen har bjudits ut, vilka låntagare och säkerheter som ingår, om lånen är projektfinansiering eller företagslån, om det finns förfallna betalningar, och om låneförsäljningen påverkar lånevillkor eller projektens byggplaner.
+
+**Källa:** Reuters, *ING puts $500 million of data-center loans up for sale, Bloomberg News reports*, 6 november 2026: https://www.reuters.com/business/finance/ing-puts-500-million-data-center-loans-up-for-sale-bloomberg-news-reports-2026-11-06/
