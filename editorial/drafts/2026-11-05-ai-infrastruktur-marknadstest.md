@@ -104,6 +104,7 @@ Den tidigare versionens AP-tal var intradagsuppgifter med ungefär en timme kvar
 - NVIDIA: **−9 procent**.
 - AMD: **−17 procent**.
 - CoreWeave: **−10 procent**.
+- IREN: **−17 procent**; Nebius: cirka **−14 procent**.
 - CoreWeaves femåriga CDS-spread nådde enligt S&P Global Market Intelligence **1 267,9 baspunkter**, en rekordnivå.
 
 Reuters återgav även en UBS-uppskattning om att omkring **30 procent av de väntade amerikanska datacenterkapacitetstillskotten 2028** kan vara utsatta för risk för byggpauser. Det är en analytikerbedömning av planerade tillägg, inte ett konstaterande att 30 procent av befintlig kapacitet stoppats eller att projekten har avbeställts.
