@@ -27,7 +27,9 @@ const seed = [
  ['sofia-staden-under-staden','Kultur','Sofia – staden under staden','Kyrkor, arkeologiska lager och berättelserna som lever kvar under den moderna huvudstaden.'],
  ['europas-strategiska-ravaror','Resurser','Europas strategiska råvaror','Sällsynta jordartsmetaller, gruvor, energi och kontrollen över framtidens försörjningskedjor.'],
  ['nvidia-som-sakerhet','Finans','NVIDIA – när aktier blir säkerhet för lån','Aktier som pant och GPU-infrastruktur som säkerhet – två modeller med olika risker.'],
- ['det-stora-och-lilla-fangelset','Folk','Det stora och det lilla fängelset','Samir Geagea, Libanons kristna politiska historia och frigivningen 2005.']
+ ['det-stora-och-lilla-fangelset','Folk','Det stora och det lilla fängelset','Samir Geagea, Libanons kristna politiska historia och frigivningen 2005.'],
+ ['kyrkor-som-overlevde-imperierna','Kultur','Europa: Kyrkorna som överlevde imperierna','Wiesbaden, Warszawa, Prag och möjliga fortsättningar i Sofia och Varna.'],
+ ['fennoskandien-urberg-skog-hast','Kultur','Fennoskandien – urberget, skogen och hästen','Geologi, skog, markanvändning och hästkultur i norra Europa.']
 ];
 
 async function migrate() {
