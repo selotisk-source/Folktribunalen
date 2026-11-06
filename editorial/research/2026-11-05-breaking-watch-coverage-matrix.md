@@ -374,3 +374,86 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 - Hormuz-utkastet innehåller redan UKMTO/IMO-händelsen och IRGC-påståendet; den nya primärkontrollen bekräftar att IMO namnger VELOS SAPPHIRE och anger en saknad sjöman.
 - Onkalo-utkastet innehåller regeringens licensvillkor och STUK:s förhandsinspektion.
 - Ingen ny artikel skapad, ingen artikel mergad och ingen publicering utförd i denna cykel.
+
+
+---
+
+## Cykelkontroll – 6 november 2026, 06.24 Europe/Sofia
+
+**Omfattning:** A–S, 19 huvudspår. Riktad sökning i öppna primärkällor och oberoende rapportering sedan föregående cykel. Fyra områden gav substantiella tillägg: B/F (AI-finansiering och datacenter), E/S (CRMA och Viscaria), N (Immigration Enforcement LFR) samt kompletterande marknadsdata i F. Detta är en källbaserad uppdatering av öppna frågor, inte en uttömmande genomgång av varje nationellt register eller diariefört ärende.
+
+### Nya betydande uppgifter
+
+#### B/F – AI-datacenter, finansiering och säkerheter
+
+- **5 november 2026, PRIMÄRKÄLLA:** IREN publicerade Q1 FY27 för kvartalet som avslutades 30 september. Omsättning 228 miljoner USD, varav AI Cloud 200 miljoner; nettoförlust 263 miljoner; justerad EBITDA 66 miljoner; backlog 20,3 miljarder; cirka två tredjedelar med investment-grade-motparter.
+- **Viktig redovisningsskillnad:** IREN:s backlog omfattar framtida belopp under bindande kundavtal, inklusive leasing och uppskattningar, men är villkorad av leverans och tjänstetillgänglighet. ARR-målet på över 4 miljarder är ett icke-GAAP-mått baserat på driftsatta GPU:er och interna antaganden; bolaget säger självt att redovisad omsättning kan bli väsentligt lägre.
+- **Finansieringskedja:** IREN redovisar 9,897 miljarder USD i skuld vid 30 september och cirka 15 miljarder USD i återstående planerad capex för FY27. Bolaget anger 9 miljarder i kassa, förbundna GPU-faciliteter och förskott som finansieringsunderlag för 0,3 GW-programmet; ytterligare 6 miljarder är målsatta finansieringskällor som uttryckligen beror på marknadsförhållandena.
+- **5 november, OBEROENDE MEDIERAPPORTERING:** Reuters återger Bloomberg-uppgifter om att Microsoft skärpt granskningen av vissa projekt hos Nebius, IREN och Nscale. IREN:s egen rapport bekräftar att delar av Microsoft-kapaciteten försenats till januari/februari 2027 efter kundbegärd nätverksdesignändring och leverantörstiming. Reuters säger att dessa förseningar inte medför förseningsavgifter.
+- **6 november, PARTSUPPGIFT/OBEKRÄFTAD:** Reuters återger Bloomberg-uppgifter om att ING erbjuder en portfölj på cirka 500 miljoner USD i datacenterlån, inklusive ett lån på 25 miljoner kopplat till en New Mexico-anläggning i Stargate samt lån kopplade till Vantage och CyrusOne. Reuters kunde inte självständigt verifiera uppgiften; den får inte beskrivas som bevis för låntagarproblem.
+- **4 november, PARTSUPPGIFT/OBEKRÄFTAD:** Reuters återger Bloomberg-uppgifter om att Goldman Sachs och Apollo söker köpare till delar av en cirka 40-miljardersfinansiering kopplad till SpaceX. Reuters återger samtidigt SpaceX:s uppgift om Apollo-anknutet köp av chip/serverutrustning för leasing. Den fullständiga avtals- och redovisningsstrukturen är inte offentligt kontrollerad.
+- **6 november, OBEROENDE MARKNADSDATA:** Reuters rapporterar SoftBanks femåriga CDS på 466 baspunkter, upp 22 baspunkter och högsta nivån sedan oktober 2022. CDS är priset på kreditförsäkring, inte ett konstaterande om betalningsinställelse.
+- **5 november, OBEROENDE MARKNADSDATA:** Reuters rapporterar CoreWeaves femåriga CDS på 1 267,9 baspunkter, rekord enligt S&P Global Market Intelligence. Nasdaq-100 föll 6,4 procent och SOX 12 procent; detta är marknadsutfall, inte bevis för att specifika projekt har fallerat.
+- **Artikelåtgärd:** nytt utkast skapat: editorial/drafts/2026-11-06-ai-infrastrukturens-kreditkedja-iren-softbank-ing-spacex.md. Befintligt marknadsutkast uppdaterat med slutkurser och källstatus.
+
+#### E/S – EU:s strategiska råvaruprojekt och Viscaria
+
+- **9 oktober 2026, PRIMÄRKÄLLA:** EU-kommissionen lade till 46 strategiska projekt inom unionen i 16 medlemsstater. Den samlade listan omfattar 106 projekt när den första EU-omgångens 47 projekt och 13 projekt utanför unionen räknas in.
+- **Finland:** fem nya projekt – CoNiKo, Hautalampi, Project Arctial, Sokli och Suhanko. **Sverige:** Viscaria i Kiruna.
+- **OBEROENDE BEKRÄFTELSE:** Svenska Yle rapporterade samma dag att fem finländska projekt tillkommit och citerade arbets- och näringsministeriets sakkunnige: statusen innebär inte direkt finansiering och nationell miljö- och tillståndslagstiftning gäller fortfarande. CRMA ger prioriterad handläggning och tidsfrister; den innebär inte automatiskt finansiering eller ett generellt undantag från miljöprövning.
+- **5 november 2026, PRIMÄRKÄLLA/PARTSUPPGIFT:** Viscarias Q3-rapport visar noll nettoomsättning, förlust 21 miljoner kronor, kassa 1,471 miljarder och eget kapital 5,341 miljarder per 30 september. Bolaget anger att skuldfinansieringen med ING och Société Générale fortfarande pågår, med kreditgodkännande väntat omkring årsskiftet. Bolagets mål om första säljbara koppar 2028 är en prognos.
+- **Artikelåtgärd:** befintligt Urbergsskölden-utkast uppdaterat med 46-projektlistan, nordisk projektkarta och Viscarias Q3-/finansieringsläge.
+
+#### N – Immigration Enforcement och live-ansiktsigenkänning
+
+- **8 oktober 2026, PRIMÄRKÄLLA:** Home Office uppdaterade Immigration Enforcement facial recognition policy till version 2.3.
+- **22 oktober 2026, PRIMÄRKÄLLA:** Home Office publicerade en ny DPIA för live-ansiktsigenkänning.
+- **29 oktober 2026, PRIMÄRKÄLLA:** Legal Mandate uppdaterades från version 2.0 till 2.2 och anger att programmet går från proof-of-concept till pilot. Home Office säger uttryckligen att ändringen inte skapar nya verkställighetsbefogenheter.
+- **15 oktober 2026, PRIMÄRKÄLLA:** Home Offices offentliga insatsdata innehåller åtta insatser i november 2025 (7 512 ansiktsskanningar, två positiva varningar, en arrestering) och tio insatser 24–26 februari 2026 (2 752 skanningar, två felaktiga varningar och inga felaktiga ingripanden). Totalt 10 264 ansiktsskanningar; det är inte ett mått på unika individer.
+- **4 november 2026, OBEROENDE GRANSKNING:** Guardian/Liberty Investigates rapporterar att Home Office överväger bredare användning vid transportknutpunkter och evenemang samt att kommissionären William Webster säger att han inte konsulterats och att migrationsanvändningen faller utanför hans mandat. Home Office-dokumenten listar samtidigt kommissionären som en del av den externa tillsynsramen; denna skillnad kräver ett tydligt myndighetssvar.
+- **Artikelåtgärd:** befintligt brittiskt biometridraft kompletterat med ett separat migrationsspår, officiella försöksdata och tillsynsfrågan.
+
+### Täckningsmatris A–S
+
+| Spår | Senaste kontroll i denna cykel | Status och öppna frågor | Nästa kontrollpunkt |
+|---|---|---|---|
+| A. Palantir/offentlig makt | Q3 8-K/10-Q, NHS-FDP, Guardian/FT-rapportering kontrollerad i föregående cykel; ingen ny formell förlängningsakt hämtad. | NHS-förlängning fortfarande medierapporterad; faktisk användning och exitvillkor öppna. | Formellt regeringsbeslut, upphandling och avtal. |
+| B. AI-datacenter | IREN Q1, Microsoft/Nscale/Nebius, ING-låneportfölj, EuroHPC-frister. | IREN:s 6 miljarder USD i bredare målfinansiering; elanslutning och kundacceptans; ING-uppgift obekräftad. | EuroHPC 12 nov; Effingham 17 nov; ING-bud 19 nov. |
+| C. Synkronicitet | Teoretiska modeller kontrollerade; inget nytt empiriskt test som ändrar evidensläget. | Replikation och förhandsregistrering saknas. | Nya öppna dataset och kontrollerade experiment. |
+| D. Sofia | Ingen ny arkeologisk primärhandling identifierad. | Samuils kvarlevor/sarkofag och föremålsdokumentation kvarstår. | Inventarielistor, fyndplatsarkiv och eventuell DNA-rapport. |
+| E. Strategiska råvaror | CRMA-listan 9 okt; Finland fem projekt, Sverige Viscaria. | Strategisk status får inte likställas med tillstånd, finansiering eller produktion. | Projektens miljötillstånd, kommunala beslut och finansiering. |
+| F. NVIDIA/AI-finansiering | IREN, SoftBank CDS, CoreWeave CDS, ING och SpaceX. | Exakta låntagare, säkerheter, leasingredovisning och sekundärlåneportfölj öppna. | ING:s rapporterade buddag 19 nov; fullständiga avtal och SEC-noter. |
+| G. Libanon | Ingen ny operativ rådsakt eller kyrklig kulturarvsakt identifierad. | EUSM:s operativa lansering och civila skyddsfrågor öppna. | Rådsbeslut och UNIFIL-mandat. |
+| H. Kyrkorna | Ingen ny stadsvis restaurerings- eller ägarakt identifierad. | Wiesbaden, Warszawa, Prag, Sofia och Varna följs separat. | Församlings- och kommunarkiv. |
+| I. Fennoskandien | Ingen ny mark-/skogsbruks- eller hästhistorisk primärhandling. | Markägande, kulturmiljö och traditionella samband öppna. | Historiska kartor, markregister och hästavelns arkiv. |
+| J. Storsjöodjuret | Ingen ny biologisk evidens eller originalvittnesmål. | Folkloristik, Frösöstenen och Thiels citatkontext hålls åtskilda. | Originalkällor och runologiska publikationer. |
+| K. Cladonia/Storsjö kapell | Tidigare ISP-beslut och JO-anmälan finns i befintligt utkast; inget nytt fastighetsutdrag hämtat. | Ytterligare fastigheter och lagfarter ej registerkontrollerade. | Lantmäteriets fastighetsakter och separata förvärvstillstånd. |
+| L. Skaga kapell | Ingen ny restaurerings-/arkeologihandling. | Byggnadsfaser, ägande och återuppbyggnadshistoria öppna. | RAÄ, länsstyrelse, kommun- och kyrkoarkiv. |
+| M. Athos | Ingen ny offentlig proveniens- eller katalogpost. | Donationer och manuskriptförflyttningar kräver dokumenterad proveniens. | Offentliga klosterkataloger och forskningsprojekt. |
+| N. Från skrift till Storebror | Home Office LFR policy, DPIA, Legal Mandate och deployment-data. | Pilotens framtida platser, watchlistkriterier, felutfall och faktisk extern tillsyn öppna. | Nya deployment-resultat, ICO/kommissionärens besked och Police Reform Bill. |
+| O. Hormuz/sjöfart | IMO:s 5 nov-lista och Fitburg-domen kontrollerade i föregående cykel. | VELOS SAPPHIRE är identifierat; IRGC:s övriga påståenden fortfarande obekräftade. | Flaggstats-/rederibesked och eventuella överklaganden i Fitburg. |
+| P. USA:s kongress | Begäran om Jensen Huang-briefing 18 nov kvarstår. | Ingen ny offentlig hearing/lagtext i denna cykel. | Svarsdag 11 nov och eventuell briefing 18 nov. |
+| Q. Gripen | Saabs AI-flygprov är fortfarande bolagets uppgift. | Oberoende testprotokoll och FMV:s roll saknas. | Offentligt testunderlag och export-/leveransbeslut. |
+| R. Strategisk energi | Onkalo-licensen kvarstår; ingen ny STUK-startinspektion. | Driftstart får inte likställas med licensbeslut. | STUK:s förhandsinspektion. |
+| S. Urbergsskölden | CRMA-listan och Viscarias Q3-rapport; Onkalo-licensen följs separat. | Civil underjordisk infrastruktur och råvaruflöden kräver egna tillstånd och finansiering. | Viscarias bankkredit omkring årsskiftet; RAKKA/GTK; Onkalo/STUK. |
+
+### Nästa kontrollpunkter
+
+| Datum | Kontroll |
+|---|---|
+| 11 november | Sista svarsdag i utskottsordförandenas begäran till Jensen Huang |
+| 12 november | EuroHPC AI Gigafactories – ansökningstid |
+| 17 november | Effingham County: nytt möte om Project Camellia |
+| 18 november | Begärd sluten kongressbriefing med Jensen Huang, om accepterad |
+| 19 november | Rapporterad sista buddag för ING:s datacenterlåneportfölj |
+| 24 november | CRMA artikel 27.3 för berörda utvinningsavfallsoperatörer |
+| 3 december | EuroHPC Lot 2 |
+| 4 februari 2027 | EuroHPC Lot 1 |
+
+### Arbetsstatus 6 november 2026, 06.24 Europe/Sofia
+
+- 19 huvudspår uppdaterade i matrisen genom riktad sökning.
+- Ett nytt artikelutkast skapat: AI-infrastrukturens kreditkedja.
+- Tre befintliga utkast uppdaterade: AI-marknadstestet, Urbergsskölden och brittisk biometrisk övervakning.
+- PR #1:s beskrivning och artikelräkning uppdateras efter filkontroll.
+- Ingen artikel mergad eller publicerad i denna cykel. Ingen webbplatsdatabas ändrad.
