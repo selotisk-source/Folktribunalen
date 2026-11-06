@@ -203,3 +203,23 @@ Källor:
 - ACER, 6 november 2026: https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs
 - ACER 2026 Monitoring Report: https://www.acer.europa.eu/monitoring/energy-infrastructure-2026
 - Reuters, 6 november 2026: https://www.reuters.com/business/energy/eu-grid-investment-keep-rising-toward-2030-acer-says-2026-11-06/
+
+
+## Microsoft granskar också sina leverantörer – politisk risk är inte den enda flaskhalsen
+
+Den 5 november rapporterade Reuters att Microsofts 200 MW-projekt med IREN i Childress, Texas, försenats efter en kundbegärd ändring av nätverksdesignen och leverantörsförseningar. IREN:s mål om mer än 4 miljarder dollar i annualiserad run-rate revenue flyttades från årsskiftet till januari 2027, med risk för februari. Reuters anger att ändringen kom från Microsoft och att förseningen inte ska utlösa förseningskrediter eftersom den följde av kundens begäran.
+
+Det är viktigt att skilja detta från en uppsägning: IREN:s 9,7 miljarder dollar avser det rapporterade femåriga tjänsteavtalet, inte byggkostnaden, och Reuters rapporterade inte att Microsoft sagt upp det. IREN säger att den första 50 MW-byggnaden tagits i drift och att återstående leveranser väntar på nätverksutrustning och driftsättning.
+
+Reuters återgav dessutom Bloomberg-uppgifter om att Microsoft skärper tillsynen över vissa projekt hos IREN, Nebius och Nscale och omprövar nya avtal med externa AI-molnleverantörer. Den 6 november rapporterade Reuters/Bloomberg också att Microsoft håller på att fasa ut hyrd AI-kapacitet från Oracle och inte förnyar det aktuella avtalet. Oracle säger att efterfrågan på AI-infrastruktur fortsatt är stark; Microsoft har inte offentligt bekräftat detaljerna i den rapporterade Oracle-omläggningen.
+
+Microsofts offentliga beskrivning är att bolaget fortsatt kombinerar egna datacenter, leasade anläggningar och strategiska tredjepartssamarbeten. Det är därför mer korrekt att tala om **hårdare leverantörsgranskning och omallokering av kapacitet** än om ett fullständigt tillbakadragande från neocloudmarknaden.
+
+Källstatus: **PRIMÄRKÄLLA / PARTSUPPGIFT** – IREN:s 10-Q och Q1 FY27-resultat, 5 november. **OBEROENDE BEKRÄFTELSE** – Reuters 5 november om Childress-förseningen. **OBEROENDE RAPPORTERING VIA BLOOMBERG** – Reuters 5–6 november om Microsofts leverantörsgranskning och Oracle-avtalet; de interna besluten har inte bekräftats genom publicerade kontrakt.
+
+Källor:
+- IREN Q1 FY27 release: https://iren.gcs-web.com/news-releases/news-release-details/iren-reports-q1-fy27-results
+- IREN 10-Q: https://irisenergy.gcs-web.com/node/12706/xbrl-viewer
+- Reuters, 5 november: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
+- Reuters, 5 november: https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/
+- Reuters, 6 november: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
