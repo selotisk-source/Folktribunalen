@@ -128,3 +128,51 @@ https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726
 **ÖPPET:** bindande avtal bakom MOU:t, vilka finansinstitut som faktiskt åtagit sig kapital, belopp per projekt, utbetalningar, säkerheter och om vissa åtaganden överlappar tabellerna.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Marknadsuppdatering 7 november: ING erbjuder datacenterlån till försäljning – OpenAI uppges ha stängt ny finansiering
+
+Två uppgifter publicerade den 6 november ger en ny bild av finansieringsmarknaden runt AI-infrastruktur. De ska läsas som två skilda transaktionstyper och inte som bevis för att samma projekt eller låntagare befinner sig i betalningsproblem.
+
+### ING: en låneportfölj på cirka 500 miljoner dollar
+
+Reuters rapporterade den 6 november, med Bloomberg som ursprunglig källa och hänvisning till personer med insyn, att nederländska ING erbjuder en portfölj med omkring tolv datacenterlån till försäljning. Det sammanlagda nominella beloppet uppges vara cirka **500 miljoner dollar**. Bud om minst 10 miljoner dollar ska lämnas senast den 19 november.
+
+Portföljen uppges bland annat innehålla:
+- ett lån på cirka **25 miljoner dollar** kopplat till en större datacentersajt i New Mexico inom Stargate-satsningen,
+- skulder med koppling till Vantage Data Centers,
+- skulder med koppling till CyrusOne.
+
+ING avböjde att kommentera uppgifterna när Reuters kontaktade banken. Ingen offentlig låneförteckning, prissättning, säkerhetsstruktur, låntagarnas betalningsstatus eller köpare har identifierats i denna kontroll.
+
+**Källstatus:** **OBEROENDE RAPPORTERING / PARTSUPPGIFT VIA ANONYMA KÄLLOR** – Reuters återger Bloomberg. **Inte belagt:** att portföljen innehåller nödlidande lån, att låntagarna har fallerat eller att försäljningen sker med rabatt. En bank kan sälja en fungerande låneportfölj av flera skäl; en portföljförsäljning är inte i sig ett kreditförlustbesked.
+
+### OpenAI: rapporterad finansiering på 11 miljarder dollar
+
+Reuters rapporterade den 6 november att Bloomberg uppger att OpenAI stängt en ny finansiering på **11 miljarder dollar**, som den första delen av en större runda där bolaget värderas till **1,25 biljoner dollar**. Reuters anger att uppgiften bygger på personer med insyn, återgivna av Bloomberg.
+
+Någon offentlig primärbekräftelse från OpenAI eller en investerare har inte lokaliserats i denna kontroll. Därför ska uppgiften märkas som **OBEKRÄFTAD PRIMÄRKÄLLA / OBEROENDE MEDIERAPPORTERING** tills bolaget eller investerarna publicerar dokumentation.
+
+Värderingen är inte samma sak som kontant finansiering, och finansieringsrundan är inte ett specifikt projektlån till Stargate, SB Energy eller Nscale. Den får inte läggas ihop med NVIDIA:s garanti eller med NVIDIAs leverantörs- och köpåtaganden.
+
+### Varför dessa två uppgifter spelar roll
+
+De illustrerar två olika sidor av AI-kapitalmarknaden:
+- nya ägar- eller aktiefinansieringsrundor kan tillföra kapital till modellbolag,
+- bankernas låneportföljer kan byta ägare utan att de underliggande låntagarna nödvändigtvis ändrar betalningsstatus.
+
+Det är därför nödvändigt att skilja mellan **kapitalanskaffning, kreditåtagande, garanti, låneöverlåtelse och faktisk utbetalning**. De är inte utbytbara mått på finansiell risk.
+
+### Nästa kontrollpunkter
+
+1. Hämta eventuell offentlig bekräftelse från ING eller låneförvaltare om portföljens innehåll och status.
+2. Kontrollera om portföljen säljs till nominellt värde, rabatt eller annan prissättning – om uppgiften blir offentlig.
+3. Identifiera de juridiska låntagarna bakom Vantage-, CyrusOne- och New Mexico-exponeringarna utan att anta att de är samma projektbolag.
+4. Följ om OpenAI eller namngivna investerare bekräftar finansieringen, rundans villkor och kapitalets användning.
+5. Håll ING:s portföljförsäljning åtskild från NVIDIA:s garanti till SB Energy och från OpenAI:s framtida kapacitetsåtaganden.
+
+**Källor:**
+- Reuters, ING:s låneportfölj, 6 november 2026: https://www.reuters.com/business/finance/ing-puts-500-million-data-center-loans-up-sale-bloomberg-news-reports-2026-11-06/
+- Reuters, OpenAI:s rapporterade finansiering, 6 november 2026: https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/
+
+**Status:** Tillägg till granskningsutkastet. Uppgifterna är inte införda som primärbekräftade transaktioner och ska inte användas som bevis för kreditstress utan ytterligare dokumentation.
