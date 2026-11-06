@@ -176,3 +176,66 @@ Det är därför nödvändigt att skilja mellan **kapitalanskaffning, kreditåta
 - Reuters, OpenAI:s rapporterade finansiering, 6 november 2026: https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/
 
 **Status:** Tillägg till granskningsutkastet. Uppgifterna är inte införda som primärbekräftade transaktioner och ska inte användas som bevis för kreditstress utan ytterligare dokumentation.
+
+
+## Ny primärkälla 7 november: Google backstoppar TeraWulfs Anthropic-leasing – och får särskilda kontrollrättigheter
+
+**Avtalsdatum:** 4 november 2026. **SEC-inlämning:** Form 8-K, 4 november 2026. **Projekt:** Justified Data Campus, Hawesville, Kentucky. **Parter:** Raylan Data LLC, TeraWulf Inc., Justified DataPower LLC, Anthropic PBC och Google LLC.
+
+### Vad 8-K faktiskt fastslår
+
+TeraWulf redovisar tre separata Credit Support Agreements för tre byggnader/datahallar (CB-1, CB-2 och CB-3). De stödjer ett 20-årigt hyresavtal där Anthropic ska få cirka **401 MW kritisk IT-last**. TeraWulf anger cirka **19 miljarder dollar i kontrakterade hyresåtaganden** över den första avtalstiden. Det beloppet är inte storleken på Googles garanti.
+
+Hyresbetalningarna börjar när respektive datahall levereras. TeraWulf anger en stegvis leverans från slutet av 2027 till andra kvartalet 2028. Googles backstop blir enligt 8-K verksam först när den sista datahallen i respektive hyresavtal har påbörjats.
+
+Vid betalningsdröjsmål eller insolvens hos Anthropic får Google enligt 8-K välja mellan att:
+1. betala förfallen hyra och ta över hyresavtalet som hyresgäst, eller
+2. under vissa villkor betala en uppsägningsavgift, varefter Google får rätt att förvärva en ägarandel i Raylan Data LLC.
+
+Google kan också skjuta upp sitt val vid vissa betalningsdröjsmål och under uppskovsperioden betala obetald och ny förfallen hyra. Avtalet är därmed mer än en enkel borgensförbindelse: det ger Google möjlighet att hålla projektet igång, ta över hyrespositionen eller i vissa fall gå in som ägare i projektbolaget.
+
+### En viktig TPU-klausul
+
+Den inlämnade avtalsformen innehåller i avsnitt 2(k) en klausul som anger att Anthropic och dess dotterbolag endast får använda **Google-godkända tensor processing units (TPU:er)** som acceleratorprocessorer i de berörda lokalerna under avtalets löptid.
+
+Det är ett betydande kommersiellt villkor. Google bidrar inte bara med kreditstöd utan får genom den publicerade avtalsformen även en koppling till vilken acceleratorplattform som används på just denna anläggning. Det kan skapa ett tekniskt och kommersiellt beroende som bör jämföras med TeraWulfs andra hårdvaru- och leverantörsavtal.
+
+**Viktig reservation:** 8-K anger att tre avtal har ingåtts men hänvisar till en *form of Credit Support Agreement* som Exhibit 10.1. Den publicerade formen innehåller tomma beloppsfält och hänvisar till bilagor/scheman som inte finns med i den offentliga filen. Därför går det inte att fastställa Googles maximala finansiella exponering eller den exakta uppsägningsavgiften från den publicerade formen. TPU-klausulen ska kontrolleras mot de tre fullständigt undertecknade avtalen innan den behandlas som definitivt identisk i varje byggnad.
+
+### Kontroll- och säkerhetsstruktur
+
+Avtalsformen ger Google:
+- rätt att godkänna vissa väsentliga ändringar i leasingdokumenten,
+- begränsningar för överlåtelser utan Googles skriftliga samtycke,
+- rätt att inspektera och hantera egendom som ägs av Google på platsen,
+- möjlighet att ta över hyresavtalet efter vissa default-händelser,
+- rätt att erhålla en ägarandel i Raylan om Google väljer uppsägningsavgiftsalternativet.
+
+Avtalet begränsar samtidigt Googles ansvar: vid uppsägningsalternativet är ansvaret kopplat till uppsägningsavgiften, och avtalsformen utesluter bland annat vissa former av förlorad vinst, indirekt skada, brist- och accelererad hyra. Den publicerade formen innehåller dessutom en uttrycklig ansvarsbegränsning.
+
+### Varför detta spelar roll för finansieringskedjan
+
+Kedjan kan nu beskrivas mer konkret:
+
+- **Anthropic** är långsiktig hyresgäst och bär grundåtagandet att betala hyra när kapacitet levereras.
+- **Raylan Data LLC** är projektets hyresvärd och avtalspart mot Anthropic.
+- **TeraWulf** är moderbolag och garant för vissa hyresvärdsförpliktelser.
+- **Justified DataPower LLC** är master landlord.
+- **Google** ger kreditstöd som ska förbättra projektets lånevillkor och får särskilda rättigheter vid default.
+- **Fluor** har ett definitivt EPC-avtal för de tre byggnaderna; garanterat maxpris fastställs efterhand när projektering och upphandling fortskrider.
+
+Detta är ett exempel på hur hyperscalers kan bli kreditförstärkare och potentiella ersättningshyresgäster i AI-infrastruktur. Det är inte samma sak som att Google garanterar alla 19 miljarder dollar eller äger campus från början.
+
+**Källstatus:**
+- **PRIMÄRKÄLLA:** TeraWulfs Form 8-K, 4 november 2026.
+- **PRIMÄRKÄLLA:** Exhibit 10.1, publicerad avtalsform.
+- **PRIMÄRKÄLLA / PARTSUPPGIFT:** TeraWulfs pressmeddelande om projektets finansiering och Fluor-avtalet.
+- **OBEROENDE BEKRÄFTELSE:** Reuters, 4 november 2026.
+- **OBEKRÄFTAT:** maximalt garanti-/backstopbelopp, fullständiga uppsägningsavgifter och om alla tre undertecknade avtal följer den publicerade formen utan materiella avvikelser.
+
+### Källor
+
+- SEC/TeraWulf Form 8-K, 4 november 2026: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-069810/wulf-20261104.htm
+- SEC/TeraWulf Exhibit 10.1, Credit Support Agreement: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-069810/exhibit101-googlexterawulf.htm
+- TeraWulf Exhibit 99.1, 4 november 2026: https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulfhawesvillecsaandepcmpr.htm
+- Reuters, 4 november 2026: https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/
