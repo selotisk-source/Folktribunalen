@@ -157,7 +157,7 @@ Detta ger en tydlig granskningslinje: hur väl överensstämmer den bredare oper
 
 ### Vad de publicerade försöksresultaten visar
 
-Home Office publicerade den 15 oktober 2026 en uppdaterad tabell över insatser vid Holyhead. Tabellen innehåller åtta insatser i november 2025 och tio insatser den 24–26 februari 2026.
+Home Office publicerade den 15 oktober 2026 en uppdaterad tabell över insatser vid Holyhead. Liberty Investigates beskriver försöken som tre trial-perioder vid Holyhead. Home Offices offentliga tabell räknar i stället 18 enskilda deployment-poster: åtta i november 2025 och tio den 24–26 februari 2026. Det är olika räkningsenheter och ska inte presenteras som motstridiga totalsiffror.
 
 | Period | Ansiktsskanningar | Positiva varningar | Felaktiga varningar | Gripanden |
 |---|---:|---:|---:|---:|
