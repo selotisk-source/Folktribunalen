@@ -421,11 +421,11 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 | B. AI-datacenter | IREN Q1, Microsoft/Nscale/Nebius, ING-låneportfölj, EuroHPC-frister. | IREN:s 6 miljarder USD i bredare målfinansiering; elanslutning och kundacceptans; ING-uppgift obekräftad. | EuroHPC 12 nov; Effingham 17 nov; ING-bud 19 nov. |
 | C. Synkronicitet | Teoretiska modeller kontrollerade; inget nytt empiriskt test som ändrar evidensläget. | Replikation och förhandsregistrering saknas. | Nya öppna dataset och kontrollerade experiment. |
 | D. Sofia | Ingen ny arkeologisk primärhandling identifierad. | Samuils kvarlevor/sarkofag och föremålsdokumentation kvarstår. | Inventarielistor, fyndplatsarkiv och eventuell DNA-rapport. |
-| E. Strategiska råvaror | CRMA-listan 9 okt; Finland fem projekt, Sverige Viscaria. | Strategisk status får inte likställas med tillstånd, finansiering eller produktion. | Projektens miljötillstånd, kommunala beslut och finansiering. |
+| E. Strategiska råvaror | CRMA-listan 9 okt; Finland fem projekt, Sverige Viscaria; Arctials MKB-slutsats 2 okt/publicerad 7 okt. | Arctial har strategisk status men ännu inte miljö-/byggtillstånd i den granskade MKB-posten; 1 050 MW effektbehov, 2,5 Mt CO2e/år och HF-/naturvillkor kräver fortsatt prövning. | Arctials separata tillståndsansökningar, 400 kV-anslutningar och undantag för skyddad art. |
 | F. NVIDIA/AI-finansiering | IREN, SoftBank CDS, CoreWeave CDS, ING och SpaceX. | Exakta låntagare, säkerheter, leasingredovisning och sekundärlåneportfölj öppna. | ING:s rapporterade buddag 19 nov; fullständiga avtal och SEC-noter. |
 | G. Libanon | Ingen ny operativ rådsakt eller kyrklig kulturarvsakt identifierad. | EUSM:s operativa lansering och civila skyddsfrågor öppna. | Rådsbeslut och UNIFIL-mandat. |
 | H. Kyrkorna | Ingen ny stadsvis restaurerings- eller ägarakt identifierad. | Wiesbaden, Warszawa, Prag, Sofia och Varna följs separat. | Församlings- och kommunarkiv. |
-| I. Fennoskandien | Ingen ny mark-/skogsbruks- eller hästhistorisk primärhandling. | Markägande, kulturmiljö och traditionella samband öppna. | Historiska kartor, markregister och hästavelns arkiv. |
+| I. Fennoskandien | Arctials MKB-slutsats 2 okt, publicerad 7 okt; Yles lokala rapportering om Kvikants hästlandskap 21 sep och myndighetsbedömning 8 okt. | Cirka 20 stall/150 hästar enligt Yle; myndigheten identifierar risker för foder, betesmark, djurhälsa och fluoridansamling. Ingen skada är därmed fastställd; mätdata och tillståndsvillkor saknas. | Baslinjemätningar, fluorid i vegetation/foder, markvärden och eventuella ersättnings-/markköpsavtal. |
 | J. Storsjöodjuret | Ingen ny biologisk evidens eller originalvittnesmål. | Folkloristik, Frösöstenen och Thiels citatkontext hålls åtskilda. | Originalkällor och runologiska publikationer. |
 | K. Cladonia/Storsjö kapell | Tidigare ISP-beslut och JO-anmälan finns i befintligt utkast; inget nytt fastighetsutdrag hämtat. | Ytterligare fastigheter och lagfarter ej registerkontrollerade. | Lantmäteriets fastighetsakter och separata förvärvstillstånd. |
 | L. Skaga kapell | Ingen ny restaurerings-/arkeologihandling. | Byggnadsfaser, ägande och återuppbyggnadshistoria öppna. | RAÄ, länsstyrelse, kommun- och kyrkoarkiv. |
@@ -435,7 +435,7 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 | P. USA:s kongress | Begäran om Jensen Huang-briefing 18 nov kvarstår. | Ingen ny offentlig hearing/lagtext i denna cykel. | Svarsdag 11 nov och eventuell briefing 18 nov. |
 | Q. Gripen | Saabs AI-flygprov är fortfarande bolagets uppgift. | Oberoende testprotokoll och FMV:s roll saknas. | Offentligt testunderlag och export-/leveransbeslut. |
 | R. Strategisk energi | Onkalo-licensen kvarstår; ingen ny STUK-startinspektion. | Driftstart får inte likställas med licensbeslut. | STUK:s förhandsinspektion. |
-| S. Urbergsskölden | CRMA-listan och Viscarias Q3-rapport; Onkalo-licensen följs separat. | Civil underjordisk infrastruktur och råvaruflöden kräver egna tillstånd och finansiering. | Viscarias bankkredit omkring årsskiftet; RAKKA/GTK; Onkalo/STUK. |
+| S. Urbergsskölden | CRMA-listan, Arctials MKB-slutsats och Viscarias Q3-rapport; Onkalo-licensen följs separat. | Strategisk råvarustatus måste skiljas från miljötillstånd, nätanslutning, finansiering och kommersiell drift. Arctials 1 050 MW effektbehov är en betydande nätfråga. | Arctials 400 kV-anslutningar och separata tillstånd; Viscarias bankkredit; RAKKA/GTK; Onkalo/STUK. |
 
 ### Nästa kontrollpunkter
 
@@ -457,3 +457,14 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 - Tre befintliga utkast uppdaterade: AI-marknadstestet, Urbergsskölden och brittisk biometrisk övervakning.
 - PR #1:s beskrivning och artikelräkning uppdateras efter filkontroll.
 - Ingen artikel mergad eller publicerad i denna cykel. Ingen webbplatsdatabas ändrad.
+
+
+#### I/E/S – Arctial och hästlandskapet kring Karleby–Kronoby
+
+- **2 oktober 2026, PRIMÄRKÄLLA:** Tillstånds- och tillsynsverket daterade den motiverade MKB-slutsatsen för Arctial MidstreamCo Oy, diarienummer LVV-U/23296/2026. Slutsatsen publicerades i miljöförvaltningens projektregister 7 oktober.
+- **Projektdata, PRIMÄRKÄLLA:** 610 000 ton primäraluminium per år, cirka 170 hektar och två nya 400 kV-ledningsanslutningar från Hirvisuo. Myndighetens slutsats anger cirka 1 050 MW jämnt effektbehov och cirka 2,5 miljoner ton CO2e per år, cirka 6,5 procent av Finlands årsutsläpp enligt myndighetens jämförelse.
+- **Miljörisk, PRIMÄRKÄLLA:** myndigheten bedömer betydande effekter på luftkvalitet, växtlighet, djurliv, levnadsförhållanden och klimat. Modellerad HF-halt under växtperioden når 0,964 µg/m3 vid sex bostadsfastigheter och ett åkerområde, över Quebecs växtskyddskriterium 0,4 µg/m3 men under det hälsobaserade jämförelsevärdet 60 µg/m3. Quebec-kriteriet är inte ett finländskt lagstadgat gränsvärde. Myndigheten säger att fluoridansamling i foder/odlingsväxter inte har bedömts tillräckligt.
+- **Naturvillkor, PRIMÄRKÄLLA:** en skyddad pudrad kärrtrollsländas fortplantnings- och viloplats påverkas; myndigheten anger att projektet inte kan föras vidare utan särskilt undantagstillstånd. Samtidigt bedöms Natura 2000-området Bredviken inte få betydande försämring om planerade lindrande åtgärder genomförs.
+- **Lokal kultur och hästhållning, OBEROENDE BEKRÄFTELSE:** Svenska Yle rapporterar cirka 20 stall och 150 hästar i Kvikant. Den officiella MKB-handlingen bekräftar att hästskötsel, foderproduktion och djurhälsa togs upp i remissmaterialet. Det är dokumenterad oro och ett utredningsbehov, inte bevis för redan inträffad skada.
+- **9 oktober 2026, PRIMÄRKÄLLA:** Arctial fick strategisk projektstatus enligt CRMA. Statusen ger prioriterad handläggning men är inte ett miljötillstånd, bygglov, investeringsbeslut eller direkt finansiering.
+- **Artikelåtgärd:** nytt utkast skapat för spår I/E/S: editorial/drafts/2026-11-06-arctial-hastlandskap-energi-crma.md. Urbergsskölden-utkastet och matrisen kompletterade med Arctials MKB- och nätfrågor.
