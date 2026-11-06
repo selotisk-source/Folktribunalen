@@ -164,3 +164,16 @@ Det går därför inte att slå fast varför ING säljer portföljen. En bank ka
 **Vad som behöver kontrolleras:** om portföljen verkligen har bjudits ut, vilka låntagare och säkerheter som ingår, om lånen är projektfinansiering eller företagslån, om det finns förfallna betalningar, och om låneförsäljningen påverkar lånevillkor eller projektens byggplaner.
 
 **Källa:** Reuters, *ING puts $500 million of data-center loans up for sale, Bloomberg News reports*, 6 november 2026: https://www.reuters.com/business/finance/ing-puts-500-million-data-center-loans-up-for-sale-bloomberg-news-reports-2026-11-06/
+
+## Tillägg 6 november: SoftBanks kreditmarknadssignal och AI-boomens korsägande
+
+Reuters rapporterade den 6 november att kostnaden för att försäkra SoftBanks femåriga skuld mot fallissemang steg till omkring **466 baspunkter**. Reuters återgav även en marknadsberäkning på cirka **30,6 procents implicerad sannolikhet för fallissemang**. Den siffran är härledd ur CDS-prissättning och en modellantagen återvinningsgrad; den är inte en objektiv prognos, ett kreditbetyg eller ett besked om att SoftBank står inför omedelbart fallissemang.
+
+SoftBank är en central ägare i SB Energy, som utvecklar PORTS-campus i Ohio. Därmed blir SoftBanks finansieringskostnad relevant för ett projekt där NVIDIA har lämnat ett villkorat residualvärdesstöd och OpenAI är tänkt att vara en långsiktig hyresgäst. Kopplingen visar en koncentrerad ägar- och finansieringskedja, men bevisar inte att någon av parterna har brutit mot avtal eller saknar betalningsförmåga.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 6 november 2026, rapport om SoftBanks CDS och finansieringsbehov.  
+https://www.reuters.com/world/asia-pacific/softbank-debt-insurance-costs-hit-highest-since-2008-ai-investment-risks-2026-11-06/
+
+**HYPOTES:** högre finansieringskostnad hos SoftBank kan påverka kapitalanskaffning och riskaptit för framtida AI-infrastrukturprojekt. Det är en riskkanal, inte en konstaterad försening eller betalningsinställelse.
+
+**ÖPPET:** faktisk refinansieringskalender, kassaflöde, säkerheter, eventuella garantier mellan SoftBank och SB Energy samt om projektfinansiering redan har stängts.
