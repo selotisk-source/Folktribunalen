@@ -109,4 +109,22 @@ Detta är en central risk för finansieringskedjan. En garanti kan skydda vissa 
 - **INTE BELAGT:** att NVIDIA har garanterat hela kostnaden för 8 GW-campus eller att garantin innebär en omedelbar skuld på 105 miljarder dollar.
 - **ÖPPET:** full garantiavtalstext, faktiska utbetalningar, färdigställande, nätanslutning och driftsättning.
 
+## Tillägg 6 november: garantin står i en större åtagandestruktur
+
+NVIDIA:s Form 10-Q för kvartalet som avslutades den **26 juli 2026** visar att 105-miljardersgarantin bara är en del av bolagets större AI-infrastrukturåtaganden. I en sammanställning redovisar bolaget omkring **366 miljarder dollar i framtida åtaganden**, däribland cirka 279 miljarder i leverantörsåtaganden, 29 miljarder i molntjänstavtal, 25 miljarder i leasingavtal som ännu inte börjat löpa, 25 miljarder i investeringsåtaganden och 8 miljarder i kapitalutgifter.
+
+I en separat tabell redovisar NVIDIA dessutom cirka **56 miljarder dollar i ytterligare åtaganden**, bland annat AI-molnavtal och leasing av tredjepartsdatacenter. Dessa belopp ska inte adderas okritiskt till 366-miljarderssumman; tabellerna beskriver olika kategorier och en eventuell överlappning måste kontrolleras mot noterna.
+
+NVIDIA uppger också att bolaget i augusti undertecknade ett **memorandum of understanding** med finansiella institutioner om att undersöka möjligheten att mobilisera upp till **500 miljarder dollar** i kapital för AI-infrastruktur. Det är en samarbets- och finansieringsambition, inte en beviljad kreditram, ett bindande låneavtal eller pengar som redan betalats ut.
+
+Den centrala redovisningsmässiga skillnaden kvarstår:
+- 105 miljarder dollar är ett villkorat garantimaximum kopplat till SB Energy/PORTS och initialt 4,25 GW-IT.
+- 279 miljarder dollar är leverantörs- och inköpsåtaganden, inte en enda omedelbar skuld.
+- 500 miljarder dollar är ett MOU om möjlig kapitalmobilisering, inte en faktisk finansieringsutbetalning.
+
+**PRIMÄRKÄLLA:** NVIDIA Form 10-Q, kvartalet avslutat 26 juli 2026, *Commitments and Contingencies* samt tabeller över supply, cloud och infrastructure commitments.  
+https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
+
+**ÖPPET:** bindande avtal bakom MOU:t, vilka finansinstitut som faktiskt åtagit sig kapital, belopp per projekt, utbetalningar, säkerheter och om vissa åtaganden överlappar tabellerna.
+
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
