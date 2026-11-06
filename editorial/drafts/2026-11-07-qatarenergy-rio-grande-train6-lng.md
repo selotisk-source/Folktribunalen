@@ -89,3 +89,12 @@ Detta är tre olika avtalsstadier:
 Volymerna ska därför inte summeras som om QatarEnergy redan säkrat 12 mtpa i bindande amerikanska kontrakt. Endast Cheniere-avtalet beskrivs i Reutersartikeln som undertecknat; övriga tre är förhandlingar eller avsikter som ännu måste följas till offentlig dokumentation.
 
 Källa: Reuters, 6 november 2026, https://www.reuters.com/business/energy/qatarenergy-eyes-nextdecade-train-6-supply-latest-us-lng-push-sources-say-2026-11-06/
+
+
+### QatarEnergys egen motivering – handelsstrategi vid en ny Hormuzstörning
+
+Reuters uppger i samma artikel att QatarEnergys vd Saad Sherida Al-Kaabi månaden före publiceringen sagt till Reuters att bolaget aktivt söker långsiktiga amerikanska LNG-avtal som en del av en handelsstrategi. Syftet är enligt hans uttalande att kunna generera intäkter om exporterna genom Hormuzsundet åter störs i framtiden.
+
+Det ger en direkt källbelagd koppling mellan Hormuzrisken och den amerikanska LNG-portföljen. Det fastställer däremot inte att Train 6-förhandlingarna är ett svar på en viss attack eller att volymerna kan levereras innan projektet byggts och fått samtliga tillstånd.
+
+Källa: Reuters, 6 november 2026, https://www.reuters.com/business/energy/qatarenergy-eyes-nextdecade-train-6-supply-latest-us-lng-push-sources-say-2026-11-06/
