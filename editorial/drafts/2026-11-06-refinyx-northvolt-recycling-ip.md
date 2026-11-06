@@ -104,4 +104,17 @@ Den viktiga slutsatsen är att Northvolts återvinningskompetens inte försvann 
 - **OBEKRÄFTAD:** kundens identitet, avtalsvärde och faktiska intäkter.
 - **ÖPPET:** fullständig patentöverlåtelse, köpeskilling, pilotresultat och industriell drift.
 
+## Uppdatering 6 november: Lyten har återstartat verksamhet – men leveransnivån måste skiljas från full produktion
+
+Lyten uppger nu att batteriverksamheten i Skellefteå har återstartats och att bolaget arbetar med upptrappning. SVT:s rapportering i oktober beskriver en begränsad produktionsstart och anger att de första kommersiella leveranserna väntas först under 2027. Det är en viktig skillnad mellan att återstarta utrustning, producera prov- eller pilotmaterial och att nå stabil kommersiell volym.
+
+Detta förändrar inte ägarkedjan för Refinyx patentportfölj och pilotanläggningen i Västerås. Det visar däremot att Northvolts tillgångar har delats upp i två separata spår: dels immateriella rättigheter och pilotkapacitet som Refinyx förvärvat från Lyten, dels Lytens återstart av batterifabriken i Skellefteå.
+
+**PARTSUPPGIFT:** Lyten beskriver verksamheten som återstartad och under upptrappning.  
+**OBEROENDE BEKRÄFTELSE:** SVT:s rapportering om begränsad produktion och planerade leveranser 2027.  
+**INTE BELAGT:** fullskalig kommersiell produktion, stabil årsvolym eller leveransvolym till externa kunder.
+
+**Källa:** Lyten, information om Skellefteåverksamheten: https://lyten.com/  
+**Oberoende:** SVT, rapportering om återstarten i Skellefteå, oktober 2026: https://www.svt.se/nyheter/lokalt/vasterbotten/lyten-aterstartar-batteriproduktionen-i-skelleftea
+
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
