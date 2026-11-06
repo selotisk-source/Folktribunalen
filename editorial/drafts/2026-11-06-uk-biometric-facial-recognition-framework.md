@@ -20,7 +20,7 @@ Förslaget innehåller tre centrala delar:
 2. **Nytt oberoende tillsynsorgan:** ska samla och utveckla delar av dagens tillsynsstruktur, övervaka efterlevnad och få verkställighetsbefogenheter.
 3. **Privat sektors kod:** kompletterande regler för privata aktörer som använder tekniken för att förebygga eller upptäcka brott.
 
-Regeringen säger också att offentligt deltagande i tillsynen ska bli ett lagstadgat krav för både polismyndigheter och det nya organet.
+Regeringen säger också att offentligt deltagande i tillsynen ska bli ett lagstadgat krav för både polismyndigheter och det nya organet. Home Office säger dessutom att polisens användning ska vara underrättelsestyrd och proportionerlig, och att tekniken endast ska användas när polisen bedömer att efterlysta personer kan finnas i det aktuella området. Den närmare rättsliga tröskeln återstår att se i lagtexten.
 
 **Viktig rättslig distinktion:** Detta är regeringens avsikt och ett utlovat lagstiftningspaket. Den nya lagen är inte antagen genom konsultationssvaret, tillsynsorganet är inte inrättat och den publicerade responsen anger ingen ikraftträdandedag. Parlamentets kommande behandling av Police Reform Bill blir avgörande.
 
