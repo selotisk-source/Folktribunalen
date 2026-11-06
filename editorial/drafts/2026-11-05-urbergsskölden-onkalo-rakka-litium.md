@@ -215,3 +215,18 @@ Samma distinktion ska användas för alla projekt i Finland och Sverige:
 - Svenska Yle, *Fem nya gruvprojekt i Finland på EU:s strategiska expresslista*, 9 oktober 2026: https://yle.fi/a/7-10106712
 
 **Status:** Utkast kompletterat med EU:s andra CRMA-omgång och Viscarias Q3-rapport. Strategisk status, tillstånd, finansiering och kommersiell produktion hålls åtskilda. Inte publicerat.
+
+
+## Arctial – strategisk status efter myndighetens MKB-slutsats
+
+Arctial MidstreamCo Oy:s planerade primäraluminiumverk vid Karleby–Kronoby är ett av de fem nya finländska CRMA-projekten. Den tidsmässiga ordningen är viktig: Tillstånds- och tillsynsverkets motiverade MKB-slutsats är daterad 2 oktober 2026 och publicerades på den officiella miljöportalen 7 oktober; EU valde Arctial till strategiskt projekt den 9 oktober.
+
+Den officiella projektbeskrivningen anger 610 000 ton aluminium per år, 170 hektar och två nya 400 kV-ledningsanslutningar. Myndighetens slutsats redovisar cirka 1 050 MW jämnt effektbehov och cirka 2,5 miljoner ton CO2-ekvivalenter per år, motsvarande 6,5 procent av Finlands årsutsläpp enligt myndighetens jämförelse. Myndigheten bedömer att regionala negativa konsekvenser är större än uppskattat, samtidigt som lågkolaluminium med fossilfri el kan ge en positiv internationell klimateffekt.
+
+Den motiverade slutsatsen är inte ett miljötillstånd eller bygglov. Den anger betydande negativa effekter på luftkvalitet, växtlighet, djurliv, levnadsförhållanden och klimat. Modellerad HF-halt under växtperioden når 0,964 mikrogram per kubikmeter vid sex bostadsfastigheter och ett åkerområde, över Quebecs växtskyddskriterium på 0,4 men under det hälsobaserade jämförelsevärde som används i bedömningen. Myndigheten konstaterar också att fluoridansamling i foder och odlingsväxter inte har bedömts tillräckligt. En skyddad pudrad kärrtrollsländas fortplantnings- och viloplats påverkas; myndigheten säger att projektet inte kan föras vidare utan särskilt undantagstillstånd.
+
+Detta korskopplar råvaruspåret till Fennoskandiens hästkultur. Yle rapporterar omkring 20 stall och cirka 150 hästar i Kvikant; den officiella MKB-handlingen visar att hästskötsel, foderproduktion och djurhälsa uttryckligen togs upp i remissmaterialet. Arctial säger att ett kontrollprogram ska tas fram i tillståndsskedet. Det återstår att kontrollera om tillståndsansökningar har diarieförts, vilka mätkrav som ställs och om ett undantagstillstånd har sökts.
+
+Se det separata undersökningsutkastet: **Arctial vid Karleby–Kronoby: 1 050 MW kraftbehov, fluoridfrågor och ett hästlandskap i förändring**.
+
+**Källor:** Finlands miljöförvaltning och Tillstånds- och tillsynsverkets motiverade slutsats; Svenska Yle 21 september, 8 oktober och 9 oktober 2026.
