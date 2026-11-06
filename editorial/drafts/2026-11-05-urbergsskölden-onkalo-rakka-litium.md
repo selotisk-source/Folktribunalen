@@ -151,7 +151,7 @@ Den nordiska fördelningen är särskilt relevant för Urbergsskölden:
 | Finland | Suhanko, Ranua | Koppar, nickel och platinagruppmetaller |
 | Sverige | Viscaria, Kiruna | Koppar |
 
-Svenska Yle bekräftar de fem finländska projekten. Kommissionens beslut skiljer mellan utvinning och förädling: CoNiKo och Arctial är förädlingsprojekt, medan Hautalampi, Sokli och Suhanko är utvinningsprojekt. För Sokli är det den strategiska råvaran sällsynta jordartsmetaller för magneter som anges i beslutets bilaga; fosfat och niob finns i den bredare fyndigheten men ska inte förväxlas med det specifika CRMA-bidraget. Viscarias egen information bekräftar att gruvan i Kiruna ingår i kommissionens uppdaterade lista.
+Svenska Yle bekräftar de fem finländska projekten. Kommissionens beslut skiljer mellan utvinning och förädling: CoNiKo och Arctial är förädlingsprojekt, medan Hautalampi, Sokli och Suhanko är utvinningsprojekt. För Sokli är det den strategiska råvaran sällsynta jordartsmetaller för magneter som anges i beslutets bilaga; fosfat och niob finns i den bredare fyndigheten men ska inte förväxlas med det specifika CRMA-bidraget. Kommissionens beslut listar Viscaria Copper Project som ett pågående utvinningsprojekt i Sverige med koppar som strategiskt material.
 
 ### Strategisk status är inte samma sak som finansiering eller gruvtillstånd
 
@@ -209,6 +209,7 @@ Samma distinktion ska användas för alla projekt i Finland och Sverige:
 - Sokli Oy, strategisk status och material i fyndigheten, 9 oktober 2026: https://www.sokli.fi/en/topical/sokli-mining-project-selected-as-a-strategic-project-under-the-eu-critical-raw-materials-act
 - Gruvaktiebolaget Viscaria, Q3-rapport 5 november 2026: https://www.viscaria.com/en/interim-report-july-september-2026/
 - Viscaria, uppdatering om projektfinansiering 29 oktober 2026: https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/
+- Suhanko Arctic Platinum, projektets råvaror och utvecklingsfas: https://www.suhanko.com/what
 
 **Oberoende bekräftelse och rättslig förklaring**
 - Svenska Yle, *Fem nya gruvprojekt i Finland på EU:s strategiska expresslista*, 9 oktober 2026: https://yle.fi/a/7-10106712
