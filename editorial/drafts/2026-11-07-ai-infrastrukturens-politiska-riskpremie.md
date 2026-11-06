@@ -133,3 +133,24 @@ OpenAI:s nya åtaganden, Texas politiska omsvängning och senatens kommande proc
 - Reuters, senatorernas plan att driva tillståndsreformen under lame-duck-perioden, 4 november 2026: https://www.reuters.com/legal/litigation/democrat-permitting-bill-authors-not-going-wait-new-us-congress-2026-11-04/
 
 **Status:** Arbetsutkast för chefredaktörens granskning. Inte publicerat. De lokala valresultaten är Ballotpedias sammanställning; Texasresultatet var ännu inte slutligt certifierat vid kontrollen; OpenAI:s åtaganden är bolagets egna frivilliga löften; och senatens kommande omröstning gäller en procedurfråga, inte slutligt antagande av reformpaketet.
+
+
+## Motbilden: Google fortsätter bygga – Wyomingprojektet visar hur risk flyttas mellan aktörer
+
+Den politiska motreaktionen innebär inte att alla investeringar stoppas. Den 5 november meddelade Google en långsiktig investering på **17 miljarder dollar** i sitt första datacenter i Wyoming. Bolaget namnger Tallgrass Energy, Black Hills Energy, American Electric Power och Related Digital som partners.
+
+Google säger att bolaget ska betala hela kostnaden för den el det använder och den infrastruktur som direkt krävs av dess expansion. En del av energiförsörjningen ska enligt bolaget komma från en planerad **702 MW bränslecellsanläggning med koldioxidinfångning och lagring**. Google uppger också att datacentret ska vara luftkylt för att minska vattenbelastningen.
+
+Den 6 november bekräftade Crusoe att Google förvärvat Crusoes datacentersajt i sydöstra Wyoming. Crusoe beskriver sin roll som avslutad efter förberedelsearbete med platsval, myndighetsgodkännanden och en energistrategi tillsammans med Tallgrass. Köpeskillingen offentliggjordes inte.
+
+Detta är en viktig motbild till de lokala omröstningarna: den politiska risken ökar, men kapital och projekt fortsätter att röra sig. Samtidigt förändras aktörskedjan – en utvecklare gör förberedelsearbetet, därefter tar hyperscalern över platsen inför byggnation och drift.
+
+**Källstatus:** **PRIMÄRKÄLLA / PARTSUPPGIFT** – Googles investerings- och energilöften är bolagets egna. Crusoe bekräftar ägarövergången men offentliggör inte köpeskillingen. **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade både investeringsbeskedet och förvärvet.
+
+**Öppet:** Googles inlägg anger inte total IT-last, full byggtidplan eller verifierad driftprestanda för koldioxidinfångningen. 702 MW avser den planerade bränslecellsanläggningen, inte datacentrets totala kapacitet.
+
+Källor:
+- Google, 5 november 2026: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/
+- Crusoe, 6 november 2026: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+- Reuters, 5 november 2026: https://www.reuters.com/world/us/google-plans-17-billion-wyoming-data-center-amid-rising-threats-curbs-2026-11-05/
+- Reuters, 6 november 2026: https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06/
