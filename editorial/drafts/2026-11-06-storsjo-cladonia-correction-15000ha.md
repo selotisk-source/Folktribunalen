@@ -93,7 +93,7 @@ Den nya samiska sanningskommissionens rapport ger dessutom en viktig historisk r
 - Sveriges riksdag, fulltext av SOU 2026:58, avsnitten om skattefjäll, Storsjö lappby och avvittringen i Jämtlands län: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/markerna-berattar-och-minns_heb358/html/
 
 **Oberoende rapportering**
-- SVT, *Här är Palantir-vd:ns mark i Härjedalen – se skogen, ön och fäbodvallen*, 6 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-och-fabodvallen
+- SVT, *Här är Palantir-vd:ns mark i Härjedalen – se skogen, ön och fäbodvallen*, 6 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
 - SVT, *ISP om Palantir-vd:ns köp i Härjedalen: Inte skadligt för Sveriges säkerhet*, 12 oktober 2026: https://www.svt.se/nyheter/lokalt/jamtland/isp-om-palantir-vdns-kop-i-harjedalen-inte-skadligt-for-sveriges-sakerhet
 - SVT, *Därför sa länsstyrelsen ja till Palantir-vd:ns skogsköp i Härjedalen*, 29 september 2026: https://www.svt.se/nyheter/lokalt/jamtland/darfor-sa-lansstyrelsen-ja-till-palantir-vdns-skogskop-i-harjedalen
 - SVT, *Karps skogsköp i Härjedalen JO-anmäls*, 21 oktober 2026: https://www.svt.se/nyheter/lokalt/jamtland/karps-skogskop-i-harjedalen-jo-anmals
