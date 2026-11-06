@@ -287,3 +287,20 @@ TeraWulfs finansiella rapport visar samtidigt att utvecklingen är kapitalintens
 Källa:
 - TeraWulf Form 10-Q, period avslutad 30 september 2026, inlämnad 6 november: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071671/wulf-20260930.htm
 - TeraWulf Q3 2026 release, 6 november: https://investors.terawulf.com/news-events/press-releases/detail/149/terawulf-reports-third-quarter-2026-results
+
+
+### Skuldens förfalloprofil – 2030 är den stora koncentrationen
+
+TeraWulfs 10-Q redovisar en tabell över kapitalbeloppens förfall per 30 september 2026. Summan av utestående principalmaturiteter anges till cirka **5,725 miljarder dollar**:
+- återstoden av 2026: 14,2 miljoner dollar,
+- 2027: 210,7 miljoner,
+- 2028: 296,7 miljoner,
+- 2029: 302,7 miljoner,
+- 2030: **2,876 miljarder**,
+- därefter: 2,025 miljarder.
+
+Detta är en förfalloprofil, inte en uppgift om att hela beloppet ska refinansieras omedelbart. Men koncentrationen till 2030 är relevant när bolaget samtidigt bygger långlivad datacenterinfrastruktur, tecknar 20-åriga hyresavtal och är beroende av att leveranser och kundintäkter börjar enligt plan.
+
+**Öppet:** exakt fördelning mellan senior secured notes, konvertibler och andra instrument; eventuella återköps-/refinansieringsvillkor; vilka tillgångar och kassaflöden som är pantsatta; och om Justified-projektets nya finansiering påverkar eller är separat från befintliga säkerhetspaket.
+
+Källa: TeraWulf Form 10-Q, 6 november 2026, Note 10 – Debt, principal maturities as of 30 September 2026: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071671/wulf-20260930.htm
