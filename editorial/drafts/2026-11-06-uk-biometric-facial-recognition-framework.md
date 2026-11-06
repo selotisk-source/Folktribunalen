@@ -119,3 +119,83 @@ Ada Lovelace Institute välkomnade den 4 november regeringens löfte om ett ober
 - **PRIMÄRKÄLLA:** High Court, R (Thompson and Carlo) v Commissioner of Police of the Metropolis, [2026] EWHC 915 (Admin), judgment 21 april 2026: https://www.judiciary.uk/wp-content/uploads/2026/04/AC-2024-LON-001764-R-Thompson-and-Carlo-version-for-hand-down-21-04-2026.pdf
 
 **Redaktionell status:** Utkast för chefredaktörens granskning. Inte publicerat. Regeringens lagstiftningsavsikt är dokumenterad; den framtida lagens slutliga innehåll, datum och tillsynsorganets praktiska befogenheter återstår.
+
+
+## Separat fall: Immigration Enforcement går från proof-of-concept till pilot
+
+**Faktaläge:** 6 november 2026.  
+**Berörda spår:** N – från skrift till Storebror; G – migration och offentlig makt.  
+**Källstatus:** Home Office-dokumenten är **PRIMÄRKÄLLOR**. Guardian/Liberty Investigates och Biometric Update är **OBEROENDE BEKRÄFTELSE/GRANSKNING**.
+
+Den 29 oktober 2026 uppdaterade Home Office sin rättsliga vägledning för Immigration Enforcement och skrev uttryckligen att programmet för live-ansiktsigenkänning (LFR) gått från proof of concept till en pilot. Myndigheten sade samtidigt att uppdateringen inte skapar några nya verkställighetsbefogenheter.
+
+Tre dokument måste hållas isär:
+
+- **Policy v2.3:** godkänd internt den 28 september och publicerad/uppdaterad 8 oktober 2026.
+- **Data Protection Impact Assessment (DPIA):** publicerad 22 oktober 2026.
+- **Legal Mandate v2.2:** uppdaterad 29 oktober 2026 för övergången från proof-of-concept till pilot.
+
+### Vad Home Office faktiskt säger att systemet får göra
+
+Den publicerade policyn anger att LFR ska användas för ett tydligt och lagligt migrations- eller brottsbekämpningsändamål. Exempel är att verkställa ett gällande deportationsbeslut, lokalisera någon som omfattas av en domstolsorder eller söka efter personer som är föremål för aktiv verkställighets- eller avlägsnandeåtgärd och inte rimligen kan lokaliseras med mindre ingripande medel.
+
+Policyn säger uttryckligen att LFR inte ska användas för underrättelseinhämtning, allmän övervakning eller spekulativa/undersökande ändamål. Personer under 18 år ska inte tas upp på bevakningslistor. Listorna ska vara ändamåls- och insatsspecifika, tidsbegränsade och godkända.
+
+Samtidigt jämförs ansikten i realtid mot en förutbestämd bevakningslista. Det innebär att även personer som inte är föremål för någon åtgärd passerar genom ett biometriskt jämförelseflöde när de rör sig genom kamerazonen. Home Office säger att biometriska mallar för personer som inte ger en träff raderas omedelbart. Det är därför viktigt att skilja mellan en smal bevakningslista och den bredare grupp av förbipasserande vars ansikten tillfälligt behandlas.
+
+### Vad de publicerade försöksresultaten visar
+
+Home Office publicerade den 15 oktober 2026 en uppdaterad tabell över insatser vid Holyhead. Tabellen innehåller åtta insatser i november 2025 och tio insatser den 24–26 februari 2026.
+
+| Period | Ansiktsskanningar | Positiva varningar | Felaktiga varningar | Gripanden |
+|---|---:|---:|---:|---:|
+| 10–29 nov 2025 | 7 512 | 2 | 0 | 1 |
+| 24–26 feb 2026 | 2 752 | 0 | 2 | 0 |
+| **Totalt** | **10 264** | **2** | **2** | **1** |
+
+Tabellen redovisar faces seen, alltså antalet ansiktsskanningar/jämförelser, inte unika individer. Home Office påpekar att samma person kan skannas flera gånger och att antalet unika personer därför inte kan utläsas ur dessa siffror.
+
+De två positiva varningarna inträffade i november 2025. En ledde till ett gripande. De två felaktiga varningarna kom i februari 2026; tabellen anger inga felaktiga ingripanden. Det är ett litet datamaterial och ger inte i sig en fullständig bedömning av algoritmens prestanda mellan demografiska grupper eller i andra miljöer.
+
+### Den nya politiska och operativa frågan
+
+The Guardian och Liberty Investigates rapporterade den 4 november att Home Office förbereder en bredare användning vid transportknutpunkter och större evenemang, med formuleringen "general immigration enforcement" och även civilrättsliga migrationsöverträdelser som överskriden vistelsetid eller återinresa i strid med beslut.
+
+Home Office har enligt rapporteringen sagt att ytterligare försök övervägs och att myndigheten aktivt undersöker teknikens möjliga användning och konsekvenser. Det är ännu inte samma sak som ett bekräftat rikstäckande införande med ett fast datum.
+
+### En konkret tillsynsfråga
+
+Home Offices egen policy anger att användningen är föremål för extern tillsyn, bland annat av Biometrics and Surveillance Camera Commissioner och Information Commissioner's Office. Men Guardian/Liberty Investigates rapporterade den 4 november att kommissionären William Webster sade att han inte hade konsulterats om policyn och att användning för migrationsändamål ligger utanför hans mandat.
+
+Detta är en tydlig fråga för fortsatt granskning: dokumenten beskriver externa tillsynsorgan, medan den ansvariga kommissionären enligt den oberoende rapporteringen säger att hans formella mandat inte täcker just denna användning. Home Office behöver klargöra vem som i praktiken kan granska, kräva ändringar eller stoppa en migrationsinsats.
+
+### Immigration Enforcement är inte samma sak som polisreformen
+
+Regeringens svar på konsultationen om ett nytt biometriskt ramverk för polis och andra brottsbekämpande organ publicerades 4 november och pekar mot en framtida Police Reform Bill. Det är ett förslag om framtida lagstiftning och tillsyn, inte antagen lag. Immigration Enforcement-programmets Legal Mandate bygger samtidigt på befintliga migrations-, dataskydds- och människorättsliga befogenheter och säger uttryckligen att det inte skapar nya verkställighetsbefogenheter.
+
+Redaktionen ska därför inte slå ihop de två spåren eller anta att den kommande polisreformen automatiskt täcker alla migrationsinsatser.
+
+### Fortsatta kontrollfrågor
+
+1. Vilka platser och typer av evenemang övervägs för nästa pilot, och vilka kriterier styr platsvalet?
+2. Vilka bevakningskategorier används i praktiken och hur ofta granskas listorna?
+3. Vilka oberoende tester har gjorts av felutfall mellan ålder, kön och etnicitet för just Immigration Enforcement-systemet?
+4. Vem har befogenhet att granska eller pausa en enskild migrationsinsats?
+5. Hur dokumenteras felaktiga varningar, klagomål, radering och efterhandskontroll?
+6. Vilka data delas med polis, Border Force eller andra myndigheter vid gemensamma insatser?
+
+### Källor
+
+**Primärkällor**
+- Home Office, *Immigration Enforcement: live facial recognition legal mandate*, uppdaterad 29 oktober 2026: https://www.gov.uk/government/publications/immigration-enforcement-live-facial-recognition-legal-mandate
+- Home Office, *Immigration Enforcement facial recognition policy*, version 2.3, uppdaterad 8 oktober 2026: https://www.gov.uk/government/publications/immigration-enforcement-facial-recognition-policy
+- Home Office, *Live facial recognition technology: data protection impact assessment*, publicerad 22 oktober 2026: https://www.gov.uk/government/publications/live-facial-recognition-technology-data-protection-impact-assessment-dpia
+- Home Office, *Live facial recognition deployment records*, uppdaterad 15 oktober 2026: https://www.gov.uk/government/publications/live-facial-recognition-deployment-records
+- Home Office, samlingssida om LFR i Immigration Enforcement: https://www.gov.uk/government/collections/live-facial-recognition-in-immigration-enforcement
+
+**Oberoende granskning**
+- The Guardian/Liberty Investigates, 4 november 2026: https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown
+- Liberty Investigates, originalgranskningen och kommissionärens svar: https://libertyinvestigates.org.uk/articles/home-office-facial-recognition-immigration-enforcement/
+- Biometric Update, 5 november 2026: https://www.biometricupdate.com/202611/uk-plan-to-use-lfr-for-immigration-control-tests-limit-of-proportionality
+
+**Status:** Utkast kompletterat med ett separat migrationsspår, Home Offices tre styrdokument, offentliga försöksdata och den öppna tillsynsfrågan. Inte publicerat.
