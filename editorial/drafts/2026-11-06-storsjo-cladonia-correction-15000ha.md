@@ -62,7 +62,7 @@ Den 30 september 2026 överlämnade Sanningskommissionen för det samiska folket
 
 Rapporten redogör för hur de samiska skattefjällen i Jämtland och Härjedalen utvecklades historiskt. Den beskriver bland annat hur de samer som var inrymda på skattefjällen genom 1886 års renbeteslag från den 1 januari 1889 organiserades i nio lappbyar. En av dessa benämndes Storsjö.
 
-Rapporten behandlar även avvittringen i Jämtland och Härjedalen – den administrativa process där kronans mark skildes från enskilda ägor – och hur samiska nyttjanden och rättigheter hanterades i den processen.
+Rapporten beskriver också att avvittringsstadgorna för Jämtland och Härjedalen saknade bestämmelser som skyddade skattefjällsinnehavarnas rättigheter och behov. Kommissionen skriver att de regionala myndigheterna inte dokumenterat tog hänsyn till samiska intressen vid avvittringen i Jämtlands län, och att stora områden som utgjort skattefjäll fördes över till privata hemman. Även skogsområden i anslutning till skattefjällen avvittrades till privata ägare; rapporten beskriver dem som viktiga för renarnas vinterbete och för flytt mellan renbetesmarker.
 
 Detta är **PRIMÄRKÄLLA i form av en statlig utredning** och en viktig historisk referens för området. Men rapporten avgör inte vem som i dag har en viss rätt på en viss fastighet som Cladonia köpt. Historisk Storsjö lappby får inte utan vidare likställas med en nutida sameby eller användas som bevis för att ett visst skifte omfattas av en viss rättighet.
 
