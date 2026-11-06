@@ -142,6 +142,27 @@ Tidsfristen är nu en konkret kontrollpunkt för myndigheter och berörda verksa
 - EU-förordning 2024/1252, artikel 27: https://eur-lex.europa.eu/eli/reg/2024/1252/oj
 - GTK, myndighetsuppgifter enligt CRMA, 13 augusti 2026: https://www.gtk.fi/ajankohtaista/geologian-tutkimuskeskukselle-saadetaan-eun-kriittisten-raaka-aineiden-asetuksen-mukaisia-tehtavia/
 
+## Senare GTK-steg: pilotanläggning och cirkulär användning av restmaterial
+
+Två nya offentliga uppgifter fördjupar Finlands del av Urbergsskölden:
+
+- **22 oktober 2026:** GTK lade grundstenen till en ny Mintec-pilotanläggning i Outokumpu. Den är avsedd att ge industrin möjlighet att testa mineralprocesser och förädlingskedjor i pilotmiljö. GTK:s tidsplan pekar mot färdigställande 2028. Grundstensceremonin är ett byggsteg, inte bevis på att anläggningen redan är driftsatt.
+- **28 oktober 2026:** GTK och Betolar offentliggjorde ett femårigt samarbetsmemorandum om att undersöka hur gruvavfall, anrikningssand och industriella slagger kan användas i cirkulära material- och processlösningar. Överenskommelsen är en forsknings- och utvecklingsram; den är inte ett bindande köpavtal eller ett finansierat kommersiellt återvinningsprojekt.
+
+**PRIMÄRKÄLLA:** GTK:s information om Mintec och samarbetet med Betolar.  
+https://www.gtk.fi/en/current/
+
+**PARTSUPPGIFT / ÖPPET:** mängder, provmaterial, tekniska utbyten, kostnader, kommersiella mottagare och eventuella miljökrav måste dokumenteras innan ekonomisk potential kan beräknas.
+
+## Finlands CRMA-genomförande: parlamentariskt beslut är inte samma sak som fullständigt kontrollerad ikraftträdandetext
+
+Riksdagen avslutade den andra behandlingen av regeringens proposition HE 133/2026 den **20 oktober 2026** och godkände lagpaketet med ändringar. Propositionens föreslagna ikraftträdandedag var 1 november 2026. Den slutliga promulguerade Finlex-texten och lagnumret har ännu inte lokaliserats i denna kontroll. Därför ska förslagens datum för rapportering av gruvavfall och GTK:s nya uppgifter inte återges som slutligt gällande rätt förrän den antagna texten har jämförts med Finlex.
+
+**PRIMÄRKÄLLA:** Finlands riksdags ärendesida för HE 133/2026 vp och utskottsbehandlingen.  
+https://www.eduskunta.fi/FI/vaski/HallituksenEsitys/Sivut/HE_133+2026.aspx
+
+**ÖPPET:** slutlig lagtext, lagnummer, exakt ikraftträdande och den slutliga tidsfristen för operatörernas avfallsuppgifter.
+
 **Status:** Utkast korrigerat med parlamentariskt läge och EU-rättslig tidsfrist. Finlex-publicering/lagnummer återstår.
 
 
