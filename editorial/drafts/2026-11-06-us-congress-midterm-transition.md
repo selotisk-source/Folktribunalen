@@ -151,3 +151,41 @@ Reuters rapporterade den 4 november att lagförslagets demokratiska huvudförhan
 - Lagtext: https://www.energy.senate.gov/wp-content/uploads/2026/09/KAT26642FINAL.pdf
 - Senate cloture rules: https://www.senate.gov/about/powers-procedures/filibusters-cloture.htm
 - Reuters, 4 november 2026: https://www.reuters.com/legal/litigation/democrat-permitting-bill-authors-not-going-wait-new-us-congress-2026-11-04/
+
+
+## Ny tillsynsfront: Blumenthal kräver dokument från Big Tech och FCC
+
+**Publiceringsdatum:** 5 november 2026. **Begärd svarstid:** 4 januari 2027.
+
+Senator Richard Blumenthal, som enligt sitt eget pressmeddelande blir ordförande för Senate Permanent Subcommittee on Investigations (PSI) när den nya kongressen tillträder, skickade den 5 november en serie brev till företag, myndigheter och andra aktörer som han anser inte har samarbetat tillräckligt med pågående undersökningar.
+
+Den officiella pressreleasen anger bland annat:
+- brev till alla offentligt kända givare till Donald Trumps planerade White House Ballroom,
+- ett separat brev till FCC-ordföranden Brendan Carr,
+- krav på dokument och uppgifter i flera utredningar om Big Tech, företagsinflytande, kryptovalutor, immigration och federala myndigheters agerande,
+- en begärd frivillig leverans senast **4 januari 2027**, med varning om att PSI annars kan överväga andra åtgärder för att få fram materialet.
+
+Reuters rapporterade den 5 november att mottagarna bland givarna omfattar bland andra Apple, Meta, Google, Nvidia, Amazon, Microsoft, Comcast, Lockheed Martin och Palantir. Reuters återger också Washington Post-uppgifter om donationer på 25 miljoner dollar vardera från Nvidia och Apple samt cirka 10 miljoner dollar från flera stora federala leverantörer, däribland Microsoft och Palantir.
+
+### Vad som är fastställt – och vad som ännu är en fråga
+
+**PRIMÄRKÄLLA:** Blumenthals pressmeddelande bekräftar att brev skickats och att en tidsfrist för frivilligt utlämnande satts. Det är ännu inte en stämning eller ett domstolsbeslut.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters återger vilka företag som omfattas och sammanfattar bakgrunden till ballroom-donationerna.
+
+**PARTSUPPGIFT / UTREDNINGSHYPOTES:** Blumenthal säger att donationerna kan skapa intressekonflikter eller pay-to-play-risker. Det är en fråga som undersökningen ska pröva, inte ett fastställt quid-pro-quo-förhållande. Företagens donationer och deras federala kontrakt måste jämföras med faktiska kontakter, villkor, myndighetsbeslut och eventuella löften.
+
+Detta berör FOLKTRIBUNALENS spår A och P direkt: Palantir, Microsoft och andra teknikföretag kan både vara leverantörer till staten och givare till ett privatfinansierat projekt på presidentens område. Den centrala frågan är inte enbart vem som betalade, utan vilka villkor som gällde, vilka myndighetsbeslut som följde och vilka kontrollmekanismer som faktiskt omfattas av donationsavtalet.
+
+### Nästa kontrollpunkter
+
+1. Hämta de enskilda breven till FCC och de offentligt kända ballroom-givarna.
+2. Begär eller lokalisera det fullständiga donationsavtalet och eventuella bilagor; jämför vilka myndigheter som omfattas av intressekonfliktsgranskningen.
+3. Följ svaren fram till 4 januari 2027 och skilj frivilliga svar från formella stämningar.
+4. Jämför donationstidpunkter och villkor med federala upphandlingar, regulatoriska beslut, merger reviews, FCC-ärenden och pågående rättsprocesser.
+5. Dokumentera eventuella motargument från Vita huset, företagen och republikanska utskottsledamöter.
+
+Källor:
+- Blumenthal, officiellt pressmeddelande, 5 november 2026: https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sends-warning-to-targets-of-investigations-into-crypto-corruption-immigration-abuses-big-tech-and-more
+- Reuters, 5 november 2026: https://www.reuters.com/world/democratic-senator-demands-tech-firms-fcc-chair-turn-over-documents-2026-11-05/
+- Washington Post, 21 april 2026, om donationsavtalets innehåll: https://www.washingtonpost.com/politics/2026/04/21/trump-ballroom-donor-deal/
