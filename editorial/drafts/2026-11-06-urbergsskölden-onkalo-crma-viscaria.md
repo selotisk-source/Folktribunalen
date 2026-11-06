@@ -281,3 +281,53 @@ Bolaget rapporterade också ett prospekteringshål med sex meter vid 1,9 procent
 
 **Källstatus:** **PRIMÄRKÄLLA** – Viscarias regulatoriska Q3-rapport, publicerad 5 november 2026: https://www.viscaria.com/en/interim-report-july-september-2026/. Uppgifterna om bankernas förväntade kreditgodkännande är **PARTSUPPGIFT** från bolagets rapportering.
 
+
+
+## Ny svensk tillstånds- och prospekteringskontroll – Altavaara och Stavaträsk, 7 november 2026
+
+### Altavaara: KoBold får undersökningstillstånd trots flera myndighetsinvändningar
+
+**Beslutsdatum:** 22 oktober 2026. **Tillståndshavare:** KoBold Exploration Sweden AB. **Område:** cirka 10 634,39 hektar i Kiruna kommun. **Giltighet:** 22 oktober 2026–22 oktober 2029.
+
+**PRIMÄRKÄLLA:** Bergsstatens beslut BS 200-1597-2026 beviljar undersökningstillstånd för koppar, guld, järn i berggrunden, kobolt, silver, skandium, yttrium, lantan och lantanider. Det är ett undersökningstillstånd, inte en mineralreserv, bearbetningskoncession, miljötillstånd eller rätt att börja borra utan ytterligare villkor.
+
+Beslutet är anmärkningsvärt eftersom flera remissinstanser motsatte sig ansökan. Länsstyrelsen i Norrbotten hänvisade bland annat till Esrange generalplan, naturreservatet Rautusakara och Natura 2000-områden. Kiruna kommun avstyrkte ansökan. Sametinget avstyrkte också tillståndet och hänvisade till berörda samiska intressen och renskötsel. ESA framförde oro för att prospektering inom eller nära dess verksamhet i Kirunaområdet skulle kunna störa driften. Vattenfall Eldistribution upplyste om befintliga elnätsanläggningar inom området.
+
+Bergmästarens beslut förklarar att någon avvägning mellan motstående intressen inte ska göras vid själva prövningen av ett undersökningstillstånd. Den rättsliga tröskeln i detta skede är i stället om det finns anledning att anta att undersökning kan leda till fynd av koncessionsmineral och om sökanden bedöms kunna genomföra ändamålsenlig prospektering. Det förklarar hur tillståndet kunde beviljas trots invändningarna, men avgör inte om konkreta arbeten senare kan tillåtas.
+
+Innan undersökningsarbete får börja måste bolaget ställa säkerhet och upprätta en arbetsplan som delges berörda fastighetsägare och rättighetshavare. Arbeten i eller med påverkan på skyddade områden kan dessutom kräva särskilda medgivanden eller tillstånd enligt miljöbalken. Den offentliga överklagandehänvisningen anger den 26 november 2026 som sista dag för den del av delgivningen som skett genom kungörelse.
+
+**Varför det spelar roll:** beslutet visar en viktig skillnad mellan den tidiga minerallagens undersökningsprövning och senare miljö-, natur- och rättighetsprövningar. Det är inte korrekt att säga att KoBold fått rätt att bygga en gruva eller att samtliga invändningar har prövats slutligt.
+
+**Källstatus:** **PRIMÄRKÄLLA** – Bergsstatens fullständiga beslut. **OBEROENDE BEKRÄFTELSE:** ingen oberoende redaktionell rapportering om just beslutet har identifierats i denna kontroll. Remissinstansernas invändningar återges i myndighetens beslut och är därmed dokumenterade partsyttranden, inte självständiga bevis för att framtida arbeten kommer att orsaka skada.
+
+### Stavaträsk: nytt tillstånd till Elemental – separat från Hannan Metals optionsprojekt
+
+**Beslutsdatum:** 28 oktober 2026. **Tillståndshavare:** Elemental Exploration Scandinavia AB. **Område:** cirka 3 302,99 hektar i Skellefteå kommun. **Giltighet:** 28 oktober 2026–28 oktober 2029.
+
+Bergsstatens beslut BS 200-1549-2026 anger att ansökan avsåg guld. Länsstyrelsen i Västerbotten uppmärksammade höga och låga naturvärden samt ett flertal forn- och kulturlämningar. Sametinget uppgav att området ligger inom vinterbetesmark för Svaipa och Mausjaur samebyar och avstyrkte tillståndet. Även här anger Bergsstaten att motstående intressen inte ska vägas mot varandra vid själva undersökningstillståndet. Arbete kräver arbetsplan och säkerhet; ytterligare samråd eller tillstånd kan krävas beroende på var och hur arbetet utförs.
+
+**Separat bolagsuppgift:** Hannan Metals meddelade den 4 november att bolaget avslutat ett andra borrprogram vid sitt Stavaträskprojekt, med sex hål och sammanlagt 1 255 meter. Bolaget uppgav att analyser väntas inom åtta veckor. Hannan beskrev samtidigt att den sex månader långa bedömningsperioden i ett optionsavtal med en icke namngiven privat motpart är avslutad. Hannan har därefter två år på sig att, efter eget beslut och under angivna villkor, förvärva 100 procent av den svenska projektportföljen. Inget ägande övergår innan optionen faktiskt utnyttjas.
+
+**Viktig avgränsning:** Bergsstatens tillståndshavare är Elemental Exploration Scandinavia AB. Hannan beskriver sin optionsmotpart som ett icke namngivet närstående oberoende privat bolag. De dokument som granskats här fastställer inte att dessa är samma juridiska person eller att Hannan äger tillståndet. Uppgifterna ska därför hållas åtskilda tills bolags- och avtalsdokumentation visar en direkt koppling.
+
+Hannans borrresultat och tidsplan är **PARTSUPPGIFT** från bolagets eget pressmeddelande. Det nya beskedet den 4 november gäller att borrningen är avslutad, inte att nya analyser redan bekräftat en större fyndighet. Ingen ny mineralreserv eller ekonomisk lönsamhetsbedömning har redovisats i det beskedet.
+
+### Nästa kontrollpunkter
+
+1. Följ om Altavaara-beslutet överklagas senast den 26 november och om någon interimistisk åtgärd begärs.
+2. Hämta KoBold-bolagets arbetsplan och den säkerhet som ska ställas innan undersökningsarbete inleds.
+3. Följ eventuella Natura 2000-, miljöbalks- och andra särskilda tillstånd för konkreta arbetsmoment.
+4. Följ om berörda samebyar får arbetsplaner i tid och vilka samråd som dokumenteras.
+5. Hämta Hannan Metals laboratorieanalyser när de publiceras; skilj provresultat från resursklassificering och ekonomisk genomförbarhet.
+6. Kontrollera den juridiska relationen mellan Hannan Metals optionsavtal och Elemental Exploration Scandinavia AB innan projekten kopplas samman.
+
+### Källor till den svenska uppdateringen
+
+**Primärkällor**
+- Bergsstaten, beslut BS 200-1597-2026, Altavaara nr 100, 22 oktober 2026: https://resource.sgu.se/bergsstaten/1597-26-bes.pdf
+- Bergsstaten, beslut BS 200-1549-2026, Stavaträsk nr 111, 28 oktober 2026: https://resource.sgu.se/bergsstaten/stavatrask-nr-111-bes.pdf
+- Hannan Metals, *Hannan Completes Second Drill Program at Stavaträsk Gold Project, Sweden*, 4 november 2026: https://hannanmetals.com/news/hannan-completes-second-drill-program-at-stavatrask-gold-project-sweden-1255-m-drilled-to-test-ip-chargeability-targets-and-extents-of-known-mineralization/
+
+**Oberoende belägg**
+- Ingen oberoende redaktionell granskning av de två nya Bergsstatenbesluten eller Hannan-borrningens nya analysresultat har identifierats i denna kontroll. Hannan-uppgifterna är bolagets egna och analyserna från den andra borrkampanjen återstår.
