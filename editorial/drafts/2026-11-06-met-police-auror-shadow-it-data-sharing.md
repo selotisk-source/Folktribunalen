@@ -65,6 +65,18 @@ Det utfärdades en reprimand och ett föreläggande om förbättringar – inte 
 
 Fallet illustrerar ett problem som återkommer när myndigheter använder privata digitala verktyg: den praktiska användningen kan föregå upphandling, riskbedömning och formell kontroll. När personal börjar dela information genom en extern plattform kan personuppgifter lämna myndighetens etablerade miljö utan att ansvarskedjan är tillräckligt tydlig.
 
+## 4 november: regeringen lägger fram ett bredare biometriskt regelverk
+
+**PRIMÄRKÄLLA – publicerad 4 november 2026:** Home Office publicerade sitt svar på konsultationen om biometriska tekniker, ansiktsigenkänning och liknande övervakningssystem. Konsultationen pågick 4 december 2025–12 februari 2026. Regeringen säger nu att ett nytt regelverk ska läggas fram genom Police Reform Bill.
+
+Förslaget omfattar polis och andra offentliga organ när tekniken används för brottsbekämpning och vissa begränsade skyddsändamål. Det ska omfatta ansiktsigenkänning, annan biometrisk teknik, synlig övervakning och inferentiella tekniker som drar slutsatser om beteende eller tillstånd. Regeringen vill skapa en lagstadgad uppförandekod och ett nytt oberoende tillsynsorgan med befogenhet att övervaka och ingripa vid bristande efterlevnad. Den avser också en separat uppförandekod för privat sektor vid brottsförebyggande och brottsutredande användning.
+
+**Viktig avgränsning:** Detta är ett regeringsförslag och en aviserad lagstiftningsväg, inte en redan antagen lag. Tillsynsorganet är ännu inte inrättat och den publicerade responsen anger ingen ikraftträdandedag. Ada Lovelace Institute välkomnade den planerade tillsynen men efterlyste tydliga trösklar för vilka brott som kan motivera användning och en obligatorisk privat sektorskod.
+
+Regeringens redovisning anger 13 845 fullständiga inlämningar, men siffran är inte liktydig med 13 845 unika, substantiella ståndpunkter: 12 584 e-postmeddelanden omfattade 588 unika svar och 11 996 dubbletter eller meddelanden utan konsultationssvar; därutöver analyserades 1 261 fullständiga webbformulär. Den separata attitydundersökningen omfattade 3 920 vuxna och ska inte blandas ihop med konsultationsinlämningarna.
+
+**Kopplingen till Auror:** Regeringens planerade privata sektorskod kan få betydelse för kommersiella system som används i brottsförebyggande syfte. Den löser dock inte retroaktivt frågan om MPS:s tidigare användning av Auror eller ersätter ICO:s tillsynsbeslut. Den centrala öppna frågan är om den framtida koden blir bindande, hur leverantörernas ansvar ska se ut och hur informationsdelning mellan butikskedjor och polis ska dokumenteras.
+
 Det betyder inte att alla privata analysplattformar är olagliga eller att Auror och Palantir är samma typ av system. Jämförelsen med andra leverantörer gäller den offentliga kontrollfrågan: vem godkänner verktyget, vilka data får föras in, på vilken rättslig grund, hur länge sparas de och vem kan granska användningen?
 
 ## Frågor som återstår
@@ -86,6 +98,9 @@ Det betyder inte att alla privata analysplattformar är olagliga eller att Auror
 
 ## Källor
 
+- Home Office, regeringens konsultationssvar om biometrik och ansiktsigenkänning, 4 november 2026: https://www.gov.uk/government/consultations/legal-framework-for-using-facial-recognition-in-law-enforcement/outcome/new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies-government-response-to-the-consultation-accessible
+- UK Parliament, Written Ministerial Statement HCWS449, 4 november 2026: https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws449
+- Ada Lovelace Institute, 4 november 2026: https://www.adalovelaceinstitute.org/press-release/home-office-announcement-on-police-facial-recognition-legislation/
 - Information Commissioner's Office, *ICO takes action against Metropolitan Police Service*, 14 oktober 2026: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-takes-action-against-metropolitan-police-service-over-information-governance-failures/
 - The Register, *Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog*, 15 oktober 2026: https://www.theregister.com/security/2026/10/15/metropolitan_polices_unchecked_use_of_shoplifting_platform_lands_force_in_trouble_with_data_watchdog/
 - UKAuthority, *ICO reprimands Met over retail crime intelligence platform*, 3 november 2026: https://www.ukauthority.com/articles/ico-reprimands-met-over-retail-crime-intelligence-platform
