@@ -64,6 +64,15 @@ För varje nytt myndighetskontrakt behöver redaktionen följa:
 Q3-rapporten ger en ny ekonomisk bild av bolaget. Den ersätter inte den kontraktsvisa granskningen av hur offentlig makt faktiskt utövas.
 
 
+
+## TITAN: en konkret produktionsorder till armén
+
+Palantirs Q3-presentation beskriver TITAN som på väg från prototyp till produktion. Den amerikanska arméns programkontor publicerade redan den 1 september 2026 ett primärmeddelande om övergången. Per den 31 augusti hade armén lagt två leveransorder med ett sammanlagt värde på **192 miljoner dollar**: **127 miljoner dollar till Palantir** och **65 miljoner dollar till Anduril**. Beställningarna avser åtta första produktionssystem, fyra TITAN Advanced och fyra TITAN Basic, med leverans över de följande 18 månaderna.
+
+Detta är ett konkret produktionsbeslut och ska skiljas från den bredare Army Enterprise Service Agreement som kan ge armén möjlighet att köpa upp till 10 miljarder dollar i programvara och tjänster över tio år. Det senare är ett avtalsmaximum och innebär inte att hela beloppet måste spenderas.
+
+TITAN knyter ihop sensordata från rymd-, luft- och markbaserade system för att skapa underrättelse- och målinformation. Det gör mänsklig beslutsrätt, spårbarhet, felhantering och möjligheten att granska systemets rekommendationer till centrala frågor. Arméns produktionsbeslut visar att programmet går vidare; det bevisar inte i sig hur varje operativ användare kommer att använda systemets rekommendationer eller hur stor effekt det får i fält.
+
 ## Två nya infrastrukturpartnerskap – men inte nya myndighetskontrakt
 
 Palantir har under hösten också presenterat två partnerskap som påverkar hur bolagets plattform kan nå offentliga och reglerade kunder.
@@ -91,6 +100,8 @@ Den fortsatta granskningen måste därför gå från kvartalssiffror till kontra
 - Palantir Technologies Inc., Form 10-Q för kvartalet som avslutades 30 september 2026, SEC. Särskilt not 7 om inköpsåtaganden och molntjänster samt avsnittet om återstående prestationsåtaganden: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
 - Palantir och Nebius, *Palantir and Nebius Partner to Deliver a Complete Sovereign AI Stack to Palantir Customers*, 8 september 2026: https://investors.palantir.com/news-details/2026/Palantir-and-Nebius-Partner-to-Deliver-a-Complete-Sovereign-A
 - Palantir och Knox Systems, *Knox and Palantir Partner to Further Accelerate Delivery of Software through Largest Federal Cloud*, 19 oktober 2026: https://investors.palantir.com/news-details/2026/Knox-and-Palantir-Partner-to-Further-Accelerate-Delivery-of-Software-through-Largest-Federal-Cloud/
+- U.S. Army Capability Program Executive – Intelligence and Spectrum Warfare, *Army Announces Move to Production for TITAN*, 1 september 2026: https://cpeisw.army.mil/2026/09/01/army-announces-move-to-production-for-titan/
+- Reuters, *US Army pools contracts into up to $10 billion Palantir deal*, 31 juli 2025: https://www.reuters.com/business/us-army-pools-contracts-into-up-10-billion-palantir-deal-2025-07-31/
 
 **Oberoende kontroll**
 - SEC/EDGAR är den offentliga regulatoriska inlämningen av bolagets kvartalsrapport. Den bekräftar bolagets redovisade åtaganden, men är inte en oberoende revision av varje bakomliggande molnleverans eller kundkontrakt.
