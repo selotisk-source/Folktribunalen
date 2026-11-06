@@ -92,3 +92,46 @@ AI-modeller kan förbättras snabbt, men datacenter byggs i verkliga kommuner, p
 - **Öppet:** Hämta stängningskurser, bolagens senaste skuldsättning, obligationsvillkor, leasingåtaganden, kundkoncentration, elanslutningar och lokala tillstånd för utvalda projekt.
 
 **Status:** Komplett artikelutkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Uppdatering – slutkurser och kreditmarknad, 6 november 2026
+
+Den tidigare versionens AP-tal var intradagsuppgifter med ungefär en timme kvar av handeln. De ska inte användas som slutkurser. Reuters redovisade efter stängning den 5 november följande nivåer:
+
+- Nasdaq Composite: **−5,5 procent**.
+- Nasdaq-100: **−6,4 procent**, motsvarande cirka **2,5 biljoner dollar** i utraderat börsvärde.
+- Philadelphia Semiconductor Index: **−12 procent**.
+- NVIDIA: **−9 procent**.
+- AMD: **−17 procent**.
+- CoreWeave: **−10 procent**.
+- CoreWeaves femåriga CDS-spread nådde enligt S&P Global Market Intelligence **1 267,9 baspunkter**, en rekordnivå.
+
+Reuters återgav även en UBS-uppskattning om att omkring **30 procent av de väntade amerikanska datacenterkapacitetstillskotten 2028** kan vara utsatta för risk för byggpauser. Det är en analytikerbedömning av planerade tillägg, inte ett konstaterande att 30 procent av befintlig kapacitet stoppats eller att projekten har avbeställts.
+
+### Projekt- och finansieringssignaler efter börsraset
+
+**OBEROENDE MEDIERAPPORTERING, med uppgift från Bloomberg:** Reuters rapporterade den 5 november att Microsoft skärpt sin granskning av vissa datacenterprojekt hos Nebius, IREN och Nscale. Microsoft uppges lämna projekt som bedöms som riskfyllda och överväger om nya neocloud-avtal ska tecknas. Reuters rapporterar också att Microsoft inte utnyttjar en option att mer än fördubbla ett Nscale-avtal i Texas och att bolaget lämnat ett planerat ankarkundavtal för Nscales Loughton-anläggning i Essex efter att nätanslutningen försenats till 2030-talet.
+
+**PRIMÄRKÄLLA, IREN:** IREN:s Q1 FY27-rapport den 5 november bekräftar att leveransmålet för delar av Microsoft-kapaciteten flyttats från årsskiftet till januari 2027, eventuellt slutet av februari, efter en kundbegärd ändring av nätverksdesignen och leverantörstiming. Reuters uppger att dessa förseningar inte medför ekonomiska förseningsavgifter för IREN. Microsoft säger att dess infrastrukturmodell kombinerar egna datacenter, hyrda anläggningar och strategiska tredjepartspartners.
+
+Detta är konkreta tecken på att nätanslutning, kundacceptans och driftsättning påverkar finansieringskedjan. De visar inte att AI-efterfrågan har kollapsat eller att Microsoft lämnar hela neocloud-marknaden.
+
+### Koppling till fördjupningsartikeln
+
+Den nya granskningen **AI-infrastrukturens kreditkedja prövas: IREN, SoftBank, ING och SpaceX** går igenom IREN:s backlog, ARR-definition, skulder och finansieringsbehov samt de rapporterade låne- och leasingstrukturerna. Den ska läsas tillsammans med detta marknadsutkast, inte som ett påstående om att en generell kreditkris redan har inträffat.
+
+### Uppdaterade källor
+
+- Reuters, *Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears*, 5 november 2026: https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/
+- Reuters, *Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports*, 5 november 2026: https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/
+- IREN, *IREN Reports Q1 FY27 Results*, 5 november 2026, bolagets resultatmeddelande: https://iren.gcs-web.com/static-files/8b5ff1cc-4a7c-444d-a3bf-bf5a621cf4b7
+- IREN Investor Relations, rapportarkiv: https://iren.com/investors/reports
+
+### Källstatus efter uppdatering
+
+- **OBEROENDE BEKRÄFTELSE:** Reuters slutkurser och S&P Global Market Intelligence-data för CoreWeaves CDS.
+- **PRIMÄRKÄLLA/PARTSUPPGIFT:** IREN:s finansiella rapport och egna uppgifter om leveransmål, backlog och ARR.
+- **OBEROENDE MEDIERAPPORTERING:** Microsofts skärpta projektgranskning bygger på Bloomberg-källor återgivna av Reuters; Microsofts eget uttalande om sin infrastrukturmodell återges i samma Reuters-artikel.
+- **Inte belagt:** Att någon av de nämnda finansieringsaffärerna har fallerat, att en låntagare är i betalningsinställelse eller att marknadsraset bevisar en generell AI-bubbla.
+
+**Status:** Utkast uppdaterat med slutkurser och nya projekt-/kreditsignaler. Inte publicerat.
