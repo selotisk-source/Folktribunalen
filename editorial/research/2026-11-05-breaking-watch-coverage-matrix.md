@@ -281,3 +281,68 @@ EuroHPC:s uppdatering 5 november ska läsas exakt: Lot 1:s deadline flyttas till
 | 4 februari 2027 | EuroHPC Lot 1 |
 
 **Arbetsstatus:** 19 huvudspår kontrollerade i cykeln 6 november 2026 kl. 03.49 Europe/Sofia. Två nya artikelutkast skapade, ett Hormuz-utkast uppdaterat och denna matris kompletterad. Inget har mergats eller publicerats på webbplatsen.
+
+
+---
+
+## Cykelkontroll – 6 november 2026, 04.32 Europe/Sofia
+
+**Omfattning:** Samtliga 19 huvudspår fick en ny sök- och källkontroll. En ny betydande rättslig utveckling identifierades i spår N/S/O: Helsingfors tingsrätts dom i Fitburg-målet den 5 november. Onkalo-underlaget i spår S/R kompletterades med den finska regeringens licensvillkor och en oberoende teknisk/energifacklig genomgång. Övriga spår gav ingen ny uppgift som passerade notiströskeln i denna cykel. Detta är en kontroll av öppna källor, inte en uttömmande genomgång av alla nationella diarier och register.
+
+### Ny betydande utveckling – Fitburg-domen (N/S/O)
+
+- **Händelsedatum:** 31 december 2025.
+- **Domdatum:** 5 november 2026.
+- **Publiceringsdatum för domstolens pressmeddelande:** 5 november 2026.
+- **Nytt:** Helsingfors tingsrätt dömde Fitburgs kapten till 3 år och 6 månaders ovillkorligt fängelse och överstyrmannen till 2 år och 10 månader för det finska brottet *törkeä tuhotyö*. Båda skulle omedelbart tas i förvar. Domstolen biföll ersättningskrav för reparations- och undersökningskostnader för kablar och gasledning.
+- **Domstolens faktabedömning:** ankare och ankarkätting släpades längs havsbottnen cirka 130 kilometer under flera timmar; två telekommunikationskablar skadades. Sju andra telekommunikations- och elkablar samt en gasledning utsattes för risk.
+- **Jurisdiktion:** tingsrätten ansåg att Finland kunde pröva åtalet eftersom det rörde sig om uppsåtliga brott vars följder visat sig i Finland; domstolen ansåg inte att saken var ett sjörättsmål.
+- **Övrig rättslig avgränsning:** åtalet för grov störning av telekommunikation avslogs eftersom gärningen ansågs ingå i det brott som de tilltalade dömdes för.
+- **PRIMÄRKÄLLA:** Helsingfors tingsrätt, pressmeddelande 5 november 2026: https://www.tuomioistuimet.fi/ajankohtaista/tiedotteet/karajaoikeus-on-antanut-tuomion-ns-fitburg-asiassa/
+- **OBEROENDE BEKRÄFTELSE:** Yle 5 november: https://yle.fi/a/74-20255306; Reuters 5 november: https://www.reuters.com/world/europe/finland-court-convicts-fitburg-captain-crew-member-over-baltic-sea-cable-damage-2026-11-05/; AP 5 november: https://apnews.com/article/cad289ba853cf13b126e9e44ee87ea04.
+- **Källreservation:** de tilltalade förnekade brott. Domen är överklagbar. Reuters rapporterar cirka 1,9 miljoner euro i gemensam ersättning och cirka 85 000 euro ytterligare för kaptenen; beloppen ska jämföras med den fullständiga skriftliga domen.
+- **Inte belagt:** statlig ordergivning eller ansvar för någon regering/underrättelsetjänst. Nationalitet ska inte användas som attribution.
+- **Öppna frågor:** fullständig skriftlig dom, eventuella överklaganden, slutliga ersättningsbelopp och offentligt redovisade reparationskostnader.
+- **Artikel:** nytt utkast `editorial/drafts/2026-11-06-fitburg-cable-verdict-gulf-finland.md`.
+
+### Onkalo – licensvillkor förtydligade (S/R)
+
+- **Beslutsdatum:** 22 oktober 2026.
+- **Nytt i denna cykel:** regeringens engelska primärsammanfattning och World Nuclear News genomgång har kontrollerats mot det befintliga utkastet.
+- **PRIMÄRKÄLLA:** Finlands regering, publicerad 22 oktober: https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility?languageId=en_US.
+- **Oberoende komplettering:** World Nuclear News, 23 oktober: https://wnn.world-nuclear.org/articles/posiva-given-go-ahead-to-operate-finnish-used-fuel-repository.
+- **Licens:** gäller till slutet av 2070; högst 6 500 ton uran i använt bränsle från Olkiluoto och Loviisa. Onkalo ligger mer än 400 meter under mark.
+- **Villkor:** högst cirka 3 300 kapslar; planerad takt högst 60 kapslar per år när driften är etablerad; slutförvaringsverksamheten väntas fortsätta in på 2120-talet. Efter förslutning övergår ansvaret till staten enligt kärnenergilagen.
+- **Ekonomiskt ansvar:** Posivas ägare TVO och Fortum ska säkerställa verksamhetens ekonomiska förutsättningar.
+- **Viktig begränsning:** driftlicensen innebär inte att anläggningen får starta omedelbart. STUK:s förhandsinspektion måste genomföras innan driften börjar; periodisk säkerhetsbedömning och uppdaterad långsiktig säkerhetsredovisning ska lämnas inom tio år.
+- **Arbetsåtgärd:** befintligt Onkalo-utkast kompletterat med dessa villkor och WNN som oberoende källa. Ingen ny separat artikel skapad.
+
+### Täckningsnotering per huvudspår
+
+| Spår | Resultat i denna cykel | Nästa kontrollpunkt |
+|---|---|---|
+| A. Palantir/offentlig makt | Ingen ny SEC-, upphandlings- eller myndighetsakt identifierad efter senaste Q3-kontrollen. | NHS-förlängningens formella beslut och nya upphandlings-/exitvillkor. |
+| B. AI-datacenter | Ingen ny primärhandling efter OpenAI:s samhällskompakt och Effingham-uppskovet i föregående cykel. | Effingham-mötet 17 november; kontrollera platsplan och tillstånd. |
+| C. Synkronicitet | Ingen ny studie/replikation som ändrar evidensläget. | Förhandsregistrerade replikationer, öppna data och kontrollgrupper. |
+| D. Sofia | Ingen ny arkeologisk primärhandling. Samuils överföring och sarkofag är en etablerad händelse från 3 oktober, inte en ny utgrävning. | Inventarielista och kvittenser för de 48 föremålen; fyndplatsarkiv och eventuell DNA-rapport. |
+| E. Strategiska råvaror | Ingen ny fyndighets-, resurs-, reserv- eller tillståndsakt. | CRMA artikel 27.3, 24 november, för berörda utvinningsavfallsoperatörer; Finlex-lagtext för HE 133/2026. |
+| F. NVIDIA/AI-finansiering | Ingen ny offentlig policytext som bekräftar den rapporterade 51-procentsregeln. | Nvidia-svar, standardavtal, definition av kundmix och revisionsrätt. |
+| G. Libanon | Ingen ny rådsakt eller operativ lansering av EUSM Lebanon. | Separat lanseringsbeslut och UNIFIL:s framtida mandat. |
+| H. Kyrkorna | Ingen ny restaurerings-, ägar- eller kulturarvsakt i de fem städerna. | Fortsatta stadsvisa kyrko- och byggnadsarkiv. |
+| I. Fennoskandien | Ingen ny mark-, skogsbruks-, rennärings- eller hästhistorisk primärhandling. | Historiska kartor, markregister och dokumenterad hästavel. |
+| J. Storsjöodjuret | Ingen ny primärkälla eller biologisk evidens. | Originalvittnesmål, runologiska publikationer och fullständiga Thiel-transkript. |
+| K. Cladonia/Storsjö kapell | Ingen ny lagfarts- eller tillståndshandling. Tidigare rapporterade cirka 300 ha är fortsatt inte registerkontrollerade i arbetsmappen. | Lantmäteriets fastighetsakter, separata förvärvstillstånd och JO-diarier. |
+| L. Skaga kapell | Ingen ny restaurerings- eller byggnadsarkeologisk handling. | RAÄ, länsstyrelse, kommun- och kyrkoarkiv. |
+| M. Athos | Ingen ny provenienshandling eller katalogpost som styrker en ny donation/förflyttning. | Offentliga klosterkataloger och dokumenterade donationer. |
+| N. Från skrift till storebror | **Ny betydande rättslig utveckling:** Fitburg-domen gäller skada på två civila telekommunikationskablar och risk för annan civil infrastruktur. | Fullständig dom, överklaganden och kostnadsredovisning. |
+| O. Hormuz/sjöfart | Ingen ny identifierad incident efter föregående cykels IMO/UKMTO-kontroll. Fitburg gäller Finska viken och ska inte blandas ihop med Hormuz. | Fartygsidentiteter och flagg-/rederibesked för tidigare obekräftade Hormuz-påståenden. |
+| P. USA:s kongress | Ingen ny offentlig handling efter begäran om briefing med Jensen Huang. | Sista svarsdag 11 november och eventuell briefing 18 november. |
+| Q. Gripen | Ingen ny oberoende testdata för Saabs AI-flygprov. | Testprotokoll, FMV:s roll och mänsklig auktoritetsmodell. |
+| R. Strategisk energi | Onkalo-licensens långsiktiga drift- och finansieringsvillkor har förtydligats; ingen driftsättning ännu. | STUK:s förhandsinspektion och Posivas faktiska startbesked. |
+| S. Urbergsskölden | Onkalo-licensen är bekräftad mot regeringens primärkälla; Fitburg tillför en separat civil undervattensinfrastruktur- och sjösäkerhetsfråga i Östersjöregionen. | STUK-inspektion; RAKKA/GTK-data; offentlig dokumentation om civil underjordisk infrastruktur. |
+
+### Käll- och metodnot
+
+En sökning utan nytt fynd är inte bevis för att inget har hänt eller att alla register är uttömmande genomgångna. Flera nyhetsartiklar som återger samma domstolsmeddelande räknas inte som flera oberoende primärbelägg. Fitburg-domen är primärkälla för domslutet; Yle, Reuters och AP används som oberoende rapportering och komplettering.
+
+**Arbetsstatus 6 november 2026, 04.32 Europe/Sofia:** 19 huvudspår sökta; ett nytt artikelutkast skapat (Fitburg); befintligt Onkalo-utkast kompletterat; täckningsmatris uppdaterad. Ingen artikel mergad eller publicerad på webbplatsen.
