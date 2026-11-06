@@ -86,6 +86,33 @@ Den nya samiska sanningskommissionens rapport ger dessutom en viktig historisk r
 
 ---
 
+
+
+## Ny artskyddsförordning från 1 november – relevant för framtida skogsbruk, men inte ett frikort
+
+En ny ändring i artskyddsförordningen trädde i kraft den **1 november 2026**. Den autentiska författningen är **SFS 2026:1504**, utfärdad den 14 juli och publicerad den 16 juli 2026. Den ersätter den tidigare bilaga 2 med en nationell förteckning och delar in nationellt fridlysta arter i fyra skyddskategorier: strikt, förstärkt, grundläggande och begränsat skydd.
+
+Det viktigaste för skogsbruket är att 9 a § anger att förbuden för arter med grundläggande eller begränsat skydd inte gäller när det är uppenbart att åtgärdens syfte inte är att orsaka den förbjudna påverkan; jord- och skogsbruksåtgärder ska som utgångspunkt anses ha ett annat syfte. 9 b § innehåller dessutom ett undantag när förbud i det enskilda fallet avsevärt försvårar pågående markanvändning. Undantaget gäller dock inte strikt skyddade arter enligt de bestämmelser som anges i författningen.
+
+Det här förändrar den nationella rättsliga ramen för vissa arter. Det innebär inte att alla naturvärdeshänsyn försvinner, att rödlistade arter automatiskt saknar skydd eller att EU-rättsliga förpliktelser enligt fågel- och art- och habitatdirektiven kan ignoreras. Varje art, geografiskt område och rättsgrund måste kontrolleras separat.
+
+**Varför det spelar roll för Storsjöaffären:** Cladonia har ännu inte redovisat någon verifierbar skogsbruksplan eller avverkningsanmälan för det aktuella området i det material som granskats. Den nya förordningen kan påverka framtida prövning av vissa arter, men det går inte att dra slutsatsen att den ändrar skyddet på just Cladonias fastigheter utan att först jämföra artinventeringar, skyddskategorier, EU-status, naturreservat, Natura 2000, biotopskydd och tidigare myndighetsbeslut.
+
+**PRIMÄRKÄLLA:** SFS 2026:1504, särskilt 5 a, 6, 8, 9, 9 a och 9 b §§ samt ikraftträdandebestämmelsen den 1 november 2026.
+
+**OBEROENDE BEKRÄFTELSE:** Skogsstyrelsens information den 2 november om hur de nya skyddsnivåerna påverkar skogsbrukets ärenden. SLU:s sammanfattning ger en forskningsmässig genomgång, men dess webbsammanfattning anger SFS-numret felaktigt som 2026:150; den autentiska SFS-författningen är 2026:1504 och ska användas som rättskälla.
+
+**ÖPPNA FRÅGOR:**
+- Vilka arter i länsstyrelsens inventeringar av Storsjöområdet omfattas av strikt respektive förstärkt skydd?
+- Vilka förekomster omfattas av EU:s fågel- eller art- och habitatdirektiv?
+- Har Cladonia lämnat in nya avverkningsanmälningar eller begärt omprövning efter den 1 november?
+- Vilka äldre beslut och pågående ärenden omfattas av övergångsbestämmelserna?
+
+**Källor:**
+- Svensk författningssamling, SFS 2026:1504: https://svenskforfattningssamling.se/doc/20261504.html
+- Skogsstyrelsen, information om nya skyddsnivåer för fridlysta arter, 2 november 2026: https://www.skogsstyrelsen.se/nyhetslista/nytt-regelverk-for-fridlysta-arter-fran-1-november/
+- SLU, *Nytt regelverk för fridlysta arter*, 29 oktober 2026: https://www.slu.se/nyheter/2026/10/nytt-regelverk-for-fridlysta-arter/
+
 ## Källor
 
 **Primärkälla**
