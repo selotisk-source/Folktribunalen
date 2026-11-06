@@ -63,6 +63,17 @@ För varje nytt myndighetskontrakt behöver redaktionen följa:
 
 Q3-rapporten ger en ny ekonomisk bild av bolaget. Den ersätter inte den kontraktsvisa granskningen av hur offentlig makt faktiskt utövas.
 
+
+## Två nya infrastrukturpartnerskap – men inte nya myndighetskontrakt
+
+Palantir har under hösten också presenterat två partnerskap som påverkar hur bolagets plattform kan nå offentliga och reglerade kunder.
+
+Den 8 september 2026 utsåg Palantir nederländska Nebius till sin föredragna partner för så kallad sovereign AI-infrastruktur för kommersiella kunder. Palantir uppger att Nebius beräkningskapacitet och inferensgränssnitt efter en integrationsperiod ska kunna nås innanför Palantirs företagsperimeter. Det är ett strategiskt partnerskap och en leveransmodell – inte ett offentliggjort kontrakt med en namngiven myndighet. Begreppet ”suverän” är bolagens egen beskrivning och måste prövas mot faktisk jurisdiktion, datalokalitet, underleverantörer och åtkomstvillkor.
+
+Den 19 oktober 2026 meddelade Palantir och Knox Systems ett partnerskap för att påskynda leverans av programvara till kunder i federala molnmiljöer med FedRAMP- och IL5-krav. Knox uppgav att bolaget redan betjänar över 100 AI- och företagsapplikationer i federala miljöer. Även detta är ett distributions- och infrastrukturpartnerskap, inte ett nytt myndighetsbeslut eller ett bevis på att en viss myndighet har köpt Palantirs system genom Knox.
+
+Dessa partnerskap är relevanta för leverantörskedjan, men de identifierar inte automatiskt den externa molnleverantör som nämns i SEC-rapportens åtagande på 5,6 miljarder dollar. Någon sådan koppling har inte belagts.
+
 ## Slutsats
 
 Palantirs tredje kvartal visar ett tydligt skifte i den amerikanska intäktsmixen: kommersiella kunder har för första gången passerat myndighetskunderna, samtidigt som båda marknaderna växer mycket snabbt.
@@ -78,6 +89,8 @@ Den fortsatta granskningen måste därför gå från kvartalssiffror till kontra
 **Primärkällor**
 - Palantir, Q3 2026 Business Update, publicerad i samband med rapporten den 2 november 2026: https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf
 - Palantir Technologies Inc., Form 10-Q för kvartalet som avslutades 30 september 2026, SEC. Särskilt not 7 om inköpsåtaganden och molntjänster samt avsnittet om återstående prestationsåtaganden: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+- Palantir och Nebius, *Palantir and Nebius Partner to Deliver a Complete Sovereign AI Stack to Palantir Customers*, 8 september 2026: https://investors.palantir.com/news-details/2026/Palantir-and-Nebius-Partner-to-Deliver-a-Complete-Sovereign-A
+- Palantir och Knox Systems, *Knox and Palantir Partner to Further Accelerate Delivery of Software through Largest Federal Cloud*, 19 oktober 2026: https://investors.palantir.com/news-details/2026/Knox-and-Palantir-Partner-to-Further-Accelerate-Delivery-of-Software-through-Largest-Federal-Cloud/
 
 **Oberoende kontroll**
 - SEC/EDGAR är den offentliga regulatoriska inlämningen av bolagets kvartalsrapport. Den bekräftar bolagets redovisade åtaganden, men är inte en oberoende revision av varje bakomliggande molnleverans eller kundkontrakt.
