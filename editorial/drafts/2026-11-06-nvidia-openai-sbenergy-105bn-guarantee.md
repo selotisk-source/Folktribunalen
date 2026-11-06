@@ -1,8 +1,8 @@
-# NVIDIA:s 105 miljarder – garantin bakom OpenAI:s datacenter
+# AI-infrastrukturens kreditstöd: NVIDIA, Google och Anthropic
 
 **Artikeltyp:** Finansgranskning · AI-infrastruktur · garantier · projektfinansiering  
-**Faktaläge:** 6 november 2026  
-**Berörda spår:** NVIDIA och AI-finansiering · Europas AI-datacenter · strategisk energi · USA:s kongress
+**Faktaläge:** 7 november 2026  
+**Berörda spår:** F – AI-finansiering och säkerheter · B – AI-datacenter · R – strategisk energi
 
 *En av AI-boomens största finansiella risker syns inte som ett vanligt lån. NVIDIA har i sin kvartalsrapport redovisat garantier på upp till 105 miljarder dollar kopplade till OpenAI:s planerade datacenter i Ohio. Beloppet är inte en redan utbetald investering eller en bokförd skuld på 105 miljarder. Det är ett villkorat åtagande som ska skydda en del av SB Energys fastighets-, el- och byggfinansiering om OpenAI inte fullgör sina leasingåtaganden. Men strukturen gör NVIDIA till mer än en chipleverantör: bolaget investerar i projektbolaget, garanterar en del av dess risk och får samtidigt exklusiv rätt att leverera AI-infrastruktur.*
 
