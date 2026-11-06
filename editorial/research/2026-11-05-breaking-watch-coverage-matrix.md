@@ -380,7 +380,7 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 
 ## Cykelkontroll – 6 november 2026, 06.24 Europe/Sofia
 
-**Omfattning:** A–S, 19 huvudspår. Riktad sökning i öppna primärkällor och oberoende rapportering sedan föregående cykel. Fyra områden gav substantiella tillägg: B/F (AI-finansiering och datacenter), E/S (CRMA och Viscaria), N (Immigration Enforcement LFR) samt kompletterande marknadsdata i F. Detta är en källbaserad uppdatering av öppna frågor, inte en uttömmande genomgång av varje nationellt register eller diariefört ärende.
+**Omfattning:** A–S, 19 huvudspår. Riktad sökning i öppna primärkällor och oberoende rapportering sedan föregående cykel. Fyra tvärgående kluster gav substantiella tillägg: B/F (AI-finansiering och datacenter), E/S/I/R (CRMA, Arctial, Viscaria, elbehov och hästlandskap), N (Immigration Enforcement LFR) samt kompletterande marknadsdata i F. Detta är en källbaserad uppdatering av öppna frågor, inte en uttömmande genomgång av varje nationellt register eller diariefört ärende.
 
 ### Nya betydande uppgifter
 
@@ -434,7 +434,7 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 | O. Hormuz/sjöfart | IMO:s 5 nov-lista och Fitburg-domen kontrollerade i föregående cykel. | VELOS SAPPHIRE är identifierat; IRGC:s övriga påståenden fortfarande obekräftade. | Flaggstats-/rederibesked och eventuella överklaganden i Fitburg. |
 | P. USA:s kongress | Begäran om Jensen Huang-briefing 18 nov kvarstår. | Ingen ny offentlig hearing/lagtext i denna cykel. | Svarsdag 11 nov och eventuell briefing 18 nov. |
 | Q. Gripen | Saabs AI-flygprov är fortfarande bolagets uppgift. | Oberoende testprotokoll och FMV:s roll saknas. | Offentligt testunderlag och export-/leveransbeslut. |
-| R. Strategisk energi | Onkalo-licensen kvarstår; ingen ny STUK-startinspektion. | Driftstart får inte likställas med licensbeslut. | STUK:s förhandsinspektion. |
+| R. Strategisk energi | Onkalo-licensen kvarstår; Arctials MKB anger 1 050 MW jämnt effektbehov och två nya 400 kV-anslutningar. | Arctials nätkapacitet, finansiering och miljövillkor är ännu separata frågor; driftstart får inte likställas med licensbeslut för Onkalo. | Arctials anslutningsavtal och tillstånd; STUK:s förhandsinspektion för Onkalo. |
 | S. Urbergsskölden | CRMA-listan, Arctials MKB-slutsats och Viscarias Q3-rapport; Onkalo-licensen följs separat. | Strategisk råvarustatus måste skiljas från miljötillstånd, nätanslutning, finansiering och kommersiell drift. Arctials 1 050 MW effektbehov är en betydande nätfråga. | Arctials 400 kV-anslutningar och separata tillstånd; Viscarias bankkredit; RAKKA/GTK; Onkalo/STUK. |
 
 ### Nästa kontrollpunkter
