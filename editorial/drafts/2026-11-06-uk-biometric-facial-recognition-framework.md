@@ -116,6 +116,6 @@ Ada Lovelace Institute välkomnade den 4 november regeringens löfte om ett ober
 - **PRIMÄRKÄLLA:** Home Office, nyhet om lagstiftningsplan och investering i mobila enheter, 4 november 2026: https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology
 - **OBEROENDE REAKTION:** Ada Lovelace Institute, 4 november 2026: https://www.adalovelaceinstitute.org/press-release/home-office-announcement-on-police-facial-recognition-legislation/
 - **OBEROENDE RÄTTSLIG RAPPORTERING:** Reuters om High Courts avgörande, 21 april 2026: https://www.reuters.com/world/uk/uk-court-rejects-challenge-london-polices-use-live-facial-recognition-2026-04-21/
-- **PRIMÄRKÄLLA:** ICO:s konsultationssvar: https://ico.org.uk/about-the-ico/consultations/2026/02/home-office-consultation-on-a-new-legal-framework-for-law-enforcement/
+- **PRIMÄRKÄLLA:** High Court, R (Thompson and Carlo) v Commissioner of Police of the Metropolis, [2026] EWHC 915 (Admin), judgment 21 april 2026: https://www.judiciary.uk/wp-content/uploads/2026/04/AC-2024-LON-001764-R-Thompson-and-Carlo-version-for-hand-down-21-04-2026.pdf
 
 **Redaktionell status:** Utkast för chefredaktörens granskning. Inte publicerat. Regeringens lagstiftningsavsikt är dokumenterad; den framtida lagens slutliga innehåll, datum och tillsynsorganets praktiska befogenheter återstår.
