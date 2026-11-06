@@ -74,3 +74,18 @@ Den viktiga skillnaden är mellan **energisäkerhet på lång sikt** och **fysis
 - Reuters, *Iran attacks wipe out 17% of Qatar's LNG capacity for up to five years, QatarEnergy CEO says*, 19 mars 2026: https://www.reuters.com/business/energy/iran-attack-damage-wipes-out-17-qatars-lng-capacity-three-five-years-qatarenergy-2026-03-19/
 
 **Status:** Arbetsutkast för chefredaktörens granskning. Förhandlingsuppgiften bygger på Reuters källor och är inte ett offentligt undertecknat avtal. DOE:s FTA-beslut är primärkälla; icke-FTA-delen och FERC:s bygg- och miljöprövning är separata processer. Inte publicerat.
+
+
+## QatarEnergys bredare amerikanska portfölj – tre olika avtalsstadier
+
+Reuters rapportering den 6 november placerar Train 6 i en större portföljstrategi. Samma artikel anger att QatarEnergy redan har undertecknat ett långsiktigt köpavtal om **4 mtpa** från Cheniere Energy. Reuters rapporterar också att QatarEnergy förhandlar om cirka **3 mtpa vardera** från Venture Global och Woodside Energy.
+
+Detta är tre olika avtalsstadier:
+- **Cheniere: 4 mtpa** – Reuters beskriver ett undertecknat långsiktigt försäljnings- och köpavtal.
+- **Venture Global: cirka 3 mtpa** – rapporterade förhandlingar, inte bekräftat undertecknat avtal i den granskade källan.
+- **Woodside: cirka 3 mtpa** – rapporterade förhandlingar, inte bekräftat undertecknat avtal i den granskade källan.
+- **NextDecade Train 6: upp till 2 mtpa** – avancerade samtal enligt två källor, men projektet saknar FID och ligger fortfarande i tillståndsprocess.
+
+Volymerna ska därför inte summeras som om QatarEnergy redan säkrat 12 mtpa i bindande amerikanska kontrakt. Endast Cheniere-avtalet beskrivs i Reutersartikeln som undertecknat; övriga tre är förhandlingar eller avsikter som ännu måste följas till offentlig dokumentation.
+
+Källa: Reuters, 6 november 2026, https://www.reuters.com/business/energy/qatarenergy-eyes-nextdecade-train-6-supply-latest-us-lng-push-sources-say-2026-11-06/
