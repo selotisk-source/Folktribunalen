@@ -398,7 +398,7 @@ Alla 19 spår söktes på nytt. Ingen ny, separat primärhandling eller självst
 
 #### E/S – EU:s strategiska råvaruprojekt och Viscaria
 
-- **9 oktober 2026, PRIMÄRKÄLLA:** EU-kommissionen lade till 46 strategiska projekt inom unionen i 16 medlemsstater. Den samlade listan omfattar 106 projekt när den första EU-omgångens 47 projekt och 13 projekt utanför unionen räknas in.
+- **9 oktober 2026, PRIMÄRKÄLLA:** EU-kommissionen antog beslut C(2026) 8051 om 46 nya strategiska projekt inom unionen i 16 medlemsstater. Beslutet publicerades i Europeiska unionens officiella tidning den 22 oktober 2026 som beslut (EU) 2026/2349. Den samlade listan omfattar 106 projekt när den första EU-omgångens 47 projekt och 13 projekt utanför unionen räknas in.
 - **Finland:** fem nya projekt – CoNiKo, Hautalampi, Project Arctial, Sokli och Suhanko. **Sverige:** Viscaria i Kiruna.
 - **OBEROENDE BEKRÄFTELSE:** Svenska Yle rapporterade samma dag att fem finländska projekt tillkommit och citerade arbets- och näringsministeriets sakkunnige: statusen innebär inte direkt finansiering och nationell miljö- och tillståndslagstiftning gäller fortfarande. CRMA ger prioriterad handläggning och tidsfrister; den innebär inte automatiskt finansiering eller ett generellt undantag från miljöprövning.
 - **5 november 2026, PRIMÄRKÄLLA/PARTSUPPGIFT:** Viscarias Q3-rapport visar noll nettoomsättning, förlust 21 miljoner kronor, kassa 1,471 miljarder och eget kapital 5,341 miljarder per 30 september. Bolaget anger att skuldfinansieringen med ING och Société Générale fortfarande pågår, med kreditgodkännande väntat omkring årsskiftet. Bolagets mål om första säljbara koppar 2028 är en prognos.
