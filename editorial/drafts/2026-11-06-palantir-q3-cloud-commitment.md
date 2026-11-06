@@ -116,4 +116,24 @@ Den fortsatta granskningen måste därför gå från kvartalssiffror till kontra
 - **INTE BELAGT:** Att Q3-intäkterna i sig visar hur myndigheter fattar beslut eller hur ofta Palantirs system används automatiskt.
 - **ÖPPET:** Hämta kontrakts- och upphandlingsunderlag för större myndighetskunder; kartlägg underleverantörer och datalokalitet; begär konsekvensbedömningar, revisioner och avtalsvillkor för utträde.
 
+## Tillägg 6 november: fordringskoncentration – utan motsvarande intäktskoncentration
+
+Palantirs Form 10-Q ger ytterligare en viktig uppgift om motpartsrisken. Per den 30 september 2026 uppgick kundfordringarna till 1,883 miljarder dollar. Den anonymiserade kunden **Customer I** stod för **27 procent** av kundfordringarna; samma kund stod för 25 procent vid utgången av 2025. Ingen annan kund stod för mer än 10 procent av kundfordringarna. Samtidigt uppger Palantir att ingen kund stod för mer än 10 procent av periodens intäkter.
+
+Detta är en fordringskoncentration, inte bevis för att kunden svarar för 27 procent av intäkterna eller att kunden har betalningsproblem. Kunden namnges inte. Uppgiften bör följas mot kommande kvartalsrapporter och eventuell förändring i kundfordringarnas ålder och kassaflöde.
+
+**PRIMÄRKÄLLA:** Palantir Form 10-Q, noten *Concentrations of Credit Risk*, raderna om Customer I.  
+https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+### Segmentbilden är nästan jämn – kommersiellt är nu något större
+
+I samma 10-Q redovisas Q3-intäkter på **1,168 miljarder dollar kommersiellt** och **1,146 miljarder dollar statligt**. Tillväxten mot Q3 2025 var 113 procent kommersiellt respektive 81 procent statligt. Separat redovisar bolaget **984 miljoner dollar i amerikanska kommersiella intäkter** mot **953 miljoner dollar från amerikanska myndighetskunder**.
+
+Det är två olika jämförelser: totalsegmenten kommersiellt/statligt och den geografiska jämförelsen USA kommersiellt/USA myndigheter. De ska inte blandas ihop. Den kommersiella ledningen är liten i totalsegmenten, men tillväxttakten är högre.
+
+**PRIMÄRKÄLLA:** SEC Form 10-Q, Q3 2026, revenue by segment and geographic information.  
+https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+**ÖPPET:** Customer I:s identitet, fordringarnas åldersfördelning, betalningstid och om koncentrationen minskar i Q4. Ingen slutsats om myndighetsanvändning kan dras enbart ur intäkts- eller fordringsdata.
+
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
