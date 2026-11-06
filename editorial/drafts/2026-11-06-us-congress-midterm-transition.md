@@ -127,3 +127,27 @@ Det finns också en viktig institutionell begränsning: den demokratiska majorit
 - **ÖPPET:** Officiell certifiering, utskottsordförande, den sittande kongressens sista beslut och den nya majoritetens första arbetsplan.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Ny procedurpunkt: senaten tar upp tillståndsreformen den 9 november
+
+**Publiceringsdatum för Senate Daily Press:** 2 november 2026. **Planerad omröstning:** måndag 9 november 2026 omkring kl. 17.30 Eastern Time.
+
+Senatens officiella kalender anger en cloture-omröstning om motionen att ta upp H.R.2347. Senate Press Gallery beskriver H.R.2347 som det lagstiftningsmässiga fordonet för ett tillståndsreformpaket. Det är viktigt att inte förväxla fordonet med den materiella reformtexten: omröstningen gäller om senaten ska kunna gå vidare med behandlingen, inte om hela reformpaketet slutligt antas.
+
+Det materiella förslaget heter **Bipartisan American Affordability and Jobs Act of 2026** och presenterades den 30 september av senatorerna Shelley Moore Capito, Mike Lee, Martin Heinrich och Sheldon Whitehouse. Den publicerade texten föreslår bland annat att stora datacenterbelastningar på minst 20 MW ska bära de inkrementella kostnader de orsakar i elnätet, att andra elkunder skyddas från kostnader om kunden lämnar och att ekonomiska garantier ska finnas innan nödvändiga nätinvesteringar görs. Förslaget omfattar också bredare reformer av federala tillstånds- och miljöprövningar.
+
+Enligt senatens cloture-regel krävs normalt tre femtedelar av senatorerna – 60 röster i en fulltalig senat – för att avsluta debatten. Även om motionen får tillräckligt stöd återstår fortsatt behandling, ändringsförslag och en separat omröstning om lagstiftningens innehåll.
+
+Reuters rapporterade den 4 november att lagförslagets demokratiska huvudförhandlare vill försöka driva paketet under den sittande kongressens lame-duck-period. Det är en politisk strategi, inte ett bevis för att rösterna redan finns.
+
+**PRIMÄRKÄLLA:** Senate Daily Press, 2 november 2026, och Senate Committee on Energy and Natural Resources, 30 september 2026.  
+**OBEROENDE BEKRÄFTELSE:** Reuters, 4 november 2026.  
+**ÖPPET:** om cloture får 60 röster, vilken ersättningstext som faktiskt läggs fram, om data center-kostnadsreglerna behålls och om paketet får en senare omröstning om slutligt antagande.
+
+**Källor:**
+- Senate Daily Press, 2 november 2026: https://www.dailypress.senate.gov/monday-november-2-2026/
+- Senate Committee on Energy and Natural Resources, 30 september 2026: https://www.energy.senate.gov/newsroom/press/lee-capito-heinrich-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026-2/
+- Lagtext: https://www.energy.senate.gov/wp-content/uploads/2026/09/KAT26642FINAL.pdf
+- Senate cloture rules: https://www.senate.gov/about/powers-procedures/filibusters-cloture.htm
+- Reuters, 4 november 2026: https://www.reuters.com/legal/litigation/democrat-permitting-bill-authors-not-going-wait-new-us-congress-2026-11-04/
