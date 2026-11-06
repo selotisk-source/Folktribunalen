@@ -1,4 +1,4 @@
-# Gripen växer som industriprogram – men Kanada har ännu inte beställt ett enda flygplan
+# Gripen växer som industriprogram – och Saab tar AI från partnerprov till egen utvecklingskedja
 
 **Artikeltyp:** Försvarsindustri · export · tekniköverföring · europeisk säkerhet  
 **Utkastdatum:** 6 november 2026  
@@ -67,6 +67,30 @@ Oktober har gett Gripenprogrammet tre konkreta industrimilstolpar: en ny svensk 
 Den viktigaste nyansen är att dessa händelser befinner sig på olika nivåer. Flygstyrdatorn är en beställd utveckling, den brasilianska flygningen är ett teststeg före leverans och Kanadasamarbetet är villkorat av ett framtida politiskt beslut. Först när dessa steg följs genom avtal, leveranser och operativ användning går det att bedöma hur mycket Gripens europeiska och internationella industriella bas faktiskt har vuxit.
 
 ---
+
+
+
+## Saab flyger egna AI-agenter – men operativ autonomi är inte visad
+
+Den **3 november 2026** berättade Saab för Janes vid International Fighter Conference i München att bolaget under de senaste månaderna har flugit egenutvecklade AI-agenter ombord på Gripen E. Saabs chef för Advanced Programs, Peter Nilsson, beskrev arbetet som en fortsättning på 2025 års Project Beyond, men med en viktig skillnad: de nya agenterna, träningsmiljöerna och utvecklingsverktygen har enligt Saab byggts internt.
+
+Janes rapporterar att Saab etablerar en så kallad AI Fighter Pilot Academy för att industrialisera utveckling, träning och utvärdering av AI-agenter för Gripen E och framtida bemannade och obemannade flygsystem. Saab uppger att agenternas träning omfattar miljontals simulerade flygtimmar. Dessa timmar är simuleringstid, inte verkliga flygtimmar med ett Gripenflygplan.
+
+Det är viktigt att skilja detta från 2025 års test. Då flög Saab och Helsing tre prov med Helsings AI-agent Centaur. Saab uppgav att agenten kunde genomföra manövrer i en BVR-miljö och ge piloten en avfyrningsrekommendation. Den nya uppgiften gäller Saabs egenutvecklade agenter och en mer sammanhållen intern utvecklingskedja.
+
+**Vad som är belagt:** Saab uppger att egna agenter har flugits i Gripen E; Janes har intervjuat bolagets ansvarige chef och återger uppgifterna. **Vad som inte är belagt:** att AI-systemet har godkänts för operativ tjänst, att det kan fatta självständiga vapenbeslut eller att en Gripen kan genomföra ett helt stridsuppdrag utan mänsklig kontroll. Någon offentlig oberoende testmatris, säkerhetsrapport eller jämförbar resultatserie har inte publicerats.
+
+**Redaktionell betydelse:** den tekniska frågan flyttas från om Gripen kan bära en extern AI-agent till om Saab kan kontrollera hela kedjan från träningsdata och simulator till flygprov och framtida certifiering. Den politiska frågan blir vem som godkänner användningsgränserna, hur mänsklig kontroll upprätthålls och hur säkerhetskritisk flygkontroll hålls separerad från uppdragskritiska AI-funktioner.
+
+**Källstatus:**
+- **OBEROENDE BEKRÄFTELSE:** Janes, 3 november 2026, efter intervju med Peter Nilsson vid International Fighter Conference.
+- **PARTSUPPGIFT:** uppgifter om antalet simulerade träningstimmar och agenternas testade förmåga kommer från Saab.
+- **PRIMÄRKÄLLA, historisk jämförelse:** Saabs pressmeddelande om Helsing/Centaur-flygningarna, 11 juni 2025.
+- **OBEKRÄFTAD:** operativ driftsättning, självständig vapenfrigivning och fullständigt autonomt uppdrag.
+
+**Källor:**
+- Janes, *Saab’s AI Fighter Pilot Academy to chart autonomous future for Gripen E and beyond*, 3 november 2026: https://www.janes.com/defence-intelligence-insights/defence-news/air/ifc-2026-saabs-ai-fighter-pilot-academy-to-chart-autonomous-future-for-gripen-e-and-beyond
+- Saab, *Saab achieves AI milestone with Gripen E*, 11 juni 2025: https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e
 
 ## Källor
 
