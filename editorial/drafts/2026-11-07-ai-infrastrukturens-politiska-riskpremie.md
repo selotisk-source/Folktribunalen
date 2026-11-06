@@ -180,3 +180,26 @@ Källor:
 Associated Press rapporterade den 6 november att demokraterna vunnit kontroll över Texas House of Representatives medan republikanerna behåller delstatens senat. Det betyder att Hinojosas löfte om nya datacenterlagar möter en delad lagstiftande församling. Hon kan försöka använda verkställande befogenheter på samma sätt som Abbott gjort, men omfattningen och rättsliga hållbarheten för sådana åtgärder är ännu oklar. Det är därför för tidigt att beskriva hennes vallöfte som ett färdigt moratorium.
 
 **OBEROENDE BEKRÄFTELSE:** Associated Press, 6 november 2026: https://apnews.com/article/5640fa066346ce909f21b719ab073ee2
+
+
+## Europa: ACER visar att nätkostnaden redan stiger – datacenter är en av flera drivkrafter
+
+Den 6 november publicerade EU:s energitillsynsbyrå ACER sin *2026 Monitoring Report on Energy Infrastructure Development in Europe*. Rapporten visar att elnätsfrågan inte är en isolerad amerikansk konflikt.
+
+ACER anger att:
+- årliga investeringar i europeisk elöverföring nästan tredubblades från **10,4 miljarder euro 2019 till 30,5 miljarder euro 2025**,
+- i genomsnitt **22 procent** av gränsöverskridande elnätsprojekt av gemensamt intresse eller ömsesidigt intresse försenas varje år, främst på grund av tillståndsprocesser,
+- en försening på ett år kan enligt ACER innebära cirka **4 miljarder euro i förlorad samhällsekonomisk nytta**,
+- åtgärder för att hantera elnätsbegränsningar kostade europeiska elkonsumenter **5,4 miljarder euro 2025**, mer än 25 procent över 2024,
+- hushållens nätkostnader steg **40 procent mellan 2019 och 2025** till 84 euro/MWh och motsvarar omkring 28 procent av den genomsnittliga elräkningen.
+
+ACER beskriver datacenter som en av flera drivkrafter bakom ökad efterfrågan, tillsammans med värmepumpar, elfordon och förnybar produktion. Rapporten ger därför inte stöd för att tillskriva hela kostnadsökningen AI-industrin. Den visar däremot att den politiska frågan om vem som ska betala för nätutbyggnad är lika relevant i Europa.
+
+ACER pekar också på att 60 procent av tillgängliga flaskhalsintäkter, omkring 12,5 miljarder euro, hålls avsatta i stället för att återinvesteras i gränsöverskridande nät eller användas för att sänka tariffer. Myndigheten rekommenderar bättre efterfrågeflexibilitet, marknadsbaserad hantering av flaskhalsar, mer integrerad planering, enklare och mer förutsägbara tillstånd samt en rättvisare fördelning av nätkostnader.
+
+**Källstatus:** **PRIMÄRKÄLLA – ACER**, publicerad 6 november 2026. Reuters rapporterade samma dag om huvudresultaten. Kostnadsökningen är bredare än datacenter och omfattar hela energiomställningen.
+
+Källor:
+- ACER, 6 november 2026: https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs
+- ACER 2026 Monitoring Report: https://www.acer.europa.eu/monitoring/energy-infrastructure-2026
+- Reuters, 6 november 2026: https://www.reuters.com/business/energy/eu-grid-investment-keep-rising-toward-2030-acer-says-2026-11-06/
