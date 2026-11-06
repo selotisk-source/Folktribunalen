@@ -23,6 +23,8 @@ Palantirs SEC-inlämnade 10-Q ger en mer detaljerad bild än kvartalsrubrikerna.
 
 Per den 30 september 2026 redovisade bolaget **4,9 miljarder dollar i återstående prestationsåtaganden** – kontrakterade intäkter som ännu inte redovisats. Palantir räknar med att redovisa cirka 44 procent av detta under de följande tolv månaderna, 37 procent under de därpå följande 13–36 månaderna och resterande belopp senare.
 
+SEC-rapporten definierar dessa återstående prestationsåtaganden som den icke uppsägningsbara delen av kontrakterade intäkter som ännu inte redovisats. Palantir uppger samtidigt att många kundavtal kan sägas upp i förtid med mindre än tolv månaders varsel. Avbrytbara intäkter räknas inte in i RPO. Det gör 4,9 miljarder dollar till ett mer avgränsat mått än hela värdet av framtida kundavtal, men det är fortfarande inte samma sak som garanterade kontantbetalningar.
+
 Bolaget påpekar samtidigt att många kundavtal kan sägas upp av kunden med mindre än tolv månaders varsel. Därför är återstående prestationsåtaganden inte samma sak som alla framtida förväntade intäkter eller en garanti för att varje kund stannar hela den ursprungliga avtalstiden.
 
 10-Q-rapporten redovisar också ett långfristigt molnköpsåtagande. Efter en ändring i mars 2026 har Palantir förbundit sig att köpa minst **5,6 miljarder dollar** i tredjepartsbaserade molntjänster över tio avtalsår, till och med den 29 februari 2036. Årliga minimiköp ligger enligt noten mellan 268 miljoner och 979 miljoner dollar.
