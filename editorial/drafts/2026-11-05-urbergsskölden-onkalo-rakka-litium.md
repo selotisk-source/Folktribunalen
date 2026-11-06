@@ -138,20 +138,20 @@ Tidsfristen är nu en konkret kontrollpunkt för myndigheter och berörda verksa
 **Besluts-/publiceringsdatum:** 9 oktober 2026.  
 **Källstatus:** **PRIMÄRKÄLLA** från EU-kommissionen; **OBEROENDE BEKRÄFTELSE** från Svenska Yle.
 
-EU-kommissionen lade den 9 oktober till **46 nya strategiska projekt inom unionen**, fördelade på 16 medlemsstater. Projekten berör 15 av EU:s 17 strategiska råvaror. Tillsammans med den första EU-omgångens 47 projekt och 13 projekt i länder utanför unionen omfattar den samlade listan 106 strategiska projekt.
+EU-kommissionen lade den 9 oktober till **46 nya strategiska projekt inom unionen**, fördelade på 16 medlemsstater. Kommissionens översikt redovisar 16 råvarukategorier i projekten. Tillsammans med den första EU-omgångens 47 projekt och 13 projekt i länder utanför unionen omfattar den samlade listan 106 strategiska projekt.
 
 Den nordiska fördelningen är särskilt relevant för Urbergsskölden:
 
 | Land | Projekt | Huvudsaklig råvara eller värdekedja |
 |---|---|---|
-| Finland | CoNiKo, Karleby | Kobolt och nickel |
+| Finland | CoNiKo, Karleby | Kobolt- och nickelraffinering |
 | Finland | Hautalampi, Outokumpu | Kobolt, nickel och koppar |
-| Finland | Project Arctial, Karleby–Kronoby | Aluminiumförädling |
-| Finland | Sokli, Savukoski | Fosfat och associerade råvaror |
-| Finland | Suhanko, Ranua | PGM och andra metaller |
+| Finland | Project Arctial, Karleby–Kronoby | Primär aluminiumproduktion |
+| Finland | Sokli, Savukoski | Sällsynta jordartsmetaller för magneter; fyndigheten innehåller även fosfat, niob och järn |
+| Finland | Suhanko, Ranua | Koppar, nickel och platinagruppmetaller |
 | Sverige | Viscaria, Kiruna | Koppar |
 
-Svenska Yle bekräftar de fem finländska projekten och redovisar dem som tre utvinningsprojekt och två förädlingsprojekt. Viscarias egen information bekräftar att gruvan i Kiruna ingår i kommissionens uppdaterade lista.
+Svenska Yle bekräftar de fem finländska projekten. Kommissionens beslut skiljer mellan utvinning och förädling: CoNiKo och Arctial är förädlingsprojekt, medan Hautalampi, Sokli och Suhanko är utvinningsprojekt. För Sokli är det den strategiska råvaran sällsynta jordartsmetaller för magneter som anges i beslutets bilaga; fosfat och niob finns i den bredare fyndigheten men ska inte förväxlas med det specifika CRMA-bidraget. Viscarias egen information bekräftar att gruvan i Kiruna ingår i kommissionens uppdaterade lista.
 
 ### Strategisk status är inte samma sak som finansiering eller gruvtillstånd
 
@@ -205,6 +205,8 @@ Samma distinktion ska användas för alla projekt i Finland och Sverige:
 
 **Primärkällor**
 - EU-kommissionen, uppdaterad lista över strategiska projekt enligt CRMA, 9 oktober 2026: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma_en
+- Kommissionens beslut (EU) 2026/2349, inklusive bilaga med projektklassificering och materialbidrag, publicerat i EUT 22 oktober 2026: https://eur-lex.europa.eu/eli/dec/2026/2349/oj/eng
+- Sokli Oy, strategisk status och material i fyndigheten, 9 oktober 2026: https://www.sokli.fi/en/topical/sokli-mining-project-selected-as-a-strategic-project-under-the-eu-critical-raw-materials-act
 - Gruvaktiebolaget Viscaria, Q3-rapport 5 november 2026: https://www.viscaria.com/en/interim-report-july-september-2026/
 - Viscaria, uppdatering om projektfinansiering 29 oktober 2026: https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/
 
