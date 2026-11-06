@@ -143,6 +143,8 @@ Policyn säger uttryckligen att LFR inte ska användas för underrättelseinhäm
 
 Samtidigt jämförs ansikten i realtid mot en förutbestämd bevakningslista. Det innebär att även personer som inte är föremål för någon åtgärd passerar genom ett biometriskt jämförelseflöde när de rör sig genom kamerazonen. Home Office säger att biometriska mallar för personer som inte ger en träff raderas omedelbart. Det är därför viktigt att skilja mellan en smal bevakningslista och den bredare grupp av förbipasserande vars ansikten tillfälligt behandlas.
 
+Begreppen "general immigration enforcement" och "general monitoring" är inte identiska. Home Office använder det första som en bred beskrivning av verksamhetens ändamål, men säger samtidigt att tekniken inte får användas för allmän, ändamålslös övervakning. En proaktiv insats vid en transportknutpunkt kan ändå innebära att alla förbipasserande i kamerazonen skannas mot en avgränsad lista. Den avgörande proportionalitetsfrågan blir därför hur listan sätts samman, hur länge den gäller, vilka civilrättsliga överträdelser som får utlösa en träff och varför just platsen och tidpunkten är nödvändiga.
+
 ### Vad de publicerade försöksresultaten visar
 
 Home Office publicerade den 15 oktober 2026 en uppdaterad tabell över insatser vid Holyhead. Tabellen innehåller åtta insatser i november 2025 och tio insatser den 24–26 februari 2026.
