@@ -137,3 +137,18 @@ Det här förändrar den nationella rättsliga ramen för vissa arter. Det inneb
 - **ÖPPET:** Fastighetsutdrag, fullständiga myndighetsbeslut, inventeringskartor, skogsbruksplan, jaktupplåtelser och JO:s diarieföring.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+## Uppdatering 7 november 2026 – jakträtten efter markförvärvet
+
+**Publiceringsdatum:** SVT Jämtland publicerade reportaget den 7 november kl. 05.30 och uppdaterade det kl. 09.02. **Händelseförlopp:** SCA skickade under våren 2026 brev till fem lokala jaktlag om att deras jakträtt skulle upphöra efter markförsäljningen.
+
+SVT intervjuar en jägare i Storsjö som uppger att han jagat i området i 45 år. Han säger att jaktlaget under hösten fick jaga på ungefär halva den tidigare arealen och att han nu förlorat all jakträtt på marken. SVT uppger att ett par av de fem jaktlagen fick höstens älgjakt helt inställd, medan andra fick jaga i mindre omfattning. Detta är en konkretisering av den tidigare rapporterade lokala konflikten.
+
+**OBEROENDE BEKRÄFTELSE:** SVT:s reportage och intervju med berörd jägare.  
+**PARTSUPPGIFT:** Cladonia Skog AB:s skriftliga svar till SVT. Bolaget säger att det vill behålla vissa jakträtter och ordna jakträtter för lokala jägare, men att de exakta formerna ska fastställas efter översyn och dialog. Bolaget uppger också att ingen avverkning planeras under vintern och att en ny skogsbruksplan tas fram med lokala skogsrådgivare. Det anger en ambition att successivt ersätta contortatall med inhemska trädslag. Bolaget säger vidare att allemansrätten, samebyarnas renbetesrätt, inskrivna servitut och befintliga avtal med skoterklubbar och fiskevårdsområdesförening fortsätter enligt sina villkor.
+
+**Vad som inte är fastställt:** SVT:s artikel innehåller inte de nya jaktupplåtelseavtalen, en fullständig lista över berörda jägare eller en färdig skogsbruksplan. Bolagets formuleringar är därför inte likvärdiga med undertecknade avtal eller myndighetsbeslut. Alex Karp ska inte tillskrivas bolagets operativa besked personligen; SVT anger att Cladonia svarar för ägarens räkning.
+
+**Källa:** SVT Jämtland, *Efter 45 år försvann rätten att jaga – när Alex Karp köpte skog i Härjedalen*, publicerad 7 november 2026 kl. 05.30, uppdaterad kl. 09.02: https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
+
+**Nästa kontroll:** begär de faktiska jaktupplåtelseavtalen, den nya skogsbruksplanen när den är färdig, relevanta naturvärdesinventeringar och eventuella nya beslut från Länsstyrelsen. JO-anmälans handläggningsstatus har inte uppdaterats i denna kontroll.
