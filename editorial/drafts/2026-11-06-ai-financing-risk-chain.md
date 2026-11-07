@@ -275,7 +275,7 @@ Detta ska jämföras med Oracle: Oracles ännu ej påbörjade leasingåtaganden,
 | Oracle | $288 md | 31 aug 2026 | Ytterligare leasar, till övervägande del datacenter; start Q2 FY2027–FY2029, löptider 15–19 år |
 | Amazon | $164,922 md | 30 sep 2026 | Posten ”leases not yet commenced” i tabellen över huvudsakliga avtalsåtaganden; tabellen omfattar flera olika åtagandekategorier |
 | Alphabet | $130,5 md | 30 sep 2026 | Leasar främst för datacenter och energiinfrastruktur; start 2026–2031, löptider 1–26 år |
-| CoreWeave | $35,5 md | 30 jun 2026 | Framtida odiskonterade leasingbetalningar för avtal som ännu inte startat, främst datacenter, utrustning och kontor; start 2026–2029, löptider 7–16 år |
+| DigitalOcean | $2,955 md | 30 sep 2026 | Uppskattade odiskonterade fasta betalningsåtaganden för ännu ej påbörjade leasar, främst colocation i datacenter; start nov 2026–jun 2028, viktad genomsnittlig löptid 11,1 år |
 
 ### Vad jämförelsen visar – och inte visar
 
@@ -294,6 +294,6 @@ Detta ska jämföras med Oracle: Oracles ännu ej påbörjade leasingåtaganden,
 - Oracle Form 10-Q, kvartal till 31 augusti 2026, Note 6 – Leases and Other Commitments: https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
 - Amazon Form 10-Q, kvartal till 30 september 2026, Note 4 – Commitments and Contingencies: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm
 - Alphabet Form 10-Q, kvartal till 30 september 2026, Note 4 – Leases: https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm
-- CoreWeave Form 10-Q, kvartal till 30 juni 2026, Leases Not Yet Commenced: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/R14.htm
+- DigitalOcean Form 10-Q, kvartal till 30 september 2026, leaseåtaganden som ännu inte börjat löpa: https://www.sec.gov/Archives/edgar/data/1582961/000162828026069141/R15.htm
 
 **Status:** Ny källbaserad sektion införd i granskningsutkastet 7 november 2026. Fortsatt draft; ingen merge eller webbpublicering.
