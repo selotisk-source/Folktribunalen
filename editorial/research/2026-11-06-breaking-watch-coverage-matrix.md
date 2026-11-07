@@ -301,3 +301,57 @@ Denna cykel har återkontrollerat samtliga 19 huvudspår. Nya substantiella uppg
 - Stortjärnhobben bygger på bolagets meddelande om domstolskallelse; separat domstolshandling saknas.
 - Samuils korrekta 1,55/1,73-metersskillnad finns redan i granskningsutkast PR #8.
 - Inget utkast har mergats eller publicerats. Denna matris och de uppdaterade artikeltexterna ligger i separata draft-PR för chefredaktörens granskning.
+
+
+## Ny kontrollcykel – 7 november 2026 kl. 16.37 Europe/Sofia
+
+### Substantiella nya deltan
+
+**A – Palantir/NHS:** Parlamentariskt vittnesmål 4 november visar att avtalsgenomgången fortfarande pågick då. The Times rapporterade 6 november om en tvåårig förlängningsplan, men formellt regeringsbeslut har inte identifierats. OSR:s regulatoriska genomgång klargör att NHS:s före/efter-mått inte bevisar orsakssamband; Health Foundation fann ingen mätbar förbättring i sin OPTICA-analys, med en annan patientkohort än NHS:s. EMSOU avslutade sin tvååriga Foundry-pilot utan nytt köp och begär bevis på att data raderats.
+
+**B – AI-datacenter:** Drax, Brookfield och Radiant offentliggjorde 3 november ett partnerskap med ambition om över 1 GW vid Drax Power Station i Selby. Den konkreta plan som nu är ute på samråd är endast upp till 100 MW, grid-powered, med måldrift Q1 2028. Projektet kräver plan-, nät- och myndighetsgodkännanden, en anchor tenant, kommersiella avtal och slutliga investeringsbeslut. £20 md är en uppskattning av potentiell total investering inklusive chip, inte beslutad finansiering. Samrådet stänger 3 december. Drax egen projektsida säger att inga senare faser är bekräftade i detta skede.
+
+**C – Synkronicitet:** Den teoretiska neurodynamiska modellen från oktober är fortsatt konceptuell; inget oberoende empiriskt genombrott eller reproduktion identifierat.
+
+**D – Sofia:** Ingen ny arkeologisk primärhandling i denna cykel. Samuils två publicerade längduppskattningar förblir metodologiskt olikartade och ska inte slås samman till en slutlig siffra.
+
+**E – Råvaror:** Ingen ny CRMA-lista sedan 46-projektbeslutet. Fortsatt skillnad mellan strategisk status, tillstånd, finansiering, byggstart och produktion.
+
+**F – AI-finansiering:** Oracles SEC 10-Q per 31 augusti visar $288 md i ytterligare, ännu ej påbörjade datacenterleasar, $34,15 md i separata ovillkorliga inköpsåtaganden, $34,62 md i redovisade operativa leasingförpliktelser och $9,19 md i finansiella leasingförpliktelser. Q1 FY27: $28,5 md capex, $19,9 md netto från ATM-aktieförsäljning och $11,4 md kundförskott med betydande finansieringskomponent; fritt kassaflöde enligt bolagets icke-GAAP-mått -$5,396 md. Reuters/Bloomberg rapporterar att Microsoft fasar ut viss hyrd Oracle-kapacitet; Microsoft har inte bekräftat och Oracle säger att efterfrågan är stark. Ingen koppling mellan Microsoft-uppgiften och de $288 md i leasar är belagd.
+
+**G – Libanon:** FN:s fredsbevarande chef varnade 4 november för säkerhetsvakuum när UNIFIL upphör med ordinarie verksamhet 31 december 2026. Resolution 2790 (2025) föreskriver därefter en ordnad neddragning och utrymning inom ett år. Ingen slutlig efterträdarlösning har identifierats. FN:s uppgifter gäller södra Libanon generellt; specifika följder för kristna samhällen kräver lokal dokumentation.
+
+**H – Kyrkor som överlevt imperierna:** Ingen ny restaurerings- eller ägarhandling för Wiesbaden, Warszawa, Prag, Sofia eller Varna. Pragkyrkans tidigare angivna Q3-2026-mål behöver följas upp; en aktuell officiell återöppningsbekräftelse har inte identifierats.
+
+**I – Fennoskandien:** Ingen ny substantiell skogs-, häst- eller markrättshandling. Frösöstenens RAÄ-dokumentation används fortsatt som primär historisk källa; folklig odjurstolkning hålls åtskild från runinskriftens dokumenterade innehåll.
+
+**J – Storsjöodjuret:** Ingen ny oberoende observation eller geologisk primärhandling.
+
+**K – Cladonia/Storsjö:** Ingen ny handling efter SVT:s 7 november-uppföljning om fem jaktlag och bolagets ännu ej avtalade framtida jaktupplägg.
+
+**L – Skaga:** Ingen ny inventarie-, restaurerings- eller ägarhandling.
+
+**M – Athos:** Ingen ny offentlig proveniens-, katalog- eller donationshandling.
+
+**N – Från skrift till Storebror:** SFS 2026:806 och 2026:815 har trätt i kraft 1 juli och reglerar polisens och Säpos realtidsbiometriska fjärridentifiering på allmän plats. Tillstånd krävs som huvudregel från åklagare eller domstol; vid fara i dröjsmål får användning inledas utan tillstånd men ansökan ska göras inom 24 timmar. Varje användning ska anmälas till IMY. Polisens insynsrådsprotokoll 17 mars säger att information hanteras i polisens egna miljöer, servrar i Sverige och inga molntjänster; leverantörer/system namnges inte. Ingen offentlig sammanställning över faktiska användningstillfällen identifierad i denna cykel. Bulgariens EUDI-konsultation stängde 5 november; lagförslaget är inte detsamma som en antagen lag.
+
+**O – Hormuz:** IMO:s incidenttabell anger 129 bekräftade incidenter per 6 november och listar VELOS SAPPHIRE med en dödlig utgång. IMO-rådets pressmeddelande samma dag anger minst 130 verifierade attacker och den 25:e sjömansförlusten. Tabellen daterar händelsen till 4 november, pressmeddelandet till 5 november; källorna förklarar inte skillnaden. UKMTO 197-26 kvarstår som separat incident.
+
+**P – USA:s kongress:** AP:s valbedömningar från 3–4 november har kallat kontrollen av båda kamrarna; officiell certifiering är inte fullständigt avslutad i denna kontroll. Ingen ny lagstiftnings- eller utskottsåtgärd efter valutfallen identifierad.
+
+**Q – Gripen:** Saabs uppgifter om in-house AI-agenter som flugit Gripen E 3 november och ordern till Naval Group 6 november är redan dokumenterade i tidigare cykel. Ingen separat FMV-bekräftelse av AI-testets operativa status identifierad.
+
+**R – Energi/större bolag:** Finlands regering beviljade 22 oktober Posiva driftlicens till 2070 för Onkalo, men STUK:s förhandsinspektion måste ske före drift. Lyten uppger att batteritillverkningen i Skellefteå har återstartat och rampas upp; detta är PARTSUPPGIFT från bolaget och inga oberoende volym- eller leveransdata har identifierats. EdgeConneX fas 1 beskrivs av Lyten som under utveckling, men fysisk byggstart och startbesked behöver kontrolleras separat.
+
+**S – Urbergsskölden:** Onkalo-licensen är en viktig milstolpe för civil underjordisk infrastruktur och långsiktig avfallshantering. Ingen ny offentlig RAKKA/SGU-uppdatering eller Cavecore-finansiering/tillståndshandling identifierad.
+
+### Nästa kontrollpunkter
+1. Formellt NHS-beslut, eventuell upphandlingsändring och fullständig exitplan.
+2. OSR/Imperial College-utvärdering av FDP och verifierbar data deletion från EMSOU.
+3. EuroHPC:s nya inlämningslänkar och Drax samråd/planansökan.
+4. Microsoft/Oracle primärbesked och vilka av Oracles långfristiga åtaganden som faktiskt aktiveras.
+5. STUK:s Onkalo-inspektion och första driftsättningsbesked.
+6. IMY:s första offentliga rapportering om användning av realtidsbiometrisk fjärridentifiering.
+7. UN:s alternativ efter UNIFIL och lokala vittnesmål från samhällen längs Blue Line.
+
+**Publiceringsstatus:** Endast granskningsmatris. Inget har mergats eller publicerats.
