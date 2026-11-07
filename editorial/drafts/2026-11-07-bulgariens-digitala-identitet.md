@@ -128,7 +128,7 @@ Den avgörande frågan är inte om en digital plånbok finns. Den är om makten 
 ## Källor
 
 **Primärkällor**
-- Ministeriet för innovation och digital transformation, konsultationssida, publicerad 6 oktober 2026: https://midt.gov.bg/bg/about/public-discussion/1569
+- Ministeriet för innovation och digital transformation, konsultationssida, publicerad 6 oktober 2026: https://www.strategy.bg/bg/public-consultations/12780
 - Förslag till lag om europeisk digital identitetsplånbok, 19 sidor, 6 oktober 2026: https://midt.gov.bg/upload/3925/2.%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D0%95%D0%9F%D0%A6%D0%A1.pdf
 - Ministerrådets beslutssammanfattning, 29 september 2026: https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-zasedanie-na-ministerskiya-savet-na-29-09-2026-g
 - Tidigare offentlig konsultation, 17 februari–9 april 2026, med fyra publicerade kommentarer: https://www.strategy.bg/bg/public-consultations/12172
@@ -167,7 +167,36 @@ Den avgörande frågan är inte om en digital plånbok finns. Den är om makten 
 **Källor:**
 - Ministeriets konsultationssida, 6 oktober–5 november: https://midt.gov.bg/bg/about/public-discussion/1569
 - Ministerrådets beslut/agenda, 29 september: https://government.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-zasedanie-na-ministerskiya-savet-na-29-09-2026-g
-- Konsultationspost och kommentarer: https://magistrat.bg/registries/consultations/consultation:12780
+- Konsultationspost och kommentarer: https://www.strategy.bg/bg/public-consultations/12780
 - Separat ändring av lagen om elektronisk identifiering: https://parliament.bg/bg/laws/ID/167522
 
 **Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
+
+
+## Källrättelse och fördjupning – 7 november 2026 kl. 16.45
+
+Den officiella portalen för offentliga konsultationer, som drivs av Bulgariens ministerråd, visar **sju kommentarer**, inte fyra. Den tidigare uppgiften om fyra kom från ett sekundärt register och har korrigerats. Portalen visar också att konsultationen var öppen 6 oktober–5 november 2026 och nu är markerad som inaktiv. Fälten för sammanställning av inkomna förslag och slutligt beslut från ministerrådet är ännu tomma.
+
+### En central partsinlaga från IT-branschen
+
+Den 5 november lämnade Dobroslav Dimitrov in ett yttrande på uppdrag av Bulgarian Employers' Association of Innovative Technologies (BRAIT). Det är en **PARTSUPPGIFT/INTRESSENTPOSITION**, inte ett fastslaget myndighetsfynd. BRAIT stöder behovet av en nationell rättslig ram men riktar omfattande kritik mot förslaget. Organisationen hävdar bland annat att:
+
+- utkastet inte fullt ut erkänner certifieringar av privata plånböcker från andra EU-länder och därmed kan försvåra eller blockera privata alternativ;
+- den statliga plånboken riskerar att få ett annat certifieringsspår än privata leverantörer;
+- samma ministerium kan få roller som beställare/finansiär av den statliga plånboken och som kontrollant av marknadens övriga aktörer;
+- det statliga bolaget Informatsionno Obsluzhvane AD får en roll i utvecklingen och kan få ett konkurrensmässigt försteg genom tillgång till infrastruktur, data och användare;
+- villkoren för kompensation av kostnadsfria kvalificerade signaturer och åtkomstbevis behöver förtydligas.
+
+Yttrandet innehåller konkreta lagtextförslag och en begäran om att synpunkterna behandlas punkt för punkt i den lagstadgade sammanställningen. Det är ännu inte känt vilka förslag ministeriet kommer att acceptera, avvisa eller omarbeta.
+
+En annan kommentar från Luka Belyov tar upp frivillighet, alternativa identifieringskanaler, dataminimering, oberoende tillsyn, incidentrapportering och en oberoende utvärdering efter 24 månader. En kommentar från Ivaylo Ivanov efterfrågar förtydligande om åtkomstbevis när en mellanhand används. Övriga kommentarer innehåller bland annat frågor om tillgänglighet och alternativa kontaktvägar.
+
+**Nytt redaktionellt huvudspår:** frågan är inte bara om Bulgarien ska utfärda en nationell plånbok, utan hur statlig och privat plånboksverksamhet ska certifieras, övervakas och ges likvärdig tillgång till data och offentliga tjänster. Påståendena om intressekonflikt ska prövas mot lagtexten, ministerrådets beslut från 29 september, bolagsregister och den slutliga tillsynsmodellen.
+
+**Primärkällor:**
+- Officiell konsultationspost 12780-K, med samtliga sju kommentarer och historik: https://www.strategy.bg/bg/public-consultations/12780
+- Utkast till lagtext: https://www.strategy.bg/download/1327785
+- Motiveringar: https://www.strategy.bg/download/1327787
+- Förhandsbedömning av konsekvenser: https://www.strategy.bg/download/1327789
+
+**Korrigering:** Tidigare version angav fyra kommentarer. Det var fel; den officiella portalen visar sju. Ingen slutlig sammanställning eller antagen lag har identifierats.
