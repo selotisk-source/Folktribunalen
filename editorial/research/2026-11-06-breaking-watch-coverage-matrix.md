@@ -355,3 +355,19 @@ Denna cykel har återkontrollerat samtliga 19 huvudspår. Nya substantiella uppg
 7. UN:s alternativ efter UNIFIL och lokala vittnesmål från samhällen längs Blue Line.
 
 **Publiceringsstatus:** Endast granskningsmatris. Inget har mergats eller publicerats.
+
+
+### Kompletterande kontrollpunkter – 7 november 2026 kl. 16.37
+
+- **B – EuroHPC:** Den officiella upphandlingsinformationen efter systemproblemet 5 november säger att tidigare utkast och inskickade anbud inte kommer att beaktas; anbud måste återskapas och skickas in på nytt via nya länkar. Lot 2 har deadline 3 december 2026 och Lot 1 den 4 februari 2027. Nya länkar behöver följas upp. Detta är en administrativ omstart, inte ett avslag på enskilda projekt.
+- **E – CRMA:** Kommissionens andra lista omfattar 46 strategiska projekt; tillsammans med den första listan blir det 106 projekt. Statusen är strategisk prioritering, inte i sig tillstånd, finansiering eller kommersiell produktion. Viscaria, Sokli, Hautalampi, CoNiKo och Pirdop ligger kvar som viktiga nordiska/bulgariska kontrollpunkter.
+- **R – Lyten/Skellefteå:** Lyten:s egen driftssida säger att batteritillverkningen vid Lyten Ett har återstartat och att uppskalning pågår. Den säger även att EdgeConneX har valts för datacenterutvecklingen och att arbete på fas 1 har inletts. Detta är PARTSUPPGIFT; sidan redovisar inga oberoende volymtal, leveransdata eller kundbekräftelser. Formuleringen om fas 1 gäller utvecklingsarbete och ska inte likställas med bekräftad fysisk byggstart eller kommunalt startbesked.
+- **H – Prag:** Den offentliga projektsidan har fortsatt uppgett stängning och ett tidigare mål om Q3 2026. Eftersom tidsfönstret passerat behövs en ny officiell bekräftelse om återöppning eller reviderad tidsplan; någon sådan har inte identifierats i denna kontroll.
+- **I/J – Frösöstenen:** Riksantikvarieämbetets dokumentation används som primär historisk bas. Runinskriftens innehåll ska hållas åtskilt från senare folkliga tolkningar av rundjuret som Storsjöodjuret.
+
+**Källor:**
+- EuroHPC upphandlingsinformation: https://eurohpc-ju.europa.eu/ai-gigafactories-procurement-2026-11-05_en
+- EU-kommissionens strategiska råvaruprojekt: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma_en
+- Lyten Sweden operations: https://lyten.com/operations/lyten-sweden/
+- Riksantikvarieämbetet, Frösöstenen: https://www.raa.se/hitta-information/fornsok/fornlamningar/froso-stenen/
+
