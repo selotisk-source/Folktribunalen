@@ -224,3 +224,41 @@ De **$288 md i ytterligare leasingåtaganden** avser huvudsakligen datacenterarr
 
 **PRIMÄRKÄLLA – SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
 
+
+
+## Nytt neocloud-fall: IREN:s åtaganden, Microsoft-försening och finansieringsgap – 5 november 2026
+
+**PRIMÄRKÄLLA – SEC:** IREN lämnade Form 10-Q för kvartalet till 30 september 2026 den 5 november. Bolagets Q1 FY27-resultat anger $228 miljoner i kvartalsintäkter, varav cirka $200 miljoner från AI Cloud Services. Bolaget anger ett mål om mer än $4 miljarder i annualiserad run-rate revenue (ARR) från 300 MW IT-kapacitet, nu riktat mot 31 januari 2027 och med möjlighet att glida till slutet av februari.
+
+**VIKTIG REDOVISNINGSSKILLNAD:** IREN:s ARR är ett operativt mått baserat på GPU-prissättning per timme för driftsatta GPU:er multiplicerat med 8 760 timmar. Det är inte GAAP-intäkt och kan ligga betydligt över redovisad intäkt, särskilt före full driftsättning, testning och kundacceptans. IREN uppger omkring $1 miljard i operativ ARR vid utgången av september och ett mål över $4 miljarder när mer kapacitet har godkänts.
+
+**KAPITALÅTAGANDEN:** Reuters rapporterade 5 november, med stöd i IREN:s kvartalsrapport, att kapitalåtagandena uppgick till cirka **$18,95 miljarder** den 30 september och att GPU-hårdvara på balansräkningen hade stigit till cirka $5,82 miljarder. IREN anger cirka **$15 miljarder i återstående planerade FY27-investeringar**. Bolagets finansieringsplan delar upp detta i ungefär $9 miljarder från kassa, redan avtalad GPU-finansiering och kundförskott samt ett mål om ytterligare $6 miljarder från GPU-finansiering, kundförskott, datacenterfinansiering och andra källor. Den senare delen är uttryckligen beroende av marknadsförhållanden och är inte samma sak som redan tillgänglig kredit.
+
+**MICROSOFT-LEVERANSEN:** Det femåriga Microsoftavtalet är värt cirka $9,7 miljarder genom 2031 och omfattar fyra Horizon-trancher med sammanlagt omkring 200 MW IT-last i Childress, Texas. 20 procent av värdet betalas i förskott per tranche. IREN uppger att Horizon 1 levererades och accepterades i augusti 2026; Horizon 2–4 var planerade i etapper under Q4 2026, med avtalsenliga tidsfönster som sträcker sig in i början av Q2 2027.
+
+På resultatkonferensen 5 november sade IREN:s medgrundare att en nätverksdesignändring som Microsoft begärt, tillsammans med leverantörstider, flyttat målet för mer än $4 miljarder i operativ ARR från årsskiftet till januari, möjligen slutet av februari. Reuters och Datacenter Dynamics återgav uppgiften. Microsoft har inte offentliggjort ett eget uttalande om den specifika ändringen.
+
+**AVTALSRISK:** Det offentliga Microsoft-SOW:t visar att leveransdatum kan förlängas vid Microsoft-orsakade ändringar och vissa leverantörsförseningar, och att sådana undantagna förseningar inte utlöser delay credits för den aktuella perioden. Exakta datum, trösklar, GPU-kvantiteter och kreditbelopp är till stor del maskerade i den offentliga handlingen. Det går därför inte att räkna fram IREN:s fulla ekonomiska exponering från den offentliga versionen.
+
+### Varför detta spelar roll
+
+IREN är ett tydligt exempel på AI-infrastrukturens kapitalcykel: bolaget beställer GPU:er och bygger datacenter innan hela kapaciteten är driftsatt och accepterad. Ett stort åtagande är inte automatiskt en skuld, men finansieringsplanen visar att en betydande del av framtida investeringar fortfarande är ett mål snarare än bindande kredit. Samtidigt är ARR-målet beroende av att utrustning levereras, nätverk färdigställs och kunden godkänner varje tranche.
+
+Detta ska jämföras med Oracle: Oracles ännu ej påbörjade leasingåtaganden, IREN:s kapitalåtaganden och NVIDIAs leverantörs-/kundfinansiering är olika redovisningsposter och får inte summeras till en gemensam skuldsiffra. Gemensamt är att AI-industrin binder kapital långt innan alla intäkter har realiserats.
+
+### Källstatus
+- **PRIMÄRKÄLLA:** IREN Form 10-Q, inlämnad 5 november 2026, kvartal till 30 september.
+- **PRIMÄRKÄLLA:** IREN Q1 FY27-resultat och presentation, 5 november 2026.
+- **PRIMÄRKÄLLA:** Offentligt Microsoft Statement of Work, med väsentliga kommersiella uppgifter maskerade.
+- **OBEROENDE BEKRÄFTELSE:** Reuters, 5 november, om kapitalåtaganden, capex och leveransförskjutning.
+- **OBEROENDE BEKRÄFTELSE:** Datacenter Dynamics, 6 november, återger ledningens uttalande om designändring och tidsplan.
+- **OBEKRÄFTAT:** Den exakta ekonomiska effekten av Microsofts designändring, fullständiga delay-credit-belopp och om hela $6 md i planerad finansiering kan säkras.
+
+### Källor
+- SEC Form 10-Q filing index, inlämnad 5 november 2026: https://www.sec.gov/Archives/edgar/data/1878848/000187884826000066/0001878848-26-000066-index.htm
+- IREN Q1 FY27-resultat, 5 november 2026: https://www.sec.gov/Archives/edgar/data/1878848/000187884826000066/irenreportsq1-fy27result.htm
+- IREN investor reports: https://www.iren.com/investors/reports
+- Microsoft SOW, SEC Exhibit 10.1: https://www.sec.gov/Archives/edgar/data/1878848/000187884826000066/exhibit101-mfsa.htm
+- Reuters, 5 november 2026: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
+- Datacenter Dynamics, 6 november 2026: https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/
+
