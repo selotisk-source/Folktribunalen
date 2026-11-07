@@ -183,3 +183,23 @@ Detta stärker slutsatsen att anbudstiden är passerad och att portalens öppna 
 - **OBEROENDE OFFENTLIG BEKRÄFTELSE:** Polens Centrum Projektów Polska Cyfrowa – samma 2026-referens, markerad avslutad, sista anbudsdag 16 oktober: https://www.gov.pl/web/cppc/zamowienia
 
 **Öppet:** TED:s tilldelningsmeddelande, vald leverantör, slutligt kontraktsvärde och kontraktssignering. Fram till dess ska artikeln inte hävda att leverantör valts eller att kontrakt saknas; endast att tilldelningsdokumentet inte har identifierats i de kontrollerade källorna.
+
+
+## Separat EU-gigafabrikstender: obligatorisk omstart av anbud – 5 november 2026
+
+En ny EuroHPC-notis den **5 november 2026** gäller den separata upphandlingen för konsortier som ska etablera EU:s AI Gigafactories, referens **EUROHPC-2026-CEI-AIGF-01**. Den gäller inte Discoverer++-upphandlingen och får inte användas som förklaring till statuskonflikten för BRAIN++.
+
+EuroHPC meddelar att samtliga utkast och redan inskickade anbud i systemet för båda lotterna inte kommer att beaktas av tekniska skäl. Sökande måste ladda ned sina underlag och återskapa samt skicka in dem via nya länkar när dessa publiceras. EuroHPC uppmanar sökande att avvakta och inte fortsätta arbeta i de gamla utkasten.
+
+Tidsfristerna är nu:
+- **Lot 1, medium-scale:** 4 februari 2027 kl. 17.00 CET (förlängd för att medlemsstaterna ska hinna med nationella budgetprocedurer och finansiella åtaganden).
+- **Lot 2, large-scale:** 3 december 2026 kl. 17.00 CET (oförändrad).
+
+EuroHPC säger att endast inlämningslänkarna ändras; de publicerade upphandlingsdokumentens innehåll påverkas inte. Den tekniska orsaken specificeras inte närmare. HPCwire rapporterade den 6 november att problemet gäller inlämningssystemet för båda lotterna.
+
+**Redaktionell avgränsning:** BRAIN++/Discoverer++ är en separat AI-fabriks- och superdatorupphandling med egen referens och egen statuskonflikt. EU:s större AI Gigafactory-tender är en annan upphandling. De två får inte blandas ihop, och EuroHPC:s anbudsomstart säger inget om vem som vunnit Discoverer++.
+
+**Källstatus:**
+- **PRIMÄRKÄLLA:** EuroHPC JU, uppdatering 5 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **OBEROENDE BEKRÄFTELSE:** HPCwire, 6 november 2026: https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/
+
