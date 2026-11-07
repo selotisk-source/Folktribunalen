@@ -1,18 +1,18 @@
-# Storsjöaffären: 15 000 hektar – men inget belagt extraköp
+# Storsjöaffären: cirka 15 000 hektar – två tillståndsspår inom samma SCA-försäljning
 
 **Artikeltyp:** Granskning · markägande · skog · lokala rättigheter  
-**Faktaläge:** 6 november 2026, kl. 11.45 Europe/Sofia  
+**Faktaläge:** 7 november 2026, kl. 21.46 Europe/Sofia  
 **Berörda spår:** Cladonia/Storsjö · Fennoskandien · skog och hästkultur · Palantir och offentlig makt
 
-*En ny SVT-genomgång av marken kring Storsjö Kapell klargör en viktig detalj: ön och de flera fastighetsdelarna ingick i samma förvärv från SCA. Den tidigare uppgiften om ett separat tilläggsköp på cirka 300 hektar kan därför inte längre användas som fastslagen fakta. Den stora affären omfattar omkring 15 000 hektar och kostade enligt den rapportering som hittills finns cirka 240 miljoner kronor.*
+*Källorna beskriver inte ett senare, fristående tilläggsköp. Fastighetsvärlden rapporterade den 19 oktober att två fastigheter – Berg Storsjö 18:3 och 18:5 – omfattande cirka 300 hektar, köptes genom ett separat förvärvstillstånd, men vid samma tillfälle, av samma säljare SCA och genom samma köpare Cladonia. SVT:s fältreportage den 6 november beskriver samtidigt flera fastighetsdelar, ön och fäbodvallen som delar av den samlade SCA-försäljningen om cirka 15 000 hektar och omkring 240 miljoner kronor. Uppgifterna kan avse två parallella tillstånds-/överlåtelsespår inom en samlad avyttring. Utan de två besluten och fullständiga fastighetsutdrag går det inte att fastställa om 15 000 hektar är en avrundad totalsiffra som redan omfattar 300-hektarsdelen eller om den ska räknas utöver den. Därför ska ingen exakt totalsiffra på 15 300 hektar anges.*
 
-## Den viktiga rättelsen: ett förvärv, inte två
+## En samlad SCA-försäljning – men två rapporterade förvärvstillstånd
 
-Den 6 november publicerade SVT Jämtland ett fältreportage från markområdet söder om Storsjö Kapell. Där klargör redaktionen att flera fastigheter, däribland en ö och en fäbodvall, ingick i ett och samma förvärv från SCA. Den totala affären anges till cirka 15 000 hektar och omkring 240 miljoner kronor.
+Den 6 november publicerade SVT Jämtland ett fältreportage från markområdet söder om Storsjö Kapell. SVT beskriver ön och flera fastighetsdelar som delar av den samlade försäljningen från SCA och anger den totala affären till cirka 15 000 hektar och omkring 240 miljoner kronor.
 
-Detta korrigerar den tidigare uppgiften om att Alex Karp genom Cladonia Skog AB skulle ha gjort ett separat tilläggsköp på omkring 300 hektar för cirka fem miljoner kronor. Den uppgiften publicerades den 19 oktober av Fastighetsvärlden med hänvisning till Östersunds-Posten. SVT:s senare genomgång motsäger tolkningen att ön och de berörda fastighetsdelarna skulle utgöra en ny, separat affär.
+Fastighetsvärlden rapporterade den 19 oktober, med hänvisning till Östersunds-Posten, att Cladonia vid samma tillfälle och från samma säljare även förvärvade Berg Storsjö 18:3 och 18:5, tillsammans cirka 300 hektar, för fem miljoner kronor. Fastighetsvärlden uppger uttryckligen att dessa två fastigheter låg i ett annat förvärvstillstånd. Det är alltså fel att beskriva uppgiften som ett senare köp; samtidigt vore det fel att radera den separata tillståndsuppgiften. Den kan vara ett parallellt juridiskt spår inom samma övergripande SCA-avyttring.
 
-**Redaktionell följd:** totalen ska tills vidare anges som cirka 15 000 hektar. Siffran 15 300 hektar ska strykas. De tidigare uppgifterna om Berg Storsjö 18:3 och 18:5 samt ett separat pris på fem miljoner kronor får inte återges som bekräftade tilläggsförvärv utan nya köpehandlingar eller fastighetsregisterutdrag.
+**Redaktionell följd:** ange tills vidare cirka 15 000 hektar och cirka 240 miljoner kronor som rapporterad storleksordning för den samlade affären. Redovisa 300-hektarsdelen och femmiljonersbeloppet separat som uppgifter från Fastighetsvärlden/Östersunds-Posten. Lägg inte ihop till 15 300 hektar innan Lantmäteriets utdrag och båda förvärvstillstånden visar om arealerna överlappar eller om 15 000 hektar redan är en avrundad total.
 
 ## Vad myndigheterna faktiskt beslutade
 
@@ -80,9 +80,9 @@ Den geografiska kontrollen måste därför göras i flera led: lagfarna fastighe
 
 ## Slutsats
 
-Storsjöaffären är ett stort markförvärv med tydliga konsekvenser för lokalt skogsbruk, naturvärden, jakt och markanvändning. Den viktigaste rättelsen i den här uppdateringen är att den tidigare rapporterade tilläggsaffären på cirka 300 hektar inte kan behandlas som ett separat förvärv. SVT:s fältreportage den 6 november klargör att ön och de flera fastighetsdelarna ingick i samma affär från SCA.
+Storsjöaffären är ett stort markförvärv med konsekvenser för lokalt skogsbruk, naturvärden, jakt och markanvändning. Den nya källgenomgången visar att den stora SCA-avyttringen behöver beskrivas som en samlad affär med minst två rapporterade tillståndsspår: huvudförvärvet om cirka 15 000 hektar och en separat tillståndsuppgift för Berg Storsjö 18:3 och 18:5 om cirka 300 hektar. Det går ännu inte att fastställa om arealerna ska summeras eller om den större totalsiffran redan är avrundad.
 
-Den nya samiska sanningskommissionens rapport ger dessutom en viktig historisk ram för Storsjöområdet och Jämtlands markrättigheter. Den ramen måste användas noggrant: den öppnar relevanta frågor om historiskt bruk och dagens markanvändning, men bevisar inte i sig någon särskild rätt på Cladonias fastigheter.
+Den samiska sanningskommissionens rapport ger en viktig historisk ram för Storsjöområdet och Jämtlands markrättigheter. Den öppnar frågor om historiskt bruk och dagens markanvändning, men bevisar inte i sig någon särskild rätt på Cladonias fastigheter.
 
 ---
 
@@ -129,10 +129,11 @@ Det här förändrar den nationella rättsliga ramen för vissa arter. Det inneb
 ## Faktastatus
 
 - **PRIMÄRKÄLLA:** SOU 2026:58 dokumenterar historiska förhållanden i Jämtland och Storsjöområdet.
-- **OBEROENDE BEKRÄFTELSE:** SVT:s fältreportage den 6 november korrigerar tolkningen av ett separat tilläggsköp.
+- **OBEROENDE BEKRÄFTELSE:** SVT:s fältreportage den 6 november beskriver fastighetsdelarna och ön som delar av en samlad SCA-försäljning.
+- **PARTSUPPGIFT / OBEROENDE MEDIERAPPORTERING:** Fastighetsvärlden den 19 oktober, med hänvisning till Östersunds-Posten, redovisar Berg Storsjö 18:3 och 18:5 som cirka 300 hektar i ett separat förvärvstillstånd och fem miljoner kronor.
 - **PARTSUPPGIFT:** Cladonias löften om skogsbruk, jakt, renskötsel, lokala avtal och ingen avverkning under vintern.
 - **OBEROENDE BEKRÄFTELSE återgiven av SVT:** Länsstyrelsens inventeringar uppges visa höga naturvärden och gammal skog; originalrapporterna ska hämtas.
-- **OBEKRÄFTAD:** Ett separat förvärv om 300 hektar och fem miljoner kronor.
+- **OBEKRÄFTAD:** Om 15 000 hektar inkluderar eller exkluderar de cirka 300 hektaren. Fullständiga beslut och fastighetsutdrag saknas.
 - **INTE BELAGT:** Datacenter, bunker eller annan underjordisk anläggning på Cladonias mark.
 - **ÖPPET:** Fastighetsutdrag, fullständiga myndighetsbeslut, inventeringskartor, skogsbruksplan, jaktupplåtelser och JO:s diarieföring.
 
