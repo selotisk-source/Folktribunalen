@@ -214,3 +214,13 @@ https://www.reuters.com/world/asia-pacific/softbank-debt-insurance-costs-hit-hig
 **HYPOTES:** högre finansieringskostnad hos SoftBank kan påverka kapitalanskaffning och riskaptit för framtida AI-infrastrukturprojekt. Det är en riskkanal, inte en konstaterad försening eller betalningsinställelse.
 
 **ÖPPET:** faktisk refinansieringskalender, kassaflöde, säkerheter, eventuella garantier mellan SoftBank och SB Energy samt om projektfinansiering redan har stängts.
+
+
+## SEC-källfördjupning – Oracle 10-Q, kvartalet till 31 augusti 2026
+
+Den direkta SEC-versionen av Form 10-Q bekräftar att Oracles **$664 md i remaining performance obligations (RPO)** fördelas enligt bolagets uppskattning: cirka 13% som intäkt under de kommande 12 månaderna, 37% under månaderna 13–36, 34% under månaderna 37–60 och resterande därefter. Detta är framtida prestationsåtaganden i kundkontrakt, inte kontanter som redan mottagits och inte en skuld.
+
+De **$288 md i ytterligare leasingåtaganden** avser huvudsakligen datacenterarrangemang som väntas börja mellan Q2 FY27 och FY29, med löptider på 15–19 år. De var inte upptagna i balansräkningen eller i den ordinarie leasingförfallotabellen per 31 augusti 2026. De ska därför inte adderas rakt av till redovisade leasingförpliktelser som om allt vore en aktuell skuld.
+
+**PRIMÄRKÄLLA – SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
+
