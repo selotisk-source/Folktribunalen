@@ -73,3 +73,23 @@ Drax egen projektsida anger nu uttryckligen ansvarsfördelningen: Drax tillhanda
 Drax anger vidare att den konkreta 100 MW-planen är avsedd att drivas från elnätet med befintlig infrastruktur vid kraftverket och att bolaget därför inte väntar sig påverkan på kraftverkets drift. Detta är **PARTSUPPGIFT** och ska prövas mot nätavtal, kapacitetsbesked och den kommande planansökan. Vattenlösningen undersöks fortfarande och är beroende av tillstånd.
 
 **Primärkälla:** Drax projektsida/FAQ, uppdaterad inför samrådet: https://www.drax.com/what-we-do/data-centre-at-drax-power-station/
+
+
+## Kapitalspåret: Brookfield–Qai och Qatars statliga investeringsfond
+
+Drax RNS den 3 november säger att investeringskapital och operativ kapacitet till Drax-projektet ska komma genom Brookfield–Qai:s AI-infrastruktur-joint venture, som offentliggjordes den 9 december 2025. Brookfields pressmeddelande beskrev då ett **mål om en joint venture på 20 miljarder dollar** för AI-infrastruktur i Qatar och utvalda internationella marknader. Brookfield uppgav att Qai är Qatars AI-bolag och ett dotterbolag till Qatar Investment Authority (QIA), landets statliga investeringsfond.
+
+Detta skapar en dokumenterad internationell kapitalförbindelse mellan Qatar, Brookfield och det planerade datacentret i North Yorkshire. Men tre belopp får inte blandas ihop:
+
+1. **$20 md** var målet för Brookfield–Qai-joint venture 2025.
+2. **Över £20 md** är Brookfields uppskattning av den potentiella totala investeringen i Drax-campus över flera faser, inklusive halvledarchip.
+3. **£2,5 md** är den uppskattade initiala investeringen som del av Drax-projektets första fas.
+
+Inget av dessa belopp visar i sig hur mycket kapital som redan har betalats in, hur stor del av joint venture-kapitalet som har allokerats till Drax eller vilka garantier och finansieringsvillkor som gäller för den brittiska anläggningen. Någon projektspecifik kapitalallokering från QIA eller Brookfield–Qai har inte identifierats.
+
+**Källstatus:** PRIMÄRKÄLLA för Brookfield–Qai:s offentliggjorda mål och Qai:s ägarrelation till QIA; PARTSUPPGIFT för Drax-projektets potentiella investering; OBEKRÄFTAD projektspecifik kapitalallokering.
+
+**Källor:**
+- Brookfield, 9 december 2025: https://bam.brookfield.com/press-releases/brookfield-and-qai-form-20-billion-strategic-investment-partnership-ai
+- Brookfield–Qai pressmeddelande (PDF): https://bam.brookfield.com/generation/pdf/document-file.pdf?path=%2Fpress-releases%2Fbrookfield-and-qai-form-20-billion-strategic-investment-partnership-ai
+- Drax RNS, 3 november 2026: https://www.drax.com/news/strategic-partnership-for-gw-scale-data-centre/
