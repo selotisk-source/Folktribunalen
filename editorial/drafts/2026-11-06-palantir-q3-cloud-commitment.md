@@ -201,3 +201,23 @@ Kontraktets fortsättning är inte samma fråga som bevisad nytta, och en lyckad
 - Financial Times om EMSOU-piloten: https://www.ft.com/content/a1e0707a-326a-4c7c-a608-d73abab32d82
 
 **Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
+
+
+## Primärkontroll av NHS:s egna nyttosiffror – 7 november 2026 kl. 17.02
+
+NHS Englands officiella FDP-dashboard, uppdaterad 12 juni 2026, anger:
+- 139 Trusts var live på plattformen vid utgången av maj.
+- 137 Trusts rapporterade någon form av fördel.
+- 170 Trusts hade undertecknat en avsiktsförklaring (MoU).
+- Inpatient Care Coordination Solution redovisade 111 589 kumulativa ytterligare patienter som genomgått procedurer jämfört med tidigare period utan FDP, fram till slutet av mars 2026.
+- OPTICA användes av 25 Trusts; NHS redovisade en 13,58-procentig minskning av genomsnittliga fördröjningsdagar för patienter som varit inlagda mer än sju dagar.
+
+NHS-sidan säger uttryckligen att dessa OPTICA-resultat är observerade före/efter-jämförelser och att NHS inte kan dra slutsatser om orsak och verkan eftersom andra variabler inte har kontrollerats. Detta är en central metodbegränsning och ska finnas med i varje återgivning av procentsiffran.
+
+**Jämförelse med bolagets påstående:** Palantir har i offentlig kommunikation använt siffran omkring 117 000 ytterligare operationer. NHS:s egen dashboard anger 111 589 ytterligare patienter som genomgått procedurer till och med mars 2026. Det är olika formuleringar och kan avse olika uppdateringsdatum eller mått; de ska inte presenteras som identiska utan metod- och periodkontroll.
+
+The Guardian rapporterade den 2 november att 29 Trusts som NHS England räknat som mottagare av FDP-fördelar i FOI-svar uppgett att plattformen inte användes eller användes i liten omfattning. Det är en oberoende journalistisk sammanställning av FOI-svar, inte en ny officiell NHS-siffra. Den står i kontrast till NHS:s aggregerade rapportering och gör det nödvändigt att skilja mellan att vara live, ha en tenant, använda en viss app och faktiskt realisera en mätbar fördel.
+
+**Primärkälla:** NHS England dashboard, uppdaterad 12 juni 2026: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/impact/fdp-uptake-and-benefits/
+**Oberoende rapportering:** The Guardian, 2 november 2026: https://www.theguardian.com/technology/2026/nov/02/palantir-ai-tech-unused-or-little-used-by-29-nhs-trusts-said-to-be-benefiting-from-it
+
