@@ -262,3 +262,38 @@ Detta ska jämföras med Oracle: Oracles ännu ej påbörjade leasingåtaganden,
 - Reuters, 5 november 2026: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
 - Datacenter Dynamics, 6 november 2026: https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/
 
+
+
+## Ny jämförelse: ännu ej påbörjade datacenterleasar hos hyperscalers
+
+**Kontrolldatum: 7 november 2026.** Nya och nyligen inlämnade SEC-rapporter gör det möjligt att jämföra flera stora aktörers leasingåtaganden som ännu inte börjat löpa. Det är en viktig komplettering till Oracle-avsnittet, men siffrorna har olika rapportdatum och delvis olika definitioner. De ska därför inte summeras till en gemensam skuld eller behandlas som helt jämförbara.
+
+| Bolag | Rapporterat belopp | Balansdag | Vad bolaget beskriver |
+|---|---:|---|---|
+| Microsoft | $364,6 md | 30 sep 2026 | Ytterligare leasar, huvudsakligen datacenter; vissa arrangemang villkorade; start FY2027–FY2034, löptider 1–20 år |
+| Meta Platforms | $355,73 md | 30 sep 2026 | Leasar för datacenter, energiinfrastruktur, colocation och viss nätinfrastruktur; start från återstoden av 2026 till 2036, löptider över 1–30 år |
+| Oracle | $288 md | 31 aug 2026 | Ytterligare leasar, till övervägande del datacenter; start Q2 FY2027–FY2029, löptider 15–19 år |
+| Amazon | $164,922 md | 30 sep 2026 | Posten ”leases not yet commenced” i tabellen över huvudsakliga avtalsåtaganden; tabellen omfattar flera olika åtagandekategorier |
+| Alphabet | $130,5 md | 30 sep 2026 | Leasar främst för datacenter och energiinfrastruktur; start 2026–2031, löptider 1–26 år |
+| CoreWeave | $35,5 md | 30 jun 2026 | Framtida odiskonterade leasingbetalningar för avtal som ännu inte startat, främst datacenter, utrustning och kontor; start 2026–2029, löptider 7–16 år |
+
+### Vad jämförelsen visar – och inte visar
+
+- Microsofts och Metas belopp är nästan lika stora, men deras noter omfattar olika slags infrastruktur och olika avtalsvillkor.
+- Oracles $288 md är en separat uppgift med en tidigare balansdag än Microsofts och Metas septemberrapporter.
+- Amazon redovisar posten i en bredare tabell över avtalsåtaganden; den ska inte utan vidare jämställas med en särskild datacenterlease-not.
+- Alphabet och CoreWeave redovisar andra startintervall och löptider. CoreWeaves rapportdatum är tre månader äldre än septemberuppgifterna.
+- Vissa avtal är beroende av villkor som ännu inte uppfyllts. En lease som ännu inte har börjat löpa är inte automatiskt en redovisad lease liability, och ett framtida leasingåtagande är inte samma sak som ett utbetalt lån.
+
+**Redaktionell slutsats:** AI-infrastrukturens långsiktiga kapacitetsbokning syns nu i flera stora bolags SEC-noter, men riskanalysen måste göras per avtal: vem är hyresgäst, vem äger byggnaden, vem står för el och anslutning, vilka villkor måste uppfyllas före start, vem garanterar betalningen och vad händer om kapaciteten inte tas i bruk? En totalsumma över bolagen skulle dölja skillnader i redovisning, tidpunkt och juridisk risk.
+
+### Primärkällor
+
+- Microsoft Form 10-Q, kvartal till 30 september 2026, Note 12 – Leases: https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm
+- Meta Platforms Form 10-Q, kvartal till 30 september 2026, Commitments and Contingencies: https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930_htm.xml
+- Oracle Form 10-Q, kvartal till 31 augusti 2026, Note 6 – Leases and Other Commitments: https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
+- Amazon Form 10-Q, kvartal till 30 september 2026, Note 4 – Commitments and Contingencies: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm
+- Alphabet Form 10-Q, kvartal till 30 september 2026, Note 4 – Leases: https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm
+- CoreWeave Form 10-Q, kvartal till 30 juni 2026, Leases Not Yet Commenced: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/R14.htm
+
+**Status:** Ny källbaserad sektion införd i granskningsutkastet 7 november 2026. Fortsatt draft; ingen merge eller webbpublicering.
