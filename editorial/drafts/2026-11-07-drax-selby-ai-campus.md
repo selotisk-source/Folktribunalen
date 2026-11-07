@@ -61,7 +61,7 @@ Drax Group; Brookfield; Radiant; North Yorkshire Council; berörda nät- och ene
 
 ### Källor
 - Drax, projekt- och samrådssida: https://www.drax.com/what-we-do/data-centre-at-drax-power-station/
-- Drax/RNS, strategiskt partnerskap, 3 november 2026: https://www.tradingview.com/news/reuters.com,2026:newsml_RNS5051B:0-drax-group-plc-strategic-partnership-for-gw-scale-data-centre/
+- Drax/RNS, strategiskt partnerskap, 3 november 2026: https://www.tradingview.com/news/reuters.com,2026-11-03:newsml_RSC5051Ba:0-reg-drax-group-plc-strategic-partnership-for-gw-scale-data-centre/
 - Datacenter Dynamics, oberoende branschrapportering: https://www.datacenterdynamics.com/en/news/drax-partners-with-brookfield-and-radiant-for-up-to-1gw-data-center-at-north-yorkshire-power-station/
 
 **Publiceringsstatus:** Endast granskningsutkast. Kräver chefredaktörens uttryckliga godkännande.
