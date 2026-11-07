@@ -369,5 +369,11 @@ Denna cykel har återkontrollerat samtliga 19 huvudspår. Nya substantiella uppg
 - EuroHPC upphandlingsinformation: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en?prefLang=bg
 - EU-kommissionens strategiska råvaruprojekt: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma_en
 - Lyten Sweden operations: https://lyten.com/operations/lyten-sweden/
-- Riksantikvarieämbetet, Frösöstenen: https://www.raa.se/hitta-information/fornsok/fornlamningar/froso-stenen/
+- Riksantikvarieämbetet, Frösöstenen: https://www.raa.se/kulturarv/runor-och-runstenar/runstenar-i-sverige/jamtland-och-harjedalen/froson-ostersunds-kommun/
 
+
+
+**Korrigerade primärlänkar för Drax och Frösöstenen:**
+- Drax/RNS 3 november 2026: https://www.tradingview.com/news/reuters.com,2026-11-03:newsml_RSC5051Ba:0-reg-drax-group-plc-strategic-partnership-for-gw-scale-data-centre/
+- Drax officiella samrådssida: https://www.drax.com/what-we-do/data-centre-at-drax-power-station/
+- Riksantikvarieämbetet, Frösön: https://www.raa.se/kulturarv/runor-och-runstenar/runstenar-i-sverige/jamtland-och-harjedalen/froson-ostersunds-kommun/
