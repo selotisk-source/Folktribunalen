@@ -377,3 +377,5 @@ Denna cykel har återkontrollerat samtliga 19 huvudspår. Nya substantiella uppg
 - Drax/RNS 3 november 2026: https://www.tradingview.com/news/reuters.com,2026-11-03:newsml_RSC5051Ba:0-reg-drax-group-plc-strategic-partnership-for-gw-scale-data-centre/
 - Drax officiella samrådssida: https://www.drax.com/what-we-do/data-centre-at-drax-power-station/
 - Riksantikvarieämbetet, Frösön: https://www.raa.se/kulturarv/runor-och-runstenar/runstenar-i-sverige/jamtland-och-harjedalen/froson-ostersunds-kommun/
+
+- **F – Oracle RPO-fördelning:** SEC 10-Q anger $664 md i RPO per 31 augusti 2026: 13% väntas redovisas som intäkt inom 12 månader, 37% under månaderna 13–36, 34% under månaderna 37–60 och resterande därefter. RPO är framtida prestationsåtaganden, inte kontanter eller skuld. $288 md ännu ej påbörjade datacenterleasar ska hållas åtskilda från redovisade leasingförpliktelser och $34,15 md inköpsåtaganden. SEC EDGAR: https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
