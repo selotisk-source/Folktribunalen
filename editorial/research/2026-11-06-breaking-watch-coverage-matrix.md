@@ -425,3 +425,12 @@ C (Synkronicitetsprotokollet), H (kyrkorna i Wiesbaden/Warszawa/Prag/Sofia/Varna
 - Inget nytt material har deployats eller markerats LIVE i denna cykel. GitHub-PR:er #4 och #14 är uppdaterade granskningsutkast; PR #20 (Drax) och övriga befintliga gransknings-PR:er förblir öppna och ommergade.
 
 **Nästa releasekontroll:** korrigera publiceringsstatusen i src/app.js så att endast uttryckligen godkända artiklar kan exponeras som publicerade; återställ åtkomst till Postgres via en godkänd IP-regel eller lokal anslutning; läs tillbaka köstatus; därefter krävs separat chefredaktörsgodkännande och verifierad LIVE-kontroll för varje artikel.
+
+
+### Preciserad LIVE-kontroll – 7 november 2026
+
+Jämförelse av den publicerade Render-versionens källkod vid commit 43dfad30 med GitHub-defaultgrenen:
+- Render-versionen innehåller inte Skaga- eller Samuil-artikelkorten och visar fortfarande statusen “ARBETSDOKUMENT”; den har inte etiketten “PUBLICERAD 7 NOVEMBER 2026”.
+- GitHub-defaultgrenen innehåller däremot commit 1fd684bb med 15 kort och en generell publiceringsetikett i artikelrutten. Tre artiklar hade tidigare uttryckligt användargodkännande (Palantir/UK police, Google/Wyoming AI-infrastruktur, Hormuz); de övriga 12 har inte ett dokumenterat separat godkännande i den tillgängliga redaktionella historiken.
+- Render har ingen deploy för commit 1fd684bb. Därför är inget av det nya materialet från den committen belagt som LIVE. Den generiska etiketten i källkoden är felaktig som publiceringsstatus och får inte användas som bevis.
+- Orsaken till utebliven Render-deploy efter committen är inte fastställd. Databasfelet är separat och exakt: Postgres blockerar externa anslutningar eftersom IP-allowlisten är tom.
