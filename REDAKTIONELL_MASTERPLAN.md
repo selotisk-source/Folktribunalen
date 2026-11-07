@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 7 november 2026, 08.22 Europe/Sofia  
+**Version:** 7 november 2026, 08.26 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
@@ -19,7 +19,7 @@
 
 ### Godkännandekö
 
-1. **Hormuz – aktivt granskningsärende:** [PR #3 – öppna utkastet](https://github.com/selotisk-source/Folktribunalen/pull/3). Utkastet uppdaterades 7 november kl. 08.20 med Trumps uttalande om ett nytt begränsat angrepp mot Qeshm den 6 november, Qatars fortsatta medling, AP:s rapporterade tvådagars bryggförslag och Reuters uppgifter om Irans separata sjudagarsförslag. PR:n är fortfarande draft, inte mergad, inte publicerad och inte LIVE. Väntar på chefredaktörens granskning.
+1. **Hormuz – aktivt granskningsärende:** [PR #3 – öppna utkastet](https://github.com/selotisk-source/Folktribunalen/pull/3). Kanonisk granskningsfil är `editorial/drafts/2026-11-05-hormuz.md`; `2026-11-06-hormuz.md` är märkt som arkiverad arbetsversion av samma artikel. Utkastet uppdaterades 7 november kl. 08.20 med Trumps uttalande om ett nytt begränsat angrepp mot Qeshm den 6 november, Qatars fortsatta medling, AP:s rapporterade tvådagars bryggförslag och Reuters uppgifter om Irans separata sjudagarsförslag. PR:n är fortfarande draft, inte mergad, inte publicerad och inte LIVE. Väntar på chefredaktörens granskning.
 2. **Äldre dokumentbank:** [PR #1 – 26 äldre utkast](https://github.com/selotisk-source/Folktribunalen/pull/1). Den är uttryckligen markerad som arkiv och får inte mergas som en batch. Enskilda artiklar måste lyftas till separata granskningsärenden.
 3. Webbplatsens databasbaserade godkännandekö är **inte tillgänglig ännu**. GitHub-PR #3 är en tillfällig, separat granskningspost – inte en bekräftad webbplatskö.
 
