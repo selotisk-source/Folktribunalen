@@ -68,3 +68,13 @@ FN:s säkerhetsråd; UNIFIL; FN:s undergeneralsekreterare Jean-Pierre Lacroix; p
 - UNIFIL, 9 oktober 2026: https://unifil.unmissions.org/en/news/unifil-fully-committed-to-its-mandate-until-the-last-day-of-the-mission
 
 **Publiceringsstatus:** Draft för chefredaktörens granskning. Behöver lokala primärkällor och oberoende civila vittnesmål innan publicering.
+
+## Ny primärkälla om lokalsamhällenas beroenden – 2 november 2026
+
+UNIFIL publicerade den 2 november artikeln *Beyond its mandate: UNIFIL’s impact on communities in south Lebanon*. Missionens talesperson uppger att UNIFIL under de senaste fyra åren godkänt **110 snabbinsatsprojekt i 115 orter**, med omkring **1,5 miljoner mottagare**. Projekten ska ha omfattat stöd till grundläggande service, konflikthantering och förtroendeskapande åtgärder. Enskilda kontingenter har enligt UNIFIL också stött vård, utbildning, jordbruk, energi, vatten och miljö. Missionen uppger dessutom att hundratals lokala anställda och entreprenörer arbetar vid dess baser.
+
+**Källstatus:** PRIMÄRKÄLLA för vad UNIFIL säger att missionen gjort; PARTSUPPGIFT vad gäller antal projekt och mottagare eftersom någon oberoende effektutvärdering eller extern verifiering av totalsiffrorna inte har identifierats. Uppgifterna gäller södra Libanon generellt, inte en särskild religiös grupp.
+
+Detta ger en konkret lokal fråga inför neddragningen: vilka tjänster, arbetstillfällen och kommunala samarbeten fortsätter genom libanesiska myndigheter, Röda korset, Civil Defense, offentliga sjukhus och vatteninfrastruktur – och vilka projekt riskerar att sakna finansiering eller genomförandepartner? UNIFIL uppger att vissa investeringar i nationella och lokala tjänsteleverantörer ska fortsätta gynna samhällena efter missionens avresa. Det är en bolags-/missionsuppgift som ska jämföras med kommunala budgetar, avtal och faktisk drift.
+
+**Källa:** UNIFIL, 2 november 2026: https://unifil.unmissions.org/en/news/beyond-its-mandate-unifils-impact-on-communities-in-south-lebanon
