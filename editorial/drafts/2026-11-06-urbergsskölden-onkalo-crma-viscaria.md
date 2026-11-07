@@ -365,3 +365,25 @@ Stortjärnhobben är ett separat prospekteringsprojekt i södra Lappland, drivet
 
 **OBEROENDE DOMSTOLSDOKUMENT:** Inte hämtat i denna kontroll.  
 **ÖPPET:** målnummer, fullständig kallelse, domstolens handlingar, miljötillståndet för planerad provbrytning, uppdaterad mineralresurs och preliminär ekonomisk bedömning.
+
+
+## Redaktionsuppdatering – 7 november 2026 kl. 16.37 Europe/Sofia
+
+### Onkalo: driftlicens beviljad, men anläggningen får inte starta ännu
+
+**PRIMÄRKÄLLA – Finlands regering, 22 oktober 2026:** Regeringen beviljade Posiva Oy driftlicens för kapslingsanläggningen och slutförvarsanläggningen för använt kärnbränsle i Olkiluoto/Eurajoki till och med 31 december 2070. Licensen omfattar bränsle från Olkiluoto och Loviisa och högst 6 500 ton uran i använt bränsle. Den underjordiska delen, Onkalo, ligger på mer än 400 meters djup.
+
+Licensen motsvarar ungefär 3 300 deponeringskapslar. När verksamheten är fullt etablerad planeras högst 60 kapslar per år; deponeringsarbetet beräknas fortsätta in på 2120-talet. Efter förslutning övergår ansvaret för det använda kärnbränslet till staten enligt kärnenergilagen. Posivas ägare TVO och Fortum ansvarar för att de ekonomiska förutsättningarna är tillräckliga.
+
+**AVGÖRANDE VILLKOR:** Licensen innebär inte att slutförvaret får starta omedelbart. STUK måste först genomföra den lagstadgade förhandsinspektionen och säkerställa att samtliga villkor för säker drift är uppfyllda. Posiva säger att driftsättningsprov och inspektioner återstår och anger inget detaljerat startdatum.
+
+**OBEROENDE KONTROLL:** STUK lämnade ett positivt säkerhetsutlåtande den 4 augusti 2026, vilket gjorde regeringens licensbeslut möjligt. Den separata förhandsinspektionen före drift återstår.
+
+**Artikelvinkel:** Onkalo har passerat den politiska licensgrinden, men inte den sista regulatoriska grinden. Följ STUK:s inspektion, driftsättningsprov, första kapsel och långsiktig finansiering/förvaltning.
+
+**Källor:**
+- Finlands regering, 22 oktober 2026: https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility
+- Finlands regering/STUK:s positiva utlåtande, 4 augusti 2026: https://valtioneuvosto.fi/en/-/1410877/meae-to-prepare-operating-licence-for-spent-nuclear-fuel-disposal-facility-of-posiva-taking-into-account-radiation-and-nuclear-safety-authority-s-safety-assessment
+- Posiva, 22 oktober 2026: https://www.posiva.fi/en/index/news/pressreleasesstockexchangereleases/2026/historicdecisionfinnishgovernmentgrantsoperatinglicencetoposiva.html
+
+**Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
