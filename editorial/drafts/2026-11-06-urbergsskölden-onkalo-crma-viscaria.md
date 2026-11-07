@@ -387,3 +387,17 @@ Licensen motsvarar ungefär 3 300 deponeringskapslar. När verksamheten är full
 - Posiva, 22 oktober 2026: https://www.posiva.fi/en/index/news/pressreleasesstockexchangereleases/2026/historicdecisionfinnishgovernmentgrantsoperatinglicencetoposiva.html
 
 **Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
+
+
+## Förtydligande om Finland–USA:s mineralramverk – 7 november 2026
+
+Den finska regeringen meddelade att Critical Minerals Framework undertecknades i Washington den **29 oktober 2026**. Ramverket syftar till att stärka leveranskedjor och förbättra förutsättningarna för amerikanska investeringar i finsk mineralförädling och raffinering samt främja företagsgemensam forskning om cirkulära materialflöden.
+
+Den publicerade amerikanska Technology Prosperity Deal-MOU:n anger uttryckligen att dokumentet **inte skapar rättsligt bindande skyldigheter och inte binder parterna till utgifter**. Den formuleringen gäller TPD-MOU:n. Den finska regeringens separata beskrivning av Critical Minerals Framework redovisar mål och samarbetsinriktning, men inget projektbelopp, investeringsbeslut, namngivet projekt, lån, garanti, offtake-avtal eller tidsatt finansieringsåtagande har identifierats i de kontrollerade offentliga källorna.
+
+**Källstatus:**
+- **PRIMÄRKÄLLA:** Finlands utrikesministerium, 29 oktober 2026: https://um.fi/current-affairs/-/asset_publisher/gc654PySnjTX/content/suomi-ja-yhdysvallat-syventavat-yhteistyotaan-teknologiassa-ja-kriittisissa-mineraaleissa/35732
+- **PRIMÄRKÄLLA:** Vita huset, Technology Prosperity Deal-MOU, undertecknad 29 oktober 2026 – anger uttryckligen att MOU:n inte skapar bindande skyldigheter och inte förbinder parterna till utgifter: https://www.whitehouse.gov/releases/2026/10/memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-government-of-finland-regarding-the-technology-prosperity-deal/
+- **OBEROENDE BEKRÄFTELSE:** Finnish Minerals Group, 30 oktober 2026, om ramverkets inriktning mot finsk förädling och raffinering: https://www.mineralsgroup.fi/topical/news/finland-and-the-united-states-strengthen-cooperation-on-technology-and-critical-minerals.html
+
+**Redaktionell slutsats:** Ramverket är en politisk och industriell samarbetsplattform. Det är inte i sig bevis för att amerikanskt kapital har investerats i en finsk gruva eller förädlingsanläggning. Nästa bevispunkt är ett konkret projektavtal, investeringsbeslut, finansieringsdokument eller tillståndsärende.
