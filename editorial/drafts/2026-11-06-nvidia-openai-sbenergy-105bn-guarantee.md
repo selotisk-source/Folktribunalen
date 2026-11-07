@@ -1,4 +1,4 @@
-# AI-infrastrukturens kreditstöd: NVIDIA, Google och Anthropic
+# AI-infrastrukturens kreditstöd: NVIDIA, Google, Nscale och Anthropic
 
 **Artikeltyp:** Finansgranskning · AI-infrastruktur · garantier · projektfinansiering  
 **Faktaläge:** 7 november 2026  
@@ -350,6 +350,42 @@ Det är viktigt att skilja mellan:
 Reuters återgav den 5 november Bloomberg-uppgifter om att Microsoft skärper tillsynen över vissa projekt hos IREN, Nebius och Nscale och internt omprövar nya avtal med externa AI-molnleverantörer. Reuters rapporterade den 6 november också att Microsoft enligt Bloomberg håller på att fasa ut ett äldre avtal om hyrd AI-kapacitet från Oracle och inte förnyar det. Oracle uppgav att efterfrågan på dess AI-infrastruktur fortsatt är stark; Microsoft hade inte kommenterat den specifika Oracle-uppgiften.
 
 Detta ska inte beskrivas som att Microsoft lämnar alla externa leverantörer. Microsofts offentliga linje är att bolaget kombinerar egna datacenter, leasade anläggningar och strategiska partnerskap. Men tillsammans med Nscale-besluten och IREN:s leveransförsening visar uppgifterna att köparen granskar kompatibilitet, leveranstid och ekonomisk risk hårdare.
+
+
+
+## Nscale: kontraktsvärde är inte driftsatt kapacitet
+
+Nscale Limiteds preliminära SEC-registrering, Form S-1 inlämnad den **18 september 2026**, ger en ovanligt detaljerad bild av hur ett europeiskt neocloud-bolag finansierar expansionen. Uppgifterna nedan är bolagets egna prospektuppgifter och ska läsas med dess definitioner.
+
+Per **31 augusti 2026** redovisade Nscale cirka **103,4 miljarder dollar i aktivt och kontrakterat total contract value (TCV)** under långsiktiga take-or-pay-avtal. Av detta var **2,6 miljarder dollar aktiv TCV**. Prospektet definierar aktiv kapacitet som online och intäktsgenererande; TCV avser intäkter över den fasta avtalstiden och exkluderar bland annat outnyttjade optioner och förlängningar. Det är därför inte korrekt att beskriva 103,4 miljarder som redan realiserad omsättning, inkasserade pengar eller färdig driftsatt kapacitet.
+
+Samma prospekt anger **25 000 aktiva GPU:er** och **461 000 aktiva eller kontrakterade GPU:er**, fem aktiva och tolv kontrakterade datacenterplatser samt cirka **1,37 GW aktiv och kontrakterad IT-kapacitet**. Under första halvåret 2026 redovisade Nscale **140,6 miljoner dollar i intäkter** och **1 020,1 miljoner dollar i nettoförlust**. Den största kunden stod för **52 procent av intäkterna** under perioden; kunden namnges inte i den koncentrationsuppgiften.
+
+Två namngivna avtalsgrupper är särskilt stora: Microsofts arbetsorder mellan september 2025 och april 2026 uppges kunna ge upp till **43,8 miljarder dollar** till och med december 2033, exklusive optioner; Anthropic-avtalen från **25 augusti 2026** kan ge upp till **44,6 miljarder dollar**, förutsatt att leverans- och tillgänglighetskrav uppfylls. Summan av dessa två belopp motsvarar cirka 85 procent av Nscales rapporterade TCV, räknat på prospektets avrundade belopp. Det är en redaktionell beräkning, inte ett separat bolagsmått.
+
+Prospektet säger samtidigt att Nscale per den 18 september **inte hade några bindande finansieringsåtaganden för den finansiering som behövdes för att fullgöra Anthropic-avtalen**; finansieringen var fortfarande under arbete. Det betyder inte att Nscale saknade all finansiering: prospektet redovisar bland annat cirka **2,35 miljarder dollar i bankåtagna delayed-draw-faciliteter** samt separata GPU-finansieringsfaciliteter. Men dessa får inte automatiskt beskrivas som finansiering av just Anthropic-åtagandet.
+
+### NVIDIA:s tre roller i Nscale-kedjan
+
+S-1 visar att relationen mellan NVIDIA och Nscale är mer komplex än en vanlig leverantörsrelation:
+
+- **Kund:** Nscale redovisar ett GPU-cloud-avtal med NVIDIA på sammanlagt cirka **1,2 miljarder dollar** för reserverad kapacitet i datacenter i Island, Storbritannien och Norge, med initiala tjänsteperioder på 12–48 månader.
+- **Garant:** NVIDIA har enligt prospektet garanterat Nscales hyresförpliktelser för en anläggning i Ward County, Texas, under de första fem åren, upp till **860,3 miljoner dollar**. NVIDIA fick också warrantinstrument; garantin är inte en generell garanti för alla Nscale-skulder.
+- **Finansiär/ägarlänk:** Ett teckningsavtal från **15 september 2026** omfattar minst **3,1 miljarder dollar** i konvertibla låneinstrument. Av detta ska **1 miljard dollar** emitteras till NVIDIA som konvertibla skuldebrev eller, beroende på tidpunkten för erbjudandets ikraftträdande, icke-röstberättigade aktier. Prospektet anger planerad stängning omkring **16 november 2026**. Per denna kontroll den 7 november är detta en planerad kommande transaktion, inte ett bekräftat genomfört kapitaltillskott.
+
+Detta ger NVIDIA roller som leverantör, kund, garant och planerad investerare. Det skapar intressekonflikter och koncentrationsrisker som bör granskas, men det bevisar inte att NVIDIA garanterar Nscales hela skuldbörda eller att samtliga kundavtal är finansierade.
+
+### Microsofts option i Texas – vad som faktiskt föll bort
+
+Den **5 november 2026** rapporterade Financial Times att Microsoft inte tänker utnyttja en option på ytterligare kapacitet vid Nscales Texasprojekt. Reuters återgav uppgiften samma dag men skrev uttryckligen att Reuters inte omedelbart kunde verifiera FT:s rapport; Microsoft och Nscale hade inte kommenterat utanför ordinarie arbetstid. Reuters uppgav att beslutet fattades flera månader tidigare och att det **inte påverkar det befintliga Texasavtalet**.
+
+Kapaciteten i optionen är inte helt konsekvent beskriven: FT rapporterade först en möjlig andra fas på 700 MW, men uppgav att Nscale senare beskrev optionen som närmare 500 MW och knuten till Nscales egen angränsande anläggning. Den befintliga Microsoft-överenskommelsen om cirka 240 MW ska hållas åtskild från den ej utnyttjade optionen. Den potentiella expansionen får inte räknas in som ett förverkligat kontrakt eller en säker intäktsström.
+
+**Varför detta spelar roll:** Nscale söker kapitalmarknadsfinansiering samtidigt som en stor del av den rapporterade TCV:n ännu är kontrakterad men inte aktiv. Prospektet visar att NVIDIA är djupt involverat i flera led, men också att projektfinansiering och leveransvillkor måste följas separat från rubriksiffran för TCV. Microsofts uteblivna optionsutnyttjande är en varningssignal för den planerade expansionen, inte ett uppsagt befintligt avtal.
+
+**Nästa kontrollpunkter:** om NVIDIA-transaktionen stänger omkring 16 november; om Nscale lämnar en uppdaterad S-1/A; om bindande finansiering för Anthropic-avtalen tillkommer; om Texas-kapaciteten får nya kunder; samt om Microsofts befintliga 240 MW-kontrakt levereras enligt tidplan.
+
+**Källor:** <a href='https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm' target='_blank' rel='noopener noreferrer'>Nscale Limited, Form S-1, 18 september 2026</a> · <a href='https://www.reuters.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-uks-nscale-ft-reports-2026-11-05/' target='_blank' rel='noopener noreferrer'>Reuters, 5 november 2026 – Microsofts option i Texas</a> · <a href='https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8' target='_blank' rel='noopener noreferrer'>Financial Times, 5 november 2026 – Nscale och Texasoptionen</a>.
 
 ### Källstatus och öppna frågor
 
