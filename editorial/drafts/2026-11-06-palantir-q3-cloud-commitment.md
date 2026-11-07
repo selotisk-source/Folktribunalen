@@ -187,6 +187,16 @@ Samma 10-Q bekräftar ett minimiåtagande om minst **5,6 miljarder dollar** till
 
 **OBEROENDE BEKRÄFTELSE – BBC/Financial Times, september–oktober:** East Midlands Special Operations Unit (EMSOU), som samordnar arbete över fem polisstyrkor, beslutade att inte gå vidare med ett nytt avtal efter en tvåårig pilot av Palantir Foundry. Piloten startade i oktober 2024 och använde data från Leicestershire Police. EMSOU hänvisade till avslutat Home Office-stöd och bedömning av framtida finansiering och nytta. Enheten begärde att Palantir skulle visa att kopplingar till polisens system brutits och att data raderats. Någon offentlig bekräftelse på slutförd radering har inte identifierats.
 
+### Nytt brittiskt polisavtal – tilldelat 8 oktober, publicerat 6 november
+
+En ny upphandlingspost visar att Cambridgeshire Constabulary tilldelat Palantir Technologies UK Ltd ett femårigt avtal med värdet **£10 093 202** för “BCH Palantir Foundry Platform”. Avtalet löper enligt den publicerade notisen från **8 oktober 2026 till 8 oktober 2031** och är ett **call-off från ett befintligt ramavtal**, inte en ny öppen konkurrensutsättning. Beskrivningen anger en övergripande data-integrations- och analysförmåga för säker inhämtning, länkning och analys av data från flera system inom polisverksamheten.
+
+**Källstatus:** notisen publicerades 6 november på en upphandlingsspegel som anger Contracts Finder som originalkälla. Den direkta Contracts Finder-länken gav 403 i denna kontroll; värde, datum, leverantör och avtalsbeskrivning återges därför som **OBEROENDE MEDIERAPPORTERING / speglad upphandlingspost**, inte som en direkt hämtad primärhandling. Ingen uppgift i notisen visar i sig vilka datakällor som faktiskt kopplats in, hur ofta plattformen används eller hur modell-/analysresultat granskas.
+
+**Nästa primärkontroll:** begär själva call-off-avtalet, ramavtalets villkor, databehandlingsavtal, DPIA, informationssäkerhetsbilagor, ändringshistorik, underleverantörer och revisions-/exitklausuler. Det är dessa dokument som kan besvara vem som är personuppgiftsansvarig, vem som får granska, hur data återlämnas och hur leverantörsberoendet kan brytas.
+
+**Källa:** Tenfell, “BCH Palantir Foundry Platform”, publicerad 6 november 2026, med Contracts Finder som angiven originalkälla: https://tenfell.com/explore/notices/1145980/bch-palantir-foundry-platform
+
 ### Redaktionell slutsats
 
 Kontraktets fortsättning är inte samma fråga som bevisad nytta, och en lyckad pilot är inte samma sak som ett permanent köp. Nästa granskning ska jämföra avtalsoptioner, övergångsplan, faktisk Trust-användning, oberoende effektutvärdering och dokumenterad radering efter EMSOU-piloten.
