@@ -465,7 +465,7 @@ Källor: [DataVita FAQ, uppdaterad november 2026](https://www.datavita.co.uk/lan
 **Källstatus:** PRIMÄRKÄLLA för partnerskapsavtalet och de annonserade målen; OBEROENDE BEKRÄFTELSE genom Reuters rapportering den 3 november. Beloppen är potentiella investeringar, inte bevis på att kapital har betalats ut eller att ett slutligt investeringsbeslut fattats.
 
 **Viktig avgränsning:** Drax uppger på projektsidan att ingen kund ännu är säkrad och att fas 1 kräver planerings-, myndighets- och nätgodkännanden, kommersiella avtal och slutliga investeringsbeslut. Den offentliga konsultationen för fas 1 är planerad till 19–20 november och stänger 3 december 2026.  
-Källor: [Drax RNS/pressmeddelande, 3 november](https://www.drax.com/news/strategic-partnership-for-gw-scale-data-centre/); [Drax projektsida och konsultation](https://www.drax.com/what-we-do/data-centre-at-drax-power-station/); [Reuters, 3 november](https://www.reuters.com/technology/drax-brookfield-partner-on-27-billion-ai-data-centre-in-uk-2026-11-03/).
+Källor: [Drax RNS/pressmeddelande, 3 november](https://www.drax.com/news/strategic-partnership-for-gw-scale-data-centre/); [Drax projektsida och konsultation](https://www.drax.com/what-we-do/data-centre-at-drax-power-station/); [Reuters, 3 november](https://se.marketscreener.com/nyheter/brittiska-drax-tecknar-datacenteravtal-med-brookfield-och-radiant-ce785fd9df81f627).
 
 #### B – Europeisk opposition mot datacenterexpansion
 
