@@ -366,7 +366,7 @@ Denna cykel har återkontrollerat samtliga 19 huvudspår. Nya substantiella uppg
 - **I/J – Frösöstenen:** Riksantikvarieämbetets dokumentation används som primär historisk bas. Runinskriftens innehåll ska hållas åtskilt från senare folkliga tolkningar av rundjuret som Storsjöodjuret.
 
 **Källor:**
-- EuroHPC upphandlingsinformation: https://eurohpc-ju.europa.eu/ai-gigafactories-procurement-2026-11-05_en
+- EuroHPC upphandlingsinformation: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en?prefLang=bg
 - EU-kommissionens strategiska råvaruprojekt: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma_en
 - Lyten Sweden operations: https://lyten.com/operations/lyten-sweden/
 - Riksantikvarieämbetet, Frösöstenen: https://www.raa.se/hitta-information/fornsok/fornlamningar/froso-stenen/
