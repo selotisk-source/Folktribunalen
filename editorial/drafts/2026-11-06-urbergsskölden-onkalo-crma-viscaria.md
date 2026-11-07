@@ -331,3 +331,37 @@ Hannans borrresultat och tidsplan är **PARTSUPPGIFT** från bolagets eget press
 
 **Oberoende belägg**
 - Ingen oberoende redaktionell granskning av de två nya Bergsstatenbesluten eller Hannan-borrningens nya analysresultat har identifierats i denna kontroll. Hannan-uppgifterna är bolagets egna och analyserna från den andra borrkampanjen återstår.
+
+## Uppdatering 7 november 2026 – Stortjärnhobben: överklagandet får förhandlingsdatum
+
+**Händelsedatum:** Mark- och miljööverdomstolen utfärdade enligt bolagets meddelande kallelse den 5 november 2026. **Publiceringsdatum:** Lappland Guldprospektering publicerade uppgiften den 6 november 2026.
+
+Bolaget uppger att Mark- och miljööverdomstolen har kallat till sammanträde den **19 januari 2027 kl. 09.00 i Stockholm** om Vapstens samebys överklagande av markanvisningen för Stortjärnhobben. Bolaget säger att det har tillträde till den anvisade marken medan överklagandet prövas, eftersom markanvisningen är verkställbar och bolaget har ställt säkerhet för ersättningarna.
+
+Detta är ett bolagsmeddelande som återger domstolens kallelse. Den separata domstolshandlingen och målnumret har inte hämtats i denna kontroll. Uppgiften om fortsatt tillträde ska därför tills vidare märkas **PARTSUPPGIFT VIA BOLAGSMEDDELANDE**, inte som en självständigt kontrollerad domstolshandling.
+
+### Vad överklagandet gäller
+
+Enligt bolagets redogörelse beviljade Bergsstaten markanvisningen den 3 april 2024. Mark- och miljödomstolen ändrade den 25 juni 2025 ersättningen till Vapstens sameby till 122 088 kronor. Bolaget anger följande ersättningar:
+
+- Sveaskog Förvaltnings AB: 3 039 000 kronor
+- Naturvårdsverket: 805 000 kronor
+- Mejvanbäckens jaktlag: 21 000 kronor
+- Vapstens sameby: 122 088 kronor
+- Totalt: 3 987 088 kronor
+
+Bolaget uppger att Mark- och miljööverdomstolen har beviljat prövningstillstånd och att processen gäller behovet av den anvisade marken samt ersättning för skada eller intrång. Det är alltså markanvisningen och villkoren för markens ianspråktagande som prövas; detta ska inte beskrivas som om bearbetningskoncessionen automatiskt upphävts eller som om ett fullständigt miljötillstånd för gruvdrift redan finns.
+
+### Resursklassificeringen får inte förväxlas med reserv
+
+Bolagets nuvarande uppgift är en **antagen (Inferred) mineralresurs** om 4,6 ton guld i 2,65 miljoner ton berg vid 1,73 gram guld per ton. Bolaget anger att klassificeringen har låg geologisk tillförlitlighet. En antagen resurs är inte en mineralreserv och får inte användas som om den vore en säkerställd mängd ekonomiskt utvinningsbart guld. Bolagets webbplats anger att en uppdaterad mineralresurs och en preliminär ekonomisk bedömning väntas under fjärde kvartalet 2026; något sådant nytt dokument har inte identifierats i denna kontroll.
+
+### Geografisk och redaktionell avgränsning
+
+Stortjärnhobben är ett separat prospekteringsprojekt i södra Lappland, drivet av Lappland Guldprospektering AB. Det är inte Cladonia Skog AB:s markförvärv kring Storsjö Kapell i Härjedalen. Företag, orter, rättsprocesser och markägande får inte blandas samman.
+
+**PARTSUPPGIFT / bolagsmeddelande:** https://lapplandguld.se/en/press/sammantrade-om-stortjarnhobbens-markanvisning-den-19-januari-5458144  
+**Samma pressmeddelande distribuerat via Inderes:** https://www.inderes.se/releases/lappland-guldprospektering-ab-sammantrade-om-stortjarnhobbens-markanvisning-den-19-januari
+
+**OBEROENDE DOMSTOLSDOKUMENT:** Inte hämtat i denna kontroll.  
+**ÖPPET:** målnummer, fullständig kallelse, domstolens handlingar, miljötillståndet för planerad provbrytning, uppdaterad mineralresurs och preliminär ekonomisk bedömning.
