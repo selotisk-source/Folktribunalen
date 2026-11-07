@@ -60,7 +60,7 @@ Polismyndigheten; Säkerhetspolisen; åklagare; allmän domstol; Integritetsskyd
 
 ### Källor
 - SFS 2026:806: https://svenskforfattningssamling.se/doc/2026806.html
-- SFS 2026:815: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2026815-om-anvandning-av-ai-system_sfs-2026-815/
+- SFS 2026:815: https://svenskforfattningssamling.se/doc/2026815.html
 - Regeringens proposition 2025/26:150: https://www.regeringen.se/rattsliga-dokument/proposition/2026/03/prop.-202526150
 - Polismyndighetens insynsråd, 17 mars 2026: https://polisen.se/om-polisen/organisation/polismyndighetens-insynsrad/insynsradet-17-mars-2026/
 - IMY:s kontrolluppdrag: https://www.imy.se/verksamhet/ai/ai-forordningen/imys-uppdrag-att-kontrollera-polisens-anvandning-av-ai-for-ansiktsigenkanning-i-realtid/
