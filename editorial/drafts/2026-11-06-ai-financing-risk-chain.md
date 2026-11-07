@@ -5,7 +5,7 @@
 **Faktaläge:** 6 november 2026  
 **Berörda redaktionella spår:** NVIDIA, finansiering och säkerheter · Europas AI-datacenter · strategisk energi
 
-*Anthropic redovisar 895,4 miljarder dollar i framtida inköps- och leasingåtaganden. Samtidigt backar Google upp vissa hyresåtaganden i ett datacenterprojekt på 19 miljarder dollar, medan Blackstone och tre banker enligt Reuters finansierar köp av Broadcom-utrustning för Anthropic. Det är tre olika konstruktioner – och tre olika sätt att fördela risk.*
+*Anthropic redovisar 895,4 miljarder dollar i framtida inköps- och leasingåtaganden. Samtidigt backar Google upp vissa hyresåtaganden i ett datacenterprojekt på 19 miljarder dollar, medan Blackstone och tre banker enligt Reuters finansierar köp av Broadcom-utrustning för Anthropic. Det är flera olika konstruktioner – och flera olika sätt att fördela risk.*
 
 ## 895,4 miljarder dollar är inte en omedelbar skuld
 
@@ -66,13 +66,48 @@ S&P:s uppskattning innebär samtidigt att deras samlade fria kassaflöde kan var
 
 Reuters rapporterade också att de stora teknikbolagens samlade utgifter väntas överstiga 730 miljarder dollar under 2026. Flera av finansvärldens ledare varnade för att den snabba kapitalanskaffningen kan skapa volatilitet och att vissa investeringar kommer att visa sig felaktiga.
 
-## Tre konstruktioner – tre olika riskbilder
+## Oracle: 288 miljarder dollar i ännu ej påbörjade datacenterleasar
+
+Oracle redovisar i sin Form 10-Q för kvartalet som slutade den 31 augusti 2026 en separat och mycket stor kategori framtida åtaganden. Bolaget hade då **288 miljarder dollar i ytterligare leasingåtaganden**, huvudsakligen kopplade till datacenterarrangemang. De väntas i allmänhet börja löpa mellan andra kvartalet av räkenskapsåret 2027 och räkenskapsåret 2029, med löptider på **15–19 år**.
+
+Oracle anger uttryckligen att dessa ytterligare åtaganden **inte ingick i balansräkningen eller leasingarnas förfallotabell per den 31 augusti 2026**. De är alltså inte en redan redovisad skuld på 288 miljarder dollar. När avtalen börjar löpa och de redovisningsmässiga villkoren uppfylls kommer de att påverka framtida leasingredovisning och kassaflöden.
+
+Det är samtidigt viktigt att jämföra beloppet med Oracles redan redovisade leasingförpliktelser:
+- Operativa leasingförpliktelser: cirka **34,6 miljarder dollar**.
+- Finansiella leasingförpliktelser: cirka **9,2 miljarder dollar**.
+- Ytterligare, ännu ej påbörjade leasingåtaganden: **288 miljarder dollar**.
+
+Oracle redovisar dessutom **34,15 miljarder dollar i ovillkorliga inköpsåtaganden**, huvudsakligen för långfristiga leveranser av komponenter till molninfrastruktur och kraftförsörjning till datacenter. Dessa ska hållas åtskilda från leasingåtagandena.
+
+### Hur utbyggnaden finansieras
+
+Samma kvartalsrapport visar hur snabbt kapitalbehovet växer:
+- Kontanta investeringar i anläggningstillgångar: **28,5 miljarder dollar** under kvartalet.
+- Nettointäkter från en riktad marknadsförsäljning av aktier via ATM-programmet: **19,9 miljarder dollar**.
+- Kundförskott med en betydande finansieringskomponent: **11,4 miljarder dollar**.
+- Fritt kassaflöde enligt Oracles egen icke-GAAP-beräkning: **minus 5,4 miljarder dollar**.
+- Återstående prestationsåtaganden från kundkontrakt: **664 miljarder dollar**, varav Oracle räknar med att redovisa 13 procent som intäkt under de kommande tolv månaderna.
+
+De 664 miljarderna i återstående prestationsåtaganden är inte skuld eller pengar som redan har betalats in. Det är ett mått på framtida intäkter som Oracle förväntar sig att redovisa när bolaget fullgör sina kundåtaganden. Förskotten på 11,4 miljarder dollar är däremot redan mottagna kundbetalningar, men Oracle beskriver dem som finansieringskomponenter i kundkontrakten och inte som vanlig extern upplåning.
+
+Oracle skriver att bolagets tillgängliga likviditet, kassaflöde och finansieringsarrangemang bedöms räcka för minst de kommande tolv månaderna. Bolaget uppger också att det har viss flexibilitet att justera tidpunkten för diskretionära investeringar. Detta är ledningens bedömning i 10-Q:n, inte en oberoende garanti för att varje framtida datacenterprojekt kommer att bli lönsamt.
+
+### Microsofts kapacitetsöversyn – en separat, ännu inte fullständigt bekräftad uppgift
+
+Den 6 november rapporterade Reuters, med hänvisning till Bloomberg, att Microsoft fasar ut och inte förnyar viss hyrd Oracle-kapacitet för AI-molntjänster. Oracle uppgav att efterfrågan på bolagets äldre GPU-kapacitet fortsatt är stark. Microsoft har inte offentligt bekräftat de rapporterade detaljerna.
+
+Detta ska inte beskrivas som att Microsoft har sagt upp alla Oracle-avtal eller att de 288 miljarderna i framtida leasingåtaganden har annullerats. Det finns ännu ingen offentlig dokumentation som kopplar den rapporterade Microsoft-översynen till specifika fastigheter, leaseavtal eller belopp i Oracles 10-Q.
+
+Den redaktionella frågan är ändå viktig: hur matchas 15–19-åriga datacenterleasar mot kundkontrakt som kan omförhandlas, fasas ut eller flyttas mellan leverantörer? Vem bär kostnaden om en kund lämnar innan anläggningen är fullt utnyttjad?
+
+## Fyra konstruktioner – fyra olika riskbilder
 
 | Konstruktion | Vad som är känt | Vad som återstår att klarlägga |
 |---|---|---|
 | Anthropics framtida åtaganden | 895,4 miljarder dollar i inköps- och leasingåtaganden; 69,8 miljarder förfaller inom tolv månader efter 30 september | Vilka delar kan omförhandlas, skjutas upp eller sägas upp? Hur ser leverantörs- och kundkoncentrationen ut? |
 | Blackstone och bankerna | Reuters rapporterar 63 miljarder dollar för Broadcom-utrustning till Anthropic | Formell låntagare, säkerheter, äganderätt, leasingkedja och återbetalningsprioritet |
 | Google–TeraWulf–Anthropic | SEC-handlingen beskriver tre kreditstödsavtal, villkor för när de träder i kraft och Googles alternativ vid vissa fallissemang | Fullständiga avtalsbilagor, exakta belopp per datahall, slutlig projektfinansiering och vilka delar som ännu inte stängts |
+| Oracle | 288 md USD i ytterligare, ännu ej påbörjade datacenterleasar; 34,15 md USD i ovillkorliga inköpsåtaganden; 34,6 md USD operativa och 9,2 md USD finansiella leasingförpliktelser på balansräkningen | Vilka anläggningar och kunder åtagandena gäller, uppsägningsvillkor, säkerheter, kraftavtal och vem som bär restvärdesrisken |
 
 ## Fem frågor som måste ställas
 
@@ -86,18 +121,20 @@ Reuters rapporterade också att de stora teknikbolagens samlade utgifter väntas
 
 AI-boomens finansiering är inte en enda skuldpost. Den är en kedja av framtida inköp, leasing, projektfinansiering, kreditstöd och kapitalanskaffning.
 
-Anthropics registreringshandling visar hur stora de framtida åtagandena är. TeraWulfs SEC-rapport visar hur ett kreditstöd från Google kan förbättra finansieringsprofilen för ett enskilt datacenterprojekt. Reuters rapportering om Blackstones 63-miljarderspaket visar att även själva chip- och nätverksutrustningen blir föremål för stora finansieringskonstruktioner.
+Anthropics registreringshandling visar hur stora de framtida åtagandena är. TeraWulfs SEC-rapport visar hur ett kreditstöd från Google kan förbättra finansieringsprofilen för ett enskilt datacenterprojekt. Reuters rapportering om Blackstones 63-miljarderspaket visar att även själva chip- och nätverksutrustningen blir föremål för stora finansieringskonstruktioner. Oracles 10-Q visar samtidigt att datacenterbolagens långfristiga leasing- och kraftåtaganden kan växa långt innan hela kapaciteten tas i bruk.
 
 Det är därför inte tillräckligt att fråga hur mycket AI-industrin investerar. Den avgörande frågan är vem som äger tillgångarna, vem som har första anspråk på kassaflödena och vem som till slut bär risken om efterfrågan sviker.
 
 ## Källor
 
 **Primärkällor**
+- Oracle Corporation, Form 10-Q för kvartalet som slutade 31 augusti 2026: https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
 - Anthropic, Form S-1/A, inlämnad till SEC 2 november 2026: https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm
 - TeraWulf, Form 8-K, 4 november 2026: https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulf-20261104.htm
 - TeraWulf, pressmeddelande om Google Credit Backstop och Fluor-avtalet, 4 november 2026: https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement
 
 **Oberoende rapportering**
+- Reuters, 6 november 2026, om Bloombergs uppgift att Microsoft fasar ut viss hyrd Oracle-kapacitet: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
 - Reuters, *Big-ticket tech deals need to keep pace with AI boom but risks remain high, financial leaders say*, 3 november 2026: https://www.reuters.com/business/finance/blackstone-president-says-more-tech-sector-fundraising-ahead-keep-up-with-ai-2026-11-03/
 - Reuters, *TeraWulf gets credit backstop from Google for Anthropic data-center project*, 4 november 2026: https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/
 
