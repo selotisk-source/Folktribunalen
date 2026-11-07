@@ -434,3 +434,165 @@ Jämförelse av den publicerade Render-versionens källkod vid commit 43dfad30 m
 - GitHub-defaultgrenen innehåller däremot commit 1fd684bb med 15 kort och en generell publiceringsetikett i artikelrutten. Tre artiklar hade tidigare uttryckligt användargodkännande (Palantir/UK police, Google/Wyoming AI-infrastruktur, Hormuz); de övriga 12 har inte ett dokumenterat separat godkännande i den tillgängliga redaktionella historiken.
 - Render har ingen deploy för commit 1fd684bb. Därför är inget av det nya materialet från den committen belagt som LIVE. Den generiska etiketten i källkoden är felaktig som publiceringsstatus och får inte användas som bevis.
 - Orsaken till utebliven Render-deploy efter committen är inte fastställd. Databasfelet är separat och exakt: Postgres blockerar externa anslutningar eftersom IP-allowlisten är tom.
+
+
+## Breaking Watch – 8 november 2026, 01:40 (Europe/Sofia)
+
+**Täckning:** A–S genomgångna i denna cykel. De mest betydelsefulla nya kontrollfynden gäller B/F/R (AI-infrastruktur och finansiering), E/S (Finlands CRMA-genomförande och Onkalo), G (Libanon/Israel), K (Cladonia och lokala jakträtter), C/J (synkronicitetsforskning och Peter Thiels egna uttalanden) samt O (Hormuz).
+
+### Nya betydelsefulla fynd
+
+#### B / R – Lanarkshire AI Growth Zone: aktuell elmodell är nätansluten
+
+**Händelsestatus:** aktuell projekteringsbeskrivning, uppdaterad november 2026.  
+**PRIMÄRKÄLLA:** DataVitas FAQ anger att datacentren är fullt nätanslutna och inte beroende av någon särskild generator. Närliggande förslag om förnybar elproduktion behandlas i en separat ansökan; sådan produktion skulle i framtiden kunna leverera direkt till campus.  
+**Bakgrund:** brittiska regeringens tillkännagivande den 29 januari 2026 beskrev en planerad förnybar energipark och att energin skulle hämtas från förnybara källor på plats. Regeringen angav samtidigt att sysselsättnings- och investeringssiffrorna kom från DataVitas förslag.  
+**Betydelse:** den nuvarande projekteringsbeskrivningen gör skillnad mellan datacentrets faktiska nätförsörjning och den separata, ännu inte färdigprövade förnybara produktionsdelen. Detta är inte bevis för att nätanslutning eller energiköp är färdigavtalade; anslutningarna hanteras genom nätoperatörens normala process.  
+**Öppet:** nätanslutningens effekt, tidplan, anslutningsavtal, eventuella PPA:er, finansiering och faktisk produktionskapacitet i den separata energiparken.  
+Källor: [DataVita FAQ, uppdaterad november 2026](https://www.datavita.co.uk/lanarkshire-ai-growth-zone/faqs); [UK Government, 29 januari 2026](https://www.gov.uk/government/news/more-than-3400-jobs-and-targeted-support-for-local-communities-to-help-tackle-the-cost-of-living-as-lanarkshire-named-latest-ai-growth-zone).
+
+#### B / F / R – Drax, Brookfield, Radiant och Qai: gigawattambition vid kraftverket
+
+**Publicerings-/avtalsdatum:** 3 november 2026.  
+**PRIMÄRKÄLLA:** Drax meddelar ett strategiskt partnerskap för att utveckla mer än 1 GW datacenterkapacitet vid Drax Power Station i North Yorkshire.  
+- Fas 1: upp till 100 MW, mål om kommersiell drift från första kvartalet 2028. Denna fas ska initialt använda el direkt från nätet.
+- Fas 2: ambition om ytterligare 500 MW 2028–2031, med tänkt bakom-mätaren-lösning och långsiktigt PPA, beroende av tillstånd och samtycken.
+- Fas 3: ytterligare kapacitet efter 2031.
+- Brookfield uppskattar den potentiella totalinvesteringen, inklusive halvledare, till över 20 miljarder GBP; 2,5 miljarder GBP anges som en möjlig första fas.
+
+**Aktörskarta:** Drax tillhandahåller mark, nät- och kraftverksintegration samt planeringskompetens; Radiant ansvarar för design, kundkontakt och kommersialisering; kapital och operativ kapacitet ska komma genom Brookfield–Qai:s AI-infrastruktur-JV. Qai är en Qatar-baserad teknikplattform kopplad till Qatar Investment Authority.
+
+**Källstatus:** PRIMÄRKÄLLA för partnerskapsavtalet och de annonserade målen; OBEROENDE BEKRÄFTELSE genom Reuters rapportering den 3 november. Beloppen är potentiella investeringar, inte bevis på att kapital har betalats ut eller att ett slutligt investeringsbeslut fattats.
+
+**Viktig avgränsning:** Drax uppger på projektsidan att ingen kund ännu är säkrad och att fas 1 kräver planerings-, myndighets- och nätgodkännanden, kommersiella avtal och slutliga investeringsbeslut. Den offentliga konsultationen för fas 1 är planerad till 19–20 november och stänger 3 december 2026.  
+Källor: [Drax RNS/pressmeddelande, 3 november](https://www.drax.com/news/strategic-partnership-for-gw-scale-data-centre/); [Drax projektsida och konsultation](https://www.drax.com/what-we-do/data-centre-at-drax-power-station/); [Reuters, 3 november](https://www.reuters.com/technology/drax-brookfield-partner-on-27-billion-ai-data-centre-in-uk-2026-11-03/).
+
+#### B – Europeisk opposition mot datacenterexpansion
+
+**Händelsedatum:** 6–7 november 2026.  
+**OBEROENDE BEKRÄFTELSE:** AP och Reuters rapporterar samordnade protester i flera europeiska länder. I Amsterdam tog sig demonstranter in på en byggarbetsplats för ett Microsoft-datacenter; nederländsk polis uppgav att 150–200 personer omhändertogs misstänkta för olaga intrång. AP rapporterade även omkring 100 demonstranter framför Polens parlament.  
+**PARTSUPPGIFT:** kampanjens arrangörer uppgav att aktioner planerats i 15 europeiska länder och att ett stort antal civilsamhällesgrupper deltog.  
+**Betydelse:** motståndet gäller inte bara AI som teknik utan även markanvändning, vatten, elnätskapacitet, miljöprövning, lokal insyn och koncentrerad företagsmakt. Protester är inte i sig bevis för att ett enskilt projekt bryter mot tillstånd eller lag.  
+Källor: [AP, 6 november](https://apnews.com/article/b4f3f9f368697bb37416bcb4fabdd67c); [Reuters, 6 november](https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/).
+
+#### F – Google som kreditstöd i TeraWulf–Anthropic-kedjan
+
+**Händelsedatum och SEC-rapport:** 4 november 2026.  
+**PRIMÄRKÄLLA:** TeraWulfs Form 8-K beskriver tre kreditstödsavtal med Google i anslutning till Anthropic-leasingavtal för cirka 401 MW kritisk IT-last vid Justified Data Campus i Hawesville, Kentucky. TeraWulf uppger cirka 19 miljarder USD i kontrakterade leasingåtaganden över 20 år; leveranser väntas ske stegvis från slutet av 2027 till andra kvartalet 2028.
+
+Google backstoppar vissa av Anthropic-åtagandena. Stödet träder i kraft först när den sista datahallen under respektive leasingavtal har påbörjat sin hyresperiod. Vid vissa betalningsdröjsmål eller insolvenshändelser kan Google betala hyra och ta över avtalet eller, under vissa villkor, betala en uppsägningsavgift. Efter sådan avgift kan Google välja att förvärva en ägarandel i det berörda fastighets-/leasingbolaget. Stödet upphör bland annat om Anthropic eller kvalificerad garant upprätthåller angiven investment-grade-rating i minst tre månader.
+
+**Redovisningsmässig gräns:** 19 miljarder USD är beräknade kontrakterade leasingåtaganden/intäkter över avtalsperioden, inte ett kontant lån, en utbetald garanti eller en direkt skuld hos Google. Det offentliggjorda materialet anger inte ett enda garanterat belopp för hela 19-miljarderssumman.  
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade avtalet den 4 november.  
+Källor: [SEC Form 8-K, 4 november](https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulf-20261104.htm); [TeraWulf Form 10-Q, subsequent events](https://www.sec.gov/Archives/edgar/data/1083301/000162828026071671/wulf-20260930.htm); [Reuters, 4 november](https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/).
+
+#### E / S – Finlands nationella genomförande av Critical Raw Materials Act
+
+**Beslutsdatum:** 6 november 2026.  
+**PRIMÄRKÄLLA:** presidenten godkände lagpaketet med anledning av HE 133/2026 vp och bestämde att lagarna ska träda i kraft den 15 november 2026. Riksdagens ekonomiutskottsbetänkande beskriver bland annat:
+- GTK får ansvar för det nationella prospekteringsprogrammet och databasen över nedlagda utvinningsavfallsområden.
+- Aktörer som omfattas av reglerna om gruvavfall ska göra en preliminär ekonomisk bedömning av möjligheten att återvinna kritiska råvaror ur avfallet, om inte undantag kan visas.
+- Marknadskontroll av vissa produkter med permanentmagneter och krav på nationella program/rapportering för återvinning fördelas mellan myndigheter.
+
+**Betydelse:** detta är ett konkret steg från EU-förordning till finsk myndighetsstruktur och datainfrastruktur. Det skapar inte i sig en ny gruva, mineralreserv eller koncession.  
+**Nästa kontroll:** publicerad slutlig lagtext, GTK:s genomförandeplan, tidsplan för databasen och praktisk vägledning till gruvavfallsoperatörer efter ikraftträdandet.  
+Källor: [Statsrådets beslut EV 146/2026](https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389); [Riksdagens ekonomiutskottsbetänkande TaVM 26/2026](https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732).
+
+#### S / R – Posiva får drifttillstånd för Onkalo
+
+**Beslutsdatum:** 22 oktober 2026.  
+**PRIMÄRKÄLLA:** finska regeringen gav Posiva Oy drifttillstånd för inkapslingsanläggningen och slutförvarsanläggningen för använt kärnbränsle i Olkiluoto till utgången av 2070. Regeringen beskriver detta som det första drifttillståndet i världen för en anläggning för slutförvaring av använt kärnbränsle. Tillståndet omfattar högst 6 500 ton uran från Olkiluoto och Lovisa.  
+**Avgörande begränsning:** Posiva får inte starta driften förrän STUK har genomfört den lagstadgade inspektionen före driftsättning och säkerställt att samtliga villkor för säker drift är uppfyllda. Det finns därför ännu inget bekräftat startdatum för faktisk inkapsling och deponering.  
+**Aktörer:** Posiva; ägarna TVO och Fortum, som ansvarar för tillräckliga ekonomiska förutsättningar; STUK som säkerhetsmyndighet; finska staten som tillståndsgivare och framtida ansvarig efter förvarets slutliga förslutning.  
+Källa: [Finska regeringens beslut, 22 oktober](https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility).
+
+#### R – Finland förbereder prisreglering vid elpriskris
+
+**Publiceringsdatum:** 5 november 2026.  
+**PRIMÄRKÄLLA:** regeringen föreslår en lag som ska ge möjlighet att reglera hushållens elpriser om EU-rådet först har förklarat en elpriskris genom ett genomförandebeslut efter kommissionsförslag. Stöddelen kan omfatta upp till 80 procent av hushållets medianförbrukning eller, i andra hand, faktisk förbrukning. En grundprisnivå på minst 18 cent/kWh exklusive skatt och ett stödtak ska bestämmas av regeringen. Övrig förbrukning följer det avtalade marknadspriset.  
+**Status:** lagförslag, inte gällande pristak och inte aktiverad krisåtgärd. Ikraftträdande föreslås till våren 2027.  
+Källa: [Finska regeringen, 5 november](https://valtioneuvosto.fi/en/-/1410877/government-proposes-regulation-of-retail-electricity-prices-during-price-crises).
+
+#### G – EU:s nya stöduppdrag i Libanon och Finlands förberedda deltagande
+
+**Publiceringsdatum:** 6 november 2026.  
+**PRIMÄRKÄLLA:** Finlands president och utrikes- och säkerhetspolitiska ministerutskott diskuterade EUSM Lebanon. Finland uppger att landet förbereder sig för att delta. Uppdragets uttalade mål är att bidra till fred och säkerhet, stärka statliga institutioner och främja långsiktig stabilitet i linje med FN:s säkerhetsrådsresolution 1701.  
+**Öppet:** ingen specificerad finsk personalstyrka, startdag eller operativ insatsplan framgår av beskedet. Uppdraget är en statlig säkerhetsinsats, inte ett särskilt program för kristna samfund.  
+Källa: [Finlands regering, 6 november](https://valtioneuvosto.fi/en/-/president-and-ministerial-committee-on-foreign-and-security-policy-discuss-current-situation-in-ukraine-eu-support-mission-in-lebanon-and-national-cyber-defence-doctrine).
+
+#### G – Israel: ny regeringsbildningsprocess efter valet
+
+**Händelsedatum:** 7 november 2026; formell överlämning av mandatet aviserad till 8 november kl. 17.00 lokal tid.  
+**PRIMÄRKÄLLA:** president Isaac Herzogs kansli redovisade att fraktioner med 67 ledamöter rekommenderat Gadi Eisenkot och fraktioner med 46 Benjamin Netanyahu.  
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterar att Herzog valt Eisenkot att försöka bilda regering efter valet den 27 oktober. Eisenkot får 28 dagar, med möjlighet till ytterligare 14. Hans block har 48 av 120 mandat, Netanyahus block 53; de två arabiska listorna har tillsammans 19.  
+**Betydelse:** Israels regeringsbildning kan påverka regional säkerhet och förhandlingar om Libanon, men ingen ny regering eller ändrad militär policy är beslutad ännu.  
+Källor: [Israels president, 5 november](https://www.president.gov.il/en/president-herzog-concludes-round-of-consultations-with-knesset-factions-at-the-presidents-residence/); [Reuters, 7 november](https://www.reuters.com/world/middle-east/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-form-government-2026-11-07/).
+
+#### K / I – Cladonia: jaktarrenden och den separata markaffären
+
+**Ny rapportering:** SVT publicerade den 7 november ett nytt lokalt vittnesmål från en jägare som uppger att hans jaktmöjlighet upphörde efter 45 år. Jaktjournalen hade redan den 29 september rapporterat att fem jaktlag och omkring 50 jägare berörs; vissa lag hade sagts upp omedelbart och andra från kommande år.  
+**PARTSUPPGIFT:** Cladonia har i tidigare svar sagt att den nya ägaren vill behålla en del jakträtter och ordna möjligheter för lokala jägare, men att formerna ska bestämmas efter översyn och dialog.  
+**Viktig avgränsning:** enskilda uppsägningar belägger inte att alla lokala jägare eller jaktlag förlorat tillträde. Exakta arrendeavtal, uppsägningsdatum och framtida tilldelning saknas i de öppna handlingar som kontrollerats.
+
+**Markaffärens omfattning:** Fastighetsvärlden rapporterade den 19 oktober att Cladonia vid samma tillfälle och från samma säljare, SCA, förvärvade två ytterligare fastigheter – Berg Storsjö 18:3 och 18:5 – i ett separat förvärvstillstånd. Östersunds-Posten uppges ha redovisat cirka 300 hektar och 5 miljoner kronor. Detta ska inte beskrivas som en senare, tredje markexpansion; det är en separat transaktion i samma övergripande försäljningssammanhang. Exakt totalareal och lagfarts-/köpehandlingar måste fortfarande kontrolleras mot primärregistret.  
+Källor: [SVT, 7 november](https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen); [Jaktjournalen, 29 september](https://www.jaktjournalen.se/nyheter/jaktlag-uppsagda-naer-dollarmiljardaer-tar-oever-stor-mark/1569719); [Fastighetsvärlden, 19 oktober](https://www.fastighetsvarlden.se/notiser/palantirs-vd-kopt-ytterligare-i-harjedalen/); [TIC:s fastighetsarealer för 18:3 och 18:5](https://tic.io/sv/fastigheter/jamtland/berg/lantbruk?pageNumber=4&pageSize=25&sortBy=taxationValue%3Adesc).
+
+#### C – Ny neurodynamisk modell för synkronicitet
+
+**Publiceringsdatum:** 19 oktober 2026.  
+**PRIMÄRKÄLLA:** artikeln “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning” i *Neuroscience of Consciousness* föreslår att upplevelser av syfte, synkronicitet och flow kan förstås som olika tidsmässiga uttryck för metastabil koherens i hjärnans dynamik. Författarna föreslår mätbara och potentiellt falsifierbara prediktioner. Artikeln är en teoretisk modell, inte en demonstration av att yttre händelser har en icke-kausal koppling.  
+**Kompletterande empirisk studie:** en studie i *Frontiers in Psychology* från 11 mars 2026 jämförde 121 ultraortodoxa och 121 sekulära israeliska deltagare. Den mätte självrapporterad synkronicitetsmedvetenhet och meningsdetektion; designen var inte förregistrerad och belägger inte objektiv kausalitet mellan sammanträffanden.  
+Källor: [Oxford University Press, 19 oktober](https://academic.oup.com/nc/article/2026/1/niag063/8943654); [Frontiers in Psychology, 11 mars](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1609435/full).
+
+#### J – Peter Thiels egna uttalanden om Antikrist och AI
+
+**Publiceringsdatum:** 22 oktober 2026; intervjun spelades in 16 september.  
+**PRIMÄRKÄLLA:** iHeart/“The Builders” med Walter Isaacson innehåller Thiels egna resonemang om Antikrist, en totalitär världsordning och hans motstånd mot att pausa AI-utvecklingen. Han beskriver Antikrist som en medeltida/biblisk tyrann som skulle härska över världen vid historiens slut och använder begreppet som politisk varning. Det är Thiels tolkning, inte ett teologiskt konsensusuttalande och inte en koppling till Storsjöodjuret.  
+**Artikelvinkel:** hur en investerare med centrala positioner i AI- och säkerhetsindustrin använder apokalyptiskt språk för att argumentera om global styrning och teknologisk acceleration.  
+Källa: [The Builders/iHeart, 22 oktober](https://www.iheart.com/podcast/1119-the-builders-347224769/episode/peter-thiel-we-need-to-hit-348165179/).
+
+#### D – Sofia: ny digital primärresurs, inte nytt fynd
+
+**Publiceringsdatum:** 18 oktober 2026.  
+**PRIMÄRKÄLLA:** National Archaeological Institute with Museum publicerade en 3D-tur av utställningen “The Forgotten Deities”, med 213 föremål från tidig neolitikum till senantiken. Detta är en ny digital tillgång till museidokumentation, inte ett nytt utgrävningsfynd och inte belägg för Samuils grav.  
+**Öppet:** inga nya primära utgrävningsrapporter om Sankt Sofia, Serdica eller Samuils sarkofag identifierades i denna cykel.  
+Källa: [NAIM-BAS, 18 oktober](https://naim.bg/en/content/news/600/857/1604/).
+
+#### D / H – Bulgariska kyrkoföremål som återförts från Grekland
+
+Protokollet den 3 oktober om återförande av 48 kyrkliga föremål från Bulgarien till grekiska kloster följdes av en utställning i Thessaloniki som enligt de offentliggjorda uppgifterna avslutades den 5 november. Samuils kvarlevor återfördes till Bulgarien och gravsattes i Sankt Sofia den 3 oktober. Den faktiska slutliga överlämningen av samtliga 48 föremål till sina ursprungliga kloster efter utställningens slut har inte självständigt bekräftats i denna cykel.  
+**Nästa kontroll:** officiella överlämningsprotokoll från grekiska kulturministeriet, klostren och museet i Thessaloniki.
+
+### Täckningsmatris A–S – 8 november 2026
+
+| Spår | Kontrollstatus denna cykel | Nästa relevanta kontroll |
+|---|---|---|
+| A Palantir/offentlig makt | Inga nya myndighetskontrakt identifierade. AmeriLife och Changshin är fortsatt kommersiella partnerskap; Palantirs och Changshins pressmeddelanden har en dags skillnad i publiceringsdatum. | Kontraktsvärden, faktisk myndighetsanvändning, tillsyn och kundbekräftelser. |
+| B AI-datacenter | Nya DataVita-uppgifter om nätanslutning; Drax/Brookfield/Qai-avtal; europeiska protester; EuroHPC:s tidigare anbudstekniska problem kvarstår utan ny länk. | DataVita-nätanslutning, Drax konsultation/ankarkund, EuroHPC:s nya länkar. |
+| C Synkronicitet | Ny neurodynamisk modell och en självrapporterad tvärsnittsstudie; ingen evidens för yttre icke-kausal koppling. | Replikation, förregistrerade test, öppna data och metodkritik. |
+| D Sofia | NAIM 3D-utställning; ingen ny utgrävningsrapport. Samuils återbegravning är redan genomförd. | Slutlig överlämning av 48 föremål; nya arkeologiska rapporter. |
+| E Råvaror | Finlands CRMA-genomförandelagar godkända, ikraftträdande 15 november. | GTK:s program/databas, vägledning om gruvavfall och nya projektbeslut. |
+| F NVIDIA/finansiering | TeraWulf–Google–Anthropic-kreditstöd är nytt och dokumenterat i SEC. | Kreditavtalens praktiska villkor, byggmilstolpar, lease commencement och NVIDIA Q3-rapport 17 november. |
+| G Libanon | Finland förbereder deltagande i EUSM Lebanon; ny israelisk regeringsbildningsprocess. | EU-mandatets praktiska utplacering, finsk styrkebidrag och Israels regeringsbildning. |
+| H Kyrkor i Europa | Inga nya restaurerings- eller ägarbeslut i de fem städerna. Bulgarisk-grekisk föremålsåterföring följs som kulturarvsspår. | Kyrkoarkiv, bygglov, restaureringsbeslut och slutlig föremålsöverlämning. |
+| I Fennoskandien | Inga nya geologiska eller hästkulturella primärbeslut. Cladonia påverkar markanvändnings- och jakträttsfrågor. | SGU/GTK, skogsbruksplaner, naturvärden, renskötsel och jaktarrenden. |
+| J Storsjöodjuret | Inga nya arkiv- eller naturvetenskapliga fynd. Thiels intervju tillför primärkälla för hans offentliga apokalyptiska retorik. | Frösöstenens runologiska källor, historiska vittnesmål, sjödata och fullständiga Thiel-citat. |
+| K Cladonia/Storsjö | Ny SVT-rapport om en lokal jägare; två fastigheter om cirka 300 ha var separat förvärv vid samma tidpunkt, inte en senare expansion. | Lantmäteriets lagfarter, länsstyrelsens två förvärvsärenden, arrendeavtal, natur- och nyttjanderätter. |
+| L Skaga kapell | Ingen ny restaureringsåtgärd; Svenska kyrkans historik bekräftar tre byggnadsskeden och branden 2000. | Äldre kartor, församlingsarkiv, brandutredning och byggnadsarkeologi. |
+| M Athos/böcker | Ingen ny offentlig manuskriptöverlåtelse eller donation identifierad. | Athosbibliotekens kataloger, proveniens och digitaliseringsprojekt. |
+| N Skrift/Storebror | Inga nya bindande domar eller tillsynsbeslut identifierade. | AI Act, biometrik, upphandlingar och dataskyddsbeslut. |
+| O Hormuz | Ny IRGC-uppgift om två tankfartyg, fortfarande obekräftad; övriga incidenter hålls separata. | Fartygsidentitet, flaggstat, UKMTO, IMO, försäkring och besättningsstatus. |
+| P USA:s kongress | Valresultatens politiska utfall är fortsatt känt; formella certifieringar och utskottsfördelning är inte klara. | Certifiering, konstituering 3 januari 2027, utskottsordföranden och anslag. |
+| Q Gripen/NATO | Senast kända: Gripen i Polen från oktober, svenskt Patriotbidrag från december, Frankrike tar Rzeszów-uppgift 1 januari 2027. | Nationella beslut, NATO-mandat, leverans- och operativ status på offentlig nivå. |
+| R Energi | Drax-datacenterpartnerskap, finskt lagförslag om elpriskris och Onkalo-tillstånd. | Drax nät-/PPA-villkor, finsk lagstiftningsprocess, STUK:s driftsättningsinspektion. |
+| S Urbergsskölden | CRMA-lagar och Onkalo-tillstånd är de viktigaste nya milstolparna. | GTK:s databas och nationella prospekteringsprogram, SGU, Posiva/STUK och civil underjordisk energilagring. |
+
+### Redaktionella artikelvinklar att hålla i arbetsunderlaget
+
+1. **AI behöver el – men vem levererar den?** DataVitas fullt nätanslutna modell jämförs med Drax planerade bakom-mätaren-lösning. Inkludera nätägare, PPA, planering, vatten, samhällsnytta och faktisk finansiering.
+2. **När AI-leasing får en kreditgarant:** TeraWulf, Anthropic och Google – kontrakterad hyra, villkorad backstop och vem som tar risken om kunden inte kan betala.
+3. **Urberg, gruvavfall och slutförvar:** Finlands CRMA-genomförande kopplat till GTK:s datauppdrag och Posivas drifttillstånd, med tydlig åtskillnad mellan mineralpotential, återvinning och kärnavfall.
+4. **Storsjö kapell: ägande, jakt och lokala nyttjanderätter:** separata fastighetsförvärv, jaktarrenden, allemansrätt, fiske, renskötsel och vad bolaget faktiskt har lovat.
+5. **Synkronicitet som mätbar upplevelse:** ny neurodynamisk teori jämförd med självrapporterade studier och statistik, utan att dra slutsatser om övernaturlig kausalitet.
+
+**Arbetsflöde:** PR #3 (Hormuz) är fortsatt aktivt. Denna cykels nya IRGC-uppgift har lagts till i Hormuz-utkastet som PARTSUPPGIFT. Övriga artikelvinklar har dokumenterats i den interna täckningsmatrisen; ingen ny artikel har öppnats, mergats eller publicerats i denna cykel.
