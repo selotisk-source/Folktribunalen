@@ -156,7 +156,7 @@ Den avgörande frågan är inte om en digital plånbok finns. Den är om makten 
 
 **PRIMÄRKÄLLA – Ministeriet för innovation och digital transformation:** Den reviderade konsultationen för utkastet till lag om den europeiska digitala identitetsplånboken publicerades den 6 oktober och hade sista svarsdag den 5 november 2026. Konsultationsperioden är därmed avslutad. Ministeriets sida innehåller utkastet och dess motiveringar; något slutligt antagande av lagförslaget eller en senare offentlig proposition har inte identifierats per 7 november.
 
-**OBEROENDE REGISTERKONTROLL:** Konsultationsposten redovisar fyra kommentarer. Det är ett lågt antal registrerade inlägg på portalen, inte ett mått på alla eventuella remissvar som kan ha skickats via andra kanaler.
+**PRIMÄRKÄLLA – officiella konsultationsportalen:** Den aktuella konsultationsposten redovisar sju kommentarer. Det är antalet publicerade inlägg på portalen, inte ett mått på alla eventuella remissvar som kan ha skickats via andra kanaler.
 
 **PRIMÄRKÄLLA – Ministerrådet, 29 september:** Regeringen beslutade att vidta åtgärder för att bygga och tillhandahålla en nationell EUDI-plånbok och föreslog funktionell separation mellan upphandling/finansiering, tillsyn och certifiering. Det beslutet är inte samma sak som att det senare lagförslaget redan har antagits.
 
