@@ -137,3 +137,31 @@ https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930
 **ÖPPET:** Customer I:s identitet, fordringarnas åldersfördelning, betalningstid och om koncentrationen minskar i Q4. Ingen slutsats om myndighetsanvändning kan dras enbart ur intäkts- eller fordringsdata.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+## SEC-kontroll 7 november 2026 – RPO, kundfordringar och geografisk exponering
+
+Palantirs Form 10-Q för kvartalet som slutade den 30 september 2026 ger tre viktiga kompletteringar till Q3-bilden.
+
+### Återstående prestationsåtaganden
+
+**PRIMÄRKÄLLA:** Palantir redovisar remaining performance obligations om **4,9 miljarder dollar** per den 30 september. Bolaget väntar sig att redovisa cirka **44 procent** som intäkt under de följande 12 månaderna och ytterligare **37 procent** under månaderna 13–36. Resterande del ligger senare.
+
+SEC-noten definierar detta som icke upparbetade intäkter från icke uppsägningsbara kontrakterade åtaganden. Bolaget har valt att inte redovisa RPO för kontrakt med ursprungliga löptider om högst 12 månader. Avbokningsbara kontrakterade intäkter och kunddepositioner ingår inte. RPO är därför inte kontanter, inte redan redovisad omsättning och inte en skuld.
+
+### Fordringskoncentration
+
+Per den 30 september uppgick kundfordringarna till **1,9 miljarder dollar**, jämfört med 1,0 miljard vid utgången av 2025. En anonymiserad kund, benämnd **Customer I**, stod för **27 procent** av kundfordringarna, jämfört med 25 procent vid utgången av 2025. Det motsvarar ungefär en halv miljard dollar vid den rapporterade balansdagen.
+
+Detta är en koncentration i kundfordringar. Det visar inte att samma kund står för 27 procent av intäkterna, att kunden har betalningsproblem eller vilken juridisk person kunden är. SEC-rapporten namnger inte Customer I.
+
+### Geografisk exponering
+
+Under de nio första månaderna 2026 kom **81 procent** av Palantirs intäkter från kunder i USA och 19 procent från kunder utanför USA. Detta är en niomånaderssiffra, inte en separat Q3-andel. Bolaget skriver självt att en fortsatt hög eller ökande USA-andel kan göra verksamheten mer exponerad för framtida negativa förhållanden i USA.
+
+### Molnåtagandet – fortsatt åtskillnad från skuld
+
+Samma 10-Q bekräftar ett minimiåtagande om minst **5,6 miljarder dollar** till en extern molntjänstleverantör under tio avtalsår till och med den 29 februari 2036, med årliga minimibelopp på 268–979 miljoner dollar. Rapporten säger att tidigare betalningsåtaganden enligt avtalet avslutades när ändringen undertecknades i mars 2026. Detta är ett framtida inköpsåtagande för molntjänster, inte ett lån eller en redan redovisad skuld.
+
+**PRIMÄRKÄLLA:** Palantir Form 10-Q, kvartal avslutat 30 september 2026, särskilt noterna om kundfordringar, remaining performance obligations och purchase commitments: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+**ÖPPET:** Customer I:s identitet, fordringarnas åldersfördelning och betalningsstatus, molnleverantörens identitet om den kan fastställas genom separata dokument samt hur stor del av RPO som omvandlas till faktiska intäkter under kommande kvartal.
