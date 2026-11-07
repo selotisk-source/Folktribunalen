@@ -246,3 +246,58 @@ Bakgrund om donationsavtalet: https://www.washingtonpost.com/politics/2026/04/21
 
 - BTA, *Tsar Samuel's Remains' Transfer to Sofia: What Experts Say*, 2 October 2026 (historian Georgi Nikolov's ~1.55 m estimate): https://www.bta.bg/en/news/bulgaria/1216695-tsar-samuel-s-remains-transfer-to-sofia-what-experts-say
 - BTA, *Preliminary Examination of Tsar Samuel's Remains Reveals Chronic Illnesses, Severe Arm Injury*, 8 October 2026 (preliminary anthropological estimate ~1.73 m): https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+
+## Kontrollcykel 7 november 2026 kl. 16.08 Europe/Sofia – nya deltas och full täckning A–S
+
+Denna cykel har återkontrollerat samtliga 19 huvudspår. Nya substantiella uppgifter har främst tillkommit i A, C, D, E, G, I, K, O och S. Där ingen ny handling passerat tröskeln redovisas fortsatt kontrollpunkt i stället för en tom nyhetsnotis.
+
+### Nya eller förtydligade uppgifter
+
+**A – Palantir / N – Från skrift till Storebror:** Palantirs Q3 Form 10-Q ger nya detaljer om 4,9 md USD i remaining performance obligations, 27 procent kundfordringskoncentration hos anonymiserade Customer I och 81 procent av intäkterna från USA under årets första nio månader. RPO är icke uppsägningsbara kontrakterade intäkter som ännu inte redovisats; det är inte kontanter eller skuld. Customer I:s identitet är inte offentlig.
+
+**B – Europas AI-datacenter:** Ingen ny officiell EuroHPC-länk eller ändrad tidsfrist har identifierats efter den tekniska omstarten den 5 november. Den tidigare uppgiften om att gamla anbud måste skickas in på nytt ligger kvar som aktiv kontrollpunkt. Nästa kontroll är de nya länkarna och om anbudsgivare kan visa att deras nya inlämning mottagits.
+
+**C – Synkronicitetsprotokollet:** Den teoretiska neurodynamiska artikeln från 19 oktober kvarstår som forskningsreferens. Den ska behandlas som en modell med möjliga testbara prediktioner, inte som empiriskt bevis för kausal synkronicitet. Fulltext och oberoende replikation saknas i denna kontroll.
+
+**D – Sofia / Tsar Samuil:** Korrigering av en tidigare felaktig återgivning: den historiska uppskattningen som BTA publicerade den 2 oktober var cirka **1,55 meter (155 cm)**, inte 153 cm. BTA den 8 oktober återgav en preliminär antropologisk uppskattning på cirka **1,73 meter**. Det är två olika publicerade uppskattningar från olika källpersoner/metodsammanhang; ingen fullständig vetenskaplig rapport som visar att samma mätmetod använts har identifierats. Utkast PR #8 håller redan isär dessa uppgifter.
+
+**E – Strategiska råvaror / I – Fennoskandien / S – Urbergsskölden:** Lappland Guldprospektering meddelade den 6 november att Mark- och miljööverdomstolen enligt bolaget utfärdat kallelse den 5 november till sammanträde den 19 januari 2027 om Vapstens samebys överklagande av markanvisningen vid Stortjärnhobben. Bolaget säger att det har tillträde under överklagandet. Den separata domstolshandlingen har inte hämtats. Den redovisade resursen om 4,6 ton guld är en antagen/inferred resurs med låg geologisk tillförlitlighet, inte en mineralreserv eller en ekonomiskt säkerställd mängd. Stortjärnhobben är inte Cladonias mark i Härjedalen.
+
+**G – Libanons kristna historia / O – Hormuz:** The Guardian rapporterade den 7 november att Irans villkor i den Qatari-medlade processen även uppges omfatta ett slut på kriget i Libanon. Reuters bekräftar att Qatars premiärminister säger att medlingen fortsätter och att framsteg gjorts, men ingen offentlig fullständig förslagstext finns. Detta är en rapporterad förhandlingsposition, inte ett nytt eldupphör eller bekräftat säkerhetsbesked för Libanons kristna samhällen.
+
+**K – Cladonia / Storsjö:** SVT Jämtland publicerade den 7 november kl. 05.30, uppdaterat 09.02, en uppföljning om fem lokala jaktlag. Ett par fick höstens älgjakt helt inställd, andra fick jaga på mindre mark och en intervjuad jägare uppger att han efter 45 år förlorat all jakträtt på den aktuella marken. Cladonia säger att lokala jakträtter ska ordnas efter översyn och dialog, att ingen avverkning planeras under vintern och att en ny skogsbruksplan tas fram. De senare uppgifterna är bolagets egna besked; nya undertecknade jaktavtal eller färdig skogsbruksplan har inte identifierats.
+
+**O – Hormuz:** IMO:s incidenttabell anger 129 bekräftade regionala incidenter per den 6 november, medan IMO-rådets pressmeddelande från samma dag säger minst 130 verifierade attacker mot kommersiella fartyg i regionen. Skillnaden mellan de två officiella sidorna är ännu inte förklarad. IMO bekräftar samtidigt 25 sjömansförluster. UKMTO Warning 197-26 avser en separat händelse den 5 november kl. 22.00 UTC, 16 nautiska mil öster om Khasab: en explosion vid vattenlinjen på ett utgående tankfartyg; besättningen var säker och fartyget fortsatte. Fartyget är inte namngivet och ansvarig aktör är inte fastställd.
+
+### Täckningsmatris – status denna cykel
+
+| Spår | Status 7 nov | Nästa kontrollpunkt |
+|---|---|---|
+| A | Ny SEC-detalj: RPO, fordringskoncentration och USA-andel | Q4 10-Q, myndighetskontrakt, Customer I om offentlig |
+| B | Ingen ny officiell förändring efter anbudssystemets omstart | Nya EuroHPC-länkar, mottagningskvitton, el- och byggbeslut |
+| C | Ingen ny empirisk validering; teoretisk artikel kvarstår | Fulltext, förhandsregistrerade test och replikation |
+| D | Ingen ny utgrävningsrapport; längduppgifterna rättade | Full antropologisk rapport, inventarier och analysresultat |
+| E | Nytt processdatum vid Stortjärnhobben | Domstolshandling, miljötillstånd, uppdaterad resurs |
+| F | Ingen ny NVIDIA-rapport eller nytt bindande finansieringsbesked | Nästa SEC-rapport och avtal med säkerhets-/garantivillkor |
+| G | Ny rapporterad koppling mellan Libanonkriget och Iranförhandlingarna | Offentlig text, UNIFIL-beslut, kyrkliga och civila källor |
+| H | Ingen ny platsbunden restaurerings- eller ägarhandling | Separat kyrko- och byggnadsarkiv per stad |
+| I | Ny domstolsförhandling om markanvisning; ingen ny häst-/skogsbeslutstext | Vapstens överklagande, skogsbruk och markrättigheter |
+| J | Ingen ny verifierad observation eller geologisk handling | Arkivbelägg, hydrologi och primära Thiel-uttalanden |
+| K | Ny SVT-uppföljning om fem jaktlag och bolagets svar | Jaktavtal, skogsbruksplan, JO-status och fastighetsutdrag |
+| L | Ingen ny inventarie- eller restaureringshandling om Skaga | RAÄ, pastorat, länsstyrelse och kommunarkiv |
+| M | Ingen ny katalogiserad donation eller provenienshandling | Offentliga Athoskataloger och digitaliseringsprojekt |
+| N | Ingen ny slutlig lag eller tillsynsrapport i denna cykel | Bulgariens EUDI-lag efter remiss, IMY:s tillsyn |
+| O | Ny UKMTO-varning och skillnad i IMO:s officiella totalsiffror | Fartygsidentitet, flaggstatsutredningar, IMO-förklaring |
+| P | Ingen ny certifiering som ändrar AP:s tidigare valkallelser | Delstatscertifiering, utskottsordningar och Congressional Record |
+| Q | Ingen ny oberoende FMV-verifiering av AI-flygtest | FMV-dokument, testgränser, certifiering och orderstatus |
+| R | Ingen ny offentlig bekräftelse av Lyten-cellers kommersiella leverans | Produktionsdata, kundkvalificering och el-/datacenteravtal |
+| S | Ny rättslig kontrollpunkt i Stortjärnhobben; inget nytt Cavecore-/Onkalo-beslut | GTK/SGU-data, STUK och civil underjordisk infrastruktur |
+
+### Källstatus och arbetsflöde
+
+- Nya uppgifter om Palantir bygger på SEC:s Form 10-Q.
+- Hormuzuppgifterna bygger på IMO:s officiella sidor och UKMTO:s original-PDF; förhandlingsvillkoren om Libanon är medieuppgifter utan publicerad avtalstext.
+- Cladoniauppgifterna bygger på SVT:s oberoende reportage och bolagets svar via SVT.
+- Stortjärnhobben bygger på bolagets meddelande om domstolskallelse; separat domstolshandling saknas.
+- Samuils korrekta 1,55/1,73-metersskillnad finns redan i granskningsutkast PR #8.
+- Inget utkast har mergats eller publicerats. Denna matris och de uppdaterade artikeltexterna ligger i separata draft-PR för chefredaktörens granskning.
