@@ -165,3 +165,39 @@ Samma 10-Q bekräftar ett minimiåtagande om minst **5,6 miljarder dollar** till
 **PRIMÄRKÄLLA:** Palantir Form 10-Q, kvartal avslutat 30 september 2026, särskilt noterna om kundfordringar, remaining performance obligations och purchase commitments: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
 
 **ÖPPET:** Customer I:s identitet, fordringarnas åldersfördelning och betalningsstatus, molnleverantörens identitet om den kan fastställas genom separata dokument samt hur stor del av RPO som omvandlas till faktiska intäkter under kommande kvartal.
+
+
+## Redaktionsuppdatering – 7 november 2026 kl. 16.37 Europe/Sofia
+
+### NHS-avtalet: medieuppgifter om förlängning står mot det senaste offentliga beslutsunderlaget
+
+**PRIMÄRKÄLLA – Health and Social Care Committee, 4 november:** Hälsominister Yvette Cooper sade att den avtalsenliga genomgången fortfarande pågick och att hon inte ville föregripa processen. Hon bekräftade att regeringen har detaljerade planer för olika utfall. NHS Englands vd Sir Jim Mackey sade att det finns en avtalsbestämmelse som ska få leverantören att dela underlag bakom nyttopåståenden, men att den enligt hans förståelse är svår att genomdriva avtalsrättsligt. Han väntar sig att Palantir ska låta NHS granska nyttopåståenden innan de publiceras.
+
+**OBEROENDE RAPPORTERING – 6 november:** The Times rapporterade att ministrarna beslutat att behålla avtalet genom en tvåårig förlängning och därefter upphandla en brittisk ersättare. The Guardian återgav samma dag en FT-uppgift om en planerad förlängning. Någon formell regeringsbekräftelse, ändringsnotis eller nytt tilldelningsbeslut har inte identifierats i denna kontroll. Artikeln ska därför skilja mellan rapporterad ministerplan och offentlig, bindande avtalsåtgärd.
+
+### Ny regulatorisk källkontroll av NHS:s nyttopåståenden
+
+**PRIMÄRKÄLLA – Office for Statistics Regulation, 22 juli:** NHS Englands före/efter-jämförelser visar förändringar efter införandet av FDP, men NHS kan inte dra slutsatser om orsak och verkan eftersom andra variabler inte har kontrollerats. OSR välkomnade tydligare metodredovisning och uppgav att NHS beställt en oberoende akademisk utvärdering från Imperial College.
+
+**OBEROENDE BEKRÄFTELSE – Health Foundation/OSR, 10 augusti:** Health Foundation fann inga mätbara förbättringar i utskrivningsutfall bland de OPTICA-användande vårdgivare som de analyserade. OSR redovisar samtidigt att Health Foundations kohort omfattade alla patienter, medan NHS:s analys var avgränsad till patienter med vårdtid över sju dagar. Resultaten är därför inte direkt jämförbara utan metodgenomgång.
+
+**OBEROENDE RAPPORTERING – The Register, 3 november:** Medact uppger att 29 NHS Trusts som NHS England listar som mottagare av FDP-fördelar i FOI-svar sagt att de inte använde plattformen. NHS England svarar att 137 Trusts har rapporterat fördelar. Detta är en dokumenterad tvist om vilka Trusts som räknas som användare/förmånstagare, inte ett bevis för att samtliga 29 svar är identiska.
+
+### Ett brittiskt polisförsök avslutades utan nytt köp
+
+**OBEROENDE BEKRÄFTELSE – BBC/Financial Times, september–oktober:** East Midlands Special Operations Unit (EMSOU), som samordnar arbete över fem polisstyrkor, beslutade att inte gå vidare med ett nytt avtal efter en tvåårig pilot av Palantir Foundry. Piloten startade i oktober 2024 och använde data från Leicestershire Police. EMSOU hänvisade till avslutat Home Office-stöd och bedömning av framtida finansiering och nytta. Enheten begärde att Palantir skulle visa att kopplingar till polisens system brutits och att data raderats. Någon offentlig bekräftelse på slutförd radering har inte identifierats.
+
+### Redaktionell slutsats
+
+Kontraktets fortsättning är inte samma fråga som bevisad nytta, och en lyckad pilot är inte samma sak som ett permanent köp. Nästa granskning ska jämföra avtalsoptioner, övergångsplan, faktisk Trust-användning, oberoende effektutvärdering och dokumenterad radering efter EMSOU-piloten.
+
+**Källor:**
+- Parlamentariskt vittnesmål 4 november: https://committees.parliament.uk/oralevidence/18242/html
+- OSR 22 juli: https://osr.statisticsauthority.gov.uk/news/nhs-england-federated-data-platform-fdp-presentation-and-communication-of-information-and-performance-metrics/
+- OSR/Health Foundation 10 augusti: https://osr.statisticsauthority.gov.uk/correspondence/ed-humpherson-to-jennifer-dixon-health-foundation-analysis-of-the-impact-of-the-optimised-patient-tracking-and-intelligent-choices-application/
+- The Register 3 november: https://www.theregister.com/2026/11/03/nhs_counts_palantir_benefits_at_trusts_that_say_theyre_not_using_it/
+- The Times 6 november: https://www.thetimes.com/uk/healthcare/article/palantir-nhs-contract-f7mcmrm0b
+- BBC om EMSOU-piloten: https://tech.yahoo.com/articles/police-unit-pulls-plug-palantir-081128800.html
+- Financial Times om EMSOU-piloten: https://www.ft.com/content/a1e0707a-326a-4c7c-a608-d73abab32d82
+
+**Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
