@@ -148,3 +148,26 @@ Den avgörande frågan är inte om en digital plånbok finns. Den är om makten 
 - **OBEKRÄFTAT:** Vilket statligt organ som slutligen får operatörsansvaret, vilka leverantörer som väljs och vilka ändringar som görs efter konsultationen.
 
 **Publiceringsstatus:** Granskningsutkast för chefredaktörens godkännande. Inte mergat och inte publicerat.
+
+
+## Redaktionsuppdatering – 7 november 2026 kl. 16.37 Europe/Sofia
+
+### Konsultationen har stängt – lagförslaget är fortfarande ett förslag
+
+**PRIMÄRKÄLLA – Ministeriet för innovation och digital transformation:** Den reviderade konsultationen för utkastet till lag om den europeiska digitala identitetsplånboken publicerades den 6 oktober och hade sista svarsdag den 5 november 2026. Konsultationsperioden är därmed avslutad. Ministeriets sida innehåller utkastet och dess motiveringar; något slutligt antagande av lagförslaget eller en senare offentlig proposition har inte identifierats per 7 november.
+
+**OBEROENDE REGISTERKONTROLL:** Konsultationsposten redovisar fyra kommentarer. Det är ett lågt antal registrerade inlägg på portalen, inte ett mått på alla eventuella remissvar som kan ha skickats via andra kanaler.
+
+**PRIMÄRKÄLLA – Ministerrådet, 29 september:** Regeringen beslutade att vidta åtgärder för att bygga och tillhandahålla en nationell EUDI-plånbok och föreslog funktionell separation mellan upphandling/finansiering, tillsyn och certifiering. Det beslutet är inte samma sak som att det senare lagförslaget redan har antagits.
+
+**VIKTIG LAGSKILLNAD:** Riksdagens webbplats visar att en ändring i den befintliga lagen om elektronisk identifiering antogs 1 oktober och kungjordes 12 oktober. Den är inte i sig ett antagande av det separata utkastet till lag om Europeiska plånboken för digital identitet.
+
+**ÖPPET:** inkomna synpunkter, regeringens sammanställning och svar, om lagförslaget ändras före behandling i parlamentet, vem som utses till statlig operatör, upphandlingar, registeråtkomst, loggning, certifiering och faktisk tillsyn.
+
+**Källor:**
+- Ministeriets konsultationssida, 6 oktober–5 november: https://midt.gov.bg/bg/about/public-discussion/1569
+- Ministerrådets beslut/agenda, 29 september: https://government.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-zasedanie-na-ministerskiya-savet-na-29-09-2026-g
+- Konsultationspost och kommentarer: https://magistrat.bg/registries/consultations/consultation:12780
+- Separat ändring av lagen om elektronisk identifiering: https://parliament.bg/bg/laws/ID/167522
+
+**Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
