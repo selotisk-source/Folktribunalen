@@ -65,3 +65,11 @@ Drax Group; Brookfield; Radiant; North Yorkshire Council; berörda nät- och ene
 - Datacenter Dynamics, oberoende branschrapportering: https://www.datacenterdynamics.com/en/news/drax-partners-with-brookfield-and-radiant-for-up-to-1gw-data-center-at-north-yorkshire-power-station/
 
 **Publiceringsstatus:** Endast granskningsutkast. Kräver chefredaktörens uttryckliga godkännande.
+
+## Förtydligande efter genomgång av Drax FAQ – 7 november 2026 kl. 16.52
+
+Drax egen projektsida anger nu uttryckligen ansvarsfördelningen: Drax tillhandahåller mark, kraft och planeringskompetens; datacentret ska utvecklas och drivas av Brookfield och Radiant. Drax uppger också att en kund för kapaciteten ännu ska säkras i framtiden. Det är därför mer precist att säga att operatörerna är utpekade men att anchor customer inte är offentliggjord eller säkrad i det material som granskats. Den juridiska projektbolagsstrukturen och de slutliga finansieringsåtagandena återstår.
+
+Drax anger vidare att den konkreta 100 MW-planen är avsedd att drivas från elnätet med befintlig infrastruktur vid kraftverket och att bolaget därför inte väntar sig påverkan på kraftverkets drift. Detta är **PARTSUPPGIFT** och ska prövas mot nätavtal, kapacitetsbesked och den kommande planansökan. Vattenlösningen undersöks fortfarande och är beroende av tillstånd.
+
+**Primärkälla:** Drax projektsida/FAQ, uppdaterad inför samrådet: https://www.drax.com/what-we-do/data-centre-at-drax-power-station/
