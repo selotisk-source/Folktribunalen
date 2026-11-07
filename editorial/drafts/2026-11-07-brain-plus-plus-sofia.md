@@ -165,3 +165,21 @@ Den större IBM-idén är en annan historia. Den kan bli betydligt mer elintensi
 10. Radio Bulgaria, *Bulgaria is establishing as regional AI hub*, 15 maj 2026: https://bnr.bg/en/post/470527/bulgaria-is-establishing-as-regional-ai-hub
 
 **Källbegränsning:** Den offentliga upphandlingssidan och EU-portalen visar olika status-/referensuppgifter. Något tilldelningsmeddelande eller signerat Discoverer++-kontrakt har inte identifierats i denna kontroll. Ingen faktisk driftsättning av Discoverer++ påstås.
+
+
+## Källkonflikt om Discoverer++-upphandlingen – ytterligare offentlig kontroll, 7 november 2026
+
+En tredje offentlig källa har lagts till i jämförelsen:
+
+- EuroHPC JU:s egen projektsida visar status **Closed**, referensen **EuroHPC/2025/OP/0005** och sista anbudsdag **16 oktober 2026 kl. 16.00 CEST**.
+- EU Funding & Tenders Portal visar samma upphandling under **EUROHPC/2026/OP/0005**, men sökresultatet visar fortfarande **Open For Submission** trots att den angivna tidsfristen passerat.
+- Polens statliga Centrum Projektów Polska Cyfrowa listar Discoverer++ under **EUROHPC/2026/OP/0005** och markerar upphandlingen som **Zakończone** (avslutad), med sista dag 16 oktober 2026 kl. 16.00 CEST.
+
+Detta stärker slutsatsen att anbudstiden är passerad och att portalens öppna status sannolikt är en status-/synkroniseringsavvikelse. Referensskillnaden mellan EuroHPC-sidan och EU-portalen kvarstår dock i källorna. Den polska myndighetssidan bekräftar 2026-referensen och att upphandlingen är avslutad, men den är inte en tilldelningsnotis.
+
+**Källstatus:**
+- **PRIMÄRKÄLLA:** EuroHPC JU:s upphandlingssida – Closed, 16 oktober som deadline: https://www.eurohpc-ju.europa.eu/acquisition-delivery-installation-and-maintenance-hardware-and-software-discoverer-ai-optimised_en
+- **PRIMÄRKÄLLA:** EU Funding & Tenders Portal – EUROHPC/2026/OP/0005, visar fortfarande Open For Submission: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/2d7fbaee-6f9e-4d97-9c0a-0366116f8a84-CN
+- **OBEROENDE OFFENTLIG BEKRÄFTELSE:** Polens Centrum Projektów Polska Cyfrowa – samma 2026-referens, markerad avslutad, sista anbudsdag 16 oktober: https://www.gov.pl/web/cppc/zamowienia
+
+**Öppet:** TED:s tilldelningsmeddelande, vald leverantör, slutligt kontraktsvärde och kontraktssignering. Fram till dess ska artikeln inte hävda att leverantör valts eller att kontrakt saknas; endast att tilldelningsdokumentet inte har identifierats i de kontrollerade källorna.
