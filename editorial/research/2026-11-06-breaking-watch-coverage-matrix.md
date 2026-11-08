@@ -721,3 +721,61 @@ Källor:
 - Senate Daily Press, 5 november: https://www.dailypress.senate.gov/thursday-november-5-2026/
 - Saab, systemorder till fyra svenska fregatter, 6 november: https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-to-equip-swedens-new-frigates
 - Regeringen om huvudkontraktet med Naval Group, 31 augusti: https://www.government.se/press-releases/2026/08/sweden-and-france-intensify-defence-cooperation
+
+
+
+---
+
+# Breaking Watch – deltacykel 8 november 2026, 10.02 Europe/Sofia
+
+**Kontrolltyp:** deltabevakning efter cykeln 09.19. Samtliga huvudspår A–S har kontrollerats mot den befintliga matrisen. Ingen tidigare notis har räknats som ny händelse enbart för att den återpublicerats.
+
+## Nytt undersökningsfynd – DANS och offentlig AI-upphandling (spår A/N, Bulgarien)
+
+**Händelse- och dokumenttidslinje**
+- **15 september 2026:** DANS publicerade upphandlingen 01666-2026-0008 / TED 634841-2026.
+- **15 oktober 2026 kl. 23.59:** sista anbudsdag.
+- **16 oktober 2026 kl. 13.30:** anbuden öppnades enligt den offentliga upphandlingsspegeln.
+- **8 november 2026:** vid denna kontroll visade den publika spegeln inget publicerat kontrakt eller tilldelningsresultat.
+
+**Dokumenterade uppgifter**
+- **PRIMÄRKÄLLA – upphandlingspostens metadata:** TED-notis 634841-2026 och CAIS EOP-post 01666-2026-0008 identifierar DANS (Държавна агенция „Национална сигурност“) som upphandlande myndighet.
+- **PARTSUPPGIFT i upphandlingsbeskrivningen:** föremålet är leverans, installation, integration, konfiguration och driftsättning av ett integrerat AI-system samt underhåll av ny och befintlig infrastruktur.
+- **PARTSUPPGIFT i upphandlingsbeskrivningen:** avsett att behandla/analysera strukturerade och ostrukturerade data, använda och vidareträna AI-modeller inklusive LLM samt automatisera analys, riskbedömning och hotförebyggande processer.
+- **PRIMÄRKÄLLA – offentlig upphandlingsmetadata:** uppskattat värde 8 027 282,50 euro exklusive moms; tre års avtalstid; begränsat förfarande; tilldelningskriteriet anges som lägsta pris.
+- **PRIMÄRKÄLLA – klassificeringsuppgift:** den detaljerade tekniska specifikationen för fyra aktivitetsdelar anges ha klassificeringsnivå ”Secret”. Offentlig dokumentlista visar bland annat allmän dokumentation, avtalsutkast och en klassificeringsplan; den sekretessbelagda detaljspecifikationen har inte granskats.
+- **OBEROENDE BEKRÄFTELSE:** ingen oberoende redaktionell bekräftelse av själva upphandlingsvillkoren har identifierats. TED-notisen och CAIS EOP är de relevanta primärregistren; EOP Direct är endast en spegel av CAIS-data och räknas inte som en andra oberoende källa.
+- **OBEKRÄFTAD:** leverantör, underleverantörer, vald modell, datalagring, faktisk dataåtkomst, driftsättningsstatus och eventuellt undertecknat kontrakt.
+- **Öppen kontrollfråga:** den publika spegeln anger både ”europeisk finansiering: ja” och ett separat finansieringsfält ”nej”. Denna skillnad måste kontrolleras mot originalnotisens finansieringsfält och avtalsdokument innan finansieringskälla beskrivs.
+
+**Betydelse och aktörskarta**
+DANS är beställare; CAIS EOP och TED är offentliga upphandlingsregister; den framtida leverantören och eventuella underleverantörer är ännu inte identifierade. Systembeskrivningen rör analys- och riskbedömningskapacitet hos en nationell säkerhetsmyndighet. De viktigaste granskningsfrågorna är vem som äger och kontrollerar data, var modeller och data behandlas, vilka loggar och revisioner som finns, om automatiserade resultat endast är beslutsstöd eller påverkar myndighetsåtgärder, vilka mänskliga kontrollpunkter som gäller, hur fel kan rättas och hur leverantörsberoende/exit hanteras.
+
+**Källåtkomst och begränsningar**
+- TED-notis: https://ted.europa.eu/de/notice/-/detail/634841-2026 (direkt HTML-vy blockerade automatiserad läsning med robotkontroll; notis-ID och innehåll kunde jämföras via offentliga speglar).
+- CAIS EOP: https://app.eop.bg/today/602472 (direktvy returnerade endast laddningsskal i denna kontroll).
+- Offentlig registerspegel med data uppgivna komma från CAIS EOP: https://eopdirect.bg/porachki/dostavka-instalatsia-i-integratsia-na-kompleksna-sistema-za-rabota-s-izkustven-intelekt-602472/
+- TED-notisspegel: https://www.patterno.de/en/ausschreibungen/tender/-z7n2l6f669exa8adc3ehr1yh
+
+**Redaktionell status:** PR #27 är redan öppet som draft: https://github.com/selotisk-source/Folktribunalen/pull/27. Ingen leverantör har pekats ut och inget har publicerats. Före publicering krävs uppdaterad direktkontroll av CAIS EOP/TED, tilldelningsbeslut och kontrakt, offentliga dataskydds-/säkerhetsvillkor samt klarläggande av finansieringsfältet.
+
+## Övriga delt kontroller
+
+- **O – Hormuz:** UKMTO:s aktuella offentliga index visar poster daterade 5 november (attack 50 NM norr om Madinat ash Shamal), 6 november (tidsförsenad rapport 16 NM öster om Khasab) och 7 november (advisory om bulkfartyg och militära styrkor). Ingen senare daterad UKMTO-produkt identifierades i indexet vid kontrollen. IMO:s råd den 6 november bekräftar 25:e omkomna sjömannen sedan konflikten började och minst 130 verifierade attacker mot kommersiella fartyg enligt IMO. Detta är en uppdatering av IMO:s aggregerade statistik, inte en ny identifierad incident i denna deltacykel.
+- **B – AI-gigafabriker:** EuroHPC:s officiella call-sida anger fortsatt deadline 12 november 2026 för ansökan; urval väntas tidigt 2027. Ingen ny förlängning eller ny anbudslänk identifierades.
+- **E/S – CRMA:** kommissionens sida anger 106 strategiska projekt totalt och 46 nya EU-projekt beslutade 9 oktober 2026. Ingen ny projektutnämning identifierades i denna deltacykel.
+- **A – Palantir:** SEC:s Q3 Form 10-Q (inlämnad 3 november) är fortsatt senaste primärdokument i denna kontroll; ingen ny myndighetstilldelning eller tillsynshandling identifierades efter 09.19-cykeln.
+- **D – Sofia:** BTA:s dokumentation av Samuil-sarkofagen gäller ceremonin 3 oktober. Ingen ny arkeologisk rapport eller ny föremålsinventering identifierades.
+- **G – Libanon:** säkerhetsrådets resolution 2790 (2025) anger att UNIFIL:s mandat upphör 31 december 2026 och att drawdown/withdrawal ska ske inom ett år därefter. Ingen ny säkerhetsrådsresolution eller oberoende dokumenterad kyrkohändelse identifierades i denna deltacykel.
+- **P – USA:s kongress:** senatens publicerade schema inför 9 november är fortsatt planerat förfarande; ingen ny omröstning har ägt rum i denna kontroll.
+- **Q – Saab:** ordermeddelandet 6 november om system till fyra FDI-fregatter kvarstår som senaste sakliga kontraktsnyhet; ingen ny separat bekräftelse av ordervärdet identifierades.
+- **K/I – Cladonia/Storsjö och Fennoskandien:** SVT:s jakträttsrapport 7 november är fortsatt senaste nya oberoende fältuppgift. Inga nya lagfartsutdrag, JO-beslut, skogsbruksplaner eller länsstyrelseinventeringar hämtades i denna deltacykel.
+- **C, F, H, J, L, M, N, R:** inga nya primärdokument eller oberoende belägg som passerar notiströskeln identifierades i denna deltacykel. Tidigare öppna frågor kvarstår enligt respektive spår ovan.
+
+## Arbetsflöde
+- PR #27 – DANS AI-upphandling: open, draft, inte mergad.
+- PR #3 – Hormuz: open, draft, inte mergad.
+- PR #4 – Storsjö/Cladonia: open, draft, inte mergad.
+- PR #16 – denna täckningsmatris: fortsatt granskningsunderlag, inte mergad.
+- GitHub-listan visade 24 öppna artikel-PR:er i draftläge vid kontrollen (PR #3–15 och #17–27). PR #1 är dokumentbank och PR #16 är täckningsmatris; dessa har inte räknats som artiklar.
+- Ingen artikel publicerades eller markerades LIVE i denna deltacykel.
