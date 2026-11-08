@@ -40,7 +40,7 @@
 
 ## Aktuella nyhetsspår
 
-| Spår | Artikelvinkel | Status 5 nov 2026 |
+| Spår | Artikelvinkel | Status 8 nov 2026 |
 |---|---|---|
 | Hormuz och sjöfarten | Hormuzkrisen: USA slår ut M/V Huda – UAE räddar 22 från okänt fartyg | **Sammanhängande artikeltext uppdaterad 8 november kl. 08.08** i PR #3. Integrerar Huda, UKMTO Advisory 198-26 och WAM:s räddningsuppgift. Fartyget som UAE räddade är inte namngivet; koppling till Huda är obekräftad. PR #3 fortsatt draft, inte mergad eller LIVE; väntar på chefredaktörens uttryckliga godkännande. |
 | Maktförskjutningen i USA:s kongress | Kongressen byter färg – men vem kontrollerar den tekniska makten? | Långt delutkast finns i PR #1; måste uppdateras med certifierade mandat, ledarskap, utskott och faktisk maktövergång. |
