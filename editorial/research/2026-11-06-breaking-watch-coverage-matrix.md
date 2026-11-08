@@ -777,5 +777,50 @@ DANS är beställare; CAIS EOP och TED är offentliga upphandlingsregister; den 
 - PR #3 – Hormuz: open, draft, inte mergad.
 - PR #4 – Storsjö/Cladonia: open, draft, inte mergad.
 - PR #16 – denna täckningsmatris: fortsatt granskningsunderlag, inte mergad.
-- GitHub-listan visade 24 öppna artikel-PR:er i draftläge vid kontrollen (PR #3–15 och #17–27). PR #1 är dokumentbank och PR #16 är täckningsmatris; dessa har inte räknats som artiklar.
+- GitHub-listan visade 25 öppna artikel-PR:er i draftläge vid kontrollen (PR #3–15 och #17–28). PR #1 är dokumentbank och PR #16 är täckningsmatris; dessa har inte räknats som artiklar.
 - Ingen artikel publicerades eller markerades LIVE i denna deltacykel.
+
+
+## Kontrollcykel – 8 november 2026 kl. 11.52 Europe/Sofia
+
+### Källkontroll och faktapreciseringar
+
+- **A – Palantir / SEC:** Form 10-Q för perioden till 30 september 2026 bekräftar total kvartalsintäkt 2,313 miljarder USD (+96 % år över år). Not 7 anger ett minimiåtagande på 5,6 miljarder USD för tredjeparts molntjänster över tio kontraktsår till 29 februari 2036, med årliga minimibelopp 268–979 miljoner USD. Samma rapport anger en revolverande kreditfacilitet på 500 miljoner USD och noll utestående skuld 30 september. Detta är köpåtagande, inte omedelbar skuld. **PRIMÄRKÄLLA:** https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+- **A – NHS/FDP:** Det fullständiga parlamentariska protokollet från 4 november är nu direkt kontrollerat. Yvette Cooper sade att avtalsöversynen pågår och att detaljerade planer för olika utfall finns. Sir Jim Mackey sade att NHS ska skriva till Palantir om att nyttopåståenden ska delas och klareras med NHS; han uppgav samtidigt att avtalsbestämmelsen är svår att genomdriva. Uppgiften om 29 Trusts som inte använder eller inte har live-appar framfördes av en parlamentariker och ska fortsatt märkas som parlamentarisk uppgift grundad på korrespondens, inte som en självständig myndighetsmätning. **PRIMÄRKÄLLA:** https://committees.parliament.uk/oralevidence/18242/html/
+- **N – DANS AI-upphandling:** EOP Direct-spegeln anger att upphandlingen 01666-2026-0008 stängde 15 oktober, att anbud öppnades 16 oktober och att något kontrakt ännu inte publicerats i den senast synkroniserade posten (16 oktober). Den officiella CAIS EOP-sidan laddar endast en JavaScript-skalvy i denna kontroll. Spegeln anger både ”finansiering: nej” och ”europeisk finansiering: ja”; motsägelsen ska inte lösas genom antagande. Upphandlingens klassificerade tekniska specifikation anges som ”Secret”. **PARTSPRIMÄRKÄLLA/REGISTERKOPIA:** https://eopdirect.bg/porachki/dostavka-inst alatsia-i-integratsia-na-kompleksna-sistema-za-rabota-s-izkustven-intelekt-602472/ . **ÖPPET:** tilldelningsbeslut, leverantör, finansieringskälla och kontrakt.
+- **D – Sofia/Samuil:** BTA:s redogörelse från presskonferensen 8 oktober anger cirka 173 cm; Radio Sofias redogörelse samma dag anger cirka 153 cm. Båda återger preliminära antropologiska uppgifter från samma forskningspresentation och är därför inte två oberoende mätningar. Ingen fullständig laboratorierapport eller publicerad metodbeskrivning har identifierats. Höjdskillnaden är en olöst källkonflikt, inte ett fastställt faktum.
+- **E/S – CRMA:** Kommissionens konsoliderade sida anger nu 106 strategiska projekt totalt. Beslut C(2026)8051 och dess bilaga från 9 oktober 2026 utgör primärunderlaget för de 46 nya EU-projekten. Bilagan listar fem finländska projekt (CoNiKo, Hautalampi, Arctial, Sokli, Suhanko), Viscaria Copper Project i Sverige och Tankhouse Expansion Pirdop i Bulgarien. Projektstatus innebär inte automatiskt gruvtillstånd, finansiering eller produktion. **PRIMÄRKÄLLA:** https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en ; bilaga: https://single-market-economy.ec.europa.eu/document/download/efabd887-9c12-4a3d-910e-8433c0f63a81_en?filename=C_2026_8051_F1_ANNEX_EN_V3_P1_5091583.PDF
+- **S – Onkalo/Posiva:** Finlands regering beviljade 22 oktober 2026 Posiva driftlicens till och med 31 december 2070. Licensen omfattar högst 6 500 ton uran i använt bränsle från Olkiluoto och Loviisa. Den får inte tas i drift förrän STUK genomfört den lagstadgade förhandsinspektionen enligt 20 § kärnenergilagen. **PRIMÄRKÄLLA:** https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility
+- **O – Hormuz:** IMO:s råd den 6 november anger minst 130 verifierade attacker mot kommersiella fartyg i regionen och 25 bekräftat omkomna sjömän sedan konfliktens början. WAM rapporterade 8 november att UAE:s kustbevakning räddat 22 personer från ett branddrabbat lastfartyg i Sea of Oman. WAM anger inte fartygets namn eller IMO-nummer. Koppling till M/V Huda är därför fortsatt **HYPOTES**, inte identifiering. **PRIMÄRKÄLLOR:** https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx ; https://www.wam.ae/en/article/17ijsjm-national-guard-says-rescued-from-cargo-ship-fire
+- **F – NVIDIA:** NVIDIA:s IR bekräftar resultatpresentation för Q3 FY2027 den 17 november 2026 kl. 14.00 PT/17.00 ET. Resultatet har inte publicerats vid denna kontroll. **PRIMÄRKÄLLA:** https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx
+- **P – USA:s senat:** Senatens dagliga pressmeddelande 5 november anger återkomst 9 november kl. 15.00 ET och planerad cloture-omröstning cirka 17.30 ET om motionen att gå vidare med H.R.2347. Det är en proceduromröstning, inte slutligt antagande av lagtext. **PRIMÄRKÄLLA:** https://www.dailypress.senate.gov/thursday-november-5-2026/
+- **Q – Saab:** Saab står som primärkälla för AI-agentflygprov 3 november och ordern till Naval Group 6 november. Inget oberoende tekniskt testprotokoll eller separat oberoende ordervärdesbekräftelse identifierades. Påståenden om autonom stridsförmåga ska tills vidare tillskrivas Saab.
+- **R/E/S – Refinyx:** Vinnovas projektpost 2026-00897 anger 4 907 000 kronor i bidrag, Refinyx AB som koordinator och projektperiod maj 2026–oktober 2027 med Alfa Laval. Projektbeskrivningen är uttryckligen skriven av projektgruppen och inte redaktionellt granskad av Vinnova; återvinningsmål och kapacitetsuppgifter ska därför märkas som projektmål/partsuppgift. **PRIMÄRKÄLLA FÖR BIDRAGSPOSTEN:** https://www.vinnova.se/p/pilotskaledemonstration-av-en-cirkular-hydrometallurgisk-process-for-atervinning-av-batterigradsmetaller-fran-nmc-svartmassa/
+- **G – Libanon:** Säkerhetsrådets resolution 2790 (2025) anger att UNIFIL:s mandat upphör 31 december 2026 och att ordnad neddragning och tillbakadragande ska ske inom ett år. UNIFIL:s egen publicering 2 november beskriver den lokala samhällsroll som försvinner; det är en organisations egen redogörelse och ska skiljas från oberoende effektutvärdering.
+
+### Övriga spår utan ny notis denna kontroll
+
+- **B:** EuroHPC:s nya AI-gigafabrikprocess och ändrade inlämningsförutsättningar kvarstår; inga nya tillstånds- eller byggstartsbeslut identifierades.
+- **C:** Artikeln ”Strange attractors…” (19 oktober 2026) är ett teoretiskt neurodynamiskt ramverk. Den utgör inte empiriskt belägg för paranormal eller kausal synkronicitet.
+- **H:** Inga nya kommunala bygglov, kulturarvsbeslut eller restaureringsupphandlingar som ändrar läget i Wiesbaden, Warszawa, Prag, Sofia eller Varna identifierades.
+- **I/J:** Ingen ny primär geologisk, folkloristisk eller hydrologisk dokumentation som ändrar Storsjöodjurets eller Fennoskandiens kunskapsläge identifierades.
+- **K:** Senaste oberoende fältuppgift är SVT:s jakträttsrapport 7 november. Inga nya lagfartsutdrag, JO-beslut, avverkningsanmälningar eller fastställda jaktavtal identifierades.
+- **L:** Ingen ny restaureringshandling eller byggnadsarkeologisk rapport om Skaga kapell identifierades.
+- **M:** PR #26 om Athos/MoMA-projektet kvarstår som researchutkast; ingen ny offentlig katalogpost eller dokumenterad donation identifierades.
+- **R:** Refinyx/Vinnovas bidragsuppgift finns redan i PR #15; ingen ny kommersiell produktionsstart eller offentlig leveransvolym identifierades.
+
+### System- och redaktionsstatus
+
+- GitHub-listan omfattar 28 PR:er: PR #2 är mergad; PR #1 är dokumentbank; PR #16 är täckningsmatris; PR #3–15 och #17–28 är 25 öppna artikelutkast. PR #28 är det senaste utkastet.
+- Render anger den publika statiska tjänstens senaste deploy som **LIVE** efter commit `382564faf72716bcaf551da4a1432a01d7fd13ac` (8 november 03:15 UTC), med meddelandet ”Fix duplicate markup in Hormuz article update”. Detta bekräftar Render-deploystatus, inte att varje enskild artikeltext är synlig på den publika sidan.
+- Publik HTTP-hämtning av webbplatsen kunde inte genomföras från denna körning. Render-databasen kunde inte läsas: **”This database blocks all external connections because its IP allowlist is empty”**. Därför har ingen databaspost, publiceringsstatus eller artikel-LIVE-status kontrollerats via databasen.
+
+### Nästa kontrollpunkter
+
+1. DANS: nytt synkroniserat tilldelningsmeddelande eller kontrakt i CAIS EOP/TED.
+2. Palantir/NHS: skriftligt svar från NHS till kommittén om benefit-claims och faktisk kontraktsändring/förlängning.
+3. Onkalo: STUK:s förhandsinspektion enligt 20 § och eventuella driftsättningsbeslut.
+4. Viscaria: slutligt kreditbeslut från ING/Société Générale, inte enbart förväntat kreditgodkännande.
+5. Hormuz: identifiering av det branddrabbade fartyget genom namn/IMO-nummer innan koppling görs till Huda.
+6. Storsjö: fastighetsutdrag, jaktupplåtelser, naturvärdesinventeringar och JO:s diarieföring.
+
