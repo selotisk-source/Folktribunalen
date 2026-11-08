@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 8 november 2026, 08.08 Europe/Sofia  
+**Version:** 8 november 2026, 08.15 Europe/Sofia  
 **Arbetsregel:** En artikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö. Ingen automatisk publicering. Endast chefredaktörens uttryckliga godkännande får föra en artikel till LIVE.
 
 ## Publicerings- och systemstatus
@@ -42,7 +42,7 @@
 
 | Spår | Artikelvinkel | Status 8 nov 2026 |
 |---|---|---|
-| Hormuz och sjöfarten | Hormuzkrisen: USA slår ut M/V Huda – UAE räddar 22 från okänt fartyg | **Sammanhängande artikeltext uppdaterad 8 november kl. 08.08** i PR #3. Integrerar Huda, UKMTO Advisory 198-26 och WAM:s räddningsuppgift. Fartyget som UAE räddade är inte namngivet; koppling till Huda är obekräftad. PR #3 fortsatt draft, inte mergad eller LIVE; väntar på chefredaktörens uttryckliga godkännande. |
+| Hormuz och sjöfarten | Hormuzkrisen: USA slår ut M/V Huda – UAE räddar 22 från okänt fartyg | **Sammanhängande artikeltext uppdaterad 8 november kl. 08.15** i PR #3. Integrerar Huda, UKMTO Advisory 198-26 och WAM:s räddningsuppgift. ClassNK identifierar HUDA som IMO 9197088, St Kitts & Nevis, bulkfartyg; registrerad ägare NOUR ELHUDA SHIPPING CO. LLC, management company MIMI SHIPPING CO. S.A. AIS-data placerar HUDA 5 november kl. 22.47 UTC cirka 18 NM öster om Khor Fakkan, vilket gör den till stark kandidat i UKMTO 198-26 men inte formellt namngiven av UKMTO. UAE:s räddningsfartyg är fortfarande onamngivet; kopplingen till Huda är obekräftad. Öppna AIS-sammanfattningar visar Sohar som senaste hamnanlöp före positionen och styrker inte CENTCOM:s uppgift om ett iranskt hamnbesök omedelbart före angreppet. PR #3 fortsatt draft, inte mergad eller LIVE; väntar på chefredaktörens uttryckliga godkännande. |
 | Maktförskjutningen i USA:s kongress | Kongressen byter färg – men vem kontrollerar den tekniska makten? | Långt delutkast finns i PR #1; måste uppdateras med certifierade mandat, ledarskap, utskott och faktisk maktövergång. |
 | Palantirs kvartalsrapport och AI-infrastruktur | Palantir Q3: tillväxt, offentliga kontrakt och datacenterberoenden | Q3/SEC 10-Q-underlag finns; separat artikel behöver färdig ingress, fullständig text, primärkällor, oberoende källor, bildförslag, faktakontroll och öppna frågor. |
 | Svenska Gripen över Polen | Fyra timmar i polskt luftrum – vad gjorde den svenska insatsen? | Expressen-underlag 4 november och Försvarsmaktens bakgrund finns. Separat artikel ännu inte påbörjad; nästa nyhetsartikel efter att Hormuz är godkänd och publicerad/LIVE. Kräver polsk generalstabs originalpost, svensk Försvarsmaktskommentar och tydlig skillnad mellan patrull, incidentberedskap och stridskontakt. |
@@ -75,7 +75,7 @@
 - Ingen automatisk publicering. Varje artikel måste uttryckligen godkännas av chefredaktören och kontrolleras LIVE efter publicering innan nästa artikel påbörjas.
 
 
-## Redaktionsinventering – 8 november 2026, 08.08 Europe/Sofia
+## Redaktionsinventering – 8 november 2026, 08.15 Europe/Sofia
 
 PR #1 innehåller 26 äldre utkast och en täckningsmatris med 19 bevakningsspår. Filinventeringen visar att många utkast har lång brödtext, källor och en faktastatus, men flera saknar en uttrycklig ingress, bildförslag eller separat sektion för öppna frågor. De räknas därför som arbetsutkast/delutkast, inte som färdiga artiklar i godkännandekön.
 
