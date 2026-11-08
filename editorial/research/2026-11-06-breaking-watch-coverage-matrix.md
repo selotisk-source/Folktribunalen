@@ -456,7 +456,7 @@ Källor: [DataVita FAQ, uppdaterad november 2026](https://www.datavita.co.uk/lan
 **Publicerings-/avtalsdatum:** 3 november 2026.  
 **PRIMÄRKÄLLA:** Drax meddelar ett strategiskt partnerskap för att utveckla mer än 1 GW datacenterkapacitet vid Drax Power Station i North Yorkshire.  
 - Fas 1: upp till 100 MW, mål om kommersiell drift från första kvartalet 2028. Denna fas ska initialt använda el direkt från nätet.
-- Fas 2: ambition om ytterligare 500 MW 2028–2031, med tänkt bakom-mätaren-lösning och långsiktigt PPA, beroende av tillstånd och samtycken.
+- Fas 2: ambition om ytterligare 500 MW 2028–2031. Drax offentliga material specificerar ännu inte en bindande elförsörjningsmodell, PPA eller bakom-mätaren-lösning för senare faser; den uttryckligen beskrivna nätlösningen gäller fas 1.
 - Fas 3: ytterligare kapacitet efter 2031.
 - Brookfield uppskattar den potentiella totalinvesteringen, inklusive halvledare, till över 20 miljarder GBP; 2,5 miljarder GBP anges som en möjlig första fas.
 
@@ -465,7 +465,7 @@ Källor: [DataVita FAQ, uppdaterad november 2026](https://www.datavita.co.uk/lan
 **Källstatus:** PRIMÄRKÄLLA för partnerskapsavtalet och de annonserade målen; OBEROENDE BEKRÄFTELSE genom Reuters rapportering den 3 november. Beloppen är potentiella investeringar, inte bevis på att kapital har betalats ut eller att ett slutligt investeringsbeslut fattats.
 
 **Viktig avgränsning:** Drax uppger på projektsidan att ingen kund ännu är säkrad och att fas 1 kräver planerings-, myndighets- och nätgodkännanden, kommersiella avtal och slutliga investeringsbeslut. Den offentliga konsultationen för fas 1 är planerad till 19–20 november och stänger 3 december 2026.  
-Källor: [Drax RNS/pressmeddelande, 3 november](https://www.drax.com/news/strategic-partnership-for-gw-scale-data-centre/); [Drax projektsida och konsultation](https://www.drax.com/what-we-do/data-centre-at-drax-power-station/); [Reuters, 3 november](https://se.marketscreener.com/nyheter/brittiska-drax-tecknar-datacenteravtal-med-brookfield-och-radiant-ce785fd9df81f627).
+Källor: [Drax RNS/pressmeddelande, 3 november](https://www.drax.com/news/strategic-partnership-for-gw-scale-data-centre/); [Drax fas 1-projekt och konsultation](https://www.drax.com/what-we-do/data-centre-at-drax-power-station/); [Reuters-syndikering, 3 november](https://se.marketscreener.com/nyheter/brittiska-drax-tecknar-datacenteravtal-med-brookfield-och-radiant-ce785fd9df81f627).
 
 #### B – Europeisk opposition mot datacenterexpansion
 
@@ -589,7 +589,7 @@ Protokollet den 3 oktober om återförande av 48 kyrkliga föremål från Bulgar
 
 ### Redaktionella artikelvinklar att hålla i arbetsunderlaget
 
-1. **AI behöver el – men vem levererar den?** DataVitas fullt nätanslutna modell jämförs med Drax planerade bakom-mätaren-lösning. Inkludera nätägare, PPA, planering, vatten, samhällsnytta och faktisk finansiering.
+1. **AI behöver el – men vem levererar den?** DataVitas fullt nätanslutna modell jämförs med Drax uttryckligen nätanslutna fas 1 och den ännu ospecificerade elmodellen för senare faser. Inkludera nätägare, PPA, planering, vatten, samhällsnytta och faktisk finansiering.
 2. **När AI-leasing får en kreditgarant:** TeraWulf, Anthropic och Google – kontrakterad hyra, villkorad backstop och vem som tar risken om kunden inte kan betala.
 3. **Urberg, gruvavfall och slutförvar:** Finlands CRMA-genomförande kopplat till GTK:s datauppdrag och Posivas drifttillstånd, med tydlig åtskillnad mellan mineralpotential, återvinning och kärnavfall.
 4. **Storsjö kapell: ägande, jakt och lokala nyttjanderätter:** separata fastighetsförvärv, jaktarrenden, allemansrätt, fiske, renskötsel och vad bolaget faktiskt har lovat.
