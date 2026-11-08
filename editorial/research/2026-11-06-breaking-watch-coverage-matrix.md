@@ -656,7 +656,7 @@ Protokollet den 3 oktober om återförande av 48 kyrkliga föremål från Bulgar
 - Ingen ny separat artikel har öppnats eftersom Hormuz fortfarande är det aktiva granskningsärendet. EdgeConneX, CRMA/Onkalo och Palantirs Q3 lämnas som dokumenterade artikelvinklar för senare behandling efter att den aktiva artikeln fått sitt redaktionella beslut.
 
 
-### Tillägg 8 november 2026 kl. 06.40 Sofia – UAE räddar 22 sjömän
+### Tillägg 8 november 2026 kl. 06.23 Sofia – UAE räddar 22 sjömän
 
 UAE National Guard uppgav, enligt Gulf News och Times of Oman 8 nov, att 22 personer av arabiska nationaliteter räddats från ett branddrabbat lastfartyg i Omanbukten och var i stabilt tillstånd. Fartyget namngavs inte. Tid, geografisk uppgift och fartygstyp gör en koppling till M/V Huda/UKMTO Advisory 198-26 möjlig, men ingen källa i denna kontroll identifierar det räddade fartyget som Huda. Uppgiften ska därför behandlas som en separat myndighetsuppgift med **OBEKRÄFTAD IDENTITETSKOPPLING**, inte som bekräftad besättningsstatus för Huda och inte som en ny separat incident förrän fartygsidentiteten är klar.
 
