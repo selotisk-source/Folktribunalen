@@ -147,3 +147,66 @@ Varje porträtt ska ha biografiska primärkällor, historisk kontext och autenti
 3. Finland: kontrollera Finlex-publiceringen av lagändringen och jämför RAKKA:s faktiska fält med CRMA artikel 27(4); följ operatörsstudierna fram till 24 november.
 4. Israel: kontrollera om Eisenkot formellt får uppdraget kl. 17.00 och följ därefter koalitionsavtal.
 5. USA:s senat: kontrollera cloture-omröstningen om H.R. 2347 den 9 november kl. 23.30 Sofia.
+
+
+## Ny cykel 8 november 2026 kl. 15.09 Europe/Sofia – A–S och driftskontroll
+
+### Betydande delta sedan 14.04
+
+- **A – Palantir/NHS:** Utskottets protokoll från 4 november innehåller en viktig avtalsnyans. I fråga 235 beskriver Ben Coleman avtalet som löpande till slutet av mars och säger “It is not a break clause.” Detta är ledamotens beskrivning i förhöret, inte ersättning för signerad kontraktstext. Yvette Cooper säger att avtalsöversynen pågår. I fråga 245 säger Sir Jim Mackey att NHS ska kräva att Palantir delar och klarerar nyttopåståenden före publicering, men att avtalsbestämmelsen kan vara svår att genomdriva. Medierapporteringen 6 november om tvåårig förlängning är inte ett offentligt regeringsbeslut. PR #7 kompletterad. Källa: https://committees.parliament.uk/oralevidence/18242/html/
+- **B/F – Anthropic/OnePWR:** Piper Sandlers officiella transaktionspost bekräftar försäljning av OnePWR:s kraftgenereringsplattform till ett onamngivet frontier-AI-laboratorium för cirka 3,4 md USD. FT identifierar köparen som Anthropic med hänvisning till en person med insyn. Reuters återger uppgiften 8 november kl. 12.54 UTC men säger uttryckligen att Reuters inte kunde verifiera den; Anthropic och OnePWR svarade inte på frågor. Köparidentiteten är därför inte offentligt transaktionsbekräftad. PR #29:s rubrik och kanoniska fil har ändrats till en attribuerad uppgift; 1,74 GW är kontrakterad utrustning/kapacitet, inte installerad eller driftsatt elproduktion. Källor: https://www.pipersandler.com/investment-banking-transactions/onepwr-solutions-20260901 · https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0 · https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/
+- **G/P – Israel:** Presidentens kansli meddelade 7 november att Isaac Herzog avser ge Gadi Eisenkot uppdraget att bilda regering 8 november kl. 17.00. Vid kontrollen kl. 15.09 Sofia hade den formella ceremonin ännu inte ägt rum. AP och Guardian beskriver 48 oppositionsmandat, 53 för Netanyahus block och 19 arabiska partimandat samt koalitionshindren. Ingen ny regering är bildad vid denna kontroll. Källor: https://www.president.gov.il/en/president-herzog-concludes-consultations-and-announces-he-will-task-gadi-eisenkot-with-forming-a-government/ · https://apnews.com/article/bec07675825bee5895315e2ea1cb5751 · https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government
+- **K – Cladonia/Storsjö:** Oberoende Nyheter publicerade 7 november en lokal uppföljning om jaktlag som uppges ha förlorat tillgång till tidigare jaktmarker, bland annat ett jaktlags tidigare cirka 3 500 hektar. Artikeln återger även uppgifter om vinteruppehåll i avverkning, ny skogsbruksplan och lokalt underhåll av stugor/vägar. Detta är en enskild sekundär rapport, inte jakträttsavtal, fastighetsutdrag eller myndighetsbeslut. PR #4 kompletterad med tydlig källmarkering och primärkontroller. Källa: https://oberoendenyheter.se/nyheter/alex-karps-skogskop-stoppar-algjakt-for-lokala-jaktlag
+- **O – M/V Huda:** Reuters och AP återger CENTCOM:s uppgift att amerikanska styrkor den 7 november slog ut det St Kitts- och Nevis-flaggade lastfartyget M/V Huda i Omanbukten efter upprepade varningar och ett påstått försök att bryta blockaden. Detta bekräftar att CENTCOM lämnat uppgiften, inte en oberoende teknisk skadeundersökning. Kopplingen till UKMTO 198-26 är fortsatt en redaktionell matchning mot register/AIS, inte UKMTO:s egen namngivning. Reuters: https://www.reuters.com/world/middle-east/us-military-says-it-disabled-cargo-vessel-gulf-oman-2026-11-07/
+- **O – UKMTO 199/200 och WAM:** UKMTO Warning 199-26 gäller enligt den återgivna varningen en tankerbrand cirka 8 nautiska mil nordväst om Khasab 7 november kl. 19.20 UTC och evakuering av besättningen. UKMTO:s officiella X-post identifierad men direkt hämtning gav 403; AP bekräftar separat att en brittisk maritim myndighet rapporterat tankerbrand nära Oman. WAM:s uppgift om 22 räddade personer avser ett onamngivet lastfartyg och är inte matchad till 199-26. Warning 200-26 återges i sekundär transkription som en separat tanker träffad av okänt föremål; direkt UKMTO-PDF och fartygsidentitet saknas. 200-26 hålls på lägre källsäkerhetsnivå. X-länkar: https://x.com/UK_MTO/status/2119357459471237504 · https://x.com/UK_MTO/status/2119379751207051560
+- **O – Riyadh/Aramco:** Saudiarabiens energiministerium uppger att splitter från ett försök till angrepp 8 november orsakade begränsad skada på en administrativ Aramco-byggnad i Riyadh och inga personskador. Reuters reporter såg krossade fönster på flera våningsplan. Koalitionens uppgift om robotinterceptioner och attribuering till Houthierna är en partsuppgift; Houthierna hade inte tagit på sig händelsen vid Reuters publicering. Ingen skada på oljeproduktion, raffinering eller export är belagd. Källor: https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/ · https://apnews.com/article/090d96e25872f5c63e105b9dd3e5dc60
+
+### Täckningsmatris – A–S
+
+| Spår | Resultat i denna cykel | Nästa kontrollpunkt |
+|---|---|---|
+| **A Palantir** | Ny avtalsnyans i parlamentets protokoll; signerad kontraktstext saknas. | Avtal, options-/uppsägningsschema, exitplan och skriftligt svar om nyttopåståenden. |
+| **B AI-datacenter** | Anthropic/OnePWR har Reuters reservation; DataVita/Drax oförändrat sedan 14.04. | Köparbekräftelse, Caterpillar-orderlista, nätanslutning, miljötillstånd, driftsättning. |
+| **C Synkronicitet** | Ingen ny reproducerbar primärstudie som ändrar metodläget. | Preregistrerade studier, öppna data, reproduktioner. |
+| **D Sofia** | Ingen ny primär arkeologisk handling; Samuil-attributionen är fortsatt forskningsfråga. | Antropologisk rapport, proveniens och arkeologiska beslutshandlingar. |
+| **E Mineraler** | CRMA/GTK-tidslinjen oförändrad sedan 14.04. | Tidigare finsk gruvavfallsdatabas; operatörsstudier senast 24 november. |
+| **F NVIDIA/finansiering** | Ingen ny SEC-rapport; Anthropic-affärens köparidentitet kvalificerad. | Nscale-transaktion omkring 16 november; NVIDIA-resultat 17 november. |
+| **G Libanon/regional geopolitik** | Eisenkot aviserad för formell mandatgivning kl. 17.00; ännu inte skett kl. 15.09. UNIFIL:s slutmandat 31 december 2026 kvarstår. | Formell mandatgivning, koalitionsförhandlingar, UNIFIL:s genomförandeplan, lokala civila/kyrkliga belägg. |
+| **H Kyrkorna** | Ingen ny byggnads-, ägar- eller restaureringshandling. | Kommunala byggnadsarkiv och församlingarnas restaureringsbeslut. |
+| **I Fennoskandien** | Ingen ny geologisk, skoglig eller hästhistorisk primärhandling. | SGU/GTK, skogsbruksplaner, fornminnesdata och hästavelns arkiv. |
+| **J Storsjöodjuret** | Ingen ny oberoende observation eller vetenskaplig evidens. | Historiska vittnesmål, hydrologiska data och Thiels fullständiga primärkällor. |
+| **K Cladonia/Storsjö** | Ny lokal rapportering om jaktlag, inga nya fastighets-/jakträttshandlingar. | Lantmäteriet, förvärvstillstånd, uppsägningsbrev, jaktupplåtelser, skogsbruksplan. |
+| **L Skaga kapell** | Ingen ny restaurerings- eller arkivhandling. | Kyrkoarkiv, RAÄ, länsstyrelsebeslut och byggnadsarkeologi. |
+| **M Athos** | MOmA-projektet med uppskattningsvis 30 000 osmanska dokument är senaste tydliga offentliga projektuppgift. | Katalogposter, digitaliseringsmetod, HTR-precision och proveniens. |
+| **N Skrift till Storebror** | IMY:s uppdrag sedan 1 juli 2026 och lag 2026:806/807 kvarstår; ingen ny användningsanmälan identifierad. | IMY:s första anmälningar/årsrapport och domstols-/tillståndsbeslut. |
+| **O Hormuz** | Huda/CENTCOM, UKMTO 199/200, WAM:s oidentifierade räddning och Riyadh/Aramco hålls som separata händelser. | IMO/UKMTO originaldokument, fartygs-IMO, flagg, rederi/P&I och Aramcos driftbesked. |
+| **P USA:s kongress** | Ingen ny omröstning ännu. Cloture-vote om motion to proceed till H.R.2347 schemalagd 9 november kl. 17.30 ET / 23.30 Sofia. | Officiellt resultat och journal; skilj cloture från slutligt antagande. |
+| **Q Gripen/säkerhet** | Saab-beskeden 3 och 6 november oförändrade; ingen ny operativ uppgift. | FMV/Saab-testprotokoll på offentlig nivå, leveransbesked, polsk generalstabs primärpost. |
+| **R Energi/större bolag** | Vinnova/RefinyX och Northvolt-återbruk oförändrade; inga nya utfall. | Pilotresultat, tillstånd, utbetalning, faktisk materialkvalitet/produktion. |
+| **S Urbergsskölden** | CRMA, RAKKA, GTK-lagändring och Onkalo oförändrade sedan 14.04. | Finlex-publicering, STUK:s förhandsinspektion, 24 november-fristen, offentlig civilinfrastrukturdata. |
+
+### Redaktionella arbetsobjekt
+
+- **PR #7 – Palantir/NHS:** kompletterad med utskottsprotokollets avtalsnyans och skillnaden mellan pågående översyn, medierapport om förlängning och faktisk kontraktstext.
+- **PR #4 – Storsjö/Cladonia:** kompletterad med 7 november-rapporten om jaktlag, märkt som sekundär rapportering med primärkontroller kvar.
+- **PR #29 – Anthropic/OnePWR:** kanonisk artikeltext uppdaterad med Reuters reservation; rubriken ändrad så köparidentiteten inte framställs som slutligt bekräftad.
+- **PR #3 – Hormuz:** fortsatt draft. Den senare versionen innehåller 199/200 och Riyadh/Aramco, men har inte godkänts eller mergats.
+- **PR #16 – täckningsmatris:** fortsatt draft; denna fil är arbetslogg, inte webbplatsens databasbaserade kö.
+
+### Publicerings- och driftsstatus kl. 15.09
+
+- **Render statisk webbplats folktribunalen:** senaste deployment dep-dbo6g9rrjlhs73ai5500, commit 8e46f91e643be55cce6afed9ed6d05d5c9aae707, status **LIVE**, avslutad 8 november kl. 12.16.54 UTC.
+- Den deployade src/app.js innehåller Hormuzkortet, artikelkroppen och etiketten PUBLICERAD 8 NOVEMBER 2026. Den innehåller Huda och Task Force Iron Gate samt den tidigare saudiska varningen, men inte de senare UKMTO 199/200-uppgifterna eller skadan på Aramcos administrativa byggnad i Riyadh. Dessa finns i PR #3:s senare draft.
+- **UI-avvikelse:** startsidans statiska HTML har fortfarande texten “FÖRSTA UTGÅVAN UNDER ARBETE/PRODUKTION” samtidigt som Hormuzkortet i src/app.js är märkt publicerat. Detta bör harmoniseras i en separat webbändring.
+- **Render editorial-service:** senaste deployment är dep-dblq3nafngtc73c0l87g, commit 6a835783553565f239864a9da7160d9f79f692b2, från 4 november. Ingen ny deployment finns i tjänstens deploylista.
+- **Render Postgres:** databasen folktribunalen-db är available, men ipAllowList är tom. En read-only fråga misslyckades med felmeddelandet: “This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it.” Databasens köstatus kan därför inte läsas.
+- **Publik visning:** webbförfrågan till https://folktribunalen.onrender.com/ misslyckades i denna miljö med DNS-felet “Could not resolve host”. Render-status och GitHub-artefakt är kontrollerade; separat visuell webbläsarkontroll är inte genomförd.
+
+### Nästa kontrollpunkter
+
+1. Kl. 17.00 Sofia: kontrollera presidentens formella mandatgivning till Eisenkot.
+2. Identifiera UKMTO 199/200-fartygen via IMO/flagga/rederi och håll WAM:s 22 räddade separat tills fartygsidentitet bekräftats.
+3. Hämta kontraktstexten för NHS FDP och skriftligt svar om Palantirs effektpåståenden.
+4. Begär köparbekräftelse och tillgångs-/betalningsunderlag för OnePWR-affären.
+5. Kontrollera senatens cloture-resultat den 9 november kl. 23.30 Sofia.
+6. Fortsätt primärkontroll av Cladonias lagfarter, jakträttsavtal och skogsbruksplan.
