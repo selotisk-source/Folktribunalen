@@ -1,19 +1,19 @@
-# ANTHROPIC TAR ÖVER ORDER PÅ 1,7 GW GASKRAFT – AI-INDUSTRINS NYA ENERGIKEDJA
+# ANTHROPIC PEKAS UT SOM KÖPARE I 1,7 GW-AFFÄR – REUTERS KAN INTE VERIFIERA UPPGIFTEN
 
 **Artikeltyp:** Infrastruktur · energi · AI-finansiering  
 **Utkastdatum:** 8 november 2026  
-**Faktaläge:** 8 november 2026, 14.04 Europe/Sofia  
+**Faktaläge:** 8 november 2026, 15.09 Europe/Sofia  
 **Publiceringsstatus:** Granskningsutkast – ej godkänt, ej publicerat
 
 ## Ingress
 
-Financial Times identifierar den 8 november Anthropic som köpare i en affär värd omkring 3,4 miljarder dollar som gäller generatororder på cirka 1,7 GW från OnePWR. Caterpillar är den uppgivna tillverkaren. OnePWR:s finansiella rådgivare Piper Sandler hade tidigare beskrivit en försäljning för cirka 3,39 miljarder dollar kontant av en kraftgenereringsplattform med 1,74 GW kontrakterad utrustning och tillhörande engineering, procurement and construction-kapacitet, men utan att namnge köparen. Affären pekar mot att AI-bolag försöker säkra egen elproduktion när nätanslutning och kraftförsörjning blivit strategiska begränsningar. Den visar däremot inte att 1,7 GW redan är installerad eller i drift, och de offentliga uppgifterna räcker ännu inte för att fastställa finansiering, äganderätt, säkerheter eller vem som bär utrustningens restvärdesrisk.
+Financial Times rapporterade den 8 november att Anthropic är köpare i en affär värd omkring 3,4 miljarder dollar som gäller generatororder på cirka 1,7 GW från OnePWR; Caterpillar anges som tillverkare. Reuters återgav uppgiften samma dag men skrev uttryckligen att Reuters inte kunde verifiera den, och att Anthropic och OnePWR inte svarade på frågor. Köparidentiteten ska därför behandlas som välgrundad men ännu obekräftad med offentlig transaktionshandling. OnePWR:s finansiella rådgivare Piper Sandler hade tidigare beskrivit en försäljning för cirka 3,39 miljarder dollar kontant av en kraftgenereringsplattform med 1,74 GW kontrakterad utrustning och tillhörande engineering, procurement and construction-kapacitet, men utan att namnge köparen. Affären pekar mot att AI-bolag försöker säkra egen elproduktion när nätanslutning och kraftförsörjning blivit strategiska begränsningar. Den visar däremot inte att 1,7 GW redan är installerad eller i drift, och de offentliga uppgifterna räcker ännu inte för att fastställa finansiering, äganderätt, säkerheter eller vem som bär utrustningens restvärdesrisk.
 
 ## Vad som faktiskt är känt
 
 **PRIMÄRKÄLLA – säljarens rådgivare:** Piper Sandler har beskrivit en genomförd försäljning av OnePWR:s kraftgenereringsplattform till ett ännu inte namngivet frontier-AI-laboratorium. Den uppgivna ersättningen är cirka 3,39 miljarder dollar kontant. Paketet omfattar omkring 1,74 GW kontrakterad kraftgenereringsutrustning samt engineering-, procurement- och construction-kapacitet. Rådgivarens offentliga formulering namnger inte köparen och ger inte en fullständig förteckning över de överförda tillgångarna eller betalningsvillkoren.
 
-**OBEROENDE BEKRÄFTELSE – Financial Times, 8 november:** FT identifierar Anthropic som köpare och beskriver affären som ett åtagande på cirka 3,4 miljarder dollar för 1,7 GW Caterpillar-gasgeneratorer som ursprungligen beställts av OnePWR. Enligt FT tar Anthropic över generatorbeställningar och viss teknisk/byggrelaterad kapacitet, men förvärvar inte OnePWR som bolag eller dess personal. Anthropic och Caterpillar hade inte publicerat någon egen transaktionsredogörelse i de öppna källor som kontrollerats.
+**OBEROENDE RAPPORTERING – Financial Times, 8 november:** FT identifierar Anthropic som köpare med hänvisning till en person med insyn. Reuters återger FT:s uppgift men skriver att Reuters inte kunde verifiera den; Anthropic och OnePWR svarade inte på Reuters frågor. Det finns därför ännu ingen offentlig köparbekräftelse från Anthropic eller OnePWR och ingen transaktionshandling som namnger Anthropic. FT uppger att Anthropic tar över generatorbeställningar och viss teknisk/byggrelaterad kapacitet, men inte köper OnePWR som bolag eller dess personal.
 
 **PRIMÄRKÄLLA – Caterpillar/OnePWR/Vero3, mars 2026:** Parterna offentliggjorde ett strategiskt samarbete om kraftproduktion för datacenter. Det beskrev en första anläggning på 500 MW och en modell där OnePWR skulle utveckla, äga och driva kraftproduktion med Caterpillar-utrustning. Den tidigare kapaciteten på 500 MW får inte blandas ihop med den senare uppgiften om 1,7–1,74 GW i generatororder.
 
@@ -21,13 +21,13 @@ Financial Times identifierar den 8 november Anthropic som köpare i en affär v�
 
 - **Mars 2026:** OnePWR, Caterpillar och Vero3 offentliggör ett samarbete om gasbaserad kraftproduktion för datacenter och en första 500 MW-anläggning.
 - **September 2026:** Piper Sandler beskriver en genomförd försäljning av OnePWR:s kraftgenereringsplattform för cirka 3,39 miljarder dollar kontant till ett onamngivet frontier-AI-laboratorium. Exakt stängningsdag och tillgångslista behöver fastställas.
-- **8 november 2026:** Financial Times identifierar Anthropic som köpare och beskriver omfattningen som cirka 1,7 GW Caterpillar-generatorer för omkring 3,4 miljarder dollar.
+- **8 november 2026:** Financial Times pekar ut Anthropic som köpare i affären. Reuters återger uppgiften men kan inte själv verifiera köparidentiteten.
 
 ## Finansieringskedjan – vad som är belagt och vad som saknas
 
 **Belagd struktur på övergripande nivå:**
 
-1. **Köpare:** Anthropic, enligt Financial Times.
+1. **Köpare:** Anthropic enligt FT:s rapportering; köparidentiteten saknar ännu offentlig bekräftelse och Reuters kunde inte verifiera uppgiften.
 2. **Säljare/plattform:** OnePWR:s kraftgenereringsplattform och kontrakterade generatororder.
 3. **Tillverkare:** Caterpillar, enligt FT:s beskrivning av utrustningen och det tidigare samarbetet.
 4. **Transaktionsrådgivare:** Piper Sandler, som offentligt beskrivit försäljningen och kontantvärdet utan att namnge köparen.
@@ -62,15 +62,16 @@ Det centrala är skillnaden mellan **beställd utrustning**, **installerad kapac
 
 - **PRIMÄRKÄLLA:** Piper Sandlers offentliga uppgift om försäljningen för cirka 3,39 miljarder dollar kontant och 1,74 GW kontrakterad utrustning. Köparen namnges inte i den offentliga formuleringen.
 - **PRIMÄRKÄLLA:** Caterpillars och OnePWR:s tidigare samarbetsbesked om gasbaserad datacenterkraft och en första 500 MW-anläggning.
-- **OBEROENDE BEKRÄFTELSE:** Financial Times identifierar Anthropic som köpare och beskriver affärens omfattning och utrustning.
+- **OBEROENDE RAPPORTERING / EJ OBEROENDE BEKRÄFTAD:** Financial Times identifierar Anthropic med hänvisning till en person med insyn. Reuters återger FT:s uppgift den 8 november kl. 12.54 UTC men skriver uttryckligen att Reuters inte kunde verifiera den; Anthropic och OnePWR svarade inte på Reuters frågor. Köparidentiteten är därför ännu inte bekräftad genom offentlig transaktionshandling eller bolagsuttalande.
 - **OBEKRÄFTAT:** fullständiga transaktionsdokument, tillgångslista, betalningsplan, juridisk ägare, finansiering, säkerheter, gasavtal, projektplatser och driftsättningsschema.
 - **HYPOTES:** affären är ett strategiskt steg mot mer egenkontrollerad kraftförsörjning för Anthropic. Det är en rimlig tolkning av tillgångsköpet, inte ett bevis för att varje generator ska driva ett visst namngivet datacenter.
 
 ## Primärkällor och kompletterande källor
 
-- Piper Sandler, offentlig rådgivaruppgift om försäljningen av OnePWR:s kraftgenereringsplattform, cirka 3,39 miljarder dollar kontant och 1,74 GW kontrakterad utrustning. Köparen namnges inte i den offentliga formuleringen.
+- Piper Sandler, officiell transaktionspost om försäljningen av OnePWR:s kraftgenereringsplattform, cirka 3,4 miljarder dollar och köpare beskriven som ett onamngivet frontier-AI-laboratorium: https://www.pipersandler.com/investment-banking-transactions/onepwr-solutions-20260901
 - Caterpillar, OnePWR och Vero3, strategiskt samarbete om kraftproduktion för datacenter, mars 2026: https://www.cat.com/en_IN/news/engine-press-releases/caterpillar-onepwr-solutions-and-vero3-announce-strategic-collaboration.html
 - Financial Times, 8 november 2026, rapportering som identifierar Anthropic som köpare: https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0
+- Reuters, 8 november 2026 kl. 12.54 UTC, återger FT-uppgiften men anger att Reuters inte kunde verifiera den och att Anthropic och OnePWR inte svarade: https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/
 
 ## Redaktionell nästa kontroll
 
