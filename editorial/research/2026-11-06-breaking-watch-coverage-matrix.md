@@ -489,14 +489,14 @@ Källor: [SEC Form 8-K, 4 november](https://www.sec.gov/Archives/edgar/data/1083
 #### E / S – Finlands nationella genomförande av Critical Raw Materials Act
 
 **Beslutsdatum:** 6 november 2026.  
-**PRIMÄRKÄLLA:** presidenten godkände lagpaketet med anledning av HE 133/2026 vp och bestämde att lagarna ska träda i kraft den 15 november 2026. Riksdagens ekonomiutskottsbetänkande beskriver bland annat:
+**PRIMÄRKÄLLA:** riksdagens behandling av HE 133/2026 vp är avslutad. Presidentens beslutsregister för den 6 november innehåller lagärendet och statsrådets beslutsuppgift anger den 15 november 2026 som ikraftträdandedag. Den fullständiga besluts-/författningstexten och slutligt författningsnummer har inte hämtats direkt i denna kontroll; datumet ska därför följas mot Finlex innan rättslig effekt beskrivs som operativ. Riksdagens ekonomiutskottsbetänkande beskriver bland annat:
 - GTK får ansvar för det nationella prospekteringsprogrammet och databasen över nedlagda utvinningsavfallsområden.
 - Aktörer som omfattas av reglerna om gruvavfall ska göra en preliminär ekonomisk bedömning av möjligheten att återvinna kritiska råvaror ur avfallet, om inte undantag kan visas.
 - Marknadskontroll av vissa produkter med permanentmagneter och krav på nationella program/rapportering för återvinning fördelas mellan myndigheter.
 
 **Betydelse:** detta är ett konkret steg från EU-förordning till finsk myndighetsstruktur och datainfrastruktur. Det skapar inte i sig en ny gruva, mineralreserv eller koncession.  
 **Nästa kontroll:** publicerad slutlig lagtext, GTK:s genomförandeplan, tidsplan för databasen och praktisk vägledning till gruvavfallsoperatörer efter ikraftträdandet.  
-Källor: [Statsrådets beslut EV 146/2026](https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389); [Riksdagens ekonomiutskottsbetänkande TaVM 26/2026](https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732).
+Källor: [Statsrådets beslutsregister, 6 november 2026](https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389); [Riksdagens ekonomiutskottsbetänkande TaVM 26/2026](https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732).
 
 #### S / R – Posiva får drifttillstånd för Onkalo
 
