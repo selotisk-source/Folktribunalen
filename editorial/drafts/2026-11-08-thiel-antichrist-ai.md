@@ -58,6 +58,8 @@ Det är ett argument för entreprenöriell handlingskraft. Men det lämnar flera
 
 Thiels roll som medgrundare av Palantir gör frågorna relevanta, men intervjun bevisar inte att hans teologiska resonemang styr Palantirs produkter eller enskilda kontrakt. Den kopplingen måste undersökas genom separata bolagsdokument, produktbeskrivningar, upphandlingar och faktisk användning.
 
+Palantirs Q3-rapport för kvartalet till 30 september 2026 ger också en konkret bolagsstyrningsuppgift: bolaget beskriver en Class F-struktur och en röstningsstiftelse etablerad av Stephen Cohen, Alexander Karp och Peter Thiel. Enligt 10-Q kan strukturen, så länge ett ägartröskelvillkor uppfylls, ge grundarna kollektiv kontroll över upp till 49,999999 procent av rösterna. Det visar en formell koncentration av röstmakt, men säger inte att Thiel ensam kontrollerar bolaget eller att hans teologiska resonemang styr Palantirs operativa beslut. Källa: [Palantir Form 10-Q, 2026-09-30](https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm).
+
 ## Vad säger den kristna källtraditionen?
 
 Här krävs en viktig källskillnad.
