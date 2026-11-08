@@ -98,3 +98,52 @@ Varje porträtt ska ha biografiska primärkällor, historisk kontext och autenti
 - **Gripen över Polen:** fortsatt nästa artikel efter Hormuz. Den polska försvarsministeriets sida 30 september bekräftar att Gripen skulle börja operera i Nato Air Policing över Polen från oktober: https://www.gov.pl/web/obrona-narodowa/szwedzkie-mysliwce-gripen-wzmocnia-ochrone-polskiego-nieba. Den specifika flygningen 3 november kräver fortsatt kontroll mot polska generalstabens originalpost och Försvarsmaktens uppgifter. Denna artikel har inte påbörjats eftersom Hormuz ännu inte är godkänd och LIVE-kontrollerad.
 - **Render / webbkö:** Renderstatus kunde inte uppdateras i denna körning: Render-verktygen svarade att ett workspace måste vara valt innan service-, deployment- och databasfrågor kan köras. Ingen workspace valdes i den icke-interaktiva körningen. Därför görs inget nytt påstående om aktuell deployment eller databasanslutning. Senast dokumenterade status i tidigare arbetslogg: gammal deployment från 4 november, tom IP-allowlist för Postgres, DATABASE_URL-mappning ej bekräftad; ingen webbkö eller LIVE-artikel bekräftad.
 - **Nästa ordning:** Hormuz förblir enda aktiva artikelärende. Efter uttryckligt godkännande, publicering via webbplatsen och faktisk LIVE-kontroll blir Gripen över Polen nästa artikel. Inga andra artiklar startas före den spärren.
+
+
+## 9. Breaking Watch – arbetslogg 8 november 2026 kl. 14.04 Europe/Sofia
+
+### Täckningsmatris A–S
+
+| Spår | Senaste kontroll / utfall | Status och nästa kontrollpunkt |
+|---|---|---|
+| **A. Palantir och offentlig makt** | Q3-10-Q och brittiska polis-/NHS-spår kvarstår. BCH-award publicerad 6 november; uppgivet tilldelningsdatum 9 oktober, femårigt avtal. Officiell Find a Tender-sida ger 403 i denna hämtning. | Ingen ny kontraktsförändring i denna cykel. Hämta originalaward och DPIA/upphandlingsbilagor när åtkomst fungerar. |
+| **B. Europas AI-datacenter** | DataVita beskriver nu den aktuella DV4-designen som nätansluten; direkt förnybar anslutning anges som framtida möjlighet. Planeringsärende 26/01110/PPP har en energibilaga daterad 31 augusti 2026; PDF-hämtningen time-out. NWF:s garanti och CoreWeave-offtake är tidigare kända. | Skilj politisk vision om 1 GW förnybar direktanslutning från faktisk planeringsansökan och nätanslutning. Begär energibilaga, anslutningsavtal och PPA. |
+| **C. Synkronicitetsprotokollet** | Ingen ny reproducerbar studie eller öppet dataset som passerar nyhetströskeln identifierat. | Fortsätt med metodkritik, preregistrering och alternativa förklaringar; inga kausalpåståenden från tidsmässiga sammanträffanden. |
+| **D. Sofia – staden under staden** | Ingen ny arkeologisk rapport eller myndighetsbeslut om Sankt Sofia/Serdica. Samuils ceremoniella återföring och sarkofagfrågan är fortsatt senaste större dokumenterade händelse. | Följ musei-/ministeriedokument, föremålsproveniens och eventuell ny katalogisering; skilj gravkontext från ceremoniell förvaring. |
+| **E. Strategiska råvaror** | SGU publicerade 5 november en detritisk zirkonstudie för metasedimentära bergarter i Västernorrland. Det är geologisk proveniensdata, inte en ny resurs eller reserv. | Knyt till regional geologisk modell; sök peer-review/oberoende replikation och eventuella senare prospekteringsbeslut. |
+| **F. NVIDIA och AI-finansiering** | Financial Times identifierade 8 november Anthropic som köpare i en affär om cirka 1,7 GW Caterpillar-gasgeneratororder för cirka 3,4 md USD. Piper Sandler hade tidigare uppgett 3,39 md USD kontant och 1,74 GW kontrakterad utrustning utan att namnge köparen. | PR #29 öppnad som draft. Fastställ tillgångsöverföring, betalningsplan, projektbolag, finansiering, säkerheter, gasavtal och restvärdesrisk. 1,7 GW är beställd utrustning, inte verifierad driftkapacitet. |
+| **G. Libanon och regional geopolitik** | Ingen ny verifierad kyrkoskada, beslagshändelse eller restaureringsorder identifierad. Israels president aviserar att Gadi Eisenkot ska få regeringsuppdrag 8 november kl. 17.00; regeringen är ännu inte bildad. | Följ den formella mandatgivningen och koalitionsavtalet; dra inga slutsatser om Libanonpolitik innan regeringsprogrammet är offentligt. |
+| **H. Kyrkor som överlevt imperierna** | Ingen ny offentlig restaurerings-, ägande- eller bygglovshandling för Wiesbaden, Warszawa, Prag, Sofia eller Varna identifierad. | Fortsätt separat stadsvis kontroll mot kyrkoarkiv och kulturarvsregister. |
+| **I. Fennoskandien – urberg, skog och häst** | SGU:s zirkondata i Västernorrland är den nya geologiska datapunkten. Ingen ny dokumenterad ändring i skogsbruk, hästavel eller markrättigheter passerade tröskeln. | Korskoppla geologi med historiska kartor, markanvändning och samiska rättigheter utan att anta obrutna traditioner. |
+| **J. Storsjöodjuret** | Ingen ny oberoende observation, hydrologisk studie eller runologisk publikation identifierad. | Fortsätt hålla folklore, geologi och teologisk jämförelse åtskilda. |
+| **K. Cladonia Skog / Storsjö kapell** | Ingen ny offentligt indexerad lagfart eller bolagshändelse identifierad i denna cykel. Direkt fastighetsutdrag från Lantmäteriet har inte hämtats. | Hämta fastighetsbeteckningar, lagfarter, servitut och avverkningsanmälningar innan ytterligare ägarpåståenden görs. |
+| **L. Skaga kapell** | Ingen ny restaureringsorder, finansieringshandling eller arkivpublikation identifierad. | Fortsätt med RAÄ, länsstyrelse och kyrkoarkiv; håll legend och daterad byggnadsdokumentation åtskilda. |
+| **M. Böckernas väg till Athos** | Ingen ny offentlig katalogisering, digitalisering eller verifierad donation identifierad i denna cykel. | Fortsätt proveniensspårning mellan Sverige, Bulgarien, Grekland och Athos. |
+| **N. Från skrift till storebror** | Ingen ny lag, dom eller upphandling som ändrar rättsläget identifierad. | Följ genomförande och tillsyn, inte bara lagförslag eller produktlanseringar. |
+| **O. Hormuz och sjöfarten** | UKMTO Warning 199-26: tankerbrand 7 november 19.20 UTC, cirka 8 nm NW Khasab, besättningen evakuerad. WAM uppger att 22 personer räddats från ett branddrabbat lastfartyg; AP säger att samma fartyg inte är fastställt. UKMTO Warning 200-26: separat utgående tanker träffad av okänt föremål; besättning säker, ingen miljöpåverkan rapporterad. | PR #3 uppdaterad med båda varningarna, räddningsuppgiften och tydliga identitets-/attribueringsluckor. Identifiera fartyg, IMO, flagg, rederi och P&I. |
+| **P. USA:s kongress och institutionell makt** | Senatens schema anger cloture-vote på motion to proceed till H.R. 2347 den 9 november kl. 17.30 ET (23.30 Sofia). Det är en proceduromröstning, inte slutligt antagande av lag. | Följ utfallet och den faktiska lagtexten; skilj lagförslag, motion to proceed och antagen lag. |
+| **Q. Gripen och Europas säkerhet** | Saab uppgav 3 november att egna AI-agenter flugits i Gripen E-försök. Saab offentliggjorde 6 november ett avtal med Naval Group värt cirka 2 md SEK för vapenkontrollsystem och sensorer till fyra svenska FDI-fregatter, leveranser 2027–2034. | AI-testet är partsuppgift utan publicerad oberoende testdata; skilj test från operativ förmåga. Fregattavtalet är ett Saab–Naval Group-avtal, inte en direkt beställning från Försvarsmakten. |
+| **R. Strategisk energi och större bolag** | Saudiarabiens energiministerium uppger att splitter orsakat begränsad skada på en administrativ Aramco-byggnad i Riyadh; inga personskador. Ingen skada på oljeproduktion eller export är belagd. Spåret korskopplas till Anthropic och DataVita. | Följ Aramcos drift-/säkerhetsbesked, försäkring och eventuella produktionspåverkningar; skilj kontorsskada från energianläggning. |
+| **S. Urbergsskölden – industri och infrastruktur** | Finland: GTK:s utforskningsprogram lämnades 12 september 2025 mot EU-frist 24 maj 2025; RAKKA:s offentliga gruvavfallslager lanserades 17 juni 2026 mot korrigerad databasfrist 24 november 2025. Lagändringen om GTK:s uppdrag godkändes 6 november och träder i kraft 15 november, inte det tidigare planerade 1 november. Operatörsstudier enligt CRMA artikel 27(3) ska in senast 24 november 2026. | PR #9 uppdaterad med tidslinje och möjlig efterlevnadsfråga. Formulera som dokumenterad tidsavvikelse, inte fastslagen överträdelse; kontrollera om tidigare databas uppfyllde artikel 27(4). |
+
+### Nya och uppdaterade redaktionella arbetsobjekt
+
+- **PR #3 – Hormuz:** tidigare användargodkänd huvudversion publicerad separat på main och Render-deployment markerad LIVE. PR #3 är en senare, utökad version och förblir draft, öppen, ej mergad och ej godkänd. Den har nu fått UKMTO 199/200 och Riyadh/Aramco-avsnittet.
+- **PR #9 – Urbergsskölden/CRMA:** draft uppdaterad med de korrigerade EU-fristerna, GTK:s faktiska inlämnings-/publiceringsdatum, presidentens beslut 6 november, ikraftträdande 15 november och operatörsfristen 24 november.
+- **PR #29 – Anthropic/gaskraft:** nytt draft skapat; öppet, ej mergat, ej godkänt och ej publicerat.
+- **PR #16 – Breaking Watch:** denna matris är fortsatt granskningsunderlag; ingen merge.
+
+### Webb- och databasstatus
+
+- Render static site: deployment `dep-dbo6g9rrjlhs73ai5500`, commit `8e46f91e643be55cce6afed9ed6d05d5c9aae707`, status **LIVE** 8 november 2026 kl. 12.16.54 UTC. Huvudversionen av Hormuz-artikeln är märkt `PUBLICERAD 8 NOVEMBER 2026`.
+- Repositoryns senaste publicerade version och PR #3:s senare draft är separata. PR #3 är inte mergad.
+- Render Postgres: den hostade anslutningen avvisas eftersom IP-allowlisten är tom. Ingen databasbaserad köstatus kunde läsas.
+- Direkt hämtning av den publika webbplatsen från aktuell webbläsarmiljö misslyckades. Render bekräftar deploymentstatus LIVE; separat visuell kontroll av sidans rendering är ännu inte genomförd.
+
+### Nästa relevanta kontrollpunkter
+
+1. UKMTO 199/200: identifiera fartyg, flagg och IMO; fastställ om WAM:s 22 räddade personer hör till 199-26.
+2. Anthropic: sök transaktionsdokument, Caterpillar-order, tillgångsägare, gasavtal, utsläppstillstånd och säkerheter.
+3. Finland: kontrollera Finlex-publiceringen av lagändringen och jämför RAKKA:s faktiska fält med CRMA artikel 27(4); följ operatörsstudierna fram till 24 november.
+4. Israel: kontrollera om Eisenkot formellt får uppdraget kl. 17.00 och följ därefter koalitionsavtal.
+5. USA:s senat: kontrollera cloture-omröstningen om H.R. 2347 den 9 november kl. 23.30 Sofia.
