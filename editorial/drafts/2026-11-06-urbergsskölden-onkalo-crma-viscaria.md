@@ -2,7 +2,7 @@
 
 **Artikeltyp:** Industri · geologi · energi · civil underjordisk infrastruktur  
 **Utkastdatum:** 6 november 2026  
-**Faktaläge:** 6 november 2026  
+**Faktaläge:** 8 november 2026, 14.04 Europe/Sofia  
 **Berörda redaktionella spår:** Fennoskandiska urbergsskölden · strategiska råvaror · strategisk energi · Cavecore och civil underjordisk infrastruktur
 
 *Finland har tagit ett historiskt tillståndssteg för slutförvaring av använt kärnbränsle, samtidigt som GTK bygger ut den offentliga kunskapen om mineralfyndigheter och gruvavfall. Men den nya kartläggningen visar också att gamla gruvavfallsområden ofta har begränsad ekonomisk potential som råvarukälla.*
@@ -401,3 +401,71 @@ Den publicerade amerikanska Technology Prosperity Deal-MOU:n anger uttryckligen 
 - **OBEROENDE BEKRÄFTELSE:** Finnish Minerals Group, 30 oktober 2026, om ramverkets inriktning mot finsk förädling och raffinering: https://www.mineralsgroup.fi/topical/news/finland-and-the-united-states-strengthen-cooperation-on-technology-and-critical-minerals.html
 
 **Redaktionell slutsats:** Ramverket är en politisk och industriell samarbetsplattform. Det är inte i sig bevis för att amerikanskt kapital har investerats i en finsk gruva eller förädlingsanläggning. Nästa bevispunkt är ett konkret projektavtal, investeringsbeslut, finansieringsdokument eller tillståndsärende.
+
+
+## Ny källkontroll 8 november 2026 kl. 14.04 Europe/Sofia – Finlands CRMA-tidslinje
+
+### 1. Den nationella utforskningsplanen lämnades efter EU-fristen
+
+**PRIMÄRKÄLLA – EU-rätt:** CRMA artikel 19(1) föreskriver att medlemsstaterna skulle ha upprättat ett nationellt program för generell prospektering riktad mot kritiska råvaror senast 24 maj 2025.  
+**PRIMÄRKÄLLA – GTK:** GTK uppger att Finlands första nationella utforskningsprogram överlämnades till Europeiska kommissionen den 12 september 2025. Det är 111 dagar efter EU-förordningens angivna datum.
+
+Detta är en dokumenterad tidsavvikelse mellan EU-frist och GTK:s uppgivna inlämningsdatum. Den säger inte i sig om kommissionen har inlett ett överträdelseärende eller om Finland åberopat någon annan rättslig tolkning.
+
+### 2. RAKKA:s offentliga gruvavfallslager kom efter den korrigerade EU-fristen
+
+**PRIMÄRKÄLLA – EU-rätt:** Den konsoliderade CRMA-texten, med korrigerade datum, anger att medlemsstaternas databas över stängda utvinningsavfallsanläggningar skulle vara på plats senast 24 november 2025. All information ska föras in senast 24 maj 2027. Separat ska operatörer som omfattas av artikel 27(1) lämna sin preliminära ekonomiska studie senast 24 november 2026.
+
+**PRIMÄRKÄLLA – GTK:** GTK uppger att den förnyade RAKKA-tjänsten med uppgifter om gruvavfall och deras geografiska lägen offentliggjordes den 17 juni 2026. GTK skriver att det tidigare inte gick att lagra gruvavfallsuppgifter i mineralförekomstdatabasen och att den nya versionen nu integrerar sådana uppgifter.
+
+**KÄLLSTATUS:** Den offentliga RAKKA-lagret lanserades efter den korrigerade EU-fristen för databasen. Det räcker inte ensamt för att fastslå att Finland saknade en separat, rättsligt tillräcklig databas den 24 november 2025. Den tidigare databasens innehåll, åtkomst och överensstämmelse med artikel 27(4) måste jämföras med den nuvarande RAKKA-tjänsten innan en överträdelse kan hävdas.
+
+### 3. GTK:s nya lagstadgade uppdrag – faktisk ikraftträdandedag 15 november
+
+**PRIMÄRKÄLLA – GTK:s tidigare besked, 13 augusti:** GTK uppgav då att den föreslagna lagändringen var avsedd att träda i kraft den 1 november 2026. Detta var ett planerat datum i ett förslag, inte den slutliga ikraftträdandedagen.
+
+**PRIMÄRKÄLLA – Republikens presidents kansli, 6 november:** Presidentens beslutsförteckning visar att lagförslaget om ändring av lagen om Geologiska forskningscentralen behandlades och godkändes den 6 november 2026.
+
+**PRIMÄRKÄLLA – Statsrådets beslutsinformation:** Den slutliga ikraftträdandedagen anges till **15 november 2026**, inte 1 november. Den relevanta beslutswebbsidan kunde identifieras men gav 403 vid direkt hämtning; datumet ska därför fortsatt kontrolleras mot den publicerade författningstexten i Finlex.
+
+Lagändringen ger GTK uppgifter om att förbereda och uppdatera det nationella utforskningsprogrammet samt att inrätta och upprätthålla databasen över stängda utvinningsavfallsanläggningar. Den formaliserar GTK:s uppdrag, men ändrar inte de direkt tillämpliga EU-fristerna retroaktivt.
+
+### 4. Vad som återstår före 24 november 2026
+
+Artikel 27(3) kräver att operatörer av utvinningsavfallsanläggningar som omfattas av artikel 27(1) lämnar en preliminär ekonomisk studie om möjligheten att återvinna kritiska råvaror ur avfallet och, där det är relevant, ur den brutna volymen innan den blir avfall. Studien ska minst uppskatta mängder och halter samt bedöma teknisk och ekonomisk återvinningsbarhet. Undantag gäller om operatören med hög grad av säkerhet kan visa att tekniskt återvinningsbara kritiska råvaror saknas.
+
+**Nästa kontrollpunkt:** 24 november 2026. Kontrollera vilka finländska operatörer som omfattas, vilken myndighet som tar emot studierna, om myndigheten har publicerat vägledning och hur RAKKA:s fält motsvarar artikel 27(4).
+
+### 5. Separat geologisk datanyhet – SGU:s zirkonstudie i Västernorrland
+
+**PRIMÄRKÄLLA – SGU, 5 november 2026:** SGU publicerade en studie om detritiska zirkoners åldrar i metasedimentära bergarter i Västernorrlands län. Resultaten bidrar till att precisera sedimentens proveniens och den geologiska utvecklingen i området, med relevans för den regionala tolkningen av Fennoskandiska skölden.
+
+Detta är en geokronologisk/proveniensbaserad kunskapsuppdatering. Den är **inte** en ny mineralfyndighet, mineralresurs, mineralreserv, koncession eller produktionsstart. Ingen oberoende publicerad replikation har identifierats i denna kontroll.
+
+### Aktörskarta och tidslinje
+
+- **Europeiska kommissionen:** CRMA-regelverk, nationella program och uppföljning av tidsfrister.
+- **GTK:** nationellt utforskningsprogram, RAKKA och gruvavfallsdata.
+- **Arbets- och näringsministeriet:** nationell styrning och rapportering till kommissionen.
+- **Tukes och behöriga miljö-/tillståndsmyndigheter:** tillsyn och mottagande av operatörernas studier enligt nationell ansvarsfördelning.
+- **Gruv- och avfallsoperatörer:** skyldighet enligt artikel 27(1)–(3), där villkoren är uppfyllda.
+
+**24 maj 2025:** EU-frist för nationella utforskningsprogram.  
+**12 september 2025:** GTK uppger att Finlands program överlämnades.  
+**24 november 2025:** korrigerad EU-frist för medlemsstaternas databas över stängda utvinningsavfallsanläggningar.  
+**17 juni 2026:** GTK offentliggör RAKKA:s nya gruvavfallslager.  
+**6 november 2026:** presidenten godkänner lagändringen om GTK:s uppdrag.  
+**15 november 2026:** planerad faktisk ikraftträdandedag för den finska lagändringen.  
+**24 november 2026:** EU-frist för berörda operatörers preliminära ekonomiska återvinningsstudier.
+
+### Källor
+
+- EU-förordning (EU) 2024/1252, konsoliderad text med korrigerade tidsfrister, artiklarna 19 och 27: https://eur-lex.europa.eu/eli/reg/2024/1252/2024-05-03/eng/pdf
+- GTK, Finlands nationella utforskningsprogram överlämnat 12 september 2025: https://www.gtk.fi/en/current/finlands-national-exploration-programme-targeted-at-critical-raw-materials-handed-to-the-european-commission/
+- GTK, RAKKA och gruvavfall offentligt på kartan, 17 juni 2026: https://www.gtk.fi/en/current/gtks-mineral-deposit-database-renewed-extractive-waste-now-on-a-map/
+- GTK, föreslagna lagstadgade uppgifter och ursprungligt planerat ikraftträdande 1 november, 13 augusti 2026: https://www.gtk.fi/en/current/geological-survey-of-finland-assigned-tasks-under-the-eu-critical-raw-materials-act/
+- Republikens presidents kansli, beslutsförteckning 6 november 2026: https://www.presidentti.fi/tasavallan-presidentin-esittely-6-11-2026/
+- Statsrådets beslutsinformation, beslut om ikraftträdande 15 november 2026: https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389
+- SGU, detritiska zirkoner i Västernorrland, 5 november 2026: https://www.sgu.se/en/about-sgu/news-from-sgu/2026/november/ancient-zircons-provide-clues-to-geological-evolution-and-future-raw-materials/
+
+**Publiceringsstatus:** Fortsatt granskningsutkast i PR #9. Ingen merge och ingen publicering. Uppgiften om eventuell försening i Finlands CRMA-genomförande ska formuleras som dokumenterad tidsavvikelse och öppen efterlevnadsfråga, inte som fastslagen överträdelse.
