@@ -654,3 +654,13 @@ Protokollet den 3 oktober om återförande av 48 kyrkliga föremål från Bulgar
 - PR #3 – Hormuz: aktivt granskningsutkast. UKMTO 198-26 har nu lagts till som sannolik motsvarighet till CENTCOM:s Huda-uppgift, med uttrycklig reservation om att UKMTO inte namnger fartyget. Ingen merge eller publicering.
 - PR #16 – denna täckningsmatris: uppdaterad med delta för samtliga spår A–S. Ingen merge eller publicering.
 - Ingen ny separat artikel har öppnats eftersom Hormuz fortfarande är det aktiva granskningsärendet. EdgeConneX, CRMA/Onkalo och Palantirs Q3 lämnas som dokumenterade artikelvinklar för senare behandling efter att den aktiva artikeln fått sitt redaktionella beslut.
+
+
+### Tillägg 8 november 2026 kl. 06.40 Sofia – UAE räddar 22 sjömän
+
+UAE National Guard uppgav, enligt Gulf News och Times of Oman 8 nov, att 22 personer av arabiska nationaliteter räddats från ett branddrabbat lastfartyg i Omanbukten och var i stabilt tillstånd. Fartyget namngavs inte. Tid, geografisk uppgift och fartygstyp gör en koppling till M/V Huda/UKMTO Advisory 198-26 möjlig, men ingen källa i denna kontroll identifierar det räddade fartyget som Huda. Uppgiften ska därför behandlas som en separat myndighetsuppgift med **OBEKRÄFTAD IDENTITETSKOPPLING**, inte som bekräftad besättningsstatus för Huda och inte som en ny separat incident förrän fartygsidentiteten är klar.
+
+Källor:
+- Gulf News, 8 nov 2026: https://gulfnews.com/uae/uae-rescues-22-cargo-ship-fire-gulf-of-oman-1.500739960
+- Times of Oman, 8 nov 2026: https://rssfeeds.timesofoman.com/article/178905-uae-national-guard-rescues-22-people-after-cargo-ship-fire-in-the-gulf-of-oman
+- UKMTO Advisory 198-26: https://www.ukmto.org/-/media/ukmto/products/20261107-ukmto_advisory-198-26.pdf?rev=faf8e6f00bc843f7ac2683435fe5b7d1
