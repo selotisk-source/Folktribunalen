@@ -173,3 +173,90 @@ Källor:
 **Tolkning:** detta visar växande absolut molnkostnad och ett konkret leverantörsberoende, men inte att marginalerna pressades under kvartalet. Beloppen är ökningar inom kostnad för sålda tjänster; de är inte bolagets totala cloud spend. Hostingkostnader förekommer också separat i FoU och försäljning/marknadsföring.
 
 **Källa:** SEC Form 10-Q, avsnitt Cost of Revenue, publicerad 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+
+## Ny kontroll 9 november 2026 kl. 13.40 Europe/Sofia – A/B/R/O/K
+
+### A. Palantir och NHS – regeringen uppges välja kontinuitet före omedelbart leverantörsbyte
+
+**Publiceringsdatum:** 6 november 2026 (Guardian liveblogg, som återger Financial Times rapportering); 29 oktober 2026 (House of Commons Library briefing); 2 november 2026 (Guardian FOI-granskning).
+
+**Händelse / vad som tillkommit:** Guardian rapporterade 6 november, med hänvisning till Financial Times, att ministrarna planerar att förlänga Palantirs NHS Federated Data Platform-avtal i stället för att använda den första break-optionen, samtidigt som en ny upphandling för en brittisk leverantör ska förberedas. Palantir skulle enligt rapporteringen kunna ersättas om ungefär två år. Detta är ännu **inte ett formellt publicerat regeringsbeslut** eller en annonserad upphandling.
+
+**PRIMÄRKÄLLA – House of Commons Library, publicerad 29 oktober:** NHS England tilldelade i november 2023 ett konsortium lett av Palantir Technologies UK Ltd, med Accenture, PwC, NECS och Carnall Farrar. Avtalet började i mars 2024 med en initial treårsperiod och möjliga förlängningar till totalt sju år. Beslut om att inte förlänga behöver enligt NHS England meddelas leverantören senast i december 2026; den första optionen löper ut i mars 2027. Commons Library anger att en oberoende utvärdering beställd från Imperial College Projects väntas publiceras först efter beslutet om förlängning. NAO väntas rapportera om patientdataintegration under vintern 2026/27.
+
+**OBEROENDE BEKRÄFTELSE / MEDIERAPPORTERING:** Guardian 6 november återger FT:s uppgift om planerad förlängning och senare brittisk ersättare. Guardian 2 november redovisar över 100 FOI-förfrågningar: 29 trusts som NHS England listade som “realising benefits” svarade enligt granskningen att FDP inte var live eller att de inte använde dess appar. NHS England har samtidigt publicerat andra totalsiffror för live-status. Commons Library anger 142 av 202 trusts i live operational use i augusti 2026. Dessa tal har olika datum och kategorier och ska inte jämföras som om de vore samma mätning.
+
+**Evidensfrågan:** NHS England har enligt parlamentets Health and Social Care Committee medgett att före-/efterjämförelserna för bland annat operationer och utskrivningsförseningar inte kontrollerar för andra variabler och därför inte visar kausal effekt. Den ofta citerade uppgiften om 117 539 fler operationer får inte beskrivas som ett bevisat resultat orsakat av FDP.
+
+**Varför det spelar roll:** Leverantörsberoendet kan bli så djupt att ett politiskt beslut om att byta leverantör bedöms som operativt för riskfyllt. Samtidigt riskerar regeringen att besluta om en förlängning innan den oberoende utvärderingen är offentlig. Frågan blir därmed både teknisk, upphandlingsrättslig och demokratisk: hur kan staten lämna en leverantör vars system redan är integrerat i verksamheten?
+
+**Öppet:** formellt ministerbeslut; faktisk upphandlingsplan och annonsering; signerad avtalsversion och options-/exitvillkor; den oberoende utvärderingens metod och publiceringsdatum; OSR:s pågående casework; vilka trusts som använder vilka appar i faktisk klinisk drift.
+
+Källor:
+- House of Commons Library, 29 oktober 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-12264/
+- Guardian, 6 november 2026 (återger FT-rapportering): https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news?page=with:block-6aedef458f082a3892f69965
+- Guardian FOI-granskning, 2 november 2026: https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts
+- Health and Social Care Committee, 9 juli 2026: https://committees.parliament.uk/committee/81/health-and-social-care-committee/news/214760/drop-palantirs-federated-data-platform-and-look-for-alternative-mps-tell-health-minister/
+
+### B/R. Norge och den europeiska motreaktionen mot datacenter
+
+**Händelsedatum:** 9 november 2026. **Publiceringsdatum:** 9 november 2026.
+
+**PRIMÄRKÄLLA – Statnett, 9 november kl. 08.45:** tillfälligt stopp för nya nätkapacitetsreservationer till datacenter och vissa nya ansökningar om godkännande av anläggningsfunktion enligt FOS §14, inklusive vissa direktanslutningar till 420 kV-nätet. Stoppet väntas upphöra senast 1 augusti 2027. Statnett anger 800 MW redan anslutet, 4 200 MW reserverat, 9 100 MW i kapacitetskö och ytterligare 18 000 MW i anslutningsförfrågningar. Norges maximala effektförbrukning anges till drygt 25 000 MW. Kategorierna är olika steg i processen och ska inte summeras som installerad last.
+
+**Viktig avgränsning:** Statnett säger uttryckligen att detta inte är ett generellt förbud. Befintliga anslutningar och anläggningar med godkända funktionskrav påverkas inte. Inte heller ska kapacitet omfördelas till andra kunder om det går ut över datacenter som redan står före dem i kön.
+
+**PRIMÄRKÄLLA – norska regeringen, 9 november:** regeringen tar sikte på en licens-/konsessionsordning för befintliga och framtida datacenter, vill prioritera samhällskritiska funktioner och överväger större kostnadsansvar för nät och systemdrift. Kryptoverksamhet ska inte räknas som samhällsnyttig datacenterverksamhet. Detta är aviserad policyinriktning, inte antagen lag eller färdig licensordning.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterar samma dag att datacenter stod för cirka 75 procent av 26 GW nya anslutningsförfrågningar som Statnett mottagit under året. Denna procentsiffra avser den årliga förfrågningsserien, inte summan av ansluten, reserverad och köad kapacitet.
+
+**Ny samhällsreaktion – 6–7 november:** Stop Dirty Data Centres-kampanjen organiserade aktionsdagar i flera europeiska länder. Le Monde rapporterade 9 november att koalitionen registrerat 90 evenemang i cirka 15 länder. Antalet 90 är arrangörernas egen sammanräkning, inte en oberoende verifierad folkräkning. Le Monde rapporterar bland annat att flera hundra aktivister den 6 november gick in på en Microsoft-byggarbetsplats i Sloterdijk i Amsterdam, vilket stoppade arbetet för dagen; polisen uppgav att 150–200 personer frihetsberövades misstänkta för olaga intrång. I Zaragoza deltog enligt Le Monde omkring 2 000 personer. Arrangörernas egen kalender visar planerade aktiviteter bland annat i Helsingfors, Oulu, Tammerfors, Åbo, Lahtis, Lille Skensved, Berlin, Madrid, Cerdanyola och flera franska orter.
+
+**Varför det spelar roll:** Nätkapacitet, tillstånd och lokal legitimitet börjar bli en gemensam politisk risk för AI-infrastruktur. Norge visar statlig prioritering av elnätsanslutning; protesterna visar att mark, vatten, buller, dieselreservkraft, elräkningar och samråd blivit organiserade konfliktfrågor.
+
+**Öppet:** Norges konkreta licenstext, trösklar och övergångsregler; RME:s kommande godkännande av funktionskrav; oberoende verifiering av arrangörernas totalsiffra; faktiska tillstånds- och nätbeslut i de lokala protestområdena.
+
+Källor:
+- Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- Regeringen.no, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- Reuters, 9 november 2026: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+- Stop Dirty Data Centres – arrangörernas evenemangskalender: https://stopdirtydatacentres.eu/en/
+- Le Monde, 9 november 2026: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
+
+### O. Hormuz – ny iransk uppgift om navigationshjälpmedel
+
+**Publiceringsdatum:** 9 november 2026. **Händelsedatum:** okänt; uttalandet gäller den föregående natten.
+
+**PARTSUPPGIFT / OBEKRÄFTAD:** Reuters rapporterar att en icke namngiven företrädare för IRGC-flottan sagt till iranska statliga medier att navigationshjälpmedel i södra Hormuzsundet hade förstörts och att inga “obehöriga” fartyg passerat under natten. Reuters anger inte vem som förstörde systemen, när det skedde, vilka system som avses eller vilken faktisk effekt det haft på sjöfarten.
+
+**KORSKONTROLL:** UKMTO:s offentliga incidentflöde visar separata fördröjda rapporter den 8 november om en händelse cirka 8 nautiska mil nordväst om Khasab och en attackrapport i Hormuzsundet. Dessa är inte oberoende bekräftelse av att navigationshjälpmedel förstörts. Ingen hydrografisk varning eller offentlig IMO-bekräftelse om just navigationssystemens förstörelse har hittats i denna kontroll.
+
+**Varför det spelar roll:** Om navigationshjälpmedel faktiskt är ur funktion kan det öka riskerna för kommersiell trafik även utan ett nytt direkt angrepp mot fartyg. Men den iranska formuleringen “obehöriga fartyg” är en partsdefinition och får inte översättas till att sundet varit helt stängt.
+
+Källor:
+- Reuters, 9 november 2026: https://www.reuters.com/world/iran-says-no-unauthorised-vessels-transited-strait-hormuz-overnight-after-2026-11-09/
+- UKMTO Recent Incidents: https://www.ukmto.org/recent-incidents
+
+### K. Cladonia / Storsjö – lokal reaktion och transaktionsfråga
+
+SVT publicerade 9 november kl. 05.30 att uppropet mot skogsköpet samlat över 30 000 underskrifter och att ett planerat möte mellan Bergs kommun och Cladonia skjutits upp. SVT återger också SCA:s förklaring att en lokal köpare tidigare nekats köp med hänvisning till fastighetsbildningslagen och strandskyddsregler. Detta är en uppgift om SCA:s angivna skäl, inte belägg för att villkoren i de två transaktionerna var jämförbara eller att någon regel överträtts.
+
+SVT:s 6 november-reportage beskriver ön och de fastigheter som tidigare rapporterats som ett senare 300-hektarsköp som delar av en samlad SCA-affär. Den tidigare Fastighetsvärlden-uppgiften om separat tillstånd och 5 mkr kan avse ett separat juridiskt tillståndsspår inom en större avyttring. Lagfartsakter och köpehandlingar behövs för att avgöra det.
+
+Cladonias uttalanden om jakt, skogsbruksplan, contortatall och ingen vinteravverkning är fortsatt **PARTSUPPGIFTER** tills avtal, plan och myndighetsunderlag kan granskas. Alex Karp ska inte tillskrivas bolagets operativa besked personligen.
+
+Källor:
+- SVT, 9 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/debatt-och-upprop-efter-palantir-vdns-kop-i-harjedalen
+- SVT, 6 november 2026, uppdaterad 9 november: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
+
+### F. NVIDIA – nästa kontrollpunkt
+
+NVIDIA:s officiella IR-meddelande anger att Q3 FY2027-resultatet ska presenteras 17 november 2026 kl. 13.20 PT, med konferenssamtal kl. 14.00 PT. Resultatet har ännu inte publicerats. Nästa kontroll ska jämföra 10-Q/8-K med tidigare disclosed supply commitments, cloud service agreements, leasing, kundkoncentration och garantier.
+
+Källa: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx
+
+### Övriga spår A–S – cykelnotering
+
+C, D, E, G, H, I, J, L, M, N, P, Q, R och S har kontrollerats mot de befintliga primärkällor och öppna granskningsfrågor som ligger i respektive artikelutkast/täckningsmatris. Inget nytt dokument i denna riktade cykel ändrar deras senast dokumenterade sakläge tillräckligt för en separat notis. Detta är en kontrollnotering, inte ett påstående om att inga händelser alls inträffat. För D kvarstår Samuils preliminära antropologiska presentation 8 oktober som senaste substantiella vetenskapliga datapunkt; för E/S kvarstår EU-kommissionens beslut om 46 nya CRMA-projekt den 9 oktober; för Q kvarstår Saab:s uppgifter om AI-agenttestning och Gripen F:s första flygning som bolags-/programuppgifter; för P är den nya kongressmajoriteten en valprognos/call från AP och tillträder först 3 januari 2027.
+
