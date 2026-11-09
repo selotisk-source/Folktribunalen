@@ -139,3 +139,37 @@ Dana Gas/Pearl Petroleum bakgrund: https://www.danagas.com/operations/kri/ · ht
 **Redaktionell åtgärd:** Nytt granskningsutkast skapat i GitHub PR #30: “Khor Mor – drönarattack stoppar gasflödet och pressar Kurdistans elförsörjning”. PR #30 är öppen, draft, ej mergad och ej publicerad. Ingen attribuering görs.
 
 **Uppdaterad köstatus:** 29 öppna draft-PR:er totalt: 27 artikelutkast, en täckningsmatris och en äldre dokumentbank. Relevanta aktuella utkast inkluderar #30 Khor Mor, #7 Palantir, #14 AI-finansiering, #20 Drax, #5 Skellefteå, #8 Samuil, #4 Cladonia, #12 Gripen, #10 kongressen, #9 Urbergsskölden, #24 EuroHPC/AI-gigafabriker, #3 Hormuz och #28 Peter Thiel. Inga PR:er har mergats i denna cykel.
+
+
+## Ny kontroll 9 november 2026 kl. 13.19 – Norge: datacenter blir licens- och nätprioriteringsfråga
+
+## Norge: Statnett pausar nya anslutningsreservationer – regeringen förbereder licenskrav
+
+**Händelsedatum: 9 november 2026. Publiceringsdatum: 9 november 2026.**
+
+**PRIMÄRKÄLLA – regeringen:** Digitaliserings- och förvaltningsdepartementet och Energidepartementet meddelade att regeringen avser att införa en konsessions-/licensordning för både befintliga och framtida datacenter. Den ska väga in digital säkerhet, beredskap och behovet av AI-beräkningskapacitet. Kryptoutvinning ska inte klassas som samhällsnyttig datacenterverksamhet. Regeringen vill också att stora nya elkunder ska bidra mer till nätutbyggnad och systemkostnader, undersöker om industrin kan bidra till ny kraftproduktion och överväger statligt ägande i särskilt samhällsnyttiga projekt.
+
+**PRIMÄRKÄLLA – Statnett, publicerad 9 november kl. 08.45:** Statnett införde en tillfällig paus för nya reservationer av nätkapacitet till datacenter, nya ansökningar om godkännande av anläggningsfunktion enligt FOS §14 samt vissa ärenden om direktanslutning till 420 kV-nätet. Åtgärden gäller stora uttagskunder med särskild lastprofil, typiskt datacenter, och ska upphöra senast 1 augusti 2027.
+
+Statnetts egna tal visar omfattningen: 800 MW datacenterlast är redan ansluten, 4 200 MW har reserverad kapacitet, 9 100 MW står i kapacitetskön och ytterligare 18 000 MW har efterfrågat anslutning. Norges maximala effektförbrukning anges till drygt 25 000 MW. Dessa kategorier är olika steg i anslutningsprocessen och får inte summeras som om all kapacitet vore byggd eller bindande beställd.
+
+**Viktig avgränsning:** detta är inte ett generellt förbud mot datacenter. Befintliga anslutningar påverkas inte; anläggningar som redan fått nödvändiga funktionskrav godkända kan anslutas. Statnett säger också att kapacitet inte ska omfördelas till andra kunder om det skulle gå ut över datacenter som redan står före dem i kön.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade samma dag att datacenter stod för cirka 75 procent av de 26 GW nya anslutningsförfrågningar som Statnett mottagit under året. Det är en annan mätserie än Statnetts uppdelning mellan ansluten, reserverad, köad och ytterligare efterfrågad kapacitet.
+
+**Varför det spelar roll:** Norge flyttar datacenterfrågan från enskilda bygglov till nationell prioritering av el, nät, systemstabilitet och digital beredskap. Det gör nätanslutning och samhällsnytta till villkor för AI-expansionen, inte bara finansiering och tillgång till GPU:er. Beskedet korskopplar B med R och S och ger en nordisk jämförelsepunkt mot Finlands datacenterregister och de svenska projekten.
+
+**Vad som återstår:** regeringens konkreta lag-/förordningstext, trösklar för licensplikt, övergångsregler för befintliga projekt, kriterier för samhällsnytta, faktisk kostnadsfördelning samt vilka tekniska funktionskrav RME godkänner. Regeringens licensordning är ännu en aviserad inriktning, inte en färdig lag.
+
+Källor:
+- Regeringen.no, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- Statnett, 9 november 2026 kl. 08.45: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- Reuters, 9 november 2026: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+
+### A. Palantir – tillägg från samma Q3-10-Q
+
+**PRIMÄRKÄLLA:** Palantirs Form 10-Q anger att kostnaden för sålda tjänster ökade med 176 m USD (85 %) under Q3 jämfört med Q3 2025. Av ökningen kom 135 m USD från tredjeparts molnhosting, 21 m USD från aktiebaserad ersättning och 14 m USD från hårdvara/övriga direkta kostnader; en minskning på 9 m USD i underleverantörs- och fältservicekostnader motverkade delar av ökningen. För årets första nio månader ökade kostnaden för sålda tjänster med 323 m USD, varav 263 m USD hänfördes till tredjeparts molnhosting. Bruttomarginalen steg samtidigt till 83 % för kvartalet från 82 % och till 85 % för niomånadersperioden från 81 %.
+
+**Tolkning:** detta visar växande absolut molnkostnad och ett konkret leverantörsberoende, men inte att marginalerna pressades under kvartalet. Beloppen är ökningar inom kostnad för sålda tjänster; de är inte bolagets totala cloud spend. Hostingkostnader förekommer också separat i FoU och försäljning/marknadsföring.
+
+**Källa:** SEC Form 10-Q, avsnitt Cost of Revenue, publicerad 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
