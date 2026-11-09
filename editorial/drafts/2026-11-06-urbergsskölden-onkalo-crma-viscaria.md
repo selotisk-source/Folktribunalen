@@ -469,3 +469,26 @@ Detta är en geokronologisk/proveniensbaserad kunskapsuppdatering. Den är **int
 - SGU, detritiska zirkoner i Västernorrland, 5 november 2026: https://www.sgu.se/en/about-sgu/news-from-sgu/2026/november/ancient-zircons-provide-clues-to-geological-evolution-and-future-raw-materials/
 
 **Publiceringsstatus:** Fortsatt granskningsutkast i PR #9. Ingen merge och ingen publicering. Uppgiften om eventuell försening i Finlands CRMA-genomförande ska formuleras som dokumenterad tidsavvikelse och öppen efterlevnadsfråga, inte som fastslagen överträdelse.
+
+
+## Suhanko: interimistiskt domstolsstopp trots CRMA-status
+
+**Händelsedatum:** Vaasa förvaltningsdomstolens interimistiska beslut 13 oktober 2026.  
+**Publiceringsdatum:** Yle 14 oktober 2026.  
+**Berörda aktörer och plats:** Vaasa förvaltningsdomstol, Suhanko Arctic Platinum Oy, kommunerna Tervola och Keminmaa, naturvårdsorganisationer och andra klagande; Ranua i södra Lappland, med planerad avledning av behandlat gruvvatten till Kemijoki.
+
+**PRIMÄRKÄLLA/DOMSTOLSUPPGIFT:** Domstolen förbjöd att förberedande arbeten som stöds av Suhangos miljö- och vattenhushållningstillstånd inleds innan tillstånden vunnit laga kraft. Yles rapportering anger att nio överklaganden har lämnats in. De berörda arbetena omfattar bland annat anrikningsverk, avfalls- och sidobergsområden samt den planerade utsläppsledningen till Kemijoki.
+
+**OBEROENDE BEKRÄFTELSE:** Yle rapporterade 14 oktober om domstolens interimistiska beslut. Bolagets egen nyhetssida bekräftar att Suhanko blev ett strategiskt CRMA-projekt den 9 oktober och att miljö- och vattenhushållningstillståndet ursprungligen beviljades 19 juni 2025.
+
+**PARTSUPPGIFT:** Bolagets landschef sade till Yle att bolaget redan hade beslutat att inte inleda de berörda arbetena innan tillstånden blivit lagakraftvunna och att ordern därför inte ändrade den dåvarande planeringen. Bolagets offentliga tidplan anger byggstart 2028.
+
+**Varför det spelar roll:** CRMA-statusen innebär prioriterad handläggning och tillståndstidsramar, inte dispens från miljöprövning eller domstolens överklagandekontroll. Den strategiska beteckningen får inte beskrivas som ett tillstånd att bygga eller som bevis för finansiering.
+
+**Öppet:** Domstolens slutliga avgörande i de nio överklagandena, status för Tukes nyttjanderättsbeslut, slutlig sträckning och miljövillkor för utsläppsledningen samt om byggstart 2028 fortfarande är realistisk.
+
+Källor:
+- Yle, 14 oktober 2026: https://yle.fi/a/74-20251326
+- Suhanko Arctic Platinum, bolagets projektstatus: https://www.suhanko.com/news
+- Suhanko projektets tidslinje: https://www.suhanko.com/
+
