@@ -1,18 +1,19 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 8 november 2026, 08.15 Europe/Sofia  
+**Version:** 9 november 2026, 09.05 Europe/Sofia  
 **Arbetsregel:** En artikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö. Ingen automatisk publicering. Endast chefredaktörens uttryckliga godkännande får föra en artikel till LIVE.
 
 ## Publicerings- och systemstatus
 
 - GitHub-repo: https://github.com/selotisk-source/Folktribunalen
-- Render-webb: https://folktribunalen-editorial.onrender.com
-- Redaktion/admin: https://folktribunalen-editorial.onrender.com/admin.html
-- Databas: `folktribunalen-db`, status `available`, kostnadsfri instans med nuvarande utgångsdatum 4 december 2026.
-- **Blockerare:** Databasens egen IP-allowlist är tom. En ny read-only SQL-anslutning den 8 november avvisades uttryckligen av Render på grund av den tomma allowlisten. Den hostade Render-anslutningen har ingen IP-adress som kan tillåtas; Render anger att en lokal Render MCP-anslutning behövs eller att en tillåten IP måste läggas till i databasens Networking-inställning. Webbservicens IP-allowlist är separat och ändrar inte databasens lista. DATABASE_URL-mappningen är fortfarande inte bekräftad. Admin/API-vägarna har inte testats end-to-end.
-- Senaste deployment som finns i Render-listan: 4 november 2026, commit `6a835783553565f239864a9da7160d9f79f692b2`. Nya GitHub-ändringar efter denna commit har inte kunnat bekräftas som live.
-- **LIVE-status:** Ingen artikel är dokumenterad som LIVE i redaktionens aktuella arbetsregister.
-- **Godkännandekö:** Hormuz ligger i GitHub som separat draft-PR #3. Det är en tillfällig granskningspost, inte webbplatsens databasbaserade godkännandekö. Köinläggning kan inte genomföras förrän databasåtkomst och admin/API har testats.
+- Publik statisk webbplats: https://folktribunalen.onrender.com (Render service folktribunalen, ID srv-dblpumgm7kps73bv55e0).
+- Redaktionell backend/admin: https://folktribunalen-editorial.onrender.com och https://folktribunalen-editorial.onrender.com/admin.html (Render service ID srv-dblq2r0n74is73cchqh0).
+- Databas: folktribunalen-db, status available, kostnadsfri instans med nuvarande utgångsdatum 4 december 2026.
+- **Publik LIVE-version:** Chefredaktören skrev uttryckligen “Ok Publish” den 8 november kl. 00.04 UTC. Därefter publicerades en kort Hormuzversion på main; commit 8e46f91e643be55cce6afed9ed6d05d5c9aae707, Render deployment dep-dbo6g9rrjlhs73ai5500, status live, färdig 8 november kl. 12.16.54 UTC. Den publika koden innehåller kortartikeln på #/artikel/hormuz-sjofart med fyra huvudstycken och källhänvisningar. Render bekräftar deploymentstatus live och route finns i den deployade källkoden; direkt HTTP-rendering från denna arbetsmiljö kunde inte hämtas, så faktisk visuell rendering i användarens webbläsare är inte separat kontrollerad.
+- **Nuvarande fullständiga uppdatering:** PR #3 innehåller en ny, längre version med faktaläge 9 november. Den är fortfarande draft och inte mergad; den tidigare “Ok Publish” avsåg den korta huvudversionen, inte denna nya uppdatering. Den utökade versionen kräver separat chefredaktörsgodkännande innan den ersätter den publika kortversionen.
+- **Blockerare för redaktionell backend:** Databasens egen IP-allowlist är tom. En read-only SQL-fråga avvisades av Render eftersom den hostade anslutningen saknar IP-adress som kan tillåtas. Render anger lokal Render MCP-anslutning eller en tillåten klient-IP i databasens Networking-inställning. Webbservicens IP-allowlist är separat. DATABASE_URL-mappningen är inte bekräftad och admin/API är inte testade end-to-end.
+- Senaste deployment för backend folktribunalen-editorial: 4 november 2026, commit 6a835783553565f239864a9da7160d9f79f692b2; den har inte fått de senaste redaktionella backendändringarna.
+- **Godkännandekö:** PR #3 är en tillfällig GitHub-granskningspost, inte webbplatsens databasbaserade kö. Köinläggning kräver att databasåtkomst och admin/API först fungerar.
 
 ## Aktiva huvudspår
 
@@ -42,7 +43,7 @@
 
 | Spår | Artikelvinkel | Status 8 nov 2026 |
 |---|---|---|
-| Hormuz och sjöfarten | Hormuzkrisen: USA slår ut M/V Huda – UAE räddar 22 från okänt fartyg | **Sammanhängande artikeltext uppdaterad 8 november kl. 08.15** i PR #3. Integrerar Huda, UKMTO Advisory 198-26 och WAM:s räddningsuppgift. ClassNK identifierar HUDA som IMO 9197088, St Kitts & Nevis, bulkfartyg; registrerad ägare NOUR ELHUDA SHIPPING CO. LLC, management company MIMI SHIPPING CO. S.A. AIS-data placerar HUDA 5 november kl. 22.47 UTC cirka 18 NM öster om Khor Fakkan, vilket gör den till stark kandidat i UKMTO 198-26 men inte formellt namngiven av UKMTO. UAE:s räddningsfartyg är fortfarande onamngivet; kopplingen till Huda är obekräftad. Öppna AIS-sammanfattningar visar Sohar som senaste hamnanlöp före positionen och styrker inte CENTCOM:s uppgift om ett iranskt hamnbesök omedelbart före angreppet. PR #3 fortsatt draft, inte mergad eller LIVE; väntar på chefredaktörens uttryckliga godkännande. |
+| Hormuz och sjöfarten | Hormuz: Irak söker en egen väg – men farleden är fortfarande osäker | **Kortversion godkänd och deployad 8 november; fullständig uppdaterad version i PR #3, faktaläge 9 november.** IMO:s aktuella lista anger 130 bekräftade incidenter och 25 dödsfall. Den identifierar en skadad enhet med IMO 9234654 som VIEILA; flera fartygsdatabaser anger samma IMO-nummer som VIEIRA, varför namnfrågan är öppen och texten använder IMO-numret tills flaggstatskontroll finns. UKMTO 197-26 matchar datum/position starkt men namnger inte fartyget. CENTCOM:s Huda-uppgift hålls som partsuppgift om hamnbesök och blockadbrott; ClassNK styrker registeridentiteten. Reuters 9 november rapporterar Trumps mer återhållsamma uttalande, irakiske utrikesministerns uppgift om en särskild exportväg nära Oman och en iransk uppgift om förstörda navigationshjälpmedel. Edison uppger 38 LNG-laster/ca 5 bcm under force majeure till 31 december och 27 ersatta per 27 oktober. JMIC Update 112:s 177-tal och Huda-koppling hålls som sekundärt återgiven uppgift tills original-PDF granskats. PR #3 är draft, inte mergad; fullversionen kräver separat godkännande. |
 | Maktförskjutningen i USA:s kongress | Kongressen byter färg – men vem kontrollerar den tekniska makten? | Långt delutkast finns i PR #1; måste uppdateras med certifierade mandat, ledarskap, utskott och faktisk maktövergång. |
 | Palantirs kvartalsrapport och AI-infrastruktur | Palantir Q3: tillväxt, offentliga kontrakt och datacenterberoenden | Q3/SEC 10-Q-underlag finns; separat artikel behöver färdig ingress, fullständig text, primärkällor, oberoende källor, bildförslag, faktakontroll och öppna frågor. |
 | Svenska Gripen över Polen | Fyra timmar i polskt luftrum – vad gjorde den svenska insatsen? | Expressen-underlag 4 november och Försvarsmaktens bakgrund finns. Separat artikel ännu inte påbörjad; nästa nyhetsartikel efter att Hormuz är godkänd och publicerad/LIVE. Kräver polsk generalstabs originalpost, svensk Försvarsmaktskommentar och tydlig skillnad mellan patrull, incidentberedskap och stridskontakt. |
@@ -75,16 +76,29 @@
 - Ingen automatisk publicering. Varje artikel måste uttryckligen godkännas av chefredaktören och kontrolleras LIVE efter publicering innan nästa artikel påbörjas.
 
 
-## Redaktionsinventering – 8 november 2026, 08.15 Europe/Sofia
+## Redaktionsinventering – 9 november 2026, 09.05 Europe/Sofia
 
 PR #1 innehåller 26 äldre utkast och en täckningsmatris med 19 bevakningsspår. Filinventeringen visar att många utkast har lång brödtext, källor och en faktastatus, men flera saknar en uttrycklig ingress, bildförslag eller separat sektion för öppna frågor. De räknas därför som arbetsutkast/delutkast, inte som färdiga artiklar i godkännandekön.
 
 - Fullständigt artikelpaket krävs för varje artikel: artikeltyp, rubrik, ingress, komplett sammanhängande text, primärkällor, oberoende källor, bildförslag, faktakontroll, öppna frågor och tydlig status.
 - PR #1: arkiv/dokumentbank, 26 äldre utkast; får inte batch-mergas.
-- PR #3: enda aktiva granskningsärendet, Hormuz. Kanonisk fil: editorial/drafts/2026-11-05-hormuz.md. Filen innehåller nu en sammanhängande huvudtext och separat revisionshistorik.
+- PR #3: enda aktiva granskningsärendet, Hormuz. Kanonisk fil: editorial/drafts/2026-11-05-hormuz.md. Den 9 november skrevs filen om till en ren sammanhängande huvudartikel med primär- och oberoende källor, bildförslag, faktakontroll och öppna frågor. Den innehåller nu IMO 130/25, VIEILA/VIEIRA-namnkonflikten, Huda, UKMTO 199/200, Irak, navigationshjälpmedel, Edison LNG och Sydkoreas plan. Fullversionen är draft och kräver separat godkännande.
 - Böckernas väg till Athos: fyra tidigare utkast uppgavs ha skapats 5 november; fulltexterna återfanns inte i GitHub-inventeringen eller Library-sökningen. Äldre beslut om placering i SVART HAV med korsreferens till RÖD JORD bevaras.
 - Nästa artikel: Gripen över Polen efter att Hormuz är godkänd och LIVE. Övriga huvudspår färdigställs därefter ett i taget.
 
 ## Hormuz – teknisk publiceringsspärr
 
 En read-only SQL-fråga den 8 november avvisades av Render: databasens IP-allowlist är tom. Render anger att den hostade MCP-anslutningen inte har en tillgänglig IP-adress att tillåta; anslutning kräver lokal Render MCP-server eller en giltigt tillåten klient-IP via databasens Networking-inställning. DATABASE_URL och admin/API är fortfarande inte end-to-end-testade. Senaste deploymentlistan innehåller fortfarande endast den äldre live-deploymenten från 4 november. Ingen artikel har förts in i webbplatsens databasbaserade godkännandekö eller kontrollerats LIVE.
+
+
+## Faktaläge och arbetslogg – 9 november 2026, 09.05 Europe/Sofia
+
+- **IMO:** den aktuella officiella incidentlistan anger 130 bekräftade incidenter och 25 dödsfall per 6 november. Den listar ett fartyg som VIEILA (IMO 9234654), men VesselFinder och Rynda anger samma IMO-nummer som VIEIRA, råoljetankfartyg under Vanuatus flagg. Detta är en olöst namn-/registeravvikelse; texten använder IMO-numret tills flaggstatskontroll är möjlig.
+- **VIEIRA/VIEILA och UKMTO 197-26:** IMO:s datum och position 5 november, 16 NM öster om Khasab, matchar UKMTO 197-26 starkt. UKMTO namngav inte fartyget och IMO-sidan anger inte varningsnumret.
+- **Huda:** ClassNK bekräftar registerposten HUDA, IMO 9197088, bulkfartyg under St Kitts och Nevis. CENTCOM:s uppgift om iranskt hamnbesök och blockadbrott är fortsatt en partsuppgift. AIS-ögonblicksbilden visar Sohar som senaste registrerade hamnanlöp före positionen den 5 november, men är inte en fullständig färdjournal.
+- **Irak:** Reuters 8 november återger utrikesminister Fuad Husseins uppgift om en förståelse med USA för irakisk export via en sjöfartsled nära Oman. Ingen offentlig avtalstext eller verifierad operativ korridor har identifierats.
+- **Iran:** Reuters 9 november återger en anonym IRGC-flottkälla om förstörda navigationshjälpmedel och inga obehöriga passager under natten. Ansvarig aktör, tidpunkt och effekt är inte oberoende fastställda.
+- **LNG:** Edison uppger 38 laster, cirka 5 bcm, under force majeure till 31 december och 27 ersatta per 27 oktober. Edisons webbsida är daterad 27 oktober, men pressmeddelandets brödtext har dateline 28 september; datumskillnaden redovisas.
+- **JMIC Update 112:** en sekundär återgivning uppger 177 incidenter och Huda kopplad till 198-26. Den ursprungliga PDF-filen på UKMTO:s webbplats har inte kunnat granskas direkt i denna körning; dessa detaljer används inte som självständigt bekräftad primärfakta.
+- **Publik webbplats:** Render statiska tjänst folktribunalen visar deployment dep-dbo6g9rrjlhs73ai5500 som live, commit 8e46f91e643be55cce6afed9ed6d05d5c9aae707, avslutad 8 november 12.16.54 UTC. Den publika huvudversionen är kort (fyra huvudstycken). Den nya fullständiga texten finns i PR #3 och är inte publicerad.
+- **Nästa steg:** chefredaktören granskar fullversionen i PR #3. Efter uttryckligt godkännande kan den ersätta kortversionen på den publika sajten. Därefter kontrolleras den faktiska sidan; först därefter går redaktionen vidare till Gripen över Polen.
