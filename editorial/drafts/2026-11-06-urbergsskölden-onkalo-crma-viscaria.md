@@ -492,3 +492,18 @@ Källor:
 - Suhanko Arctic Platinum, bolagets projektstatus: https://www.suhanko.com/news
 - Suhanko projektets tidslinje: https://www.suhanko.com/
 
+
+
+## Ny SGU-kontroll – Pallas Metals Storåsen nr 500, 8 november 2026
+
+**PRIMÄRKÄLLA:** SGU:s öppna OGC-post för beviljade undersökningstillstånd visar att **Storåsen nr 500**, diarienummer **BS 200-760-2020** och tillstånds-ID **2020:85**, innehas av **Pallas Metals AB**. Posten omfattar **713,3652 hektar** i Bergs kommun, Jämtlands län, med guld, koppar och palladium angivna som mineral. Registerposten var senast uppdaterad **8 november 2026** och anger giltighet till **1 december 2026**.
+
+**Rättslig betydelse:** detta är ett beviljat undersökningstillstånd, inte en bearbetningskoncession, miljödom, byggstart, mineralreserv eller kommersiell produktion. Registerposten visar inte att Pallas har rätt att starta gruvdrift. Den visar inte heller att tillståndsområdet sammanfaller med Cladonia Skog AB:s markförvärv eller att bolagen har någon relation.
+
+**Geografisk koppling:** tillståndet ligger i Bergs kommun och hör därför till samma övergripande regionala bevakningsområde som Storsjöaffären. Exakt överlappning med fastigheter som Cladonia förvärvat är inte fastställd här. En separat GIS-korsning mot fastighetsgränser, renskötselns offentliga kartlager och natur-/kulturmiljödata krävs innan närhet eller överlappning beskrivs i artikeltext.
+
+**Öppet:** kommer tillståndet att förlängas efter 1 december? Vilka arbetsplaner, markägarunderrättelser, samråd och eventuella invändningar finns i Bergsstatens diarier? Vilka offentliga sameby- och miljöintressen berörs? Finns det en dokumenterad koppling till någon av Cladonias fastigheter? Ingen sådan koppling är belagd.
+
+Källa: SGU:s öppna mineralrättighetsregister, uppdaterat 8 november 2026:
+https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-beviljade/items?f=text%2Fhtml%26limit=50%26startIndex=100
+
