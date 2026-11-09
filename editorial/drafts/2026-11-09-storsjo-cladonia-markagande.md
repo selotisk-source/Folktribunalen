@@ -39,9 +39,9 @@ UDI-lagen gäller investeringar i vissa skyddsvärda verksamheter och ger ISP m�
 
 ## Jakten blev den första konkreta konflikten
 
-För många i Storsjö blev affären synlig när lokala jaktlag fick besked om att deras jakträtt skulle upphöra. SVT rapporterade den 28 september att två jaktlag redan hade förlorat jakträtten och att ytterligare ett skulle beröras. I ett inslag publicerat den 7 november berättade jägaren Lars Liljemark att han jagat i området i 45 år men nu förlorat all jakträtt på marken.
+För många i Storsjö blev affären synlig när lokala jaktlag fick besked om att deras jakträtt skulle upphöra. SVT rapporterade den 28 september att två jaktlag redan hade förlorat jakträtten och att ytterligare ett skulle beröras. I en uppföljning publicerad den 9 november berättade jägaren Lars Liljemark att han jagat i området i 45 år men nu förlorat all jakträtt på marken.
 
-Enligt SVT fick fem jaktlag brev från SCA under våren om att marken sålts och att jaktupplåtelserna därmed skulle upphöra. För några lag blev höstens älgjakt inställd; andra fick jaga på en mindre areal. SCA förklarade att jaktavtalen löpte över elva månader och att bolaget inte kunde förlänga avtal på mark som det inte längre ägde.
+I SVT:s uppföljning den 9 november framgår att fem jaktlag fick brev från SCA under våren om att marken sålts och att jaktupplåtelserna därmed skulle upphöra. En jägare som intervjuas uppger att han jagat i området i 45 år; i år fick laget jaga på ungefär halva den tidigare arealen och har nu förlorat all jakträtt på marken. För några lag blev höstens älgjakt inställd; andra fick jaga på en mindre areal. SCA förklarade att jaktavtalen löpte över elva månader och att bolaget inte kunde förlänga avtal på mark som det inte längre ägde.
 
 Det här är en konkret följd av ägarbytet, men den juridiska kedjan behöver beskrivas exakt. Jakträtt kan upplåtas genom avtal och är inte automatiskt liktydig med äganderätt. Att ett jaktlag förlorar ett avtal betyder inte att allmänheten förlorar allemansrätten eller att samebyarnas rätt till renbete upphör.
 
@@ -114,7 +114,7 @@ Det är där granskningen ska ligga: i skillnaden mellan vad som är köpt, vad 
 ## Oberoende och kompletterande rapportering
 
 1. **SVT Jämtland, 9 november 2026:** Debatt och upprop efter Palantir-vd:ns köp i Härjedalen. Upprop över 30 000, uppskjutet kommunmöte, bolagets svar och frågor om lokala köp: https://www.svt.se/nyheter/lokalt/jamtland/debatt-och-upprop-efter-palantir-vdns-kop-i-harjedalen
-2. **SVT Jämtland, 7 november 2026:** Efter 45 år försvann rätten att jaga – när Alex Karp köpte skog i Härjedalen: https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
+2. **SVT Jämtland, 9 november 2026:** Efter 45 år försvann rätten att jaga – när Alex Karp köpte skog i Härjedalen: https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
 3. **SVT Jämtland, 6 november 2026, uppdaterad 9 november:** Här är Palantir-vd:ns mark i Härjedalen – se skogen, ön och fäbodvallen: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
 4. **SVT Jämtland, 12 oktober 2026:** ISP om Palantir-vd:ns köp i Härjedalen: Inte skadligt för Sveriges säkerhet: https://www.svt.se/nyheter/lokalt/jamtland/isp-om-palantir-vdns-kop-i-harjedalen-inte-skadligt-for-sveriges-sakerhet
 5. **SVT Jämtland, 29 september 2026, uppdaterad 12 oktober:** Därför sa länsstyrelsen ja till Palantir-vd:ns skogsköp i Härjedalen: https://www.svt.se/nyheter/lokalt/jamtland/darfor-sa-lansstyrelsen-ja-till-palantir-vdns-skogskop-i-harjedalen
@@ -150,6 +150,7 @@ Det är där granskningen ska ligga: i skillnaden mellan vad som är köpt, vad 
 9. Begär ut Bergs kommuns korrespondens och dokumentation om det uppskjutna mötet med Cladonia.
 10. Be SCA redovisa skälen till att en lokal intressent nekades köp medan affären med Cladonia genomfördes, och begär de relevanta fastighetsbildnings- och strandskyddshandlingarna.
 11. Följ upp om Cladonia har genomfört någon formell dialog med byalaget, jaktlagen, skoterklubbarna och fiskevårdsområdesföreningen.
+12. Begär aktuella lagfartsuppgifter och historiska fastighetsdata från Lantmäteriet. Fastighetsregistret innehåller bland annat lagfaren ägare, förvärvstyp, köpeskilling och areal; kontrollera varje beteckning mot köpehandlingarna: https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter/Fastighetsregistret/registrets-innehall/
 
 ## Bild- och dokumentförslag
 
@@ -159,4 +160,4 @@ Det är där granskningen ska ligga: i skillnaden mellan vad som är köpt, vad 
 - Tidslinje över köp, myndighetsbeslut, jaktavtal och bolagets offentliga besked.
 - Dokumentgrafik som skiljer äganderätt, förvärvstillstånd, ISP-beslut, jakträtt, renskötselrätt och allemansrätt.
 
-**Status:** Första sammanhängande artikelutkast skapat. Centrala uppgifter om myndighetsbeslut, jaktfrågan, bolagets besked och det lokala uppropet är kontrollerade mot SVT:s publicerade dokumentation och relevanta myndighetskällor. Fastighetsförteckning, originalbeslut, samebyarnas perspektiv och avtal återstår. Inte publicerad.
+**Status:** Utkastet uppdaterat den 9 november med SVT:s senaste uppgifter om fem jaktlag och den fortsatta osäkerheten kring lokala jakträtter. Första sammanhängande artikelutkast skapat. Centrala uppgifter om myndighetsbeslut, jaktfrågan, bolagets besked och det lokala uppropet är kontrollerade mot SVT:s publicerade dokumentation och relevanta myndighetskällor. Fastighetsförteckning, originalbeslut, samebyarnas perspektiv och avtal återstår. Inte publicerad.
