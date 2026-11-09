@@ -78,3 +78,21 @@ UNIFIL publicerade den 2 november artikeln *Beyond its mandate: UNIFIL’s impac
 Detta ger en konkret lokal fråga inför neddragningen: vilka tjänster, arbetstillfällen och kommunala samarbeten fortsätter genom libanesiska myndigheter, Röda korset, Civil Defense, offentliga sjukhus och vatteninfrastruktur – och vilka projekt riskerar att sakna finansiering eller genomförandepartner? UNIFIL uppger att vissa investeringar i nationella och lokala tjänsteleverantörer ska fortsätta gynna samhällena efter missionens avresa. Det är en bolags-/missionsuppgift som ska jämföras med kommunala budgetar, avtal och faktisk drift.
 
 **Källa:** UNIFIL, 2 november 2026: https://unifil.unmissions.org/en/news/beyond-its-mandate-unifils-impact-on-communities-in-south-lebanon
+
+
+## Regionalt diplomatiskt villkor: Qatar kopplar Hormuzöppning till slut på Libanonkriget
+
+**Publiceringsdatum:** The Guardian 7 november 2026; Reuters 5 november 2026.  
+**Källstatus:** **PRIMÄRKÄLLA** för att Qatar fortsätter förmedla förslag mellan Washington och Teheran; **OBEROENDE BEKRÄFTELSE** för att förhandlingarna omfattar Hormuz och kärninspektioner; **OBEKRÄFTAT** för den detaljerade villkorsordningen i det rapporterade Qatari-förslaget.
+
+The Guardian rapporterade 7 november att ett Qatari-medlingsförslag skulle koppla ett amerikanskt lättande av blockaden, frigörande av en del frysta iranska tillgångar, IAEA-inspektioner och en återöppning av Hormuz till en stegvis överenskommelse. Samma rapport uppgav att Iran kräver att kriget i Libanon avslutas som ett av villkoren för att öppna sundet. Qatar har officiellt bekräftat fortsatt förmedling av förslag och ett telefonsamtal mellan emiren och Trump, men har inte offentligt bekräftat alla detaljer i den rapporterade överenskommelsen.
+
+**Redaktionell betydelse för Libanon:** Libanonkriget är därmed en del av den regionala förhandlingssekvensen kring sjöfart och kärnfrågor. Det innebär inte att ett eldupphör har avtalats eller att UNIFIL:s mandat, tillbakadragande eller lokala säkerhetsansvar har ändrats. En eventuell koppling mellan Hormuzförhandlingarna och södra Libanons säkerhetsläge måste följas via separata primärkällor från Libanons regering, UNIFIL, Israel, Iran och medlarna.
+
+**Öppet:** Har Libanons regering eller UNIFIL kommenterat att ett slut på Libanonkriget ingår i förhandlingspaketet? Finns ett skriftligt förslag eller bara muntliga villkor? Har USA eller Iran bekräftat samma sekvens?
+
+Källor:
+- Qatars utrikesministerium, 3 november 2026: https://mofa.gov.qa/en/qatar/latest-articles/latest-news/details/2026/11/03/advisor-to-prime-minister--official-spokesperson-for-ministry-of-foreign-affairs--qatar-continues-its-efforts-to-bridge-gap-between-washington--tehran
+- The Guardian, 7 november 2026: https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections
+- Reuters, 5 november 2026: https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/
+
