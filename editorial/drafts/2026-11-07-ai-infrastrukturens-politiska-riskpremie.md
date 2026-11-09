@@ -72,7 +72,9 @@ Det är dessutom ett frivilligt bolagsåtagande, inte en lag eller ett myndighet
 
 ## Senaten: BAAJA:s nya substituttext skärper kostnadsansvaret – och ändrar tröskeln
 
-Senatens officiella kalender anger en cloture-omröstning om motionen att ta upp H.R.2347 omkring kl. 17.30 Eastern Time den 9 november. Vid kontrolltidpunkten 23.54 i Sofia (16.54 Eastern Time) hade omröstningen ännu inte ägt rum. Det är en procedurfråga om att gå vidare till behandling, inte ett slutligt ja till lagtexten.
+**Uppdatering 10 november 2026:** Efter den schemalagda tiden rapporterade Associated Press och Axios att senaten den 9 november röstade **73–25** för cloture på motionen att gå vidare med H.R.2347. Det är en proceduromröstning som öppnar för fortsatt behandling, inte ett slutligt antagande av BAAJA eller dess 494-sidiga substitut. Resultatet klassificeras här som **OBEROENDE BEKRÄFTELSE** från två nyhetsredaktioner. Senatens publika pressgallerisida för 9 november visar fortfarande schemat, och ett individuellt officiellt roll-call-protokoll för denna omröstning har ännu inte identifierats i den kontrollerade Senate LIS-vyn. Resultatet ska därför inte märkas PRIMÄRKÄLLA förrän protokollet publicerats.
+
+Källor: AP, 9 november 2026: https://apnews.com/article/c6290598e26a7b01622e5c4eec571516 ; Axios, 9 november 2026: https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote ; Senate Press Gallery, dagsprogram 9 november: https://www.periodicalpress.senate.gov/ .
 
 Den 7 november publicerade de ansvariga senatorerna ett 494-sidigt substitut till **Bipartisan American Affordability and Jobs Act of 2026 (BAAJA)**. Det är viktigt eftersom äldre beskrivningar av septemberversionen inte längre återger den senaste texten.
 
