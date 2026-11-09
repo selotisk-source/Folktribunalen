@@ -107,3 +107,14 @@ Mötet den 5 november visar att frågan nu också är lokal och politisk. Den av
 - **ÖPPET:** Startbesked, ärende 2026-4321, nätavtal, miljövillkor, kundavtal och faktisk sysselsättning.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Ny lokal uppdatering – 9 november 2026
+
+SVT:s uppföljning efter samrådet den 5 november anger att protestlistan mot EdgeConneX-projektet samlat omkring 4 000 underskrifter. Detta är ett uppropstal, inte en representativ opinionsmätning eller ett formellt kommunalt veto.
+
+Kommunens bygglovsärende 2026-3140 gäller den första fasen. Den större campusvisionen om upp till cirka 1 GW ska inte beskrivas som redan tilldelad nätkapacitet, färdig byggnation eller driftsatt IT-last. Inget startbesked har identifierats i den offentliga projektdokumentation som kontrollerats.
+
+**Källstatus:** SVT är oberoende rapportering om uppropet och samrådet. Kommunens bygglovsbeslut är primärhandling; nätanslutning, startbesked och miljövillkor återstår att kontrollera.
+
+Källa: https://www.svt.se/nyheter/lokalt/vasterbotten/4000-personer-har-skrivit-under-protestlistan-mot-datacentret-i-skelleftea
