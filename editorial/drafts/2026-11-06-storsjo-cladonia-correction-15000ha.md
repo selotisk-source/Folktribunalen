@@ -153,3 +153,20 @@ SVT intervjuar en jägare i Storsjö som uppger att han jagat i området i 45 å
 **Källa:** SVT Jämtland, *Efter 45 år försvann rätten att jaga – när Alex Karp köpte skog i Härjedalen*, publicerad 7 november 2026 kl. 05.30, uppdaterad kl. 09.02: https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
 
 **Nästa kontroll:** begär de faktiska jaktupplåtelseavtalen, den nya skogsbruksplanen när den är färdig, relevanta naturvärdesinventeringar och eventuella nya beslut från Länsstyrelsen. JO-anmälans handläggningsstatus har inte uppdaterats i denna kontroll.
+
+
+## Ny källkontroll – 9 november 2026: protest, kommunmöte och transaktionsstruktur
+
+**OBEROENDE RAPPORTERING:** SVT rapporterar 9 november att ett upprop mot skogsköpet samlat över 30 000 underskrifter. Bergs kommun uppger att den haft kontakt med Cladonia Skog AB och att ett planerat möte skjutits upp. Antalet underskrifter är en kampanjuppgift och ska inte presenteras som en representativ opinionsmätning.
+
+**OBEROENDE RAPPORTERING / ÖPPEN DOKUMENTFRÅGA:** SVT:s rapportering 6 november säger att ön och de fastigheter som tidigare beskrivits som ett senare 300-hektarsköp ingick i SCA-affären i ett sammanhang. Det står mot Fastighetsvärldens tidigare uppgift om separat förvärvstillstånd och köpeskilling. Skillnaden kan avse juridisk tillståndsprocess kontra den samlade affären; lagfartsakter och köpehandlingar måste avgöra.
+
+**OBEROENDE RAPPORTERING / PARTSUPPGIFT:** SVT rapporterar 9 november att en lokal person tidigare nekats köpa mark från SCA med hänvisning till fastighetsbildningslagen och strandskyddsregler. Detta är en uppgift om SCA:s förklaring, inte bevis för att försäljningen till Cladonia bröt mot samma regler eller att villkoren var jämförbara.
+
+**Redaktionell gräns:** Cladonia Skog AB är juridisk köpare. Alex Karp är bolagets yttersta ägare enligt den rapportering som granskats; varje åtgärd ska tillskrivas bolaget om inte ett separat personligt beslut kan beläggas. Cladonias löfte att ordna vissa lokala jaktmöjligheter är fortfarande en partsuppgift tills avtal kan granskas.
+
+Källor:
+- SVT, upprop och uppskjutet möte, 9 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/debatt-och-upprop-efter-palantir-vdns-kop-i-harjedalen
+- SVT, fastigheterna och ön i SCA-affären, 6 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
+
+**Nästa kontroll:** lagfartsakter för samtliga berörda fastigheter; de två förvärvstillstånden; SCA:s skriftliga avslagsunderlag till lokal köpare; kommunens diarieförda kontakt och nytt mötesdatum; jakträttsavtal och eventuella uppsägningar.
