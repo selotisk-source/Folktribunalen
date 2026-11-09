@@ -134,3 +134,17 @@ https://www.bta.bg/en/news/bulgaria/1216695-tsar-samuel-s-remains-transfer-to-so
 **ÖPPET:** fullständig inventarielista över de 48 föremålen, mottagningsbevis efter 5 november, utgrävningsdagbok och vetenskaplig rapport om kvarlevornas identifiering.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Ny antropologisk källkontroll – 9 november 2026
+
+BTA:s fullständiga rapport från presskonferensen den 8 oktober innehåller en viktig distinktion som ska bevaras i huvudtexten:
+
+- Samuils kvarlevor ligger i sarkofag Gamma. Den preliminära undersökningen anger cirka 173 cm, dödsålder 60–70 år, degenerativa förändringar och en svår fraktur i vänster underarm som läkt med pseudartros.
+- Minst åtta barns kvarlevor, i åldrarna cirka tre månader till fem år, identifierades i sarkofag Delta – den gravstruktur som i rapporteringen kopplas till Gavril Radomir. Benen var fragmenterade och blandade. Detta är alltså inte ett fynd av åtta barn i Samuils egen sarkofag, och släktskap är inte fastställt.
+- Forskare planerar DNA-, radiokarbon- och stabil-isotopstudier. Små prover har skickats till laboratorier i Mainz och Bonn. Forskarna bedömer att publicering kan ta två till tre år och varnar för att gammalt DNA kan vara svårt att utvinna.
+- Längduppgiften 173 cm i BTA:s engelska text ska hållas skild från 153–155 cm i andra återgivningar. Mätmetod och underlag måste redovisas; den äldre uppskattningen omkring 150,6 cm från Yordanov 2010 byggde på fotografier och gipskopior, inte en ny direktmätning av benen.
+
+**Redaktionell följd:** texten får inte slå ihop Samuils skelett, Delta-sarkofagens barnkvarlevor och Gavril Radomirs attribution till ett enda fynd. DNA-resultat får inte föregripas.
+
+Källa: BTA, 8 oktober 2026, “Preliminary Examination of Tsar Samuel's Remains Reveals Chronic Illnesses, Severe Arm Injury”: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
