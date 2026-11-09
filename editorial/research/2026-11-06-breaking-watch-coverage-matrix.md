@@ -875,3 +875,28 @@ DANS är beställare; CAIS EOP och TED är offentliga upphandlingsregister; den 
 6. Storsjö: fastighetsutdrag, jaktupplåtelser, skogsbruksplan och JO:s diarieföring.
 7. NVIDIA: 17 november, med särskilt fokus på faktisk skuld, säkerheter, garantier och kund-/leverantörsåtaganden.
 
+
+
+## Delta – 9 november 2026 kl. 03.41 Europe/Sofia
+
+| Spår | Senast kontrollerat | Nya dokument/händelser | Källstatus och öppna frågor | Nästa kontrollpunkt |
+|---|---|---|---|---|
+| A Palantir | 9 nov | SEC 10-Q 3 nov: minst USD 5,6bn molninköpsåtagande till 2036; FT 5 nov om planerad tvåårig NHS-förlängning och brittisk upphandling; Guardian 2 nov om 29 NHS-trusts; FT om MoD-betalningar | 10-Q = PRIMÄRKÄLLA; NHS FOI = OBEROENDE BEKRÄFTELSE; förlängning = PARTSUPPGIFT/ej undertecknad; £282m/£95.9m är inte bevis för överdebitering | Begär/leta efter NHS formellt beslut, MoD payment dataset och redigerade kontrakt |
+| B AI-datacenter | 9 nov | EuroHPC 5 nov tekniskt omtag: gamla anbud/utkast ska återskapas; Lot1 4 feb 2027, Lot2 3 dec 2026; EU-rapport 68 TWh 2024 → 114 TWh 2030; EdgeConneX Skellefteå och Lyten katodkedja | EuroHPC = PRIMÄRKÄLLA; energiprognos = kommissionsunderlag; effektanslutning i Skellefteå ännu ej offentlig | Nya EuroHPC-länkar, samrådsprotokoll, bygglov/startbesked, nätanslutningsbeslut |
+| C Synkronicitet | 9 nov | Ny biosemiotisk teoripublikation | Teoretisk text, inte empirisk validering; ingen ny reproducerad studie hittad | Förregistrerade test, dataset och metodkritik |
+| D Sofia | 9 nov | 3 okt: kvarlevor tillskrivna Samuil överförda till Sofia; 48 föremål till Grekland | BTA + AFP; expert säger identifiering är indiciebaserad | Musei-/kyrkodokumentation, konserveringsrapport, eventuell släktskapsanalys |
+| E Mineraler | 9 nov | CRMA 46 nya projekt, total 106; Viscaria Q3 5 nov förlänger finansieringsarbetet ca 90 dagar | EU-beslut = PRIMÄRKÄLLA; Viscaria = PARTSUPPGIFT om finansiering | Tillstånd, FID, kreditbeslut, capex, lokala miljöbeslut |
+| F NVIDIA | 9 nov | SEC 8-K 3 sep: Hugging Face-förvärv USD 11.9bn + upp till USD 1bn retention; closing H1 2027 | SEC = PRIMÄRKÄLLA; affären ej stängd | Closing, myndighetsprövning, integrations-/open-source-villkor |
+| G Libanon | 9 nov | Ingen ny kristen-specifik händelse som passerar tröskeln | Ingen ny oberoende bekräftelse i denna cykel | UNIFIL/OCHA, patriarkat, egendoms-/domstolsakter |
+| H Kyrkorna | 9 nov | Inget nytt tillstånds-, ägar- eller restaureringsbeslut i de fem stadsdossiers | Inget nytt som kräver notis | Stadsspecifika kyrkoarkiv och byggnadsakter |
+| I Fennoskandien | 9 nov | EUDR-bilaga I 18 sep; tullkoder 23 sep; tillämpning 30 dec 2026 för stora/medelstora | Skogsstyrelsen/kommissionen = PRIMÄRKÄLLA | Spåra virkeskedja, småföretagsundantag, geolokalisering och tillsyn |
+| J Storsjöodjuret | 9 nov | Ingen ny fysisk observation; Thiel-analys 20 okt bygger på läckta privata föreläsningar | Sekundär rapportering; inget officiellt transkript | Arkivbelagda vittnesmål och primärtexten i First Things |
+| K Cladonia | 9 nov | SVT 6 nov bekräftar 15 000 ha/240 mkr som en SCA-affär; 300 ha/5 mkr ska inte räknas som senare separat köp; ISP “utan åtgärd”; JO-anmälan | SVT + SCA; ISP-beslut = PRIMÄRKÄLLA; JO-anmälan ≠ konstaterat fel | Lantmäteriets lagfartsakter, köpeavtal, jakt-/fiskeupplåtelser, JO:s diariebesked |
+| L Skaga kapell | 9 nov | Ingen ny restaurering eller ägarhändelse | Historiska dateringar delvis traditionella | RAA, kyrkoarkiv, byggnadsarkeologi |
+| M Athos | 9 nov | Ingen ny dokumenterad donation/proveniens Sverige–Bulgarien–Athos | MOmA-digitalisering relevant men inte en specifik bokresa | Katalogposter, proveniensnoteringar, offentliga donationsregister |
+| N Skrift till Storebror | 9 nov | AI Act: high-risk 2 dec 2027/2 aug 2028; EUDI-plånbok deadline 24 dec 2026 | Rådet = PRIMÄRKÄLLA; nationell wallet-status måste kontrolleras land för land | Bulgariens lag-/certifieringsstatus, första wallet-test och dataskyddsram |
+| O Hormuz | 9 nov | JMIC Update 112: 5 nya incidenter, 177 totalt sedan 1 mars, SEVERE; QatarEnergy force majeure till 31 dec, 38 laster/5 bcm, 27 ersatta | JMIC/UKMTO primärlägesbild; Reuters oberoende för LNG-förlängning; ej full incidentbekräftelse | Fartygs-ID, flaggstat, IMO-utredningar, LNG spotinköp och försäkringspremier |
+| P USA:s kongress | 9 nov | AP har kallat demokratisk seger i båda kamrarna efter valet 3 nov | Valresultat = oberoende prognos/call; formell kontroll först 3 jan 2027 | Certifiering, ledarskap, utskottsordföranden och formella övergångsbeslut |
+| Q Gripen | 9 nov | Första Brasilienbyggda Gripen E flög 6 okt; Saab AI-agenttest 3 nov | Saab/Embraer = PARTSUPPGIFT; flygningen rapporterad oberoende; AI-test saknar extern testrapport | Kundacceptans, leverans, certifiering, oberoende testdata |
+| R Energi | 9 nov | Lyten anger första kommersiella leveranser tidigt 2027; katodmaterial importeras från Kina/Sydkorea; söker lokal partner | Bolagsuppgift/medierapport; ingen reviderad volym | Cellproduktion, lokala katodavtal, nätanslutning och kapitalbehov |
+| S Urbergsskölden | 9 nov | Posiva fick drifttillstånd 22 okt till 2070, max 6 500 tU; STUK-inspektion kvar före drift | Finska statsrådet = PRIMÄRKÄLLA; Posiva kompletterar; drift ej startad | STUK:s förhandsinspektion, commissioning, CRMA-projektens FID och VPP/Cavecore-beslut |
