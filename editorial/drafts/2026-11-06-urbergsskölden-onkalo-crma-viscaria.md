@@ -505,5 +505,5 @@ Källor:
 **Öppet:** kommer tillståndet att förlängas efter 1 december? Vilka arbetsplaner, markägarunderrättelser, samråd och eventuella invändningar finns i Bergsstatens diarier? Vilka offentliga sameby- och miljöintressen berörs? Finns det en dokumenterad koppling till någon av Cladonias fastigheter? Ingen sådan koppling är belagd.
 
 Källa: SGU:s öppna mineralrättighetsregister, uppdaterat 8 november 2026:
-https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-beviljade/items?f=text%2Fhtml%26limit=50%26startIndex=100
+https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-beviljade/items?f=text%2Fhtml&limit=50&startIndex=100
 
