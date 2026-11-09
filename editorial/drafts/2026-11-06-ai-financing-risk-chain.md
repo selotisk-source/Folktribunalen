@@ -28,15 +28,24 @@ Anthropic uppger också uttryckligen att bolaget inte hade och inte hade några 
 
 Det är alltså inte fråga om att hela beloppet måste betalas kontant i dag. Men åtagandena skapar ett beroende av att intäkter, finansiering, efterfrågan och leveranser utvecklas tillräckligt väl under många år.
 
-## 63 miljarder dollar för Broadcom-utrustning
+## 63 miljarder dollar via ett SPV – Broadcom, Anthropic och fyra finanspartners
 
-Den 3 november rapporterade Reuters att Blackstone veckan före gått med på att tillsammans med Bank of America, Citi och Morgan Stanley tillhandahålla **63 miljarder dollar i finansiering för köp av Broadcoms AI-chip och nätverksutrustning till Anthropic**.
+Den 26 oktober 2026 offentliggjorde Bank of America, Blackstone, Citi och Morgan Stanley en **finansieringsstruktur på 63 miljarder USD** för AI-beräkningskapacitet åt Anthropic med Broadcoms teknik. Leveranser väntas börja under kalenderåret 2027.
 
-Reuters beskrev affären som en av de största skuldrelaterade transaktionerna i AI-utbyggnaden. Men den öppna rapporteringen ger inte en fullständig bild av konstruktionen. Det framgår inte vem som är formell låntagare, vem som äger utrustningen efter köpet, vilka säkerheter som ställs eller hur återbetalningen fördelas mellan parterna.
+**PRIMÄRKÄLLA – gemensamt transaktionsmeddelande:** Affären ska genomföras via ett nybildat special purpose vehicle (SPV). SPV:t ska köpa Broadcoms XPU-acceleratorer och nätverkslösningar och leasa utrustningen till Anthropic. Bank of America, Citi och Morgan Stanley arrangerar den seniora first-lien-delen. Blackstone är ensam tillhandahållare av den offentliggjorda, åtagna delen av second-lien-finansieringen. Broadcom lämnar residualvärdesstöd till SPV:t motsvarande first-lien-delen.
 
-Det vore därför fel att skriva att Anthropic automatiskt har tagit upp en skuld på 63 miljarder dollar. Det som är rapporterat är att Blackstone och tre banker tillhandahåller finansiering för att köpa utrustning som ska användas i Anthropics AI-infrastruktur.
+**OBEROENDE BEKRÄFTELSE – Reuters, 26 oktober:** Reuters uppger med hänvisning till två källor att first-lien-delen uppgår till cirka **43,5 miljarder USD**, omkring 69 procent av paketet. Den siffran står inte i det gemensamma transaktionsmeddelandet och ska därför fortsätta anges som Reuters uppgift, inte som en offentlig tranchefördelning.
 
-Här börjar den verkliga granskningen: vem står som ägare till chippen, vem bär värdeminskningsrisken och vad händer om utrustningen blir tekniskt föråldrad innan finansieringen är återbetald?
+**Vad som nu är känt:** finansieringsvägen går via ett SPV; SPV:t ska köpa Broadcom-utrustning; Anthropic ska vara leasetagare; tre banker arrangerar senior finansiering; Blackstone tillhandahåller den åtagna juniora delen; Broadcom ger residualvärdesstöd motsvarande seniorlånet.
+
+**Vad som fortfarande saknas:** SPV:ts fullständiga juridiska namn och låntagarstruktur i offentlig primärhandling, exakt äganderätt till utrustningen efter köp, räntor, löptider, amorteringsprofil, fullständiga säkerhetsavtal, villkor för residualvärdesstödet och om hela det åtagna beloppet kommer att dras. Transaktionsmeddelandet beskriver committed financing, inte att 63 miljarder redan har betalats ut eller att utrustningen är levererad.
+
+Detta är **inte** en skuld på 63 miljarder USD som utan vidare kan bokföras direkt hos Anthropic. Det är en finansierings- och leasingstruktur runt Broadcoms XPU- och nätverksutrustning. Det är dessutom en annan hårdvaruväg än NVIDIAs GPU-ekosystem och bör beskrivas som ett alternativt AI-compute-spår, inte som en NVIDIA-transaktion.
+
+Källor:
+- Primärkälla, Blackstone och finanspartnernas gemensamma meddelande, 26 oktober 2026: https://www.blackstone.com/news/press/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute/
+- Oberoende rapportering, Reuters, 26 oktober 2026: https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/
+- Oberoende juridisk transaktionsbekräftelse, Kirkland & Ellis, 26 oktober 2026: https://www.kirkland.com/news/press-release/2026/10/kirkland-advises-blackstone-on-fs-to-enable-compute-capacity-in-partnership-with-broadcom
 
 ## Google backar upp ett 19-miljardersavtal – men inte utan villkor
 
@@ -297,3 +306,24 @@ Detta ska jämföras med Oracle: Oracles ännu ej påbörjade leasingåtaganden,
 - DigitalOcean Form 10-Q, kvartal till 30 september 2026, leaseåtaganden som ännu inte börjat löpa: https://www.sec.gov/Archives/edgar/data/1582961/000162828026069141/R15.htm
 
 **Status:** Ny källbaserad sektion införd i granskningsutkastet 7 november 2026. Fortsatt draft; ingen merge eller webbpublicering.
+
+
+## Meta: 15 miljarder USD emitterade och 9 miljarder EUR planerade
+
+**Händelsedatum:** USD-erbjudandet prissattes 3 november 2026 och levererades enligt prospektet omkring 5 november. EUR-erbjudandets prospekt är daterat 4 november; förväntad leverans är 12 november.  
+**Källstatus:** **PRIMÄRKÄLLA** för villkor och emissionsstruktur; **OBEROENDE BEKRÄFTELSE** för USD-erbjudandets marknadskontext.
+
+Meta prissatte ett USD-erbjudande om **15 miljarder dollar** i fem serier. Kupongerna löper från 5,850 till 7,500 procent och förfallodagarna från 2031 till 2056. SEC-prospektet anger cirka 14,9 miljarder dollar i beräknade nettolikvider efter emissionskostnader. Obligationerna är seniora, utan säkerhet, och intäkterna anges vara avsedda för **allmänna bolagsändamål**.
+
+Meta lämnade därefter in ett separat EUR-prospekt om **9 miljarder euro** i sex serier, med kuponger från 4,300 till 6,400 procent och förfall 2031–2065. Prospektet anger cirka 8,96 miljarder euro i beräknade intäkter före vissa kostnader och förväntad leverans den 12 november 2026. Vid faktaläget 9 november är EUR-emissionen därför **inte behandlad som avvecklad eller kontant mottagen**.
+
+Reuters beskriver USD-emissionen som ett sätt att finansiera Metas växande AI-infrastrukturinvesteringar. Men de juridiska prospekten öronmärker inte intäkterna för AI; de anger allmänna bolagsändamål. Artikeln ska därför skilja mellan AI som investerings- och marknadskontext och den juridiska användningen av emissionslikviden.
+
+**Viktig redovisningsskillnad:** De nya obligationerna är faktisk skuld när de emitteras. De ska inte blandas ihop med Metas tidigare rapporterade framtida leasingåtaganden på 355,73 miljarder USD, som avser avtal som ännu inte börjat löpa och inte är samma post som redan redovisad skuld. Inte heller EUR-emissionens ännu väntade leverans ska behandlas som redan mottagna kontanter.
+
+Källor:
+- SEC, USD-prospekt 424B5, daterat 3 november 2026: https://www.sec.gov/Archives/edgar/data/1326801/000119312526448015/d135326d424b5.htm
+- SEC, EUR-prospekt 424B5, daterat 4 november 2026: https://www.sec.gov/Archives/edgar/data/1326801/000119312526450754/d44678d424b5.htm
+- Reuters, 3 november 2026: https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/
+
+**Redaktionell kontrollpunkt:** Följ om EUR-emissionen faktiskt avvecklas den 12 november och om Meta senare lämnar någon uttrycklig kapitalallokering som knyter emissionslikviden till AI-capex. Påstå inte att all ny skuld är AI-öronmärkt.
