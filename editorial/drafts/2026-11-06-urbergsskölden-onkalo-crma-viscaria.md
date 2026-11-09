@@ -477,7 +477,7 @@ Detta är en geokronologisk/proveniensbaserad kunskapsuppdatering. Den är **int
 **Publiceringsdatum:** Yle 14 oktober 2026.  
 **Berörda aktörer och plats:** Vaasa förvaltningsdomstol, Suhanko Arctic Platinum Oy, kommunerna Tervola och Keminmaa, naturvårdsorganisationer och andra klagande; Ranua i södra Lappland, med planerad avledning av behandlat gruvvatten till Kemijoki.
 
-**PRIMÄRKÄLLA/DOMSTOLSUPPGIFT:** Domstolen förbjöd att förberedande arbeten som stöds av Suhangos miljö- och vattenhushållningstillstånd inleds innan tillstånden vunnit laga kraft. Yles rapportering anger att nio överklaganden har lämnats in. De berörda arbetena omfattar bland annat anrikningsverk, avfalls- och sidobergsområden samt den planerade utsläppsledningen till Kemijoki.
+**OBEROENDE BEKRÄFTELSE – Yle återger domstolens interimistiska beslut:** Domstolen förbjöd att förberedande arbeten som stöds av Suhangos miljö- och vattenhushållningstillstånd inleds innan tillstånden vunnit laga kraft. Yles rapportering anger att nio överklaganden har lämnats in. De berörda arbetena omfattar bland annat anrikningsverk, avfalls- och sidobergsområden samt den planerade utsläppsledningen till Kemijoki. Den fullständiga domstolshandlingen har inte hämtats direkt i denna arbetscykel; den rättsliga uppgiften bygger här på Yles rapportering och ska inte märkas som direkt granskad primärhandling.
 
 **OBEROENDE BEKRÄFTELSE:** Yle rapporterade 14 oktober om domstolens interimistiska beslut. Bolagets egen nyhetssida bekräftar att Suhanko blev ett strategiskt CRMA-projekt den 9 oktober och att miljö- och vattenhushållningstillståndet ursprungligen beviljades 19 juni 2025.
 
