@@ -24,7 +24,7 @@ Det är den första driftlicensen i världen för en anläggning avsedd för geo
 
 Men licensen betyder inte att slutförvaringen har börjat. Posiva måste avsluta driftsättningsfasen och genomföra tester. Strålsäkerhetscentralen STUK ska göra en särskild inspektion och bekräfta att villkoren för säker drift är uppfyllda innan reguljär slutförvaring kan inledas.
 
-Licensen medger en planerad takt på högst 60 kapslar per år när verksamheten väl startar. Förvaret är dimensionerat för upp till omkring 3 300 kapslar och verksamheten väntas fortsätta in på 2120-talet. Efter förslutning övergår ansvaret till staten enligt kärnenergilagen.
+Förvaret är dimensionerat för omkring 6 500 ton använt kärnbränsle. Verksamheten är planerad att pågå under flera decennier och sträcka sig långt in på 2100-talet. Efter förslutning övergår ansvaret till staten enligt kärnenergilagen.
 
 Onkalo är därmed ett viktigt steg för civil underjordisk infrastruktur, men också ett exempel på hur tillstånd, driftsättning, tillsyn och långsiktigt ansvar måste hållas isär. Den centrala tekniska frågan är inte bara om berget är lämpligt, utan om hela säkerhetskedjan kan upprätthållas över mycket långa tidsperioder.
 
@@ -38,13 +38,15 @@ Det betyder inte att gruvavfallet saknar värde. Ombehandling kan i vissa fall v
 
 Den offentliga kartläggningen är därför viktig på två sätt: den kan visa var material finns och ge bättre underlag för miljöansvar, men den får inte användas som bevis för att varje avfallsområde är en ekonomisk fyndighet.
 
+**Nästa tidsfrist:** Artikel 27.3 i EU:s CRMA-förordning anger den 24 november 2026 som tidsfrist för berörda operatörer av befintliga utvinningsavfallsanläggningar att lämna in en preliminär ekonomisk bedömningsstudie av potentialen att återvinna kritiska råmaterial ur avfallet. Kravet gäller operatörer som omfattas av bestämmelserna om utvinningsavfallsanläggningar och deras avfallshanteringsplaner – inte alla gruvor eller alla markägare.
+
 ## 4. Finland bygger en nationell kapacitet för prospektering och gruvavfallsdata
 
 Den 13 augusti 2026 föreslog den finländska regeringen att GTK skulle få nya uppgifter enligt EU:s Critical Raw Materials Act (CRMA). Uppgifterna omfattar att ta fram och uppdatera ett nationellt prospekteringsprogram samt att inrätta och underhålla en databas över nedlagda utvinningsavfallsområden.
 
 Den ursprungliga planen var att lagarna skulle träda i kraft den 1 november 2026. Riksdagen behandlade proposition HE 133/2026 och godkände lagförslagen i oktober, med ändringar i huvudlagen.
 
-**Ny kontrollpunkt:** Statsrådets beslut den 5 november 2026 om riksdagens svar anger att republikens president ska stadfästa lagarna och att de ska träda i kraft den **15 november 2026**. Den tidigare 1 november-dagen var alltså regeringens ursprungliga avsikt i propositionen, inte det slutliga ikraftträdandedatum som senare beslutats.
+**Ny kontrollpunkt:** Statsrådets beslut den 5 november 2026 om riksdagens svar föreslår att republikens president stadfäster lagarna och bestämmer att de ska träda i kraft den **15 november 2026**. Presidentens stadfästelse återstår vid faktaläget den 9 november. Den tidigare 1 november-dagen var regeringens ursprungliga avsikt i propositionen, inte det datum som senare föreslogs i statsrådets beslut.
 
 Lagpaketet fördelar nationellt ansvar för prospekteringsprogram, gruvavfallsdatabas och marknadskontroll av vissa produkter med kritiska råmaterial. Det innehåller också bestämmelser om att verksamhetsutövare som måste upprätta avfallshanteringsplan för utvinningsavfall ska göra en preliminär ekonomisk bedömning av potentialen att återvinna kritiska råmaterial ur avfallet.
 
@@ -126,8 +128,8 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 4. **Finlands riksdag,** utskottsbetänkande TaVM 26/2026 om HE 133/2026: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732
 5. **GTK,** myndighetsuppgifter enligt CRMA, 13 augusti 2026: https://www.gtk.fi/sv/aktuellt/geologiska-forskningscentralen-far-uppgifter-enligt-eus-forordning-om-kritiska-ravaror/
 6. **GTK,** offentlig information om gruvavfallsområden och karttjänster: https://www.gtk.fi/en/current/geological-survey-of-finland-assigned-tasks-under-the-eu-critical-raw-materials-act/
-7. **Posiva,** information om driftlicensen och Onkalo: https://www.posiva.fi/en/index/news/pressreleasesstockexchangereleases/2026/posivareceivesoperatinglicenceforfinaldisposalofspentnuclearfuel.html
-8. **Finlands regering,** driftlicensbeslut för Posiva, 22 oktober 2026: https://valtioneuvosto.fi/paatokset/paatos?decisionId=7311
+7. **Posiva,** information om driftlicensen och Onkalo: https://www.posiva.fi/en/index/news/pressreleasesstockexchangereleases/2026/historicdecisionfinnishgovernmentgrantsoperatinglicencetoposiva.html
+8. **Finlands regering,** driftlicens för Posiva, 22 oktober 2026: https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility
 9. **EU-förordning 2024/1252,** särskilt artikel 27 om utvinningsavfall: https://eur-lex.europa.eu/eli/reg/2024/1252/oj
 10. **Gruvaktiebolaget Viscaria,** Q3-rapport 5 november 2026: https://www.viscaria.com/en/interim-report-july-september-2026/
 11. **Viscaria,** uppdatering om projektfinansiering 29 oktober 2026: https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/
@@ -141,7 +143,7 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 ## Faktakontroll och avgränsningar
 
 - Onkalos driftlicens är utfärdad, men reguljär slutförvaring har inte börjat. STUK:s särskilda inspektion och godkännande återstår.
-- Finland hade ursprungligen planerat att CRMA-lagpaketet skulle träda i kraft 1 november. Statsrådets beslut 5 november anger i stället 15 november 2026 som ikraftträdandedag efter stadfästelse.
+- Finland hade ursprungligen planerat att CRMA-lagpaketet skulle träda i kraft 1 november. Statsrådets beslut 5 november föreslår 15 november 2026 som ikraftträdandedag efter presidentens stadfästelse; stadfästelsen återstod vid faktaläget 9 november.
 - EU:s 46 nya projekt är en del av en total portfölj på 106, som omfattar 93 projekt inom EU och 13 utanför EU.
 - Den nya EU-listan omfattar i Norden Project Arctial, Sokli, Suhanko och Viscaria. Äldre CRMA-projekt som Hycamite, Jervois, Keliber, Kolmisoppi, Sakatti, ReeMAP och Talga tillhör den tidigare urvalsomgången och ska inte blandas in i listan över de 46 nya.
 - Arctial är ett förädlingsprojekt för aluminium; Sokli och Suhanko är utvinningsprojekt; Viscaria är kopparutvinning.
@@ -153,7 +155,7 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 
 ## Öppna kontrollpunkter före publicering
 
-1. Hämta den stadfästa finländska lagtexten och lagnumren när de publicerats efter beslutet den 5 november.
+1. Följ presidentens stadfästelse och hämta den slutliga finländska lagtexten och lagnumren; statsrådets beslut 5 november föreslår ikraftträdande 15 november.
 2. Följ STUK:s särskilda inspektion, driftsättningsvillkor och Posivas faktiska startdatum.
 3. Kontrollera GTK:s RAKKA-metadata och hur den nya databasen ska förvaltas, uppdateras och göras tillgänglig.
 4. Begär aktuella tillstånds-, miljö- och finansieringsstatusar för Arctial, Sokli och Suhanko från respektive projektägare och berörda myndigheter.
