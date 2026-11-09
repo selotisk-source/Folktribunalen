@@ -602,7 +602,7 @@ Källor:
 **Arbetsåtgärd:** PR #32 uppdaterad med fastighetsbeteckningarna och tydlig status för primärkontrollen.
 
 Källa:
-- Fastighetsvärlden, 19 oktober 2026: https://www.fastighetsvarlden.se/notiser/cladonia-koper-ytterligare-skog-i-storsjo/
+- Fastighetsvärlden, 19 oktober 2026: https://www.fastighetsvarlden.se/notiser/palantirs-vd-kopt-ytterligare-i-harjedalen/
 
 ### Övriga spår – kontrollmatris
 
