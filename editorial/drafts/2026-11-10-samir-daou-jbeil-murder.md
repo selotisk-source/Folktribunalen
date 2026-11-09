@@ -17,7 +17,7 @@ Det är därför viktigt att hålla tre nivåer åtskilda: mordet och gripandet,
 
 ## Prästen och församlingarna
 
-L'Orient Today uppgav att Daou tjänstgjorde i Hsoun och Ferhet. Ett uttalande från Maronitiska stiftet i Jbeil, återgivet av MTV Lebanon den 29 oktober, nämner Hsoun, Ferhet och Ain el-Delbeh. Den skillnaden bör kontrolleras mot stiftets egna församlingsoch tjänsteförteckningar innan en fullständig biografisk lista publiceras.
+L'Orient Today uppgav att Daou tjänstgjorde i Hsoun och Ferhet. Ett uttalande från Maronitiska stiftet i Jbeil, återgivet av MTV Lebanon den 29 oktober, nämner Hsoun, Ferhet och Ain el-Delbeh. Den skillnaden bör kontrolleras mot stiftets egna församlings- och tjänsteförteckningar innan en fullständig biografisk lista publiceras.
 
 Daou var verksam i ett bergsområde där lokala församlingar är nära knutna till byarnas sociala liv. Prästens roll omfattar ofta gudstjänst, begravningar, familjehögtider, omsorg och lokal kontinuitet. Det gör mordet till en förlust för de människor han tjänade, men det gör inte i sig brottet till ett religiöst motiverat angrepp.
 
