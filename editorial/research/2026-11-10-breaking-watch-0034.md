@@ -72,7 +72,7 @@ Källa:
 | D – Sofia | Ingen ny arkeologisk utgrävningsrapport eller ny dokumentation om Samuils grav identifierad i denna cykel. NAIM-BAS:s katalogmaterial kvarstår som forskningsunderlag. | Begär rapporter från NAIM-BAS, Sofia kommun och museer; håll gravtradition, arkeologi och tolkning isär. |
 | E – Mineraler | Viscarias Q3-material från 5 november beskriver planerad skuldfinansiering och fortsatt kreditprocess; inget utbetalt lån har belagts. | Följ SGU, GTK, Bergsstaten, miljöprövning och slutliga kreditdokument. |
 | F – NVIDIA/finansiering | Senaste identifierade SEC 10-Q gäller kvartalet som slutade 26 juli 2026, inlämnad 26 augusti. Nästa Q3-resultatkonferens är 17 november. | Kontrollera 10-Q och bolagets CFO-kommentar när Q3 publiceras; skilj åtaganden, kreditramar, utbetalningar och säkerheter. |
-| G – Libanon | Daou-fallet har nytt sammanställt källäge; motiv ej offentliggjort. PR #36 skapat. | Följ ISF, domstol, kyrkliga uttalanden, civila konsekvenser och byarnas återvändande. |
+| G – Libanon | PR #36 kompletterad med efterreaktionen: JPost (1 nov) rapporterar vissa offentliga krav på deportation/återvändande; SOHR (2 nov) varnar för kollektiv skuldbeläggning; ACHR:s oktoberöversikt (9 nov) redovisar 839 summerade gripanden från arméuttalanden (inte nödvändigtvis unika personer), en deportationshändelse och en incident med fientlig retorik efter mordet. ACHR anger att den inte fastställer juridisk uppvigling. Motiv till mordet fortsatt ej offentliggjort. | Följ ISF/domstoI, General Security, UNHCR och ACHR:s nästa rapport; håll mordutredning, offentlig debatt och flyktingrättsliga frågor åtskilda. |
 | H – Kyrkor genom imperierna | Inget nytt offentligt restaurerings- eller ägarbeslut identifierat. | Fortsätt stad-för-stad med kommunala byggnadsarkiv och kyrkoarkiv. |
 | I – Fennoskandien | Ingen ny markanvändnings- eller skogsbruksakt som passerar notiströskeln. Samiska sanningskommissionens korrigerade tal kvarstår: 71 uppmaningar och 49 förslag. | Följ skogsbeslut, rennäring, naturvärden och rättighetsprocesser. |
 | J – Storsjöodjuret | Ingen ny primär dokumentation om observationer, hydrologi eller Frösöstenen. | Fortsätt folkloristik och runologi separat från biologiska påståenden; Thiels citat kräver full kontext. |
@@ -118,3 +118,18 @@ Associated Press och Axios rapporterar att senaten röstade **73–25** för clo
 **Källor:** AP: https://apnews.com/article/c6290598e26a7b01622e5c4eec571516 ; Axios: https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote ; Senate Press Gallery: https://www.periodicalpress.senate.gov/ .
 
 **Arbetsåtgärd:** PR #10, PR #17 och täckningsloggen uppdateras med procedurresultatet och reservation om saknat individuellt primärprotokoll. Inget mergat eller publicerat.
+
+
+## G – Libanon: efterreaktionen efter mordet på Fader Samir Daou
+
+**Nytt underlag, publicerat 1–9 november 2026:** The Jerusalem Post rapporterade 1 november om vissa offentliga krav på deportation eller snabbare återvändande för syrier efter mordet. Det är belägg för en offentlig reaktion från namngivna röster och en opinionsartikel, inte för att hela Libanons kristna befolkning har en enhetlig ståndpunkt. Syrian Observatory for Human Rights varnade 2 november för att använda mordet för kollektiv skuldbeläggning av syriska flyktingar.
+
+Access Center for Human Rights (ACHR) publicerade 9 november sin oktoberöversikt. Den redovisar 18 incidenter, 12 händelser med gripanden/razzior och en summering om 839 gripanden från libanesiska arméns uttalanden. ACHR klargör att 839 inte nödvändigtvis motsvarar unika personer och att siffran inte omfattar gripanden utan offentliggjort antal. Rapporten dokumenterar en kollektiv/påtvingad deportationshändelse i oktober (jämfört med åtta händelser som berörde 264 personer i september) och ett fall av fientlig retorik efter Daou-mordet. ACHR fastställer inte att uttalandena når den juridiska tröskeln för uppvigling enligt ICCPR artikel 20(2).
+
+**Källstatus:** OBEROENDE RAPPORTERING (JPost); NGO-DOKUMENTATION/PARTSUPPGIFT (ACHR:s egen sammanställning); CIVILSAMHÄLLESBEDÖMNING (SOHR). Ingen ny primärhandling från ISF eller domstol om motivet har identifierats. Mordutredningen och den bredare flyktingrättsliga situationen är separata undersökningsspår.
+
+**Nästa kontroll:** ISF och domstolshandlingar; General Securitys beslut och återvändandestatistik; UNHCR:s 31 oktober-dashboard; ACHR:s metod och kommande månadsrapport.
+
+Källor: https://www.jpost.com/middle-east/article-913494 ; https://www.syriahr.com/en/387663/ ; https://achrights.org/en/2026/11/09/16652/ .
+
+**Arbetsåtgärd:** PR #36 kompletterad med en separat sektion om efterreaktionen. Ingen publicering eller merge.
