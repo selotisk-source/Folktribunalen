@@ -80,7 +80,7 @@ Källa:
 | L – Skaga | Ingen ny restaureringsakt eller inventarieförteckning identifierad. | Följ RAÄ, Länsstyrelsen, Tivedens lokala kyrkoarkiv och återuppbyggnadsdokumentation. |
 | M – Athos | Inget nytt offentligt katalog- eller donationsbesked identifierat. PR #26 kvarstår. | Följ offentliga kataloger och digitaliseringsprojekt; respektera klostrens tillträdesregler. |
 | N – Skrift till Storebror | Metas utvidgade AI-baserade åldersinferens på Instagram, publicerad 9 november, finns i masterplanens föregående logg. Inget nytt tillsynsbeslut identifierat. | Följ felklassificering, överklagande, dataskydd och svensk realtidsbiometri. |
-| O – Hormuz | PR #3 innehåller den senaste fullversionen med IMO:s 131 incidenter/25 omkomna och HUDA-spåret; Saudiarabiens pipelineattack 9 november finns som partsuppgift/rapporterad händelse. | Följ IMO/UKMTO, fartygsidentitet, försäkring, driftdata och oberoende skadebedömning. |
+| O – Hormuz | Ny primärkälla granskad: JMIC Update 112 (8 nov) anger 177 incidenter sedan 1 mars, fem nya i perioden och korrigerar Update 110 från 167 till 166 efter dubbelräkning. JMIC listar HUDA som UKMTO 198-26 men hänför fartygsidentifikationen till CENTCOM; status för besättning/skada/miljö var okänd vid rapporteringen. Separat från IMO:s 131 incidenter och 25 döda. | PR #3 uppdaterad. Följ UKMTO 199/200 för fartygsidentitet, JMIC:s nästa uppdatering, IMO-listan och oberoende skade-/trafikdata. |
 | P – USA:s kongress | BAAJA:s substituttext 7 november finns i PR #10. Cloture var planerad 9 november 17.30 ET; ingen officiell roll-call-post kunde identifieras vid kontrolltid 00.34 Sofia 10 november. | Kontrollera senatens röstningsregister och Congress.gov innan något utfall anges. |
 | Q – Gripen | Ingen ny offentlig beställning eller leveransuppgift identifierad. PR #12 kvarstår. | Följ Saab, FMV, Försvarsmakten, exportmyndigheter och leveransbesked; publicera inte operativa detaljer. |
 | R – Strategisk energi | Khor Mor-produktionen rapporterades fortsatt avstängd efter 8 november; ingen återstart bekräftad i denna cykel. Onkalo-licensen och Lyten/Northvolt-spåret kvarstår. | Följ Dana Gas, KRG-operatörer, STUK, Posiva och Northvolt/Lyten-anläggningarnas faktiska drift. |
@@ -94,3 +94,14 @@ Källa:
 - **PR #3, #10, #16, #17, #30, #33–35:** kvarstår som öppna granskningsärenden enligt respektive arbetsgren.
 
 **Publiceringsstatus:** Inga nya artiklar har mergats eller publicerats LIVE i denna cykel. PR #31, #32 och #36 är utkast. Ingen databasbaserad webbkö har ändrats eller påstås vara uppdaterad.
+
+
+## Tillägg efter direkt kontroll av JMIC Update 112
+
+**O – Hormuz, 10 november 2026:** Den ursprungliga UKMTO/JMIC-PDF:en för Update 112 har nu hämtats och lästs direkt. Den redovisar 177 incidenter sedan 1 mars, fem incidenter sedan föregående rapport och korrigerar Update 110 från 167 till 166 på grund av dubbelräkning. JMIC listar HUDA som UKMTO 198-26 men anger att fartyget identifierats som HUDA av CENTCOM; besättningens status, skada och miljöpåverkan var okända vid rapportering. Update 112 skiljer dessutom mellan UKMTO 199-26 (tankerbrand och evakuering nordväst om Khasab) och UKMTO 200-26 (separat tanker träffad av okänd projektil). Dessa fartyg är inte namngivna i rapporten. JMIC anger reducerad Hormuztrafik och höga ankarplatskoncentrationer; AIS- och interna uppskattningar har uttryckliga databegränsningar.
+
+**Mätdefinition:** JMIC:s 177 incidenter, IMO:s 131 bekräftade incidenter och IMO-rådets 130 verifierade attacker den 6 november är olika serier och kategorier. De ska inte adderas eller användas synonymt.
+
+**Källor:** JMIC Update 112 original-PDF: https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_112_08-nov.pdf?rev=fab35b6555404e9a92944523318e299a ; IMO Council, 6 november: https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx .
+
+**Arbetsåtgärd:** PR #3 uppdaterad med direkt granskad JMIC-källa och korrigerad källstatus. Inget publicerat eller mergat.
