@@ -321,6 +321,10 @@ Reuters beskriver USD-emissionen som ett sätt att finansiera Metas växande AI-
 
 **Viktig redovisningsskillnad:** De nya obligationerna är faktisk skuld när de emitteras. De ska inte blandas ihop med Metas tidigare rapporterade framtida leasingåtaganden på 355,73 miljarder USD, som avser avtal som ännu inte börjat löpa och inte är samma post som redan redovisad skuld. Inte heller EUR-emissionens ännu väntade leverans ska behandlas som redan mottagna kontanter.
 
+**Genomförandet bekräftat:** Meta lämnade in Form 8-K den 5 november och uppgav uttryckligen att USD-erbjudandet hade slutförts samma dag. Det gör USD-delen till emitterad skuld, inte bara ett prospekt eller planerat erbjudande. SEC:s 8-K-index och huvudhandling:
+- https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/0001193125-26-450074-index.htm
+- https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm
+
 Källor:
 - SEC, USD-prospekt 424B5, daterat 3 november 2026: https://www.sec.gov/Archives/edgar/data/1326801/000119312526448015/d135326d424b5.htm
 - SEC, EUR-prospekt 424B5, daterat 4 november 2026: https://www.sec.gov/Archives/edgar/data/1326801/000119312526450754/d44678d424b5.htm
