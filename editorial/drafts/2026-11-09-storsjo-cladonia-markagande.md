@@ -137,6 +137,20 @@ Det är där granskningen ska ligga: i skillnaden mellan vad som är köpt, vad 
 - Inga slutsatser om påverkan på samebyarnas faktiska renskötsel dras innan berörda samebyar har hörts.
 - Ingen fullständig fastighetslista, lagfartsakt, köpekontrakt eller skogsbruksplan har granskats direkt i denna arbetsomgång.
 
+## Handlingar som behöver hämtas från myndigheterna
+
+Länsstyrelsen Jämtland anger att webbdiariet visar ärenden, inkomna och utgående handlingar samt beslutsdatum, men att själva dokumenten måste begäras ut separat. Beslutade eller avslutade ärenden visas normalt i webbdiariet i sex månader. Myndigheten tar emot begäran om handlingar via **jamtland@lansstyrelsen.se** och upplyser att den som begär ut allmänna handlingar inte behöver ange namn eller skäl. Vissa uppgifter kan dock sekretessprövas, och elektroniskt utlämnande kan begränsas av dataskyddsregler.
+
+För detta ärende bör begäran avgränsas till:
+- förvärvstillståndet från 9 september 2026 och fullständig beslutsmotivering,
+- ansökan från Cladonia Skog AB med bilagor och fastighetsförteckning,
+- kungörelse/annonsering av förvärvet och eventuella intresseanmälningar,
+- tjänsteanteckningar och inkomna/utgående handlingar som rör bedömningen av sysselsättning och boende,
+- eventuella separata ärenden eller beslut som gäller Berg Storsjö 18:3 och 18:5 samt den rapporterade tilläggsaffären.
+
+Webbdiarium: https://diarium.lansstyrelsen.se/  
+Myndighetens instruktioner om begäran av allmän handling: https://www.lansstyrelsen.se/jamtland/om-oss/vara-tjanster/diarium-och-allmanna-handlingar.html
+
 ## Öppna kontrollpunkter före publicering
 
 1. Begär ut Länsstyrelsens fullständiga förvärvstillstånd, ansökan, underlag och fastighetsbilaga. Kontrollera beslutsdatum: SVT anger 9 september; en sekundär återgivning har angett 7 september.
@@ -160,4 +174,4 @@ Det är där granskningen ska ligga: i skillnaden mellan vad som är köpt, vad 
 - Tidslinje över köp, myndighetsbeslut, jaktavtal och bolagets offentliga besked.
 - Dokumentgrafik som skiljer äganderätt, förvärvstillstånd, ISP-beslut, jakträtt, renskötselrätt och allemansrätt.
 
-**Status:** Utkastet uppdaterat den 9 november med SVT:s senaste uppgifter om fem jaktlag och den fortsatta osäkerheten kring lokala jakträtter. Första sammanhängande artikelutkast skapat. Centrala uppgifter om myndighetsbeslut, jaktfrågan, bolagets besked och det lokala uppropet är kontrollerade mot SVT:s publicerade dokumentation och relevanta myndighetskällor. Fastighetsförteckning, originalbeslut, samebyarnas perspektiv och avtal återstår. Inte publicerad.
+**Status:** Utkastet uppdaterat den 9 november med SVT:s senaste uppgifter om fem jaktlag och den fortsatta osäkerheten kring lokala jakträtter. Myndigheternas officiella väg för att begära ut originalbeslut och ansökningsbilagor är nu dokumenterad. Första sammanhängande artikelutkast skapat. Centrala uppgifter om myndighetsbeslut, jaktfrågan, bolagets besked och det lokala uppropet är kontrollerade mot SVT:s publicerade dokumentation och relevanta myndighetskällor. Fastighetsförteckning, originalbeslut, samebyarnas perspektiv och avtal återstår. Inte publicerad.
