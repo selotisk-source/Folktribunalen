@@ -92,6 +92,29 @@ Reuters rapporterade den 4 november att de demokratiska huvudförhandlarna vill 
 
 **Den avgörande redaktionella distinktionen:** H.R.2347 har ett ursprungligt innehåll som inte handlar om datacenter eller tillståndsreform. Senate Daily Press beskriver det som ett lagstiftningsfordon. Om senaten går vidare måste det materiella reforminnehållet fortfarande läggas fram och behandlas. Omröstningen den 9 november får därför inte beskrivas som att senaten röstar igenom datacenterreglerna.
 
+## Norge: Statnett pausar nya anslutningsreservationer – regeringen förbereder licenskrav
+
+**Händelsedatum: 9 november 2026. Publiceringsdatum: 9 november 2026.**
+
+**PRIMÄRKÄLLA – regeringen:** Digitaliserings- och förvaltningsdepartementet och Energidepartementet meddelade att regeringen avser att införa en konsessions-/licensordning för både befintliga och framtida datacenter. Den ska väga in digital säkerhet, beredskap och behovet av AI-beräkningskapacitet. Kryptoutvinning ska inte klassas som samhällsnyttig datacenterverksamhet. Regeringen vill också att stora nya elkunder ska bidra mer till nätutbyggnad och systemkostnader, undersöker om industrin kan bidra till ny kraftproduktion och överväger statligt ägande i särskilt samhällsnyttiga projekt.
+
+**PRIMÄRKÄLLA – Statnett, publicerad 9 november kl. 08.45:** Statnett införde en tillfällig paus för nya reservationer av nätkapacitet till datacenter, nya ansökningar om godkännande av anläggningsfunktion enligt FOS §14 samt vissa ärenden om direktanslutning till 420 kV-nätet. Åtgärden gäller stora uttagskunder med särskild lastprofil, typiskt datacenter, och ska upphöra senast 1 augusti 2027.
+
+Statnetts egna tal visar omfattningen: 800 MW datacenterlast är redan ansluten, 4 200 MW har reserverad kapacitet, 9 100 MW står i kapacitetskön och ytterligare 18 000 MW har efterfrågat anslutning. Norges maximala effektförbrukning anges till drygt 25 000 MW. Dessa kategorier är olika steg i anslutningsprocessen och får inte summeras som om all kapacitet vore byggd eller bindande beställd.
+
+**Viktig avgränsning:** detta är inte ett generellt förbud mot datacenter. Befintliga anslutningar påverkas inte; anläggningar som redan fått nödvändiga funktionskrav godkända kan anslutas. Statnett säger också att kapacitet inte ska omfördelas till andra kunder om det skulle gå ut över datacenter som redan står före dem i kön.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade samma dag att datacenter stod för cirka 75 procent av de 26 GW nya anslutningsförfrågningar som Statnett mottagit under året. Det är en annan mätserie än Statnetts uppdelning mellan ansluten, reserverad, köad och ytterligare efterfrågad kapacitet.
+
+**Varför det spelar roll:** Norge flyttar datacenterfrågan från enskilda bygglov till nationell prioritering av el, nät, systemstabilitet och digital beredskap. Det gör nätanslutning och samhällsnytta till villkor för AI-expansionen, inte bara finansiering och tillgång till GPU:er. Beskedet korskopplar B med R och S och ger en nordisk jämförelsepunkt mot Finlands datacenterregister och de svenska projekten.
+
+**Vad som återstår:** regeringens konkreta lag-/förordningstext, trösklar för licensplikt, övergångsregler för befintliga projekt, kriterier för samhällsnytta, faktisk kostnadsfördelning samt vilka tekniska funktionskrav RME godkänner. Regeringens licensordning är ännu en aviserad inriktning, inte en färdig lag.
+
+Källor:
+- Regeringen.no, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- Statnett, 9 november 2026 kl. 08.45: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- Reuters, 9 november 2026: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+
 ## Den politiska konflikten handlar om vem som bär risken
 
 De senaste veckornas utveckling visar att datacenterfrågan har flyttat från företagens investeringspresentationer till den lokala demokratins kärnfrågor:
