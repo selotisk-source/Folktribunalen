@@ -81,7 +81,7 @@ Källa:
 | M – Athos | Inget nytt offentligt katalog- eller donationsbesked identifierat. PR #26 kvarstår. | Följ offentliga kataloger och digitaliseringsprojekt; respektera klostrens tillträdesregler. |
 | N – Skrift till Storebror | Metas utvidgade AI-baserade åldersinferens på Instagram, publicerad 9 november, finns i masterplanens föregående logg. Inget nytt tillsynsbeslut identifierat. | Följ felklassificering, överklagande, dataskydd och svensk realtidsbiometri. |
 | O – Hormuz | Ny primärkälla granskad: JMIC Update 112 (8 nov) anger 177 incidenter sedan 1 mars, fem nya i perioden och korrigerar Update 110 från 167 till 166 efter dubbelräkning. JMIC listar HUDA som UKMTO 198-26 men hänför fartygsidentifikationen till CENTCOM; status för besättning/skada/miljö var okänd vid rapporteringen. Separat från IMO:s 131 incidenter och 25 döda. | PR #3 uppdaterad. Följ UKMTO 199/200 för fartygsidentitet, JMIC:s nästa uppdatering, IMO-listan och oberoende skade-/trafikdata. |
-| P – USA:s kongress | BAAJA:s substituttext 7 november finns i PR #10. Cloture var planerad 9 november 17.30 ET; ingen officiell roll-call-post kunde identifieras vid kontrolltid 00.34 Sofia 10 november. | Kontrollera senatens röstningsregister och Congress.gov innan något utfall anges. |
+| P – USA:s kongress | AP och Axios rapporterade att senaten 9 november röstade 73–25 för cloture på motionen att gå vidare med H.R.2347. Procedurframsteg, inte slutligt antagande av BAAJA. Senate Press Gallery visar fortfarande schemat; individuellt officiellt roll-call-protokoll har ännu inte identifierats. | Uppdatera PR #10 och #17. Följ Senate LIS/Congressional Record för primärprotokollet och eventuell fortsatt behandling/ändringar. |
 | Q – Gripen | Ingen ny offentlig beställning eller leveransuppgift identifierad. PR #12 kvarstår. | Följ Saab, FMV, Försvarsmakten, exportmyndigheter och leveransbesked; publicera inte operativa detaljer. |
 | R – Strategisk energi | Khor Mor-produktionen rapporterades fortsatt avstängd efter 8 november; ingen återstart bekräftad i denna cykel. Onkalo-licensen och Lyten/Northvolt-spåret kvarstår. | Följ Dana Gas, KRG-operatörer, STUK, Posiva och Northvolt/Lyten-anläggningarnas faktiska drift. |
 | S – Urbergsskölden | HE 282/2026 om finskt datacenterregister korskopplas till B. Inget nytt offentligt tillträdes- eller säkerhetsunderlag för underjordiska anläggningar. | Följ CRMA, GTK RAKKA, SGU, Bergsstaten, Posiva och civil energilagring utan känsliga åtkomstuppgifter. |
@@ -105,3 +105,16 @@ Källa:
 **Källor:** JMIC Update 112 original-PDF: https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_112_08-nov.pdf?rev=fab35b6555404e9a92944523318e299a ; IMO Council, 6 november: https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx .
 
 **Arbetsåtgärd:** PR #3 uppdaterad med direkt granskad JMIC-källa och korrigerad källstatus. Inget publicerat eller mergat.
+
+
+## P – USA:s kongress: BAAJA passerar första procedurtestet
+
+**Händelsedatum:** 9 november 2026. **Rapporteringsdatum:** 9 november. **Kontroll:** 10 november 2026.
+
+Associated Press och Axios rapporterar att senaten röstade **73–25** för cloture på motionen att gå vidare med H.R.2347, det lagstiftningsfordon som används för BAAJA:s tillståndsreform. Det öppnar för fortsatt behandling men är inte ett slutligt godkännande av lagpaketet. Den officiella Senate Press Gallery-sidan för 9 november visar fortfarande den planerade omröstningen; ett individuellt roll-call-protokoll har inte identifierats i den kontrollerade Senate LIS-vyn. Källstatus för siffran 73–25 är därför **OBEROENDE BEKRÄFTELSE**, inte primärprotokoll.
+
+**Betydelse:** BAAJA:s datacenterbestämmelser om kostnadsansvar, nätinvesteringar och styrbara resurser går vidare till fortsatt behandling. Miljöprövning, urfolks konsultation och möjligheten till domstolsprövning är fortsatt omstridda. Procedurframsteget ska inte beskrivas som att lagen är antagen.
+
+**Källor:** AP: https://apnews.com/article/c6290598e26a7b01622e5c4eec571516 ; Axios: https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote ; Senate Press Gallery: https://www.periodicalpress.senate.gov/ .
+
+**Arbetsåtgärd:** PR #10, PR #17 och täckningsloggen uppdateras med procedurresultatet och reservation om saknat individuellt primärprotokoll. Inget mergat eller publicerat.
