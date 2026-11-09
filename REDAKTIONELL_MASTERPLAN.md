@@ -4,6 +4,17 @@
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
+## Aktuell arbetsuppdatering – 9 november 2026, kväll
+
+- **Hormuz fullversion:** [PR #3](https://github.com/selotisk-source/Folktribunalen/pull/3) är draft och ej mergad. Fulltexten uppdaterades 9 november med IMO:s 131 bekräftade incidenter/25 dödsfall, IMO:s nya HUDA-post och tydligare osäkerhetsmärkning för UKMTO 199/200. Kräver separat godkännande; den tidigare kortversionens godkännande gäller inte fullversionen.
+- **Norge/AI-elnät:** Komplett första utkast i `editorial/drafts/2026-11-09-norge-ai-elnat.md`, [PR #31](https://github.com/selotisk-source/Folktribunalen/pull/31). Draft, ej mergat eller publicerat.
+- **Storsjö/Cladonia:** Komplett första utkast i `editorial/drafts/2026-11-09-storsjo-cladonia-markagande.md`, [PR #32](https://github.com/selotisk-source/Folktribunalen/pull/32). Draft, ej mergat eller publicerat. SVT 9 november anger över 30 000 underskrifter och uppskjutet kommunmöte. ISP beslutade 27 augusti att lämna anmälan utan åtgärd; Länsstyrelsen beviljade förvärvstillstånd 9 september. Fastighetsförteckning, lagfarter, originalbeslut och samebyarnas perspektiv återstår.
+- **Palantir/NHS:** Uppdaterat huvudutkast i `editorial/drafts/2026-11-09-palantir-nhs-datamakt.md`, [PR #33](https://github.com/selotisk-source/Folktribunalen/pull/33). Innehåller SEC Q3, parlamentets muntliga bevisning 4 november och Guardian-granskningen 9 november om lobbying kring GP-data. Draft, ej mergat eller publicerat.
+- **Urbergsskölden/CRMA:** Uppdaterat huvudutkast i `editorial/drafts/2026-11-09-urbergsskölden-crma-urberg.md`, [PR #34](https://github.com/selotisk-source/Folktribunalen/pull/34). Innehåller EU:s 46 nya strategiska projekt, Finland/Sverige/Bulgarien, föreslaget ikraftträdande 15 november för finländskt lagpaket och Onkalo/Viscaria. Draft, ej mergat eller publicerat.
+- **Publiceringsläge:** Inga nya artiklar har mergats eller publicerats. GitHub-PR:er är granskningsposter, inte webbplatsens databasbaserade kö. Databasbaserad kö och admin/API är inte end-to-end-testade i denna uppdatering.
+- **Arbetsordning:** De fem prioriterade spåren har nu uppdaterade utkast eller granskningsposter. Fortsätt med källfördjupning och faktakontroll; publiceringsgodkännande hanteras separat, ett utkast i taget. Ingen artikel går LIVE utan uttryckligt godkännande.
+
+
 ## 1. Publiceringsstatus och system
 
 - GitHub: https://github.com/selotisk-source/Folktribunalen
