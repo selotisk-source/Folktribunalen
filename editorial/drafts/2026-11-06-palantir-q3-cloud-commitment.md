@@ -244,3 +244,57 @@ Beloppen är **ökningar i kostnad för sålda tjänster**, inte Palantirs total
 **Källstatus: PRIMÄRKÄLLA** – Palantir Form 10-Q, avsnitt *Cost of Revenue*, publicerad 3 november 2026. **ÖPPET:** fördelningen mellan externa molnleverantörer, kundkonton och regioner är inte redovisad i denna kostnadsnot.
 
 Källa: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+
+## NHS-avtalet: regeringen uppges välja en förlängning – men beslutet är ännu inte formellt
+
+**Publiceringsdatum:** 6 november 2026 för den nya medierapporteringen; 29 oktober 2026 för House of Commons Librarys faktasammanställning; 2 november 2026 för Guardian:s FOI-granskning.
+
+Den 6 november rapporterade Guardian, med hänvisning till Financial Times, att ministrarna planerar att förlänga Palantirs £330m Federated Data Platform-avtal i stället för att använda den första break-optionen. Samtidigt ska en ny upphandling för en brittisk leverantör förberedas, med målet att kunna ersätta Palantir om ungefär två år. Guardian uppger att regeringens granskning bedömt ett omedelbart utträde som alltför störande för NHS:s verksamhet.
+
+**Källstatus:** **OBEROENDE MEDIERAPPORTERING – ännu inte formellt bekräftad av regeringen.** Guardian återger FT:s rapport. Något publicerat ministerbeslut, ny upphandlingsannons eller undertecknat förlängningsbeslut har inte identifierats i denna kontroll. Det får därför inte skrivas som att regeringen redan formellt har förlängt avtalet.
+
+### Avtalsramen enligt parlamentets faktasammanställning
+
+House of Commons Library publicerade 29 oktober en briefing som anger att NHS England i november 2023 tilldelade kontraktet till ett konsortium lett av Palantir Technologies UK Ltd, med Accenture, PwC, NECS och Carnall Farrar. Avtalet började i mars 2024, med en initial treårsperiod och optionsmöjlighet upp till sju år totalt. Den första möjligheten att avstå från förlängning brukar kallas break clause; NHS England uppgav i utskottsförhör att leverantören behövde informeras i december 2026 om avtalet inte skulle förlängas efter mars 2027.
+
+Parlamentets briefing anger också att en oberoende utvärdering från Imperial College Projects väntas publiceras först efter att beslutet om förlängning fattats. National Audit Office väntas rapportera om NHS:s integration av patientdata under vintern 2026/27. Detta skapar en central granskningsfråga: kommer förlängningsbeslutet att fattas innan den oberoende utvärderingen finns tillgänglig?
+
+### Faktisk användning: “live” är inte samma sak som klinisk användning
+
+House of Commons Library anger att 142 av 202 NHS-trusts var i live operational use i augusti 2026 och att 170 hade undertecknat ett memorandum of understanding. Guardian:s FOI-granskning den 2 november identifierade samtidigt 29 trusts som NHS England offentligt listade som “realising benefits”, men som i svar på FOI-förfrågningar sade att systemet inte var live eller att de inte använde dess applikationer.
+
+Dessa siffror har olika datum och kategorier. De bevisar inte att 29 av 142 trusts är helt inaktiva. De visar däremot att följande statusar måste hållas isär:
+- tekniskt ansluten eller tenant etablerad,
+- registrerad som live,
+- aktiv användning av en viss FDP-app,
+- klinisk användning i patientflöden,
+- dokumenterad och mätbar verksamhetsnytta.
+
+Guardian:s FOI-material är oberoende journalistisk rapportering, inte en komplett officiell NHS-revision. NHS England har svarat att vissa trusts kan använda begränsade delar av plattformen för back-office-analys och kostnadsrapportering.
+
+### Nyttopåståenden saknar fastställd kausalitet
+
+NHS England har tidigare hänvisat till 117 539 fler operationer och minskade utskrivningsförseningar. Health and Social Care Committee återgav den 9 juli NHS Englands förtydligande att före-/efterjämförelserna inte kontrollerade för andra variabler och att myndigheten därför inte kunde dra slutsatser om orsak och verkan. Office for Statistics Regulation har enligt Guardian den 2 november tagit frågan vidare inom sin casework-funktion.
+
+Det är därmed inte korrekt att säga att Palantirs system bevisligen orsakade 117 539 fler operationer. Det korrekta är att NHS England redovisat en före-/efterförändring, samtidigt som myndigheten medgett att kausal effekt inte kan fastställas med den använda metoden.
+
+### Varför detta spelar roll
+
+Det framväxande mönstret är en kombination av tekniskt leverantörsberoende och en politisk exitkostnad. Om regeringen förlänger avtalet därför att ett omedelbart byte anses operativt riskfyllt, men samtidigt vill bygga en brittisk ersättare, blir den centrala frågan hur mycket kontroll, dataåtkomst, know-how och immateriella rättigheter NHS faktiskt kan ta med sig vid en framtida övergång.
+
+### Öppna frågor före publicering
+
+1. Finns det ett formellt ministerbeslut om förlängning, eller är det fortfarande en plan enligt FT/Guardian?
+2. När kommer den nya upphandlingen att annonseras, och vilka krav ställs på brittisk leverantör, datalagring, exit och interoperabilitet?
+3. Vilka rättigheter till programvara, konfigurationer, dataexport, dokumentation och kunskapsöverföring finns i det signerade avtalet?
+4. Hur definierar NHS England “live”, “realising benefits” och aktiv klinisk användning i sin aktuella rapportering?
+5. När publicerar Imperial College Projects sin oberoende utvärdering, och varför ska den enligt Commons Library komma efter förlängningsbeslutet?
+6. Vad blir resultatet av OSR:s casework om FDP:s effektpåståenden?
+
+Källor:
+- House of Commons Library, 29 oktober 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-12264/
+- Guardian, 6 november 2026, återger FT:s uppgift om förlängning och brittisk ersättare: https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news?page=with:block-6aedef458f082a3892f69965
+- Guardian, 2 november 2026, FOI-granskning av 29 trusts: https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts
+- Health and Social Care Committee, 9 juli 2026: https://committees.parliament.uk/committee/81/health-and-social-care-committee/news/214760/drop-palantirs-federated-data-platform-and-look-for-alternative-mps-tell-health-minister/
+
