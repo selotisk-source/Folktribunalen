@@ -133,7 +133,9 @@ Det finns också en viktig institutionell begränsning: den demokratiska majorit
 
 **Senaste dokumentdatum:** 7 november 2026. **Reuters-rapport:** 9 november 2026. **Kontrolltid:** 9 november 2026 kl. 23.54 Sofia.
 
-Senatens officiella kalender anger en cloture-omröstning om motionen att ta upp H.R.2347 omkring kl. 17.30 Eastern Time måndagen den 9 november. Vid denna kontrolltid – kl. 16.54 Eastern Time – hade den planerade omröstningen ännu inte ägt rum. Den gäller om senaten ska kunna gå vidare med behandlingen, inte ett slutligt antagande av hela lagpaketet.
+**Uppdatering 10 november 2026:** Efter den schemalagda tiden rapporterade Associated Press och Axios att senaten den 9 november röstade **73–25** för cloture på motionen att gå vidare med H.R.2347. Det är en proceduromröstning som öppnar för fortsatt behandling, inte ett slutligt antagande av BAAJA eller dess 494-sidiga substitut. Resultatet klassificeras här som **OBEROENDE BEKRÄFTELSE** från två nyhetsredaktioner. Senatens publika pressgallerisida för 9 november visar fortfarande schemat, och ett individuellt officiellt roll-call-protokoll för denna omröstning har ännu inte identifierats i den kontrollerade Senate LIS-vyn. Resultatet ska därför inte märkas PRIMÄRKÄLLA förrän protokollet publicerats.
+
+Källor: AP, 9 november 2026: https://apnews.com/article/c6290598e26a7b01622e5c4eec571516 ; Axios, 9 november 2026: https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote ; Senate Press Gallery, dagsprogram 9 november: https://www.periodicalpress.senate.gov/ .
 
 Det materiella paketet heter **Bipartisan American Affordability and Jobs Act of 2026 (BAAJA)**. Det presenterades den 30 september av senatorerna Shelley Moore Capito, Mike Lee, Martin Heinrich och Sheldon Whitehouse. Den 7 november publicerade de ansvariga senatorerna ett 494-sidigt substitut. Utskottets pressmeddelande beskriver ändringarna som förtydligande, samordnande och tekniska, men textjämförelsen visar en viktig förändring för datacenter.
 
