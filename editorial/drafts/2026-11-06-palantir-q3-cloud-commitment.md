@@ -231,3 +231,16 @@ The Guardian rapporterade den 2 november att 29 Trusts som NHS England räknat s
 **Primärkälla:** NHS England dashboard, uppdaterad 12 juni 2026: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/impact/fdp-uptake-and-benefits/
 **Oberoende rapportering:** The Guardian, 2 november 2026: https://www.theguardian.com/technology/2026/nov/02/palantir-ai-tech-unused-or-little-used-by-29-nhs-trusts-said-to-be-benefiting-from-it
 
+
+
+## SEC-tillägg 9 november: molnhostingens kostnadssida
+
+Palantirs Q3-10-Q ger en kompletterande bild av vad molnberoendet kostar i den löpande verksamheten. Kostnaden för sålda tjänster ökade med **176 miljoner dollar (85 procent)** under kvartalet jämfört med samma kvartal 2025. Av ökningen hänförde bolaget **135 miljoner dollar** till tredjeparts molnhosting, 21 miljoner till aktiebaserad ersättning och 14 miljoner till hårdvara och andra direkta kostnader; en minskning på 9 miljoner i underleverantörs- och fältservicekostnader motverkade delar av ökningen.
+
+För årets första nio månader ökade kostnaden för sålda tjänster med 323 miljoner dollar, varav 263 miljoner hänfördes till tredjeparts molnhosting. Samtidigt steg bruttomarginalen till 83 procent från 82 procent i Q3 och till 85 procent från 81 procent för niomånadersperioden. Det finns alltså stöd för att molnkostnaden växer kraftigt i absoluta tal, men inte för att den redan pressar bruttomarginalen i den redovisade perioden.
+
+Beloppen är **ökningar i kostnad för sålda tjänster**, inte Palantirs totala molnnota. 10-Q beskriver även hostingkostnader inom forskning och utveckling samt försäljning/marknadsföring. Dessa poster ska inte summeras utan att deras exakta avgränsning kontrolleras.
+
+**Källstatus: PRIMÄRKÄLLA** – Palantir Form 10-Q, avsnitt *Cost of Revenue*, publicerad 3 november 2026. **ÖPPET:** fördelningen mellan externa molnleverantörer, kundkonton och regioner är inte redovisad i denna kostnadsnot.
+
+Källa: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
