@@ -82,6 +82,14 @@ Det är här den praktiska frågan om suveränitet uppstår. Data kan juridiskt 
 
 En brittisk ersättningsleverantör löser inte automatiskt problemet om NHS fortfarande blir beroende av en enda sluten plattform. Öppna datastandarder, dokumenterade gränssnitt och möjlighet att byta enskilda komponenter kan vara minst lika viktiga som leverantörens nationalitet.
 
+## Parlamentsledamotens invändning: ägda appar är inte nödvändigtvis flyttbara
+
+I en kommentar publicerad i The Guardian den 9 november utvecklar Labour-ledamoten Ben Coleman, medlem i Health and Social Care Committee, kritiken mot en förlängning. Han argumenterar för att NHS inte bör förlänga avtalet mer än vad som krävs för en ordnad övergång till ett öppnare alternativ. Hans centrala invändning är teknisk: NHS kan äga applikationerna eller ha rätt att använda dem, men om de är byggda för att köras på Palantirs plattform är ägandet inte tillräckligt för att garantera faktisk portabilitet.
+
+Coleman hänvisar till ett ministeriellt svar från augusti som enligt honom lämnade öppet vilka arrangemang som upphör när kontraktet tar slut. Han kritiserar också att regeringen inte gjort en fullständig kartläggning av vilka Palantir-verktyg enskilda truster är beroende av. Hans förslag är att publicera kostnader och beroenden, frysa nya applikationer under en övergångsperiod, införa öppna standarder och kräva att minst en applikation flyttas från plattformen inom ett år.
+
+Detta är en ledamots politiska och tekniska argument i en opinionsartikel, inte ett nytt formellt regeringsbeslut eller en oberoende teknisk revision. Men det konkretiserar vilka bevis som saknas: en inventering av beroenden, en kostnadsatt exitplan och ett praktiskt migrationstest där en applikation faktiskt körs på annan infrastruktur.
+
 ## Fem frågor inför nästa avtalsperiod
 
 1. **Datagräns:** Vilka kategorier av patientdata ingår i FDP i dag, och vilket formellt beslut skulle krävas för att lägga till GP-journaler?
@@ -112,7 +120,7 @@ Nästa avtalsbeslut bör därför inte reduceras till valet mellan Palantir och 
 2. **The Guardian, 2 november 2026:** *Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it*: https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts
 3. **Reuters, 2 november 2026:** Palantirs Q3-resultat och efterfrågan på AI-programvara: https://www.reuters.com/technology/palantir-tops-third-quarter-revenue-estimates-strong-ai-software-demand-2026-11-02/
 4. **Financial Times, 5 november 2026:** Rapportering om regeringens planerade förlängning och förberedelser för en senare ersättningsupphandling: https://www.ft.com/content/bd35cc23-9c24-4ac5-8754-76ed8dd0c264
-5. **The Times, 5 november 2026:** Rapportering om att regeringen inte avser att använda den tidiga uppsägningsmöjligheten: https://www.thetimes.com/uk/healthcare/article/palantir-nhs-contract-f7mcmrm0b
+5. **The Times, 5 november 2026:** Rapportering om att regeringen inte avser att använda den tidiga uppsägningsmöjligheten: https://www.thetimes.com/uk/healthcare/article/palantir-nhs-contract-f7mcmrm0b\n6. **The Guardian, 9 november 2026, kommentar av Ben Coleman MP:** *British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it*: https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm
 
 ## Faktakontroll och avgränsningar
 
@@ -137,4 +145,4 @@ Nästa avtalsbeslut bör därför inte reduceras till valet mellan Palantir och 
 7. Begär direkt bemötande från NHS England, Palantir, Department of Health and Social Care, BMA och National Data Guardian.
 8. Följ upp lobbyingregistrering och eventuella intressekonflikter kring tidigare ministrar och externa rådgivare.
 
-**Status:** Uppdaterat första sammanhängande utkast med SEC:s Q3-rapport, parlamentets muntliga bevisning den 4 november och Guardian-avslöjandet den 9 november. Utkastet skiljer dokumenterad lobbying från genomförd dataintegration och rapporterad avtalsförlängning från formellt beslut. Inte publicerat.
+**Status:** Utkastet kompletterat med Ben Colemans Guardian-kommentar den 9 november om portabilitet, leverantörsberoende och öppna standarder. Kommentaren hålls åtskild från formella beslut och myndighetsfakta. Uppdaterat första sammanhängande utkast med SEC:s Q3-rapport, parlamentets muntliga bevisning den 4 november och Guardian-avslöjandet den 9 november. Utkastet skiljer dokumenterad lobbying från genomförd dataintegration och rapporterad avtalsförlängning från formellt beslut. Inte publicerat.
