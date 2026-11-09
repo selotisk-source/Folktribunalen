@@ -2,7 +2,7 @@
 
 **Artikeltyp:** Granskning · AI-infrastruktur · offentlig ekonomi · energipolitik  
 **Utkastdatum:** 7 november 2026  
-**Faktaläge:** 7 november 2026  
+**Faktaläge:** 9 november 2026  
 **Berörda redaktionella spår:** B – Europas och världens AI-datacenter · N – övervakning och offentlig styrning · P – USA:s kongress · R – strategisk energi
 
 *AI-industrins byggboom möter en ny politisk verklighet. I 40 av 41 lokala omröstningar i USA den 3 november gick väljarna i riktning mot begränsningar av datacenter. Texas får en ny guvernör som vill pausa expansionen tills skyddsregler finns på plats. OpenAI presenterar samtidigt ett nytt samhällsåtagande – och senaten förbereder en proceduromröstning om ett lagpaket som skulle förändra vem som betalar för elnäten.*
