@@ -301,9 +301,9 @@ Källor:
 **Publiceringsdatum:** Reuters 29 oktober 2026; The Guardian 22 oktober och 29 oktober 2026.  
 **Plats och aktörer:** Muhos i norra Finland; Tuike Finland Oy, Googles projektbolag, den finska tillsynsmyndigheten LVV och polisen.
 
-**PRIMÄRKÄLLA/ myndighetsåtgärd:** LVV beordrade den 6 oktober att förberedande arbeten som väsentligt förändrar miljön skulle stoppas vid planerade datacenter i Muhos och Kajaani i avvaktan på miljökonsekvensbedömningar.
+**OBEROENDE BEKRÄFTELSE – Reuters och The Guardian återger LVV:s stoppbeslut:** LVV beordrade den 6 oktober att förberedande arbeten som väsentligt förändrar miljön skulle stoppas vid planerade datacenter i Muhos och Kajaani i avvaktan på miljökonsekvensbedömningar. Den fullständiga beslutstexten från LVV har inte hämtats direkt i denna arbetscykel.
 
-**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 29 oktober att polisen öppnat en brottsutredning om misstänkta överträdelser av vattenlagen och miljöskada vid Muhos. Utredarna granskar bland annat dränering och vattenhantering. Reuters återger att cirka 330 hektar skog röjts vid Muhos innan nödvändig miljöbedömning var klar. Polisen sade att utredningen väntas fortsätta in i 2027 och att en uppdatering planeras i december.
+Reuters rapporterade 29 oktober att polisen öppnat en brottsutredning om misstänkta överträdelser av vattenlagen och miljöskada vid Muhos. Utredarna granskar bland annat dränering och vattenhantering. Reuters återger att cirka 330 hektar skog röjts vid Muhos innan nödvändig miljöbedömning var klar. Polisen sade att utredningen väntas fortsätta in i 2027 och att en uppdatering planeras i december.
 
 **PARTSUPPGIFT:** Google sade att bolaget kommer att samarbeta med myndigheterna. Det är inte ett erkännande av brott eller ett slutligt myndighetsfynd. Ingen åtalad person eller fällande dom är identifierad i det material som kontrollerats.
 
@@ -324,7 +324,7 @@ Källor:
 - Lot 1: förlängd sista anbudsdag **4 februari 2027 kl. 17.00 CET**.
 - Tidigare utkast och redan inskickade anbud i det gamla systemet ska inte användas; nya länkar ska tillhandahållas.
 - Initiativet avser upp till sju AI-gigafabriker. Kommissionen har angett upp till 10 miljarder euro i EU- och nationellt offentligt stöd och minst 20 miljarder euro i förväntad privat investering. Det är ett finansieringsmål/ramverk, inte ett redan utbetalt kapitalbelopp.
-- Eighteen Member States signed the joint procurement agreement. No award decision or site selection is confirmed at this stage.
+- Arton medlemsstater har undertecknat det gemensamma upphandlingsavtalet. Något tilldelningsbeslut eller val av platser är inte bekräftat i denna fas.
 
 **Redaktionell betydelse:** Tidsplanen är en upphandlingsprocess, inte byggstart eller driftsatt kapacitet. Den nya uppdelningen mellan Lot 1 och Lot 2 måste användas i kommande bevakning; den äldre gemensamma deadlineuppgiften är inaktuell.
 
