@@ -2,7 +2,7 @@
 
 **Artikeltyp:** Institutionell granskning · kongressmakt · AI · försvar · tillsyn  
 **Utkastdatum:** 6 november 2026  
-**Faktaläge:** 6 november 2026  
+**Faktaläge:** 9 november 2026  
 **Berörda redaktionella spår:** USA:s kongress · Palantir och offentlig makt · NVIDIA och AI-finansiering · Hormuz och säkerhet · Gripen och Europas försvar
 
 *Demokraterna har enligt Associated Press vunnit kontrollen över både representanthuset och senaten i mellanårsvalet den 3 november. Det innebär ett tydligt skifte för den kommande kongressen – men inte en omedelbar förändring av utskottsmakten. Den nuvarande 119:e kongressen sitter kvar tills den nya kongressen tillträder den 3 januari 2027.*
