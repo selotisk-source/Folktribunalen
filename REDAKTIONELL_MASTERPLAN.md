@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 7 november 2026, 08.26 Europe/Sofia  
+**Version:** 9 november 2026, 01.47 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
@@ -196,8 +196,7 @@ Varje porträtt ska ha biografiska primärkällor, historisk kontext och autenti
 ### Publicerings- och driftsstatus kl. 15.09
 
 - **Render statisk webbplats folktribunalen:** senaste deployment dep-dbo6g9rrjlhs73ai5500, commit 8e46f91e643be55cce6afed9ed6d05d5c9aae707, status **LIVE**, avslutad 8 november kl. 12.16.54 UTC.
-- Den deployade src/app.js innehåller Hormuzkortet, artikelkroppen och etiketten PUBLICERAD 8 NOVEMBER 2026. Den innehåller Huda och Task Force Iron Gate samt den tidigare saudiska varningen, men inte de senare UKMTO 199/200-uppgifterna eller skadan på Aramcos administrativa byggnad i Riyadh. Dessa finns i PR #3:s senare draft.
-- **UI-avvikelse:** startsidans statiska HTML har fortfarande texten “FÖRSTA UTGÅVAN UNDER ARBETE/PRODUKTION” samtidigt som Hormuzkortet i src/app.js är märkt publicerat. Detta bör harmoniseras i en separat webbändring.
+- Den deployade src/app.js innehåller Hormuzkortet, artikelkroppen och etiketten PUBLICERAD 8 NOVEMBER 2026. Den innehåller Huda och Task Force Iron Gate samt den tidigare saudiska varningen, men inte de senare UKMTO 199/200-uppgifterna eller skadan på Aramcos administrativa byggnad i Riyadh. Dessa finns i PR #3:s senare draft.- **UI-avvikelse:** startsidans statiska HTML har fortfarande texten “FÖRSTA UTGÅVAN UNDER ARBETE/PRODUKTION” samtidigt som Hormuzkortet i src/app.js är märkt publicerat. Detta bör harmoniseras i en separat webbändring.
 - **Render editorial-service:** senaste deployment är dep-dblq3nafngtc73c0l87g, commit 6a835783553565f239864a9da7160d9f79f692b2, från 4 november. Ingen ny deployment finns i tjänstens deploylista.
 - **Render Postgres:** databasen folktribunalen-db är available, men ipAllowList är tom. En read-only fråga misslyckades med felmeddelandet: “This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it.” Databasens köstatus kan därför inte läsas.
 - **Publik visning:** webbförfrågan till https://folktribunalen.onrender.com/ misslyckades i denna miljö med DNS-felet “Could not resolve host”. Render-status och GitHub-artefakt är kontrollerade; separat visuell webbläsarkontroll är inte genomförd.
@@ -264,3 +263,76 @@ Varje porträtt ska ha biografiska primärkällor, historisk kontext och autenti
 - Direkt hämtning av den publika sidan via den tillgängliga webbläsarkontrollen gav **Internal Error**; Render bekräftar deploymentstatus LIVE men visuell rendering har inte kunnat kontrolleras i denna kontroll.
 - Render Postgres `folktribunalen-db` har fortfarande tom `ipAllowList`. En ny read-only fråga mot `information_schema.tables` misslyckades med det exakta felet: “This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it.” Databasens faktiska godkännandekö kan därför inte läsas. Ingen bred öppning av databasen har gjorts.
 - Ingen artikel har mergats eller publicerats i denna cykel. Den tidigare publicerade Hormuz-huvudversionen på `main` är separat från PR #3:s utökade granskningsutkast.
+
+## Ny cykel 9 november 2026 kl. 01.47 Europe/Sofia – delta sedan 8 november 17.52
+
+Denna cykel har åter screenat samtliga spår A–S. Nedan dokumenteras nytt eller korrigerat material. Befintliga fynd i tidigare PR:er upprepas inte som nyheter.
+
+### Betydande nya uppgifter och källstatus
+
+- **B/R – Finland: datacenterexpansionen går in i konkret miljöprövning samtidigt som Google-projekten är regulatoriskt pausade.**
+  - **PRIMÄRKÄLLA, publicerad 5 november:** LVV lade ut Uus-Olkkola-programmet för miljökonsekvensbedömning. Projektbeskrivningen omfattar upp till 900 MW över cirka 160 hektar i Pyhäjärvi; första genomförandefasen anges som 100 MW. Samrådet löper 5 november–4 december 2026. Detta är ett YVA-program, inte bygglov, nätanslutningsavtal eller byggstart. https://www.ymparisto.fi/fi/osallistu-ja-vaikuta/ymparistovaikutusten-arviointi/uus-olkkolan-datakeskus-pyhajarvi-haapajarvi
+  - **PRIMÄRKÄLLA:** Tervamäki i Iisalmi är ett separat projekt på cirka 1,2 GW och 112 hektar. LVV har förlängt samrådet till 9 november 2026 efter dokumenterade webbplatsstörningar 8–10 och 21–22 oktober. Detta är en processuell förlängning för att säkra fungerande hörande enligt YVA-lagen, inte en ny kapacitetsökning. https://www.ymparisto.fi/fi/osallistu-ja-vaikuta/ymparistovaikutusten-arviointi/tervamaen-datakeskus-iisalmi
+  - **PRIMÄRKÄLLA, 22 oktober:** LVV:s uppföljning säger att Tuike Finland den 14 oktober uppgav att bolaget hade stoppat förberedelsearbeten vid både Muhos och Kajaani-Otanmäki efter myndighetens uppmaning den 6 oktober. Vid Muhos krävs en detaljerad vattenhanteringsplan senast 5 november, med bland annat oberoende vattenövervakning, skyfall, snösmältning och risker från svartskiffer/sura sulfidjordar. LVV bedömer också att dikningen kräver vattenrättsligt tillstånd. https://www.sttinfo.fi/tiedote/72435808/lupa-ja-valvontavirasto-vaatii-tuike-finland-oylta-toimenpiteita
+  - **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 29 oktober att polisen öppnat en förundersökning om misstänkt miljöskada vid Muhos. **OBEKRÄFTAT/ÖPPET:** inget offentligt efterföljande myndighetsbesked om huruvida planen lämnats in, godkänts eller om någon begränsad aktivitet återupptagits har identifierats per 9 november. Det är en paus av miljöförändrande förberedelsearbete, inte ett slutligt avslag eller ett generellt förbud mot all planering. https://www.reuters.com/business/environment/finland-launches-criminal-probe-suspected-environmental-damage-google-data-2026-10-29/
+  - **Separat upphandlingsspår:** EuroHPC:s AI-gigafactory-call har sista anbudsdag 12 november. Det är en egen upphandling; den ska inte blandas ihop med senare datum som redan finns i PR #24. EuroHPC anger upp till sju gigafabriker i minst sju medlemsstater, offentlig upphandling som ankarkund och förväntade privata investeringar över 20 md euro. Urval väntas tidigt 2027; drift inom 18 månader efter urval är en plan, inte befintlig kapacitet. https://www.eurohpc-ju.europa.eu/eurohpc-joint-undertaking-launches-ai-gigafactories-call-2026-07-30_en
+
+- **E/S – Viscaria, Kiruna: finansieringsprocessen har en tydligare men ännu inte bindande tidslinje.**
+  - **PRIMÄRKÄLLA, 29 oktober:** Viscaria uppger att ING och Société Générale är lead arrangers; fyra till sex europeiska affärsbanker väntas ansluta till syndikatet tillsammans med exportkreditinstituten Euler Hermes och Finnvera. Bolaget räknar med att slutföra skuldfinansieringsprocessen inom 90 dagar och väntar sig kreditgodkännande från huvudbankerna omkring årsskiftet. Detta är ett pågående due-diligence-/syndikeringsarbete, inte ett undertecknat slutligt låneavtal eller utbetald kredit. https://www.viscaria.com/sv/viscaria-lamnar-uppdatering-om-projektfinansieringsprocessen/
+  - **PRIMÄRKÄLLA, Q3-rapport 5 november:** nettoomsättning 0 MSEK, resultat efter skatt −21,0 MSEK, kassaflöde 123 MSEK, likvida medel 1 471 MSEK per 30 september och aktiverade prospekterings-/utvärderingsutgifter 152 MSEK. Bolaget anger fortsatt första säljbara koppar 2028. Strategisk CRMA-status är inte gruvtillstånd, mineralreserv, färdig finansiering eller kommersiell produktion. https://www.viscaria.com/sv/delarsrapport-juli-september-2026/
+  - **ÖPPEN FRÅGA:** stäm av 2025 års icke-bindande term sheet om upp till cirka 3,9 md SEK mot slutliga kreditgodkännanden, låneavtal, säkerhetspaket, exportkreditgarantier och faktiskt finansiellt tillträde.
+
+- **K – Cladonia/Storsjö: rättelse av uppgiften om ett separat senare markköp.**
+  - **OBEROENDE BEKRÄFTELSE, SVT publicerad 6 november:** SVT skriver uttryckligen att flera fastigheter, inklusive ön, köptes av SCA i ett enda svep; totalpriset för hela affären anges till 240 MSEK och arealen till cirka 15 000 hektar. Detta korrigerar den tidigare formuleringen som lämnade öppet om ön eller cirka 300 hektar skulle vara ett separat senare köp. Ett separat tillståndsspår kan avse administrativ handläggning av en delmängd, men får inte användas som bevis för en andra köpeskilling eller adderas till arealen utan lagfarts-/köpehandlingsstöd. https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
+  - SVT återger Cladonias egna uppgifter: ingen avverkning planeras vintern 2026/27; en ny skogsbruksplan tas fram; bolaget säger att allemansrätt, samebyarnas renbetesrätt, servitut och vissa föreningsavtal består. Detta är **PARTSUPPGIFT**, inte oberoende kontroll av framtida markförvaltning.
+  - **KONTEXT, redan införd i PR #4:** SVT:s 7 november-reportage om jaktlagens upplåtelser beskriver att tidigare jakträttsavtal upphörde i samband med SCA:s försäljning och att Cladonia ännu inte fastställt nya lokala upplåtelser. Det ska beskrivas som avtals-/upplåtelsefråga, inte som att allemansrätten eller en generell lagstadgad rätt till jakt har upphört. https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
+
+- **C – Synkronicitetsprotokollet: empirisk och teoretisk evidens hålls isär.**
+  - **OBEROENDE PUBLICERAD FORSKNING, 11 mars 2026:** en matchad studie med 242 deltagare jämför ultraortodoxa och sekulära judiska deltagare i Israel. Den finner samband mellan anknytningsmönster, meningsdetektion i sammanträffanden och upplevd mening i livet; synkronicitetsmedvetenhet i sig medierade inte sambandet. Studien mäter självrapporterad tolkning och mening, inte objektivt verifierade sammanträffanden eller en acausal mekanism. Författarna efterlyser longitudinella och experimentella studier. https://doi.org/10.3389/fpsyg.2026.1609435
+
+- **D – Samuil i Sofia: en avvikande längduppgift ska inte återges som fastställd.**
+  - BNR och BNT:s rapportering från 8 oktober anger cirka 153 cm från den preliminära antropologiska analysen. En sekundär artikel hos 24chasa anger 173 cm. Det senare avviker från BNR/BNT:s återgivning och ska tills vidare behandlas som sannolikt publicerings-/transkriptionsfel, inte som en andra mätning. Den äldre uppskattningen omkring 150,6 cm byggde på fotografier/gipskopior, inte en ny direktmätning. Fullständigt antropologiskt protokoll har inte hämtats. BNT rapporterar att en könsbestämning av prov i Bonn pekade på manligt kön; detta är inte samma sak som en genetisk identitetsmatchning eller ett släktskapstest. https://bnrnews.bg/sofia/post/539293/ucheni-tsar-samuil-e-bil-visok-153-sm-i-e-stradal-ot-reditsa-zabolyavaniya och https://bntnews.bg/news/dnk-analiz-izotopi-i-oshte-prouchvaniya-balgarskite-ucheni-za-ostankite-na-samuil-i-kostite-predadeni-ot-garciya-1416045news.html
+
+- **N – Från skrift till Storebror: EU:s AI-regelkalender ändrades genom bindande förordning.**
+  - **PRIMÄRKÄLLA:** Förordning (EU) 2026/1744 publicerades i EUT 24 juli och trädde i kraft 27 juli 2026. Den flyttar tillämpningen av AI Act-reglerna för Annex III-högrisk till **2 december 2027** och Annex I-högrisk till **2 augusti 2028**. Detta är inte en allmän paus av AI Act: redan tillämpliga förbud, GPAI-krav och transparensregler enligt artikel 50 ska hållas åtskilda från de uppskjutna högriskkraven. https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng
+  - Sveriges lag 2026:806 om realtidsbaserad biometrisk fjärridentifiering och IMY:s tillsyn från 1 juli finns redan i PR #21. Ingen ny offentlig svensk användningslogg eller nytt tillståndsbeslut identifierades i denna cykel.
+
+- **O/R – Hormuz och Irak: ny uppgift om en särskild exportkorridor nära Oman.**
+  - **PARTSUPPGIFT återgiven av Reuters 8 november:** Iraks utrikesminister Fuad Hussein sade i en Al Jazeera-intervju att Bagdad nått överenskommelser med USA om att irakisk olja ska kunna exporteras genom Hormuz via en sjöled nära Oman. Reuters återger irakiska energitjänstemäns uppgift att exporten steg från cirka 2,65 miljoner fat/dag i september till cirka 3,5 miljoner i oktober. Ministerns uppgift om 60 md USD i förluster är hans egen uppskattning. Ingen offentlig avtalstext, amerikansk bekräftelse, startdag eller oberoende fartygs-/lastserie som visar att just den nya korridoren redan används har identifierats. Skriv därför ”överenskommelser enligt ministern”, inte ”formellt avtal” eller ”säkrad export”. https://www.reuters.com/business/energy/iraq-has-reached-understandings-us-to-allow-oil-exports-through-hormuz-minister-says-2026-11-08/
+
+- **R – Northvolt/Lyten: produktion har återstartat i begränsad skala, men leverans är senarelagd.**
+  - **OBEROENDE BEKRÄFTELSE, SVT publicerad 18 oktober:** ett par hundra personer arbetar i Skellefteå; en produktionslina körs stegvis och bolaget säger att första kommersiella leveranser väntas i början av 2027. Det är inte belägg för storskalig produktion, full återanställning eller att den tekniska kapaciteten redan används. Tidigare mål om leveranser under andra halvåret 2026 har flyttats. https://www.svt.se/nyheter/lokalt/vasterbotten/har-startar-batterifabriken-om-i-skelleftea-ida-ar-tillbaka-sa-kul
+
+### Täckningsmatris A–S – 9 november
+
+| Spår | Kontrollutfall denna cykel | Öppna frågor / nästa kontroll |
+|---|---|---|
+| A Palantir | Q3-10-Q, kundkoncentration, 5,6 md USD molnåtagande och NHS-frågor redan i PR #7; inget nytt primärdokument i denna cykel. | NHS-kontrakt, DPIA, revision/exit, uppsägning och namngiven molnleverantör. |
+| B AI-datacenter | Nya finska YVA-program för Tervamäki och Uus-Olkkola; Google/Tuike-paus och förundersökning. | Tervamäki-samråd 9 nov; Uus-Olkkola 4 dec; Tuikes plan efter 5 nov och myndighetens beslut. |
+| C Synkronicitet | 2026-studie med 242 deltagare; inga objektiva eller kausala/acausala belägg. | Fulltext, mätinstrument, preregistrering, basfrekvens och replikation. |
+| D Sofia | Samuils ceremoniella återföring är känd; 153 cm stöds av BNR/BNT, 173 cm är en avvikande sekundär uppgift. | Full antropologisk rapport, metod, DNA/isotoper, 2010/2024-studierna. |
+| E Mineraler | Viscarias Q3 och finansieringsprocess har ny tidslinje; CRMA-listan är redan i PR #9. | Kreditgodkännanden, slutligt syndikat, låneavtal, säkerheter och resurs-/reservstatus. |
+| F NVIDIA | Q2 FY2027-10-Q och garanti-/åtagandekedjan redan i PR #14. | Q3-resultat 17 november; stängning av planerade transaktioner och förändrade garantier. |
+| G Libanon | Daou/UNIFIL-spåren redan dokumenterade; inget nytt verifierat kyrkoangrepp eller rättsligt beslut denna cykel. | ISF-/domstolsakt, civila återvändanden och UNIFIL:s faktiska avvecklingsplan. |
+| H Kyrkor | Wiesbaden, Warszawa, Prag, Sofia och Varna screenade; ingen ny restaurerings-/ägandehandling utöver Samuil-händelsen i D. | Kommunala byggnadsarkiv, kyrkoarkiv och kulturarvsbeslut. |
+| I Fennoskandien | Ingen ny geologisk/skoglig/hästhistorisk primärhandling som ändrar läget. | SGU/GTK, skogsbruksplaner, fornminnen, renskötsel och hästavelns arkiv. |
+| J Storsjöodjuret | Ingen ny oberoende observation eller fysisk evidens. | Arkivvittnesmål, hydrologi, runologiska källor och fullständiga Thiel-transkript. |
+| K Cladonia/Storsjö | SVT korrigerar uppgiften om separat senare köp: flera fastigheter i ett enda SCA-förvärv, cirka 240 MSEK. | Lagfarter, köpehandlingar, två eventuella tillståndsakter, jakträttsavtal och ny skogsbruksplan. |
+| L Skaga kapell | Ingen ny RAÄ-/länsstyrelse-/kyrkoarkivhandling identifierad. | Dendrokronologi, brand-/återuppbyggnadskedja, inventarier och ägande. |
+| M Athos | Tidigare katalog-/digitaliseringsspår kvarstår; inget nytt offentligt proveniens- eller donationsdokument. | Katalogposter, proveniens, metadata och öppna digitaliseringsprojekt. |
+| N Storebror | EU-förordning 2026/1744 ändrar AI Act-tidslinjen; svensk realtidsbiometri redan i PR #21. | Nationell implementering, tillsyn, tillståndsloggar och verklig användning. |
+| O Hormuz | Ny irakisk ministeruppgift om sjöled nära Oman; befintliga UKMTO 197–200 hålls separata i PR #3. | US/Iraq-avtalstext, AIS/lastdata, försäkringspremier och fartygsidentiteter. |
+| P USA:s kongress | Midtermresultat och planerad AI-agenda redan i PR #10; inget nytt formellt lagbeslut denna cykel. | Officiell certifiering, utskottsordföranden och procedurresultat 9 nov. |
+| Q Gripen | Saab AI-agentförsök och FDI-fregattavtal redan i PR #12; ingen ny operativ förmåga verifierad. | Testprotokoll, användningsram, mänsklig kontroll och formella Gripen-beställningar. |
+| R Energi/större bolag | Lyten återstartar en lina; första kommersiella cellleveranser väntas Q1 2027. Fortum/Google-PPA är fortsatt viktig bakgrund. | Kvalificering, faktisk produktion, kundacceptans, lokal katod-/materialkedja och elavtal. |
+| S Urbergsskölden | Onkalo-licensen och CRMA/GTK-spåren redan dokumenterade; Viscaria finansiering tillför nytt delta. | STUK:s förstartskontroll, CRMA-genomförande, civila bergrum och långsiktig förvaltning. |
+
+### Redaktionell arbetskö och teknik
+
+- **Befintliga PR:er uppdateras – inga nya artikel-PR:er öppnas i denna cykel.** Nya deltan hör hemma i PR #4 (Cladonia), #9 (Viscaria), #15 (Lyten), #17 (Finland/EU-datacenter), #21 (AI Act-tidslinjen), #3 (Irak/Hormuz) och denna masterplan-PR #16.
+- GitHub har **28 öppna PR:er** i Folktribunalen-repot vid denna kontroll. Den stora befintliga kön hanteras artikel för artikel; ingen batch-merge.
+- **Ingen merge eller publicering har skett i denna cykel.** PR #16 är fortsatt en granskningsgren.
+- Render: statiska webbplatsens senaste deployment är fortfarande **LIVE**, dep-dbo6g9rrjlhs73ai5500, commit 8e46f91e643be55cce6afed9ed6d05d5c9aae707, färdig 8 november 12.16.54 UTC. Editorial-webbtjänstens senaste deployment är 4 november, commit 6a835783553565f239864a9da7160d9f79f692b2.
+- Render Postgres folktribunalen-db är status **available**, men IP-allowlist är tom och databasen har utgångsdatum 4 december 2026 på nuvarande free-plan. Databasens faktiska godkännandekö kan därför inte läsas via extern anslutning. Exakt tidigare fel: “This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it.” Ingen IP-allowlist har öppnats och ingen databasskrivning har gjorts.
+- Render bekräftar deploymentstatus LIVE, men en separat visuell kontroll av publika sidan har inte genomförts i denna cykel.
+
