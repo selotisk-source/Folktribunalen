@@ -65,7 +65,7 @@ Irans uppgift om förstörda navigationshjälpmedel är fortsatt en **PARTSUPPGI
 - **OBEROENDE BEKRÄFTELSE:** AP: https://apnews.com/article/2d5c046e85cb666fb84482b132f15898
 - **Redaktionsstatus:** Nytt granskningsutkast PR #35. Inte mergat eller publicerat. Direkt IAEA-webbpublicering av 8 november-uttalandet har inte identifierats; IAEA-uppgifterna återges av Reuters och AP.
 
-### S. Fennoskandiska urbergsskölden / tvärgående industri- och infrastruktursprår
+### S. Fennoskandiska urbergsskölden / tvärgående industri- och infrastrukturspår
 
 Inga nya beslut om CRMA-genomförande, GTK/RAKKA, SGU, Bergsstaten eller Posivas Onkalo identifierades i denna kontroll. Den nya BAAJA-substituttextens avsnitt 2108 om styrbara resurser bakom mätaren och aggregeringar är däremot relevant för VPP och civil energiflexibilitet. Det är lagförslagstext, inte ett finansierat eller driftsatt projekt.
 
