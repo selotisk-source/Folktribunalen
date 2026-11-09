@@ -70,27 +70,29 @@ Det är dessutom ett frivilligt bolagsåtagande, inte en lag eller ett myndighet
 
 **Källstatus:** **PRIMÄRKÄLLA / PARTSUPPGIFT** – OpenAI:s egna dokument, publicerade 5 november. Dokumenten styrker vad bolaget lovar, men inte att varje löfte redan har omsatts i bindande avtal eller genomförts på en viss plats.
 
-## Senaten: en proceduromröstning den 9 november kan öppna vägen för nya regler
+## Senaten: BAAJA:s nya substituttext skärper kostnadsansvaret – och ändrar tröskeln
 
-Den amerikanska senaten återkommer till lagstiftningsarbetet måndagen den **9 november**. Enligt den officiella Senate Daily Press ska senaten omkring **17.30 Eastern Time** rösta om cloture på motionen att ta upp H.R.2347, som Senate Press Gallery beskriver som det lagstiftningsmässiga fordonet för ett nytt tillståndsreformpaket.
+Senatens officiella kalender anger en cloture-omröstning om motionen att ta upp H.R.2347 omkring kl. 17.30 Eastern Time den 9 november. Vid kontrolltidpunkten 23.54 i Sofia (16.54 Eastern Time) hade omröstningen ännu inte ägt rum. Det är en procedurfråga om att gå vidare till behandling, inte ett slutligt ja till lagtexten.
 
-Det är en viktig men begränsad omröstning. Den gäller inte slutligt antagande av tillståndsreformen och inte heller ett slutligt ja eller nej till dess materiella innehåll. Den gäller om debatten om att ta upp lagstiftningsfordonet ska kunna avslutas. Enligt senatens regler kräver cloture normalt tre femtedelar av senatorerna – 60 röster i en fulltalig senat.
+Den 7 november publicerade de ansvariga senatorerna ett 494-sidigt substitut till **Bipartisan American Affordability and Jobs Act of 2026 (BAAJA)**. Det är viktigt eftersom äldre beskrivningar av septemberversionen inte längre återger den senaste texten.
 
-Det föreslagna reformpaketet heter **Bipartisan American Affordability and Jobs Act of 2026**. Det presenterades den 30 september av senatorerna Shelley Moore Capito, Mike Lee, Martin Heinrich och Sheldon Whitehouse.
+I septemberversionen fanns en 20 MW-tröskel för vissa datacenterbestämmelser. I substituttextens avsnitt 2107 används i stället den funktionella definitionen **computational load site**: en plats med IT-infrastruktur för programvarutjänster, AI-träning/utrullning/leverans, kryptomining eller annan datacenterberäkning, ansluten till bulk power system. I den nya definitionen finns ingen motsvarande numerisk 20 MW-gräns. Det är därför fel att fortsätta beskriva 20 MW som den gällande tröskeln i substituttexten.
 
-Den publicerade lagtexten innehåller flera delar som är relevanta för FOLKTRIBUNALENS bevakning:
+Avsnitt 2107 föreslår att beräkningslastägare och operatörer ska bära inbäddade och inkrementella kostnader för el- och nätinfrastruktur, att andra kunder inte ska bära datacentrets inkrementella kostnad, att kostnadsåtervinning fortsätter även efter att kunden lämnat och att elbolag kan kräva ekonomiska säkerheter innan nödvändiga investeringar görs. Delstater får även större utrymme att använda konkurrensutsättningar, kräva ny produktion eller villkora elservice med begränsad överföringskapacitet.
 
-1. **Datacenter över 20 MW:** anläggningar med en sammanlagd belastning på minst 20 megawatt, även när de byggs i etapper, omfattas av särskilda bestämmelser om kostnadsansvar.
-2. **Ingen övervältring av merkostnader:** den föreslagna regeln innebär att de inkrementella kostnader som datacenterbelastningen orsakar inte ska fördelas på andra elkunders tariffer.
-3. **Kostnader efter avhopp:** utformningen ska göra det möjligt att fortsätta återkräva kostnader även om datacenterkunden lämnar eller slutar köpa el innan investeringarna är fullt återbetalda.
-4. **Ekonomiska garantier:** innan nödvändiga elproduktions-, överförings- eller distributionsanläggningar byggs eller uppgraderas ska berörda stora elkunder lämna tillräckliga ekonomiska säkerheter eller bidrag.
-5. **Bättre belastningsdata:** energimyndigheten EIA föreslås samla in särskilda uppgifter om datacenter och andra högdensitetsanläggningars elanvändning.
+Avsnitt 2108 behandlar marknadstillträde för styrbara resurser bakom mätaren, inklusive batterilager och aggregerade resurser. Det skapar en relevant koppling till VPP och efterfrågeflexibilitet, men är ett lagförslag – inte ett beslut om att en specifik VPP får delta i en viss marknad.
 
-Paketet är bredare än datacenter. Det omfattar även federala miljöprövningar, elöverföring, vatten, gruvdrift, geotermisk energi och andra infrastrukturtillstånd. Därmed korsar det både råvaruspåret och energispåret.
+Reuters rapporterade den 9 november att paketet blivit ett politiskt test efter valet: anhängare beskriver det som ett sätt att skydda elkunder och bygga ut elnätet, medan miljö- och ursprungsfolksorganisationer varnar för försvagad miljöprövning och urfolksinflytande. Reuters återgav också TD Cowens passagebedömning på 25 procent; det är en analytikerbedömning, inte ett officiellt utfall.
 
-Reuters rapporterade den 4 november att de demokratiska huvudförhandlarna vill försöka få lagstiftningen genom senatens så kallade lame-duck-period i stället för att vänta på nästa kongress. Samma rapport återgav att investeringsfirman TD Cowen sänkt sin uppskattning av sannolikheten för att paketet går igenom från omkring 40 till 25 procent efter valresultatet. Det är en marknadsbedömning, inte en officiell sannolikhet.
-
-**Den avgörande redaktionella distinktionen:** H.R.2347 har ett ursprungligt innehåll som inte handlar om datacenter eller tillståndsreform. Senate Daily Press beskriver det som ett lagstiftningsfordon. Om senaten går vidare måste det materiella reforminnehållet fortfarande läggas fram och behandlas. Omröstningen den 9 november får därför inte beskrivas som att senaten röstar igenom datacenterreglerna.
+**PRIMÄRKÄLLA:** EPW:s pressmeddelande och substituttext, 7 november; Senate Daily Press, 2 november.  
+**OBEROENDE BEKRÄFTELSE:** Reuters, 9 november.  
+**STATUS:** Lagförslaget är inte antaget. Cloture-omröstningen var ännu inte genomförd vid kontrolltidpunkten.  
+**Källor:**
+- EPW Committee, 7 november 2026: https://www.epw.senate.gov/public/index.cfm/2026/11/capito-lee-whitehouse-and-heinrich-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026
+- Substitute amendment KAT26764: https://www.epw.senate.gov/public/index.cfm?File_id=2908E3D0-D53E-499F-9308-BF12EBE10B1E&a=files.serve
+- Originaltext KAT26642: https://www.energy.senate.gov/wp-content/uploads/2026/09/KAT26642FINAL.pdf
+- Senate Daily Press: https://www.dailypress.senate.gov/monday-november-2-2026/
+- Reuters, 9 november 2026: https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/
 
 ## Norge: Statnett pausar nya anslutningsreservationer – regeringen förbereder licenskrav
 
