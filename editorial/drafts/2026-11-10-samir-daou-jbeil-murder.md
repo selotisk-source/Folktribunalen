@@ -45,6 +45,24 @@ Detta är ett separat undersökningsspår. Libanons ekonomiska kris och utflyttn
 
 Den journalistiska frågan är dubbel: vad visar den rättsliga utredningen om mordet, och vad berättar Daous tidigare vittnesmål om de ekonomiska och demografiska villkor som formar de kristna bergsförsamlingarnas framtid?
 
+## Efterreaktionen: mordet får inte bli kollektiv skuld
+
+En separat utveckling efter mordet är den politiska och sociala reaktionen mot syriska flyktingar i Libanon. Den ska dokumenteras, men får inte blandas ihop med frågan om motivet till mordet.
+
+**1 november – OBEROENDE RAPPORTERING:** The Jerusalem Post beskrev offentliga krav på snabbare återvändande och deportation av syrier efter mordet. Artikeln återgav bland annat uttalanden från journalisten Nancy Lakkis och sångerskan Elissa samt en opinionsartikel i An-Nahar. Detta visar att sådana röster förekom i offentligheten; det belägger inte att de representerade Libanons kristna befolkning som helhet. JPost återger dessutom sociala medier och lokal press, inte en representativ opinionsmätning.
+
+**2 november – PARTSUPPGIFT / CIVILSAMHÄLLE:** Syrian Observatory for Human Rights varnade för att använda mordet för att hetsa mot syriska flyktingar eller tillskriva en hel grupp kollektivt ansvar. Organisationen förespråkade individuellt prövade och frivilliga återvändanden. Detta är en människorättsorganisations bedömning, inte ett domstolsavgörande.
+
+**9 november – NGO-DOKUMENTATION:** Access Center for Human Rights (ACHR) publicerade sin månadsrapport för oktober. Den redovisar 18 incidenter rörande åtgärder och övergrepp mot syriska flyktingar, jämfört med 11 i september. Rapporten räknar 12 incidenter med gripanden/razzior och anger summan 839 personer från libanesiska arméns offentliggjorda uppgifter. ACHR betonar uttryckligen att 839 är en summering av rapporterade gripanden, inte nödvändigtvis 839 unika individer; samma person kan förekomma mer än en gång och gripanden utan offentlig siffra ingår inte.
+
+ACHR dokumenterar en kollektiv eller påtvingad deportationshändelse under oktober, jämfört med åtta händelser som berörde 264 personer i september. Organisationen återger fältuppgifter om samma-dag-deportationer och varnar för risker i förhållande till principen om non-refoulement. Rapporten har även ett särskilt avsnitt om hets och fientlig retorik mot syriska flyktingar efter mordet på Daou. ACHR säger uttryckligen att den inte har fastställt att uttalandena når den juridiska tröskeln för förbjuden uppvigling enligt artikel 20(2) i ICCPR.
+
+**Vad detta visar – och inte visar:** Det finns dokumenterad offentlig efterreaktion och ett bredare människorättsligt bevakningsspår kring gripanden, återvändanden och kollektiv skuldbeläggning. Det visar inte att mordet hade ett religiöst motiv, att syriska flyktingar som grupp bär ansvar eller att alla rapporterade återvändanden var tvångsdeportationer. ISF har inte offentliggjort något motiv i sitt besked om gripandet.
+
+Maronitiska stiftet i Jbeil uppmanade den 29 oktober allmänheten att inte sprida obekräftade uppgifter eller rykten. Den uppmaningen är central även när den bredare samhällsreaktionen granskas.
+
+**Nästa kontrollpunkt:** följ om ISF eller behörig domstol offentliggör motiv, åtal eller förhörsunderlag; följ samtidigt General Securitys och UNHCR:s uppgifter om återvändanden, samt ACHR:s dokumentation av gripanden, deportationer och rättslig prövning.
+
 ## Tidslinje
 
 - **28 oktober 2026 – händelse:** Daou försvinner under eftermiddagen.
@@ -52,6 +70,9 @@ Den journalistiska frågan är dubbel: vad visar den rättsliga utredningen om m
 - **30 oktober 2026 – myndighetsbesked:** ISF meddelar att en misstänkt gripits och att utredningen fortsätter under rättslig tillsyn.
 - **30 oktober 2026 – oberoende rapportering:** L'Orient Today rapporterar att en misstänkt deltagit i en rekonstruktion av händelseförloppet.
 - **4 november 2026 – publiceringsdatum:** Agenzia Fides publicerar en sammanfattning av mordet och återger lokala medieuppgifter om den misstänkte och en påstådd bekännelse. Fides lyfter även Daous vittnesmål från 2023 om ekonomisk kollaps, emigration och vardagliga svårigheter i bergsförsamlingarna.
+- **1 november 2026 – publiceringsdatum:** The Jerusalem Post rapporterar om offentliga krav på deportation/återvändande för syrier efter mordet; uppgifterna gäller vissa offentliga röster, inte en representativ bild av hela den kristna befolkningen.
+- **2 november 2026 – publiceringsdatum:** Syrian Observatory for Human Rights varnar för kollektiv skuldbeläggning och anti-syrisk uppvigling.
+- **9 november 2026 – publiceringsdatum:** ACHR:s oktoberöversikt redovisar gripanden, återvändande/deportationsärenden och en incident med fientlig retorik efter mordet. ACHR förbehåller sig uttryckligen att dess uppgifter inte är slutliga juridiska avgöranden.
 
 ## Aktörs- och platskarta
 
@@ -71,6 +92,8 @@ Den journalistiska frågan är dubbel: vad visar den rättsliga utredningen om m
 4. Vilka tillhörigheter som saknades och vilka som eventuellt återfunnits.
 5. Om Daous tjänsteförteckning omfattade två eller tre församlingar vid tiden för mordet.
 6. Vilka konkreta uppgifter han lämnade 2023 om de ekonomiska villkoren i bergsförsamlingarna och om det finns ett fullständigt inspelat eller transkriberat vittnesmål.
+7. Om den offentliga reaktionen efter mordet lett till formella beslut eller rättsliga åtgärder mot syriska flyktingar i Jbeil eller andra distrikt.
+8. Hur ACHR:s dokumenterade gripande- och deportationshändelser förhåller sig till General Securitys och UNHCR:s officiella statistik; ACHR:s 839 är inte ett mått på unika personer.
 
 ## Redaktionell slutsats
 
@@ -91,5 +114,8 @@ FOLKTRIBUNALEN ska följa rättsprocessen, bevara skillnaden mellan myndighetsup
 - L'Orient Today, 30 oktober 2026: https://today.lorientlejour.com/article/1552743/assassination-of-priest-samir-daou-isf-arrest-a-suspect.html
 - Agenzia Fides, 4 november 2026: https://fides.org/fr/news/78378-ASIE_LIBAN_Un_pretre_maronite_a_ete_tue
 - MTV Lebanon, 29 oktober 2026: https://www.mtv.com.lb/en/News/Local/1753131/priest-found-murdered-in-his-house-
+- The Jerusalem Post, 1 november 2026, rapportering om offentliga krav på deportation/återvändande efter mordet: https://www.jpost.com/middle-east/article-913494
+- Syrian Observatory for Human Rights, 2 november 2026, uppmaning att inte skuldbelägga syriska flyktingar kollektivt: https://www.syriahr.com/en/387663/
+- Access Center for Human Rights (ACHR), månadsrapport för oktober, publicerad 9 november 2026. 839 är summerade rapporterade gripanden enligt arméuttalanden, inte nödvändigtvis unika personer; rapporten dokumenterar också en incident med fientlig retorik efter mordet och säger att den inte fastställer juridisk uppvigling: https://achrights.org/en/2026/11/09/16652/
 
 **Faktastatus:** Mordet och gripandet stöds av flera rapporter och ett offentligt ISF-besked. Uppgifter om misstänktas identitet, nationalitet och bekännelse kommer från medieåtergivningar och Fides hänvisning till lokal press; de är inte presenterade som domstolsfastställda fakta. Motiv saknar offentlig bekräftelse. Inte publicerat.
