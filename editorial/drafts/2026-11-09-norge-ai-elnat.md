@@ -74,6 +74,16 @@ Det är också här begreppet digital suveränitet får en konkret materiell inn
 
 Det finns en risk att debatten blir alltför binär: datacenter som antingen samhällsnytta eller slöseri. I praktiken kan samma anläggning bära samhällskritiska tjänster, kommersiell molnkapacitet och arbetslaster med mycket olika värde. Regleringen behöver därför tydliga, transparenta och prövbara kriterier.
 
+## Protesterna visar att konflikten är europeisk
+
+Statnetts beslut kom samtidigt som en bredare europeisk konflikt om datacentren blev synlig. **Händelsedatum:** 6–7 november 2026. **Publiceringsdatum:** Euronews publicerade sin förhandsrapport den 5 november; Le Monde publicerade sin efterhandsrapport den 9 november.
+
+**PRIMÄRKÄLLA – arrangörsuppgift:** koalitionen Stop Dirty Data Centres utlyste två aktionsdagar den 6–7 november och publicerade en egen lista över lokala evenemang. Listan visar att mobiliseringen bestod av skilda former: demonstrationer, informationsmöten, teach-ins, namninsamlingar och lokala platsaktioner. Arrangörens webbplats anger att den kräver moratorium för stora datacenter; dess beskrivning av miljö- och samhällseffekter är kampanjens ståndpunkt, inte oberoende mätdata.
+
+**OBEROENDE BEKRÄFTELSE:** Euronews rapporterade den 5 november att över 100 rättighets- och miljöorganisationer i 15 europeiska länder planerade aktioner. Le Monde rapporterade den 9 november att rörelsen räknade 90 evenemang. Le Monde noterade samtidigt att många samlingar var små, ofta några tiotal personer, medan vissa nådde flera tusen. Uppgifterna mäter olika saker och ska inte summeras: över 100 organisationer är inte samma mått som 90 evenemang.
+
+Den politiska betydelsen ligger inte i att protesterna skulle ha orsakat Statnetts beslut – något sådant samband är inte belagt. De visar däremot att datacenterfrågan samtidigt blivit en lokal demokratifråga om mark, vatten, nätkapacitet, buller, offentliga subventioner och vem som får bära kostnaderna. Norge prövar en statlig prioriteringsmodell; protesterna kräver större lokal insyn och i vissa fall moratorium. Det är två skilda svar på samma europeiska infrastrukturkonflikt.
+
 ## Redaktionell bedömning
 
 Den 9 november markerar inte att Norge stänger dörren för AI-industrin. Det markerar att staten och systemoperatören vill få större kontroll över ordningsföljden, de tekniska villkoren och samhällsnyttan innan ytterligare stora laster kopplas in.
@@ -93,9 +103,17 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 ## Oberoende och kompletterande källor
 
 1. Reuters, “Norway reins in data centre industry amid AI boom”, 9 november 2026: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+2. Le Monde, “Protests against data centers held across Europe”, 9 november 2026: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
+3. Euronews, “Protesters across Europe to call for freeze on energy hungry data centres”, 5 november 2026: https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres
 2. Data Center Dynamics, “Norway halts grid connection applications for new data centers”, 9 november 2026: https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/
 3. Reuters, “Data centre growth triggers backlash in Norway over power deficit concerns”, 29 oktober 2026: https://www.reuters.com/business/energy/data-centre-growth-triggers-backlash-norway-over-power-deficit-concerns-2026-10-29/
 4. Wikborg Rein, juridisk genomgång av regeringens aviserade konsessionsordning och Statnetts tillfälliga åtgärder, 9 november 2026: https://www.wr.no/aktuelt/norwegian-government-announces-plans-for-data-centre-licensing-regime-as-statnett-temporarily-suspends-new-grid-capacity-reservations
+5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
+5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
+5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
+5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
+5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
+5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
 
 ## Faktakontroll och avgränsningar
 
