@@ -336,3 +336,104 @@ Denna cykel har åter screenat samtliga spår A–S. Nedan dokumenteras nytt ell
 - Render Postgres folktribunalen-db är status **available**, men IP-allowlist är tom och databasen har utgångsdatum 4 december 2026 på nuvarande free-plan. Databasens faktiska godkännandekö kan därför inte läsas via extern anslutning. Exakt tidigare fel: “This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it.” Ingen IP-allowlist har öppnats och ingen databasskrivning har gjorts.
 - Render bekräftar deploymentstatus LIVE, men en separat visuell kontroll av publika sidan har inte genomförts i denna cykel.
 
+
+
+## Breaking Watch – ny cykel 9 november 2026, 03.41 Europe/Sofia
+
+### Samlad redaktionell bedömning
+
+Den här cykeln gav nya, materiella uppgifter inom A, B, D, E, F, I, K, N, O, P, Q, R och S. C gav en ny teoretisk publikation men ingen ny empirisk validering. G, H, J, L och M gav ingen ny händelse som passerar notiströskeln; deras öppna frågor kvarstår. Ingen ny artikel har skapats i batch. Den aktiva Hormuz-granskningen PR #3 har fått en daterad källuppdatering; masterplan och täckningsmatris uppdateras här.
+
+### Nya och korrigerade uppgifter
+
+**A – Palantir / offentlig makt**
+- SEC Form 10-Q för kvartalet som avslutades 30 september, inlämnad 3 november: Palantir redovisar ett minimiåtagande om minst USD 5,6 miljarder till en tredje parts molntjänstleverantör över tio avtalsår till 29 februari 2036; årliga miniminivåer USD 268–979 miljoner. Motparten namnges inte i noten. Detta är ett inköpsåtagande, inte automatiskt en omedelbar skuld.
+- 5–6 november: FT rapporterar att brittiska regeringen planerar att förlänga NHS Federated Data Platform-avtalet och samtidigt upphandla en brittisk ersättare med sikte på ett möjligt byte om cirka två år. **PARTSUPPGIFT/OBEKRÄFTAD som beslut:** inget undertecknat förlängningsavtal eller nytt tilldelningsbeslut identifierat.
+- 2 november: Guardian/FOI visar att 29 av 137 NHS-trusts som uppges realisera nytta säger att plattformen inte är live eller att de inte använder dess appar. NHS England invänder att vissa använder begränsade funktioner för datainlämning och administration. Detta är en definitions- och nyttorevisionsfråga, inte bevis för att ingen användning sker.
+- FT:s genomgång av brittiska MoD-betalningar: cirka £282m redovisade betalningar 2015/16–2025/26 jämförs med £95,9m i offentligt identifierbara kontraktsnotiser. Skillnaden är en transparens-/avstämningsfråga, inte i sig bevis för överdebitering. Det separata £240,6m-avtalet publicerades 23 januari 2026 och ska inte blandas ihop med den historiska avstämningen.
+- Källor: SEC https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm ; FT https://www.ft.com/content/5c237fb3-23ba-4c1a-9257-fd66b9d42d6c och https://www.ft.com/content/bd35cc23-9c24-4ac5-8754-76ed8dd0c264 ; Guardian https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts ; MoD award notice https://www.find-tender.service.gov.uk/Notice/006344-2026
+
+**B – Europas AI-datacenter**
+- 5 november: EuroHPC publicerade ett tekniskt meddelande om AI Gigafactories-upphandlingen. Utkast och tidigare inlämnade anbud via de gamla länkarna kommer inte att beaktas; nya länkar ska användas och anbud måste skapas/skickas in på nytt. Uppdaterad tidsplan: Lot 1 till 4 februari 2027 och Lot 2 till 3 december 2026. Detta är ett upphandlings-/systemfel, inte ett urval av vinnande konsortier.
+- Europeiska kommissionens datacenterunderlag anger cirka 68 TWh elanvändning 2024 och en möjlig ökning till cirka 114 TWh 2030. Prognos, inte uppmätt framtida förbrukning.
+- Skellefteå: EdgeConneX-planen omfattar sju byggnader om cirka 96–150 MW IT-last vardera, med två första byggnader i den tidiga fasen och ytterligare fem senare. Kommunens material beskriver fortfarande en etableringsprocess; faktisk nätanslutning/effektreservation har inte belagts offentligt. Lokalt samråd 5 november och protester rapporteras; petitionsiffran 4 000 ska behandlas som parts-/arrangörsuppgift tills den verifierats.
+- Lyten: lokal rapportering anger att första kommersiella leveranser från Skellefteå väntas tidigast i början av 2027. Katodmaterial uppges fortfarande komma från Kina och Sydkorea medan bolaget söker partner för lokal produktion. Ingen oberoende reviderad produktionsvolym har publicerats.
+- Källor: EuroHPC https://eurohpc-ju.europa.eu/updates/ai-gigafactories-tender-submission-links-and-deadlines-2026-11-05_en ; kommissionen https://single-market-economy.ec.europa.eu/sectors/digital-economy/data-centres-energy-efficiency-2026_en ; Skellefteå kommun https://skelleftea.se/ ; SVT https://www.svt.se/nyheter/lokalt/vasterbotten/
+
+**C – Synkronicitet**
+- Ny teoretisk artikel, *A Biosemiotic Theory of Synchronicity*, erbjuder en biosemiotisk tolkningsmodell. Den är inte ett experimentellt belägg för kausal synkronicitet och innehåller inte en reproducerad, förregistrerad testserie. Protokollets hypoteser ska därför fortsatt operationaliseras och prövas separat.
+
+**D – Sofia / Sankt Sofia**
+- 3 oktober: kvarlevor som tillskrivs Tsar Samuil överfördes från Thessaloniki till Sofia och fördes till Sankt Sofia; utbytet omfattar 48 kyrkliga föremål som återlämnas till Grekland. BTA rapporterade ceremonin; AFP bekräftade ankomsten oberoende.
+- Viktig källreservation: BTA:s expertintervjuer 2 oktober återger historikern Ilia Ilievs bedömning att identifieringen är huvudsakligen indiciebaserad. Släktskapsanalys kan möjligen stärka relationen mellan två gravar, men detta är inte detsamma som en säker individuell DNA-identifiering av Samuil. Skriv därför alltid “kvarlevor som tillskrivs Samuil” eller “tros tillhöra Samuil”.
+- Källor: BTA https://www.bta.bg/en/news/bulgaria/1213569-greece-to-return-remains-of-tsar-samuel-to-bulgaria och https://www.bta.bg/en/news/bulgaria/1216695-tsar-samuel-s-remains-transfer-to-sofia-what-experts-say ; AFP via https://www.dawn.com/news/2034630/bulgarias-tsar-samuel-returns-home-after-1000-years
+
+**E – Strategiska råvaror**
+- 9 oktober: EU-kommissionen godkände den andra listan med 46 strategiska projekt enligt CRMA; totalen är nu 106. Nordiska projekt i annexet omfattar bland annat CoNiKo (Kokkola, Co/Ni-raffinering), Hautalampi (Cu/Co/Ni), Arctial (aluminiumförädling), Sokli (REE), Suhanko (Cu/Ni/PGM) och Viscaria (koppar). Bulgarien finns med genom Aurubis Tankhouse Expansion i Pirdop.
+- Strategisk status innebär prioriterad samordning/tillståndsprocess enligt CRMA, inte automatiskt miljötillstånd, finansiering, byggstart eller kommersiell produktion.
+- Viscarias Q3-rapport 5 november anger att finansieringsprocessen förlängs cirka 90 dagar och att kreditgodkännande ännu inte är slutligt. Bolagets egen rapport är primär för bolagets tidsplan; oberoende bekräftelse av kreditbeslut saknas.
+- Källor: kommissionens beslut och annex https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en ; Viscaria https://www.viscaria.com/
+
+**F – NVIDIA / AI-finansiering**
+- 3 september: NVIDIA:s SEC 8-K redovisar ett undertecknat avtal om att förvärva Hugging Face för USD 11,9 miljarder, med upp till ytterligare USD 1,0 miljard i personal-/retentionsprogram. Transaktionen väntas stänga under första halvåret 2027, villkorad av sedvanliga godkännanden; den är alltså inte genomförd. Analysera kontroll över modell- och utvecklarinfrastruktur, men blanda inte ihop köpeskilling med utbetald kontantlikviditet före closing.
+- Den separata USD 105bn villkorade SB Energy/OpenAI-garantin är redan dokumenterad i PR #14; den ska fortsatt beskrivas som en maximal kontingent exponering med villkor och indemnitet, inte som en omedelbar skuld eller utbetalning.
+- Källa: NVIDIA SEC 8-K https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20260903.htm
+
+**G – Libanon**
+- Ingen ny oberoende, kristen-specifik händelse rörande kyrkoägande, församlingar eller kulturarv passerade notiströskeln i denna cykel. Fortsatt bevakning av civila konsekvenser, UNIFIL, kyrkliga vittnesmål och egendomsfrågor; inga nya påståenden om sektfördelning utan källstöd.
+
+**H – Kyrkorna i Wiesbaden, Warszawa, Prag, Sofia och Varna**
+- Ingen ny verifierad restaurerings-, ägar- eller tillståndshändelse i de fem stadsdossiers som passerade notiströskeln. Fortsätt separat stad-för-stad-kontroll; inga sammanslagna tidslinjer som suddar ut lokala skillnader.
+
+**I – Fennoskandien / skog**
+- Skogsstyrelsen bekräftar att EUDR börjar tillämpas 30 december 2026 för stora/medelstora aktörer och 30 juni 2027 för kvalificerade mikro/små aktörer. Ny bilaga I trädde i kraft 18 september och uppdaterade tullkoder publicerades 23 september. Det är en spårbarhets-/due-diligence-regel för listade träprodukter och andra råvaror, inte ett generellt avverkningsförbud.
+- Inga nya belägg i denna cykel för en obruten hästkulturtradition eller nya ras-specifika avelstrender; hästspåret står kvar som långsiktig kultur- och registerforskning.
+- Källa: Skogsstyrelsen https://www.skogsstyrelsen.se/lag-och-tillsyn/avskogningsforordningen/
+
+**J – Storsjöodjuret / Thiel**
+- Ingen ny oberoende observation eller fysisk evidens för Storsjöodjuret. The Verge publicerade 20 oktober en analys baserad på läckta inspelningar av privata Thiel-föreläsningar; det är sekundär rapportering, inte ett officiellt transkript. Thiels offentliga First Things-essä 15 juli är primärtext. Den teologiska jämförelsen med Uppenbarelsebokens havsodjur hålls skild från folkloristisk/biologisk evidens.
+
+**K – Cladonia Skog AB / Storsjö**
+- SVT:s rapportering 6 november klargör att marken om cirka 15 000 hektar och köpeskillingen omkring 240 mkr avser SCA-affären som helhet. De cirka 300 hektaren/två mindre fastigheterna och uppgiften om 5 mkr ska inte beskrivas som ett senare separat förvärv utan som separata fastighetsdelar/överföringar inom samma övergripande SCA-affär, tills Lantmäteriets lagfartsakter visar annat.
+- ISP:s beslut 27 augusti “utan åtgärd” är ett faktiskt myndighetsbeslut, men inte en offentlig redovisning av hela säkerhetsbedömningen. JO-anmälan är en anmälan, inte ett konstaterat fel eller en inledd JO-utredning.
+- Jaktavtal och lokala nyttjanderätter måste hållas isär från allemansrätt och fiskerätt. SCA/bolagsuttalanden om framtida jaktmöjligheter är partsuppgifter tills upplåtelseavtal finns.
+- Källor: SVT https://www.svt.se/nyheter/lokalt/jamtland/techmiljardar-koper-skog-i-storsjo-kapell-i-bergs-kommun ; Fastighetsvärlden/ÖP-uppgifterna och Länsstyrelsens beslut ska fortsatt jämföras med Lantmäteriets lagfartsakter.
+
+**L – Skaga kapell**
+- Ingen ny restaurerings- eller ägarhändelse i denna cykel. Historikspåret kvarstår; traditionell datering av äldre kapellbyggnad ska inte presenteras som arkeologiskt fastställd utan byggnadsarkeologiskt underlag.
+
+**M – Böckernas väg till Athos**
+- Inget nytt dokumenterat bokförvärv eller proveniensspår Sverige–Bulgarien–Grekland–Athos denna cykel. MOmA:s digitaliseringsarbete med osmanskturkiska dokument i Athoskloster kvarstår som relevant infrastrukturprojekt, men är inte i sig belägg för en viss boks resa eller donation.
+
+**N – Från skrift till Storebror**
+- Rådet gav 29 juni 2026 slutligt klartecken till AI Omnibus: de flesta AI Act-regler började gälla 2 augusti 2026, medan regler för fristående högrisksystem flyttas till 2 december 2027 och högrisk-AI inbyggd i produkter till 2 augusti 2028. Detta är antagna tidsfrister, inte ett nytt förslag.
+- EUDI-plånböcker har en separat medlemsstatsdeadline 24 december 2026. Inget belägg har hittats för att Bulgariens plånbok redan är i drift; nationella lag- och certifieringssteg får inte beskrivas som en lansering.
+- Källa: Rådet https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/
+
+**O – Hormuz**
+- JMIC Advisory Update 112, 8 november: fem nya incidentrapporter sedan föregående uppdatering och 177 rapporterade incidenter sedan 1 mars; hotnivån för Hormuz kvarstår som SEVERE. Aggregatet är inte likvärdigt med IMO:s verifierade attacker och får inte användas för attribution.
+- QatarEnergy har enligt Edisons offentliggörande 27 oktober förlängt force majeure för LNG till 31 december. Totalt uppges 38 laster/ca 5 bcm omfattas; Edison säger att 27 laster/ca 2,7 bcm ersatts. Reuters bekräftar förlängningen för fler än en kundmarknad. Detta visar kontrakts- och försörjningspåverkan, inte att italienska slutkunder automatiskt saknar gas.
+- JMIC PDF https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_112_08-nov.pdf?rev=fab35b6555404e9a92944523318e299a ; Reuters https://www.reuters.com/business/energy/qatar-will-not-deliver-gas-european-client-edison-until-end-december-2026-10-28/
+
+**P – USA:s kongress**
+- Efter mellanårsvalet 3 november har AP kallat demokraternas seger i både representanthuset och senaten. Det är en prognostiserad politisk kontrollförskjutning; den nya kongressen tillträder 3 januari 2027. Den sittande kongressen behåller formell makt fram till dess. Utskottsordföranden, formella majoritetsbeslut och kommittémandat ska inte tillskrivas den nya majoriteten i förtid.
+
+**Q – Gripen / Europas säkerhet**
+- 6 oktober: första Gripen E byggd i Brasilien genomförde sin första flygning. Brasilien har ett avtal om 36 flygplan, varav 15 ska byggas i Brasilien; första flygningen är inte en kundleverans eller operativ certifiering.
+- 3 november: Saab uppgav att AI-agenter testats i Gripen E i en BVR-simulerad miljö. Detta är en bolagsuppgift om ett test, inte belägg för autonom operativ stridsförmåga eller ett godkänt operativt system.
+- Källor: Saab/Embraer pressmeddelanden https://www.saab.com/newsroom/press-releases/2026/first-brazilian-produced-gripen-e-completes-maiden-flight och https://www.saab.com/newsroom/press-releases/2026/saab-tests-ai-agents-in-gripen-e
+
+**R – Strategisk energi**
+- Lyten/Skellefteå: tidig kommersiell leverans anges till början av 2027; katodmaterial uppges ännu importeras från Kina och Sydkorea medan lokal partner söks. Ingen verifierad lokal fullskalig katodkedja eller offentlig produktionsvolym.
+- QatarEnergy-force-majeure förs in som en energiflödesrisk med direkt relevans för europeisk gasförsörjning. Inga andra nya tillstånds- eller finansieringsbeslut för kärnkraft/SMR/VPP passerade tröskeln i denna cykel.
+
+**S – Urbergsskölden / civil underjordisk infrastruktur**
+- 22 oktober: finska statsrådet beviljade Posiva drifttillstånd till utgången av 2070 för inkapslings- och slutförvarsanläggningen vid Olkiluoto/Onkalo, högst 6 500 ton uran i använt kärnbränsle. Tillståndet betyder inte omedelbar drift: STUK måste genomföra den lagstadgade förhandsinspektionen innan anläggningen får tas i bruk.
+- CRMA-projekten i Finland/Sverige kopplas till E; inga nya offentliga VPP- eller Cavecore-beslut hittades.
+- Källa: finska statsrådet https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility
+
+### Arbetsflöde och status
+- GitHub-repository: 28 öppna PR:er före denna cykel; ingen ny PR skapad. PR #3 har fått uppdatering om JMIC Update 112 och QatarEnergy. PR #16 får denna masterplan och täckningsmatris.
+- Inget har mergats eller publicerats i denna cykel.
+- Render: statisk webbplats har en LIVE-deploy på commit 8e46f91, som också är senaste commit på main. Källkoden innehåller artikelkortet med status “PUBLICERAD 8 NOVEMBER 2026”. Själva publika sidan kunde inte hämtas från den här körmiljön på grund av DNS-upplösningsfel; visuell kontroll av kortet i webbläsaren är därför inte bekräftad.
+- Editorial API är LIVE på commit 6a8357. Render Postgres finns, men extern anslutning nekas eftersom IP allowlist är tom: “External database connections are not enabled for this database. Add an IP address or CIDR range to the IP allowlist.” Ingen databas- eller publiceringsköskrivning har gjorts.
