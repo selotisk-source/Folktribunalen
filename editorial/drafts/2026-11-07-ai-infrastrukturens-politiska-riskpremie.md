@@ -246,3 +246,50 @@ Källor:
 - Reuters, 5 november: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
 - Reuters, 5 november: https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/
 - Reuters, 6 november: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
+
+
+## Europas datacenterkonflikt går från lokala protester till nationell nätpolitik
+
+Den 6–7 november 2026 hölls samordnade aktionsdagar mot storskaliga datacenter i flera europeiska länder. Stop Dirty Data Centres-kampanjen krävde moratorium och mer offentlig insyn. Koalitionens egen webbplats listar lokala aktiviteter i bland annat Finland, Danmark, Tyskland, Spanien, Frankrike, Italien, Irland och Storbritannien.
+
+**Händelsedatum:** 6–7 november 2026. **Publiceringsdatum för sammanställningen:** 9 november 2026.
+
+**PARTSUPPGIFT:** Koalitionen uppger att den registrerat 90 evenemang. Detta är arrangörernas egen totalsiffra och ska inte beskrivas som en oberoende verifierad räkning.
+
+**OBEROENDE BEKRÄFTELSE:** Le Monde rapporterade 9 november att protester genomfördes i omkring 15 europeiska länder. I Amsterdam gick flera hundra aktivister den 6 november in på byggarbetsplatsen för ett framtida Microsoft-datacenter i Sloterdijk, vilket enligt rapporten stoppade arbetet den dagen. Polisen uppgav att 150–200 personer frihetsberövades misstänkta för olaga intrång. Le Monde rapporterade också om omkring 2 000 demonstranter i Zaragoza. Protesterna i andra städer varierade från små lokala möten till större marscher.
+
+**Vad protesterna faktiskt visar:** De visar en organiserad europeisk motreaktion och växande politisk risk kring markanvändning, vatten, elnät, buller, reservkraft, luftkvalitet, naturvärden och lokalt samråd. De bevisar inte i sig att varje enskilt datacenterprojekt orsakar de påstådda skadorna. Varje lokal invändning måste kopplas till miljökonsekvensbedömning, vattenbalans, nätanslutning, bygglov och faktiska utsläppsdata.
+
+Källor:
+- Stop Dirty Data Centres, evenemangskalender 6–7 november: https://stopdirtydatacentres.eu/en/
+- Le Monde, 9 november 2026: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
+- Euronews, 5 november 2026, förhandsrapportering om 100+ organisationer i 15 länder: https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres
+
+## Norge gör nätanslutningen till en nationell prioriteringsfråga
+
+Den 9 november 2026 meddelade Statnett en tillfällig paus för nya reservationer av nätkapacitet till datacenter och vissa nya funktionsgodkännanden. Åtgärden gäller stora uttagskunder med särskild lastprofil, typiskt datacenter, och ska enligt Statnett upphöra senast 1 augusti 2027.
+
+Statnett anger följande kapacitetsbild:
+- 800 MW datacenterlast är redan ansluten.
+- 4 200 MW har reserverad kapacitet.
+- 9 100 MW står i kapacitetskön.
+- Ytterligare 18 000 MW har efterfrågat anslutning.
+- Norges maximala effektförbrukning är drygt 25 000 MW.
+
+Dessa tal beskriver olika steg i anslutningsprocessen. De är inte 32,1 GW installerad datacenterlast och ska inte summeras som om samtliga projekt vore byggda.
+
+**Viktig avgränsning:** Statnett säger att beslutet inte är ett generellt förbud. Befintliga anslutningar och anläggningar som redan fått nödvändiga funktionskrav godkända påverkas inte. Tillgänglig kapacitet ska inte omfördelas till andra kunder om det skulle gå ut över datacenter som redan står före dem i kön.
+
+Samma dag aviserade Norges regering att den vill utreda och införa en konsessionsordning för befintliga och framtida datacenter. Digital säkerhet, beredskap och behovet av AI-beräkningskapacitet ska vägas in. Kryptoverksamhet ska inte räknas som samhällsnyttig datacenterverksamhet. Regeringen vill också att stora nya elkunder ska bidra mer till nät- och systemkostnader och vill föra dialog om hur industrin kan bidra till ny kraftproduktion. Det är en politisk inriktning, inte en antagen licenslag.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade att datacenter stod för omkring 75 procent av de 26 GW nya anslutningsförfrågningar som Statnett mottagit under året. Denna 75-procentsuppgift avser en annan mätserie än Statnetts uppdelning mellan ansluten, reserverad, köad och ytterligare efterfrågad kapacitet.
+
+**Varför det spelar roll:** Norge visar att AI-infrastrukturens flaskhals inte bara är kapital, GPU-leveranser och bygglov. Den är också nätstabilitet, effektprofil och politisk prioritering. Datacenter kan behöva visa att de kan bidra till systembalans och bära en större del av de nätkostnader de utlöser.
+
+Källor:
+- Statnett, 9 november 2026 kl. 08.45: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- Norska regeringen, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- Reuters, 9 november 2026: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+
+**Öppna frågor:** När kommer den norska lag-/förordningstexten? Vilka trösklar gör ett datacenter licenspliktigt? Hur hanteras redan reserverad kapacitet? Hur definieras samhällsnytta och kostnadsansvar? Vilka funktionskrav ska RME godkänna? Hur många av de annonserade projekten har finansiering, mark, elavtal och bygglov på plats?
+
