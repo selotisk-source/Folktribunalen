@@ -129,29 +129,39 @@ Det finns också en viktig institutionell begränsning: den demokratiska majorit
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
 
 
-## Ny procedurpunkt: senaten tar upp tillståndsreformen den 9 november
+## Ny procedurpunkt: senaten prövar BAAJA – substituttexten ändrar datacenterreglerna
 
-**Publiceringsdatum för Senate Daily Press:** 2 november 2026. **Planerad omröstning:** måndag 9 november 2026 omkring kl. 17.30 Eastern Time.
+**Senaste dokumentdatum:** 7 november 2026. **Reuters-rapport:** 9 november 2026. **Kontrolltid:** 9 november 2026 kl. 23.54 Sofia.
 
-Senatens officiella kalender anger en cloture-omröstning om motionen att ta upp H.R.2347. Senate Press Gallery beskriver H.R.2347 som det lagstiftningsmässiga fordonet för ett tillståndsreformpaket. Det är viktigt att inte förväxla fordonet med den materiella reformtexten: omröstningen gäller om senaten ska kunna gå vidare med behandlingen, inte om hela reformpaketet slutligt antas.
+Senatens officiella kalender anger en cloture-omröstning om motionen att ta upp H.R.2347 omkring kl. 17.30 Eastern Time måndagen den 9 november. Vid denna kontrolltid – kl. 16.54 Eastern Time – hade den planerade omröstningen ännu inte ägt rum. Den gäller om senaten ska kunna gå vidare med behandlingen, inte ett slutligt antagande av hela lagpaketet.
 
-Det materiella förslaget heter **Bipartisan American Affordability and Jobs Act of 2026** och presenterades den 30 september av senatorerna Shelley Moore Capito, Mike Lee, Martin Heinrich och Sheldon Whitehouse. Den publicerade texten föreslår bland annat att stora datacenterbelastningar på minst 20 MW ska bära de inkrementella kostnader de orsakar i elnätet, att andra elkunder skyddas från kostnader om kunden lämnar och att ekonomiska garantier ska finnas innan nödvändiga nätinvesteringar görs. Förslaget omfattar också bredare reformer av federala tillstånds- och miljöprövningar.
+Det materiella paketet heter **Bipartisan American Affordability and Jobs Act of 2026 (BAAJA)**. Det presenterades den 30 september av senatorerna Shelley Moore Capito, Mike Lee, Martin Heinrich och Sheldon Whitehouse. Den 7 november publicerade de ansvariga senatorerna ett 494-sidigt substitut. Utskottets pressmeddelande beskriver ändringarna som förtydligande, samordnande och tekniska, men textjämförelsen visar en viktig förändring för datacenter.
 
-Enligt senatens cloture-regel krävs normalt tre femtedelar av senatorerna – 60 röster i en fulltalig senat – för att avsluta debatten. Även om motionen får tillräckligt stöd återstår fortsatt behandling, ändringsförslag och en separat omröstning om lagstiftningens innehåll.
+**Den viktiga textskillnaden:** Septemberversionen använde en tröskel på minst 20 MW för vissa särskilda datacenterregler. I substituttexten KAT26764 hittar vi inte längre någon motsvarande numerisk 20 MW-tröskel i definitionen. I stället definieras ett **computational load site** funktionellt: en eller flera byggnader eller installationer på en plats som huvudsakligen innehåller IT-infrastruktur för programvarutjänster, AI-träning/utrullning/leverans, kryptomining eller annan datacenterberäkning, och som är ansluten till bulk power system. Det är en materiell förändring som måste läsas mot hela lagtexten; den ska inte beskrivas som att varje serverrum automatiskt omfattas.
 
-Reuters rapporterade den 4 november att lagförslagets demokratiska huvudförhandlare vill försöka driva paketet under den sittande kongressens lame-duck-period. Det är en politisk strategi, inte ett bevis för att rösterna redan finns.
+Substitutets avsnitt 2107 föreslår bland annat:
+- att berörda beräkningslastägare och operatörer ska bära de inbäddade och inkrementella kostnader som deras el- och nätbehov orsakar;
+- att andra kunder inte ska få bära datacentrets inkrementella kostnad;
+- att kostnadsåtervinning ska fortsätta även om operatören lämnar eller slutar köpa el innan kostnaden är återbetald;
+- att elbolag ska kunna kräva rimliga ekonomiska säkerheter eller bidrag innan nödvändiga produktions-, transmissions- eller distributionsanläggningar byggs eller uppgraderas;
+- att delstater ska kunna använda öppna ansökningsomgångar/konkurrensutsättningar, kräva ny produktion eller villkora tjänsten med begränsad/icke-fast överföringskapacitet.
 
-**PRIMÄRKÄLLA:** Senate Daily Press, 2 november 2026, och Senate Committee on Energy and Natural Resources, 30 september 2026.  
-**OBEROENDE BEKRÄFTELSE:** Reuters, 4 november 2026.  
-**ÖPPET:** om cloture får 60 röster, vilken ersättningstext som faktiskt läggs fram, om data center-kostnadsreglerna behålls och om paketet får en senare omröstning om slutligt antagande.
+Substitutets avsnitt 2108 handlar dessutom om marknadstillträde för styrbara resurser bakom mätaren, däribland batterilager, bränsleceller och generatorer samt aggregeringar. Det är relevant för VPP- och flexibilitetsspåret, men är ännu ett lagförslag – inte ett bevis för att en viss anläggning har fått marknadstillträde.
+
+Reuters rapporterade den 9 november att BAAJA blivit senatens första stora test av hur kongressen ska svara på väljarnas motstånd mot datacenter och stigande elpriser. Reuters beskrev motstånd från miljö- och ursprungsfolksorganisationer som anser att tillståndsreformen försvagar miljöprövning och urfolksinflytande. TD Cowens 25-procentiga passagebedömning är en marknadsanalys, inte en officiell sannolikhet.
+
+**PRIMÄRKÄLLA:** Senate Daily Press, 2 november; EPW:s pressmeddelande och substituttext, 7 november; originaltexten från september.  
+**OBEROENDE BEKRÄFTELSE:** Reuters, 9 november.  
+**STATUS:** Inte lag. Cloture-omröstningen var ännu inte genomförd vid kontrolltidpunkten.  
+**ÖPPET:** om motionen får 60 röster, om substituttexten ändras ytterligare, vilka delar som överlever utskotts- och kammarbehandling samt om representanthuset accepterar samma text.
 
 **Källor:**
 - Senate Daily Press, 2 november 2026: https://www.dailypress.senate.gov/monday-november-2-2026/
-- Senate Committee on Energy and Natural Resources, 30 september 2026: https://www.energy.senate.gov/newsroom/press/lee-capito-heinrich-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026-2/
-- Lagtext: https://www.energy.senate.gov/wp-content/uploads/2026/09/KAT26642FINAL.pdf
+- EPW Committee, release of substitute amendment, 7 november 2026: https://www.epw.senate.gov/public/index.cfm/2026/11/capito-lee-whitehouse-and-heinrich-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026
+- Substitute amendment KAT26764, särskilt avsnitt 2107–2108: https://www.epw.senate.gov/public/index.cfm?File_id=2908E3D0-D53E-499F-9308-BF12EBE10B1E&a=files.serve
+- Originaltext KAT26642, 30 september 2026: https://www.energy.senate.gov/wp-content/uploads/2026/09/KAT26642FINAL.pdf
 - Senate cloture rules: https://www.senate.gov/about/powers-procedures/filibusters-cloture.htm
-- Reuters, 4 november 2026: https://www.reuters.com/legal/litigation/democrat-permitting-bill-authors-not-going-wait-new-us-congress-2026-11-04/
-
+- Reuters, 9 november 2026: https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/
 
 ## Ny tillsynsfront: Blumenthal kräver dokument från Big Tech och FCC
 
