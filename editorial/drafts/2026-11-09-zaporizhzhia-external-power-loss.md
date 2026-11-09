@@ -1,4 +1,4 @@
-# Zaporizjzja: 27:e bortfallet av extern kraft – strömmen återställd, beroendet består
+# Zaporizjzja: 27:e bortfallet sedan 2022 – 16:e under 2026, kraften återställd efter 15 timmar
 
 **Status:** granskningsutkast. Inte mergat, inte publicerat och inte LIVE.  
 **Händelsedatum:** 8 november 2026.  
@@ -7,9 +7,9 @@
 
 ## Huvudtext
 
-Zaporizjzjas kärnkraftverk förlorade åter sin externa elförsörjning den 8 november. Den internationella atomenergiorganisationen IAEA uppgav att anläggningen kopplades bort från sin enda återstående externa kraftledning och behövde använda reservdieselgeneratorer för kylning och andra säkerhetsfunktioner. Strömmen återställdes senare samma dag, enligt IAEA:s uppgifter återgivna av Reuters.
+Zaporizjzjas kärnkraftverk förlorade åter sin externa elförsörjning den 8 november. Energoatom uppgav att den sista fungerande 330 kV-ledningen Ferosplavna-1 kopplades bort kl. 02.36 och att anläggningen gick över till reservdieselgeneratorer. IAEA:s uppgifter, återgivna av Reuters och AP, bekräftar att anläggningen förlorade sin enda återstående externa kraftförbindelse och senare fick tillbaka elen. Energoatom meddelade att ledningen återinkopplades kl. 17.41 samma dag – ett avbrott på cirka 15 timmar.
 
-Det var den 27:e förlusten av extern kraft sedan den fullskaliga invasionen 2022. IAEA sade att orsaken och den exakta platsen för frånkopplingen ännu inte var kända. Den ryskinstallerade anläggningsledningen hänvisade till ett automatiskt skyddssystem och uppgav normala strålningsnivåer. Den uppgiften är en partsuppgift och ska hållas åtskild från IAEA:s redovisning av själva elavbrottet.
+IAEA beskrev händelsen som anläggningens 27:e förlust av extern kraft sedan konfliktens början 2022. Energoatom räknade den som den 16:e fullständiga förlusten sedan den 1 januari 2026. Räknarna har olika startdatum och motsäger därför inte varandra. IAEA sade att orsaken och den exakta platsen för frånkopplingen ännu inte var kända. Den ryskinstallerade anläggningsledningen hänvisade till ett automatiskt skyddssystem och uppgav normala strålningsnivåer. Den uppgiften är en partsuppgift och ska hållas åtskild från IAEA:s redovisning av själva elavbrottet.
 
 Anläggningen producerar inte el till nätet, men behöver ändå extern kraft för att hålla reaktorernas bränsle och använt kärnbränsle kylt. Reservgeneratorerna är en säkerhetsbarriär, inte en normal ersättning för stabil extern el. IAEA uppgav att bränslereserverna räckte för att driva ett begränsat antal generatorer i omkring två veckor. Det är en uppskattning av bränslets räckvidd, inte ett besked om hur länge anläggningen kan drivas utan risk.
 
@@ -19,7 +19,8 @@ Bakgrunden är att den huvudsakliga 750 kV-anslutningen, Dniprovska, fortfarande
 
 - IAEA rapporterade att extern kraft förlorades och att reservgeneratorer användes för kylning och säkerhetsfunktioner.
 - IAEA uppgav att orsaken och platsen för frånkopplingen inte var kända.
-- IAEA uppgav att kraftförsörjningen återställdes senare samma dag.
+- Energoatom uppgav att Ferosplavna-1 återinkopplades kl. 17.41 den 8 november.
+- IAEA:s uppgifter om den 27:e förlusten sedan 2022 återgavs av Reuters och AP.
 - Händelsen var enligt IAEA den 27:e förlusten av extern kraft sedan 2022.
 - Anläggningen producerar inte el, men är beroende av extern kraft för säker kylning.
 
@@ -45,7 +46,8 @@ Bakgrunden är att den huvudsakliga 750 kV-anslutningen, Dniprovska, fortfarande
 - **5–7 september 2026:** ett lokalt IAEA-förmedlat eldupphör möjliggjorde reparationer.
 - **7 september 2026:** extern kraft återställdes via Ferosplavna-1.
 - **23 oktober 2026:** IAEA uppgav att huvudledningen Dniprovska fortfarande inte var tillgänglig.
-- **8 november 2026:** extern kraft förlorades åter; reservgeneratorer togs i bruk; kraften återställdes senare samma dag.
+- **8 november 2026, 02.36:** extern kraft förlorades; Energoatom räknade detta som årets 16:e fullständiga bortfall.
+- **8 november 2026, 17.41:** Energoatom uppgav att 330 kV-ledningen Ferosplavna-1 återinkopplades.
 
 ## Redaktionell bedömning
 
@@ -55,9 +57,15 @@ Artikeln ska inte dra slutsatser om vem som orsakade avbrottet. Den ska inte pub
 
 ## Källor
 
+- Energoatom, officiellt meddelande om 16:e fullständiga bortfallet under 2026, 8 november 2026: https://www.energoatom.com.ua/news/zaporizka-aes-zalisilasia-bez-zovnisnyogo-zivlennia-16i-blekaut-vid-pocatku-roku
+- Energoatom, officiell Telegram-kanal med återinkoppling kl. 17.41 den 8 november: https://t.me/s/energoatom_ua
+
 - Reuters, 8 november 2026, IAEA-uppgifter om förlust och återställning av extern kraft: https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-2026-11-08/
-- IAEA:s lägesuppdatering 11 september 2026 om återställd extern kraft och den kvarstående sårbarheten: https://www.iaea.org/newscenter/pressreleases/update-366-iaea-director-general-statement-on-situation-in-ukraine
+- IAEA, Update 366, 11 september 2026, om återställd extern kraft efter reparationerna i september: https://www.iaea.org/newscenter/pressreleases/update-366-iaea-director-general-statement-on-situation-in-ukraine
+- Reuters, 8 november 2026, IAEA:s uppgift om att Dniprovska fortfarande var otillgänglig den 23 oktober samt om den 27:e förlusten sedan 2022: https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-2026-11-08/
 - Reuters, 8 november 2026, återställningen samma dag: https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-2026-11-08/
 - AP, 8 november 2026, IAEA:s uppgifter om den 27:e förlusten: https://apnews.com/article/2d5c046e85cb666fb84482b132f15898
+
+**Källstatus:** **PRIMÄRKÄLLA** – Energoatoms officiella webbmeddelande styrker tidpunkten 02.36 och årets 16:e bortfall; bolagets officiella Telegram-kanal anger återinkoppling 17.41. **OBEROENDE BEKRÄFTELSE** – Reuters och AP återger IAEA:s uppgifter om det 27:e bortfallet sedan 2022 och återställd kraft. **PARTSUPPGIFT** – den ryskinstallerade ledningens uppgifter om automatiskt skydd och normala strålningsnivåer. **OBEKRÄFTAD** – orsaken till frånkopplingen och eventuell ansvarig aktör. Den direkta IAEA-webbpubliceringen av 8 november-uttalandet har inte identifierats; uppgifterna återges via Reuters och AP.
 
 **Nästa kontroll:** IAEA:s nästa lägesuppdatering, Energoatoms och den ryskinstallerade ledningens separata redogörelser, stabilitet i extern kraftförsörjning och status för huvudledningen. Ingen attribution utan belägg.
