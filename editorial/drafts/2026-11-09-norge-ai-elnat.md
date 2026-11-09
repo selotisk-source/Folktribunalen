@@ -129,6 +129,26 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 - Karta över Norges anslutningskapacitet och datacenterkluster, byggd på offentliga Statnett-data.
 - Schematisk illustration av sambandet mellan datacenter, elnät, kraftproduktion och systembalansering.
 
+## Nordisk jämförelse: tre olika verktyg, inte ett gemensamt förbud
+
+**Ny primärkälla – Norge, 9 november 2026:** Regeringen meddelar att den vill utreda och införa en koncessionsordning för befintliga och framtida datacenter. Huvudprinciperna ska återkomma senare; detta är ännu inte en antagen lag eller ett färdigt tillståndssystem. Regeringen säger att kryptodrift inte ska räknas som samhällsnyttig, att digital säkerhet och beredskap ska vägas in, att stora nya laster ska bidra mer till nät- och systemkostnader och att industrin ska diskutera kommersiella bidrag till ny kraftproduktion. Statnett har separat pausat nya nätkapacitetsreservationer för datacenter till senast 1 augusti 2027. Statnetts egna siffror är 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i ytterligare förfrågningar. Det är olika projektstadier och får inte summeras som installerad drift.
+
+**Ny primärkälla – Finland, 29–30 oktober 2026:** Regeringen överlämnade HE 282/2026 om ett nationellt datacenterregister. Förslaget omfattar anläggningar med minst 0,5 MW installerad IT-effekt. Operatören ska rapportera ägare, plats, användning, kapacitet, tidplan, el- och vattenanvändning. NESA ska föra registret och publicera kvartalsvisa översikter; första offentliga översikten planeras senast 30 september 2027. Föreslaget ikraftträdande är 1 april 2027. Viktig begränsning: registreringen är inte ett drifttillstånd och får enligt förslaget inte användas för att godkänna eller avslå ett enskilt projekt. Det är alltså ett informations- och beredskapsinstrument, inte ett byggstopp.
+
+**Danmark, 20 augusti 2026 och därefter:** Folketingets L 23 om prioritering av nätkapacitet och lämplig anslutning är markerat som stadfæstet (stadfäst). Det är en bredare lag om nätkapacitet och anslutning, inte en särskild datacenterlag. Le Monde beskriver hur den danska prioriteringsordningen i praktiken sätter stora nya elkunder som datacenter långt ned när kapaciteten är knapp. Den exakta tillämpningen ska följas i den slutliga lagtexten och genomförandereglerna.
+
+**Oberoende rapportering – 9 november:** Le Monde rapporterade att Stop Dirty Data Centres-koalitionen räknade 90 evenemang i cirka 15 europeiska länder den 6–7 november. Det är arrangörernas sammanräkning återgiven av Le Monde, inte en oberoende deltagarräkning. Le Monde rapporterade också om den nordiska politiska omsvängningen. Detta visar en bredare konflikt om el, vatten, mark, lokalt inflytande och vem som ska bära nätkostnaderna, men bevisar inte att protesterna orsakade regeringarnas beslut.
+
+### Källor och kontrollstatus
+
+- **PRIMÄRKÄLLA:** Norges regering, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- **PRIMÄRKÄLLA:** Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- **PRIMÄRKÄLLA:** Finlands regering, 29 oktober 2026: https://valtioneuvosto.fi/en/-/1410877/government-proposes-new-data-centre-register-to-improve-situational-awareness
+- **PRIMÄRKÄLLA:** Eduskunta, HE 282/2026 vp: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-60520
+- **PRIMÄRKÄLLA:** Folketinget, L 23, lagförslag och status stadfäst: https://www.ft.dk/samling/20252/lovforslag/l23/beh1/forhandling.htm
+- **OBEROENDE RAPPORTERING:** Le Monde, protesterna 6–7 november, publicerat 9 november: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
+- **OBEROENDE RAPPORTERING:** Le Monde, nordisk regleringsvändning, publicerat 9 november: https://www.lemonde.fr/international/article/2026/11/09/les-pays-nordiques-freinent-le-deploiement-des-data-centers_6808695_3210.html
+
 ## Öppna frågor före publicering
 
 1. Vilka delar av de reserverade 4 200 MW har redan fått funktionskrav godkända?
@@ -140,4 +160,4 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 7. Hur ska kostnader för nätförstärkning fördelas mellan datacenter, övriga elkunder och samhället?
 8. Kommer kraven på egen kraftproduktion att bli bindande, och hur ska de i så fall utformas utan att skapa nya systemrisker?
 
-**Status:** Utkastet kompletterat med Stortingets två obesvarade frågor 15:568 (9 november) och 15:474 (3 november), som konkret efterfrågar hur mycket datacenterkapacitet som fortfarande kan reserveras respektive fysiskt anslutas. Komplett första utkast skapat. Källor och centrala påståenden är kontrollerade mot primärmaterial och kompletterande rapportering. Kvarstår: juridisk slutgranskning av konsessionsordningen när förslagstext publiceras, svar från energiministern och slutlig redaktionell språkgranskning. Inte publicerad.
+**Status:** Utkastet kompletterat 10 november med regeringens norska koncessionsplan, Finlands proposition HE 282/2026 om datacenterregister, Danmarks stadfästa L 23 och Le Mondes rapportering om protesterna 6–7 november. Skillnaden mellan lag, proposition, myndighetsåtgärd och regeringsavsikt hålls isär. Stortingets frågor 15:568 och 15:474 kvarstår. Kvarstår: slutlig juridisk granskning av norska villkor när förslagstext publiceras, svar från energiministern, finsk lagbehandling och dansk genomförandeförordning. Inte publicerad.
