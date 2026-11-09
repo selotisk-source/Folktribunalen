@@ -437,3 +437,20 @@ Den här cykeln gav nya, materiella uppgifter inom A, B, D, E, F, I, K, N, O, P,
 - Inget har mergats eller publicerats i denna cykel.
 - Render: statisk webbplats har en LIVE-deploy på commit 8e46f91, som också är senaste commit på main. Källkoden innehåller artikelkortet med status “PUBLICERAD 8 NOVEMBER 2026”. Själva publika sidan kunde inte hämtas från den här körmiljön på grund av DNS-upplösningsfel; visuell kontroll av kortet i webbläsaren är därför inte bekräftad.
 - Editorial API är LIVE på commit 6a8357. Render Postgres finns, men extern anslutning nekas eftersom IP allowlist är tom: “External database connections are not enabled for this database. Add an IP address or CIDR range to the IP allowlist.” Ingen databas- eller publiceringsköskrivning har gjorts.
+
+
+## 9 november 2026 kl. 13.40 Europe/Sofia – Breaking Watch: A–S delta
+
+### Substantiella nya kontroller
+- **A – Palantir/NHS:** Guardian återger 6 november Financial Times-rapportering om planerad förlängning av NHS Federated Data Platform och parallell upphandling av en brittisk ersättare. Detta är ännu inte ett formellt regeringsbeslut. House of Commons Library 29 oktober anger att avtalet startade mars 2024, har en initial treårsperiod och optionsstruktur upp till sju år; leverantören behöver enligt NHS England informeras i december 2026 om regeringen inte förlänger efter mars 2027. Guardian:s FOI-granskning 2 november visar en skillnad mellan “realising benefits” och faktisk användning i 29 trusts. 117 539 fler operationer är en före-/efterförändring, inte kausalt bevis.
+- **B/R – Norge:** Statnett införde 9 november en tillfällig paus för nya datacenterreservationer och vissa funktionsgodkännanden till senast 1 augusti 2027. Statnett redovisar 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW ytterligare förfrågningar. Regeringen aviserar licensordning och större kostnadsansvar, men ingen färdig lag finns.
+- **B/R – europeiska protester:** aktionsdagar 6–7 november i flera länder. Koalitionen uppger 90 evenemang; Le Monde rapporterar protester i cirka 15 länder, inklusive intrång på Microsofts byggarbetsplats i Amsterdam 6 november och omkring 2 000 demonstranter i Zaragoza. Koalitionens totalsiffra är partsuppgift; Le Monde är oberoende rapportering om enskilda händelser.
+- **K – Cladonia/Storsjö:** SVT 9 november rapporterar över 30 000 underskrifter i ett upprop och att ett möte med Bergs kommun skjutits upp. SVT:s 6 november-reportage beskriver ön och tidigare rapporterade 300 ha som delar av en samlad SCA-affär. Skillnaden mot tidigare rapport om separat förvärvstillstånd kräver lagfartsakter och köpehandlingar.
+- **O – Hormuz:** Reuters 9 november återger en anonym IRGC-flottkälla om förstörda navigationshjälpmedel i södra sundet. Uppgiften är obekräftad utanför iransk partsrapportering; UKMTO:s 8 november-fartygsincidenter är separata uppgifter och bekräftar inte systemens status.
+
+### Arbetsflöde
+- PR #16:s deltafil och täckningsmatris uppdaterade.
+- PR #17:s datacenterutkast uppdaterat med Norge och europeiska protester.
+- PR #7:s Palantir-utkast uppdaterat med NHS-avtalets framtid, användningsmått och källstatus.
+- PR #4 innehåller redan SVT:s 9 november-uppdatering om Storsjö.
+- Samtliga ändringar ligger i öppna granskningsgrenar. Inget har mergats eller publicerats i denna cykel.
