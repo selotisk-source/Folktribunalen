@@ -126,3 +126,16 @@ CRMA-listan, GTK:s RAKKA- och nationella utforskningsarbete samt Posivas Onkalo 
 6. Cladonia: lagfarter, köpehandlingar, jaktavtal och JO:s diariebesked.
 7. Hormuz: publicerad irakisk överenskommelse, verifierad fartygsidentitet och oberoende incidentrapport.
 8. EUDI-wallet: svensk testversion i december och EU:s tidsfrist 24 december.
+
+
+## Addendum – Khor Mor och uppdaterad redaktionskö, 9 november 2026
+
+**8 november – OBEROENDE RAPPORTERING / PARTSUPPGIFT:** Reuters rapporterar att en drönarattack stoppade produktionen vid Khor Mor-gasfältet i Kurdistansregionen. Två säkerhetskällor och två källor vid regionens elministerium uppgav att en LPG-lagringstank träffats; en fältanställd uppgav att personalen fördes till skyddsrum. Regionens elministerium uppgav cirka 2,8 GW bortfall i elproduktionskapacitet. Uppgiften är inte verifierad mot oberoende systemoperatörsdata. Ingen grupp har tagit på sig ansvaret och ingen gärningsperson tillskrivs.  
+Reuters: https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/  
+Dana Gas/Pearl Petroleum bakgrund: https://www.danagas.com/operations/kri/ · https://www.pearlpetroleum.com/
+
+**Betydelse:** Khor Mor är en stor regional gaskälla för elproduktion, med 750 MMscf/d kapacitet efter KM250-expansionen enligt Dana Gas. Attacken visar att Iraks energisårbarhet omfattar både sjöfarten genom Hormuz och landbaserad gasproduktion. Exakt produktionsbortfall, återstartstid och påverkan på Kirkuk Taza-leveranserna är öppna frågor.
+
+**Redaktionell åtgärd:** Nytt granskningsutkast skapat i GitHub PR #30: “Khor Mor – drönarattack stoppar gasflödet och pressar Kurdistans elförsörjning”. PR #30 är öppen, draft, ej mergad och ej publicerad. Ingen attribuering görs.
+
+**Uppdaterad köstatus:** 29 öppna draft-PR:er totalt: 27 artikelutkast, en täckningsmatris och en äldre dokumentbank. Relevanta aktuella utkast inkluderar #30 Khor Mor, #7 Palantir, #14 AI-finansiering, #20 Drax, #5 Skellefteå, #8 Samuil, #4 Cladonia, #12 Gripen, #10 kongressen, #9 Urbergsskölden, #24 EuroHPC/AI-gigafabriker, #3 Hormuz och #28 Peter Thiel. Inga PR:er har mergats i denna cykel.
