@@ -46,7 +46,7 @@ Den 13 augusti 2026 föreslog den finländska regeringen att GTK skulle få nya 
 
 Den ursprungliga planen var att lagarna skulle träda i kraft den 1 november 2026. Riksdagen behandlade proposition HE 133/2026 och godkände lagförslagen i oktober, med ändringar i huvudlagen.
 
-**Ny kontrollpunkt:** Statsrådets beslut den 5 november 2026 om riksdagens svar föreslår att republikens president stadfäster lagarna och bestämmer att de ska träda i kraft den **15 november 2026**. Presidentens stadfästelse återstår vid faktaläget den 9 november. Den tidigare 1 november-dagen var regeringens ursprungliga avsikt i propositionen, inte det datum som senare föreslogs i statsrådets beslut.
+**Ny kontrollpunkt:** Statsrådets beslut den 5 november 2026 om riksdagens svar föreslår att republikens president stadfäster lagarna och bestämmer att de ska träda i kraft den **15 november 2026**. Republikens president godkände framställningen vid föredragningen den 6 november 2026. Den slutliga ikraftträdandedagen är därmed 15 november 2026. Den tidigare 1 november-dagen var regeringens ursprungliga avsikt i propositionen, inte det datum som fastställdes i den senare processen.
 
 Lagpaketet fördelar nationellt ansvar för prospekteringsprogram, gruvavfallsdatabas och marknadskontroll av vissa produkter med kritiska råmaterial. Det innehåller också bestämmelser om att verksamhetsutövare som måste upprätta avfallshanteringsplan för utvinningsavfall ska göra en preliminär ekonomisk bedömning av potentialen att återvinna kritiska råmaterial ur avfallet.
 
@@ -92,7 +92,7 @@ För juli–september redovisade bolaget noll kronor i nettoomsättning, ett res
 
 Viscaria redovisade ett borrresultat med sex meter på 1,9 procent koppar cirka 700 meter utanför den befintliga mineraltillgången. Det är ett prospekteringsresultat från bolaget, inte en ny fastställd mineralreserv eller ett nytt tillstånd.
 
-Bolaget uppgav den 29 oktober att projektfinansieringen fortfarande pågick, med ING och Société Générale som ledande arrangörer. Kreditgodkännande från bankerna väntades enligt bolaget omkring årsskiftet, och bolaget räknade med att slutföra finansieringsprocessen inom 90 dagar.
+Bolaget uppgav den 29 oktober att projektfinansieringen fortfarande pågick, med ING och Société Générale som ledande arrangörer och fyra till sex ytterligare europeiska banker i diskussionerna tillsammans med exportkreditorganen Euler Hermes och Finnvera. Kreditgodkännande från huvudbankerna väntades enligt bolaget omkring årsskiftet. Vid Q3-presentationen den 5 november preciserade vd:n att målet var att slutföra finansieringen före januari månads slut. Den planerade skuldfinansieringen angavs till omkring 5 miljarder kronor. Bolaget uppgav att delar av due diligence, gemensamma lånevillkor, ECA-villkor och slutliga juridiska utlåtanden återstod. Detta är bolagets tidsplan, inte ett beviljat eller utbetalt lån.
 
 Det är alltså viktigt att skilja mellan genomförd kapitalanskaffning, befintliga likvida medel, kreditgodkännande, undertecknat låneavtal och utbetald projektfinansiering. Produktionsstart 2028 är bolagets mål, inte en uppnådd milstolpe.
 
@@ -124,7 +124,7 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 
 1. **Europeiska kommissionen,** beslut (EU) 2026/2349 av den 9 oktober 2026, notifierat C(2026)8051, publicerat 22 oktober 2026: https://eur-lex.europa.eu/eli/dec/2026/2349/oj/eng
 2. **Europeiska kommissionen,** urvalet av strategiska CRMA-projekt och den samlade listan med 106 projekt: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
-3. **Finlands statsråd,** riksdagens svar på HE 133/2026, beslut 5 november 2026, föreslagen stadfästelse och ikraftträdande 15 november 2026: https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389
+3. **Finlands statsråd,** riksdagens svar på HE 133/2026, föredragning 6 november 2026; presidenten godkände framställningen och lagarna träder i kraft 15 november 2026: https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389
 4. **Finlands riksdag,** utskottsbetänkande TaVM 26/2026 om HE 133/2026: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732
 5. **GTK,** myndighetsuppgifter enligt CRMA, 13 augusti 2026: https://www.gtk.fi/sv/aktuellt/geologiska-forskningscentralen-far-uppgifter-enligt-eus-forordning-om-kritiska-ravaror/
 6. **GTK,** offentlig information om gruvavfallsområden och karttjänster: https://www.gtk.fi/en/current/geological-survey-of-finland-assigned-tasks-under-the-eu-critical-raw-materials-act/
@@ -132,7 +132,7 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 8. **Finlands regering,** driftlicens för Posiva, 22 oktober 2026: https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility
 9. **EU-förordning 2024/1252,** särskilt artikel 27 om utvinningsavfall: https://eur-lex.europa.eu/eli/reg/2024/1252/oj
 10. **Gruvaktiebolaget Viscaria,** Q3-rapport 5 november 2026: https://www.viscaria.com/en/interim-report-july-september-2026/
-11. **Viscaria,** uppdatering om projektfinansiering 29 oktober 2026: https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/
+11. **Viscaria,** uppdatering om projektfinansiering 29 oktober 2026: https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/\n12. **Viscaria,** investerarsida med Q3-rapport och webcast 5 november 2026: https://www.viscaria.com/en/investors/ (presentationen finns under Q3 2026; återgivningen av finansieringsmålet före januari månads slut har även jämförts med den publicerade samtalstranskriptionen).
 
 ## Oberoende och kompletterande källor
 
@@ -143,7 +143,7 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 ## Faktakontroll och avgränsningar
 
 - Onkalos driftlicens är utfärdad, men reguljär slutförvaring har inte börjat. STUK:s särskilda inspektion och godkännande återstår.
-- Finland hade ursprungligen planerat att CRMA-lagpaketet skulle träda i kraft 1 november. Statsrådets beslut 5 november föreslår 15 november 2026 som ikraftträdandedag efter presidentens stadfästelse; stadfästelsen återstod vid faktaläget 9 november.
+- Finlands president godkände lagpaketet den 6 november 2026. Ikraftträdandet är fastställt till 15 november 2026; den ursprungliga 1 november-planen ersattes i den senare lagstiftningsprocessen.
 - EU:s 46 nya projekt är en del av en total portfölj på 106, som omfattar 93 projekt inom EU och 13 utanför EU.
 - Den nya EU-listan omfattar i Norden Project Arctial, Sokli, Suhanko och Viscaria. Äldre CRMA-projekt som Hycamite, Jervois, Keliber, Kolmisoppi, Sakatti, ReeMAP och Talga tillhör den tidigare urvalsomgången och ska inte blandas in i listan över de 46 nya.
 - Arctial är ett förädlingsprojekt för aluminium; Sokli och Suhanko är utvinningsprojekt; Viscaria är kopparutvinning.
@@ -155,13 +155,13 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 
 ## Öppna kontrollpunkter före publicering
 
-1. Följ presidentens stadfästelse och hämta den slutliga finländska lagtexten och lagnumren; statsrådets beslut 5 november föreslår ikraftträdande 15 november.
+1. Hämta den slutliga finländska lagtexten och lagnumren och kontrollera ikraftträdandet den 15 november mot den publicerade författningen.
 2. Följ STUK:s särskilda inspektion, driftsättningsvillkor och Posivas faktiska startdatum.
 3. Kontrollera GTK:s RAKKA-metadata och hur den nya databasen ska förvaltas, uppdateras och göras tillgänglig.
 4. Begär aktuella tillstånds-, miljö- och finansieringsstatusar för Arctial, Sokli och Suhanko från respektive projektägare och berörda myndigheter.
-5. Följ Viscarias kreditgodkännande, slutliga låneavtal, utbetalning och byggtakt.
+5. Följ Viscarias kreditgodkännande kring årsskiftet, slutförande av lånepaketet före januari månads slut, slutliga låneavtal, utbetalning och byggtakt.
 6. Följ Aurubis Pirdop-expansionens tillstånd, investeringsbeslut, kapacitet och kopparflöden.
 7. Kontrollera om EU:s prioriterade handläggning leder till faktiska beslut eller främst ändrar myndigheternas prioriteringsordning.
 8. Kartlägg påverkan på vatten, elnät, transport, naturvärden, lokalsamhällen och samiska rättigheter för varje projekt separat.
 
-**Status:** Uppdaterat sammanhängande utkast med EU:s andra CRMA-lista, Finlands beslutade ikraftträdandedatum 15 november och Viscarias aktuella finansieringsläge. Strategisk status, tillstånd, finansiering och faktisk produktion hålls isär. Inte publicerat.
+**Status:** Utkastet korrigerat efter presidentens godkännande den 6 november och kompletterat med Viscarias Q3-presentation den 5 november: cirka 5 miljarder kronor i planerad skuldfinansiering, kreditbeslut omkring årsskiftet och målsatt avslut före januari månads slut. Uppdaterat sammanhängande utkast med EU:s andra CRMA-lista, Finlands beslutade ikraftträdandedatum 15 november och Viscarias aktuella finansieringsläge. Strategisk status, tillstånd, finansiering och faktisk produktion hålls isär. Inte publicerat.
