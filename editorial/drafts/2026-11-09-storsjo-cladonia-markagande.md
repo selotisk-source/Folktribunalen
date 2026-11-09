@@ -95,7 +95,7 @@ Det finns en avvikelse i den sekundära rapporteringen om hur många separata f�
 
 Denna skillnad kan inte lösas med rubriker eller uppskattningar. Den kräver fastighetsförteckningen i köpehandlingarna, lagfartsuppgifter och de två eventuella tillståndsbesluten. Tills dess ska vi inte lägga ihop eller särredovisa arealerna som om fastighetskedjan vore klarlagd.
 
-**Kontrollstatus 10 november:** Den rapporterade tilläggsaffären kan nu knytas till beteckningarna Berg Storsjö 18:3 och 18:5 i Fastighetsvärldens publicering. Ett tredjepartsbaserat fastighetsgränssnitt visar arealer som tillsammans ligger nära 303 hektar, men det är inte en ersättning för Lantmäteriets inskrivningsakter. Lantmäteriets lagfartsuppgifter, köpehandlingarna och Länsstyrelsens separata beslut har fortfarande inte hämtats direkt. Uppgiften ska därför beskrivas som väl specificerad sekundärrapportering, inte som fullständigt primärverifierad.
+**Kontrollstatus 10 november:** Den rapporterade tilläggsaffären kan nu knytas till beteckningarna Berg Storsjö 18:3 och 18:5 i Fastighetsvärldens publicering. Fastighetsvärlden anger cirka 300 hektar, men arealen är ännu inte kontrollerad mot Lantmäteriets inskrivningsakter. Lantmäteriets lagfartsuppgifter, köpehandlingarna och Länsstyrelsens separata beslut har fortfarande inte hämtats direkt. Uppgiften ska därför beskrivas som väl specificerad sekundärrapportering, inte som fullständigt primärverifierad.
 
 ## Redaktionell bedömning
 
