@@ -60,7 +60,9 @@ Statnett framhåller samtidigt att datacenter på sikt kan bidra till balanserin
 
 Den 9 november lämnade stortingsrepresentanten Bjørnar Moxnes in en skriftlig fråga till energiministern, dokument 15:568 (2026–2027). Han efterfrågar hur mycket datacenterkapacitet som fortfarande kan anslutas under pausen, hur stor årlig elanvändning dessa projekt kan motsvara och hur många anläggningar som redan fått funktionskrav godkända respektive väntar på beslut.
 
-Frågan pekar på en viktig informationslucka. Statnetts fyra kapacitetskategorier visar omfattningen av intresset, men inte hur stor del av de reserverade 4 200 MW som faktiskt kan gå vidare under den tillfälliga pausen. Svaret från energiministern var vid faktakontrollen ännu inte publicerat.
+Frågan pekar på en viktig informationslucka. Den efterfrågar inte bara hur mycket av de reserverade 4 200 MW som kan gå vidare, utan även hur många datacenter som redan fått anläggningsfunktion godkänd enligt fos § 14 och hur många ansökningar som väntar. Svaret från energiministern var vid faktakontrollen ännu inte publicerat.
+
+Det finns också ett tidigare skriftligt spörsmål, Dokument 15:474 (2026–2027), inlämnat 3 november och skickat 4 november. Rikard Spets frågar där hur mycket av datacentrenas 9 100 MW i kapacitetskö som kan få reservation före utgången av första halvåret 2027 – och hur mycket som realistiskt kan vara fysiskt anslutet och i drift då. Även detta svar saknades vid kontrollen. Tillsammans visar frågorna att den politiska debatten nu kräver en tydlig redovisning av skillnaden mellan köplats, reservation, tekniskt godkännande och faktisk anslutning.
 
 Stortinget har dessutom ett representantförslag, Dok. 8:34 LS (2026–2027), om tillfälligt stopp för ökad elanvändning till datacenter. Förslaget är ett politiskt initiativ från flera representanter och ska inte beskrivas som gällande lag. Det visar däremot att frågan om nätanslutning, elpriser och konkurrens med annan industri har flyttat in i den parlamentariska processen.
 
@@ -97,22 +99,18 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 1. Statnett, “Midlertidige tiltak for fortsatt forsvarlig systemdrift”, publicerad 9 november 2026 kl. 08.45: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
 2. Norges regering, “Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge”, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
 3. Stortinget, skriftlig fråga Dokument nr. 15:568 (2026–2027), inlämnad 9 november 2026: https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130177
-4. Stortinget, Representantforslag 34 LS (2026–2027): https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-034ls/
-5. Finansdepartementet, Nasjonalbudsjettet 2027, kapitel om kraftbalans och nätanslutningsärenden: https://www.regjeringen.no/no/dokumenter/meld.-st.-1-20262027/id3175768/
+4. Stortinget, skriftlig fråga Dokument nr. 15:474 (2026–2027), inlämnad 3 november och skickad 4 november 2026: https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130053
+5. Stortinget, Representantforslag 34 LS (2026–2027): https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-034ls/
+6. Finansdepartementet, Nasjonalbudsjettet 2027, kapitel om kraftbalans och nätanslutningsärenden: https://www.regjeringen.no/no/dokumenter/meld.-st.-1-20262027/id3175768/
 
 ## Oberoende och kompletterande källor
 
 1. Reuters, “Norway reins in data centre industry amid AI boom”, 9 november 2026: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
 2. Le Monde, “Protests against data centers held across Europe”, 9 november 2026: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
 3. Euronews, “Protesters across Europe to call for freeze on energy hungry data centres”, 5 november 2026: https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres
-2. Data Center Dynamics, “Norway halts grid connection applications for new data centers”, 9 november 2026: https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/
-3. Reuters, “Data centre growth triggers backlash in Norway over power deficit concerns”, 29 oktober 2026: https://www.reuters.com/business/energy/data-centre-growth-triggers-backlash-norway-over-power-deficit-concerns-2026-10-29/
-4. Wikborg Rein, juridisk genomgång av regeringens aviserade konsessionsordning och Statnetts tillfälliga åtgärder, 9 november 2026: https://www.wr.no/aktuelt/norwegian-government-announces-plans-for-data-centre-licensing-regime-as-statnett-temporarily-suspends-new-grid-capacity-reservations
-5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
-5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
-5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
-5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
-5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
+4. Data Center Dynamics, “Norway halts grid connection applications for new data centers”, 9 november 2026: https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/
+5. Reuters, “Data centre growth triggers backlash in Norway over power deficit concerns”, 29 oktober 2026: https://www.reuters.com/business/energy/data-centre-growth-triggers-backlash-norway-over-power-deficit-concerns-2026-10-29/
+6. Wikborg Rein, juridisk genomgång av regeringens aviserade konsessionsordning och Statnetts tillfälliga åtgärder, 9 november 2026: https://www.wr.no/aktuelt/norwegian-government-announces-plans-for-data-centre-licensing-regime-as-statnett-temporarily-suspends-new-grid-capacity-reservations
 5. Stop Dirty Data Centres, arrangörens primära evenemangslista för aktionsdagarna 6–7 november 2026: https://stopdirtydatacentres.eu/
 
 ## Faktakontroll och avgränsningar
@@ -135,11 +133,11 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 
 1. Vilka delar av de reserverade 4 200 MW har redan fått funktionskrav godkända?
 2. Hur många MW kan fortfarande anslutas under pausen genom undantag och redan godkända processer?
-3. När publiceras energiministerns svar på Dokument 15:568?
+3. När publiceras energiministerns svar på Dokument 15:568 och 15:474?
 4. Vilka kriterier kommer regeringen att använda för att definiera samhällsnyttiga datacenter?
 5. Hur ska fleranvändaranläggningar och internationella molnleverantörer klassificeras?
 6. Vilka övergångsregler kommer att gälla för befintliga anläggningar, byggprojekt och bindande anslutningsavtal?
 7. Hur ska kostnader för nätförstärkning fördelas mellan datacenter, övriga elkunder och samhället?
 8. Kommer kraven på egen kraftproduktion att bli bindande, och hur ska de i så fall utformas utan att skapa nya systemrisker?
 
-**Status:** Komplett första utkast skapat. Källor och centrala påståenden är kontrollerade mot primärmaterial och kompletterande rapportering. Kvarstår: juridisk slutgranskning av konsessionsordningen när förslagstext publiceras, svar från energiministern och slutlig redaktionell språkgranskning. Inte publicerad.
+**Status:** Utkastet kompletterat med Stortingets två obesvarade frågor 15:568 (9 november) och 15:474 (3 november), som konkret efterfrågar hur mycket datacenterkapacitet som fortfarande kan reserveras respektive fysiskt anslutas. Komplett första utkast skapat. Källor och centrala påståenden är kontrollerade mot primärmaterial och kompletterande rapportering. Kvarstår: juridisk slutgranskning av konsessionsordningen när förslagstext publiceras, svar från energiministern och slutlig redaktionell språkgranskning. Inte publicerad.
