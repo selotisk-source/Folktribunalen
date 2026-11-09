@@ -293,3 +293,55 @@ Källor:
 
 **Öppna frågor:** När kommer den norska lag-/förordningstexten? Vilka trösklar gör ett datacenter licenspliktigt? Hur hanteras redan reserverad kapacitet? Hur definieras samhällsnytta och kostnadsansvar? Vilka funktionskrav ska RME godkänna? Hur många av de annonserade projekten har finansiering, mark, elavtal och bygglov på plats?
 
+
+
+## Källuppdatering 9 november 2026 – Finland: Google-utbyggnad blir rättslig och miljömässig risk
+
+**Händelsedatum:** LVV:s stoppbeslut 6 oktober 2026; polisutredningen offentliggjord 29 oktober.  
+**Publiceringsdatum:** Reuters 29 oktober 2026; The Guardian 22 oktober och 29 oktober 2026.  
+**Plats och aktörer:** Muhos i norra Finland; Tuike Finland Oy, Googles projektbolag, den finska tillsynsmyndigheten LVV och polisen.
+
+**PRIMÄRKÄLLA/ myndighetsåtgärd:** LVV beordrade den 6 oktober att förberedande arbeten som väsentligt förändrar miljön skulle stoppas vid planerade datacenter i Muhos och Kajaani i avvaktan på miljökonsekvensbedömningar.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 29 oktober att polisen öppnat en brottsutredning om misstänkta överträdelser av vattenlagen och miljöskada vid Muhos. Utredarna granskar bland annat dränering och vattenhantering. Reuters återger att cirka 330 hektar skog röjts vid Muhos innan nödvändig miljöbedömning var klar. Polisen sade att utredningen väntas fortsätta in i 2027 och att en uppdatering planeras i december.
+
+**PARTSUPPGIFT:** Google sade att bolaget kommer att samarbeta med myndigheterna. Det är inte ett erkännande av brott eller ett slutligt myndighetsfynd. Ingen åtalad person eller fällande dom är identifierad i det material som kontrollerats.
+
+**Betydelse:** Fallet visar hur datacenterprojekt kan gå före miljöbedömning och lokal tillsyn när investeringstrycket är högt. Det är ett konkret exempel på att markberedning, avvattning, skogsavverkning och miljöprövning måste följas separat från annonserad investeringsvolym och planerad IT-kapacitet.
+
+**Osäkerheter:** Polisutredningen gäller Muhos; uppgifter om avverkning vid Kajaani/Otanmäki ska inte automatiskt blandas in i samma brottsutredning. Det finns ännu inget slutligt beslut om återupptagna arbeten, skadestånd, böter eller brottsansvar.
+
+Källor:
+- Reuters, 29 oktober 2026: https://www.reuters.com/business/environment/finland-launches-criminal-probe-suspected-environmental-damage-google-data-2026-10-29/
+- The Guardian, 6 oktober 2026: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment
+- The Guardian, 22 oktober 2026: https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre
+
+## Källuppdatering 9 november 2026 – EU:s AI-gigafabriker: tidsplanen har ändrats
+
+**PRIMÄRKÄLLA:** EuroHPC Joint Undertaking uppdaterade upphandlingssidan den 5 november 2026. Den ursprungliga inlämningshanteringen har ändrats av tekniska skäl och av behovet av att medlemsstaterna slutför sina budgetåtaganden.
+
+- Lot 2: sista anbudsdag **3 december 2026 kl. 17.00 CET**.
+- Lot 1: förlängd sista anbudsdag **4 februari 2027 kl. 17.00 CET**.
+- Tidigare utkast och redan inskickade anbud i det gamla systemet ska inte användas; nya länkar ska tillhandahållas.
+- Initiativet avser upp till sju AI-gigafabriker. Kommissionen har angett upp till 10 miljarder euro i EU- och nationellt offentligt stöd och minst 20 miljarder euro i förväntad privat investering. Det är ett finansieringsmål/ramverk, inte ett redan utbetalt kapitalbelopp.
+- Eighteen Member States signed the joint procurement agreement. No award decision or site selection is confirmed at this stage.
+
+**Redaktionell betydelse:** Tidsplanen är en upphandlingsprocess, inte byggstart eller driftsatt kapacitet. Den nya uppdelningen mellan Lot 1 och Lot 2 måste användas i kommande bevakning; den äldre gemensamma deadlineuppgiften är inaktuell.
+
+Källor:
+- EuroHPC JU, uppdaterad 5 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- Europeiska kommissionen, pressmeddelande 30 juli 2026: https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion
+
+## Källuppdatering 9 november 2026 – kongresskiftet i USA
+
+AP har kallat demokratiskt övertagande av både representanthuset och senaten i mellanårsvalet den 3 november. AP:s metodredovisning anger att senatskontrollen kallades kl. 23.36 ET den 3 november och representanthuset kl. 01.24 ET den 4 november. Detta är AP:s valbedömning, inte slutlig certifiering av varje delstatsresultat.
+
+Den nya kongressen tillträder först den 3 januari 2027. Den sittande kongressen behåller därför sina befogenheter under övergångsperioden. Reuters rapporterade 8 november att demokratiska ledare förbereder en tillsynsagenda för januari, bland annat kring federala personalnedskärningar, migrationsmyndigheter och företagsrelationer. Det är en aviserad agenda, inte redan inledda utskottsutredningar.
+
+**Kvar:** följ dagens senatsprocedur om H.R.2347 separat; en cloture-omröstning om att ta upp ett lagförslag är inte ett slutligt antagande av dess sakregler.
+
+Källor:
+- AP:s metodredovisning: https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/
+- AP, valresultat: https://apnews.com/article/f126e12e05b579a327b98481c0ae2226
+- Reuters, 8 november 2026: https://www.reuters.com/legal/government/democrats-eye-musk-miller-probes-after-midterm-rout-2026-11-08/
+
