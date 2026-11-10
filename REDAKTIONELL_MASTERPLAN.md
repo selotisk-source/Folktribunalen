@@ -691,8 +691,8 @@ Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vi
 
 - **F – Anthropic/AI-finansiering:** PR #14 har fått en ny primärkälla: SEC S-1/A-2 inlämnad 10 november. Prospektet redovisar 900,9 md USD i samlade compute-/infrastrukturåtaganden, upp från 895,4 md USD i S-1/A-1 den 2 november; 186,2 md USD är villkorade eller uppsägningsbara. En villkorad privat placering på 26 md USD namnger bland andra NVIDIA, Google, AMD, Broadcom, Micron, Microsoft och TSMC. Skillnaden mellan prospektversionerna är inte bevis på kontant utbetalning. Åtaganden är inte automatiskt skuld eller utbetalt kapital.
 - **A – Palantir:** PR #7 kompletterat med Q3-10-Q:s jämförelse: amerikansk kommersiell intäkt 984 m USD mot amerikansk myndighetsintäkt 953 m USD för kvartalet. Nio-månadersmixen är fortfarande cirka 51 % myndigheter och 49 % kommersiellt.
-- **D/H – Sofia/Serres:** PR #8 kompletterat med rapporteringen om att två silverliturgiska flabeller återfördes till Timios Prodromos den 8 november efter utställningen i Thessaloniki. Fullständig inventarielista för alla 48 objekt saknas.
-- **K – Cladonia:** PR #4 kompletterat med SR:s uppgift 10 november om att ett första möte är under planering. Inget datum eller genomfört möte är bekräftat; Bergs formella KS-ärendelista 10 november saknar Cladoniaärende.
+- **D/H – Sofia/Serres:** PR #8 källrättat. Grekisk officiell uppgift anger utställning av 48 föremål till 5 november och planerad återföring därefter till två kloster och Serres/Nigritas metropolitdöme. Ingen primärkälla eller mottagningskvittens har hittats för att två silverflabeller faktiskt överlämnades 8 november; uppgiften är EJ BEKRÄFTAD.
+- **K – Cladonia:** PR #4 kompletterat med Sveriges Radios rapport 10 november om ett första möte. SR anger inte tydligt mötesdatum eller om mötet redan genomförts; kommunalt protokoll/kallelse saknas.
 - **Publiceringsstatus:** inga nya artiklar har mergats eller publicerats LIVE. PR #4, #7, #8, #14 och #16 har fått källkommentarer; PR #16:s uppföljningsjournal har uppdaterats.
 
 
@@ -702,3 +702,37 @@ Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vi
 - **Viktig avgränsning:** 900,9 miljarder dollar är inte omedelbar skuld eller utbetalt kapital; 186,2 miljarder är föremål för villkor/uppsägningsrätt och ytterligare $150–175 miljarder i icke-fasta betalningsarrangemang ligger utanför totalsumman.
 - **PR #14** behåller sin egen vinkel på NVIDIA:s $105 miljarder residualvärdesgaranti och SB Energy/OpenAI. Anthropic-IPO:n behandlas i PR #40, inte som ett nytt huvudavsnitt i PR #14.
 - **Status:** PR #40 öppet draft, inte godkänt, inte mergat, inte publicerat och inte LIVE.
+
+
+## Delta 10 november 2026, 18.32 Europe/Sofia – uppdaterad redaktionell status
+
+### Nya granskningsutkast
+- **PR #41:** Arbetsförmedlingens statistiska bedömningsstöd och IMY:s aktiva tillsyn – spår N/A.
+- **PR #42:** Palantirs lobbying om GP-journaler i NHS FDP – spår A/N.
+- **PR #43:** Lyten/EdgeConneX och återbruket av Northvolt-området i Skellefteå – spår R/B/S.
+- **PR #44:** Venture Globals AI-utility-strategi – spår R/B/F.
+- **PR #40:** Anthropic S-1/A-2 kompletterad med avtalsavstämning, motpartsvillkor, Broadcom-leasing och TeraWulf/Google-backstop.
+
+### Nya källuppdateringar i befintliga utkast
+- **PR #3:** ADNOC Gas Q3 och fortsatt utredning av Fujairah som möjlig LNG-exportväg; inget beslut eller FID.
+- **PR #4:** Sveriges Radio 10 november om ett första möte kring Cladonia/Storsjö; datum, protokoll och deltagarlista saknas.
+- **PR #7:** Guardian:s FOI-baserade rapportering 9 november om Palantirs lobbying för GP-data samt källkonflikt om FDP-kontraktets maximala slutår.
+- **PR #8:** rättelse om två silverflabeller; faktisk återlämning 8 november ej styrkt.
+- **PR #34:** Finland HE 133/2026 på presidentens beslutssida 6 november; slutlig lagtext/ikraftträdande ska verifieras i Finlex.
+- **PR #39:** Libanons presidentkansliets MoU- och mötesnotiser kontrollerade direkt.
+
+### Viktiga nya källor och status
+- **Anthropic:** SEC Form S-1/A-2 10 november redovisar $900,9 md aggregerade compute-/infrastrukturåtaganden. Det är inte omedelbar skuld. 186,2 md är föremål för villkor/uppsägningsrättigheter; 150–175 md rörliga uppskattningar ligger utanför totalsumman. TeraWulf Form 8-K 4 november visar Google-backstop för vissa av Anthropics 401 MW leaseförpliktelser; inte en generell garanti för hela Anthropic.
+- **NHS/Palantir:** Guardian:s FOI-baserade rapportering visar lobbying om utvidgning till GP-data, inte faktisk överföring. Parlamentets HCWS57 från 21 november 2023 säger att GP-data inte skulle ingå i den nationella FDP-plattformen.
+- **Arbetsförmedlingen:** IMY:s tillsynssida uppdaterad 5 november anger aktiv granskning i steg 2 av 3. Arbetsförmedlingen säger att handläggaren fattar slutligt beslut; systemet använder profilering och randomisering i vissa gränsfall.
+- **Northvolt/Skellefteå:** kommunen uppger att EdgeConneX köpte delar av marken sommaren 2026; Lyten uppger att batteriupptrappning pågår och att EdgeConneX inlett utvecklingsarbete för fas 1. 1 GW är potentiell slutkapacitet, inte driftsatt effekt.
+- **Venture Global:** SEC Form 8-K/Q3 och bolagets earnings-call-remarks 10 november anger ramavtal för upp till 16 × 720 MW, första 250 MW compute sent 2028 och mål om 5 GW till 2031. Inga fullständiga kund- eller finansieringsåtaganden har identifierats.
+- **Hormuz:** Reuters rapporterar UAE-tender för 1,87 miljoner fat Saudi Arab Light från Gem No.2. Tenderhandlingen har inte hämtats direkt; faktisk lastning/köpare okända. ADNOC Gas säger att Fujairah-alternativet fortfarande utreds, inget beslut.
+- **Finland/CRMA:** HE 133/2026 finns på presidentens beslutssida 6 november; slutlig lagtext och ikraftträdandedatum har inte återfunnits i Finlex.
+- **Cladonia:** SR rapporterar ett första möte men ger inte ett tydligt datum eller protokoll.
+
+### Rättelse
+Masterplanens tidigare uppgift om att två silverflabeller återfördes till Timios Prodromos den 8 november är borttagen. Den specifika överlämningen är inte primärt eller oberoende styrkt. Officiell grekisk källa styrker endast utställning till 5 november och planerad återföring därefter.
+
+### Arbetsflödesstatus
+PR #39–#44 är öppna granskningsutkast. Ingen PR har mergats och ingen artikel har publicerats LIVE. Webbplatsens produktionsdatabas har inte ändrats.
