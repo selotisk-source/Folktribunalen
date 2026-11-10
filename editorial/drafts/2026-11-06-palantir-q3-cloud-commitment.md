@@ -318,7 +318,7 @@ Källor:
 - Guardian, 9 november 2026: https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records
 - NHS England, FDP FAQs: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/fdp-faqs/
 - NHS England, Categories of personal data: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/security-privacy/nhs-fdp-information-governance-framework/categories-of-personal-data/
-- Health and Social Care Committee, 4 november 2026: https://committees.parliament.uk/event/27162/formal-meeting-oral-evidence-session/
+- Health and Social Care Committee, 4 november 2026: https://committees.parliament.uk/oralevidence/18242/html/
 - MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
 
 **Öppet före publicering:** hämta originalbilagorna till FOI-begäran; fastställ exakt lokal data controller och DSA för varje GP-pilot; kontrollera om ministeriets översyn lett till ett formellt beslut; kontrollera om MOPAC:s förlikningsavtal och offentliga uttalande publicerats i sin slutliga lydelse.
