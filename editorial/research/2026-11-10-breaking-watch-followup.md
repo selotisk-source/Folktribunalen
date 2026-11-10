@@ -134,3 +134,17 @@ Inga nya artikelärenden har startats. Inga draft-PR:er har mergats eller public
 3. Hämta originalhandlingar om NVIDIA:s AI-cloud-avtal och följ nästa SEC-rapport.
 4. Hämta Moutsopoulos originaldokumentation och mottagningsbevis för de 48 föremålen.
 5. Fortsätt A–S-bevakningen utan att skapa parallella artikelstarter före den etablerade godkännandeordningen.
+
+
+## Tillägg 10 november – jämförelse mellan LIVE-deploy och main-källan
+
+En filjämförelse har nu gjorts mellan Render-deployens faktiska commit och aktuell GitHub-`main`:
+
+- **Render LIVE-deploy:** commit `8e46f91e643be55cce6afed9ed6d05d5c9aae707`, färdig 8 november 2026 kl. 12.16 UTC. I den deployade `src/app.js` har Hormuzkortet rubriken “Hormuzkrisen: IMO bekräftar 130 attacker och 25 sjömansförluster”, publiceringsdatum 8 november och den äldre kortare texten. Den deployade filen innehåller inte East-West-pipelineuppgiften och inte IMO:s uppdatering till 131.
+- **GitHub main:** aktuell `src/app.js`-blob `ca7d0737f98deb22bd420a8d33e29b4270f4f385` visar den utökade rubriken “Hormuz: Irak söker en egen väg – men farleden är fortfarande osäker”, datum 9 november, 131 bekräftade incidenter och avsnittet om East-West-pipelinen.
+- **Render-händelser:** ingen build- eller deployhändelse efter 8 november 12.16 UTC hittades för den statiska tjänsten, trots att tjänsten är konfigurerad med auto-deploy mot `main`. Orsaken framgår inte av Render-eventloggen.
+- **Direkt HTTP:** webbläsarverktyget kunde inte öppna sidan och containerhämtning misslyckades på DNS-upplösning. Källjämförelsen visar därför vilken version Render har byggt, men den slutliga HTML-sidan har inte hämtats från en extern webbläsare.
+
+**Slutsats:** Render rapporterar en LIVE-deploy, men den deployade källan är den äldre 8 november-versionen. Den utökade 9 november-versionen finns i GitHub `main` men har inte fått en ny Render-deploy. PR #3 är fortfarande draft och den utökade versionen ska inte behandlas som godkänd eller LIVE. Ingen manuell deploy har utlösts.
+
+**Tekniskt hinder för CMS-kontroll:** Render-databasen `folktribunalen-db` är `available`, men dess IP-allowlist är tom. Read-only-frågan mot `information_schema.tables` avvisades eftersom externa anslutningar blockeras. Render anger att den hostade MCP-servern saknar en IP-adress som kan allowlistas; en lokal Render MCP-server eller en användargodkänd nätverksändring krävs.
