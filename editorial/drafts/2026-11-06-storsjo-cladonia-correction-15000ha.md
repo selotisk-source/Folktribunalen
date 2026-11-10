@@ -183,9 +183,9 @@ Källor:
 **Geospatial och rättslig gräns:** den historiska Storsjö lappbyn, dagens samebyars säsongsvisa markanvändning, enskilda fastigheters lagfart och eventuella sedvanerättsliga anspråk är fyra skilda frågor. Ingen av dem får användas som automatisk bevisning för de andra.
 
 **Källor:**
-- Sveriges Radio, lokal rapportering 10 november 2026: https://www.sverigesradio.se/ (sökpost: Cladonia/Palantir/Storsjö, publicerad 10 november)
-- SOU 2026:58, *Marken berättar och minns – Konsekvenser för samer av svensk politik*: https://data.riksdagen.se/dokument/HEB358
-- Sametinget, Handölsdalens sameby: https://www.sametinget.se/handolsdalen
-- Sametinget, Tåssåsens sameby: https://www.sametinget.se/tassasen
+- Sveriges Radio, lokal rapportering 10 november 2026: https://next.sr.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
+- SOU 2026:58, *Markerna berättar och minns – Konsekvenser för samer av svensk politik*: https://data.riksdagen.se/dokument/HEB358
+- Sametinget, Handölsdalens sameby: https://sametinget.se/hand%C3%B6lsdalen
+- Sametinget, Tåssåsens sameby: https://sametinget.se/t%C3%A5ss%C3%A5sen
 
 **Öppet:** exakta fastighetsbeteckningar och lagfartsakter; Länsstyrelsens båda förvärvsbeslut; kommunens diarieförda möteskallelse och protokoll; direkt dialog med berörda samebyar; parcel-overlay mot offentliga säsongskartor; eventuella jakt-, fiske-, servituts- och nyttjanderättsavtal.
