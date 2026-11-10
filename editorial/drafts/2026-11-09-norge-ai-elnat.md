@@ -1,7 +1,7 @@
 # VEM FÅR ELEKTRICITETEN? NORGE SÄTTER GRÄNSER FÖR AI-INDUSTRINS NÄTANSLUTNING
 
 **Artikeltyp:** Energi- och industrigranskning · digital infrastruktur · offentlig politik  
-**Faktaläge:** 9 november 2026  
+**Faktaläge:** 10 november 2026  
 **Publiceringsstatus:** Redaktionellt utkast – inte godkänt för publicering  
 **Geografiskt fokus:** Norge, med europeiska konsekvenser
 
@@ -179,3 +179,22 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 - Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
 
 **Öppet:** ny partner; bindande nätreservation; kommunens planbestämmelser; bygglov och startbesked; finansieringsstruktur; vem som bär kostnaden för eventuell nätförstärkning.
+
+## Nätkapacitet är inte den enda flaskhalsen – turbinerna är också slutbokade
+
+**Publiceringsdatum:** Reuters, 9 november 2026. **Händelseperiod:** marknads- och leverantörsdata under 2026.
+
+Reuters rapporterar att datacenterutvecklare och kraftbolag söker begagnade gasturbiner, återupplivar avställda maskiner och konverterar uttjänta jetmotorer till stationär kraftproduktion. Reuters återger Wood Mackenzies uppgift om globala turbinebeställningar över 100 GW mot en uppskattad årlig tillverkningskapacitet på 60–70 GW. I USA anges genomsnittlig leveranstid för nya gasturbiner till omkring sex år. Siemens Energy, GE Vernova och Mitsubishi Heavy Industries uppges alla ha orderböcker som överstiger den kortsiktiga produktionskapaciteten.
+
+Reuters citerar även Wärtsiläs energichef om cirka 3 GW beställningar sedan våren 2025 från amerikanska datacenter för gasmotorgenerering. Det är ett viktigt alternativ till gasturbiner, men uppgiften gäller amerikanska datacenter och ska inte tillskrivas norska projekt.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters bygger artikeln på intervjuer med mer än ett dussin mäklare, servicebolag, leverantörer och analytiker. Vi har inte hämtat de bakomliggande Wood Mackenzie- och Jefferies-databaserna eller fått separat orderbekräftelse från varje tillverkare.
+
+**Betydelse för Norge och Europa:** En nätreservation innebär inte att projektet kan få turbiner, transformatorer, kylning eller reservkraft i tid. Begagnad utrustning kan minska väntetiden men skapar frågor om återstående livslängd, servicehistorik, effektivitet och långsiktigt underhåll. Den norska anslutningskön måste därför analyseras tillsammans med leverantörernas faktiska leveransförmåga.
+
+**Avgränsning:** Reuters globala siffror är inte ett mått på norsk eller europeisk installerad kapacitet. Det saknas i denna kontroll en offentlig, jämförbar regional orderbok för de aktuella projekten.
+
+**Nästa kontroll:** Siemens Energy, GE Vernova, Mitsubishi Heavy Industries och Wärtsiläs Q3-rapporter/orderböcker; norska och svenska projektbolags reservkraftsavtal; miljötillstånd för stationära gasturbiner; faktisk nätanslutning och bränsleavtal.
+
+**Källa:** Reuters, 9 november 2026: https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/
+
