@@ -153,3 +153,28 @@ En filjämförelse har nu gjorts mellan Render-deployens faktiska commit och akt
 ### P – precisering av lagstiftningsfordonet H.R. 2347
 
 Den officiella Senate LIS-sidan för Vote 257 visar det ursprungliga formella måttet H.R. 2347 med titeln *Survivor Justice Tax Prevention Act*. Senatens demokratiska kanslis Wrap Up 9 november och Senate Press Gallery anger uttryckligen att H.R. 2347 är det lagstiftningsfordon (legislative vehicle) som används för BAAJA. Den aktuella ersättningsändringen är därför det relevanta sakpolitiska underlaget; den ursprungliga registertiteln får inte misstas för innehållet i den ändrade texten. Behandlingen fortsätter post-cloture den 10 november. Ingen slutlig passage har skett.
+
+
+## Kontrollrunda 10 november 2026 – tillägg efter morgonuppdateringen
+
+### B/R – Norge: datacenter får tillfällig anslutningspaus och föreslagen koncessionsprövning
+- **Händelse/publicering:** 9 november 2026.
+- **PRIMÄRKÄLLA:** Statnett stoppar nya kapacitetsreservationer till datacenter samt vissa nya FOS §14-godkännanden och ansökningar om direkt 420 kV-anslutning. Pausen väntas upphöra senast 1 augusti 2027. Statnett anger 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i ytterligare förfrågningar. Dessa är skilda stadier; de är inte installerad effekt.
+- **PRIMÄRKÄLLA:** Regeringen aviserar en planerad koncessionsordning för befintliga och framtida datacenter med övergångsregler. Kryptodatacenter ska inte betraktas som samhällsnyttiga. Kostnadsbidrag till nät, prioritering av samhällskritisk kapacitet, egen kraftproduktion och eventuellt statligt ägande ska utredas. Det är en politisk avsikt, inte en antagen lag.
+- **OBEROENDE BEKRÄFTELSE:** Reuters 9 november. Reuters uppgift om 26 000 MW nya ansökningar under 2026 och 75 procent datacenter hålls åtskild från Statnetts fyra kapacitetsstadier eftersom underlagen inte uttryckligen avgränsar samma population/tid.
+- **Öppet:** övergångsregler, hur reserverad kapacitet påverkas, definition av samhällsnytta, kostnadsfördelning och RME:s kommande funktionskrav.
+- Källor: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/ · https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/ · https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+
+### O – Hormuz och regional energiinfrastruktur
+- **LNG, publicerat 10 november:** Reuters återger S&P Global Energy-data om 31 lastade LNG-fartyg ut genom Hormuz i oktober (23 från Ras Laffan, åtta från Das Island), jämfört med 23 i september. Kpler redovisar 42 LNG-lastningar i oktober mot 27 i september. Två Qatar-laster omlastades via ship-to-ship-transfer utanför Sohar. Detta är partiell trafikåterhämtning, inte normaliserad sjöfart.
+- **Aramco Tower, händelse 8 november, rapporterad 10 november:** saudiska myndigheter uppgav begränsad skada och inga personskador vid en administrativ Aramco-byggnad i Riyadh. Houthirörelsen tog på sig ansvaret; detta är en partsuppgift. Oberoende teknisk skadebedömning saknas.
+- **East-West-pipeline, händelse 9 november:** saudiska myndigheter uppgav begränsad brand i Medina-regionen, släckt utan driftstörning eller personskador. Ingen gärningsperson har fastställts. Händelsen ska inte slås ihop med Aramco Tower-attacken.
+- Källor: https://www.brecorder.com/news/40448237/hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began · https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/ · https://www.reuters.com/business/energy/saudi-east-west-oil-pipeline-hit-medina-region-state-media-reports-2026-11-09/
+
+### R – Khor Mor och Zaporizjzja
+- **Khor Mor, händelse 8 november kl. cirka 23.00, KRG-besked 9 november:** KRG:s ministerier för naturresurser och elektricitet bekräftar angreppet men identifierar ingen ansvarig aktör. Dana Gas beskriver en misstänkt drönarattack, släckt brand, inga skadade och fortsatt produktionsstopp. KRG:s uppskattning om cirka 2,8 GW bortfallen elproduktionskapacitet är en myndighetsuppgift; oberoende systemoperatörsdata har inte identifierats. Ingen grupp har tagit på sig ansvaret.
+- **Zaporizjzja, händelse 8 november:** Energoatom anger att 330 kV Ferosplavna-1 kopplades bort kl. 02.36 och återinkopplades kl. 17.41. IAEA:s uppgift, återgiven av Reuters/Interfax, är det 27:e bortfallet av extern kraft sedan 2022. Energoatom räknar 16 fullständiga bortfall sedan början av 2026; räknarna har olika startdatum. Orsak och ansvarig aktör är inte fastställda.
+- Källor: https://gov.krd/mnr-ar/activities/news-and-press-releases/2026/november/بيان-مشترك-من-وزارتي-الثروات-الطبيعية-والكهرباء-في-إقليم-كوردستان/ · https://www.danagas.com/storage/2026/11/20261109-Khor-Mor-Operational-update-EN.pdf · https://www.energoatom.com.ua/news/zaporizka-aes-zalisilasia-bez-zovnisnogo-zivlennia-16i-blekaut-vid-pocatku-roku · https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-2026-11-08/
+
+### Redaktionell status
+PR #31 (Norge), PR #30 (Khor Mor), PR #3 (Hormuz) och PR #16 (täckningsjournal) har fått uppdaterade granskningsnoteringar. PR #35 (Zaporizjzja) innehåller redan Energoatoms primäruppgifter och Reuters/AP-korskontroll. Inga nya artikelärenden har startats, inga utkast har mergats och ingen ny publicering har gjorts.
