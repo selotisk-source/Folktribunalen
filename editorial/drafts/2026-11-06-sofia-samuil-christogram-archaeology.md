@@ -163,7 +163,7 @@ Det är möjligt att 1965 avser början på utgrävningskampanjen och 1969 det s
 **Redaktionell formulering tills primärmaterialet hämtats:** “Kvarlevorna påträffades under Moutsopoulos utgrävningar vid Sankt Achillios på 1960-talet; offentliga källor anger olika årtal, 1965 respektive 1969.” Ange inte ett enda år som slutgiltigt.
 
 **Källor:**
-- Reuters, 29 september 2026: https://www.reuters.com/world/europe/greece-agrees-return-remains-medieval-tsar-bulgaria-2026-09-29/
+- Reuters, 29 september 2026: https://www.internazionale.it/ultime-notizie-reuters/2026/09/29/greece-agrees-to-return-remains-of-medieval-tsar-to-bulgaria
 - BTA, protokoll om överlämningen, 3 oktober 2026: https://www.bta.bg/en/news/balkans/1217016-bulgaria-greece-sign-protocols-on-tsar-sameul-s-remains-transfer
 - BTA, premiärministerns tillkännagivande och redogörelse för 1969, 29 september 2026: https://www.bta.bg/en/news/bulgaria/1213569-greece-to-return-remains-of-tsar-samuel-to-bulgaria
 - AP, ceremoni och överföring, 3 oktober 2026: https://apnews.com/article/5acf2293fc67336678ad04035a3f0698
