@@ -113,7 +113,7 @@ Källor:
 - **PR #8:** Samuil – uppdaterat med 1965/1969-skillnaden och behov av ursprunglig utgrävningsdokumentation.
 - **PR #14:** NVIDIA – uppdaterat med 36 md USD AI-cloud agreements, ensidig omdirigeringsrätt och korrigerat MOU-språk om mer än 500 md USD.
 - **PR #3:** Hormuz – redan uppdaterat med East-West-pipelineuppgiften 9 november.
-- **PR #16:** denna uppföljningsjournal och masterplanens driftstatus.
+- **PR #10:** uppdaterat med senatens 73–25-cloture, H.R. 2347 som BAAJA:s lagstiftningsfordon och skillnaden mellan ursprunglig registertitel och aktuell text.\n- **PR #16:** denna uppföljningsjournal och masterplanens driftstatus.
 - **PR #31, #32, #34, #36, #37:** kvarstår som befintliga utkast enligt respektive arbetsgren.
 
 Inga nya artikelärenden har startats. Inga draft-PR:er har mergats eller publicerats genom denna uppföljning.
