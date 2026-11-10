@@ -14,7 +14,7 @@ Enligt tidningens genomgång sträcker sig korrespondensen mellan Palantirs brit
 
 När NHS England tilldelade kontraktet för Federated Data Platform (FDP) 2023 var beskedet från regeringen uttryckligt: **GP-data skulle inte ingå i den nationella plattformen.**
 
-Den parlamentariska skriftliga redogörelsen den 21 november 2023 angav bland annat att:
+NHS Englands officiella besked den 21 november 2023 angav bland annat att:
 - FDP skulle koppla samman data som NHS-trustar och integrerade vårdsystem redan hade, exempelvis väntelistor, operationsplanering, patientflöden och personalplanering;
 - ingen ny data skulle samlas in;
 - GP-data inte skulle vara en del av den nationella plattformen;
@@ -23,7 +23,15 @@ Den parlamentariska skriftliga redogörelsen den 21 november 2023 angav bland an
 
 Detta är en **primärkälla** för den ursprungliga offentliga avgränsningen. Den visar inte ensam hur varje lokal instans senare har konfigurerats, men den ger en tydlig baslinje för att bedöma förslaget i WhatsApp-korrespondensen.
 
-**PRIMÄRKÄLLA:** [UK Parliament, Written Statement HCWS57, 21 november 2023](https://questions-statements.parliament.uk/written-statements/detail/2023-11-21/hlws54).
+### Nationell plattform är inte samma sak som lokala instanser
+
+NHS Englands mötesanteckningar från Check and Challenge-gruppen den 15 december 2023 förtydligar att uteslutningen gäller den **nationella** FDP-instansen. En lokal Integrated Care System-instans kan använda GP-data om det redan finns ett lokalt data-delningavtal mellan vårdsystemet och GP-verksamheten. NHS Englands FAQ, uppdaterad 14 april 2026, anger att NHS England är personuppgiftsansvarig för den nationella instansen, medan respektive trust/ICB är ansvarig för sin lokala instans. Palantir är biträde och får endast behandla uppgifter enligt användarorganisationens skriftliga instruktioner.
+
+Det betyder att frågan i Guardian-granskningen måste preciseras: handlade Palantirs förslag om att ändra den nationella datamängden, om att skala upp lokala GP-dataflöden, eller om båda? De rättsliga och tekniska vägarna är olika.
+
+**Ytterligare PRIMÄRKÄLLOR:** [NHS England – Check and Challenge Group, 15 december 2023](https://www.england.nhs.uk/long-read/fdp-check-and-challenge-group-minutes-15-december-2023/); [NHS England – FDP FAQs, uppdaterade 14 april 2026](https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/fdp-faqs/); [NHS England – Contract explainer](https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/security-privacy/contract-explainer/).
+
+**PRIMÄRKÄLLA:** [NHS England, New NHS software to improve care for millions of patients, 21 november 2023](https://www.england.nhs.uk/2023/11/new-nhs-software-to-improve-care-for-millions-of-patients/).
 
 ## Vad meddelandena visar – och inte visar
 
@@ -75,7 +83,7 @@ Det är ännu oklart om korrespondensen ledde till en formell begäran, en ändr
 
 | Datum | Händelse | Källstatus |
 |---|---|---|
-| 21 november 2023 | Regeringen meddelar att GP-data inte ska ingå i den nationella FDP-plattformen och att ingen ny data ska samlas in | PRIMÄRKÄLLA |
+| 21 november 2023 | NHS England meddelar att GP-data inte ska ingå i den nationella FDP-instansen och att plattformen ska koppla samman data som NHS redan håller | PRIMÄRKÄLLA |
 | Juli 2025–mars 2026 | Korrespondens mellan Mosley och Ahmed enligt Guardian | OBEROENDE FOI-BASERAD RAPPORTERING |
 | Februari 2026 | Palantir driver enligt Guardian argumentet för att koppla samman primär- och sekundärvårdsdata | OBEROENDE FOI-BASERAD RAPPORTERING |
 | 9 november 2026 | Guardian publicerar granskningen av meddelandena | OBEROENDE BEKRÄFTELSE |
@@ -93,7 +101,7 @@ Det är ännu oklart om korrespondensen ledde till en formell begäran, en ändr
 
 ## Faktastatus
 
-- **PRIMÄRKÄLLA:** Parlamentets skriftliga redogörelse 21 november 2023 säger att GP-data inte ska ingå i den nationella FDP-plattformen och att ingen ny data ska samlas in.
+- **PRIMÄRKÄLLA:** NHS Englands officiella besked 21 november 2023 anger att GP-data inte ska ingå i den nationella FDP-instansen. NHS Englands Check and Challenge-minuter 15 december 2023 klargör att lokala FDP-instanser kan använda GP-data om lokala data-delningavtal mellan ICS och GP finns. NHS Englands FAQ, uppdaterad 14 april 2026, anger att NHS England är personuppgiftsansvarig för den nationella instansen, medan varje trust/ICB ansvarar för sin lokala instans; Palantir är personuppgiftsbiträde och får inte använda data för egna ändamål.
 - **OBEROENDE BEKRÄFTELSE:** Guardian publicerade 9 november 2026 en FOI-baserad granskning av WhatsApp-meddelanden och ett briefingdokument.
 - **PARTSUPPGIFT:** Palantir säger att regeringen avgör hur programvaran används och att lokala NHS-organisationer behåller kontrollen över sina data.
 - **OBEKRÄFTAD:** att GP-data faktiskt har införts i den nationella FDP-plattformen eller att någon formell utvidgning har beslutats.
