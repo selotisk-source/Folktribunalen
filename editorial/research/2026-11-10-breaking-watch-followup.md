@@ -580,14 +580,15 @@ Källor:
 
 - **Publiceringsdatum:** 10 november 2026.
 - **OBEROENDE RAPPORTERING:** Sveriges Radio rapporterar att ett första möte om Cladonias planer är på väg att ordnas. Något fast datum eller bekräftelse på att mötet redan genomförts framgår inte av den tillgängliga rapporteringen.
-- **Tidigare rapportering:** SVT rapporterade 9 november att ett tidigare planerat möte skjutits upp och att namninsamlingen passerat 30 000 underskrifter. SR:s uppföljning är en ny statusuppgift, inte bevis för att mötet har hållits.
-- **PRIMÄRKÄLLA – kommunal kontroll:** Bergs kommuns formella kommunstyrelseärendelista för 10 november innehåller ingen Cladonia-punkt. Detta utesluter inte ett separat informellt möte men innebär att det inte får beskrivas som ett genomfört kommunstyrelseärende eller ett kommunalt beslut.
-- **Öppet:** mötesdatum, deltagare, agenda, protokoll, bolagets svar på lokala frågor samt originalhandlingar från ISP, Länsstyrelsen och Lantmäteriet.
+- **Tidigare rapportering:** SVT rapporterade 9 november att ett planerat möte skjutits upp. Sveriges Radio rapporterade 10 november att ett möte var på väg att ordnas. SVT:s uppföljning 10 november bekräftar därefter att mötet hölls samma tisdag i Svenstavik mellan kommunalrådet Therese Kärngard och en jurist som företrädde Cladonia. Kommunen fick enligt SVT besked om skälet till köpet, men den exakta förklaringen återges endast i videon.
+- **PRIMÄRKÄLLA – kommunal kontroll:** Bergs kommuns formella kommunstyrelseärendelista för 10 november innehåller ingen Cladonia-punkt. Det motsäger inte SVT:s uppgift om ett möte mellan kommunalrådet och bolagets jurist, men innebär att mötet inte får beskrivas som ett kommunstyrelseärende eller ett kommunalt beslut.
+- **Öppet:** mötets skriftliga agenda och minnesanteckningar, kommunens exakta dokumenterade besked, eventuella uppföljningsåtaganden samt originalhandlingar från ISP, Länsstyrelsen och Lantmäteriet.
 - **Arbetsåtgärd:** källuppdatering lagd i PR #4; ej mergad eller publicerad.
 
 Källor:
 - Sveriges Radio, 10 november: https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
 - SVT, 9 november: https://www.svt.se/nyheter/lokalt/jamtland/uppskjutet-mote-om-alex-karps-skogskop-i-storsjo-kapell
+- SVT, 10 november: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
 - Bergs kommun, KS-handlingar: https://berg.se/kommun-och-politik/politisk-organisation-moten-och-protokoll/kommunstyrelsen
 
 ### G/N – Libanon: presidentarkiv och diaspora
