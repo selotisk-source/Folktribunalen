@@ -626,3 +626,11 @@ Källor:
 - **Nya arbetsprodukter:** PR #39 är öppnad som draft; kommentarer med nya källor har lagts i PR #4, #7, #8 och #14.
 - **Ingen artikel har mergats eller publicerats LIVE.**
 - **Ingen ny publicering har genomförts i Render eller i webbplatsens databas.**
+
+
+### Artikelkö – separat Anthropic-IPO-utkast, 10 november 2026
+
+- **PR #40 – Anthropic går till börsen – 900,9 miljarder dollar i computeåtaganden.** Nytt fristående granskningsutkast baserat på SEC Form S-1/A-2 inlämnad 10 november. Artikeln behandlar prisintervallet $70–78, 825 miljoner Class A-aktier, villkorad privat placering om $26 miljarder, 900,9 miljarder dollar i aggregerade köp-/leasingåtaganden, villkorade/uppsägningsbara delar, tillgängliga finansieringsramar och särskilda rösträttsstrukturer.
+- **Redaktionell avgränsning:** PR #40 är separat från NVIDIA/SB Energy-artikeln PR #14. PR #14 ska fokusera på NVIDIA:s $105 miljarder residualvärdesgaranti och SB Energy/OpenAI-kedjan; Anthropic S-1/A-2 får endast en kort korsreferens där.
+- **Källstatus:** SEC S-1/A-2 och Anthropics roadshowbesked är primärkällor; Reuters och AP ger oberoende rapportering. 900,9 miljarder dollar är inte en omedelbar skuld eller redan utbetalt kapital.
+- **Status:** PR #40 öppet draft; inte godkänt, inte mergat, inte publicerat och inte LIVE.
