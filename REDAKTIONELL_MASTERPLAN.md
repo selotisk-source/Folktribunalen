@@ -642,3 +642,14 @@ Källa:
 ## Delta 10 november 2026, 04.18 EET
 
 Ny kontrolljournal: [2026-11-10-breaking-watch-0418.md](editorial/research/2026-11-10-breaking-watch-0418.md). Senatens roll-call 257 har nu officiell primärverifiering. Rottensjön nr 100 har fått ett separat granskningsutkast PR #37. PR #10, #17 och #34 är uppdaterade i respektive arbetsgren. Inga ändringar har mergats eller publicerats LIVE.
+
+
+## Delta 10 november 2026 – uppföljning efter 04.18 EET
+
+Ny kontrolljournal: [2026-11-10-breaking-watch-followup.md](editorial/research/2026-11-10-breaking-watch-followup.md). A–S har åter fått kontrollnotering. Materiella preciseringar: EdgeConneX har enligt Norran fått ett delstartbesked som endast gäller grundläggning; NVIDIA:s 10-Q visar 36 md USD i AI-cloud agreements med ensidig omdirigeringsrätt för vissa partner; Samuils fyndår anges olika som 1965 och 1969 i skilda rapporteringskedjor; East-West-pipelinen rapporterades träffad 9 november utan rapporterat driftstopp.
+
+**Befintliga utkast uppdaterade, inga nya artiklar startade:** PR #5 (EdgeConneX), PR #8 (Samuil) och PR #14 (NVIDIA). PR #3 innehåller redan East-West-pipelineuppgiften. PR #16 har fått den nya A–S-journalen.
+
+**Renderkontroll:** statiska tjänstens senaste deployment är fortsatt `live` på commit `8e46f91` (8 november, “Publish approved Hormuz article”). Senaste hämtade `main`-commit är `f265e51` (9 november, “Publish expanded Hormuz investigation”); ingen senare Render-deployhändelse har identifierats. Editorial backend är fortsatt på deployment från 4 november. Databasen är `available`, men tom IP-allowlist blockerar alla externa SQL-anslutningar; Render anger att dess hostade MCP-server saknar en allowlistbar IP. Direkt HTTP-/sidkontroll misslyckades på URL-/DNS-nivå i denna körning. Deploystatus är därför bekräftad i Render, men sidinnehållet är inte direkt kontrollerat.
+
+Ingen draft-PR har mergats. Ingen ny artikel har publicerats. Den godkända korta Hormuzartikeln har en registrerad live-deploypost; PR #3:s utökade granskningsversion är separat och fortfarande öppen.
