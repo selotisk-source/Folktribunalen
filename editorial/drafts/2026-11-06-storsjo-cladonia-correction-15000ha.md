@@ -1,7 +1,7 @@
 # Storsjöaffären: cirka 15 000 hektar – två tillståndsspår inom samma SCA-försäljning
 
 **Artikeltyp:** Granskning · markägande · skog · lokala rättigheter  
-**Faktaläge:** 7 november 2026, kl. 21.46 Europe/Sofia  
+**Faktaläge:** 10 november 2026, kl. 21.55 Europe/Sofia  
 **Berörda spår:** Cladonia/Storsjö · Fennoskandien · skog och hästkultur · Palantir och offentlig makt
 
 *Källorna beskriver inte ett senare, fristående tilläggsköp. Fastighetsvärlden rapporterade den 19 oktober att två fastigheter – Berg Storsjö 18:3 och 18:5 – omfattande cirka 300 hektar, köptes genom ett separat förvärvstillstånd, men vid samma tillfälle, av samma säljare SCA och genom samma köpare Cladonia. SVT:s fältreportage den 6 november beskriver samtidigt flera fastighetsdelar, ön och fäbodvallen som delar av den samlade SCA-försäljningen om cirka 15 000 hektar och omkring 240 miljoner kronor. Uppgifterna kan avse två parallella tillstånds-/överlåtelsespår inom en samlad avyttring. Utan de två besluten och fullständiga fastighetsutdrag går det inte att fastställa om 15 000 hektar är en avrundad totalsiffra som redan omfattar 300-hektarsdelen eller om den ska räknas utöver den. Därför ska ingen exakt totalsiffra på 15 300 hektar anges.*
@@ -188,7 +188,7 @@ Källor:
 - Sametinget, Handölsdalens sameby: https://sametinget.se/hand%C3%B6lsdalen
 - Sametinget, Tåssåsens sameby: https://sametinget.se/t%C3%A5ss%C3%A5sen
 
-**Öppet:** exakta fastighetsbeteckningar och lagfartsakter; Länsstyrelsens båda förvärvsbeslut; kommunens diarieförda möteskallelse och protokoll; direkt dialog med berörda samebyar; parcel-overlay mot offentliga säsongskartor; eventuella jakt-, fiske-, servituts- och nyttjanderättsavtal.
+**Öppet:** exakta fastighetsbeteckningar och lagfartsakter; Länsstyrelsens båda förvärvsbeslut; mötets agenda, minnesanteckningar och den exakta motivering som lämnades till Bergs kommun; direkt dialog med berörda samebyar; parcel-overlay mot offentliga säsongskartor; eventuella jakt-, fiske-, servituts- och nyttjanderättsavtal.
 
 
 ## Källuppdatering 10 november 2026 – Sveriges Radio rapporterar ett första möte
@@ -210,3 +210,20 @@ Sveriges Radio P4 Jämtland publicerade en kort rapport med rubriken *Möte om m
 **Källa:** Sveriges Radio P4 Jämtland, 10 november 2026: https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
 
 **Redaktionell hantering:** formulera inte detta som att ett formellt kommunmöte har genomförts med dokumenterade beslut. Begär kommunens diarieförda handlingar och bolagets skriftliga svar.
+
+
+## Källuppdatering 10 november 2026 – SVT bekräftar mötet i Svenstavik
+
+**Publiceringsdatum:** 10 november 2026 kl. 17.16, uppdaterad 17.19.  
+**Händelsedatum:** tisdag 10 november 2026 enligt SVT:s text.
+
+SVT Jämtland uppger att Bergs kommun träffade en jurist som företrädde Cladonia Skog AB i Svenstavik. Deltagare från kommunens sida var kommunalrådet Therese Kärngard (S). SVT skriver att mötet gav kommunen besked om varför Karp valt att köpa skogen utanför Storsjö. Den faktiska motiveringen återges inte i den tillgängliga texten utan finns i videon.
+
+**OBEROENDE BEKRÄFTELSE:** SVT:s text anger datum, plats, deltagare och att kommunen fick ett besked om köpskälet. Det är mer precist än Sveriges Radios korta rapport samma morgon, som beskrev ett första möte men inte angav när det ägt rum.
+
+**Avgränsning:** Bergs kommuns formella kommunstyrelseärendelista för 10 november innehåller ingen Cladonia-punkt. SVT:s uppgift ska därför beskrivas som ett möte mellan kommunalrådet och bolagets juridiska företrädare – inte som ett kommunstyrelsebeslut eller ett formellt KS-ärende.
+
+**Öppet:** den exakta förklaringen som lämnades, mötets agenda, eventuella minnesanteckningar, om Cladonia lämnade skriftliga åtaganden och om beskedet följts av dialog med byalaget, jaktlagen och berörda samebyar. Begär ut kommunens kallelse, diarieföring och minnesanteckningar och kontrollera videons fullständiga innehåll innan motivet återges.
+
+**Källa:** SVT Jämtland, 10 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
+
