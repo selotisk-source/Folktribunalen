@@ -115,7 +115,7 @@ NVIDIA:s Form 10-Q för kvartalet som avslutades den **26 juli 2026** visar att 
 
 I en separat tabell redovisar NVIDIA dessutom cirka **56 miljarder dollar i ytterligare åtaganden**, bland annat AI-molnavtal och leasing av tredjepartsdatacenter. Dessa belopp ska inte adderas okritiskt till 366-miljarderssumman; tabellerna beskriver olika kategorier och en eventuell överlappning måste kontrolleras mot noterna.
 
-NVIDIA uppger också att bolaget i augusti undertecknade ett **memorandum of understanding** med finansiella institutioner om att undersöka möjligheten att mobilisera upp till **500 miljarder dollar** i kapital för AI-infrastruktur. Det är en samarbets- och finansieringsambition, inte en beviljad kreditram, ett bindande låneavtal eller pengar som redan betalats ut.
+NVIDIA uppger också att bolaget i augusti undertecknade ett **memorandum of understanding** med finansiella institutioner om att undersöka möjligheten att mobilisera **mer än 500 miljarder dollar** i tredjepartskapital över tid för AI-infrastruktur. NVIDIA säger uttryckligen att dessa preliminära arrangemang kanske inte leder till slutliga avtal. Det är en samarbets- och finansieringsambition, inte en beviljad kreditram, ett bindande låneavtal eller pengar som redan betalats ut.
 
 Den centrala redovisningsmässiga skillnaden kvarstår:
 - 105 miljarder dollar är ett villkorat garantimaximum kopplat till SB Energy/PORTS och initialt 4,25 GW-IT.
@@ -407,3 +407,20 @@ Källor:
 - Reuters, IREN/Microsoft delivery delay, 5 november 2026: https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/
 - Reuters, Microsoft neocloud oversight, 5 november 2026: https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/
 - Reuters, Microsoft/Oracle capacity, 6 november 2026: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
+
+
+## Ny redovisningsdetalj: AI-molnens 36 miljarder dollar och ensidig rätt att omdirigera kapacitet
+
+NVIDIA:s Form 10-Q för kvartalet som avslutades den 26 juli 2026 redovisar i en separat tabell **36 miljarder dollar i AI cloud agreements** per rapportdagen. Bolaget anger att avtalen typiskt löper över sex år. De ska ge NVIDIA tillgång till molnkapacitet från utvalda AI-molnpartner och samtidigt ge partnerna möjlighet att köpa NVIDIA:s datacenterprodukter.
+
+Den avtalsmässiga asymmetrin är viktig: NVIDIA skriver att AI-molnpartnerna **ensidigt kan sluta tillhandahålla tjänster till NVIDIA och sälja kapaciteten till tredjepartskunder till mer fördelaktiga priser**. NVIDIA:s åtaganden minskar när kapaciteten används av tredjepartskunder eller av NVIDIA i den egna forsknings- och utvecklingsverksamheten. Om vissa kriterier uppfylls kan NVIDIA få del av intäkter från partnernas tredjepartskunder. Bolaget varnar samtidigt för att ändrade marknadsförhållanden kan påverka de finansiella resultaten negativt.
+
+Detta ska inte beskrivas som att NVIDIA redan har betalat 36 miljarder dollar eller att hela beloppet ovillkorligen förfaller. Det är ett redovisat åtagande kopplat till framtida kapacitet och användning. Men villkoret är redaktionellt betydelsefullt: NVIDIA tar ett flerårigt inköpsåtagande samtidigt som motparten enligt bolagets egen beskrivning har en ensidig möjlighet att prioritera mer lönsamma tredjepartskunder.
+
+10-Q:n visar dessutom att de separata **leverantörs- och kapacitetsåtagandena steg från 119 miljarder dollar till 279 miljarder dollar** mellan föregående kvartal och den 26 juli 2026. De gäller främst minne och tillverkningskapacitet för datacentersystem. NVIDIA anger att vissa leverantörsavtal kan avbokas, senareläggas eller justeras innan fasta beställningar läggs, men att ändringar kan medföra extra kostnader.
+
+**Redovisningsdisciplin:** 36 miljarder dollar i AI cloud agreements ligger i 10-Q:ns separata tabell över ytterligare åtaganden. Den får inte adderas mekaniskt till 366-miljarderssumman i huvudtabellen utan avstämning av kategorier och noter. På samma sätt är 279 miljarder dollar i leverantörs- och kapacitetsåtaganden inte en omedelbar skuld eller en enda utbetalning.
+
+**PRIMÄRKÄLLA:** NVIDIA Form 10-Q, kvartalet avslutat 26 juli 2026, Note 10, särskilt tabellerna över framtida åtaganden och avsnittet “AI cloud agreements”: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
+
+**ÖPPET:** fullständiga avtal med AI-molnpartnerna, identiteten på varje motpart, kapacitet per avtal, vilka belopp som redan reducerats genom användning, intäktsdelningens trösklar och hur åtagandena utvecklas i nästa 10-Q.
