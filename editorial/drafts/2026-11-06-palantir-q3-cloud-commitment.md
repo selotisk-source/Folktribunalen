@@ -343,3 +343,41 @@ Ben Coleman tog upp att 29 trustar som NHS England räknat som “benefiting” 
 - MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
 
 **Öppet:** offentliggör kontraktets fullständiga optionstrappa och exitbilaga; kontrollera om höstens översyn faktiskt slutförts; begär listan över de 29 trustarna och jämför produktnivå, lokal instans och faktisk klinisk användning; granska Sir Jim Mackeys utlovade brev och den rättsliga styrkan i bestämmelsen om nyttopåståenden.
+
+
+## Källuppdatering 10 november 2026 – CISA, brittiskt polisavtal och rådgivarroller
+
+### Palantirs CISO nominerad till chef för CISA
+
+**Händelsedatum:** 9 november 2026. **Senatens diariedatum:** 9 november 2026.
+
+**PRIMÄRKÄLLA:** USA:s senats lista över civila nomineringar i utskott anger PN1426, Department of Homeland Security: Michael LoSapio, of New Jersey, to be Director of the Cybersecurity and Infrastructure Security Agency. Han är alltså nominerad men inte bekräftad. https://www.senate.gov/legislative/nom_cmtec.htm
+
+**OBEROENDE BEKRÄFTELSE:** Defense One anger att LoSapio varit Palantirs CISO sedan september 2024. https://www.defenseone.com/business/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417144/
+
+CISA ansvarar för civil cybersäkerhet och samverkan med bland annat operatörer av el, vatten och telekommunikation. Nomineringen skapar en tydlig tillsyns- och etikfråga eftersom kandidaten kommer från en leverantör som säljer analys- och dataplattformar till myndigheter. Den bevisar inte i sig jäv eller intressekonflikt. Följ ekonomisk redovisning, etikavtal, recusal och senatens eventuella förhör.
+
+### Femårigt Foundry-avtal i östra England
+
+**Tilldelningsdatum:** 9 oktober 2026. **Award notice publicerad:** 6 november 2026.
+
+Contracts Finder-posten identifierar köparen som Police and Crime Commissioner for Cambridgeshire, leverantören Palantir Technologies UK Ltd, avtalsvärdet £10,093,202 ex VAT och perioden till 8 oktober 2031. Originalnotisen är identifierad men gick inte att läsa i denna körning; uppgifterna har därför jämförts mot två index som återger Contracts Finder-data.
+
+**OBEROENDE GRANSKNING:** The Bureau of Investigative Journalism uppger att avtalet ska användas av Bedfordshire, Cambridgeshire och Hertfordshire Police. Plattformens angivna funktion är integration, länkning och analys av data från flera polisiära system. Det offentliga award-sammandraget bevisar inte automatiserade polisbeslut.
+
+- Contracts Finder: https://www.contractsfinder.service.gov.uk/Notice/d7a7acf6-a793-427d-a674-ee989e704974-920813
+- TBIJ, 10 november 2026: https://www.thebureauinvestigates.com/stories/2026-11-10/revealed-palantir-employing-cressida-dick-as-paid-adviser
+
+### Dame Cressida Dick som betald rådgivare
+
+TBIJ rapporterar den 10 november att tidigare Metropolitan Police Commissioner Dame Cressida Dick varit betald rådgivare till Palantir sedan september 2025. Palantirs talesperson bekräftar rådgivarrollen. Dick säger att hennes uppdrag är begränsat till råd om hur produkter kan förbättra offentlig service och förnekar att hon någonsin lobbat eller förespråkat Palantir inför någon organisation eller person, eller introducerat bolaget till sina kontakter.
+
+**Källstatus:** OBEROENDE GRANSKNING med bekräftelse av själva rådgivarrollen från bolaget och Dick enligt TBIJ. Ett offentligt primärdokument om ersättning, uppdragsvillkor och eventuella etikrestriktioner har inte identifierats. Artikeln får inte insinuera lobbying som fastslaget faktum.
+
+### Londonförlikningen – rättslig status
+
+MOPAC:s offentliga uttalande den 14 oktober säger att High Court-processen lösts och att båda parter dragit tillbaka anklagelserna i sina inlagor. MOPAC förtydligar att beslutet i maj att inte ingå UOA-avtal inte grundades på Palantirs värderingar eller etik, utan på lagstadgad prövning av upphandling, styrning, överkomlighet och value for money. Palantir får delta i den nya upphandlingen på samma villkor som andra leverantörer. Det ursprungliga avtalet blev inte tilldelat genom förlikningen.
+
+**PRIMÄRKÄLLA:** https://www.london.gov.uk/statement-mopac-and-palantir
+
+**Öppna kontrollfrågor:** fullständig BCH-avtalstext, DPIA och datakällor; vilka tre poliskårer som faktiskt använder plattformen och på vilka rättsliga grunder; Cressida Dicks rådgivaravtal/ersättningsredovisning; LoSapios etikavtal och senatens prövning; den nya MPS UOA-upphandlingens krav, kostnad och exitplan.
