@@ -212,3 +212,26 @@ Källor:
 - Blumenthal, officiellt pressmeddelande, 5 november 2026: https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sends-warning-to-targets-of-investigations-into-crypto-corruption-immigration-abuses-big-tech-and-more
 - Reuters, 5 november 2026: https://www.reuters.com/world/democratic-senator-demands-tech-firms-fcc-chair-turn-over-documents-2026-11-05/
 - Washington Post, 21 april 2026, om donationsavtalets innehåll: https://www.washingtonpost.com/politics/2026/04/21/trump-ballroom-donor-deal/
+
+
+## Ny procedurhändelse 9 november: senaten tar upp BAAJA genom H.R. 2347
+
+**Händelsedatum:** 9 november 2026, kl. 17.31 ET. **Publiceringsdatum:** 9 november 2026.
+
+**PRIMÄRKÄLLA – Senate LIS:** Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vidare till H.R. 2347. Det är ett procedurbeslut om att avsluta debatten om motionen att ta upp lagstiftningsfordonet. Det är inte slutlig passage av lagtexten.
+
+**PRIMÄRKÄLLA – Senatens demokratiska kansli och Senate Press Gallery:** H.R. 2347 används som lagstiftningsfordon för *Bipartisan American Affordability and Jobs Act of 2026* (BAAJA). Senate LIS visar fortfarande H.R. 2347:s ursprungliga formella titel, *Survivor Justice Tax Prevention Act*, medan senatens egna dagliga sammanfattningar identifierar H.R. 2347 som BAAJA:s legislative vehicle. Det är alltså inte två olika omröstningar: samma procedurvotering gäller ett omarbetat lagstiftningsfordon.
+
+**Vad lagtexten syftar till:** BAAJA kombinerar snabbare federala tillstånd för energi- och infrastrukturprojekt med krav på att stora datacenter ska bära sina tillhörande transmissionskostnader. Den 7 november presenterade de fyra huvudförhandlarna en ersättningsändring. Den offentliga sammanfattningen anger förstärkt delstats- och stamrepresentation i transmissionsplanering, en DOE-funktion för att hjälpa samhällen hantera datacenterpåverkan och ändringar i samrådsprocessen.
+
+**Motargument och risker:** Senator Edward Markey och miljö- och urfolksorganisationer varnar för att delar av reformen kan försvaga miljöprövning, vatten- och artskydd, tribal consultation och möjligheten att överklaga projektbeslut. Senatorernas egna pressmeddelanden visar att demokraterna är splittrade: Heinrich och Whitehouse stödjer att debatten går vidare, medan Markey motsätter sig texten i dess nuvarande form.
+
+**Status:** Cloture på motionen att gå vidare är antagen. Senatens dagordning för 10 november anger att behandlingen fortsätter post-cloture. Slutlig passage, eventuella ändringar och representanthusets behandling återstår.
+
+**Källor:**
+- Senate LIS, Roll Call Vote 257, 9 november 2026: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm
+- Senate Democratic Caucus, Wrap Up 9 november 2026: https://www.democrats.senate.gov/2026/11/09/wrap-up-for-monday-november-9-2026
+- Senate Democratic Caucus, Schedule 10 november 2026: https://www.democrats.senate.gov/2026/11/09/schedule-for-tuesday-november-10-2026
+- Senate EPW Committee, substitute amendment 7 november 2026: https://www.epw.senate.gov/public/index.cfm/2026/11/capito-lee-whitehouse-and-heinrich-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026
+- Senator Markey, statement 9 november 2026: https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-permitting-reform-deal
+- Reuters, 9 november 2026: https://www.reuters.com/legal/litigation/democratic-us-senators-see-hope-permitting-bill-ahead-key-senate-vote-2026-11-09/
