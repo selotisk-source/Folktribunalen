@@ -511,3 +511,18 @@ Källa: https://yle.fi/a/74-20255931
 ### Artikelkö – 10 november 2026, komplettering
 - **PR #38 – C: Synkronicitet i algoritmernas spegel – mellan mening och mekanism.** Nytt fullständigt arbetsutkast med källstatus, två forskningsbidrag från 2026, empirisk forskning om rekommendationssystem, testbara hypoteser och öppna metodfrågor. PR är öppen som draft; ingen merge eller publicering.
 - Källkommentarer har lagts till i befintliga utkast PR #4, #7, #8, #22, #28 och #31. PR #31 har även fått Yles rapport om protesterna i sex finländska städer den 9 november.
+
+
+### G – UNIFIL:s senaste lägesbild i södra Libanon
+- **Händelseperiod:** 5–8 november 2026. **Publicerad:** FN:s generalsekreterares kanslis noon briefing den 9 november 2026; Anadolu publicerade en separat återgivning den 10 november.
+- **PRIMÄRKÄLLA – FN:s briefing 9 november:** UNIFIL rapporterade tre israeliska luftangrepp på torsdagen den 5 november och tre på söndagen den 8 november. Under samma fyradagarsperiod registrerades **360 artilleribanor** i områden kring Houla, Al Qantara, Brashit, Mansouri och Majdel Zoun. Begreppet avser registrerade projektilbanor; det ska inte återges som 360 verifierade nedslag eller 360 skadade mål.
+- **PRIMÄRKÄLLA – FN:s briefing 9 november:** UNIFIL observerade ingenjörsarbeten och vägbyggen samt vad missionen beskrev som *apparent preparations for sustained presence* i både den östra och västra sektorn. Briefingen fastställer inte arbetenas exakta syfte, vem som beslutat om dem eller hur länge en eventuell närvaro skulle bestå. Formuleringen får därför inte omvandlas till ett fastslaget beslut om permanent israelisk närvaro.
+- **PRIMÄRKÄLLA – FN:s briefing 9 november:** grindar och fysiska hinder begränsade fortsatt UNIFIL:s rörelsefrihet, särskilt i östra sektorn. I väster begränsade israeliska soldater och stridsvagnar rörelser i båda riktningarna nära Al-Bayyada fredagen den 6 november. Fem humanitära transporter samordnades den 5 november och en den 6 november.
+- **OBEROENDE BEKRÄFTELSE:** Anadolu återgav den 10 november samma uppgifter från FN:s biträdande talesperson Farhan Haq. Det är oberoende journalistisk rapportering av briefingen, men inte en separat fysisk eller geospatial verifiering av varje händelse.
+- **Betydelse:** Den nya lägesbilden skärper frågan i det befintliga UNIFIL-utkastet: missionens mandat upphör den 31 december 2026 och neddragningen ska därefter ske ordnat, samtidigt som missionen rapporterar fortsatt militär aktivitet, rörelsehinder och byggnadsarbeten i båda sektorerna.
+- **Öppet:** vad byggnadsarbetena avser; om de är tillfälliga eller långvariga; vilka säkerhets- och kontaktmekanismer som ska ersätta UNIFIL; samt hur gränsbyar och kristna församlingar påverkas. Denna briefing bekräftar inte skador på kyrkor eller särskild fördrivning från kristna byar.
+- **Nästa kontroll:** kommande FN-briefingar, UNIFIL:s lägesrapporter, säkerhetsrådets dokument om neddragningen och lokala uppgifter från berörda kommuner och kyrkliga institutioner.
+
+Källor:
+- FN, Noon briefing 9 november 2026: https://www.un.org/sg/fr/node/401528
+- Anadolu Agency, 10 november 2026: https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108
