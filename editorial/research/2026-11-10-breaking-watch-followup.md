@@ -360,3 +360,139 @@ Den 16 september-rapportering som anger att Bulgarien fortfarande arbetade med l
 - **Öppet:** inkomna remissvar, slutlig lagtext, budget, upphandlande myndighet/leverantör, certifieringsordning, dataskyddskonsekvensbedömning och faktisk driftsättning.
 
 Källor: Bulgariens ministerråd, beslut 29 september 2026; Ministry of Innovation and Digital Transformation, public consultation 6 October–5 November 2026; Euronews, 16 September 2026.
+
+
+## Kontrollrunda 10 november 2026 – tillägg 12:50 EET
+
+Denna komplettering lägger till nya källkontroller efter journalposten 12:15 EET. Den ändrar inte tidigare källklassificeringar och startar inga nya artikelärenden.
+
+### A – Palantir: kvartalsmix och kundfordringskoncentration
+
+- **PRIMÄRKÄLLA – SEC Form 10-Q:** global kommersiell omsättning var cirka 1,168 md USD i Q3 och statlig omsättning cirka 1,146 md USD. För årets första nio månader var statlig omsättning fortfarande större: cirka 2,994 md USD mot 2,887 md USD kommersiellt.
+- **PRIMÄRKÄLLA:** en icke namngiven kund, Customer I, svarade för 27 procent av kundfordringarna per 30 september. Detta är 27 procent av accounts receivable – inte 27 procent av omsättningen. Kunden identifieras inte i rapporten.
+- **PRIMÄRKÄLLA:** tredjeparts molnhosting bidrog med 135 m USD till ökningen i kostnad för sålda tjänster under Q3 och 263 m USD under årets första nio månader. Det är ökningar, inte total cloud spend. Bruttomarginalen steg samtidigt till 83 procent från 82 procent.
+- **Betydelse:** kommersiella intäkter passerade statliga intäkter i ett enskilt kvartal, men inte under årets första nio månader. Den icke namngivna fordringskoncentrationen är en separat motpartsrisk.
+- **Öppet:** Customer I:s identitet, fordringarnas ålder, betalningsvillkor och om koncentrationen består i Q4.
+
+Källa: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+### B/R – Sverige och Finland: nätkapacitet respektive miljöprövning
+
+**Sverige – PRIMÄRKÄLLA, Svenska kraftnät, 3 november 2026:**
+- Svenska kraftnät utreder ett mer nationellt systemperspektiv vid anslutning av stora elanvändare, inklusive datacenter.
+- Myndigheten säger att den överväger tillfälliga restriktioner i hanteringen av ansökningar med enskilda stora effektuttag medan nya metoder, regelverk och analysmodeller tas fram.
+- Detta är en övervägd åtgärd, inte ett infört anslutningsstopp. Svenska kraftnät säger uttryckligen att målet inte är att stoppa anslutningar.
+- En möjlig snabbare anslutning för stora elanvändare som också tillför elproduktion utreds.
+
+Primärkälla: https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/svenska-kraftnat-utreder-effektivare-hantering-av-stora-elanslutningar
+
+**Finland – myndighetsbeslut och polisundersökning:**
+- **Händelsedatum:** 6 oktober 2026. **OBEROENDE RAPPORTERING – Yle/Reuters:** Finlands tillsynsmyndighet LVV beordrade Tuike Finland Oy, Googles finländska dotterbolag, att avbryta miljöpåverkande förberedelsearbeten vid datacenterområdena i Muhos och Kajaani-Otanmäki i väntan på slutförda miljökonsekvensbedömningar.
+- Google uppgav att cirka 330 hektar skog avverkats vid Muhos och strax under 200 hektar vid Kajaani-Otanmäki.
+- **Händelsedatum:** 29 oktober 2026. **OBEROENDE RAPPORTERING – Yle/Reuters:** Oulu-polisen öppnade en förundersökning om misstänkt miljöskada vid Muhos efter fem utredningsbegäranden. Polisen uppgav preliminära brister eller oklarheter i dränering och vattenhantering. Utredningen väntas fortsätta in i 2027; en uppdatering aviserades till december.
+- LVV hade krävt en mer detaljerad vattenhanteringsplan senast 5 november, med konstruktioner, tidplan, oberoende vattenövervakning samt hänsyn till kraftig nederbörd, snösmältning och sura skifferjordar. **Per 10 november har ingen offentlig myndighetsbedömning av en inlämnad plan eller ett beslut om återstart identifierats.**
+- **Källstatus:** själva tillsynsbeslutet har inte hämtats direkt i denna kontroll; Yle och Reuters återger myndighets- och polisuppgifter. En brottsmisstanke eller förundersökning är inte en fällande dom.
+
+Källor:
+- Yle, 8 oktober: https://yle.fi/a/74-20250446
+- Yle, 29 oktober: https://yle.fi/a/74-20254086
+- Reuters, 29 oktober: https://www.reuters.com/business/environment/finland-launches-criminal-probe-suspected-environmental-damage-google-data-2026-10-29/
+
+**Nordisk jämförelse:** Norge har en faktisk reservationspaus hos Statnett och en aviserad koncessionsreform; Sverige överväger restriktioner men har ännu inte infört dem; Finland har ett konkret stopp för miljöpåverkande förberedelsearbete i två projekt och en pågående polisundersökning. Dessa är tre olika rättsliga och administrativa lägen.
+
+### C – Synkronicitetsprotokollet: två nya teoretiska bidrag
+
+- **PRIMÄRKÄLLA – publicerad 21 september 2026:** Angus McCoss, “Synchronistic Experience as Salience Alignment in Biosemiotic Feedback Systems”, Biosemiotics. Artikeln föreslår en kvalitativ modell med tre villkor: meningsfull relevans, överraskning i förhållande till förväntan och kausal opacitet.
+- Författaren säger uttryckligen att modellen är heuristisk, inte ett färdigt matematiskt eller empiriskt testat instrument, och att upplevelsen av kausal opacitet inte visar att händelsen är acausal. Rekommendationssystem används som analogi för dolda feedbackvägar och spår av tidigare beteende.
+- **PRIMÄRKÄLLA – publicerad 19 oktober 2026:** “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”, Neuroscience of Consciousness. Artikeln är teoretiskt/neurodynamiskt inriktad och ska inte beskrivas som en ny kontrollerad demonstration av en acausal mekanism.
+- **Redaktionell slutsats:** publikationerna ger testbara begrepp för protokollet – saliens, förväntansbrott, dolda feedbackvägar och återkoppling – men ingen av dem visar att tidsmässiga sammanträffanden orsakar yttre händelser.
+
+Källor:
+- https://link.springer.com/article/10.1007/s12304-026-09663-z
+- https://doi.org/10.1093/nc/niag063
+
+### D – Sofia / Tsar Samuil: 153 cm kontra 173 cm
+
+- **Publiceringsdatum:** 8 oktober 2026. Forskare från NAIM-BAS och BAS Institute of Experimental Morphology, Pathology and Anthropology presenterade preliminära antropologiska resultat om kvarlevorna som tillskrivs Tsar Samuil.
+- **BTA:s presskonferensrapport** anger cirka 173 cm.
+- **BNR Radio Sofia, intervju med professor Lyudmil Vagalinski den 8 oktober**, anger cirka 153 cm.
+- **BNT, intervju med antropologen Viktoria Ruseva den 11 oktober**, anger 153 cm utifrån relativt välbevarade extremitetsben.
+- **Källbedömning:** detta är inte två oberoende vetenskapliga studier utan motstridiga återgivningar av samma preliminära forskningsresultat. BTA:s 173 cm avviker från två intervjuer med forskare i teamet. Fullständig antropologisk rapport och mätprotokoll har inte publicerats i de källor som granskats.
+- Forskarna anger ålder 60–70 år, degenerativa sjukdomsförändringar och en underarmsfraktur som lett till pseudartros och betydande funktionsnedsättning i vänster arm. Radiokoldatering, ancient DNA, stabila isotoper och ny huvudrekonstruktion planeras; prover har skickats till laboratorier i Tyskland. Inga slutresultat från dessa analyser är publicerade.
+- Forskarna betonar att DNA inte ska vara enda identifieringskriteriet; attributionen bygger på en samlad historisk, arkeologisk och antropologisk bedömning.
+- **Redaktionell hantering:** använd inte 173 cm som fastställd uppgift. Begär originalmätprotokoll och fullständig antropologisk rapport.
+
+Källor:
+- BTA, 8 oktober: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+- BNR, 8 oktober: https://bnrnews.bg/blagoevgrad/post/539293/ucheni-tsar-samuil-e-bil-visok-153-sm-i-e-stradal-ot-reditsa-zabolyavaniya
+- BNT, 11 oktober: https://bntnews.bg/news/za-kostite-na-edin-car-zashto-uchenite-sa-sigurni-che-garciya-ni-varna-ostankite-na-samuil-1416502news.html
+
+### G – Libanons kristna samfund: gränsbyarnas borgmästare vädjar till kyrkoledningen
+
+- **Händelsedatum/publiceringsdatum:** 7 november 2026.
+- **PRIMÄRKÄLLA – Maronitiska patriarkatet i Bkerke:** Rådet för katolska patriarker och biskopar i Libanon sammanträdde under patriark kardinal Bechara Boutros al-Rahi. Det officiella slututtalandet anger att rådet tagit del av en vädjan från borgmästarna i Alma al-Shaab, Qawzah, Debel, Rmeish och Ain Ebel om de svåra förhållanden som invånarna i dessa gränsbyar lever under.
+- Uttalandet återger inte själva vädjan, dess konkreta krav eller någon ny överenskommelse om skydd, hjälp eller säkerhet. Det visar att kyrkoledningen har tagit emot ett lokalt upprop, inte att en politisk eller militär lösning har nåtts.
+- Samma uttalande fördömer också en attack mot den grekisk-ortodoxa Sankt Georgskyrkan i Hammoud i Karak-guvernementet i **Jordanien**. Den händelsen får inte beskrivas som en attack i Libanon.
+- **OBEROENDE BEKRÄFTELSE av själva mötet:** ingen separat oberoende rapport om mötets innehåll identifierad; patriarkatets daterade handling är primärkällan.
+
+Primärkälla: https://bkerki.org/news-article/بيان-ختامي-صادر-عن-مجلس-رئاسة-البطاركة/
+
+### K/I – Cladonia och Storsjö: jakttillgången är en lokal nyttjandefråga
+
+- **Publicerings-/uppdateringsdatum:** SVT 7 november 2026.
+- **OBEROENDE RAPPORTERING:** SVT uppger att fem jaktlag i området fick brev från SCA under våren om att deras lokala jaktupplåtelser skulle upphöra efter markförsäljningen. För några jaktlag uteblev höstens älgjakt helt; andra fick jaga på mindre områden. Lars Liljemarks jaktlag fick jaga på ungefär halva det tidigare området under hösten men uppges nu ha förlorat all jakttillgång på marken efter 45 års jakt där.
+- Jaktlagen har kontaktat Cladonia Skog AB men väntar fortfarande på besked.
+- **PARTSUPPGIFT – Cladonia, återgiven av SVT:** bolaget säger att en del jakträtter ska behållas och att lokala jägare ska få jakträtter, men att de exakta formerna ska bestämmas efter översyn och dialog.
+- **Rättslig precision:** den tidigare jakttillgången beskrivs som upplåtelser/avtal från markägaren, inte som en allmän lagstadgad rätt för allmänheten. Allemansrätt och jakträtt får inte blandas ihop.
+- Cladonia uppger också att allemansrätten, samebyarnas renbetesrätt, inskrivna servitut, skoterklubbsavtal och fiskevårdsområdets avtal fortsätter enligt sina villkor. Detta är bolagets besked; en oberoende kontroll mot respektive avtal och berörd sameby återstår.
+- Bolaget uppger att ingen avverkning planeras under vintern och att en ny skogsbruksplan tas fram. Även detta är en partsuppgift tills planen och Skogsstyrelsens anmälningar kontrollerats.
+- SVT:s fältreportage 6 november säger att ön och flera fastigheter ingick i samma SCA-försäljning om cirka 15 000 hektar och 240 mkr. Den tidigare rapporterade separata förvärvstillståndsuppgiften för Berg Storsjö 18:3 och 18:5 (cirka 300 hektar) måste fortsatt stämmas av mot lagfart och köpehandling; använd inte 15 300 hektar som fastställd totalsiffra.
+- **Nästa kontroll:** uppsägningsbrev, tidigare SCA-upplåtelser, Cladonias nya jaktbeslut, skogsbruksplan, Skogsstyrelsens avverkningsanmälningar och berörda samebyars egna besked.
+
+Källor:
+- SVT, 7 november: https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
+- SVT, 6 november, uppdaterad 9 november: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
+
+### O – Hormuz: UKMTO 197-26 hålls separat från Huda och Velos Sapphire
+
+- **Händelsedatum:** 5 november 2026 kl. 22.00 UTC. **Publiceringsdatum för varningen:** 6 november 2026.
+- **PRIMÄRKÄLLA – UKMTO Warning 197-26:** en utgående tanker rapporterade en explosion vid vattenlinjen på babordssidan cirka 16 nautiska mil öster om Khasab, Oman. Besättningen uppgavs vara säker och fartyget fortsatte för egen maskin. UKMTO namngav inte fartyget och fastställde inte orsaken.
+- **OBEROENDE ÅTERGIVNING:** Roya News återgav varningens uppgifter. Den direkta UKMTO-PDF:en länkas nedan.
+- Händelsen är skild från UKMTO 196-26/VELOS SAPPHIRE och från UKMTO 198-26/M/V Huda-kopplingen. Den ska inte slås ihop med någon av dem utan fartygsidentitet eller IMO-nummer.
+
+Källor:
+- UKMTO Warning 197-26: https://www.ukmto.org/-/media/ukmto/products/20261106-ukmto_warning-197-26.pdf?rev=c53718e903cc45659052993058647de4
+- Roya News: https://en.royanews.tv/news/75772
+
+### Q – Gripen: Saab redovisar AI-agenter som flugits på Gripen E
+
+- **Publiceringsdatum:** 3 november 2026.
+- **PARTSUPPGIFT – Saab:** bolaget uppger att egna AI-agenter har flugits på Gripen E och att BVR-scenarier validerats under verkliga flygförhållanden. Saab säger att en agent autonomt styrde flygplanet under dessa provscenarier.
+- Detta är ett betydande industriellt teknikpåstående, men den offentliga informationen innehåller inte en oberoende testmatris, fullständig försöksrapport, extern säkerhetsbedömning eller operativ certifiering. Det ska inte återges som att Gripen har fått operativ AI-autonomi eller självständiga vapenbeslut.
+- **Nästa kontroll:** offentlig test- och säkerhetsdokumentation, gränser för mänsklig kontroll, FMV:s roll, certifiering och skillnaden mellan simulerad träning, flygprov och operativ användning.
+
+Primärkälla: https://www.saab.com/newsroom/press-releases/2026/saab-unveils-its-ai-agents-for-future-fighter-systems
+
+### J – Peter Thiel: ny offentlig primärtext för eskatologispåret
+
+- **Publiceringsdatum:** 15 juli 2026.
+- **PRIMÄRKÄLLA:** Peter Thiel och Sam Wolfe publicerade essän “The Pope and the Antichrist” i First Things. Texten diskuterar Benedict XVI:s eskatologiska läsning och kopplar frågor om klimatförändringar, AI, demografisk kollaps och kärnvapen till samtidens existentiella oro.
+- Texten ska citeras som Thiel och Wolfes gemensamma argumentation. Den återger även Benedicts och andra teologers historiska resonemang; dessa ska inte tillskrivas Thiel som egna trosutsagor.
+- **Avgränsning:** essän identifierar inte en nutida politiker eller teknolog som Antikrist. Den ger en primärkälla till Thiels offentliga eskatologiska ramverk, men inte belägg för att detta ramverk styr Palantirs produkter eller kontrakt.
+
+Primärkälla: https://firstthings.com/the-pope-and-the-antichrist/
+
+### Täckningsmatris – tillägg efter 12:15 EET
+
+| Spår | Ny precisering | Status | Nästa kontrollpunkt |
+|---|---|---|---|
+| A | 27 % av kundfordringar från icke namngiven Customer I; Q3 kommersiell omsättning över statlig endast för kvartalet | Aktivt | Kundfordringarnas ålder och Q4-koncentration |
+| B | Svenska kraftnät överväger restriktioner; Finland: LVV-stopp och polisundersökning | Aktivt | Vattenplan, LVV-beslut, eventuell återstart |
+| C | McCoss och Kotler/Mannino/Friston: nya teoretiska bidrag, inga belägg för acausalitet | Bevakas | Empirisk operationalisering och replikation |
+| D | 153/173 cm-källkonflikt i samma preliminära forskningsresultat | Aktivt | Originalmätprotokoll och full rapport |
+| G | Bkerki har tagit emot vädjan från fem gränsbyars borgmästare | Aktivt | Själva vädjan och lokala uppföljningsbesked |
+| K | SVT dokumenterar förlorad/inskränkt lokal jakttillgång; Cladonia lovar framtida upplåtelser utan villkor ännu | Aktivt | Jaktavtal, samebyars besked, skogsbruksplan |
+| O | UKMTO 197-26: separat oidentifierad tankerincident 5 november | Aktivt | Fartygsnamn/IMO och orsaksutredning |
+| Q | Saab uppger AI-agentflygprov på Gripen E; ingen oberoende operativ validering | Aktivt | Testdokumentation och mänsklig kontroll |
+
+Övriga spår H, I, L, M och N gav ingen ny betydande händelse i denna komplettering. E, F, P, R och S har inga nya primärdokument utöver de redan journalförda CRMA-, NVIDIA-, senats- och Onkalo-uppgifterna. J har nu kompletterats med en offentlig primärtext från Thiel/Wolfe.
