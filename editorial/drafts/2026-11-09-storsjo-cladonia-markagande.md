@@ -7,7 +7,7 @@
 
 ## Ingress
 
-Ett markförvärv på omkring 15 000 hektar i trakten kring Storsjö kapell har blivit en nationell fråga om ägande, inflytande och lokala rättigheter. Köparen är Cladonia Skog AB, ett svenskt bolag med Palantirs vd Alex Karp som yttersta ägare. Säljaren är SCA. Länsstyrelsen gav förvärvstillstånd och Inspektionen för strategiska produkter (ISP) lämnade investeringsanmälan utan åtgärd. Men de formella besluten har inte avslutat diskussionen. Lokala jaktlag har förlorat jakträtt, ett kommunmöte med bolaget har skjutits upp och ett upprop har enligt SVT passerat 30 000 underskrifter. Samtidigt säger Cladonia att bolaget vill förvalta marken långsiktigt, respektera renskötselrätten och allemansrätten och inte avverka under vintern. Den centrala frågan är vad ett ägarbyte faktiskt förändrar – och vilka rättigheter som består oberoende av vem som äger skogen.
+Ett markförvärv på omkring 15 000 hektar i trakten kring Storsjö kapell har blivit en nationell fråga om ägande, inflytande och lokala rättigheter. Köparen är Cladonia Skog AB, ett svenskt bolag med Palantirs vd Alex Karp som yttersta ägare. Säljaren är SCA. Länsstyrelsen gav förvärvstillstånd och Inspektionen för strategiska produkter (ISP) lämnade investeringsanmälan utan åtgärd. Men de formella besluten har inte avslutat diskussionen. Lokala jaktlag har förlorat tidigare jakträtt, ett planerat kommunmöte sköts upp och ett upprop har enligt SVT passerat 30 000 underskrifter. SVT publicerade den 10 november dessutom ett videoklipp om ett möte med en Cladonia-företrädare; den öppet tillgängliga texten anger inte mötesdatum, agenda eller vad som faktiskt överenskoms. Samtidigt säger Cladonia att bolaget vill förvalta marken långsiktigt, respektera renskötselrätten och allemansrätten och inte avverka under vintern. Den centrala frågan är vad ett ägarbyte faktiskt förändrar – och vilka rättigheter som består oberoende av vem som äger skogen.
 
 ## Ett område på omkring 15 000 hektar
 
@@ -57,6 +57,24 @@ Renskötselrätten är särskilt viktig att behandla korrekt. Den följer av sä
 
 Ingen sameby har i de källor som granskats här lämnat ett direkt offentligt uttalande om hur just detta förvärv påverkar den praktiska renskötseln. Den frågan behöver därför följas upp direkt med berörda samebyar.
 
+## Samisk markhistoria: slutrapporten gör fastighetsgränsen avgörande
+
+**Publiceringsdatum:** 30 september 2026. **Dokumentdatum:** SOU 2026:58, *Markerna berättar och minns – Konsekvenser för samer av svensk politik*.
+
+**PRIMÄRKÄLLA:** Sanningskommissionens slutrapport behandlar bland annat Jämtlands och Härjedalens markhistoria, skogsbrukets påverkan på samisk kulturmiljö och rättsliga tvister om renskötselrätt. Rapporten är en statlig utredning med rekommendationer – inte en dom, ett förvärvsbeslut eller en ny lag.
+
+En särskilt viktig precisering finns i volym 1, s. 545–546. Kommissionen skriver att Högsta domstolens senare praxis innebär en friare bedömning av sedvanerätt/renskötselrätt och att sådan rätt därför kan finnas i delar av Härjedalen som **inte** omfattas av den så kallade Härjedalsdomen. På fastigheter som omfattas av Härjedalsdomen gäller däremot inte renskötselrätt. Det gör den exakta fastighetsförteckningen och domens geografiska räckvidd centrala för en korrekt bedömning av Cladonia-affären.
+
+**Viktig avgränsning:** Ingen fastighetslista från Lantmäteriet har ännu jämförts med domens fastighetsomfattning. Vi kan därför inte säga att Cladonias mark ligger inom eller utanför det område som domen omfattar, och inte heller dra slutsatser om en viss samebys rättigheter.
+
+Kommissionen uppmanar också regeringen att införa principen om fritt och informerat förhandssamtycke (FPIC) i lag. Detta är ett **förslag**, inte gällande ny lag. Rapporten redovisar samtidigt Sveriges ståndpunkt att FPIC inte innebär en vetorätt, utan ska bidra till verkligt samråd och inflytande. Det är viktigt att skilja kommissionens rekommendation från nuvarande rättsläge.
+
+**OBEROENDE BEKRÄFTELSE:** Rapportens existens, publiceringsdatum och innehåll är direkt kontrollerade mot regeringens publicering och själva PDF-volymen. Någon separat oberoende rättslig prövning av Cladonias fastigheter har inte identifierats.
+
+**Nästa kontroll:** hämta samtliga lagfartsakter och fastighetsbeteckningar; jämför dem med domskartans fastighetsförteckning; identifiera berörda samebyar genom offentliga samrådsunderlag; inhämta samebyarnas egna uppgifter innan någon slutsats publiceras.
+
+**Källor:** Regeringen, SOU 2026:58 (30 september 2026), https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202658/ och volym 1, s. 545–546, https://www.regeringen.se/contentassets/dc787ee8ec25446b8115675a94efe781/markerna-berattar-och-minns-sou-202658-volym-1.pdf.
+
 ## Vad säger bolaget att det ska göra med marken?
 
 I ett mejlsvar som SVT publicerade den 9 november beskriver Cladonia sin avsikt:
@@ -91,11 +109,22 @@ Dessa nivåer kan inte ersätta varandra. Ett godkänt markförvärv avgör inte
 
 ## Den öppna frågan om fastighetslistan
 
-Det finns en avvikelse i den sekundära rapporteringen om hur många separata förvärv och tillstånd som ingick. Fastighetsvärlden rapporterade den 19 oktober att två mindre fastigheter, Berg Storsjö 18:3 och 18:5, om cirka 300 hektar och fem miljoner kronor köpts vid samma tidpunkt genom ett annat förvärvstillstånd. Uppgiften om areal och köpeskilling återges från Östersunds-Posten; Fastighetsvärlden anger fastighetsbeteckningarna och beskriver transaktionen som ett separat förvärvstillstånd. I samma artikel uppger SCA att de sammanlagda 240 miljoner kronor som bolaget fått i de två affärerna använts till att köpa 4 000–5 000 hektar mer produktiv skogsmark närmare industri och terminaler. Detta är ett direkt bolagsuttalande återgivet av Fastighetsvärlden, inte en granskad redovisningsverifikation. SVT:s uppföljning den 6 november beskriver samtidigt flera fastigheter, inklusive en ö, inom den större affären från SCA.
+Rapporteringen om de mindre fastigheterna måste nu beskrivas som en **olöst källkonflikt**, inte som en bekräftad separat tilläggsaffär.
 
-Denna skillnad kan inte lösas med rubriker eller uppskattningar. Den kräver fastighetsförteckningen i köpehandlingarna, lagfartsuppgifter och de två eventuella tillståndsbesluten. Tills dess ska vi inte lägga ihop eller särredovisa arealerna som om fastighetskedjan vore klarlagd.
+- **Fastighetsvärlden, 19 oktober 2026**, med hänvisning till Östersunds-Posten, rapporterade att Berg Storsjö 18:3 och 18:5 omfattade omkring 300 hektar och cirka fem miljoner kronor och beskrev dem som ett separat förvärvstillstånd.
+- **SVT Jämtland, 6 november 2026**, uppdaterad 9 november, skrev uttryckligen att uppgifterna om ett nytt köp utöver det första var missvisande: flera fastigheter, inklusive ön, hade enligt SVT köpts från SCA i ett enda svep. SVT anger 240 miljoner kronor som total kostnad för hela skogsaffären.
 
-**Kontrollstatus 10 november:** Den rapporterade tilläggsaffären kan nu knytas till beteckningarna Berg Storsjö 18:3 och 18:5 i Fastighetsvärldens publicering. Fastighetsvärlden anger cirka 300 hektar, men arealen är ännu inte kontrollerad mot Lantmäteriets inskrivningsakter. Lantmäteriets lagfartsuppgifter, köpehandlingarna och Länsstyrelsens separata beslut har fortfarande inte hämtats direkt. Uppgiften ska därför beskrivas som väl specificerad sekundärrapportering, inte som fullständigt primärverifierad.
+SVT:s uppföljning talar emot att beskriva ö-fastigheten som ett senare fristående köp. Den namnger dock inte i den tillgängliga texten uttryckligen beteckningarna 18:3 och 18:5. Därför är det fortfarande inte klarlagt om just dessa beteckningar ingår i den redovisade totalsumman eller om Fastighetsvärldens uppgift avser ett separat tillstånd inom samma affärskomplex.
+
+**Redaktionell regel tills originalhandlingarna finns:** lägg inte 300 hektar eller fem miljoner kronor ovanpå de rapporterade 15 000 hektaren och 240 miljoner kronorna; kalla inte heller uppgiften en separat senare affär. Skriv att sekundärkällorna inte är samstämmiga och att den exakta fastighetslistan återstår att kontrollera.
+
+Det krävs:
+1. Lantmäteriets lagfartsakter för samtliga fastigheter.
+2. Köpehandlingarnas fullständiga fastighetsförteckning.
+3. Länsstyrelsens samtliga förvärvstillstånd och diarienummer.
+4. Kontroll av om 18:3 och 18:5 ingår i samma köpeavtal och samma köpeskilling.
+
+**Källor:** Fastighetsvärlden, 19 oktober 2026 (sekundärrapportering med hänvisning till Östersunds-Posten); SVT Jämtland, 6 november 2026, uppdaterad 9 november: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen.
 
 ## Redaktionell bedömning
 
@@ -176,4 +205,4 @@ Myndighetens instruktioner om begäran av allmän handling: https://www.lansstyr
 - Tidslinje över köp, myndighetsbeslut, jaktavtal och bolagets offentliga besked.
 - Dokumentgrafik som skiljer äganderätt, förvärvstillstånd, ISP-beslut, jakträtt, renskötselrätt och allemansrätt.
 
-**Status:** Utkastet uppdaterat den 10 november med Fastighetsvärldens identifiering av Berg Storsjö 18:3 och 18:5 som en separat rapporterad tilläggsaffär, samt SCA:s uppgift om återinvestering av intäkterna. SVT:s uppgifter om fem jaktlag och osäkerheten kring lokala jakträtter kvarstår. Myndigheternas officiella väg för att begära ut originalbeslut och ansökningsbilagor är nu dokumenterad. Första sammanhängande artikelutkast skapat. Centrala uppgifter om myndighetsbeslut, jaktfrågan, bolagets besked och det lokala uppropet är kontrollerade mot SVT:s publicerade dokumentation och relevanta myndighetskällor. Fastighetsförteckning, originalbeslut, samebyarnas perspektiv och avtal återstår. Inte publicerad.
+**Status:** Utkastet uppdaterat den 10 november 2026 med (1) en uttrycklig källkonflikt om Berg Storsjö 18:3 och 18:5 – de ska inte räknas som en separat tilläggsaffär innan originalhandlingar finns – och (2) Sanningskommissionens SOU 2026:58 om samisk markhistoria och Härjedalsdomen. SVT:s videoklipp om ett möte med en Cladonia-företrädare den 10 november har lagts till som en ny kontrollpunkt; mötesdatum, agenda och utfall är ännu inte klarlagda i tillgänglig text. Utkastet är inte publicerat. Kvar före publicering: fullständig fastighetsförteckning, originalbeslut, JO-diarienummer, samebyarnas egna uppgifter, jaktavtal och dokumentation från kommunmötet.
