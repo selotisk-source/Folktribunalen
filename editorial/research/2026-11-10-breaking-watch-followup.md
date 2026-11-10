@@ -1053,3 +1053,133 @@ Detta tillägg fångar dokument och händelser som tillkommit eller kunnat kontr
 ### Arbetsflöde och publiceringsgräns
 - Detta tillägg är en forskningsuppdatering i den öppna arbetsgrenen för PR #16. Det är inte en publicerad artikel och har inte slagits samman till huvudgrenen.
 - PR #3:s utökade Hormuzversion är fortsatt en separat redaktionell godkännande-/publiceringsfråga. Inget nytt publiceringsbeslut fattas genom denna bevakningsnotering.
+
+
+## Breaking Watch – kontrollcykel 11 november 2026 kl. 00.45 Europe/Sofia
+
+Denna kontrollcykel har screenat samtliga huvudspår A–S mot ny publicering och offentligt tillgängliga primär-/myndighetskällor. Nedan redovisas endast nya eller korrigerade uppgifter; oförändrade spår markeras kort i täckningsmatrisen.
+
+### Betydande delta
+
+#### B – EuroHPC: nya anbudslänkar publicerade
+
+**PRIMÄRKÄLLA – EuroHPC JU, aktuell sida kontrollerad 11 november:** upphandlingen EUROHPC-2026-CEI-AIGF-01 har nu nya inlämningslänkar för både Lot 1 och Lot 2 i Funding & Tenders Portal. Vid kontrollen 9 november stod det fortfarande att länkarna skulle publiceras senare.
+
+Deadlines efter ändringen 5 november är:
+- Lot 1: 4 februari 2027 kl. 17.00 CET.
+- Lot 2: 3 december 2026 kl. 17.00 CET.
+
+Alla gamla utkast och redan inskickade anbud i det tidigare systemet måste återskapas och skickas in via de nya länkarna. EuroHPC säger att endast inlämningslänkarna ändrats och att de publicerade upphandlingsdokumenten är oförändrade.
+
+**RÄTTELSE:** 12 november är inte deadline för denna aktuella AIGF-upphandling. Lot 1 och Lot 2 har datumen ovan. Detta är skilt från BRAIN++/Discoverer++-upphandlingen.
+
+Källa: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+#### G – UNIFIL: finländsk kontingent och EU:s separata uppdrag
+
+**OBEROENDE RAPPORTERING – Yle, 10 november 2026:** cirka 180 finländska militärer tjänstgör fortfarande i södra Libanon. Yle uppger att över 17 000 finländare har tjänstgjort i UNIFIL sedan 1982 och att den finländska kontingenten ingår i en franskledd enhet på omkring 800 personer. Yle beskriver att EU förbereder en separat insats med fokus på stöd till libanesiska armén och gränsmyndigheterna; den ska inte ersätta UNIFIL:s mandat eller funktioner.
+
+**PRIMÄRKÄLLA:** säkerhetsrådets resolution 2790 (2025) fastställer mandatets slut 31 december 2026 och en ordnad neddragning under högst ett år. Yles uppgifter om kontingentens storlek och EU-insatsens uppdrag är journalistisk rapportering, inte själva mandattexten.
+
+Källor:
+- https://yle.fi/a/74-20256145
+- https://unifil.unmissions.org/en/news/security-council-extends-unifils-mandate-resolution-2790-2025
+
+#### N – Kela: arbetsplatsövervakning, Oiwa och arbetsdomstolens bevisvärdering
+
+**OBEROENDE GRANSKNING – Yle MOT:** finskspråkig granskning publicerad 8 november 2026; engelsk version 9 november. Yle uppger att Kela sommaren 2023 granskade arbetstidsanvändningen hos omkring 2 000 handläggare i den södra försäkringsregionen, med data från de föregående två till sex månaderna. Yle rapporterar om anmärkningar, varningar och uppsägningar, däribland tio uppsägningar under 2024 och arbetsrättsliga konsekvenser för ett fyrtiotal personer. Kela beskriver den breda genomgången som ett engångsförsök och uppger samtidigt, enligt Yles återgivning, att löpande dagliga arbetsledningsrapporter används för tusentals handläggare.
+
+**PRIMÄRKÄLLA – Työtuomioistuin TT 2026:14, 18 maj 2026:** domstolen prövade en enskild uppsägning vid Kelas indrivningscentral i Jyväskylä. Den fann att rapporter som byggde på Tahti- och Oiwa-tidsstämplar inte pålitligt visade arbetstidsanvändningen. CICS-arbete och andra arbetsmoment saknades i den rapport som skapade orange markeringar; en markering kunde därför uppstå även under faktiskt arbete. Uppsägningen bedömdes strida mot kollektivavtalet. Kela ålades ersättning motsvarande 18 månadslöner och rättegångskostnader.
+
+**VIKTIG AVGRÄNSNING:** domen gäller en enskild uppsägning och fastslår inte att hela 2 000-personerspiloten var olaglig eller att alla rapporter var felaktiga. Yle kopplar målet till en av de tio uppsägningarna, men den exakta dokumentkedjan mellan den regionala pilotens PowerPoint och rapporterna i målet måste hämtas in. Inget belägg i de granskade källorna visar att ett AI-system själv fattade uppsägningsbeslutet; det rör sig om datadriven arbetsledning och arbetsgivarbeslut.
+
+**NYTT ARBETSOBJEKT:** PR #45 skapat som separat granskningsutkast för huvudspår N. Draft, inte mergat, inte publicerat, inte LIVE.
+
+Källor:
+- https://www.tyotuomioistuin.fi/ratkaisut/ratkaisujen-arkisto/tt-202614/
+- https://yle.fi/a/74-20254927
+- https://yle.fi/a/74-20255908
+- https://yle.fi/a/74-20255877
+- https://www.finlex.fi/fi/lainsaadanto/2004/759
+
+#### O – Svarta havet: EU:s maritima säkerhetshubb får 50 miljoner euro
+
+**PRIMÄRKÄLLA – Europeiska kommissionens pressbriefing 10 november 2026, Varna/Bukarest:** kommissionens ordförande Ursula von der Leyen meddelade att EU avser avsätta upp till 50 miljoner euro för att påskynda etableringen av Black Sea Maritime Security Hub tillsammans med Bulgarien och Rumänien. En gemensam arbetsgrupp ska ta fram ett integrerat koncept och en arbetsplan; målet är att hubben ska kunna bli operativ under 2027.
+
+**OBEROENDE BEKRÄFTELSE – Reuters, 10 november:** rapporterar samma finansieringslöfte och beskriver bakgrunden med minst nio lastfartyg som träffats av marina drönare nära Rumänien och Bulgarien under föregående månad, med döda och saknade sjömän. Reuters understryker att Rumänien efterfrågar forensiska belägg innan enskilda angrepp tillskrivs en aktör; Bulgarien har inte pekat ut Ryssland och Moskva förnekar inblandning.
+
+**Geografisk avgränsning:** detta är en ny regional säkerhetsutveckling i Svarta havet, inte en incident i Hormuz och inte belägg för att de två sjöfartssystemen har samma aktörer eller händelsekedja. Den är relevant som europeisk maritim säkerhets- och civil handelsinfrastruktur.
+
+Källor:
+- https://audiovisual.ec.europa.eu/en/media/video/I-297107
+- https://audiovisual.ec.europa.eu/en/stories/M-010071
+- https://www.reuters.com/world/eus-von-der-leyen-pledges-50-million-speed-up-security-hub-black-sea-2026-11-10/
+
+#### Q – Saab och fyra svenska FDI-fregatter
+
+**PRIMÄRKÄLLA – Saab, 6 november 2026:** Saab tecknade med Naval Group ett kontrakt värt cirka 2 miljarder kronor för leverans och integration av vapenkontrollsystem och sensorer till fyra FDI-fregatter för Sverige. Leveranserna till Naval Group planeras 2027–2034. Paketet omfattar bland annat Weapon Control System, Ceros/EOS 500, RBS15, Saab Lightweight Torpedo, Trackfire och Sea Giraffe 1X.
+
+**OBEROENDE BEKRÄFTELSE – Naval News, 6 november:** återger kontraktet. Frankrikes försvarsministerium bekräftar separat att huvudkontraktet för de fyra fregatterna, cirka 4,3 miljarder euro, undertecknades 31 augusti 2026.
+
+**Avgränsning:** Saab-avtalet 6 november är ett delsystem-/integrationskontrakt med Naval Group, inte ett nytt fartygsköp från Saab och inte ett Gripen-kontrakt. Det är ett separat svenskt försvarsindustriellt delspår inom Q.
+
+Källor:
+- https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-to-equip-swedens-new-frigates
+- https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates/
+- https://www.defense.gouv.fr/en/news/sweden-orders-four-defence-and-intervention-frigates-fdi
+
+#### K – Cladonia/Storsjö: mötet i Svenstavik
+
+**OBEROENDE RAPPORTERING – SVT Jämtland, 10 november 2026 kl. 17.16 (uppdaterad 17.19):** SVT uppger att Bergs kommun träffade en jurist som företrädde Cladonia Skog AB i Svenstavik. Kommunalrådet Therese Kärngard deltog. SVT skriver att kommunen fick ett besked om varför bolaget köpt skogen, men den konkreta motiveringen återges inte i den tillgängliga texten utan finns i videon.
+
+**Avgränsning:** detta är ett möte mellan kommunalrådet och bolagets juridiska företrädare, inte ett kommunstyrelsebeslut. Mötesanteckningar, fullständig agenda och eventuella skriftliga åtaganden har inte hämtats. Alex Karp ska inte tillskrivas bolagets åtgärder utan separat belägg.
+
+Källa: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
+
+#### F – Anthropic/AI-finansiering
+
+Anthropic S-1/A-2 och de aggregerade köp- och leasingåtagandena är dokumenterade i PR #40. Denna cykel har inte identifierat ett nytt SEC-dokument som ändrar den tidigare uppdelningen mellan framtida köpåtaganden, leasing, villkorade åtaganden, kreditkapacitet och faktiskt utbetalt kapital. Prisintervall och villkor ska följas i kommande prospektversioner; totalsumman får inte beskrivas som omedelbar skuld.
+
+#### P – USA:s kongress
+
+AP:s rapportering 10 november om Jim Jordans val till republikansk minoritetsledare är dokumenterad i den föregående cykeln. Valet var en sluten partigruppsomröstning, inte ett formellt val av representanthusets talman. Senatens 73–25-röstning om cloture på H.R.2347 den 9 november var ett procedursteg, inte slutligt antagande av lagen. Ingen ny slutlig lagtext har identifierats i denna kontroll.
+
+#### R – Statkraft Mittlagan
+
+**PRIMÄRKÄLLA – Statkrafts projektsida:** huvudförhandling i mark- och miljödomstolen hölls 2–5 november i Halmstad; nästa del är planerad till 1–4 december i Eldsberga. Domstolens slutliga tillståndsbeslut och eventuella villkor är ännu inte publicerade i den kontrollerade projektsidan. Statkraft uppger att investeringsbeslut tas först när tillståndet vunnit laga kraft.
+
+Källa: https://projekt.statkraft.se/mittlagan/fragor-och-svar-om-projekt-mittlagan/
+
+### Täckningsmatris A–S – kontroll 11 november 2026 kl. 00.45
+
+| Spår | Senaste kontroll / nytt i denna cykel | Status | Öppna frågor och nästa kontrollpunkt |
+|---|---|---|---|
+| **A. Palantir** | Q3-10-Q, NHS/GP-data och brittiska kontrakt finns i PR #7/#42. Ingen ny primärhandling med faktisk nationell GP-dataöverföring identifierad. | Aktiv | Hämta FOI-original, signerade NHS-bilagor, DPIA, revisionsspår och exitvillkor. |
+| **B. AI-datacenter** | Statnett-stopp 9 nov; EuroHPC:s nya inlämningslänkar publicerade. Lot 2 3 dec 2026, Lot 1 4 feb 2027. | Aktiv | Kontrollera nya portalinlämningar, nätanslutning, effekt, vatten och faktisk drift. |
+| **C. Synkronicitet** | Ingen ny reproducerbar studie eller öppet dataset som styrker en acausal mekanism i denna kontroll. | Metodspår | Fortsätt preregistrering, kontrollgrupper och replikation; inga kausala påståenden från samtidighet. |
+| **D. Sofia** | Ingen ny arkeologisk rapport eller myndighetsakt om Sankt Sofia/Serdica eller Samuils kvarlevor. | Bakgrund | Följ NAIM, kulturministeriet, museikataloger, proveniens och planerade DNA-/isotopanalyser. |
+| **E. Råvaror** | CRMA-listan och Rottensjön nr 100 dokumenterade; överklagandefrist 12 nov. | Aktiv | Kontrollera överklagande, arbetsplan, natur/vatten, rennäring och kulturmiljö; skilj undersökningsrätt från fynd. |
+| **F. AI-finansiering/NVIDIA** | Anthropic S-1/A-2 i PR #40; ingen ny SEC-version i denna cykel. | Aktiv | Följ IPO-villkor, faktisk kapitalanskaffning, NPA-utnyttjande, leasingstart, garantier och säkerheter. |
+| **G. Libanon** | Yle 10 nov: cirka 180 finländska UNIFIL-personer; EU-insats beskrivs som separat och inte ersättande. PR #22 kompletterad. | Aktiv | Följ FN:s neddragning, LAF-utplacering, EU-mandat, civila byar och rättsprocessen kring Samir Daou. |
+| **H. Kyrkor** | Ingen ny byggnads-, ägar- eller restaureringshandling för Wiesbaden, Warszawa, Prag, Sofia eller Varna identifierad. | Bakgrund | Fortsätt separat stadsvis arkiv- och kulturarvskontroll. |
+| **I. Fennoskandien** | Ingen ny mark-, skogsbruks-, rennärings- eller hästhistorisk primärhandling över notiströskeln. | Bakgrund | Följ SGU/GTK, skogsbruksplaner, historiska kartor, fornminnen och samebyarnas offentliga material. |
+| **J. Storsjöodjuret** | Ingen ny oberoende observation, hydrologisk mätserie eller runologisk publikation. | Bakgrund | Följ folkloristiska arkiv, Frösöstenens forskning och fullständiga primärtranskript till Thiels uttalanden. |
+| **K. Cladonia** | SVT 10 nov rapporterar möte i Svenstavik mellan Bergs kommun och bolagets jurist; motivering finns i video, inte i text. | Aktiv | Begär diarieföring, minnesanteckningar, skriftliga svar, lagfarter, jakt-/fiskeavtal och servitut. |
+| **L. Skaga kapell** | Ingen ny RAÄ-, länsstyrelse-, kommun- eller kyrkoarkivhandling identifierad. | Bakgrund | Fortsätt med byggnadsdokumentation, brand-/restaureringshistorik och inventarier. |
+| **M. Athos** | Inget nytt offentligt katalog-, donations- eller proveniensbesked identifierat. | Bakgrund | Följ MOMA-katalogisering, digitalisering och proveniens mellan Sverige, Bulgarien, Grekland och Athos. |
+| **N. Storebror** | Yle MOT 8–9 nov om Kelas övervakning; primärdom TT 2026:14 från 18 maj. PR #45 skapat. | Aktiv | Hämta original-PowerPoint, rapportmetod, samarbetsprotokoll, nuvarande rapportinstruktioner och Kelas bemötande. |
+| **O. Hormuz/sjöfart** | UKMTO 201-26 och separat ADNOC-uppgift finns i PR #3. Nytt separat Svarta havet-spår: EU:s hubb får löfte om €50m. | Hög | Identifiera fartyg/IMO/flagga för Hormuzincidenter; håll Svarta havet geografiskt och händelsemässigt separat. |
+| **P. USA:s kongress** | Jim Jordan vald till republikansk minoritetsledare; H.R.2347-procedursteget är inte slutligt lagbeslut. | Aktiv | Följ officiella mandat, slutlig lagtext, utskottsordföranden och tillträdet för 120:e kongressen. |
+| **Q. Gripen/europeisk säkerhet** | Saab–Naval Group-kontrakt 6 nov, cirka 2 md SEK för fyra FDI-fregatter; Naval News oberoende återgivning. | Aktiv | Följ FDI-konfiguration, leveranser och svensk industriandel; håll detta skilt från Gripens AI-flygprov. |
+| **R. Energi/större bolag** | Mittlagans första huvudförhandling 2–5 nov; nästa del 1–4 dec. Onkalo kräver STUK-inspektion före drift; Khor Mor-status följs. | Aktiv | Följ domstolens beslut, STUK:s kontroll, Khor Mor-återstart, Northvolt/Lyten faktisk drift. |
+| **S. Urbergsskölden** | CRMA, Rottensjön, Onkalo och civil underjordisk infrastruktur kvarstår som aktuella basunderlag; ingen ny tillståndsakt i denna cykel. | Tvärgående | Följ GTK/RAKKA, SGU, Bergsstaten, CRMA-genomförande, VPP och civil underjordisk lagring. |
+
+### Redaktionella arbetsflödesåtgärder i denna cykel
+
+- **PR #45:** nytt separat Kela/Oiwa-utkast skapat som draft på egen gren; inte mergat, inte publicerat och inte LIVE.
+- **PR #22:** kompletterat med Yles uppgifter om den finländska UNIFIL-kontingenten och EU-insatsens avgränsade roll.
+- **PR #12:** kompletterat med separat Saab/FDI-kontrakt som försvarsindustriell korsreferens, inte som Gripen-nyhet.
+- **PR #24:** kompletterat med att EuroHPC:s nya anbudslänkar nu är publicerade och att deadline 12 november inte gäller denna upphandling.
+- **PR #16:** denna täckningsmatris och delta-logg uppdateras på den befintliga granskningsgrenen.
+
+Ingen artikel har mergats eller publicerats i denna cykel. Alla nya artiklar och tillägg ligger kvar i granskningsläge.
