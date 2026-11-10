@@ -153,6 +153,33 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 - GTK:s studie av gruvavfall visade att flertalet undersökta områden inte var ekonomiskt lönsamma som primära råvarukällor med dagens teknik och priser.
 - Uppgifterna om Onkalos dimensionering och tidsplan är planeringsuppgifter, inte en garanti för framtida driftutfall.
 
+## Ny primärhandling 10 november: Rottensjön nr 100 – 27 557,73 hektar undersökningstillstånd
+
+**PRIMÄRKÄLLA:** Bergmästarens beslut den 8 oktober 2026, dnr BS 200-1233-2026, beviljar Arete Gold AB undersökningstillstånd för Rottensjön nr 100 i Älvdalens kommun (Dalarnas län) och Härjedalens kommun (Jämtlands län). Beslutet anger en areal om 27 557,73 hektar och en giltighetstid från 8 oktober 2026 till 8 oktober 2029. Ansökan kom in den 23 juni 2026. Den offentliga kungörelsen anger den 12 november 2026 som sista överklagandedag för dem som delgetts genom kungörelse.
+
+Ansökan avsåg koppar, guld, silver, zink och bly. Eftersom sökanden inte begärde en snävare avgränsning beviljades tillståndet enligt minerallagens regel för samtliga relevanta koncessionsmineral. Ett undersökningstillstånd är en rätt att undersöka – inte en mineralreserv, bearbetningskoncession, gruva eller tillstånd att börja borra.
+
+**PARTSUPPGIFT:** I ansökan beskriver Arete Gold en gynnsam geologisk miljö med hänvisning till topografiska LiDAR-data och flygmagnetiska data. Bolaget anger geologisk kartering, geokemisk provtagning, eventuella flygmätningar och markgeofysiska mätningar som planerade steg inför en eventuell diamantborrning. Det är sökandens prospekteringshypotes, inte en oberoende bekräftad fyndighet.
+
+**PRIMÄRKÄLLA – myndighetsyttranden återgivna i beslutet:** Länsstyrelsens synpunkter som återges av Bergsstaten pekar på riksintressen och värden kopplade till kulturmiljö, energiproduktion, rennäring, naturvård och skyddade vattendrag. Yttrandet beskriver bland annat samebyns betesområden och säsongsland, registrerade fornlämningar, våtmarker med höga till mycket höga naturvärden samt att området delvis berör sammanhängande fjällnaturskog. Beslutet anger också att området angränsar Dalkarlskölen, som beskrivs som naturreservat, Natura 2000-område och objekt i myrskyddsplanen.
+
+**PRIMÄRKÄLLA – Försvarsmaktens yttrande återgivet i beslutet:** Försvarsmakten bedömde att riksintresset Älvdalens skjutfält är viktigt för försvarets förmågeutveckling och begärde att det planerade undersökningstillståndet helt skulle läggas utanför riksintresset och dess påverkansområde för buller eller annan risk. Försvarsmakten begärde också att få ta del av en eventuell kommande arbetsplan. Denna artikel återger endast myndighetens offentliga invändning; inga detaljer om skyddsobjekt, tillträde eller sårbarheter behövs för granskningen.
+
+**PRIMÄRKÄLLA – markägare och sakägare:** Beslutet sammanfattar att fastighetsägare inom området motsatte sig ansökan och efterfrågade tydligare underlag om naturvärden, vattenresurser, kulturmiljöer och friluftsliv samt om sökandens resurser att genomföra ändamålsenliga undersökningar. Trafikverket uppges inte ha haft någon erinran.
+
+**Varför tillståndet ändå beviljades:** Bergmästaren hänvisar till minerallagens prövning av om det finns anledning att anta att undersökning kan leda till fynd av koncessionsmineral. Beslutet anger att någon avvägning mellan motstående intressen inte görs i själva prövningen av undersökningstillstånd. Det betyder inte att natur-, kultur-, rennärings- eller försvarsintressena saknar betydelse vid senare arbetsplaner och separata prövningar.
+
+**Villkor och nästa rättsliga steg:** Beslutet kräver säkerhet för skador och intrång innan undersökningsarbete får börja. Arbetet får endast ske enligt en gällande arbetsplan som ska delges berörda fastighetsägare och innehavare av särskild rätt. Bergsstaten erinrar om att ytterligare tillstånd enligt annan lagstiftning, exempelvis miljöbalken, kan krävas. Undersökningsarbete ska utföras så att minsta möjliga skada och intrång uppstår på egendom, natur- och kulturmiljö.
+
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende nyhetsrapportering om just beslutet har identifierats i denna kontroll. De sakförhållanden som återges här kommer från Bergsstatens beslut och de yttranden som beslutet sammanfattar; de ska inte presenteras som oberoende verifierade mätningar av naturvärden eller försvarsintressen.
+
+**Öppna frågor:** Hämta Länsstyrelsernas fullständiga yttranden, Sametingets yttrande, Försvarsmaktens fullständiga skrivelse, arbetsplan när den delges, uppgift om ställd säkerhet och eventuella överklaganden. Kontrollera även vilka undersökningsmoment som senare får separata tillstånd. Arete Golds ansökningshypotes om guld/koppar ska hållas isär från verifierad resurs eller reserv.
+
+Primärhandlingar:
+- Bergsstaten, beslut Rottensjön nr 100, 8 oktober 2026, dnr BS 200-1233-2026: https://resource.sgu.se/bergsstaten/rottensjon-nr-100-bes.pdf
+- Bergsstaten, kungörelse och överklagandefrist: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/oktober/undersokningstillstand-for-rottensjon-nr-100/
+- Bergsstaten, översikt över undersökningstillstånd och diariet: https://www.sgu.se/bergsstaten/
+
 ## Öppna kontrollpunkter före publicering
 
 1. Hämta den slutliga finländska lagtexten och lagnumren och kontrollera ikraftträdandet den 15 november mot den publicerade författningen.
@@ -164,4 +191,4 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 7. Kontrollera om EU:s prioriterade handläggning leder till faktiska beslut eller främst ändrar myndigheternas prioriteringsordning.
 8. Kartlägg påverkan på vatten, elnät, transport, naturvärden, lokalsamhällen och samiska rättigheter för varje projekt separat.
 
-**Status:** Utkastet korrigerat efter presidentens godkännande den 6 november och kompletterat med Viscarias Q3-presentation den 5 november: cirka 5 miljarder kronor i planerad skuldfinansiering, kreditbeslut omkring årsskiftet och målsatt avslut före januari månads slut. Uppdaterat sammanhängande utkast med EU:s andra CRMA-lista, Finlands beslutade ikraftträdandedatum 15 november och Viscarias aktuella finansieringsläge. Strategisk status, tillstånd, finansiering och faktisk produktion hålls isär. Inte publicerat.
+**Status:** Utkastet kompletterat 10 november med Bergsstatens beslut om Rottensjön nr 100, myndighetsyttranden och tydlig åtskillnad mellan undersökningstillstånd och rätt att påbörja arbete. Utkastet korrigerat efter presidentens godkännande den 6 november och kompletterat med Viscarias Q3-presentation den 5 november: cirka 5 miljarder kronor i planerad skuldfinansiering, kreditbeslut omkring årsskiftet och målsatt avslut före januari månads slut. Uppdaterat sammanhängande utkast med EU:s andra CRMA-lista, Finlands beslutade ikraftträdandedatum 15 november och Viscarias aktuella finansieringsläge. Strategisk status, tillstånd, finansiering och faktisk produktion hålls isär. Inte publicerat.
