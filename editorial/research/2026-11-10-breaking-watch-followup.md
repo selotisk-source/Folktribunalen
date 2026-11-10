@@ -992,6 +992,12 @@ Detta tillägg fångar dokument och händelser som tillkommit eller kunnat kontr
 - **PRIMÄRKÄLLA, SEC/Venture Global, 10 november:** bolagets Q3-material beskriver ramavtal med GE Vernova och Baker Hughes om upp till 16 kraftöar om 720 MW vardera. Det är en utrustningsram, inte belägg för att 16 enheter är beställda, finansierade eller byggda. Bolaget anger mål om cirka 5 GW compute-kapacitet till slutet av 2031 och första leveranser från slutet av 2028; detta är bolagets plan.
 - **Artikelvinkel:** När AI-bolagens kontrakterade framtid blir större än deras nuvarande fysiska kapacitet – skilj leasing, köpåtaganden, kreditstöd och faktiskt driftsatt effekt.
 
+### F – Anthropic S-1/A-2: villkor och kapitalstruktur
+- **PRIMÄRKÄLLA:** Av de cirka 900,9 md USD i sammanlagda kontraktsåtaganden omfattas cirka 186,2 md USD av uppsägningsrätt eller villkor före projektstart, exempelvis finansiering, lokaler eller myndighetstillstånd. Därutöver uppskattar bolaget 150–175 md USD i arrangemang utan fast dollarbelopp; de ingår inte i 900,9 md USD.
+- **PRIMÄRKÄLLA:** En separat privat placering om 26 md USD i Class N-aktier har avtalats med Google, NVIDIA, AMD, Broadcom, Micron, Microsoft och TSMC Partners. Den är villkorad av att den publika emissionen slutförs och ska stängas omedelbart därefter. Det är aktiefinansiering, inte ett lån eller redan mottagna likvider.
+- **Redovisningsgräns:** Prospektet säger att bolaget inte har andra off-balance-sheet-finansieringsarrangemang än angivna hosting-/leasingåtaganden, vissa åtaganden i equity-method-investeringar samt garanti- och kostnadsersättningsarrangemang med datacenterutvecklare. Dessa garantier och kostnadsersättningar ska granskas var för sig; de får inte automatiskt summeras till skuld.
+- Källor: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+
 ### K – Cladonia / Storsjö: första kommunmötet
 - **OBEROENDE BEKRÄFTELSE, SVT Jämtland 10 november kl. 17.16:** Bergs kommun träffade i Svenstavik kommunalrådet Therese Kärngard och en jurist som företrädde Cladonia Skog AB. Mötet var tidigare uppskjutet. SVT:s text bekräftar mötet och att kommunen fick besked om köparens angivna skäl, men de konkreta svaren framgår av videon och något skriftligt mötesprotokoll eller undertecknat åtagande har inte identifierats.
 - **Viktig åtskillnad:** SVT beskriver juristen som bolagets företrädare; det belägger inte att Alex Karp personligen deltog eller att hans personliga beslut kan likställas med varje bolagsåtgärd.
