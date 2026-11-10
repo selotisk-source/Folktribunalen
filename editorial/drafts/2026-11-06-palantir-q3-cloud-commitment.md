@@ -322,3 +322,24 @@ Källor:
 - MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
 
 **Öppet före publicering:** hämta originalbilagorna till FOI-begäran; fastställ exakt lokal data controller och DSA för varje GP-pilot; kontrollera om ministeriets översyn lett till ett formellt beslut; kontrollera om MOPAC:s förlikningsavtal och offentliga uttalande publicerats i sin slutliga lydelse.
+
+
+## Fördjupning 10 november 2026 – kontraktsmekanik, exit och nytt anbud
+
+**PRIMÄRKÄLLA – Health and Social Care Committee, muntlig bevisning 4 november 2026, frågor 235–250:** Ben Coleman korrigerade uttryckligen beskrivningen av NHS-avtalet: den aktuella åtagandeperioden löper till slutet av mars och regeringen prövar om den ska förlängas; han sade att detta inte är en “break clause”. NHS Englands FAQ beskriver samtidigt avtalsstrukturen som ett initialt treårigt åtagande, därefter möjliga förlängningar med två år och sedan två ytterligare ettårsperioder. Den maximala sjuårsperioden får därför inte beskrivas som sju års ovillkorligt åtagande.
+
+Yvette Cooper sade att kontraktsöversynen var halvvägs och skulle slutföras under hösten. Hon ville inte redovisa slutsatser före den formella processen. Hon bekräftade att det finns detaljerade planer för olika utfall, inklusive exit, men redovisade inte innehåll, tidplan eller en oberoende migreringsrevision. Sir Jim Mackey sade att NHS skulle skriva till Palantir och begära att bolaget delar och låter NHS granska sina påståenden om uppnådda nyttor före publicering. Han uppgav samtidigt att det finns en avtalsbestämmelse, men att den verkar svår att göra rättsligt bindande.
+
+Ben Coleman tog upp att 29 trustar som NHS England räknat som “benefiting” enligt FOI-svar uppgett att FDP inte är live eller att de inte använder apparna. Cooper bemötte inte den konkreta trustlistan utan hänvisade till den pågående översynen. Hon sade att hon sett betydande nyttor, men ville inte redovisa kostnads-/nyttoanalysen. Detta är en dokumenterad parlamentarisk motsättning, inte i sig ett bevis för att samtliga 29 trustar saknar all användning.
+
+**PRIMÄRKÄLLA – MOPAC:s offentliga uttalande 14 oktober 2026:** förlikningen avslutade tvisten, men MOPAC förtydligade samtidigt att beslutet i maj att inte godkänna den dåvarande UOA-tilldelningen grundades på dess lagstadgade granskning av process, styrning, överkomlighet och value for money – inte på en policy mot Palantir eller på bolagets värderingar. MOPAC uppgav att en ny upphandling pågår tillsammans med MPS och att Palantir är välkommet att lämna anbud på samma villkor som andra leverantörer. Den ursprungliga tilldelningen blev alltså inte godkänd; en ny konkurrensutsatt process är nästa steg.
+
+**Betydelse:** NHS-frågan handlar nu om den verkliga optionstrappan, om en exitplan som går att genomföra utan att vårdappar och dataflöden bryts, och om leverantörens resultatpåståenden kan kontrolleras av beställaren. I London är den centrala skiljelinjen inte längre om Palantir är utestängt, utan om en ny UOA-upphandling kan visa konkurrens, behov, kostnad och styrbarhet.
+
+**Källor:**
+- Health and Social Care Committee, 4 november 2026, oral evidence, frågor 235–250: https://committees.parliament.uk/oralevidence/18242/html/
+- NHS England, FDP FAQs, uppdaterad 14 april 2026: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/fdp-faqs/
+- MOPAC, *Statement: MOPAC and Palantir*, 14 oktober 2026: https://www.london.gov.uk/statement-mopac-and-palantir
+- MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
+
+**Öppet:** offentliggör kontraktets fullständiga optionstrappa och exitbilaga; kontrollera om höstens översyn faktiskt slutförts; begär listan över de 29 trustarna och jämför produktnivå, lokal instans och faktisk klinisk användning; granska Sir Jim Mackeys utlovade brev och den rättsliga styrkan i bestämmelsen om nyttopåståenden.
