@@ -192,3 +192,18 @@ Primärhandlingar:
 8. Kartlägg påverkan på vatten, elnät, transport, naturvärden, lokalsamhällen och samiska rättigheter för varje projekt separat.
 
 **Status:** Utkastet kompletterat 10 november med Bergsstatens beslut om Rottensjön nr 100, myndighetsyttranden och tydlig åtskillnad mellan undersökningstillstånd och rätt att påbörja arbete. Utkastet korrigerat efter presidentens godkännande den 6 november och kompletterat med Viscarias Q3-presentation den 5 november: cirka 5 miljarder kronor i planerad skuldfinansiering, kreditbeslut omkring årsskiftet och målsatt avslut före januari månads slut. Uppdaterat sammanhängande utkast med EU:s andra CRMA-lista, Finlands beslutade ikraftträdandedatum 15 november och Viscarias aktuella finansieringsläge. Strategisk status, tillstånd, finansiering och faktisk produktion hålls isär. Inte publicerat.
+
+
+## Källuppdatering 10 november 2026 – Storåsen nr 400 i Bergs kommun
+
+**PRIMÄRKÄLLA – SGU:s öppna OGC-data, export 5–8 november 2026:** Pallas Metals AB:s undersökningstillstånd **Storåsen nr 400** (tillstånd 2020:78, dnr BS 200-632-2020) omfattar 1 031,0905 hektar i Bergs kommun och gäller guld, koppar och palladium. I SGU:s lager över beviljade tillstånd anges giltighet till **4 november 2026**. I det separata lagret för förbudsområden/förbudsår återfinns samma tillståndsidentitet med perioden **5 november 2026–4 november 2027** och status “Utgången”. Den offentliga datan visar därmed att det beviljade tillståndet löpt ut och att området ligger i SGU:s förbudsårslager; det ska inte beskrivas som en förlängning.
+
+**PRIMÄRKÄLLA – jämförande tillstånd:** Pallas Metals AB:s separata **Storåsen nr 300** (2020:46, dnr BS 200-1223-2019) redovisas fortfarande som beviljat, 1 722,4847 hektar, med giltighet till **19 maj 2027**. Det är ett annat tillstånd och får inte slås ihop med nr 400.
+
+**Geografisk och juridisk gräns:** båda tillstånden redovisas i Bergs kommun. Denna registeruppgift visar inte att något av tillstånden överlappar Cladonia Skog AB:s köpta fastigheter; exakt överlappning kräver polygonjämförelse mot verifierade fastighetsgränser och lagfartsakter. Ett undersökningstillstånd är inte ett beslut om arbetsplan, gruvkoncession, miljötillstånd eller kommersiell gruvdrift.
+
+**Källor:**
+- SGU, beviljade undersökningstillstånd (öppet API, export 5 november 2026): https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-beviljade/items?f=text%2Fhtml&limit=50&startIndex=0
+- SGU, förbudsområden/förbudsår (öppet API, export 8 november 2026): https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-forbud/items?f=text%2Fhtml&limit=50&startIndex=0
+
+**Öppet:** hämta Bergmästarens ursprungliga beslut och eventuella ansökningar om förlängning; kontrollera om nya tillstånd sökts över samma område; gör en verifierad kartöverläggning mot Cladonia-fastigheterna och Sametingets säsongskartor. Ingen självständig nyhetsrapportering om just denna statusförändring identifierades.
