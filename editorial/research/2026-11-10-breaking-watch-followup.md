@@ -347,3 +347,16 @@ PR #31 (Norge), PR #30 (Khor Mor), PR #3 (Hormuz) och PR #16 (täckningsjournal)
 - Inga nya artikelärenden startas; ingen befintlig artikel-PR ändras i denna kontrollrunda. Detta följer den dokumenterade ordningen att Hormuz är den aktiva chefredaktörsgranskningen.
 - PR #16 förblir draft och inte LIVE. Ingen merge eller publicering sker här.
 - Renderstatus kan inte omkontrolleras i denna körning eftersom Render-anslutningen kräver ett valt workspace och inget workspace är valt. Senast dokumenterade status i masterplanen: Postgres folktribunalen-db tillgänglig men tom IP-allowlist; DATABASE_URL-mappningen har inte kunnat läsas. Aktuell GitHub main är f265e51d9866604610ce207bd104d05405b8fd5b (9 november 20.53 UTC); aktuell Render-deployment måste kontrolleras separat när Render-workspace är valt.
+
+
+### N – precisering av Bulgariens EUDI Wallet-status (kontroll 10 november)
+
+Den 16 september-rapportering som anger att Bulgarien fortfarande arbetade med lagstiftning är nu kompletterad av senare bulgariska primärkällor:
+
+- **PRIMÄRKÄLLA – Bulgariens ministerråd, beslut 29 september 2026:** regeringen gav ministern för innovation och digital transformation i uppdrag att utarbeta styrmodell och vidta åtgärder för upphandling, utveckling, införande och tekniskt underhåll av den nationella EUDI-plånboken. Målet är att bygga tillitsinfrastruktur och nationellt/gränsöverskridande användning samt anta nationell certifieringsordning före utgången av 2026. Ministeriet utsågs till tillsynsmyndighet för wallet-leverantörer och kontaktpunkt gentemot EU.
+- **PRIMÄRKÄLLA – ministeriet, publicerat 6 oktober 2026:** utkast till särskild lag om europeisk digital identitetsplånbok lades ut på offentlig konsultation 6 oktober–5 november 2026. Konsultationsperioden har alltså avslutats, men inget slutligt antagande av lagen, leverantörsval, upphandlingskontrakt eller driftsatt bulgarisk plånbok har identifierats i denna kontroll.
+- **OBEROENDE KONTEXT:** Euronews 16 september rapporterade att endast tre medlemsstater då hade levererat en wallet och att 24 väntades missa 24 december-fristen. Det är en daterad EU-översikt, inte en verifierad nationsräkning per 10 november.
+- **Korrigering:** formuleringen “Bulgarien arbetar fortfarande med lagstiftning” får inte återges som aktuell status utan datum. Korrekt status 10 november är: regeringsbeslut fattat 29 september; lagförslag publicerat 6 oktober; konsultation avslutad 5 november; slutlig lag, upphandling och driftsättning ej bekräftade.
+- **Öppet:** inkomna remissvar, slutlig lagtext, budget, upphandlande myndighet/leverantör, certifieringsordning, dataskyddskonsekvensbedömning och faktisk driftsättning.
+
+Källor: Bulgariens ministerråd, beslut 29 september 2026; Ministry of Innovation and Digital Transformation, public consultation 6 October–5 November 2026; Euronews, 16 September 2026.
