@@ -23,6 +23,8 @@ Anthropic får inte intäkterna från de aktier som säljs av befintliga ägare.
 
 Anthropic redovisar cirka **900,9 miljarder dollar i samlat åtagande** för köp och leasing av beräkningskapacitet och infrastruktur. Bolaget anger att nästan hela beloppet avser compute och infrastruktur.
 
+Den nya ändringen höjer den tidigare redovisade totalsumman från cirka **895,4 miljarder dollar** i S-1/A-1 till **900,9 miljarder dollar** i S-1/A-2. Även beloppet som väntas belasta före 2031 ökar från cirka 447,5 till 451,6 miljarder dollar, och tolvmånadersbeloppet från cirka 69,8 till 70,7 miljarder. Det är en förändring i den rapporterade åtagandebilden mellan två prospektversioner – inte bevis på att Anthropic har betalat ytterligare 5,5 miljarder dollar kontant.
+
 Prospektet delar upp tidsprofilen:
 - cirka **70,7 miljarder dollar** väntas förfalla under de tolv månaderna efter 30 september 2026;
 - cirka **451,6 miljarder dollar** väntas belasta före 31 december 2030;
