@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 10 november 2026, 18.04 Europe/Sofia  
+**Version:** 11 november 2026, 00.45 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
@@ -736,3 +736,24 @@ Masterplanens tidigare uppgift om att två silverflabeller återfördes till Tim
 
 ### Arbetsflödesstatus
 PR #39–#44 är öppna granskningsutkast. Ingen PR har mergats och ingen artikel har publicerats LIVE. Webbplatsens produktionsdatabas har inte ändrats.
+
+
+## 10. Uppdatering 11 november 2026 kl. 00.45 Europe/Sofia
+
+### Nya granskningsobjekt och källuppdateringar
+
+- **PR #45 – Kela/Oiwa:** nytt separat draft för huvudspår N, baserat på arbetsdomstolens primärdom TT 2026:14 (18 maj 2026) och Yle MOT:s dokumentbaserade granskning 8–9 november. Utkastet skiljer uttryckligen den enskilda domens bevisvärdering från Yles uppgifter om den bredare 2 000-personersgranskningen. Ingen slutsats dras att hela pilotprojektet var olagligt; inget belägg har hittats för att ett AI-system själv fattade uppsägningsbeslut. PR #45 är draft, inte mergad och inte publicerad.
+- **PR #22 – UNIFIL/Libanon:** kompletterad med Yles uppgift 10 november om cirka 180 finländska militärer i UNIFIL och att EU:s planerade stödinsats har ett annat, mer avgränsat uppdrag än UNIFIL. EU-insatsen får inte beskrivas som en ersättning för FN-missionen.
+- **PR #12 – Gripen/Europeisk säkerhet:** kompletterad med Saab–Naval Group-kontraktet 6 november om cirka 2 miljarder kronor för system och sensorer till fyra svenska FDI-fregatter. Detta är ett separat marint delsystemskontrakt, inte ett Gripen-avtal.
+- **PR #24 – AI-gigafabriker:** EuroHPC:s nya anbudslänkar för Lot 1 och Lot 2 är nu publicerade. Lot 1 stänger 4 februari 2027 och Lot 2 3 december 2026. Den tidigare uppgiften om 12 november gäller inte denna aktuella upphandling.
+- **PR #16 – Breaking Watch:** A–S-matrisen och den daterade delta-loggen är uppdaterade i samma granskningsgren.
+
+### Nya tvärgående bevakningspunkter
+
+- **Svarta havet:** Europeiska kommissionens ordförande meddelade 10 november i Varna/Bukarest att upp till 50 miljoner euro ska avsättas för att påskynda en gemensam maritim säkerhetshubb med Bulgarien och Rumänien, med mål om operativ drift 2027. Detta är ett separat geografiskt spår från Hormuz. Kommissionens pressbriefing är primärkälla; Reuters ger oberoende rapportering.
+- **Cladonia/Storsjö:** SVT rapporterade 10 november att Bergs kommun träffat en jurist som företrädde Cladonia i Svenstavik. Uppgiften styrker ett möte, inte ett kommunstyrelsebeslut eller bindande åtaganden. Mötesanteckningar och bolagets skriftliga svar saknas fortfarande.
+- **Statkraft Mittlagan:** den första delen av huvudförhandlingen hölls 2–5 november i Halmstad; nästa del är planerad 1–4 december i Eldsberga. Något slutligt tillståndsbeslut har inte identifierats.
+
+### Publicerings- och godkännandestatus
+
+PR #3 Hormuz förblir den enda artikel som tidigare markerats som godkänd grundtext; den utökade versionen i PR #3 kräver fortfarande separat godkännande av tilläggen. PR #45 och övriga nya granskningsobjekt är drafts. Ingen artikel mergades eller publicerades i denna uppdatering. Databasbaserad webbkö och aktuell LIVE-rendering har inte ändrats eller bekräftats genom denna redaktionella uppdatering.
