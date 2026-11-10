@@ -739,3 +739,81 @@ Källor:
 - **Q:** Saabs AI-agentflygprov kvarstår som partsuppgift utan offentlig oberoende testmatris eller operativ certifiering.
 
 **Arbetsflöde:** inga nya artikelärenden startades i denna delta. Uppdateringarna hör hemma i befintliga granskningsärenden PR #14, #31 och täckningsjournalen PR #16. Samtliga berörda PR:er förblir draft; ingen merge eller LIVE-publicering har gjorts i denna kontroll.
+
+---
+
+## Tillägg 10 november 2026 – kvällskontroll 21.38 Sofia
+
+Detta tillägg kompletterar dagens tidigare 19/19-kontroll. Det är inte en ny fullständig omstart av samtliga spår; redan dokumenterade fynd i A–S återberättas inte.
+
+### I/K – Samisk markhistoria: ny slutrapport och konkret betydelse för Härjedalen
+
+- **Publiceringsdatum:** 30 september 2026. **PRIMÄRKÄLLA:** Regeringen publicerade Sanningskommissionens slutrapport *Markerna berättar och minns*, SOU 2026:58, med en separat vittnesmålsvolym.
+- **Ny sakuppgift:** Volym 1, s. 545–546, anger att senare HD-praxis innebär en friare bedömning av sedvanerätt/renskötselrätt och att sådan rätt kan finnas i delar av Härjedalen som inte omfattas av Härjedalsdomen. På fastigheter som omfattas av domen gäller däremot inte renskötselrätt. Kommissionen pekar samtidigt på bristande vägledning för hur Skogsstyrelsen ska väga skogsägarintressen mot samebyars intresse av lavbete och samisk kulturmiljö.
+- **Rättslig status:** Rapporten är en statlig utredning med rekommendationer, inte en dom eller ny lag. Den rekommenderar att FPIC-principen införs i lag; Sveriges tidigare ståndpunkt är att FPIC inte innebär vetorätt utan ska säkra reellt samråd och inflytande.
+- **Koppling till Cladonia:** Ingen fastighetsförteckning har jämförts med Härjedalsdomens fastighetsomfattning. Det går därför inte att säga om Cladonias mark ligger inom eller utanför domens område, eller vilka konkreta rättigheter som gäller för en viss sameby.
+- **Nästa kontroll:** Lantmäteriets fullständiga lagfartsakter och fastighetsbeteckningar; domens fastighetsförteckning; offentliga samrådsunderlag; samebyarnas egna uppgifter.
+- **Källor:** Regeringen, SOU 2026:58, publicerad 30 september 2026: https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202658/ ; volym 1, s. 545–546 och 575–576: https://www.regeringen.se/contentassets/dc787ee8ec25446b8115675a94efe781/markerna-berattar-och-minns-sou-202658-volym-1.pdf
+
+### K – Cladonia: korrigering av uppgiften om cirka 300 hektar och ny kommunrapportering
+
+- **Publiceringsdatum:** SVT Jämtland 6 november 2026, uppdaterad 9 november. **OBEROENDE BEKRÄFTELSE – sekundärrapportering:** SVT skriver uttryckligen att uppgifterna om ett nytt köp utöver den första affären var missvisande: flera fastigheter, inklusive ön, köptes från SCA i ett enda svep; totalsumman anges till 240 miljoner kronor.
+- **Källkonflikt:** Fastighetsvärlden 19 oktober, med hänvisning till Östersunds-Posten, beskrev Berg Storsjö 18:3 och 18:5 (cirka 300 hektar, cirka 5 miljoner kronor) som ett separat förvärvstillstånd. SVT:s uppföljning motsäger en enkel tolkning av detta som ett senare fristående köp men namnger inte 18:3 och 18:5 i den tillgängliga texten.
+- **Redaktionell slutsats:** Behandla 300-hektarsuppgiften som olöst källkonflikt. Lägg inte arealen eller fem miljoner kronor ovanpå de rapporterade 15 000 hektaren och 240 miljoner kronorna; kalla den inte en separat senare affär förrän Lantmäteriets akter, köpehandlingar och Länsstyrelsens tillstånd visar det.
+- **Ny publicering:** SVT publicerade 10 november ett videoklipp om ett möte med en företrädare för Cladonia. Den öppet tillgängliga texten anger inte mötesdatum, agenda eller utfall; dessa uppgifter är därför inte fastställda.
+- **Arbetsåtgärd:** PR #32 har uppdaterats med den uttryckliga källkonflikten, SOU 2026:58 och den nya möteskontrollpunkten. Utkastet är inte publicerat.
+- **Källor:** SVT Jämtland 6 november: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen ; SVT:s videopublicering 10 november om mötet med Cladonia; Fastighetsvärlden 19 oktober (sekundärrapportering).
+
+### N – EU:s biometriska gränssystem EES: rättstvist blir offentlig
+
+- **Händelsedatum:** EU-LISA:s årsredovisning anger att ett rättsligt anspråk lämnades in den 22 december 2025 vid domstol i Estland. **Publiceringsdatum för den nya nyhetsuppgiften:** 9 november 2026.
+- **PRIMÄRKÄLLA:** EU-LISA:s årsredovisning 2025 redovisar att den upphandlande konsortieparten väckt talan med anledning av utvecklingsförseningar. Årsredovisningen anger samtidigt att EES blev fullt operativt den 10 april 2026.
+- **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 9 november att EU-LISA bekräftat pågående rättsliga förfaranden och att tvisten gäller utvecklingsfasen, inte den nuvarande driften. Reuters identifierar leverantörskonsortiet som IBM, Atos och Leonardo.
+- **Bakgrund:** EES är EU:s biometriska in- och utresesystem för tredjelandsmedborgare vid kortare vistelser. Den ursprungliga upphandlingen avsåg ett ramavtal med ett tak över 142 miljoner euro och en löptid på upp till sex år.
+- **Vad som inte är känt:** Målnummer, yrkat belopp, fullständig stämningsansökan, vilka avtalsbrott som åberopas, svaromål och eventuell förlikning har inte hämtats. Ingen dom har identifierats.
+- **Viktig avgränsning:** En leverantörstvist om utvecklingsförseningar är inte i sig bevis för att dagens EES-drift har havererat. EU-LISA uppger att rättsprocessen inte påverkar den nuvarande driften.
+- **Artikelidé efter aktivt PR #3:** *Den biometriska gränsen och leverantörsansvaret – vad händer när EU:s gränssystem hamnar i domstol?*
+- **Källor:** EU-LISA Annual Accounts 2025: https://www.eulisa.europa.eu/our-publications/annual-accounts ; EU-LISA:s ursprungliga upphandlingsinformation: https://www.eulisa.europa.eu/ ; Reuters 9 november 2026: https://www.reuters.com/world/europe/eu-border-agency-confirms-legal-proceedings-over-entry-exit-system-2026-11-09/
+
+### O – Hormuz: skadat fartyg blir en råoljetender
+
+- **Händelsedatum:** Gem No.2 träffades av en oidentifierad projektil i oktober 2026; läckaget uppges ha stoppats i slutet av oktober. **Publiceringsdatum:** Reuters 10 november 2026.
+- **OBEROENDE RAPPORTERING MED DOKUMENTUNDERLAG:** Reuters uppger att UAE:s energiministerium erbjöd upp till 1,87 miljoner fat Saudi Arab Light från Gem No.2 för ship-to-ship-lastning mellan 10 och 20 november. Anbudet stängde den 9 november. Reuters säger sig ha granskat tenderdokumentet och hänvisar till tre handelskontakter.
+- **PARTSUPPGIFT:** En handelskälla uppgav att Saudi Aramco godkänt att UAE säljer oljan för dess räkning. Aramco och UAE kommenterade inte Reuters förfrågan.
+- **Betydelse:** Cargo dispositionen visar en konkret logistisk anpassning efter en attack och ett läckage. Det är inte bevis för att normal export eller säker passage genom Hormuz har återställts.
+- **Öppet:** Vinnande budgivare, slutpris, överföringens genomförande, fartygsidentitet på mottagarsidan, försäkring och miljömässig slutstatus. Tenderdokumentet har inte hämtats direkt av redaktionen.
+- **Källor:** Reuters 10 november 2026: https://www.reuters.com/world/middle-east/uae-is-selling-saudi-oil-rare-move-document-shows-2026-11-10/
+
+### P – Hegseth: Massie driver fram en ny proceduromröstning
+
+- **Händelsedatum:** Massies pressmeddelande 9 november 2026; House Cloakroom-dagordningen gäller 10 november. **Publiceringsdatum:** 9–10 november.
+- **PRIMÄRKÄLLA:** Massies kontor uppger att han åter driver åtta artiklar om riksrätt mot försvarsminister Pete Hegseth, med huvudanklagelsen att Hegseth ska ha brutit mot tre bestämmelser i War Powers Resolution.
+- **PRIMÄRKÄLLA:** House Republican Cloakroom listar en procedurmotion om en ännu onumrerad H.Res. om riksrätt mot Hegseth. Vid kontroll 21.38 Sofia var nästa omröstning planerad till cirka 17.30 ET; något utfall hade inte publicerats. H.Res.-numret var fortfarande blankt.
+- **OBEROENDE BEKRÄFTELSE:** Reuters och AP rapporterade 10 november att Hegseth avvisade initiativet som politiskt motiverat och hävdade att operationerna var lagliga och genomfördes på presidentens order.
+- **Status:** Ingen riksrätt har beslutats. Den aktuella omröstningen är en procedurfråga om att hänvisa eller stoppa resolutionen; den är inte en slutlig omröstning om artiklarna.
+- **Arbetsåtgärd:** PR #10 har kompletterats med denna procedurhändelse. Ingen ny artikel-PR har öppnats.
+- **Källor:** Massie 9 november: https://massie.house.gov/news/ ; House Cloakroom 10 november: https://repcloakroom.house.gov/ ; Reuters 10 november: https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/ ; AP 10 november: https://apnews.com/article/272515c4fca92435224406593a892e69
+
+### Q/O – Black Sea Maritime Security Hub: Varna och Constanța namnges
+
+- **Publiceringsdatum:** 10 november 2026. **PRIMÄRKÄLLA:** Europeiska kommissionens presstalesperson bekräftade i dagens pressbriefing att kommissionen avser att finansiera hubben med upp till 50 miljoner euro och att målet är operativ drift under 2027.
+- **Geografi:** Kommissionens svar anger att hubben ska samordnas av Bulgarien och Rumänien och arbeta över kust- och marina anläggningar i Varna och Constanța, med koppling till en flygbas i Rumänien. Detta beskriver planerad funktion, inte ett beslutat fysiskt huvudkontor.
+- **Nästa steg:** Gemensam arbetsgrupp ska ta fram integrerat koncept, arbetsplan, leveranser och tidsfrister.
+- **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 10 november om EU-löftet på 50 miljoner euro och kopplade initiativet till attacker mot kommersiella fartyg i Svarta havet under oktober. Uppgifter om ansvar för enskilda attacker ska fortsatt attribueras; ingen generell attribution fastställs här.
+- **Öppet:** fysisk placering, personal, civil/militär bemanning, ledningsstruktur, datadelning, upphandlingsplan och hur samarbetet med Turkiet ska formaliseras. Detta är ett Svartahavsspår och ska inte blandas ihop med Hormuz.
+- **Källor:** EU Audiovisual Service, pressbriefing 10 november: https://audiovisual.ec.europa.eu/en/media/video/I-297107 och uppföljande Q&A: https://audiovisual.ec.europa.eu/en/media/video/I-297544 ; Reuters 10 november: https://www.reuters.com/world/eus-von-der-leyen-pledges-50-million-speed-up-security-hub-black-sea-2026-11-10/
+
+### R – Litauens energisystem: sju öar och 800 MW flexibel reserv
+
+- **Händelsedatum/publiceringsdatum:** 10 november 2026. **PRIMÄRKÄLLA:** Litauens energiministerium och systemoperatören Litgrid presenterade en offentlig konsultation om en modell med sju separata elöar som ska kunna drivas isolerat vid större störningar.
+- **Planerad omfattning:** tio nya flexibla kraftverk med sammanlagt 800 MW. Fyra av de sju öarna ska kunna fungera delvis redan 2028 genom uppgradering av befintliga kraftverk och batterier. Auktioner planeras 2027; vinnare ska få fem år att bygga och därefter leverera isolerad driftstjänst i 15 år. Fullt genomförande anges till 2033.
+- **Status:** Detta är en konsultationskoncept och planerad tjänsteupphandling, inte tio beslutade byggprojekt, finansierade anläggningar eller driftsatt kapacitet. Tekniken ska vara neutral och kunna delta i den vanliga elmarknaden.
+- **Nästa kontrollpunkt:** konsultationen pågår till 10 december; marknadspresentation 25 november; reviderad modell väntas preliminärt i januari 2027.
+- **Källor:** Litauens energiministerium/Litgrid 10 november: https://enmin.lrv.lt/lt/naujienos/litgrid-pristato-energetiniu-salu-modeli-didelio-sutrikimo-atveju-atskiros-lietuvos-tinklo-dalys-gales-veikti-savarankiskai-SmJz/
+
+### Redaktionell kö och status efter tillägget
+
+- **Aktivt huvudutkast:** PR #3, Hormuz, fortsatt granskningsutkast. Den korta versionen som tidigare godkänts och publicerats är en separat statisk sida; den utökade versionen är inte godkänd för publicering.
+- **Uppdaterade befintliga utkast:** PR #32 (Cladonia/Storsjö) och PR #10 (USA:s kongress) har kompletterats. Båda är fortfarande utkast.
+- **Nya artikelkandidater efter PR #3:** (1) EES – biometrisk gränskontroll och leverantörsansvar; (2) samisk markhistoria, Härjedalsdomen och det faktiska fastighetsinnehavet i Cladonia-affären; (3) Black Sea Maritime Security Hub med Varna och Constanța; (4) Hegseth, War Powers Resolution och kongressens sista procedurstrid. Ingen ny PR har öppnats och inget nytt har publicerats.
+- **Webbplatsstatus:** denna kontroll har uppdaterat GitHub-utkast och forskningsjournal. Ingen skrivning till webbplatsens databas eller publicering har gjorts.
