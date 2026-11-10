@@ -526,3 +526,103 @@ Källa: https://yle.fi/a/74-20255931
 Källor:
 - FN, Noon briefing 9 november 2026: https://www.un.org/sg/fr/node/401528
 - Anadolu Agency, 10 november 2026: https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108
+
+
+## Sen komplettering – kontrollrunda 10 november 2026 kl. 18.04 Europe/Sofia
+
+Denna komplettering lägger endast till uppgifter som tillkommit efter den tidigare journalversionen. A–S har åter kontrollerats; befintliga utkast har uppdaterats i sina separata PR-ärenden.
+
+### F – Anthropic: S-1/A visar åtaganden på 900,9 miljarder dollar
+
+- **Händelse-/inlämningsdatum:** 10 november 2026. **Publiceringsdatum:** 10 november 2026.
+- **PRIMÄRKÄLLA:** Anthropic lämnade in amendment no. 2 till Form S-1 hos SEC och lanserade samtidigt roadshow. Registreringen är ännu inte effektiv.
+- Det föreslagna erbjudandet omfattar 825 miljoner Class A-aktier, varav 801 351 354 emitteras av bolaget och 23 648 646 säljs av befintliga ägare. Prisintervall: 70–78 dollar. Anthropic får inte intäkterna från de sekundära aktierna.
+- En separat, villkorad privat placering om 26 miljarder dollar i Class N-aktier namnger AMD, Broadcom, Google, Micron, Microsoft, NVIDIA och TSMC. Class N är i huvudsak icke-röstberättigad och placeringen är beroende av att IPO:n genomförs och angivna villkor uppfylls.
+- Bolaget uppskattar nettolikviderna från IPO och privat placering till cirka 84,6 miljarder dollar vid mittpunktspriset, eller 93,7 miljarder om övertilldelningsoptionen utnyttjas fullt.
+- SEC-prospektet redovisar 900,9 miljarder dollar i samlade köp- och leasingåtaganden. Av detta väntas 451,6 miljarder belasta före 31 december 2030 och 70,7 miljarder förfalla inom de följande tolv månaderna. 186,2 miljarder är föremål för uppsägningsrätt eller villkor före projektstart. Ytterligare uppskattade betalningar på 150–175 miljarder dollar under arrangemang utan fast dollaråtagande redovisas separat och ingår inte i 900,9 miljarder.
+- **Redovisningsgräns:** 900,9 miljarder är inte bokförd skuld och inte redan utbetalt kapital. Beloppet omfattar köpåtaganden, leasing som ännu inte börjat löpa och villkorade/uppsägningsbara delar. Dessa kategorier måste hållas isär.
+- **Styrning:** Class F ska ge grundarnas bolag 50,1 procent av rösterna; Class T ger Long-Term Benefit Trust rätt att utse en styrelsemajoritet; Class N är normalt icke-röstberättigad.
+- **Öppet:** vilka åtaganden som faktiskt dragits eller stängts, löptider och säkerhetsmassa för lease/SPV, faktisk levererad compute-kapacitet, elavtal, projektplatser och hur de villkorade beloppen kan sägas upp.
+- **Arbetsåtgärd:** källuppdatering lagd i PR #14; utkastet är fortfarande draft.
+
+Källor:
+- SEC S-1/A-2: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+- Anthropic roadshow: https://www.anthropic.com/news/roadshow-launch
+- Broadcom/finansieringsstruktur: https://www.blackstone.com/news/press/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute/
+- Reuters om den rapporterade first-lien-delen: https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/
+
+### A – Palantir: kvartalsvis amerikansk intäktsmix blir nästan jämn
+
+- **Rapportperiod:** kvartalet som avslutades 30 september 2026. **Inlämningsdatum:** 3 november 2026.
+- **PRIMÄRKÄLLA:** Palantirs Form 10-Q redovisar 984 miljoner dollar i intäkter från amerikanska kommersiella kunder och 953 miljoner från amerikanska myndighetskunder under Q3.
+- Jämförelsen gäller enbart USA och ett kvartal. För de första nio månaderna är den samlade intäktsmixen fortfarande cirka 51 procent myndigheter och 49 procent kommersiella kunder. Myndighetsintäkterna växer fortsatt kraftigt.
+- **Redaktionell slutsats:** skriv inte att Palantir har blivit oberoende av offentlig sektor. Den precisa uppgiften är att amerikansk kommersiell intäkt i Q3 marginellt passerade amerikansk myndighetsintäkt, medan den längre periodens totala mix fortfarande är ungefär jämn.
+- **Arbetsåtgärd:** komplettering till PR #7; ej mergad eller publicerad.
+
+Primärkälla: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+### D/H – Serres: två liturgiska silverföremål återförs till klostret
+
+- **Händelsedatum:** 8 november 2026. **Publiceringsdatum:** 8–9 november 2026.
+- **PRIMÄRKÄLLA – planerad återföring:** Greklands premiärministerkanslis protokoll från 3 oktober angav att de 48 återförda objekten skulle visas i Thessaloniki till 5 november och därefter lämnas till de två klostren och Serres/Nigritas metropolitdöme.
+- **OBEROENDE RAPPORTERING:** Euro2day 8 november och iefimerida 9 november rapporterar att premiärminister Kyriakos Mitsotakis besökte Timios Prodromos nära Serres och att två silverliturgiska flabeller återfördes till klostret och placerades i en särskilt iordningställd monter.
+- **Räknefråga:** grekiska premiärministerkansliet och BTA anger 48 objekt/reliker. En lokal grekisk uppgift anger 48 inventarieposter som omfattar 53 enskilda föremål. Fullständig inventarielista har inte hämtats; använd inte 53 som fastställt totalantal.
+- **Avgränsning:** den nya rapporteringen styrker mottagandet av två föremål vid Timios Prodromos, inte att samtliga 48 poster redan har levererats till alla tre mottagarinstitutionerna.
+- **Arbetsåtgärd:** källuppdatering lagd i PR #8; ej mergad eller publicerad.
+
+Källor:
+- Greklands premiärministerkansli, 3 oktober: https://www.primeminister.gr/en/2026/10/03/39469
+- Euro2day, 8 november: https://www.euro2day.gr/en/article/2377201/mitsotakis-return-of-all-stolen-relics-remains-a-c.html
+- iefimerida, 9 november: https://www.iefimerida.gr/english/mitsotakis-visits-greek-monastery-relics-taken-bulgarian-troops-1917-return-home
+- BTA, 3 oktober: https://www.bta.bg/en/news/balkans/1217016-bulgaria-greece-sign-protocols-on-tsar-sameul-s-remains-transfer
+
+### K – Cladonia/Storsjö: första mötet uppges vara under planering
+
+- **Publiceringsdatum:** 10 november 2026.
+- **OBEROENDE RAPPORTERING:** Sveriges Radio rapporterar att ett första möte om Cladonias planer är på väg att ordnas. Något fast datum eller bekräftelse på att mötet redan genomförts framgår inte av den tillgängliga rapporteringen.
+- **Tidigare rapportering:** SVT rapporterade 9 november att ett tidigare planerat möte skjutits upp och att namninsamlingen passerat 30 000 underskrifter. SR:s uppföljning är en ny statusuppgift, inte bevis för att mötet har hållits.
+- **PRIMÄRKÄLLA – kommunal kontroll:** Bergs kommuns formella kommunstyrelseärendelista för 10 november innehåller ingen Cladonia-punkt. Detta utesluter inte ett separat informellt möte men innebär att det inte får beskrivas som ett genomfört kommunstyrelseärende eller ett kommunalt beslut.
+- **Öppet:** mötesdatum, deltagare, agenda, protokoll, bolagets svar på lokala frågor samt originalhandlingar från ISP, Länsstyrelsen och Lantmäteriet.
+- **Arbetsåtgärd:** källuppdatering lagd i PR #4; ej mergad eller publicerad.
+
+Källor:
+- Sveriges Radio, 10 november: https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
+- SVT, 9 november: https://www.svt.se/nyheter/lokalt/jamtland/uppskjutet-mote-om-alex-karps-skogskop-i-storsjo-kapell
+- Bergs kommun, KS-handlingar: https://berg.se/kommun-och-politik/politisk-organisation-moten-och-protokoll/kommunstyrelsen
+
+### G/N – Libanon: presidentarkiv och diaspora
+
+- **Händelsedatum/publiceringsdatum:** 30 oktober 2026; uppföljande möte 10 november 2026.
+- **PRIMÄRKÄLLA:** Presidentkansliet och Holy Spirit University of Kaslik (USEK) undertecknade 30 oktober ett MoU om arkivering av tidigare presidentperioder. Presidentkansliets redogörelse anger att vissa handlingar aldrig dokumenterades/arkiverades eller saknar spår, och att krig och angrepp på palatset, senast 1990, ledde till att en stor del av presidentämbetets dokumentära minne gick förlorat.
+- **PRIMÄRKÄLLA:** den 10 november diskuterade president Aoun med Maronite Foundation for the Diaspora hur långt det ändrade förslaget om återställande av libanesiskt medborgarskap kommit i parlamentet. Mötet visar att frågan diskuterades, inte att lagen antagits.
+- **Parallellt projekt:** utrikesministeriet och USEK undertecknade 14 februari ett separat MoU om att bevara och digitalisera diasporaanknutna medborgarskapshandlingar. Detta är inte samma projekt som presidentarkivet.
+- **OBEROENDE AKADEMISK KONTEXT:** AUB:s studie om Télé Libans arkiv och University of Chicagos studie om minnespolitik efter Taif styrker en bredare problematik kring dokumentförlust och offentlig minnesförvaltning, men verifierar inte presidentarkivets specifika innehåll eller förluster.
+- **Öppet:** fullständiga MoU-texter, inventarielista, arkivhållare, finansiering, tidsplan, digitaliseringsstandarder, sekretess och allmänhetens åtkomst.
+- **Arbetsåtgärd:** nytt granskningsutkast PR #39 skapat som draft; inte mergat, inte publicerat och inte LIVE.
+
+Källor:
+- Presidentkansliet, 30 oktober: https://www.presidency.gov.lb/media/news/1619
+- Presidentkansliet, 10 november: https://www.presidency.gov.lb/media/news/1665
+- Utrikesministeriet, 14 februari: https://www.mfa.gov.lb/arabic/news/rajji-usec
+- AUB, 2019: https://scholarworks.aub.edu.lb/items/130aaec9-c2c5-4746-b18b-4f617625e15e
+- University of Chicago, 2024: https://knowledge.uchicago.edu/records/mb8hx-5jh37
+
+### Senatens BAAJA-behandling – fortsatt procedur, inte slutlig passage
+
+- **Händelsedatum:** 9 november 2026. **Uppföljningsdatum:** 10 november 2026.
+- **PRIMÄRKÄLLA:** Senate LIS Roll Call 257 visar 73–25 för cloture på motionen att gå vidare till H.R. 2347, lagstiftningsfordonet för Bipartisan American Affordability and Jobs Act (BAAJA). Senatens demokratiska kanslis schema för 10 november anger att behandlingen fortsätter post-cloture.
+- **OBEROENDE BEKRÄFTELSE:** Reuters beskriver paketets bestämmelser om snabbare tillstånd för kraftverk, transmissionsledningar, gruvor och annan infrastruktur samt krav på att stora datacenter ska bidra mer till nätuppgraderingar.
+- **Avgränsning:** 73–25 var en procedurvotering för att gå vidare till motionen. Den antog inte lagförslaget, och det fanns vid denna kontroll inget belägg för slutlig passage.
+- **Arbetsåtgärd:** källstatus och procedural distinction finns i PR #10 och denna journal.
+
+Källor:
+- Senate LIS Vote 257: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm
+- Senate Democratic Caucus schedule, 10 november: https://www.democrats.senate.gov/2026/11/09/schedule-for-tuesday-november-10-2026
+- Reuters, 9 november: https://www.reuters.com/legal/litigation/democratic-us-senators-see-hope-permitting-bill-ahead-key-senate-vote-2026-11-09/
+
+### Status efter kompletteringen
+
+- **A–S:** 19 av 19 huvudspår har kontrollnotering i denna cykel.
+- **Nya arbetsprodukter:** PR #39 är öppnad som draft; kommentarer med nya källor har lagts i PR #4, #7, #8 och #14.
+- **Ingen artikel har mergats eller publicerats LIVE.**
+- **Ingen ny publicering har genomförts i Render eller i webbplatsens databas.**
