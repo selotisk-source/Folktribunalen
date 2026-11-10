@@ -1024,6 +1024,24 @@ Detta tillägg fångar dokument och händelser som tillkommit eller kunnat kontr
 - **Artikelvinkel:** Ett världsunikt tillstånd är inte samma sak som driftsatt slutförvar – följ STUK:s kontroll, ägarnas finansieringsansvar och statens långsiktiga ansvar.
 - **Khor Mor och Zaporizjzja:** tidigare noteringar kvarstår: KRG:s 9 november-besked om Khor Mor anger produktionsstopp efter angreppet 8 november; uppskattningen om cirka 2,8 GW bortfallen elproduktion är myndighetsuppgift och ansvarig aktör är inte fastställd. Energoatoms tidsangivelser för extern kraft till Zaporizjzja 8 november ska hållas isär från IAEA:s historiska räknare eftersom startdatum och definition skiljer sig.
 
+### N – Kela, arbetsplatsövervakning och rättslig kontroll
+- **OBEROENDE GRANSKNING, Yle MOT 9 november 2026:** Yle rapporterar att Kela sommaren 2023 följde arbetstidsanvändningen hos cirka 2 000 anställda och granskade två till sex föregående månader. Materialet omfattade detaljerade aktivitetsdata, bland annat musklick och ärendeflöden. Kela beskriver det som ett engångsförsök. Yle uppger att tiotals anställda fick erinringar/varningar eller sades upp och att tio anställda sades upp 2024.
+- **PRIMÄRKÄLLA, Arbetsdomstolen i Finland TT 2026:14, 18 maj 2026:** Målet gäller Kela som arbetsgivare och en etuuskäsittelijä i Jyväskylä. Domstolen fann att arbetsgivaren inte visat att arbetstagaren misskött arbetstiden; Oiwa-rapporterna gav inte en tillförlitlig bild. Domstolen anger att Oiwa-systemets tidsstämplar inte var definierade för arbetstidsuppföljning och inte täckte arbetstiden fullständigt, samt att personalen inte hade informerats vid införandet om att systemet skulle användas för arbetstidskontroll. Kela ålades ersätta 18 månadslöner: 49 130,47 euro till arbetstagaren, 7 459,37 euro till Työllisyysrahasto samt 41 043,07 euro i rättegångskostnader.
+- **Viktig avgränsning:** Domen gör inte hela Kelas 2023-övervakning olaglig. Den prövar en specifik uppsägning och tillförlitligheten i Oiwa-rapporterna. Yle kopplar den till en av 2024 års uppsägningar, men exakt överlappning mellan den enskilda domens Oiwa-data och det bredare 2 000-personers musklicksurvalet måste dokumenteras separat.
+- **Öppna primärfrågor:** Kelas interna presentation från 2023, DPIA/dataskyddsbedömning, informationsmeddelanden till personal, samarbetsförhandlingar, ändamålsbeskrivning för Oiwa, åtkomstloggar, lagringstid, leverantör/underbiträden och eventuella IMY-beslut. Begär även fullständiga handlingar om urvalet på cirka 2 000 personer och de tio uppsägningarna.
+- **Artikelvinkel:** När ett ärendehanteringssystem blir kontrollsystem – vad mäter det faktiskt, vad tror arbetsgivaren att det mäter och vad kan domstolen godta som bevis?
+- Källor: https://yle.fi/a/74-20255908 · https://www.tyotuomioistuin.fi/ratkaisut/ratkaisujen-arkisto/tt-202614/
+
+### B – Finland: lokalt motstånd mot datacenter
+- **OBEROENDE RAPPORTERING, Yle 9 november:** demonstrationer hölls i sex städer: Helsingfors, Lahti, Tammerfors, Uleåborg, Jyväskylä och Åbo. Polisens uppskattning för Helsingfors var cirka 1 300 deltagare; uppgiften om övriga städer kommer från Finlands naturskyddsförening, en av arrangörerna. Kraven gällde bland annat paus för nya byggprojekt och oro för elförbrukning och naturpåverkan.
+- **Öppet:** lokala bygglov, miljöbeslut, vattenuttag och nätanslutningsavtal i varje kommun; demonstrationen i sig visar inte att projekten stoppats.
+- Källa: https://yle.fi/a/74-20255931
+
+### G – UNIFIL: faktisk finländsk närvaro inför avvecklingen
+- **OBEROENDE RAPPORTERING, Yle 10 november:** omkring 180 finländska soldater uppges fortfarande tjänstgöra i södra Libanon inom en franskledd enhet om cirka 800; UNIFIL totalt anges till över 7 500 fredsbevarare. Mandatet löper ut vid årsskiftet och missionen ska monteras ned under 2027. Yle återger också att ett mindre FN-uppdrag inte väntas få amerikanskt stöd och att EU förbereder ett separat stöd till libanesiska armén och gränsmyndigheter.
+- **Öppet:** följ säkerhetsrådets formella beslut, FN:s avvecklingsplan, ersättande internationell närvaro och lokala civila konsekvenser. Yles uppgift om styrketal är rapportering, inte en ny styrkeförteckning från FN.
+- Källa: https://yle.fi/a/74-20256145
+
 ### Arbetsflöde och publiceringsgräns
 - Detta tillägg är en forskningsuppdatering i den öppna arbetsgrenen för PR #16. Det är inte en publicerad artikel och har inte slagits samman till huvudgrenen.
 - PR #3:s utökade Hormuzversion är fortsatt en separat redaktionell godkännande-/publiceringsfråga. Inget nytt publiceringsbeslut fattas genom denna bevakningsnotering.
