@@ -19,7 +19,7 @@ Två publikationer från 2026 ger synkronicitetsfrågan nya begrepp, men ingen a
 
 I artikeln **“Synchronistic Experience as Salience Alignment in Biosemiotic Feedback Systems”**, publicerad i *Biosemiotics* den 21 september 2026, föreslår Angus McCoss en kvalitativ modell där en synkronicitetsupplevelse uppstår genom en kombination av meningsfull relevans, överraskning i förhållande till förväntan och upplevd kausal opacitet. Modellen är heuristisk. Författaren beskriver den inte som ett färdigt kvantitativt instrument eller som en empiriskt bevisad mekanism. Att orsaken är svår att se är inte detsamma som att den saknas.
 
-Den 19 oktober publicerades **“Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”** i *Neuroscience of Consciousness*. Artikeln för in synkronicitet i ett neurodynamiskt resonemang om mening, uppmärksamhet och flödestillstånd. Den ska läsas som en teoretisk syntes, inte som ett kontrollerat experiment som har visat en acausal förbindelse mellan yttre händelser.
+Den 19 oktober publicerade Steven Kotler, Michael Mannino, Scott Kelso och Karl Friston **“Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”** i *Neuroscience of Consciousness*. Artikeln är klassificerad som en Review Article. Den föreslår att syfte, synkronicitet och flow kan förstås som olika tidsskalor av metastabil samordning i hjärnans nätverk och lägger fram empiriska förutsägelser om bland annat hippocampala sharp-wave ripples, P300b-aktivitet och nätverkskoherens. Författarna formulerar en stark teoretisk slutsats – att synkronicitet inte är övernaturlig utan “supra-predictive” – men artikeln testar inte själv dessa förutsägelser i ett nytt kontrollerat experiment. Det är därför en modell att pröva, inte en fastställd neurobiologisk förklaring.
 
 Det gemensamma värdet ligger därför i frågorna de hjälper oss att formulera: Vad gör en händelse saliens? Hur förändras upplevelsen när förväntan bryts? Vilka återkopplingsvägar är dolda för personen som upplever sammanträffandet?
 
@@ -27,7 +27,7 @@ Det gemensamma värdet ligger därför i frågorna de hjälper oss att formulera
 
 Rekommendationssystem ger en konkret mekanism att undersöka. De kan rangordna innehåll utifrån tidigare klick, sökningar, visningstid, kontakter, platsrelaterade signaler och likheter med andra användare. Systemet behöver inte känna till en persons privata tanke. Det behöver bara reagera på tidigare digitala spår och på beteenden som användaren själv inte uppfattar som relevanta.
 
-Forskningen om rekommendationssystem visar att rekommendationer kan påverka vad människor väljer och konsumerar. En studie av ett online-till-offline-system fann en mätbar efterfrågeeffekt av rekommendationer. Annan forskning visar hur användares respons på rekommendationer kan matas tillbaka in i modellen och påverka framtida rekommendationer. Det skapar en återkopplingsslinga: systemet visar något, användaren reagerar, reaktionen blir ny träningsdata och nästa rekommendation formas av den tidigare.
+Forskningen om rekommendationssystem visar att rekommendationer kan påverka vad människor väljer och konsumerar. En empirisk studie av ett online-till-offline-system fann att rekommendationer ökade köpvolymen med omkring 1–2 procent under en 30-dagarsperiod i den undersökta tjänsten. En annan studie undersöker hur algoritmisk serendipitet kan mätas, men den använder begreppet för oväntade och relevanta rekommendationer – inte för Jungs synkronicitet. Forskning om återkopplingsslingor visar dessutom hur användares respons kan matas tillbaka in i modellen och påverka framtida rekommendationer. Det skapar en återkopplingsslinga: systemet visar något, användaren reagerar, reaktionen blir ny träningsdata och nästa rekommendation formas av den tidigare.
 
 Det kan skapa en upplevelse av märklig träffsäkerhet. Ett ämne som personen nyligen sökt efter kan återkomma i ett flöde, i en annons eller i en rekommenderad video. När användaren inte ser datakedjan kan sammanträffandet upplevas som oförklarligt.
 
@@ -83,10 +83,10 @@ I den digitala miljön kan ett sammanträffande vara både genuint meningsfullt 
 1. Angus McCoss, “Synchronistic Experience as Salience Alignment in Biosemiotic Feedback Systems”, *Biosemiotics*, publicerad 21 september 2026. **Teoretisk/heuristisk modell; inte empiriskt bevis för acausalitet.**  
    https://link.springer.com/article/10.1007/s12304-026-09663-z
 
-2. “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”, *Neuroscience of Consciousness*, publicerad 19 oktober 2026. **Teoretiskt/neurodynamiskt bidrag; inte en kontrollerad demonstration av acausalitet.**  
+2. Steven Kotler, Michael Mannino, Scott Kelso och Karl Friston, “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”, *Neuroscience of Consciousness*, publicerad 19 oktober 2026. **Review Article som föreslår testbara neurodynamiska förutsägelser; förutsägelserna är inte validerade av artikeln genom ett nytt kontrollerat experiment.**  
    https://doi.org/10.1093/nc/niag063
 
-3. Panagiotis Adamopoulos och Vilma Todri, “Consumer Social Connectedness and Persuasiveness of Collaborative-Filtering Recommender Systems: Evidence From an Online-to-Offline Recommendation App”, *Production and Operations Management*, först publicerad 21 maj 2024. **Empirisk studie av rekommendationers effekt på efterfrågan; inte en studie av synkronicitetsupplevelser.**  
+3. Panagiotis Adamopoulos och Vilma Todri, “Consumer Social Connectedness and Persuasiveness of Collaborative-Filtering Recommender Systems: Evidence From an Online-to-Offline Recommendation App”, *Production and Operations Management*, först publicerad 21 maj 2024. **Empirisk studie av rekommendationers effekt på efterfrågan i en specifik tjänst; inte en studie av synkronicitetsupplevelser.**  
    https://doi.org/10.1177/10591478241259422
 
 4. Wenjun Jiang m.fl., “Uncovering Recommendation Serendipity with Objective Data-driven Factor Investigation”, *ACM Transactions on Information Systems*, publicerad 10 september 2025. **Empirisk forskning om algoritmisk serendipitet; begreppet är inte identiskt med Jungs synkronicitet.**  
@@ -98,9 +98,11 @@ I den digitala miljön kan ett sammanträffande vara både genuint meningsfullt 
 6. Vibhhu Sharma m.fl., “A Unified Causal Framework for Auditing Recommender Systems for Ethical Concerns”, arXiv, 2024. **Metodramverk för kausal granskning av rekommendationssystem; inte en studie av acausalitet.**  
    https://arxiv.org/abs/2409.13210
 
+7. C.G. Jung, “Synchronicity: An Acausal Connecting Principle”, 1952, senare publicerad i *The Collected Works of C.G. Jung*, vol. 8. **Historisk primärtext för begreppets idéhistoria; inte empiriskt belägg.**
+
 ## Öppna frågor före publicering
 
-- Hämta fulltext och metoddel för artikeln i *Neuroscience of Consciousness* och kontrollera om den presenterar nya data eller enbart syntes.
+- Hämta fulltextens metod- och referensdel för Kotler, Mannino, Kelso och Friston och kontrollera vilka empiriska resultat som är direkta observationer respektive teoretiska prediktioner.
 - Kontrollera om McCoss-modellen har efterföljande replikation eller empirisk validering.
 - Bygg en fullständig forskningsöversikt över selektiv uppmärksamhet, minnesrekonstruktion, apofeni, basfrekvenser och prediktiv perception.
 - Utforma ett etikgodkänt, förregistrerat pilotprotokoll innan någon insamling av persondata.
