@@ -360,3 +360,17 @@ Källor:
 - AP, valresultat: https://apnews.com/article/f126e12e05b579a327b98481c0ae2226
 - Reuters, 8 november 2026: https://www.reuters.com/legal/government/democrats-eye-musk-miller-probes-after-midterm-rout-2026-11-08/
 
+
+
+## Skellefteå: Lyten anger 16 GWh batterikapacitet och över 1 GW planerad AI-datacenterkapacitet
+
+**Källstatus: PARTSUPPGIFT.** Lyten anger på sin nuvarande operationssida att Northvolt Ett i Skellefteå nu ska rymma 16 GWh batteritillverkning tillsammans med mer än 1 GW AI-datacenterkapacitet. Bolaget uppger att batteriverksamheten har återstartat och är under uppskalning samt att EdgeConneX valts för datacenterutvecklingen och påbörjat fas 1.
+
+Detta är en aktuell bolagsuppgift, inte oberoende mätning av producerad batterivolym, installerad datacenterlast, nätanslutning eller driftsatt kapacitet. Den tidigare affärsbekräftelsen från februari 2026 styrker att Lyten förvärvade de svenska Northvolt-tillgångarna, men styrker inte i sig att den nu angivna ramp-up-takten eller datacenterfasen har nått kommersiell drift. Någon oberoende bekräftelse av faktisk 16 GWh-produktion eller driftsatt datacenterkapacitet har inte identifierats i denna kontroll.
+
+**Varför det spelar roll:** Skellefteå blir ett konkret test av hur batteriproduktion, AI-datacenter, vattenkraft, nätkapacitet och lokala industriella löften ska samordnas. Följ tilldelad och faktiskt uttagen effekt separat från marknadsförd framtida kapacitet.
+
+Källor:
+- Lyten, Operations – Lyten Sweden (bolagets aktuella uppgifter, odaterad webbsida): https://lyten.com/operations/lyten-sweden/
+- Lyten, förvärv av Northvolt Sweden, 27 februari 2026: https://www.businesswire.com/news/home/20260227089000/en/Lyten-Completes-Acquisition-of-Northvolt-Sweden-and-Establishes-its-First-Lyten-Industrial-Hub-in-Sweden
+- Oberoende bakgrund om förvärvet: Svenska Dagbladet, februari 2026: https://www.svd.se/a/wrAK5P/northvolt-kops-av-lyten-ska-anstalla-600-personer
