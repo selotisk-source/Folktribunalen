@@ -32,6 +32,27 @@ Prospektet delar upp tidsprofilen:
 
 En betydande del är inte ett ovillkorligt, oåterkalleligt betalningskrav. Cirka **186,2 miljarder dollar** omfattas enligt prospektet av uppsägningsrätt eller villkor som måste uppfyllas före projektstart, exempelvis finansiering, byggnation eller myndighetstillstånd. Anthropic uppskattar dessutom **150–175 miljarder dollar** i framtida betalningar under arrangemang utan ett fast dollaråtagande; dessa belopp ingår inte i 900,9-miljarderssumman.
 
+### Avstämning av 900,9 miljarder dollar
+
+SEC-handlingen gör det möjligt att återskapa totalsumman. Den är en sammanräkning av flera kategorier, inte en enda skuldpost:
+
+| Delpost | Belopp |
+|---|---:|
+| Fasta och bestämbara avtalsåtaganden i tabellen per 30 september | $319,993 md |
+| Kortfristiga åtaganden som kan sägas upp utan avgift inom ett år | $17,4 md |
+| Tecknade leasingavtal som ännu inte börjat löpa | $451,2 md |
+| Nya åtaganden ingångna efter 30 september | $105,7 md |
+| Ytterligare kortfristiga avtal efter 30 september | $6,6 md |
+| **Summa, avrundad** | **$900,9 md** |
+
+Den fasta tabellposten på $319,993 md består i sin tur av $313,819 md i inköpsåtaganden, $4,224 md i operationella leasingavtal och $1,950 md i finansiella leasingavtal. De $451,2 miljarderna i ännu ej påbörjade leasingavtal väntas i huvudsak börja löpa 2026–2028 och har viktad genomsnittlig löptid omkring tio år.
+
+Av de samlade $900,9 miljarderna omfattas cirka $186,2 md av uppsägningsrätt eller villkor före projektstart, exempelvis att motparten måste säkra finansiering, anläggning eller myndighetstillstånd. Cirka $70,7 md väntas betalas under de tolv månaderna efter 30 september; $4,2 md av det beloppet har sådana villkor eller uppsägningsrätter.
+
+Utanför totalsumman ligger uppskattade variabla betalningar på $150–175 md för arrangemang där inget fast dollarbelopp har avtalats. Tabellen exkluderar dessutom $6,2 md i utestående Amazon-noter som enligt prospektet väntas regleras i aktier snarare än kontanter, samt möjligheten att emittera upp till ytterligare $77 md i konvertibla skuldebrev under villkorade note-purchase agreements.
+
+**Tolkning:** 900,9 md är ett mått på framtida kontrakterad och uppskattad infrastrukturbelastning. Det blandar fasta minimibetalningar, kortfristiga avtal, ännu ej påbörjade leasingåtaganden och åtaganden som tillkommit efter rapportdagen. Det ska därför inte beskrivas som en skuld som redan bokförts till hela beloppet eller som ett kassautflöde som redan skett.
+
 ### Vad siffran inte betyder
 
 900,9 miljarder dollar är inte:
@@ -52,6 +73,24 @@ Tanken är att säkra datacenterkapacitet tidigt, eftersom byggnader, elanslutni
 Samtidigt erkänner prospektet en tydlig kostnadsrisk: under tredje kvartalet 2026 köpte Anthropic cirka **5 miljarder dollar** i compute under kortfristiga åtaganden. Bolaget säger att denna kapacitet för närvarande kostar betydligt mer än jämförbar kapacitet under fleråriga avtal och att detta minskade intäkten per dollar compute jämfört med föregående kvartal.
 
 För tredje kvartalet redovisar bolaget cirka **16,96 miljarder dollar i intäkter**, ett rörelseresultat på cirka **minus 567 miljoner dollar** och en nettoförlust på cirka **23,29 miljarder dollar**. Dessa kvartalstal måste läsas tillsammans med bolagets stora icke-kontanta poster och finansieringsstruktur; nettoförlusten är inte samma sak som kassaförbrukning.
+
+## Motparterna: minimiköp, villkor och avbeställningsrätt skiljer sig kraftigt
+
+SEC-prospektet namnger flera av de största computeavtalen. De får inte summeras mekaniskt utöver 900,9-miljardersposten; flera ingår i den aggregerade åtagandebilden och vissa belopp ligger uttryckligen utanför den.
+
+| Motpart | Prospektets uppgift | Viktig villkorsskillnad |
+|---|---|---|
+| Microsoft | Minst $47,2 md och upp till $49,2 md, nov 2026–juni 2033 | I huvudsak icke uppsägningsbart, med undantag för väsentligt avtalsbrott eller vissa ej levererade kapacitetstrancher |
+| Google | Minst cirka $121,3 md, april 2026–juli 2033 | Minimiutgift oavsett faktisk användning; true-up om faktisk spend understiger miniminivån, med vissa undantag |
+| Amazon | Minst $110 md, maj 2026–april 2036 | Minimiutgift oavsett användning; true-up och begränsad uppsägningsrätt |
+| SpaceXAI | Upp till $120,5 md till 2029 | Cirka $3,1 md per månad när all kapacitet levererats; efter initiala perioder i jan/mars 2027 kan avtalen sägas upp med 90 dagars varsel |
+| AMD | Ingen fast dollargräns; full initial kapacitet väntas överstiga $20 md | Beror på deployment-förslag, pris, finansiering och kapacitetsvillkor; ytterligare kapacitet kan tillkomma |
+| Nscale | Upp till cirka $44,6 md till 2033 | Avgifter uppstår när kapacitet levereras och accepteras; Nscale ska använda bästa ansträngning för att säkra kvalificerad finansiering |
+| Lambda | Cirka $41,3 md till 2034 | En del på cirka $34,9 md kan sägas upp eftersom Lambda inte säkrade en viss fastighetslease i tid; vid prospektdatum hade ingen part lämnat uppsägningsbesked och Anthropic uppgav att bolaget inte avsåg att säga upp |
+
+Googleavtalet innehåller dessutom ett separat åtagande om ytterligare TPU-kapacitet utan fast dollarbelopp. Anthropic uppskattar framtida betalningar för denna kapacitet till $125–150 md, men de ligger utanför $900,9 md. Det är en av de tydligaste skillnaderna mellan ett fast minimiåtagande och en uppskattning av framtida rörlig användning.
+
+Nscale-avtalet visar en annan risktyp: Anthropic har ett stort potentiellt åtagande, men kapaciteten kräver finansiering och leverans innan avgifter börjar löpa. Lambda-avtalet visar att ett betydande belopp kan bli uppsägningsbart om den underliggande anläggningsfinansieringen eller fastighetsleasen inte kommer på plats.
 
 ## Privat placering: leverantörer och investerare i samma struktur
 
@@ -97,14 +136,19 @@ En enda Class F-aktie som innehas av Founder LLC ska ge **50,1 procent av den to
 
 Det innebär att en stor publik kapitalanskaffning inte automatiskt ger vanliga Class A-ägare motsvarande inflytande över bolagets styrning. Denna skillnad är särskilt viktig när de största strategiska investerarna samtidigt är leverantörer av chip, minne, nätverk och compute.
 
-## En bredare finansieringskedja – men undvik dubbelräkning
+## Broadcom, leasing och säkerheter – $161,2 miljarder i hyresbetalningar
 
-Den 26 oktober offentliggjorde Broadcom, Bank of America, Citi, Morgan Stanley och Blackstone en separat finansieringsstruktur på **63 miljarder dollar** för en ny SPV som ska köpa Broadcoms AI-acceleratorer och nätverksutrustning och leasa dem till Anthropic. Broadcom lämnar residual value support till seniora långivare. Leveranser väntas börja 2027.
+S-1/A-2 beskriver femåriga master equipment leases med Broadcom och vissa finansieringsenheter. Anthropic uppger att de samlade hyresbetalningarna under dessa lease-arrangemang uppgår till cirka **$161,2 miljarder exklusive ränta**. Betalningarna sker kvartalsvis och börjar normalt när AI-utrustningen är klar för användning i datacentret, men kan i vissa fall börja tidigare om datacentret försenas.
 
-Detta är ett separat offentliggjort finansieringsarrangemang. De offentliga handlingarna som granskats här fastställer inte om och hur varje del av denna SPV-struktur ingår i Anthropics 900,9-miljarderssumma. De två beloppen får därför inte adderas eller beskrivas som två oberoende skulder utan en avtals- och redovisningsmässig avstämning.
+Två specialbolag ingår i lease-strukturen. Anthropic, PBC garanterar deras skyldigheter och den leasade utrustningen utgör säkerhet. Avtalen innehåller bland annat cross-default-klausuler som kan påskynda betalningsskyldigheter. Anthropic har också satt in kontanter på ett spärrat konto till Broadcoms förmån och kan behöva sätta in mer under vissa omständigheter.
 
-**PRIMÄRKÄLLA:** [Broadcom/finansiärernas gemensamma besked, 26 oktober](https://www.blackstone.com/news/press/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute/).  
-**OBEROENDE RAPPORTERING:** [Reuters, 26 oktober](https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/).
+I oktober 2026 överlät Broadcom delar av sina rättigheter och skyldigheter enligt 2026 års lease-arrangemang till en nybildad särskild finansieringsenhet. Anthropic skriver uttryckligen att överlåtelsen **inte ökade de sammanlagda hyresbetalningarna**. Det är en central avstämningspunkt mot den separata finansieringsnyheten den 26 oktober om en $63 md SPV-struktur som ska köpa Broadcom-utrustning och leasa den till Anthropic. SEC-handlingen namnger inte finansieringsenheten i det aktuella avsnittet; exakt juridisk identitet måste matchas innan de två dokumenten säkert kan knytas ihop. Beloppen får inte adderas som om de vore två fristående Anthropic-åtaganden.
+
+Anthropic skriver också att bolaget inte har några andra off-balance-sheet-finansieringsarrangemang än de som avser hosting och leasing i den normala verksamheten, åtaganden kopplade till vissa equity-method-investeringar samt garanti- och kostnadsersättningsarrangemang med utvecklare för att stödja datacenterkapacitet. Det gör garantier, säkerheter och kostnadsersättningsklausuler till lika viktiga granskningsobjekt som de synliga leasingbeloppen.
+
+**Källstatus:** PRIMÄRKÄLLA – Form S-1/A-2, avsnittet *Infrastructure Equipment Leases* och *Off-Balance Sheet Arrangements*.  
+**Oklart:** vilken juridisk person som är den nybildade SPV:n i oktoberöverlåtelsen och exakt hur $63 md-finansieringen fördelas mellan utrustning, leasing och eventuellt restvärdesstöd.  
+**Viktigt:** $161,2 md är hyresbetalningar under Broadcom-arrangemangen och ska inte adderas separat till $900,9 md utan en fullständig kontraktsavstämning.
 
 ## De centrala riskerna
 
@@ -140,6 +184,7 @@ Detta är ett separat offentliggjort finansieringsarrangemang. De offentliga han
 ## Källor
 
 ### Primärkällor
+- Anthropic Form S-1/A-2, s. 178–181, särskilt avsnitten *Contractual Obligations*, *Infrastructure Service Arrangements*, *Infrastructure Equipment Leases* och *Off-Balance Sheet Arrangements*: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
 - Anthropic, Form S-1/A-2, SEC, 10 november 2026: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
 - Anthropic, roadshow launch, 10 november 2026: https://www.anthropic.com/news/roadshow-launch
 - Broadcom/Bank of America/Citi/Morgan Stanley/Blackstone, 26 oktober 2026: https://www.blackstone.com/news/press/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute/
