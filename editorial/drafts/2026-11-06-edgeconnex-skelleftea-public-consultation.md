@@ -113,8 +113,26 @@ Mötet den 5 november visar att frågan nu också är lokal och politisk. Den av
 
 SVT:s uppföljning efter samrådet den 5 november anger att protestlistan mot EdgeConneX-projektet samlat omkring 4 000 underskrifter. Detta är ett uppropstal, inte en representativ opinionsmätning eller ett formellt kommunalt veto.
 
-Kommunens bygglovsärende 2026-3140 gäller den första fasen. Den större campusvisionen om upp till cirka 1 GW ska inte beskrivas som redan tilldelad nätkapacitet, färdig byggnation eller driftsatt IT-last. Inget startbesked har identifierats i den offentliga projektdokumentation som kontrollerats.
+Kommunens bygglovsärende 2026-3140 gäller den första fasen. Den större campusvisionen om upp till cirka 1 GW ska inte beskrivas som redan tilldelad nätkapacitet, färdig byggnation eller driftsatt IT-last. Norran rapporterade den 9 november att kommunen den 29 oktober utfärdade ett delstartbesked som endast omfattar grundläggningen. Själva beslutet har ännu inte hämtats ur kommunens diarium; startbesked för återstående byggarbeten har inte rapporterats.
 
 **Källstatus:** SVT är oberoende rapportering om uppropet och samrådet. Kommunens bygglovsbeslut är primärhandling; nätanslutning, startbesked och miljövillkor återstår att kontrollera.
 
 Källa: https://www.svt.se/nyheter/lokalt/vasterbotten/4000-personer-har-skrivit-under-protestlistan-mot-datacentret-i-skelleftea
+
+
+## Ny kontroll 10 november: delstartbeskedet gäller bara grundläggning
+
+**Händelsedatum:** 29 oktober 2026. **Publiceringsdatum:** 9 november 2026.
+
+**OBEROENDE RAPPORTERING:** Norran rapporterade den 9 november att Skellefteå kommun utfärdat ett delstartbesked för EdgeConneX på det tidigare Northvoltområdet. Enligt Norran gäller beskedet endast grundläggningsarbeten. Kommunens byggnadsinspektör Urban Sundquist uppgav att delstartbesked ges för de delar som är färdigprojekterade och klara för byggstart. Branschaktuellt återger samma Norran-uppgift och är därför inte en oberoende andra bekräftelse.
+
+**PRIMÄRKÄLLA – tidigare bygglov:** Kommunens bygglovskungörelse, dnr 2026-3140, gäller fastigheten Ackumulatorn 3 och de två första byggnaderna: ombyggnad av DS4 och FA03 till DC01 samt nybyggnad av DC02. Bygglovet är daterat 24 september 2026. Det är skilt från delstartbeskedet.
+
+**Vad som faktiskt tillkom:** projektet har gått från bygglov utan rapporterat startbesked till ett rapporterat, begränsat startbesked för grundarbeten. Det är inte ett startbesked för hela DC01/DC02, inte ett bevis på färdig byggnad och inte ett besked om att datacentret är driftsatt.
+
+**FORTSATT OBEKRÄFTAT:** själva delstartbeslutet och dess villkor, startbesked för övriga byggdelar, om bygglovet vunnit laga kraft, avtalad nätkapacitet, kundavtal och den fortsatta samrådsprocessen. Uppgiften om upp till 1 GW avser EdgeConneX:s möjliga campuskapacitet och får inte användas som mått på avtalad nätkapacitet eller faktisk IT-last.
+
+**Källor:**
+- Norran, 9 november 2026, “Edgeconnex har fått startbesked – för grundarbeten” (återgiven och daterad i DataCenterSweden): https://www.datacentersweden.se/sv/news/edgeconnex-skelleftea-partial-start-notice-2026-11/
+- Skellefteå kommun, kungörelse om lov för DC01 och DC02 på Ackumulatorn 3, dnr 2026-3140, 28 september 2026.
+- SVT Västerbotten, bygglov och projektfaser, 1 oktober 2026: https://www.svt.se/nyheter/lokalt/vasterbotten/edgeconnex-datacenter-narmar-sig-bygglov-godkant-av-skelleftea-kommun
