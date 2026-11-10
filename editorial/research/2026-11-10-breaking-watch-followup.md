@@ -830,3 +830,133 @@ Detta tillägg kompletterar dagens tidigare 19/19-kontroll. Det är inte en ny f
 - **Databas:** Render visar PostgreSQL-instansen `folktribunalen-db` som `available`, men dess IP-allowlist är tom. En read-only fråga via den hostade Render-anslutningen misslyckades med det uttryckliga felet: “This database blocks all external connections because its IP allowlist is empty… the hosted Render MCP server doesn't have IP addresses you can allowlist yet, so run the Render MCP server locally instead.”
 - **Säkerhetsåtgärd:** IP-allowlisten ändrades inte. Ingen databasskrivning, publicering eller merge gjordes. Eftersom PR-förhandsvisningar är avstängda visas de uppdaterade PR #4, #10 och #32 inte på den publika webbplatsen.
 - **Redaktionell status:** PR #3 är fortsatt öppen och markerad som draft; PR #4, #10 och #32 är också öppna draft-PR:er efter sakuppdateringarna. PR #16 är fortsatt en öppen draft-PR med forskningsjournalen. Ingen ny PR skapades.
+
+
+# Breaking Watch – verifierad delta 10 november 2026, 23:07 Sofia
+
+**Arbetsnot:** Detta är ett tillägg till tidigare kontrolljournal, inte en ny publicering. Händelsedatum och publiceringsdatum hålls isär. Primärkällor prioriteras; där en myndighetsportal inte gick att läsa anges det.
+
+## Nya betydande utvecklingar
+
+### A / P – Palantirs CISO nominerad till CISA
+
+- **Händelsedatum:** 9 november 2026. **Senatens diariedatum:** 9 november 2026. **Kontrolldatum:** 10 november.
+- **PRIMÄRKÄLLA:** Senatens officiella lista över civila nomineringar i utskott anger PN1426, Department of Homeland Security: Michael LoSapio, of New Jersey, to be Director of CISA. Hänvisning: https://www.senate.gov/legislative/nom_cmtec.htm
+- **OBEROENDE BEKRÄFTELSE:** Defense One/Nextgov anger att LoSapio varit Palantirs CISO sedan september 2024 och tidigare lett Infrastructure and Network Security Group. Reuters rapporterar själva nomineringen. https://www.defenseone.com/business/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417144/ ; https://www.reuters.com/world/white-house-nominates-palantirs-losapio-lead-homeland-securitys-cyber-agency-2026-11-09/
+- **Status:** Nominering i utskottsbehandling; inte bekräftad utnämning. Inget förhörsdatum identifierat i denna kontroll.
+- **Betydelse:** CISA:s ansvar omfattar civil cybersäkerhet och samverkan med operatörer av kritisk infrastruktur. Granskningen ska omfatta ekonomiska intressen, etikåtaganden, recusal och senatens frågor. Ingen intressekonflikt är fastställd enbart genom nomineringen.
+
+### A – Palantir: Londonförlikning, nytt polisavtal och tidigare polischef som betald rådgivare
+
+**MOPAC / London UOA**
+- **Publiceringsdatum:** 14 oktober 2026.
+- **PRIMÄRKÄLLA:** Mayor's Office for Policing and Crime uppger att High Court-processen med Palantir är löst och att båda parter dragit tillbaka sina anklagelser i inlagorna. MOPAC förtydligar att beslutet i maj att inte ingå UOA-avtal inte grundades på Palantirs värderingar eller etik, utan på myndighetens lagstadgade prövning av kostnad, styrning, upphandling och value for money. MOPAC säger att Palantir får delta i en ny upphandling på samma villkor som andra leverantörer. https://www.london.gov.uk/statement-mopac-and-palantir
+- **Tolkning:** Det ursprungliga London-avtalet återuppstår inte genom förlikningen. Nästa fråga är den nya konkurrensutsatta upphandlingen och dess krav, data- och exitvillkor.
+
+**BCH Palantir Foundry Platform**
+- **Tilldelningsdatum:** 9 oktober 2026. **Publiceringsdatum för award notice:** 6 november 2026.
+- **Belopp och period:** £10,093,202 ex VAT; fem år; slutdatum 8 oktober 2031. Köpare i Contracts Finder-posten: Police and Crime Commissioner for Cambridgeshire. Leverantör: Palantir Technologies UK Ltd.
+- **PRIMÄRKÄLLA identifierad:** Contracts Finder-notisens URL/ID d7a7acf6-a793-427d-a674-ee989e704974-920813. Portalen gick inte att läsa i denna körning; detaljerna har därför kontrollerats mot två index som återger Contracts Finder-data, inte genom direkt läsning av originalnotisen. https://www.contractsfinder.service.gov.uk/Notice/d7a7acf6-a793-427d-a674-ee989e704974-920813
+- **OBEROENDE BEKRÄFTELSE:** The Bureau of Investigative Journalism anger att avtalet gäller Bedfordshire, Cambridgeshire och Hertfordshire och beskriver Foundry som en enterprise-wide dataintegrations- och analysplattform. https://www.thebureauinvestigates.com/stories/2026-11-10/revealed-palantir-employing-cressida-dick-as-paid-adviser
+- **Avgränsning:** Avtalets offentliga beskrivning anger dataingest, länkning och analys från flera system. Det bevisar inte automatiserat polisiärt beslutsfattande. DPIA, datakällor, åtkomst, lagring, mänsklig beslutsrätt och exitvillkor återstår.
+
+**Cressida Dick**
+- **Publiceringsdatum:** 10 november 2026. **Rapporterad start:** september 2025.
+- **OBEROENDE GRANSKNING:** TBIJ uppger att Dame Cressida Dick är betald rådgivare åt Palantir sedan september 2025. TBIJ anger att Palantirs talesperson bekräftat rådgivarrollen och att Dick själv säger att hennes uppdrag är begränsat till råd om hur produkter kan förbättra offentlig service; hon förnekar att hon lobbat, förespråkat Palantir eller introducerat bolaget till kontakter.
+- **Öppet:** Publicerad primär deklaration av ersättning/uppdrag, rådgivaravtal, omfattning och eventuella etikvillkor har inte identifierats. Artikeln får inte antyda lobbying som faktum.
+
+### B – EuroHPC:s AI Gigafactories: deadlineändring 5 november
+
+- **Call publicerad:** 30 juli 2026. **Senaste ändring:** 5 november 2026. **Kontrollerad:** 10 november.
+- **PRIMÄRKÄLLA:** EuroHPC JU:s uppdaterade call EUROHPC-2026-CEI-AIGF-01 anger att Lot 1 (Medium-Scale AI Gigafactories) fått ny deadline 4 februari 2027 kl. 17:00. Lot 2 (Large-Scale) ligger kvar på 3 december 2026 kl. 17:00. Alla tidigare utkast och inlämnade anbud måste återskapas och lämnas in via de nya länkarna; gamla inskick räknas inte. https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **PRIMÄRKÄLLA:** Den ursprungliga EuroHPC-pressreleasen beskriver upp till sju gigafabriker, förväntad privat investering över €20 md, offentlig finansiering som ankarkund och driftstart inom 18 månader efter kontrakt. Detta är målsättningar och förväntningar, inte redan tilldelat kapital eller byggd kapacitet. https://www.eurohpc-ju.europa.eu/eurohpc-joint-undertaking-launches-ai-gigafactories-call-2026-07-30_en
+- **Betydelse:** Deadlineändringen är en konkret upphandlingsdelta; kontrollera vilka konsortier som lämnar in under Lot 2 i december och vilka medlemsstater som säkrar nationella budgetåtaganden för Lot 1.
+
+### F – Anthropic S-1/A-2: 26 md USD privat placering och 77 md USD ännu outnyttjade note facilities
+
+- **Inlämningsdatum:** 10 november 2026. **PRIMÄRKÄLLA:** SEC Form S-1/A-2, https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+- **Privat placering:** $26 md i Class N-aktier, villkorad av att IPO:n genomförs. Class N är i huvudsak icke-röstberättigad. Prospektets investerarallokering: Google $10 md; NVIDIA $10 md; AMD $2.5 md; Broadcom $1 md; Micron $1 md; Microsoft $1 md; TSMC Partners $0.5 md. Beloppen är villkorade åtaganden i samband med IPO:n, inte kontanter som redan betalats.
+- **Note-purchase agreements:** Per 30 september 2026 anger prospektet upp till $77 md tillgängligt för framtida utgivning: Google $20 md, Amazon $15 md och Broadcom/Infrastructure Partner $42 md. Utestående principal under dessa undrawn facilities var $0 per 30 september. Googlefaciliteten ska reduceras från $20 md till $10 md när den parallella privata placeringen stänger; Amazonfaciliteten är $15 md; Broadcomfaciliteten är $42 md och avser vid behov finansiering av kvartalsvisa leasingbetalningar under ett infrastrukturarrangemang. Dessa belopp får inte beskrivas som redan dragen skuld.
+- **Aggregatåtaganden:** Prospektet anger cirka $900.9 md i samlade köp- och leasingåtaganden. Det är inte en enda låneskuld eller ett omedelbart kassautflöde. Cirka $186.2 md omfattas av uppsägningsrätt eller villkor före projektstart; uppskattade rörliga betalningar om $150–175 md ligger utanför totalsumman.
+- **TSMC-korrigering:** Reuters rapporterar ett styrelsegodkännande om upp till $500m i Anthropic-aktier och upp till $500m i OpenAI-preferensaktier. SEC-prospektet bekräftar $500m TSMC i Anthropic-placeringen; den posten ska inte räknas en gång till ovanpå $26 md. Den separata OpenAI-investeringen har i denna kontroll endast Reuters som källa, inte en hämtad TSMC-primärhandling. https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/
+- **Nästa kontroll:** IPO-effektivitet, slutlig teckning, faktisk utbetalning, eventuella drawdowns under Google/Amazon/Broadcom-faciliteter och villkorad kapacitet.
+
+### G – Fem kristna gränsbyar i södra Libanon vädjar om skydd, återkomst och kyrkobevarande
+
+- **Händelsedatum:** 9 november 2026. **Publiceringsdatum:** L'Orient Today 9 november 16:15.
+- **PARTSUPPGIFT / lokalt upprop återgivet av press:** Borgmästarna i Rmeish, Ain Ibl, Dibil, Qouzah och Alma al-Shaab skickade en gemensam vädjan till Council of Catholic Patriarchs and Bishops of Lebanon i Bkerki. Originalbrevet har inte hämtats i denna kontroll; uppgifterna kommer från L'Orient Today och en separat återgivning i Kataeb.
+- **Vad de begär:** säkra vägar till Rmeish, Ain Ibl och Dibil; återuppta veckovisa besök i Alma al-Shaab när säkerhetsläget tillåter; frivilligt och säkert återvändande för fördrivna, särskilt från Yaroun, Qouzah och Alma al-Shaab; tillfälligt boendestöd; återställande av service, skolor och lokala näringar; skadeinventering och transparent ersättning; återöppning av Ain Ibl-sjukhuset med 24-timmars akutberedskap; bättre utrustning för Rmeish vårdcentral och Civil Defense; skydd av kyrkor och kulturarv, särskilt kyrkan i Qouzah; samordningskommission med apostolisk nuntie och Caritas; samt arbete för att undvika säkerhets- eller humanitärt vakuum efter UNIFIL:s planerade neddragning från 2027.
+- **Kyrklig aktör:** Maronitpatriarken Beshara Rai sade 8 november att han mottagit brevet och beskrev de tio kraven som brådskande och legitima; han sade att rådet skulle behandla dem under sin veckolånga session.
+- **Oberoende rapportering:** https://today.lorientlejour.com/article/1553837/five-christian-villages-in-south-lebanon-appeal-to-catholic-leaders-for-help-staying-on-their-land.html ; https://en.kataeb.org/articles/five-southern-lebanese-villages-urge-church-for-safe-roads-aid-and-return-guarantees
+- **Öppet:** originalbrevet, kommunernas egna publiceringar, skadekartläggning för Qouzah-kyrkan, status för sjukhus och vägar, samt faktiska beslut från patriarkrådet. Uppropet bevisar inte att alla invånare är fördrivna; L'Orient anger att Qouzah och Alma al-Shaab evakuerats helt medan många invånare i andra orter stannat.
+
+### K / Storsjö kapell – mötet med Cladonia har genomförts
+
+- **Händelsedatum:** tisdag 10 november 2026. **SVT publicerade:** 10 november kl. 17:16, uppdaterad 17:19. **Sveriges Radio publicerade:** senare samma kväll.
+- **OBEROENDE BEKRÄFTELSE:** SVT uppger att Bergs kommunalråd Therese Kärngard mötte en jurist som företrädde Cladonia Skog AB i Svenstavik. Kommunen fick besked om varför marken utanför Storsjö köpts. Den konkreta motiveringen återges inte i SVT:s text utan i videon; citera eller sammanfatta den inte utan att kontrollera videon eller få mötesanteckningar. https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
+- **Oberoende lokal rapportering:** Sveriges Radio beskriver det som ett första möte och återger att lokalbor vill ha större insyn. https://next.sr.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
+- **Delta från 9 november:** mötet som tidigare skjutits upp har nu hållits. Det är inte belägg för att alla frågor besvarats eller att byalaget/samebyarna haft motsvarande möte.
+
+### O – Hormuz och Arabiska viken: UKMTO #201 och separat ADNOC-besked
+
+- **UKMTO #201:** 10 november 2026; incident 19 nautiska mil nordost om Lima, Oman. Befälhavaren på en tanker rapporterade träff av okänd projektil. Besättningen uppges säker, ingen miljöpåverkan rapporterad; skadebedömning skulle göras vid första dagsljus. Fartyget är inte identifierat i varningen. **PRIMÄRKÄLLA:** UKMTO Recent Incidents https://www.ukmto.org/recent-incidents
+- **UKMTO #200 och #199:** publicerade som tidsfördröjda rapporter den 8 november. #200 gäller en tanker träffad av okänd projektil vid utgående passage genom Hormuz, besättning säker. #199 gäller en tankerbrand 8 nautiska mil nordväst om Khasab, Oman, besättningen evakuerades; UKMTO uppdaterade klassningen till ATTACK. Händelsedatum och rapportdatum ska inte blandas ihop.
+- **UKMTO #198–195:** #198 (7 nov) incident mellan bulkfartyg och militärstyrkor 18 nautiska mil öster om Khor Fakkan; besättningsstatus och skador okända. #197 (6 nov) tanker rapporterade explosion vid vattenlinjen 16 nautiska mil öster om Khasab; besättningen säker och fartyget fortsatte för egen maskin. #196 (5 nov) tanker rapporterade två okända projektiler 50 nautiska mil norr om Madinat ash Shamal, Qatar; status okänd. #195 (3 nov) tanker rapporterade två projektiler i maskinrummet 14 nautiska mil nordost om Lima; inga skador på besättning eller miljö rapporterade. Samtliga är separata UKMTO-poster; vissa är tidsfördröjda rapporter.
+- **ADNOC:** Bolaget bekräftade separat att ett av dess fartyg skadades efter en attack i UAE:s territorialvatten i Arabiska viken på eftermiddagen 10 november. Fartyget namngavs inte; responsarbete pågick. **PRIMÄRKÄLLA:** https://www.adnocls.ae/en/news-and-media/press-releases/2026/november-10-statement
+- **Källkritisk slutsats:** ADNOC-händelsen och UKMTO #201 är inte visade vara samma fartyg eller samma händelse. Ingen attribution av ansvarig aktör är fastställd i dessa källor.
+
+### O – EU:s Black Sea Maritime Security Hub: platsbild och mandat preciseras
+
+- **Besöks-/uttalsdatum:** 9–10 november 2026; **officiell pressbriefing:** 10 november.
+- **PRIMÄRKÄLLA:** EU-kommissionens audiovisuella briefing anger upp till €50m i EU-finansiering, en gemensam arbetsgrupp som ska ta fram integrerat koncept och arbetsplan, och målet att hubben ska vara operativ 2027. https://audiovisual.ec.europa.eu/en/media/video/I-297107
+- **Geografisk precisering:** I uppföljningsfrågan säger kommissionens talesperson att hubben ska samarrangeras av Bulgarien och Rumänien och arbeta över kust- och marinbaserade anläggningar i Varna och Constanța samt integrera en flygbas i Rumänien. Det är alltså en distribuerad regional struktur; en enda fysisk huvudcentral är inte fastställd i beskedet. https://audiovisual.ec.europa.eu/en/media/video/I-297544
+- **Öppet:** vilka anläggningar och myndigheter som ingår, civilt/militärt bemanningsupplägg, dataägande, ledningsansvar, finansieringskälla i budgeten och vilka upphandlingar som följer.
+
+### Q / R / S – Saab AI på Gripen och Mittlagan i Lagan
+
+**Saab AI agents**
+- **Publiceringsdatum:** 3 november 2026.
+- **PRIMÄRKÄLLA / PARTSUPPGIFT:** Saab uppger att egna AI-agenter, träningsmiljöer och verktyg utvecklats in-house och flugits på Gripen E. Saab säger att en agent autonomt styrde flygplanet i BVR-scenarier under flygprov och att BVR-förmågan validerats under verkliga flygförhållanden. Pressreleasen publicerar inte datum, plats, antal flygningar, motståndsmodell eller testresultat. Detta är Saabs produkt-/testuppgift; oberoende prestandadata har inte identifierats. https://www.saab.com/newsroom/press-releases/2026/saab-unveils-its-ai-agents-for-future-fighter-systems
+
+**Saab – svensk fregattbeställning**
+- **Publiceringsdatum:** 6 november 2026.
+- **PRIMÄRKÄLLA:** Saab uppger att bolaget tecknat kontrakt med Naval Group om vapenledningssystem och sensorer till Sveriges fyra FDI-fregatter. Ordervärde cirka SEK 2 md; leveranser 2027–2034. https://www.saab.com/newsroom/press-releases
+- **Avgränsning:** detta är en order inom svensk marin kapacitet, inte en Gripen-order.
+
+**Statkraft Mittlagan / civil underjordisk energiinfrastruktur**
+- **Händelsedatum:** 10 november 2026, två dagars syn på plats inför Mark- och miljödomstolens prövning. **Oberoende rapportering:** SVT, 10 november. https://www.svt.se/nyheter/lokalt/halland/nu-avgors-jattekraftverket-i-lagan-lars-blir-granne-valdig-byggtrafik-i-5-10-ar
+- **PRIMÄRKÄLLA – projektbolaget:** Statkrafts Mittlagan-sida och FAQ anger en planerad ny kraftstation vid Bassalt som ska ersätta Bassalt, Knäred Övre och Knäred Nedre; cirka 3,6 km tunnel; uppgiven ökning med 10 MW/35%; kraftstation/turbin planeras 8–10 meter under mark. Statkraft anger dammsäkerhet, modernisering och elproduktion som motiv. https://projekt.statkraft.se/mittlagan/fragor-och-svar-om-projekt-mittlagan/
+- **Domstolsdokument:** Vänersborgs tingsrätt, mark- och miljödomstolen, mål M 2354-24. Kungörelse 7 april 2025 och underrättelse 22 januari 2026 bekräftar tillståndsansökan enligt 11 kap. miljöbalken och omfattningen av åtgärderna. https://www.domstol.se/globalassets/filer/domstol/vanersborgs_tingsratt/kungorelser/kungorelse-m-2354-24.pdf
+- **Källstatus:** Statkrafts uppgifter om byggtid, kostnad och effekt är PARTSUPPGIFT. SVT bekräftar domstolens syn på platsen och att närboende och andra parter får komma till tals. Ingen dom eller tillståndsgivning har identifierats i denna kontroll.
+- **Viktig klassificering:** Detta är ett underjordiskt vattenkraftverk för elproduktion, inte ett pumpkraftverk eller ett batteri/lagringsprojekt. Det kan inte användas som belägg för Cavecore-lagring.
+
+## Täckningsmatris – samtliga A–S, kontroll 10 november 2026
+
+| Spår | Kontrollutfall i denna cykel | Status / nästa kontroll |
+|---|---|---|
+| A Palantir/offentlig makt | CISA PN1426; MOPAC-förlikning; BCH-award; Cressida Dick rådgivarroll | Hämta originalupphandling, DPIA, etik-/ersättningsdeklaration och CISA-förhör |
+| B AI-datacenter | EuroHPC Lot 1-deadline ändrad; Lot 2 kvar 3 dec | Följ anbud, nationella budgetåtaganden, el/nät/vatten och tilldelning |
+| C Synkronicitet | Ingen ny reproducerbar studie identifierad i denna cykel | Fortsätt forsknings- och metodkritikspår; skilj empiri från tolkning |
+| D Sofia/Serdica | Ingen ny arkeologisk primärpublikation eller nytt beslut identifierat | Följ NAIMH, Kulturministeriet, Sofia kommun och museer |
+| E Mineraler | Tidigare SGU-ansökningsposter kvar som ansökningar; ingen ny beviljad rättighet belagd i denna cykel | Bergsstatens beslut, överklaganden, mark- och miljöprövning |
+| F NVIDIA/AI-finansiering | SEC S-1/A-2 visar $26 md villkorad placering, $77 md undrawn facilities och $900.9 md aggregerade åtaganden | Följ IPO-stängning, drawdowns, SPV/leasing och elavtal |
+| G Libanon | Fem kristna gränsbyars gemensamma vädjan 9 nov | Originalbrev, kyrka i Qouzah, återkomst, vägar, sjukhus, rådsbeslut |
+| H Kyrkor över imperierna | Ingen ny myndighets-/restaureringshandling identifierad | Kyrkoarkiv och kulturarvsregister i Wiesbaden, Warszawa, Prag, Sofia, Varna |
+| I Fennoskandien | Ingen ny primär mark-/skogs-/hästhandling identifierad | Historiska kartor, skogsbruk, rennäring, lokala rättigheter |
+| J Storsjöodjuret | Ingen ny oberoende observation eller ny hydrologisk primärstudie identifierad | Folkloristik, äldre arkiv, sjögeologi, Frösöstenens runologiska källor |
+| K Cladonia/Storsjö | Kommunmöte genomfört 10 nov; SVT anger att skälet till köpet förklarades muntligt | Mötesanteckningar, originalbrev, fastighetsregister, samebyar, jaktavtal |
+| L Skaga kapell | Ingen ny restaurerings-/byggnadsarkeologisk handling identifierad | RAÄ, länsstyrelse, kommun- och kyrkoarkiv |
+| M Athos/böcker | Ingen ny offentlig katalogisering eller dokumenterad donation identifierad | Athoskataloger, proveniens, digitaliseringsprojekt |
+| N Skrift till Storebror | CISA-nomineringen aktualiserar tillsyn och offentlig cybersäkerhet | CISA:s mandat, upphandlingar, integritet, revisionsrättigheter |
+| O Hormuz/sjöfart | UKMTO #201; #199–200 tidsfördröjda; ADNOC bekräftar separat fartygsskada; Black Sea Hub €50m | Fartygs-ID, ansvar, försäkring, arbetsgrupp, basstruktur och EU-budget |
+| P USA:s kongress | PN1426 i senatens utskottslista; lagstiftningsfrågor kring AI/cyber | Hearing, ethics agreement, utskottsfrågor och lagstatus |
+| Q Gripen/säkerhet | Saab uppger egna AI-agenter flugna på Gripen E; SEK 2 md fregattorder | Oberoende testdata, kontraktsdetaljer, leverans- och exportstatus |
+| R Strategisk energi | Mittlagan syn i domstol 10 nov, mål M 2354-24 | Tillståndsdom, miljövillkor, dammsäkerhet, fiskvandring, bygglogistik |
+| S Urbergsskölden | Kopplingar till B (gigafabriker), E (mineral) och R (Mittlagan); ingen ny Cavecore-/Onkalo-tillståndshandling identifierad | Offentliga civilinfrastrukturdata, GTK/SGU, Posiva/STUK, energilagringsprojekt |
+
+## Redaktionella beslut / status
+
+- Denna journal har uppdaterats med primär- och oberoende källor där de varit tillgängliga.
+- Där primärportal inte gick att läsa (Contracts Finder) anges detta uttryckligen; indexerade data har inte upphöjts till direkt läst myndighetshandling.
+- Ingen ny artikel har publicerats. Inga draft-PR:er har mergats. Inga webbplatsdatabaser har skrivits till.
+- Nya substantiella artikelspår är A (CISA/Palantir och brittisk polis), B (EuroHPC deadline), F (Anthropic-finansiering), G (fem kristna gränsbyar), O (UKMTO/ADNOC och Black Sea Hub), Q (Saab AI), R (Mittlagan) samt K (kommunmötet i Storsjö).
