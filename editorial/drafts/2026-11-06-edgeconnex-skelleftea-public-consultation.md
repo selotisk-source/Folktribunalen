@@ -136,3 +136,19 @@ Källa: https://www.svt.se/nyheter/lokalt/vasterbotten/4000-personer-har-skrivit
 - Norran, 9 november 2026, “Edgeconnex har fått startbesked – för grundarbeten” (återgiven och daterad i DataCenterSweden): https://www.datacentersweden.se/sv/news/edgeconnex-skelleftea-partial-start-notice-2026-11/
 - Skellefteå kommun, kungörelse om lov för DC01 och DC02 på Ackumulatorn 3, dnr 2026-3140, 28 september 2026.
 - SVT Västerbotten, bygglov och projektfaser, 1 oktober 2026: https://www.svt.se/nyheter/lokalt/vasterbotten/edgeconnex-datacenter-narmar-sig-bygglov-godkant-av-skelleftea-kommun
+
+
+## Northvoltområdet: Lyten uppger att batteritillverkningen har återstartat
+
+**Publicerings-/händelsedatum:** Lyten-sidan saknar separat daterad nyhetsnotis; uppgiften kontrollerades 10 november 2026.
+
+**PARTSUPPGIFT – Lyten:** bolagets aktuella verksamhetssida beskriver Skellefteå som ett industriellt nav med 16 GWh planerad batteritillverkning och mer än 1 GW AI-datacenterkapacitet. Lyten skriver att batteritillverkningen har återstartat och att uppskalning pågår, samt att EdgeConneX har valts för datacenterutvecklingen och att fas 1 har startat.
+
+**Oberoende kontroll:** Norrans rapport om delstartbesked för grundläggning den 29 oktober ger stöd för att vissa mark-/grundarbeten för datacentret kan börja. Den bekräftar inte batteriproduktionens volym, kvalitet eller kommersiella leveranser.
+
+**Vad som saknas:** offentligt redovisade producerade celler, godkända kundkvalificeringar, leveransvolymer, kapacitetsutnyttjande, avtalad nätkapacitet per verksamhet och oberoende arbetsplats-/produktionsdata. Lyten-sidans uppgifter ska därför märkas **PARTSUPPGIFT**, inte som oberoende bekräftad fullskalig produktion.
+
+**Redaktionell konsekvens:** formuleringen “batteritillverkningen har återstartat” kan återges som Lytens egen uppgift. “Kommersiell serieproduktion” eller “leveranser till kund” ska inte anges som ett faktum utan ytterligare belägg.
+
+Källa:
+- Lyten Sweden – Operations (kontrollerad 10 november 2026): https://lyten.com/operations/lyten-sweden/
