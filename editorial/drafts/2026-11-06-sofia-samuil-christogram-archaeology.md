@@ -169,3 +169,25 @@ Det är möjligt att 1965 avser början på utgrävningskampanjen och 1969 det s
 - AP, ceremoni och överföring, 3 oktober 2026: https://apnews.com/article/5acf2293fc67336678ad04035a3f0698
 
 **Status:** Ingen ny arkeologisk utgrävning har rapporterats. Detta är en källkritisk precisering av den redan dokumenterade återföringen och gravtraditionen. Ingen DNA-bekräftelse eller fullständig publicerad antropologisk rapport har tillkommit i de kontrollerade källorna.
+
+
+## Källuppdatering 10 november 2026 – preliminär antropologi och gravkontext
+
+**Händelsedatum/publiceringsdatum:** Forskarpresskonferens i Sofia 8 oktober 2026; BTA publicerade redogörelsen samma dag kl. 13.19.
+
+**PRIMÄRKÄLLA VIA FORSKARNAS PRESSKONFERENS – BTA:s samtida protokoll:** NAIM-BAS och BAS Institute of Experimental Morphology, Pathology and Anthropology redovisade en preliminär antropologisk undersökning av skelettmaterial från fyra gravstrukturer i basilikan Sankt Achillios på en ö i Small Prespa Lake. De kvarlevor som tillskrivs Samuil låg i sarkofag Gamma. Forskarna uppskattade individens ålder till cirka 60–70 år och längden till cirka 173 cm; de beskrev degenerativa förändringar i ryggrad och leder samt en allvarlig skada på vänster underarm med pseudartros.
+
+Undersökningen omfattade även material från övriga gravstrukturer. I sarkofag Delta identifierades bland annat fragment av minst åtta små barn och kvarlevor som forskarna vill pröva mot hypotesen att de kan tillhöra Gavril Radomir. Detta är preliminära antropologiska tolkningar, inte genetiskt fastställda identiteter.
+
+**PRIMÄRKÄLLA VIA FORSKARNAS UTTALANDEN:** forskarna planerar radiokoldatering, forntida DNA, stabila isotoper och ny rekonstruktion av huvudet. BTA rapporterar att små benprover redan skickats till laboratorier i Mainz och Bonn. Forskarna sade att det inte finns planer på att öppna den nya sarkofagen i Sofia och ta ut benen därifrån. De betonade också att Samuil-attributionen bygger på en samlad historisk, arkeologisk och antropologisk bedömning; DNA ska komplettera, inte ensamt avgöra, identifikationen. Ett optimistiskt tidsperspektiv för publicerade resultat angavs till två–tre år.
+
+**OBEROENDE BEKRÄFTELSE:** bTV återgav samma presskonferens och bekräftade att DNA- och isotopanalyser återstår. Det är en separat redaktionell återgivning av samma forskarbriefing, inte en oberoende laboratorieanalys.
+
+**Viktig platsåtskillnad:** den ursprungliga gravkontexten är basilikan Sankt Achillios i Small Prespa, Grekland. Kvarlevorna fördes till Sofia den 3 oktober och placerades i en ny, särskilt tillverkad marmorsarkofag i Sankt Sofia-kyrkans södra transept. Den arkeologiska nivån under Sankt Sofia i Sofia är en separat utgrävningsmiljö; den får inte beskrivas som Samuils ursprungliga grav.
+
+**Källor:**
+- BTA, 8 oktober 2026: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+- bTV, 8 oktober 2026: https://btvnovinite.bg/bulgaria/predvaritelnite-izsledvanija-na-kostite-na-car-samuil-pokazvat-tezhki-zaboljavanija-i-travma-na-ljavata-mu-raka.html
+- BTA, sarcofagens placering i Sankt Sofia, 2 oktober 2026: https://www.bta.bg/en/news/culture/1216728-sarcophagus-for-tsar-samuel-s-remains-now-stands-ready-in-st-sophia-church
+
+**Öppet:** fullständig antropologisk rapport och mätprotokoll; fältdagbok och fyndkatalog från Moutsopoulos; laboratoriernas provkedja och resultat; radiokoldatering, DNA och isotoper; fullständig inventarielista över de 48 föremål som överfördes till Grekland.
