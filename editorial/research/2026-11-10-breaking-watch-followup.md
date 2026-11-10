@@ -506,3 +506,8 @@ Primärkälla: https://firstthings.com/the-pope-and-the-antichrist/
 - **Källgräns:** polisens uppskattning gäller Helsingfors. Deltagaruppgifterna för övriga städer är arrangörsuppgifter. Protesterna visar offentlig mobilisering, inte att alla projekt är olagliga eller att samtliga kommuner motsätter sig datacenter.
 
 Källa: https://yle.fi/a/74-20255931
+
+
+### Artikelkö – 10 november 2026, komplettering
+- **PR #38 – C: Synkronicitet i algoritmernas spegel – mellan mening och mekanism.** Nytt fullständigt arbetsutkast med källstatus, två forskningsbidrag från 2026, empirisk forskning om rekommendationssystem, testbara hypoteser och öppna metodfrågor. PR är öppen som draft; ingen merge eller publicering.
+- Källkommentarer har lagts till i befintliga utkast PR #4, #7, #8, #22, #28 och #31. PR #31 har även fått Yles rapport om protesterna i sex finländska städer den 9 november.
