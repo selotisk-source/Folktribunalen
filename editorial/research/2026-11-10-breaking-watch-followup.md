@@ -178,3 +178,172 @@ Den officiella Senate LIS-sidan för Vote 257 visar det ursprungliga formella m�
 
 ### Redaktionell status
 PR #31 (Norge), PR #30 (Khor Mor), PR #3 (Hormuz) och PR #16 (täckningsjournal) har fått uppdaterade granskningsnoteringar. PR #35 (Zaporizjzja) innehåller redan Energoatoms primäruppgifter och Reuters/AP-korskontroll. Inga nya artikelärenden har startats, inga utkast har mergats och ingen ny publicering har gjorts.
+
+
+## Kontrollrunda 10 november 2026 – 12.15 EET
+
+**Omfattning:** A–S, samtliga 19 huvudspår kontrollerade. Detta tillägg uppdaterar täckningsjournalen; inga artikelgrenar utanför PR #16 har ändrats.
+
+### A – Palantir, offentlig makt och NHS
+
+- **PRIMÄRKÄLLA – SEC Form 10-Q, kvartal till 30 september 2026:** Palantir redovisar ett tioårigt molntjänståtagande med en icke namngiven tredjepartsleverantör, minst 5,6 miljarder USD över avtalsperioden till februari 2036. RPO anges till 4,9 miljarder USD; cirka 44 procent väntas redovisas inom tolv månader. 5,6 miljarder är ett flerårigt minimiinköpsåtagande, inte ett lån eller en omedelbar skuldpost.
+- **OBEROENDE RAPPORTERING/FOI – Guardian, 9 november:** WhatsApp-meddelanden från juli 2025–mars 2026 mellan Palantirs brittiska ledning och dåvarande hälsoministern Zubir Ahmed visar lobbying för att utvidga Foundry till primärvårdsdata. Materialet uppges ha lämnats ut efter FOI-begäran från Foxglove. Det visar lobbying, inte att GP-data redan har integrerats.
+- **PRIMÄRKÄLLA – parlamentariskt svar 2023:** GP-data uteslöts uttryckligen ur den dåvarande nationella FDP-ramen.
+- **PRIMÄRKÄLLA – Health and Social Care Committee, muntlig bevisning 4 november:** NHS-kontraktet löper till 31 mars 2027. Beslutspunkten är förlängning eller avtalsslut; “break clause i februari” ska inte användas som om den vore bekräftad. NHS uppger att exitplan finns. En ledamots uppgift om 29 trusts som inte använder eller inte har tagit i bruk plattformen kräver separat kontroll och är inte en fastställd nationell revision.
+- **Öppet:** fullständiga FOI-handlingar, kontraktsbilagor, faktisk användning per trust, exitkostnader och data-/applikationsportabilitet.
+- **Befintligt granskningsärende:** PR #33. Ingen ny artikel startad.
+
+### B – Europas AI-datacenter och digital industri
+
+- **PRIMÄRKÄLLA – Norge, 9 november:** Statnett pausar nya reservationer av nätkapacitet till datacenter och vissa nya funktionsgodkännanden till senast 1 augusti 2027. Statnett anger 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i ytterligare förfrågningar. Dessa är skilda projektstadier, inte driftsatt effekt. Regeringen aviserar samma dag en koncessionsordning för befintliga och framtida datacenter; detta är ännu inte antagen lag.
+- **PRIMÄRKÄLLA – Finland, 22 oktober; polisbesked 29 oktober:** Lupa- ja valvontavirasto beordrade Tuike Finland att avbryta markarbeten vid datacenterprojektet i Muhos och Kajaani i väntan på miljökonsekvensbedömning. Myndigheten begärde separat en vattenhanteringsplan för Muhos. Polisen öppnade därefter en förundersökning om misstänkt miljöförseelse i Muhos efter myndighetens begäran. Det är en utredning, inte en fällande dom; polisens besked avgränsar ärendet till Muhos, inte Kajaani.
+- **OBEROENDE RAPPORTERING – Skellefteå, händelse 29 oktober, publicerat 9 november:** Norran rapporterar ett delstartbesked för EdgeConneX som endast gäller grundläggning. Det är inte fullständigt startbesked, inte bevis på driftsatt IT-last och inte belägg för att upp till 1 GW är avtalad nätkapacitet. Originalbeslutet och dess villkor återstår att hämta.
+- **PRIMÄRKÄLLA – EU:** ansökningsomgången för AI-gigafabriker stänger 12 november. Kommissionens ram omfattar upp till sju anläggningar; finansieringsramen är en mobiliseringsambition, inte redan beviljade eller utbetalda medel.
+- **Öppet:** finsk vattenhanteringsplan efter tidsfristen 5 november, kommunala bygglovs- och startbesked, faktisk nätkapacitet, vattenbehov och kundavtal.
+- **Befintliga granskningsärenden:** PR #5 EdgeConneX och PR #31 Norge. Inga nya artikelstarter.
+
+### C – Synkronicitetsprotokollet
+
+- **PRIMÄRKÄLLA – vetenskaplig publikation, 19 oktober 2026:** översiktsartikeln “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning” sammanför neurodynamik, flow och upplevelsen av meningsfulla sammanträffanden.
+- **Källstatus:** review/teoretisk syntes med testbara förslag, inte ett nytt experiment som visar att synkronicitet har en extern eller acausal mekanism. Den får användas för att formulera hypoteser och mätbara prediktioner, inte som bevis för kausal påverkan.
+- **Öppet:** förregistrerade studier, kontrollgrupper, replikation och alternativa förklaringar såsom selektiv uppmärksamhet och rekommendationssystem.
+
+### D – Sofia, Sankt Sofia och Samuil
+
+- **Händelsedatum:** 3 oktober 2026; överlämningsavtal 29 september.
+- **PRIMÄRKÄLLA/OBEROENDE BEKRÄFTELSE:** kvarlevor som officiellt tillskrivs Tsar Samuil överfördes från Grekland till Sofia och placerades i en ny marmorsarkofag i Sankt Sofia-kyrkan. AP rapporterade ceremonin. Fyndplatsen är basilikan Sankt Achillios vid Lilla Prespasjön i dagens Grekland; Sankt Sofia i Sofia är den nya minnes-/förvaringsplatsen, inte fyndplatsen.
+- **Symbolkontroll:** Christogrammet på den nya sarkofagen är en modern utformningsdetalj. Det är inte ett arkeologiskt fynd, ett historiskt sigill eller belägg för Samuils personliga monogram.
+- **Öppet:** originalutgrävningsrapport, fältdagbok, fyndkatalog och offentlig antropologisk/DNA-dokumentation. Ingen ny arkeologisk upptäckt identifierad i denna kontroll.
+- **Befintligt granskningsärende:** PR #8.
+
+### E – Strategiska råvaror och mineraler
+
+- **PRIMÄRKÄLLA – EU-kommissionen, 9 oktober:** 46 nya strategiska projekt har valts i 16 medlemsstater: åtta utvinning, elva förädling, nitton återvinning och åtta integrerade projekt. I Norden ingår fem finländska projekt – CoNiKo, Hautalampi, Arctial, Sokli och Suhanko – samt Viscaria i Sverige. Bulgarien har Aurubis Pirdop Tankhouse Expansion.
+- **Avgränsning:** CRMA-status är inte gruvtillstånd, finansieringsgaranti, byggstart eller kommersiell produktion.
+- **PRIMÄRKÄLLA – SGU:s öppna tillståndsdata:** Pallas Metals undersökningstillstånd Storåsen nr 400, cirka 1 031 hektar, löpte ut 4 november 2026. Det är ett undersökningstillstånd, inte en bearbetningskoncession eller gruva. Andra tillstånd i området måste hållas som separata polygoner och rättigheter.
+- **Öppet:** projektens finansiering, miljöprövning, offtake, resursklass och tillståndsstatus. Ingen geografisk överlappning mellan Pallas tillstånd och Cladonias fastigheter är belagd.
+- **Befintliga granskningsärenden:** PR #34 Urbergsskölden och PR #37 Rottensjön.
+
+### F – NVIDIA, AI-finansiering och säkerheter
+
+- **PRIMÄRKÄLLA – SpaceX 8-K, 26 oktober:** SpaceX undertecknade en bindande åtagandehandling om att ingå ett master finance lease med en Apollo-förvaltad part för GPU-poddar och tillhörande utrustning. Förväntade sammanlagda kapitalbetalningar anges till cirka 40 miljarder USD. Leasingperioder börjar vid leverans, med första leveranser planerade under första halvåret 2027; transaktionen är villkorad av slutligt genomförande. Det är ett leasingåtagande, inte 40 miljarder USD redan utbetalt kontant.
+- **PRIMÄRKÄLLA + oberoende rapportering – Broadcom/Anthropic, 26 oktober:** ett SPV-upplägg om cirka 63 miljarder USD ska köpa Broadcom-XPU:er och nätverksutrustning och leasa dem till Anthropic. Bank of America, Citi och Morgan Stanley anges i första-lien-strukturen; Blackstone i andra-lien-strukturen; Broadcom ger restvärdesstöd enligt parternas uppgifter. Leveranser är planerade från 2027. Finansieringsramen ska inte beskrivas som fullt utbetald eller som en omedelbar skuld på 63 miljarder USD.
+- **Viktig skillnad:** SpaceX-upplägget avser GPU-poddar, men 8-K anger inte fullständig leverantörs-/komponentlista. Broadcom/Anthropic-affären avser Broadcom-XPU:er, inte NVIDIA-GPU:er. De får inte slås ihop till en NVIDIA-affär.
+- **Öppet:** lease schedules, faktisk drawdown, räntor, säkerheter, garantier, restvärdesrisk, redovisningsbehandling och beläggning. Reuters uppgift om att delar av SpaceX-finansieringen marknadsförs vidare till investerare är sekundäruppgift som inte har kunnat verifieras separat.
+- **Nästa kontrollpunkt:** NVIDIA:s Q3 FY2027-resultat väntas 17 november 2026.
+- **Befintliga granskningsärenden:** PR #6 och PR #14.
+
+### G – Libanons kristna historia och regional geopolitik
+
+- **Händelsedatum:** Fader Samir Mikhael Daou försvann 28 oktober; kroppen hittades 29 oktober i Ain Jrain, Jbeil-distriktet. **Publiceringsdatum:** L’Orient Today 29–30 oktober; maronitiska patriarkatets officiella uttalande 30 oktober; Agenzia Fides 4 november.
+- **PRIMÄRKÄLLA – maronitiska patriarkatet:** patriark Bechara al-Rahi fördömde mordet och krävde att säkerhets- och rättsmyndigheterna klarlägger omständigheterna och ställer ansvariga inför rätta.
+- **OBEROENDE BEKRÄFTELSE:** L’Orient Today återger att Internal Security Forces meddelade att en misstänkt gripits den 30 oktober och att utredningen fortsätter under behörig domstol. ISF:s offentliga besked angav inte den misstänktes identitet eller motiv.
+- **PARTSUPPGIFT/OBEKRÄFTAT:** lokala medier och Fides identifierar den misstänkte som en syrisk säsongsarbetare och återger uppgifter om en påstådd bekännelse. Inget offentliggjort förhörsprotokoll, forensiskt utlåtande eller domstolsavgörande har hämtats. Motivet är inte fastställt; inget belägg visar att prästen mördades på grund av sin religiösa roll.
+- **Redaktionell avgränsning:** undvik kollektiv skuldbeläggning av syrier eller påstående om religiöst hat utan bevis. Håll brottsutredningen åtskild från den bredare dokumentationen av kristna bergsförsamlingars ekonomiska villkor, utvandring och regionala utsatthet.
+- **Befintligt granskningsärende:** PR #36, “Mordet på Fader Samir Daou – Jbeil, rättsprocessen och bergsförsamlingarnas villkor”. Ingen ny artikel startad och ingen publicering.
+
+### H – Kyrkor som överlevt imperierna
+
+- Wiesbaden, Warszawa, Sofia och Varna: ingen ny betydande restaurerings-, ägande- eller myndighetsakt identifierad i denna kontroll.
+- Prag: träkyrkan Sankt Mikael på Petřín anges fortfarande som stängd i stadens offentliga besöksinformation, trots tidigare prognos om färdigställande under tredje kvartalet 2026. Ett nytt öppningsdatum har inte identifierats. Detta är en statuslucka, inte i sig bevis för ett formellt beslutat förseningstillstånd.
+
+### I – Fennoskandien, urberg, skog och hästkultur
+
+- Ingen ny offentlig myndighetsakt om hästavel, fäbodar, rennäring eller skogsbruk över notiströskeln identifierad.
+- Cladonia/SCA-affären är en separat aktuell mark- och nyttjanderättsfråga som korskopplas hit, men den får inte ersätta den bredare historiska analysen av hästkultur och skogsbruk.
+
+### J – Storsjöodjuret
+
+- Ingen ny primär observation, biologisk evidens eller hydrologisk mätserie identifierad.
+- Peter Thiels uttalanden om Antikrist och teknik ska fortsatt behandlas i full citatkontext. Symbolisk jämförelse med Uppenbarelsebokens odjur är en separat teologisk analys och utgör inte belägg för ett biologiskt väsen.
+
+### K – Cladonia Skog AB / Storsjö kapell / markförvärv
+
+- **Tidslinje:** ISP:s beslut 27 augusti 2026, offentliggjort efter utlämnande/överklagande; Länsstyrelsens förvärvstillstånd 9 september; JO-anmälan uppges ha lämnats in 21 oktober; jaktarrenden och lokala rättigheter har därefter blivit en offentlig konflikt.
+- **OBEROENDE RAPPORTERING:** SVT rapporterar att ISP inte vidtog åtgärd efter sin prövning och att Länsstyrelsen beviljade förvärvstillstånd. Detta är inte ett allmänt godkännande av varje framtida markanvändning.
+- **NY SOCIAL UTVECKLING:** SVT rapporterade 7–9 november om jaktlag som förlorat eller riskerar att förlora tidigare nyttjanderätt och om en namninsamling som enligt arrangören passerat 30 000 underskrifter. Det är en kampanjsiffra, inte en opinionsmätning.
+- **PARTSUPPGIFT:** Cladonia har uppgett att ingen avverkning planeras under vintern, att en ny skogsbruksplan ska tas fram och att contortatall successivt ska ersättas. Dessa löften måste jämföras med skogsbruksplan, avverkningsanmälningar och faktiska avtal.
+- **SEKUNDÄRRAPPORTERING:** Fastighetsvärlden, med hänvisning till Östersunds-Posten, beskriver två ytterligare fastigheter om cirka 300 hektar och cirka 5 miljoner kronor som en del av samma affärshelhet. Detta är inte en separat senare affär som kan läggas ovanpå den rapporterade totalsumman utan kontroll. Lagfarter, köpehandlingar och exakta fastighetsgränser har inte hämtats direkt från Lantmäteriet.
+- **Öppet:** Lantmäteriets lagfartsakter, fastighetsbeteckningar, köpehandlingar, jaktarrenden, samfälligheter, servitut, renskötsel, Fornsök, skogsbruksplan och JO:s diarienummer/handläggningsstatus. Ingen belagd koppling till Palantirs myndighetskontrakt eller till någon datacenterplan.
+- **Befintligt granskningsärende:** PR #32. Ingen ny artikel startad.
+
+### L – Skaga kapell
+
+- **Äldre källkritisk precisering:** den lokala traditionen placerar ursprunget på 1100-talet/1130-talet. En dendrokronologisk undersökning av en väggstock redovisar yttersta mätta årsring 1210, men utan bevarad splintved/barkkant. Det daterar provstycket, inte med säkerhet den första kyrkobyggnaden eller hela kapellet.
+- Kapellet brann 2000 och återuppbyggdes 2001. Ingen ny restaurerings- eller ägarhandling identifierad i denna kontroll.
+- Nästa kontroll: originalrapportens provkontext, kyrkoarkiv, brandutredning och inventarieförteckning.
+
+### M – Böckernas väg till Athos
+
+- Inget nytt offentligt katalogbesked, proveniensdokument eller donationsbeslut identifierat.
+- Det befintliga utkastet om digitalisering av cirka 30 000 osmanska dokument på Athos är ett separat redan öppet ärende; ingen ny katalogpost eller leveransuppgift har tillkommit i denna kontroll.
+
+### N – Från skrift till Storebror
+
+- **PRIMÄRKÄLLA – EU AI Act-tidslinje:** tillämpningen av vissa högriskkrav för system inom bland annat biometrisk identifiering, migration och brottsbekämpning har skjutits till 2 december 2027 genom 2026 års ändringspaket. Detta skjuter inte upp alla förbud eller samtliga krav i AI-förordningen.
+- **PRIMÄRKÄLLA – eIDAS 2.0:** medlemsstaterna ska tillhandahålla europeisk digital identitetsplånbok senast 24 december 2026. Euronews rapporterade 16 september att endast tre medlemsstater då hade levererat en wallet; Bulgarien arbetade fortfarande med nationell lagstiftning. Den statusuppgiften är daterad 16 september och har inte uppdaterats med en ny nationell kontroll i denna cykel.
+- **Öppet:** nationell lagstiftning, faktisk driftsättning, frivillighet, biometrisk verifiering, dataminimering, tillsyn och rätt till överklagande.
+
+### O – Hormuz, sjöfart och energiflöden
+
+- **IMO, publicerat 6 november:** organisationen uppgav minst 130 verifierade attacker mot kommersiella fartyg i den bredare regionen sedan konfliktens början och 25 omkomna sjömän. 130 gäller regionen, inte enbart Hormuz.
+- **OBEROENDE RAPPORTERING – Reuters, publicerat 10 november:** 31 lastade LNG-fartyg lämnade Hormuz i oktober, jämfört med 23 i september; Kpler redovisar 42 LNG-lastningar i oktober mot 27 i september. Detta visar partiell återhämtning, inte normaliserad eller riskfri trafik.
+- **Öppet:** UKMTO:s fartygsvisa uppföljningar, IMO-incidenter, försäkringspremier, AIS-kvalitet, flaggstat, ägare och last.
+
+### P – USA:s kongress och institutionell makt
+
+- **Val, 3–4 november; publicerad valbedömning 4–10 november:** AP har kallat demokratiska segrar som ger partiet kontroll över både representanthuset och senaten. Det är AP:s valbedömning; slutlig delstatscertifiering och den nya kongressens tillträde är separata steg. Den nya majoriteten tar över i januari 2027; den sittande kongressen behåller sina befogenheter fram till dess.
+- **PRIMÄRKÄLLA – Senate LIS, 9 november:** Vote 257 var 73–25 för cloture på motionen att gå vidare till H.R.2347. Senatens ledning beskriver H.R.2347 som lagstiftningsfordon för BAAJA:s permitting-reformtext. Det är ett procedursteg, inte slutlig passage av BAAJA.
+- **Öppet:** slutlig text, ändringsförslag, slutomröstning, House action, certifiering och tillträdande utskottsordföranden.
+- **Befintligt granskningsärende:** PR #10.
+
+### Q – Svenska Gripen och Europas säkerhet
+
+- **Händelse/publicering:** Saab/FMV-order 15 oktober 2026.
+- **PRIMÄRKÄLLA:** Saab har fått en order från FMV värd cirka 1,3 miljarder kronor för utveckling/anskaffning av ny flygkontrolldator för Gripen E; leveranser planeras från 2030. Detta är ett system-/utvecklingskontrakt, inte en ny flygplansbeställning eller bekräftelse på operativ förmåga.
+- Inga nya offentliga exportbeslut eller leveransbesked identifierade i denna kontroll.
+
+### R – Strategisk energi och större bolag
+
+- **PRIMÄRKÄLLA – Finland, 22 oktober 2026:** regeringen beviljade Posiva driftlicens för slutförvarsanläggningen Onkalo till 2070. STUK:s inspektion och driftsättningskontroll måste vara klar innan använt kärnbränsle får tas emot. Licensen är en regulatorisk milstolpe, inte bevis på att mottagning har börjat.
+- **PARTSUPPGIFT – Lyten:** bolaget uppger att batteritillverkningen vid tidigare Northvolt Ett har återstartat och att uppskalning pågår. Oberoende verifierad volymproduktion, kundleveranser och utfall mot planerade kommersiella cellleveranser har inte identifierats.
+- **OBEROENDE RAPPORTERING – EdgeConneX:** Norran rapporterade ett delstartbesked för grundläggning på Skellefteåområdet 29 oktober, publicerat 9 november.
+- **Öppet:** STUK:s slutliga inspektion, faktisk produktionsvolym, cellkvalitet, leveranser, eluttag, vatten och datacentrets nätavtal.
+
+### S – Fennoskandiska urbergsskölden / Urbergsskölden
+
+- CRMA:s 46 nya projekt, fem finländska projekt, svenska Viscaria och bulgariska Aurubis Pirdop har lagts in som strategiska projekt, inte som bevis på finansierad produktion.
+- Onkalo har driftlicens men väntar på STUK:s driftsättningskontroll; det är ett djupgeologiskt slutförvar för använt kärnbränsle, inte energilager.
+- Civil geospatial analys begränsas till offentliga mineral-, miljö- och kulturmiljödata.
+
+## Kort täckningsmatris – kontroll 12.15 EET
+
+| Spår | Nya dokument/uppgifter | Status | Nästa kontrollpunkt |
+|---|---|---|---|
+| A | SEC 10-Q, 5,6 md USD molnåtagande; Guardian/FOI; NHS-hörande 4 nov | Aktivt | NHS-avtalsbilagor, GP-data, mars 2027 |
+| B | Statnett och norska regeringen 9 nov; LVV/Polisen Finland; EdgeConneX delstart; EU AI-gigafabrikskall | Aktivt | Vattenplan Muhos, fullständiga startbesked, 12 nov EU-deadline |
+| C | Teoretisk review om synkronicitet och neurodynamik | Bevakas | Replikation, förregistrering, kontrollgrupper |
+| D | Samuils återföring 3 okt; Christogram på modern sarkofag | Aktivt | Fältdagbok, fyndkatalog, DNA/antropologi |
+| E | 46 CRMA-projekt; Pallas Storåsen nr 400 utgånget 4 nov | Aktivt | Finansiering, miljöprövning, aktiva tillstånd |
+| F | SpaceX 40 md USD finance-lease-åtagande; Anthropic/Broadcom 63 md USD SPV | Aktivt | Drawdown, lease schedules, säkerheter, restvärde |
+| G | Samir Daou död 29 okt; ISF-gripande 30 okt; patriarkens uttalande | Aktivt | Domstol, motiv, forensiskt underlag |
+| H | Ingen ny restaureringsakt; Petřín öppningsdatum oklart | Löpande | Wiesbaden/Warszawa/Prag/Sofia/Varna arkiv |
+| I | Ingen ny häst-/skogsbruksakt; Cladonia nyttjanderättsfråga korskopplad | Löpande | Skogsplan, samebyar, hästhistoriska arkiv |
+| J | Ingen ny observation eller biologisk evidens | Löpande | Folklorearkiv, hydrologi, Thiel-citat |
+| K | SVT: ISP/Länsstyrelsen; jaktarrenden och 30 000 namn enligt arrangör; JO-anmälan uppges | Aktivt | Lagfarter, köpehandlingar, JO-diarienummer, arrenden |
+| L | Dendroprov med yttersta ring 1210; 2000 brand, 2001 återuppbyggnad | Bevakas | Originalprovkontext, kyrkoarkiv, inventarier |
+| M | Inget nytt offentligt katalog-/donationsbesked | Löpande | Athoskataloger, proveniens, digitalisering |
+| N | AI Act-högriskkrav 2 dec 2027; EUDI-plånbok 24 dec 2026 | Aktivt | Nationell leverans, lagstiftning, tillsyn |
+| O | IMO: 130 regionala attacker/25 sjömän; 31 LNG-fartyg i oktober | Aktivt | UKMTO, IMO, försäkring, AIS och last |
+| P | Demokratiskt kontrollskifte enligt AP; Senate Vote 257 73–25 procedural | Aktivt | Certifiering, sluttext, ny kongress januari 2027 |
+| Q | Saab/FMV 1,3 md SEK flygkontrolldatororder 15 okt | Aktivt | Leveransplan, FMV-krav, exportbeslut |
+| R | Posiva driftlicens 22 okt; Lyten uppger återstart; EdgeConneX grundarbeten | Aktivt | STUK, produktionsvolym, nätuttag |
+| S | CRMA-projekt och Onkalo-licens | Aktivt | Tillstånd, finansiering, civil miljö-/geologidata |
+
+## Redaktionell arbetsstatus
+
+- PR #16:s täckningsjournal uppdateras med denna kontrollrunda.
+- Befintliga artikelärenden som får nya researchnoteringar: PR #3 Hormuz, #5 EdgeConneX, #8 Samuil, #10 USA:s kongress, #14 AI-finansiering/NVIDIA, #31 Norge, #32 Cladonia, #33 Palantir/NHS, #34 Urbergsskölden, #36 Samir Daou och #37 Rottensjön.
+- Inga nya artikelärenden startas; ingen befintlig artikel-PR ändras i denna kontrollrunda. Detta följer den dokumenterade ordningen att Hormuz är den aktiva chefredaktörsgranskningen.
+- PR #16 förblir draft och inte LIVE. Ingen merge eller publicering sker här.
+- Renderstatus kan inte omkontrolleras i denna körning eftersom Render-anslutningen kräver ett valt workspace och inget workspace är valt. Senast dokumenterade status i masterplanen: Postgres folktribunalen-db tillgänglig men tom IP-allowlist; DATABASE_URL-mappningen har inte kunnat läsas. Aktuell GitHub main är f265e51d9866604610ce207bd104d05405b8fd5b (9 november 20.53 UTC); aktuell Render-deployment måste kontrolleras separat när Render-workspace är valt.
