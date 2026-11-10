@@ -148,3 +148,24 @@ BTA:s fullständiga rapport från presskonferensen den 8 oktober innehåller en 
 **Redaktionell följd:** texten får inte slå ihop Samuils skelett, Delta-sarkofagens barnkvarlevor och Gavril Radomirs attribution till ett enda fynd. DNA-resultat får inte föregripas.
 
 Källa: BTA, 8 oktober 2026, “Preliminary Examination of Tsar Samuel's Remains Reveals Chronic Illnesses, Severe Arm Injury”: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+
+
+## Källuppdatering 10 november: 1965 och 1969 förekommer i skilda rapporteringskedjor
+
+**Händelse som granskas:** utgrävningarna och upptäckten av kvarlevorna vid basilikan Sankt Achillios på ön Agios Achillios i Lilla Prespasjön, dagens Grekland.
+
+- **1965 – OBEROENDE RAPPORTERING:** Reuters rapporterade den 29 september 2026 att kvarlevorna upptäcktes 1965 under Nikolaos Moutsopoulos utgrävningar. Samma årtal återges av eKathimerini med hänvisning till den grekiska kulturministerns underlag.
+- **1969 – OFFICIELL BULGARISK UPPGIFT / PRIMÄRKÄLLA VIA REGERINGSUTTALANDE:** Bulgariens premiärminister och BTA:s rapportering den 29 september–3 oktober anger 1969 som året då Moutsopoulos upptäckte kvarlevorna. BTA:s handover-protokoll den 3 oktober beskriver kvarlevorna som identifierade som Samuils.
+- **Cirka 60 år – OBEROENDE BEKRÄFTELSE:** AP:s rapport från 3 oktober använder den ungefärliga tidsangivelsen “about 60 years ago” och avgör inte årtalsfrågan.
+
+Det är möjligt att 1965 avser början på utgrävningskampanjen och 1969 det specifika fyndet eller dess identifiering. Den förklaringen är dock **HYPOTES**, inte fastställd dokumentation. Den kan bara avgöras genom Moutsopoulos fältdagbok, utgrävningsrapporter, fyndkatalog och grekiska musei-/kulturministeriets ursprungliga dokument.
+
+**Redaktionell formulering tills primärmaterialet hämtats:** “Kvarlevorna påträffades under Moutsopoulos utgrävningar vid Sankt Achillios på 1960-talet; offentliga källor anger olika årtal, 1965 respektive 1969.” Ange inte ett enda år som slutgiltigt.
+
+**Källor:**
+- Reuters, 29 september 2026: https://www.reuters.com/world/europe/greece-agrees-return-remains-medieval-tsar-bulgaria-2026-09-29/
+- BTA, protokoll om överlämningen, 3 oktober 2026: https://www.bta.bg/en/news/balkans/1217016-bulgaria-greece-sign-protocols-on-tsar-sameul-s-remains-transfer
+- BTA, premiärministerns tillkännagivande och redogörelse för 1969, 29 september 2026: https://www.bta.bg/en/news/bulgaria/1213569-greece-to-return-remains-of-tsar-samuel-to-bulgaria
+- AP, ceremoni och överföring, 3 oktober 2026: https://apnews.com/article/5acf2293fc67336678ad04035a3f0698
+
+**Status:** Ingen ny arkeologisk utgrävning har rapporterats. Detta är en källkritisk precisering av den redan dokumenterade återföringen och gravtraditionen. Ingen DNA-bekräftelse eller fullständig publicerad antropologisk rapport har tillkommit i de kontrollerade källorna.
