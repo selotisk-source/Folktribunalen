@@ -428,7 +428,7 @@ Detta ska inte beskrivas som att NVIDIA redan har betalat 36 miljarder dollar el
 
 ## Jämförelseuppdatering 10 november 2026 – AMD:s kundwarranter
 
-**Händelsedatum:** kvartalet avslutades 26 september 2026. **Dokumentdatum:** AMD:s Form 10-Q lämnades in 28 oktober 2026; Q3-resultaten presenterades 3 november.
+**Händelsedatum:** kvartalet avslutades 26 september 2026. **Dokumentdatum:** AMD:s Form 10-Q för kvartalet som slutade 26 september 2026 är undertecknad 3 november 2026.
 
 **PRIMÄRKÄLLA – AMD Form 10-Q, Note 14:** AMD redovisar två kundrelaterade warrantavtal. Vardera warranten omfattar upp till 160 miljoner AMD-aktier med lösenpris 0,01 USD per aktie. Intjäningen är villkorad av kundernas kvalificerade inköp och särskilda aktiekurs-/prestationsmål. Ingen av warrantserierna var intjänad eller möjlig att utnyttja per 26 september 2026.
 
@@ -441,3 +441,24 @@ AMD redovisar cirka **1,2 miljarder USD** i warrantrelaterad omvärdering som ic
 **PRIMÄRKÄLLA:** AMD Form 10-Q, kvartal avslutat 26 september 2026, Note 14: https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/amd-20260926.htm
 
 **Öppet:** hämta warrantavtalens fullständiga bilagor; fastställ kundernas identitet och fördelning; följ när prestationsvillkor uppfylls, när warrants intjänas och hur framtida intäktsreduktion redovisas.
+
+
+## Fördjupning 10 november 2026 – AMD:s bredare åtaganden och redovisningsgränser
+
+**Dokumentdatum:** AMD:s Form 10-Q för kvartalet som slutade 26 september 2026 är undertecknad 3 november 2026. Formuleringen i föregående källnot om 28 oktober som inlämningsdatum korrigeras; den säkra dokumentreferensen är SEC:s 10-Q, undertecknad 3 november.
+
+**PRIMÄRKÄLLA – AMD Form 10-Q, Management’s Discussion and Analysis samt Notes 8, 10, 11 och 14:** utöver kundwarranterna redovisar AMD per 26 september:
+
+- **48,8 miljarder USD** i ovillkorliga åtaganden kopplade till den egna verksamheten, huvudsakligen inköp av wafers, substrat, minne, komponenter och tillverkningstjänster. Av detta väntas 33,4 miljarder betalas under återstoden av räkenskapsåret 2026 och 2027.
+- **6,2 miljarder USD** i cloud-compute-kapacitetsåtaganden kopplade till utveckling av AI-infrastruktur och tillgång till tekniken. AMD beskriver dem som maximala belopp som minskar när tredje part betalar för kapaciteten.
+- **13,3 miljarder USD** i framtida betalningar under datacenterleasingavtal som ännu inte börjat löpa; AMD säger att dessa ska överlåtas eller hyras ut vidare till kommersiella partner.
+- **8,5 miljarder USD** som maximal potentiell framtida betalning under garantier för vissa kommersiella partners leasing- och skuldförpliktelser vid deras fallissemang. AMD uppger att ingen partner var i dröjsmål och att inga garantibelopp hade betalats per 26 september.
+- **5,1 miljarder USD** i investeringsåtaganden, villkorade och planerade att finansieras fram till räkenskapsåret 2028. AMD uppger också att bolaget investerade **1,0 miljard USD** i en ej namngiven publik bolagsemittent i oktober 2026.
+
+Dessa poster får inte adderas och rubriceras som “skuld”. De har olika redovisningsstatus: inköpsåtaganden, ännu ej påbörjade leasingbetalningar, maximala garantiexponeringar, kapacitetsåtaganden och villkorade investeringsåtaganden. De framtida garantierna är villkorade av motpartens fallissemang; AMD redovisar ingen sådan betalning vid rapportdatumet.
+
+**Analytisk betydelse:** AMD:s rapport visar hur chipbolaget inte bara säljer acceleratorer utan också tar på sig risk i den omgivande infrastrukturen: reserverad beräkningskapacitet, leasing och kreditstöd. Det är en viktig jämförelse med NVIDIAs rapporterade SB Energy-garanti och leverans-/kapacitetsåtaganden. Frågan är vem som i slutänden bär restvärdes-, beläggnings- och motpartsrisk om AI-kunderna inte fyller den kapacitet som byggs.
+
+**PRIMÄRKÄLLA:** AMD Form 10-Q, kvartal avslutat 26 september 2026, undertecknad 3 november 2026: https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/amd-20260926.htm
+
+**Öppet:** identifiera den publika emittent som fick AMD:s investering på 1 miljard USD; granska leasingavtalens överlåtelsevillkor och garantiernas exakta motparter; följ faktisk driftsättning, tredje parts betalningar och eventuella kreditförluster.
