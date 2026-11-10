@@ -185,6 +185,35 @@ Källor:
 - TeraWulf Q3 2026 investor presentation: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071306/terawulfq32026investorpr.htm
 - TeraWulf press release, 4 november 2026: https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement
 
+## Leverantörerna blir också investerare – och ett ännu obekräftat generatoravtal
+
+S-1/A-2 redovisar en villkorad privat placering på **$26 miljarder**. Fördelningen i prospektet är:
+- Google: $10 md
+- NVIDIA: $10 md
+- AMD: $2,5 md
+- Broadcom: $1 md
+- Micron: $1 md
+- Microsoft: $1 md
+- TSMC: $0,5 md
+
+Det är ett konkret exempel på att flera aktörer som levererar centrala delar av AI-värdekedjan också blir kapitalinvesterare i Anthropic. Reuters rapporterade 10 november att TSMC:s styrelse godkänt investeringar på upp till $500 miljoner vardera i Anthropic och OpenAI. SEC-prospektet bekräftar $500 miljoner i Anthropics privata placering. Detta visar leverantörs- och investerarkoncentration, men är inte i sig bevis för cirkulär finansiering eller garanterad chipförsäljning.
+
+### Uppgift om 1,7 GW gasgeneratorer – ännu inte bekräftad
+
+Reuters rapporterade 8 november, med hänvisning till Financial Times, att Anthropic skulle ha ingått ett avtal värt omkring **$3,4 miljarder** för att ta över OnePWR Solutions befintliga Caterpillar-beställningar på sammanlagt cirka **1,7 GW** gasgeneratorer samt ingenjörs- och installationskapacitet. Reuters uppgav uttryckligen att man inte självständigt kunnat verifiera uppgiften och att Anthropic och OnePWR inte svarat på frågor.
+
+Den nu granskade S-1/A-2 nämner inte OnePWR eller Caterpillar vid namn. Frånvaron i prospektet bevisar inte att avtalet saknas, men den ger ingen primär bekräftelse. Uppgiften ska därför märkas **OBEKRÄFTAD** tills avtal, motpartsbekräftelse eller annan primärhandling finns. Beloppet $3,4 md och kapaciteten 1,7 GW ska inte läggas till $900,9 md eller användas som fastställda Anthropic-åtaganden.
+
+**Källstatus:**
+- **PRIMÄRKÄLLA:** SEC Form S-1/A-2, avsnittet om den samtidiga privata placeringen.
+- **OBEROENDE RAPPORTERING:** Reuters, 10 november, om TSMC:s styrelsebeslut.
+- **OBEKRÄFTAD:** Reuters/FT-uppgiften om OnePWR-generatorerna; Reuters kunde inte självständigt verifiera den.
+
+Källor:
+- SEC Form S-1/A-2: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+- Reuters om TSMC-investeringarna, 10 november: https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/
+- Reuters om den rapporterade generatoraffären, 8 november: https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-2026-11-08/
+
 ## De centrala riskerna
 
 1. **Motpartsrisk:** computeåtaganden är beroende av att molnleverantörer, SPV-bolag, fastighetsägare och finansierande banker kan fullgöra sina delar.
