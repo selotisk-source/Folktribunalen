@@ -608,31 +608,37 @@ Källa:
 
 | Spår | Kontrollresultat denna cykel | Status / nästa kontroll |
 |---|---|---|
-| A – Palantir | Guardian/FOI-materialet 9 november och Commons Library-underlag finns i PR #33. Ingen formell GP-datautvidgning har identifierats. | Följ upp fullständiga FOI-handlingar, FDP-avtal, exitvillkor och regeringens förlängningsbeslut. |
-| B – Datacenter | Nya nordiska policyinstrument och protester enligt ovan. | PR #31 uppdaterad. Följ lagstiftning, register, elanslutningar och kommunala tillstånd. |
+| A – Palantir | SEC Form 10-Q för kvartalet till 30 sep 2026 är hämtad: RPO 4,9 md USD; minst 5,6 md USD i molninköpsåtagande över tio avtalsår. Guardian/FOI 9 nov visar lobbying om GP-data, inte genomförd integration. | PR #33. Hämta fullständiga FOI-handlingar, FDP-avtal, exitvillkor och regeringens förlängningsbeslut. |
+| B – Datacenter | Norge/Statnett pausade nya reservationer 9 nov; Finland HE 282/2026 är lagförslag; Lyten uppger 16 GWh batteri och >1 GW AI-datacenter i Skellefteå, ännu ej oberoende bekräftad drift. | PR #31 och #17. Följ licenskriterier, register, bygglov, nätavtal och faktisk uttagen effekt. |
 | C – Synkronicitet | Teoretiska modeller om meningsskapande har noterats; inga nya empiriska resultat som etablerar acausal kausalitet. | Följ reproducerbarhet, förregistrering och metodkritik. |
 | D – Sofia | Ingen ny arkeologisk utgrävningsrapport eller ny dokumentation om Samuils grav identifierad i denna cykel. NAIM-BAS:s katalogmaterial kvarstår som forskningsunderlag. | Begär rapporter från NAIM-BAS, Sofia kommun och museer; håll gravtradition, arkeologi och tolkning isär. |
-| E – Mineraler | Viscarias Q3-material från 5 november beskriver planerad skuldfinansiering och fortsatt kreditprocess; inget utbetalt lån har belagts. | Följ SGU, GTK, Bergsstaten, miljöprövning och slutliga kreditdokument. |
-| F – NVIDIA/finansiering | Senaste identifierade SEC 10-Q gäller kvartalet som slutade 26 juli 2026, inlämnad 26 augusti. Nästa Q3-resultatkonferens är 17 november. | Kontrollera 10-Q och bolagets CFO-kommentar när Q3 publiceras; skilj åtaganden, kreditramar, utbetalningar och säkerheter. |
+| E – Mineraler | Bergsstaten beviljade 8 okt Arete Gold undersökningstillstånd Rottensjön nr 100, 27 557,73 ha, dnr BS 200-1233-2026; beslutet återger invändningar om rennäring, natur/kultur och försvarsintresse. Överklagandefrist 12 nov. | PR #37 och #34. Hämta fullständiga yttranden, överklaganden, arbetsplan och säkerhet. Viscarias kreditprocess följs separat. |
+| F – NVIDIA/finansiering | Senaste hämtade SEC 10-Q är fortfarande 26 aug för kvartalet till 31 juli. NVIDIA bekräftade 28 okt att Q3 FY2027-resultat publiceras 17 nov. | Följ CFO-kommentar och SEC-inlämning 17 nov; skilj åtaganden, kreditramar, utbetalningar och säkerheter. |
 | G – Libanon | Daou-fallet har nytt sammanställt källäge; motiv ej offentliggjort. PR #36 skapat. | Följ ISF, domstol, kyrkliga uttalanden, civila konsekvenser och byarnas återvändande. |
 | H – Kyrkor genom imperierna | Inget nytt offentligt restaurerings- eller ägarbeslut identifierat. | Fortsätt stad-för-stad med kommunala byggnadsarkiv och kyrkoarkiv. |
 | I – Fennoskandien | Ingen ny markanvändnings- eller skogsbruksakt som passerar notiströskeln. Samiska sanningskommissionens korrigerade tal kvarstår: 71 uppmaningar och 49 förslag. | Följ skogsbeslut, rennäring, naturvärden och rättighetsprocesser. |
 | J – Storsjöodjuret | Ingen ny primär dokumentation om observationer, hydrologi eller Frösöstenen. | Fortsätt folkloristik och runologi separat från biologiska påståenden; Thiels citat kräver full kontext. |
-| K – Cladonia | Fastighetsvärlden identifierar 18:3 och 18:5 som rapporterad separat tilläggsaffär. | PR #32 uppdaterad. Hämta lagfart, köpehandlingar och Länsstyrelsens beslut. |
+| K – Cladonia | Medierapport om JO-anmälan 21 okt och separat rapporterad tilläggsaffär 18:3/18:5. Ingen JO-akt, lagfart eller köpehandling har hämtats i denna runda. Arete Gold/Rottensjön är ett separat bolag/ärende utan belagd koppling. | PR #32. Hämta Lantmäteriets lagfarter, köpehandlingar, ISP- och JO-diarie samt Länsstyrelsens beslut. |
 | L – Skaga | Ingen ny restaureringsakt eller inventarieförteckning identifierad. | Följ RAÄ, Länsstyrelsen, Tivedens lokala kyrkoarkiv och återuppbyggnadsdokumentation. |
 | M – Athos | Inget nytt offentligt katalog- eller donationsbesked identifierat. PR #26 kvarstår. | Följ offentliga kataloger och digitaliseringsprojekt; respektera klostrens tillträdesregler. |
 | N – Skrift till Storebror | Metas utvidgade AI-baserade åldersinferens på Instagram, publicerad 9 november, finns i masterplanens föregående logg. Inget nytt tillsynsbeslut identifierat. | Följ felklassificering, överklagande, dataskydd och svensk realtidsbiometri. |
 | O – Hormuz | PR #3 innehåller den senaste fullversionen med IMO:s 131 incidenter/25 omkomna och HUDA-spåret; Saudiarabiens pipelineattack 9 november finns som partsuppgift/rapporterad händelse. | Följ IMO/UKMTO, fartygsidentitet, försäkring, driftdata och oberoende skadebedömning. |
-| P – USA:s kongress | BAAJA:s substituttext 7 november finns i PR #10. Cloture var planerad 9 november 17.30 ET; ingen officiell roll-call-post kunde identifieras vid kontrolltid 00.34 Sofia 10 november. | Kontrollera senatens röstningsregister och Congress.gov innan något utfall anges. |
-| Q – Gripen | Ingen ny offentlig beställning eller leveransuppgift identifierad. PR #12 kvarstår. | Följ Saab, FMV, Försvarsmakten, exportmyndigheter och leveransbesked; publicera inte operativa detaljer. |
-| R – Strategisk energi | Khor Mor-produktionen rapporterades fortsatt avstängd efter 8 november; ingen återstart bekräftad i denna cykel. Onkalo-licensen och Lyten/Northvolt-spåret kvarstår. | Följ Dana Gas, KRG-operatörer, STUK, Posiva och Northvolt/Lyten-anläggningarnas faktiska drift. |
-| S – Urbergsskölden | HE 282/2026 om finskt datacenterregister korskopplas till B. Inget nytt offentligt tillträdes- eller säkerhetsunderlag för underjordiska anläggningar. | Följ CRMA, GTK RAKKA, SGU, Bergsstaten, Posiva och civil energilagring utan känsliga åtkomstuppgifter. |
+| P – USA:s kongress | Senate LIS Roll Call 257 visar 73–25–2 den 9 nov kl. 17.31 ET för cloture på motionen att gå vidare till H.R.2347. Det är procedursteg; KAT26764 är substituttexten och inte slutligt antagen lag. | PR #10 och #17 uppdaterade. Följ post-cloture-behandling 10 nov, amendments och separat passageomröstning. |
+| Q – Gripen | Saab meddelade 15 okt FMV-order på 1,3 mdkr för ny flygstyrdator; planerade leveranser 2030. PR #12 innehåller uppgiften. | Hämta FMV:s fullständiga kontrakt och följ milstolpar, utan operativa detaljer. |
+| R – Strategisk energi | Ingen ny oberoende återstart av Khor Mor identifierad. Lyten anger återstartad batteriverksamhet och EdgeConneX fas 1 i Skellefteå, men uppgifterna är bolagets egna. | Följ Dana Gas, KRG-operatörer, STUK/Posiva och Lyten/EdgeConneX för faktiska driftsiffror, nätuttag och tillstånd. |
+| S – Urbergsskölden | GTK:s 4 juni-studie visar begränsad ekonomisk potential i de flesta undersökta stängda gruvavfallsområden; data har lagts i offentligt kartlager/RAKKA. Rottensjön-ärendet korskopplas till E. | Följ GTK/SGU, CRMA, Bergsstaten, Posiva och civil energilagring; publicera inte skyddsobjektsdetaljer. |
 
 ## Artikel- och arbetskö
 
 - **PR #31:** Vem får elektriciteten? Norge och AI-industrins nätanslutning – uppdaterad 10 november med nordisk jämförelse.
 - **PR #32:** Storsjö kapell – Cladonia, markägande och lokala rättigheter – uppdaterad 10 november med Berg Storsjö 18:3/18:5 och källreservation.
 - **PR #36:** Mordet på Fader Samir Daou – Jbeil, rättsprocessen och bergsförsamlingarnas villkor – nytt draft, ej publicerat.
+- **PR #37:** Rottensjön – 27 558 hektar prospektering och konkurrerande riksintressen – nytt draft, ej publicerat; överklagandefrist 12 november.
 - **PR #3, #10, #16, #17, #30, #33–35:** kvarstår som öppna granskningsärenden enligt respektive arbetsgren.
 
 **Publiceringsstatus:** Inga nya artiklar har mergats eller publicerats LIVE i denna cykel. PR #31, #32 och #36 är utkast. Ingen databasbaserad webbkö har ändrats eller påstås vara uppdaterad.
+
+
+## Delta 10 november 2026, 04.18 EET
+
+Ny kontrolljournal: [2026-11-10-breaking-watch-0418.md](editorial/research/2026-11-10-breaking-watch-0418.md). Senatens roll-call 257 har nu officiell primärverifiering. Rottensjön nr 100 har fått ett separat granskningsutkast PR #37. PR #10, #17 och #34 är uppdaterade i respektive arbetsgren. Inga ändringar har mergats eller publicerats LIVE.
