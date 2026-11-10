@@ -1,13 +1,13 @@
 # Rottensjön: 27 558 hektar får undersökningstillstånd – rennäring, naturvärden och försvarsintresse i samma ärende
 
 **Artikeltyp:** Dokumentgranskning · mineralrättigheter · markanvändning · rennäring · kulturmiljö  
-**Faktaläge:** 10 november 2026, 04.18 EET  
+**Faktaläge:** 10 november 2026, 23.17 EET  
 **Publiceringsstatus:** Draft – kräver chefredaktörens godkännande  
 **Primärhandling:** Bergmästarens beslut 8 oktober 2026, dnr BS 200-1233-2026
 
 ## Ingress
 
-Bergsstaten har beviljat Arete Gold AB undersökningstillstånd för Rottensjön nr 100 – ett område på 27 557,73 hektar som sträcker sig över Älvdalens och Härjedalens kommuner. Beslutet gäller i tre år och omfattar bland annat koppar, guld, silver, zink och bly. I samma beslut återges invändningar om rennäring, kulturmiljö, våtmarker, fjällnaturskog och Försvarsmaktens riksintresse för Älvdalens skjutfält. Tillståndet ger rätt att undersöka, inte rätt att starta gruvbrytning eller att omedelbart påbörja fältarbete.
+Bergsstaten har beviljat Arete Gold AB ett treårigt undersökningstillstånd för Rottensjön nr 100 – 27 557,73 hektar över Älvdalens och Härjedalens kommuner. Ansökan namngav koppar, guld, silver, zink och bly, men beslutets juridiska omfattning är bredare: det gäller samtliga koncessionsmineral i 1 kap. 1 § första stycket 1 och 2 minerallagen, däribland uran, litium, kobolt, nickel, lantanider och grafit. Det betyder inte att dessa ämnen har påvisats i området. I samma beslut återges invändningar om rennäring, kulturmiljö, våtmarker, fjällnaturskog och Försvarsmaktens riksintresse. Tillståndet ger rätt att undersöka – inte rätt att starta gruvbrytning eller omedelbart påbörja fältarbete.
 
 ## Vad beslutet faktiskt omfattar
 
