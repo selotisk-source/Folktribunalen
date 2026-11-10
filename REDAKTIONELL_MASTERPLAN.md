@@ -676,3 +676,7 @@ Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vi
 - **R – Khor Mor:** KRG:s ministerier bekräftade angreppet 8 november i ett gemensamt uttalande 9 november. Dana Gas uppger misstänkt drönarattack, släckt brand, inga personskador och fortsatt produktionsstopp. KRG:s cirka 2,8 GW-uppgift är myndighetsuppskattning, inte oberoende uppmätt produktion. PR #30 uppdaterad.
 - **R – Zaporizjzja:** 330 kV Ferosplavna-1 förlorade anslutningen 8 november och återställdes samma dag enligt Energoatom. IAEA:s 27:e bortfall sedan 2022 och Energoatoms 16:e fullständiga bortfall under 2026 är två olika räknare. PR #35 innehåller redan primär- och oberoende källkontroll.
 - **Arbetsflöde:** granskningsnoteringar i PR #3, #16, #30 och #31 uppdaterade. Inga nya artiklar startade, inga PR:er mergade och ingen artikel publicerad i denna kontrollrunda.
+
+
+## Artikelkö – 10 november 2026
+- **PR #38 – C: Synkronicitet i algoritmernas spegel – mellan mening och mekanism.** Nytt fullständigt granskningsutkast. Skiljer subjektiv meningsupplevelse, algoritmisk serendipitet och påstådd acausalitet; innehåller testbara hypoteser och metodkrav. Draft för chefredaktörens granskning, inte mergat eller publicerat.
