@@ -271,3 +271,18 @@ Källor:
 ## Publiceringsvillkor
 
 Artikeln kräver chefredaktörens uttryckliga godkännande. Den får inte publiceras innan SEC-registreringens status, privatplaceringens villkor, computeåtagandenas uppsägningsrättigheter och förhållandet mellan Broadcom-SPV:n och de aggregerade åtagandena har kontrollerats.
+
+
+## Källprecisering – TSMC:s $500m och de $77 md i undrawn facilities (10 november 2026)
+
+Denna precisering hindrar dubbelräkning och skiljer teckningsåtaganden från dragen finansiering.
+
+**PRIMÄRKÄLLA – SEC S-1/A-2, 10 november 2026:** Anthropics villkorade privata placering på $26 md i Class N-aktier fördelas enligt prospektet så här: Google $10 md; NVIDIA $10 md; AMD $2,5 md; Broadcom $1 md; Micron $1 md; Microsoft $1 md; TSMC Partners $0,5 md. Class N är i huvudsak icke-röstberättigad. Placeringen förutsätter att IPO:n genomförs och är inte redan utbetalt kapital.
+
+**TSMC – dubbelräkningsrisk:** Reuters rapporterade den 10 november att TSMC:s styrelse godkänt upp till $500m i Anthropic-aktier och upp till $500m i preferensaktier i OpenAI. Den första $500m-posten överensstämmer med TSMC Partners-allokeringen i SEC:s $26 md-placering och ska inte adderas en gång till. Reuters är i denna kontroll den enda källa som hittats för den separata OpenAI-investeringen; någon direkt TSMC-styrelsehandling har inte hämtats. https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/
+
+**PRIMÄRKÄLLA – Note Purchase Agreements:** Per 30 september 2026 redovisar SEC upp till $77 md i faciliteter som kan användas för framtida utgivning av konvertibla skuldebrev: Google $20 md, Amazon $15 md och Broadcom/Infrastructure Partner $42 md. Utestående principal under dessa undrawn facilities var $0 vid rapportdagen. Googlefaciliteten reduceras till $10 md när den privata placeringen stänger; Amazonfaciliteten väntas inte användas före IPO; Broadcomfaciliteten är avsedd att vid behov finansiera kvartalsvisa leasingbetalningar och kan överlåtas till utsedd finansieringspartner med Anthropics samtycke.
+
+**Redovisningsmässig slutsats:** $77 md är tillgänglig framtida finansieringskapacitet enligt villkor, inte dragen skuld. $26 md är villkorat aktieåtagande. $900,9 md är aggregerade köp- och leasingåtaganden. De tre posterna får inte summeras till en enda skuld eller en omedelbar kapitalinjektion.
+
+**Källa:** SEC Form S-1/A-2, särskilt Note Purchase Agreements och investerarallokeringen: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
