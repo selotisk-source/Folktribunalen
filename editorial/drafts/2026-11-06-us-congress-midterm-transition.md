@@ -133,9 +133,20 @@ Det finns också en viktig institutionell begränsning: den demokratiska majorit
 
 **Senaste dokumentdatum:** 7 november 2026. **Reuters-rapport:** 9 november 2026. **Kontrolltid:** 9 november 2026 kl. 23.54 Sofia.
 
-**Uppdatering 10 november 2026:** Efter den schemalagda tiden rapporterade Associated Press och Axios att senaten den 9 november röstade **73–25** för cloture på motionen att gå vidare med H.R.2347. Det är en proceduromröstning som öppnar för fortsatt behandling, inte ett slutligt antagande av BAAJA eller dess 494-sidiga substitut. Resultatet klassificeras här som **OBEROENDE BEKRÄFTELSE** från två nyhetsredaktioner. Senatens publika pressgallerisida för 9 november visar fortfarande schemat, och ett individuellt officiellt roll-call-protokoll för denna omröstning har ännu inte identifierats i den kontrollerade Senate LIS-vyn. Resultatet ska därför inte märkas PRIMÄRKÄLLA förrän protokollet publicerats.
+**Uppdatering 10 november 2026, 04.18 Sofia — PRIMÄRKÄLLA:** Senatens officiella roll-call nr 257 registrerar att den 9 november kl. 17.31 ET antogs cloture på motionen att gå vidare till H.R. 2347: 73 ja, 25 nej och 2 som inte röstade. Det avslutade debatten om motionen; det antog inte lagförslaget eller BAAJA:s materiella bestämmelser.
 
-Källor: AP, 9 november 2026: https://apnews.com/article/c6290598e26a7b01622e5c4eec571516 ; Axios, 9 november 2026: https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote ; Senate Press Gallery, dagsprogram 9 november: https://www.periodicalpress.senate.gov/ .
+**Lagstiftningsfordonet måste beskrivas exakt:** Senate LIS-sidan visar fortfarande H.R. 2347 med sin ursprungliga titel, *Survivor Justice Tax Prevention Act*. Senatens officiella pressgalleri och Democratic Caucus beskriver samtidigt H.R. 2347 som lagstiftningsfordon för BAAJA. Den officiella substituttexten KAT26764 identifierar sig som en *amendment in the nature of a substitute* till H.R. 2347, stryker texten efter lagens ingress och ersätter den med BAAJA:s innehåll; Division C behåller Survivor Justice Tax Prevention Act. BAAJA presenterades separat som S. 5653. Det är alltså H.R. 2347 som fordon, KAT26764 som substituttext och BAAJA som det materiella paketet. De får inte blandas ihop.
+
+**Nästa steg:** Senatens publicerade schema för den 10 november anger återupptagande kl. 12.00 ET för fortsatt post-cloture-behandling av motionen. Vid kontrolltid 04.18 Sofia hade ingen slutlig passageomröstning identifierats.
+
+Källor:
+- U.S. Senate, Roll Call Vote 257, 9 november 2026: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm
+- Senate Democratic Caucus, Wrap Up 9 november 2026: https://www.democrats.senate.gov/2026/11/09/wrap-up-for-monday-november-9-2026
+- Senate Democratic Caucus, Schedule 10 november 2026: https://www.democrats.senate.gov/2026/11/09/schedule-for-tuesday-november-10-2026
+- Senate EPW Committee, sponsors' release of substitute amendment, 7 november 2026: https://www.epw.senate.gov/public/index.cfm/2026/11/whitehouse-capito-heinrich-lee-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026
+- Official 494-page substitute text KAT26764: https://www.epw.senate.gov/public/index.cfm?File_id=2908E3D0-D53E-499F-9308-BF12EBE10B1E&a=files.serve
+
+
 
 Det materiella paketet heter **Bipartisan American Affordability and Jobs Act of 2026 (BAAJA)**. Det presenterades den 30 september av senatorerna Shelley Moore Capito, Mike Lee, Martin Heinrich och Sheldon Whitehouse. Den 7 november publicerade de ansvariga senatorerna ett 494-sidigt substitut. Utskottets pressmeddelande beskriver ändringarna som förtydligande, samordnande och tekniska, men textjämförelsen visar en viktig förändring för datacenter.
 
