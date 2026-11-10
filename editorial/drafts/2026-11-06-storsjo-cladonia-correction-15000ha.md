@@ -170,3 +170,22 @@ Källor:
 - SVT, fastigheterna och ön i SCA-affären, 6 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen
 
 **Nästa kontroll:** lagfartsakter för samtliga berörda fastigheter; de två förvärvstillstånden; SCA:s skriftliga avslagsunderlag till lokal köpare; kommunens diarieförda kontakt och nytt mötesdatum; jakträttsavtal och eventuella uppsägningar.
+
+
+## Källuppdatering 10 november 2026 – lokalt möte och samiska markhistoriska samband
+
+**OBEROENDE RAPPORTERING – Sveriges Radio, publicerad 10 november 2026:** Bergs kommun och Cladonia Skog har enligt lokalradions rapportering tagit steg mot ett första möte med lokala företrädare och boende. Artikeln anger inte ett fastställt mötesdatum eller något resultat; det ska därför beskrivas som ett planerat möte, inte som en genomförd överenskommelse. SVT:s uppgift från 9 november om ett upprop med över 30 000 underskrifter är en kampanjuppgift, inte en representativ opinionsmätning.
+
+**PRIMÄRKÄLLA – SOU 2026:58, slutrapport från Sanningskommissionen för det samiska folket, överlämnad i september 2026:** rapporten redovisar hur Jämtlands samiska markanvändning historiskt organiserades genom skattefjäll och hur nio lappbyar etablerades 1889, däribland Storsjö. Kommissionen anger att lappbyarnas antal, namn och gränser senare justerats, men att områdena i princip motsvarar dagens indelning. Rapporten ger en viktig historisk och rättslig kontext till Storsjöområdet, men den fastställer inte i sig någon specifik rättighet till de fastigheter som Cladonia köpt.
+
+**PRIMÄRKÄLLA – Sametingets offentliga samebyprofiler och markanvändningskartor:** Handölsdalens och Tåssåsens samebyars redovisade vinterbetesmarker omfattar delar av Bergs kommun. Det visar att kommungränsen inte är en tillräcklig geografisk avgränsning för att bedöma renskötselintressen. Exakt överlappning mellan de rapporterade Cladonia-fastigheterna och respektive samebys säsongsområden är ännu inte fastställd genom en parcel-för-parcel-kartläggning.
+
+**Geospatial och rättslig gräns:** den historiska Storsjö lappbyn, dagens samebyars säsongsvisa markanvändning, enskilda fastigheters lagfart och eventuella sedvanerättsliga anspråk är fyra skilda frågor. Ingen av dem får användas som automatisk bevisning för de andra.
+
+**Källor:**
+- Sveriges Radio, lokal rapportering 10 november 2026: https://www.sverigesradio.se/ (sökpost: Cladonia/Palantir/Storsjö, publicerad 10 november)
+- SOU 2026:58, *Marken berättar och minns – Konsekvenser för samer av svensk politik*: https://data.riksdagen.se/dokument/HEB358
+- Sametinget, Handölsdalens sameby: https://www.sametinget.se/handolsdalen
+- Sametinget, Tåssåsens sameby: https://www.sametinget.se/tassasen
+
+**Öppet:** exakta fastighetsbeteckningar och lagfartsakter; Länsstyrelsens båda förvärvsbeslut; kommunens diarieförda möteskallelse och protokoll; direkt dialog med berörda samebyar; parcel-overlay mot offentliga säsongskartor; eventuella jakt-, fiske-, servituts- och nyttjanderättsavtal.
