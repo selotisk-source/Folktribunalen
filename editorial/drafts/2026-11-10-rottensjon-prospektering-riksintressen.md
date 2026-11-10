@@ -13,9 +13,11 @@ Bergsstaten har beviljat Arete Gold AB undersökningstillstånd för Rottensjön
 
 **PRIMÄRKÄLLA:** Bergmästaren fattade beslutet den 8 oktober 2026, diarienummer BS 200-1233-2026. Sökande är Arete Gold AB, organisationsnummer 559308-8502. Undersökningsområdet anges till 27 557,73 hektar i Älvdalens kommun i Dalarnas län och Härjedalens kommun i Jämtlands län. Tillståndstiden löper från den 8 oktober 2026 till den 8 oktober 2029.
 
-Ansökan kom in den 23 juni 2026. Arete Gold ansökte om koppar, guld, silver, zink och bly. Bergmästaren anger att eftersom sökanden inte begärt en snävare avgränsning omfattar undersökningstillståndet samtliga relevanta koncessionsmineral enligt minerallagens bestämmelse.
+Ansökan kom in den 23 juni 2026. Arete Gold angav koppar, guld, silver, zink och bly. Beslutet gör därefter en viktig juridisk precisering: eftersom sökanden inte begärt en snävare avgränsning omfattar undersökningstillståndet samtliga koncessionsmineral i 1 kap. 1 § första stycket 1 och 2 minerallagen.
 
-Detta är ett undersökningstillstånd. Det är inte en bearbetningskoncession, inte en mineralreserv och inte ett beslut om kommersiell gruvdrift.
+Det innebär att den rättsliga undersökningsramen är bredare än de fem mineral som anges i ansökan. Bestämmelsen omfattar bland annat uran, litium, kobolt, nickel, lantanider/sällsynta jordartsmetaller, volfram och grafit. **Detta är en beskrivning av tillståndets juridiska omfattning – inte belägg för att något av dessa mineral, utöver de prospekteringshypoteser bolaget redovisat, faktiskt förekommer i området.** Ingen fyndighet, resurs eller reserv är därmed fastställd.
+
+Detta är fortfarande ett undersökningstillstånd. Det är inte en bearbetningskoncession, inte en mineralreserv och inte ett beslut om kommersiell gruvdrift.
 
 ## Sökandens geologiska hypotes
 
