@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 9 november 2026, 15.13 Europe/Sofia  
+**Version:** 10 november 2026, 18.04 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
@@ -680,3 +680,17 @@ Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vi
 
 ## Artikelkö – 10 november 2026
 - **PR #38 – C: Synkronicitet i algoritmernas spegel – mellan mening och mekanism.** Nytt fullständigt granskningsutkast. Skiljer subjektiv meningsupplevelse, algoritmisk serendipitet och påstådd acausalitet; innehåller testbara hypoteser och metodkrav. Draft för chefredaktörens granskning, inte mergat eller publicerat.
+
+
+## Delta 10 november 2026, 18.04 Europe/Sofia
+
+- **Nytt granskningsärende PR #39 – Libanon:** *Libanon försöker återvinna presidentämbetets förlorade arkiv*. Utkastet behandlar presidentkansliets/USEK:s MoU den 30 oktober, presidentkansliets egna uppgifter om saknade handlingar och krigsrelaterade arkivförluster, det separata utrikesministeriet/USEK-spåret för diasporaanknutna medborgarskapshandlingar samt Aouns möte med Maronite Foundation for the Diaspora den 10 november.
+- **Källstatus:** presidentkansliets MoU och mötesnotis är primärkällor; utrikesministeriets MoU är ett separat primärspår. AUB och University of Chicago ger akademisk kontext men verifierar inte specifika presidentarkivförluster.
+- **Öppna frågor:** fullständiga MoU-texter, arkivhållare, inventarielista, finansiering, digitaliseringsstandarder, sekretess och allmänhetens åtkomst.
+- **Status:** PR #39 är ett öppet draft för chefredaktörens granskning. Inte mergat, inte publicerat och inte LIVE.
+
+- **F – Anthropic/AI-finansiering:** PR #14 har fått en ny primärkälla: SEC S-1/A-2 inlämnad 10 november. Prospektet redovisar 900,9 md USD i samlade compute-/infrastrukturåtaganden, varav 186,2 md USD är villkorade eller uppsägningsbara; en villkorad privat placering på 26 md USD namnger bland andra NVIDIA, Google, AMD, Broadcom, Micron, Microsoft och TSMC. Åtaganden är inte automatiskt skuld eller utbetalt kapital.
+- **A – Palantir:** PR #7 kompletterat med Q3-10-Q:s jämförelse: amerikansk kommersiell intäkt 984 m USD mot amerikansk myndighetsintäkt 953 m USD för kvartalet. Nio-månadersmixen är fortfarande cirka 51 % myndigheter och 49 % kommersiellt.
+- **D/H – Sofia/Serres:** PR #8 kompletterat med rapporteringen om att två silverliturgiska flabeller återfördes till Timios Prodromos den 8 november efter utställningen i Thessaloniki. Fullständig inventarielista för alla 48 objekt saknas.
+- **K – Cladonia:** PR #4 kompletterat med SR:s uppgift 10 november om att ett första möte är under planering. Inget datum eller genomfört möte är bekräftat; Bergs formella KS-ärendelista 10 november saknar Cladoniaärende.
+- **Publiceringsstatus:** inga nya artiklar har mergats eller publicerats LIVE. PR #4, #7, #8, #14 och #16 har fått källkommentarer; PR #16:s uppföljningsjournal har uppdaterats.
