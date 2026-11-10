@@ -94,7 +94,7 @@ Kampanjorganisationen Skiftet driver uppropet ”Palantir ut ur Härjedalen”. 
 
 Det är kampanjens politiska argument. Underskrifterna visar att frågan fått nationell uppmärksamhet, men de är inte ett representativt mått på vad invånarna i Bergs kommun eller Storsjö tycker. Lokala röster behöver därför redovisas separat från nationell opinionsmobilisering.
 
-I SVT:s rapportering den 9 november säger kommunalrådet Therese Kärngard att Bergs kommun haft kontakt med Cladonia och att ett planerat möte skjutits upp. SVT skriver också att bolaget inte lämnat något besked direkt till byalaget eller kommunledningen, men har svarat på frågor via mejl. Det visar att det fortfarande finns en kommunikationsfråga mellan markägaren och lokalsamhället.
+I SVT:s rapportering den 9 november uppgav kommunalrådet Therese Kärngard att ett planerat möte med Cladonia hade skjutits upp och att bolaget inte lämnat något direkt besked till byalaget eller kommunledningen. SVT:s uppföljning den 10 november visar att mötet därefter hölls i Svenstavik mellan Kärngard och en jurist som företrädde Cladonia. Kommunen fick enligt SVT en förklaring till varför marken köpts, men själva förklaringen återges i videon och inte i den tillgängliga texten. Den aktuella kontrollfrågan är därför vad som faktiskt sades, om det finns skriftliga minnesanteckningar och om beskedet följts av konkret dialog med berörda föreningar och samebyar.
 
 ## Ett större markägande – utan att blanda ihop ägande och kontroll
 
