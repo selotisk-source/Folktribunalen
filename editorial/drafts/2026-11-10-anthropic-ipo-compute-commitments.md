@@ -150,6 +150,41 @@ Anthropic skriver också att bolaget inte har några andra off-balance-sheet-fin
 **Oklart:** vilken juridisk person som är den nybildade SPV:n i oktoberöverlåtelsen och exakt hur $63 md-finansieringen fördelas mellan utrustning, leasing och eventuellt restvärdesstöd.  
 **Viktigt:** $161,2 md är hyresbetalningar under Broadcom-arrangemangen och ska inte adderas separat till $900,9 md utan en fullständig kontraktsavstämning.
 
+## TeraWulf och Google: en konkret kreditbackstop bakom Anthropic-leasen
+
+En separat primärhandling visar hur en del av compute-kapaciteten finansieras nedströms. TeraWulf uppger i sin Form 8-K daterad **4 november 2026** att dotterbolaget Raylan Data LLC i juli 2026 ingick ett **20-årigt leaseavtal** med Anthropic för cirka **401 MW kritisk IT-last** vid Justified Data Campus i Hawesville, Kentucky. Leveranserna ska ske etappvis från slutet av 2027 till andra kvartalet 2028. Anthropic börjar betala hyra när respektive datahall levereras.
+
+Den 4 november ingick Raylan, TeraWulf, ett annat TeraWulf-dotterbolag, Anthropic och Google tre separata **Credit Support Agreements** för datahallarna CB-1, CB-2 och CB-3. Google backstoppar vissa av Anthropics skyldigheter enligt just dessa leases. Backstoppen träder i kraft när den sista datahallen i respektive lease börjar levereras och kan upphöra när Anthropic – eller ett dotterbolag som garanterar leaseförpliktelserna – har uppnått och behållit vissa investment-grade-ratingar i minst tre månader.
+
+Vid betalningsdröjsmål eller insolvens kan Google, efter underrättelse, välja att betala förfallen hyra och ta över leasen som hyresgäst eller i vissa fall betala en avtalad termination fee. Om Google betalar termination fee kan Google under de angivna villkoren få rätt att förvärva en ägarandel i Raylan. Under en särskild uppskovsperiod ska Google betala förfallen och löpande obetald hyra.
+
+TeraWulf beskriver backstoppen som stöd för projektfinansiering kopplad till cirka **$19 md i kontrakterade leaseåtaganden** från Anthropic. Bolaget har samtidigt tecknat ett definitivt EPC-avtal med Fluor för tre datahallar. TeraWulfs Q3-material anger att den planerade leveransen av de 401 MW ska ske i etapper från slutet av 2027 till Q2 2028.
+
+**Vad detta visar:** Google är inte en generell garant för Anthropics samtliga skulder eller för hela $900,9 md i computeåtaganden. Det är en specifik, villkorad kreditbackstop för vissa hyresförpliktelser i ett bestämt 401 MW-projekt. Den blir effektiv först när respektive sista datahall tas i bruk. Den kan stärka TeraWulfs möjlighet att låna till byggnationen, men den flyttar samtidigt en definierad del av motpartsrisken till Google under vissa händelser.
+
+**Finansieringskedjan i detta projekt:**
+
+`Anthropic (hyresgäst) → Raylan Data LLC (hyresvärd/dotterbolag till TeraWulf) → projektfinansiering/långivare`
+
+`Google → villkorad kreditbackstop för vissa Anthropic-hyror → kan betala hyra, överta lease eller i vissa fall betala termination fee`
+
+`Fluor → EPC-entreprenör för tre datahallar`
+
+**Viktiga avgränsningar:**
+- 401 MW avser kritisk IT-last, inte total effekt för hela campus.
+- $19 md är TeraWulfs uppgift om kontrakterade leaseåtaganden/kontraktsintäkter, inte en kontantbetalning vid avtalets undertecknande.
+- Google-backstoppen omfattar vissa leaseförpliktelser och har villkor för ikraftträdande och upphörande.
+- Om Google betalar termination fee kan bolaget under vissa villkor få equity i Raylan; det är inte en automatisk ägarandel.
+- De tre credit support agreements innehåller villkor och undantag; fullständiga bilagor ska läsas innan exakta garantibelopp anges.
+
+**Källstatus:** PRIMÄRKÄLLA – TeraWulf Form 8-K, 4 november 2026, Item 1.01, och Form 10-Q för kvartalet till 30 september 2026, Note 18 Subsequent Events. OBEROENDE BEKRÄFTELSE – Reuters, 4 november 2026, rapporterade att Google gett kreditstöd för projektfinansieringen.
+
+Källor:
+- TeraWulf Form 8-K, 4 november 2026: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-069810/wulf-20261104.htm
+- TeraWulf Form 10-Q, 6 november 2026: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071671/wulf-20260930.htm
+- TeraWulf Q3 2026 investor presentation: https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001628280-26-071306/terawulfq32026investorpr.htm
+- TeraWulf press release, 4 november 2026: https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement
+
 ## De centrala riskerna
 
 1. **Motpartsrisk:** computeåtaganden är beroende av att molnleverantörer, SPV-bolag, fastighetsägare och finansierande banker kan fullgöra sina delar.
