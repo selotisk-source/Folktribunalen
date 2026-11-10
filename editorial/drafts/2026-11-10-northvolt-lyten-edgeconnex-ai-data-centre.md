@@ -82,7 +82,7 @@ Det går därför inte att beskriva 1 GW som finansierad kapacitet. Markförvär
 |---|---|---|
 | 2017 | Bergsbyns industriområde planläggs och Northvolt etablerar verksamhet | PRIMÄRKÄLLA – kommunal historik |
 | 27 februari 2026 | Lyten slutför köpet av Northvolts svenska tillgångar; EdgeConneX offentliggör planerat markförvärv och upp till 1 GW potentiell campuskapacitet | PRIMÄRKÄLLA för bolagsmeddelanden; kommunal bekräftelse |
-| Sommaren 2026 | Lyten säljer delar av marken till EdgeConneX enligt Skellefteå kommun | PRIMÄRKÄLLA – kommunal uppgift; lagfart ej direkt hämtad |
+| Senare under 2026 | Skellefteå kommun uppger att EdgeConneX förvärvat delar av området; Lyten hade 27 februari beskrivit en planerad överlåtelse från Lyten | PRIMÄRKÄLLA – kommunal uppgift om förvärvet; direkt säljare och exakt datum oklara; lagfart ej direkt hämtad |
 | 20 april 2026 | Medborgarförslag registreras om att utreda temperatur- och miljöeffekter av AI-centret | PRIMÄRKÄLLA – kommunalt diariefört ärende |
 | 10 november 2026 | Lytens aktuella verksamhetssida anger att batteriupptrappning pågår och att EdgeConneX har inlett utvecklingsarbete för fas 1 | PARTSUPPGIFT; exakt startdatum och arbetsomfattning ej angivna |
 
@@ -98,7 +98,7 @@ Det går därför inte att beskriva 1 GW som finansierad kapacitet. Markförvär
 
 ## Faktastatus
 
-- **PRIMÄRKÄLLA:** Skellefteå kommun uppger att EdgeConneX förvärvade delar av marken från Lyten under sommaren 2026.
+- **PRIMÄRKÄLLA:** Skellefteå kommun uppger att EdgeConneX senare förvärvade delar av området. Kommunens FAQ är inte entydig om den direkta säljaren eller exakt datum; Lantmäteriets lagfartsuppgifter har inte hämtats direkt.
 - **PARTSUPPGIFT:** Lyten uppger att batteriproduktionen har återstartat och att upptrappning pågår.
 - **PARTSUPPGIFT:** Lyten uppger att EdgeConneX har inlett utvecklingsarbete för fas 1.
 - **PRIMÄRKÄLLA:** Kommunen beskriver datacenterprojektet som ett tidigt skede och säger att utvecklingen kommer att ta flera år.
