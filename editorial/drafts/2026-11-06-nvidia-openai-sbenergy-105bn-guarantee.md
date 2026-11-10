@@ -438,6 +438,6 @@ AMD redovisar cirka **1,2 miljarder USD** i warrantrelaterad omvärdering som ic
 
 **Analytisk betydelse:** Jämförelsen med NVIDIA visar flera olika sätt att knyta samman leverantör, kund och kapital: förskotts-/kapacitetsåtaganden, villkorade garantier, långfristiga köpåtaganden och kundwarranter. Dessa instrument måste hållas isär från redovisad skuld, kontant betalning och faktisk utspädning. Den gemensamma frågan är hur mycket av AI-infrastrukturens efterfrågan som är oberoende kundbetalning och hur mycket som är beroende av leverantörens egna finansierings- eller incitamentsinstrument.
 
-**PRIMÄRKÄLLA:** AMD Form 10-Q, kvartal avslutat 26 september 2026, Note 14: https://www.sec.gov/Archives/edgar/data/2488/0000002488260000xx/amd-20260926.htm
+**PRIMÄRKÄLLA:** AMD Form 10-Q, kvartal avslutat 26 september 2026, Note 14: https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/amd-20260926.htm
 
 **Öppet:** hämta warrantavtalens fullständiga bilagor; fastställ kundernas identitet och fördelning; följ när prestationsvillkor uppfylls, när warrants intjänas och hur framtida intäktsreduktion redovisas.
