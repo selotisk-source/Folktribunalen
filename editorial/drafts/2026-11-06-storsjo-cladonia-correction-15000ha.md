@@ -189,3 +189,24 @@ Källor:
 - Sametinget, Tåssåsens sameby: https://sametinget.se/t%C3%A5ss%C3%A5sen
 
 **Öppet:** exakta fastighetsbeteckningar och lagfartsakter; Länsstyrelsens båda förvärvsbeslut; kommunens diarieförda möteskallelse och protokoll; direkt dialog med berörda samebyar; parcel-overlay mot offentliga säsongskartor; eventuella jakt-, fiske-, servituts- och nyttjanderättsavtal.
+
+
+## Källuppdatering 10 november 2026 – Sveriges Radio rapporterar ett första möte
+
+**Publiceringsdatum:** 10 november 2026 kl. 05.56.  
+**Händelsedatum:** inte uttryckligen angivet i artikeln.
+
+Sveriges Radio P4 Jämtland publicerade en kort rapport med rubriken *Möte om miljardärens planer – efter massiva markköpet*. Den återger kommunstyrelsens ordförande i Berg, Therese Kärngard (S), som säger: **”Det är ett första möte.”** Reportaget beskriver att lokalbor och politiker har frågor som de hoppas få svar på från Alex Karp och Cladonia Skog. Det återger också att omkring 30 000 personer skrivit under ett upprop mot markaffären.
+
+**Källstatus:** OBEROENDE BEKRÄFTELSE – Sveriges Radio. Detta är en kort nyhetsrapport, inte ett kommunalt protokoll eller en kallelse. Den anger inte tydligt mötesdatum, fullständig deltagarlista, dagordning eller om mötet redan ägt rum vid publiceringen. Den styrker därför att ett första möte rapporteras, men inte vilka svar som lämnades eller vilka beslut som fattades.
+
+**Öppna frågor:**
+1. När hölls eller ska mötet hållas?
+2. Vilka företrädare för Cladonia deltog eller har bjudits in?
+3. Finns kallelse, dagordning, minnesanteckningar eller protokoll?
+4. Vilka frågor om jakt, fiske, vägar, servitut, skogsbruk och lokala nyttjanderätter har bolaget besvarat?
+5. Har kommunen fått några skriftliga åtaganden från bolaget?
+
+**Källa:** Sveriges Radio P4 Jämtland, 10 november 2026: https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
+
+**Redaktionell hantering:** formulera inte detta som att ett formellt kommunmöte har genomförts med dokumenterade beslut. Begär kommunens diarieförda handlingar och bolagets skriftliga svar.
