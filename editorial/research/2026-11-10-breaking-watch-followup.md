@@ -685,3 +685,57 @@ Den tidigare formuleringen att två silverliturgiska flabeller faktiskt återfö
 - Ingen PR har mergats.
 - Ingen artikel har publicerats LIVE.
 - Ingen ny post har skrivits till webbplatsens produktionsdatabas.
+
+
+## Delta 10 november 2026, 21.17 Europe/Sofia – Litauens energiberedskap och Infineons AI-kraftelektronik
+
+### B / R – Litauen planerar sju ö-driftzoner och 800 MW ny flexibel produktion
+
+- **Händelsedatum och publiceringsdatum:** 10 november 2026.
+- **Plats/aktörer:** Litauen; Litgrid; energiministeriet; privata investerare som enligt Reuters ska bygga anläggningarna.
+- **PRIMÄRKÄLLA:** Litauens energiministerium publicerade Litgrids koncept för ett system med sju elområden som vid större störningar tillfälligt ska kunna fungera oberoende av varandra. Konceptet omfattar tio nya flexibla kraftverk med sammanlagt 800 MW, uppgradering av befintliga verk och batterilager där det behövs. Fyra zoner kan enligt konceptet nå begränsad isolerad drift redan 2028; hela modellen anges vara fullt genomförd 2033.
+- **PRIMÄRKÄLLA – genomförandestatus:** auktioner planeras till 2027 först efter föreslagna rättsliga och regulatoriska ändringar. Vinnande aktörer ska enligt ministeriets/Litgrids upplägg bygga ny kapacitet inom fem år och därefter leverera regionala ö-driftstjänster i 15 år. Litgrid anger en uppskattad påverkan på överföringstariffen om 0,67 eurocent/kWh efter 2033. Detta är ett koncept och en planerad marknadsmodell, inte byggbeslut eller installerad kapacitet.
+- **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 10 november att planen beräknas kosta cirka €880 miljoner och att privata investerare ska bygga anläggningarna. Litgrid-chefen beskrev gas som den mest sannolika tekniken, men uppgav att upphandlingarna ska vara teknikneutrala. Kraven på start inom 30 minuter och två veckors kontinuerlig nöddrift kan i praktiken gynna planerbar termisk produktion. Detta är en teknisk och ekonomisk konsekvensbedömning som ska återges med attribution, inte som ett formellt teknikförbud i upphandlingsunderlaget.
+- **Oberoende lokal rapportering:** LRT återger Litgrids sju zoner, tio verk och 800 MW och beskriver konceptets regionala omfattning.
+- **Varför det spelar roll:** Litauen försöker bygga bort en centraliserad sårbarhet genom geografiskt distribuerad reserv- och ö-drift. Det skapar en konkret målkonflikt mellan fysisk beredskap, investeringskostnad och landets klimatneutralitetsmål för 2050. Det är relevant för Europas nätresiliens och för konkurrensen om planerbar effekt när AI-datacenter, industri och elektrifiering samtidigt ökar efterfrågan.
+- **Öppet:** slutlig reglering, auktionernas utformning, teknikmix, finansieringsvillkor, lokalisering, nät- och miljötillstånd samt hur de sju zonerna ska provas i praktiken.
+- **Nästa kontrollpunkt:** Litgrids marknadspresentation 25 november 2026; offentlig konsultation till 10 december; uppdaterat koncept preliminärt i mitten av januari 2027; därefter beslut om auktioner.
+- **Artikelvinkel:** ”När elnätet delas i öar – Litauens 800 MW-plan mellan säkerhet och klimatmål”.
+
+Källor:
+- Litauens energiministerium/Litgrid, 10 november: https://enmin.lrv.lt/lt/naujienos/litgrid-pristato-energetiniu-salu-modeli-didelio-sutrikimo-atveju-atskiros-lietuvos-tinklo-dalys-gales-veikti-savarankiskai-SmJz/
+- Reuters, 10 november: https://www.reuters.com/business/energy/security-fears-push-lithuania-toward-gas-backed-power-despite-climate-goals-2026-11-10/
+- LRT, 10 november: https://www.lrt.lt/naujienos/verslas/4/3109387/lietuvoje-2033-m-isdygs-10-nauju-elektriniu-sukurs-septynias-energetines-salas
+
+### F / R – Infineon höjer sin prognos för datacenterkraft till nästan €4 miljarder
+
+- **Händelsedatum/publiceringsdatum:** 10 november 2026; räkenskapsåret avslutades 30 september 2026.
+- **Plats/aktör:** Infineon Technologies AG, Neubiberg/Tyskland; leverantör av halvledare och kraftelektronik till datacenter och energiinfrastruktur.
+- **PRIMÄRKÄLLA:** Infineons FY2026-resultat anger Q4-intäkter på €4,706 md och helårsintäkter på €16,353 md, upp 12 procent. Bolagets FY2027-prognos är cirka €20 md i total omsättning och nära €4 md från strömförsörjning till datacenter. Planerade investeringar anges till €3,0–3,5 md; justerat fritt kassaflöde väntas bli cirka €2,2 md.
+- **Jämförelse med tidigare bolagsprognos:** Infineon angav i februari 2026 omkring €2,5 md i datacenterkraftintäkter för FY2027. Den nya prognosen innebär en tydlig höjning. Prognosen är bolagets egen framåtblickande bedömning, inte redan realiserade intäkter eller bekräftade kundorder.
+- **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade samma dag om mer än 20 procents väntad total intäktstillväxt 2027 och nära €4 md i datacenterkraftförsäljning. Oberoende rapportering bekräftar att prognosen presenterades, inte att den kommer att uppnås.
+- **Betydelse:** AI-infrastrukturens flaskhalsar omfattar även kraftomvandling, nätanslutning och komponenter mellan elnät och GPU-rack. Infineons prognos ger ett konkret leverantörsperspektiv på denna del av värdekedjan och kopplar AI-investeringar till investeringar i elinfrastruktur.
+- **Öppet:** orderstock och kundkoncentration för datacenterkraft, produktmix, kapacitetsutbyggnad, faktisk leveransprofil och hur mycket av prognosen som är säkrat genom bindande kundorder.
+- **Nästa kontrollpunkt:** Q1 FY2027-rapporten och uppdaterade investerings-/kapacitetsuppgifter.
+- **Artikelvinkel:** ”AI-boomen behöver mer än GPU:er – Infineon räknar med nästan €4 miljarder i datacenterkraft”.
+
+Källor:
+- Infineon, FY2026-resultat, 10 november: https://www.infineon.com/press-release/2026/infpr202611-025
+- Infineon, tidigare FY2026-prognos, 4 februari: https://www.infineon.com/press-release/2026/infxx202602-042
+- Reuters, 10 november: https://www.reuters.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-2026-11-10/
+
+### Täckningskontroll A–S vid 21.17 Sofia
+
+- **Nya substantiella deltan:** B/R (Litauens ö-driftkoncept och 800 MW planerad flexibilitet); F/R (Infineons höjda prognos för datacenterkraft).
+- **A:** Palantirs Q3/SEC och NHS-GP-lobbyspåret kvarstår enligt befintliga PR #7/#33/#42; ingen ny primärhandling efter den senaste kontrollen.
+- **C:** inga nya empiriska resultat som styrker acausalitet; PR #38 fortsätter skilja teoretiska modeller från reproducerbara data.
+- **D:** Samuils återförande och sarkofag är fortsatt dokumenterade; fyndårsdiskrepansen 1965/1969 och originalutgrävningsmaterial är fortfarande öppna.
+- **E/S:** CRMA:s andra lista med 46 projekt (totalt 106) kvarstår som senaste beslutspost; inga nya strategiska projektbeslut eller nya offentliga Onkalo/STUK-besked identifierade i denna delkontroll.
+- **G:** presidentarkivets MoU och mötet om diaspora-medborgarskap kvarstår i PR #39; fullständigt MoU och arkivinventering saknas.
+- **H/I/J/K/L/M:** inga nya primärhandlingar över notiströskeln identifierade i denna delkontroll; kyrkoarkiv, markregister, Skaga, Athosproveniens och Storsjöodjurets folklore kvarstår som separata öppna arkivspår.
+- **N:** inga nya rättsliga eller tillsynsbeslut utöver befintliga PR #11/#19/#41; Palantir/NHS behandlas som korsspår med A.
+- **O:** Gem No. 2-tendern och oktober-LNG-trafiken är redan dokumenterade i PR #3; ingen ny oberoende teknisk skadebekräftelse eller ny passageuppgift identifierad här.
+- **P:** BAAJA:s 73–25-procedurvotering och ersättningstexten är redan dokumenterade i PR #10; ingen ny slutlig passage fastställd.
+- **Q:** Saabs AI-agentflygprov kvarstår som partsuppgift utan offentlig oberoende testmatris eller operativ certifiering.
+
+**Arbetsflöde:** inga nya artikelärenden startades i denna delta. Uppdateringarna hör hemma i befintliga granskningsärenden PR #14, #31 och täckningsjournalen PR #16. Samtliga berörda PR:er förblir draft; ingen merge eller LIVE-publicering har gjorts i denna kontroll.
