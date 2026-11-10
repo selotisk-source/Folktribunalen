@@ -1,6 +1,6 @@
 # Northvolts gamla fabrik får två nya roller – Lyten startar batterier, EdgeConneX utvecklar AI-datacenter
 
-*Det tidigare Northvolt-området i Skellefteå håller på att delas upp mellan batteriproduktion och digital infrastruktur. Lyten uppger att batteriverksamheten har startat om och att upptrappning pågår. Kommunen bekräftar att EdgeConneX köpte delar av marken under sommaren 2026, och Lyten säger nu att utvecklingsarbetet för datacentrets första fas har inletts. Men 1 GW är fortfarande en möjlig slutkapacitet – inte installerad effekt eller färdig datacenterdrift.*
+*Det tidigare Northvolt-området i Skellefteå håller på att delas upp mellan batteriproduktion och digital infrastruktur. Lyten uppger att batteriverksamheten har startat om och att upptrappning pågår. Kommunen uppger att EdgeConneX senare förvärvade delar av området, men anger inte entydigt datum eller direkt säljare, och Lyten säger nu att utvecklingsarbetet för datacentrets första fas har inletts. Men 1 GW är fortfarande en möjlig slutkapacitet – inte installerad effekt eller färdig datacenterdrift.*
 
 ## Vad som är nytt
 
@@ -16,7 +16,7 @@ Den 27 februari 2026 meddelade Lyten att bolaget slutfört köpet av Northvolt E
 
 EdgeConneX meddelade samma dag att bolaget avsåg att förvärva ett datacenterområde från Lyten, med en potentiell campuskapacitet på upp till 1 GW, under förutsättning att relevanta administrativa processer slutfördes.
 
-Skellefteå kommun uppger nu att Lyten sålde delar av marken till EdgeConneX under sommaren 2026. Kommunens information bekräftar därmed att det inte längre bara rör sig om en avsiktsförklaring om ett framtida markförvärv. Däremot har de exakta fastighetsbeteckningarna, överlåtelsedatumet, köpeskillingen och lagfartsuppgifterna inte hämtats direkt ur Lantmäteriets inskrivningsregister i denna kontroll.
+Skellefteå kommuns FAQ anger att EdgeConneX senare förvärvade delar av området, men dess formulering om den direkta säljaren är inte entydig: ett avsnitt beskriver att konkursförvaltaren sålde mark vidare till EdgeConneX när Lyten-affären slutfördes i februari 2026, medan ett annat säger att EdgeConneX förvärvade delar senare samma år. Lyten uppgav den 27 februari att EdgeConneX planerade att förvärva en datacenterplats från Lyten, med förbehåll för administrativa godkännanden. Den faktiska överlåtelsekedjan, fastighetsbeteckningarna, datumet och köpeskillingen måste därför kontrolleras mot Lantmäteriets inskrivningsuppgifter.
 
 **PRIMÄRKÄLLA – kommunal uppgift om markförsäljningen:** [Skellefteå kommun, frågor och svar om Bergsbyns industriområde](https://skelleftea.se/extraordinara-handelser/bergsbyns-industriomrade/utvecklingen-pa-bergsbyns-industriomrade-i-skelleftea/fragor-och-svar).
 
@@ -29,7 +29,7 @@ EdgeConneX:s ursprungliga besked beskrev en potentiell datacentercampus på upp 
 
 Det finns därför tre olika nivåer som måste hållas isär:
 
-1. **Markförvärv:** kommunen uppger att EdgeConneX köpte delar av området sommaren 2026.
+1. **Markförvärv:** kommunen uppger att EdgeConneX senare förvärvade delar av området, men datum och direkt säljare är inte entydiga.
 2. **Projektutveckling:** Lyten uppger att arbete med fas 1 har inletts.
 3. **Installerad och driftsatt datacenterkapacitet:** ingen offentlig dokumentation har hittats som visar att någon datacenterhall har tagits i drift eller att 1 GW har beställts, finansierats och byggts.
 
@@ -57,7 +57,7 @@ Kommunens miljöstrateg har tidigare svarat på ett medborgarförslag om värmep
 Lyten har uppgett att förvärvet av de svenska Northvolt-tillgångarna finansierades med investeringar från befintliga och nya nordamerikanska och europeiska investerare samt kapital kopplat till EdgeConneX:s planerade datacenterinvestering. EdgeConneX ingår i EQT:s portfölj.
 
 Det offentliga materialet som granskats här redovisar inte:
-- köpeskilling för marken som såldes till EdgeConneX sommaren 2026;
+- köpeskilling för EdgeConneX:s markförvärv under 2026;
 - EdgeConneX:s totala investeringsbudget för Skellefteå;
 - låntagare, långivare, garantier eller säkerheter för fas 1;
 - kundavtal eller bindande hyresåtaganden för datacenterkapacitet;
