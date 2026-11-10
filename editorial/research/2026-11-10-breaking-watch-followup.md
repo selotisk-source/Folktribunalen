@@ -640,7 +640,7 @@ Källor:
 
 ### Nya och uppdaterade granskningsärenden
 - **PR #44 – Venture Global och AI-utility:** nytt draft baserat på SEC Form 8-K, Q3-resultat och bolagets förberedda earnings-call-remarks 10 november. Skiljer mellan ramavtal för upp till 16 × 720 MW, avsikt att beställa två första enheter och faktisk driftsatt kapacitet.
-- **PR #43 – Lyten/EdgeConneX i Skellefteå:** nytt draft om återstartad batteriproduktion och EdgeConneX:s utveckling av första datacenterfasen på delar av det tidigare Northvolt-området. Kommunen bekräftar markförsäljning sommaren 2026; fastighets- och tillståndshandlingar återstår.
+- **PR #43 – Lyten/EdgeConneX i Skellefteå:** nytt draft om återstartad batteriproduktion och EdgeConneX:s utveckling av första datacenterfasen på delar av det tidigare Northvolt-området. Kommunen uppger att EdgeConneX senare förvärvade delar av området; direkt säljare och exakt datum är inte entydiga i kommunens FAQ och lagfart saknas.
 - **PR #42 – Palantir och NHS GP-data:** nytt separat draft om Guardian:s FOI-baserade rapportering 9 november. Utkastet skiljer lobbying från faktisk databehandling och använder parlamentets HCWS57 från 21 november 2023 som primär baslinje.
 - **PR #41 – Arbetsförmedlingens AI-profilering:** nytt draft om IMY:s aktiva tillsyn i steg 2 av 3, uppdaterad 5 november. Skiljer profilering från automatiserat beslutsfattande och myndighetens uppgift om mänskligt slutbeslut.
 - **PR #40 – Anthropic:** befintligt draft utökat med fullare avstämning av $900,9 md, namngivna minimiköp, Broadcom-leasing och TeraWulf/Google-backstoppen för 401 MW.
