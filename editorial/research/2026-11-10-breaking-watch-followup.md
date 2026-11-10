@@ -979,6 +979,12 @@ Detta tillägg fångar dokument och händelser som tillkommit eller kunnat kontr
 - **Öppet:** huruvida beslutet överklagats, vilken arbetsplan som senare lämnats in, vilka fastighetsägare/samebyar som berörs i det konkreta arbetsprogrammet samt om ekonomisk säkerhet faktiskt ställts. Publicera inte koordinater eller detaljer som inte behövs för den civila miljö- och markrättsanalysen.
 - **Artikelvinkel:** CRMA:s europeiska projektkarta möter den lokala verkligheten: undersökningstillstånd, rättigheter, vatten, natur och försvarsintressen.
 
+### E/S – viktig juridisk precisering av Rottensjön-tillståndet
+- **PRIMÄRKÄLLA – Bergmästarens beslut 8 oktober, BS 200-1233-2026:** Ansökan namnger koppar, guld, silver, zink och bly. Beslutets motivering säger emellertid att tillståndet, eftersom sökanden inte begärt en snävare avgränsning, omfattar samtliga koncessionsmineral i 1 kap. 1 § första stycket 1 och 2 minerallagen. Den laglistan omfattar bland annat uran, litium, kobolt, nickel, lantanider/sällsynta jordartsmetaller, volfram och grafit.
+- **Juridisk/geologisk gräns:** Detta beskriver vilka mineral undersökningstillståndet rättsligt kan omfatta. Det är inte belägg för att uran, litium, kobolt, nickel, sällsynta jordartsmetaller eller något annat mineral faktiskt finns i området. Ingen fyndighet, resurs eller reserv har fastställts.
+- **Redaktionell åtgärd:** PR #37 har uppdaterats med denna distinktion och en länk till den aktuella minerallagen. Utkastet är fortsatt draft, ej godkänt och ej publicerat.
+- Källor: https://resource.sgu.se/bergsstaten/rottensjon-nr-100-bes.pdf · https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/minerallag-199145_sfs-1991-45/
+
 ### F – AI-finansiering: ny SEC-primärkälla
 - **PRIMÄRKÄLLA, SEC S-1/A-2, inlämnad 10 november:** Anthropic redovisar cirka 900,9 md USD i samlade åtaganden för inköp och leasing, inklusive kortfristiga åtaganden och leasingavtal som ännu inte börjat löpa. Cirka 451,6 md USD väntas belasta perioden fram till 31 december 2030 och cirka 70,7 md USD förfaller inom de följande tolv månaderna. Bolaget beskriver beloppen som i huvudsak compute och infrastruktur.
 - **Redovisningsgräns:** 900,9 md USD får inte beskrivas som omedelbar skuld, utbetalt kapital eller kontant kassautflöde i dag. Summan blandar kontrakterade inköp, leasing, kortfristiga åtaganden och ännu ej påbörjade leasingperioder. Fördelning per motpart, villkor, uppsägningsrätt, startdatum och finansieringskälla måste följas i prospektets tabeller och bilagor.
