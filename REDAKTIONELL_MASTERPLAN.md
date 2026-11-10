@@ -696,7 +696,7 @@ Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vi
 - **Publiceringsstatus:** inga nya artiklar har mergats eller publicerats LIVE. PR #4, #7, #8, #14 och #16 har fått källkommentarer; PR #16:s uppföljningsjournal har uppdaterats.
 
 
-## Delta 10 november 2026, 18.25 Europe/Sofia – Anthropic IPO som separat artikel
+## Delta 10 november 2026, 18.23 Europe/Sofia – Anthropic IPO som separat artikel
 
 - **PR #40 – Anthropic går till börsen – 900,9 miljarder dollar i computeåtaganden.** Nytt separat draft för spår F/B/R, baserat på SEC Form S-1/A-2 den 10 november. Artikeln granskar det föreslagna prisintervallet $70–78, 825 miljoner Class A-aktier, en villkorad privat placering om $26 miljarder och 900,9 miljarder dollar i aggregerade köp-/leasingåtaganden för compute och infrastruktur.
 - **Viktig avgränsning:** 900,9 miljarder dollar är inte omedelbar skuld eller utbetalt kapital; 186,2 miljarder är föremål för villkor/uppsägningsrätt och ytterligare $150–175 miljarder i icke-fasta betalningsarrangemang ligger utanför totalsumman.
