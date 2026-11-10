@@ -96,3 +96,22 @@ Källor:
 - The Guardian, 7 november 2026: https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections
 - Reuters, 5 november 2026: https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/
 
+
+
+## Källuppdatering 10 november 2026 – UNIFIL:s lägesbild 5–8 november
+
+**Händelseperiod:** 5–8 november 2026. **Publiceringsdatum:** FN:s generalsekreterares noon briefing 9 november 2026; Anadolu publicerade en återgivning 10 november.
+
+**PRIMÄRKÄLLA – FN:s briefing 9 november:** UNIFIL rapporterade tre israeliska luftangrepp torsdagen 5 november och tre söndagen 8 november. Under fyradagarsperioden registrerade missionen 360 artilleribanor i områden kring Houla, Al Qantara, Brashit, Mansouri och Majdel Zoun. “Artillery trajectories” ska återges som registrerade projektilbanor, inte som 360 verifierade nedslag, träffar eller skadade mål.
+
+FN-briefingen uppger även att UNIFIL observerat ingenjörsarbeten och vägbyggen samt vad missionen kallade *apparent preparations for sustained presence* i både östra och västra sektorn. Det fastställer inte exakt syfte, ansvarig beslutsfattare eller varaktighet. Grindar och fysiska hinder begränsade fortsatt UNIFIL:s rörelsefrihet; i väster begränsade israeliska soldater och stridsvagnar rörelser i båda riktningarna nära Al-Bayyada den 6 november. Fem humanitära transporter samordnades den 5 november och en den 6 november.
+
+**OBEROENDE ÅTERGIVNING:** Anadolu återgav 10 november samma FN-briefing. Det är journalistisk återgivning av FN:s uppgifter, inte separat geospatial eller fysisk verifiering av varje händelse.
+
+**Betydelse och begränsning:** lägesbilden skärper frågan om säkerhetsansvar när UNIFIL:s ordinarie mandat upphör 31 december 2026 och missionen därefter ska dras tillbaka under högst ett år. Briefingen bekräftar däremot inte skador på kyrkor, särskild fördrivning av kristna samhällen eller ett slutligt beslut om permanent israelisk närvaro.
+
+**Källor:**
+- FN:s generalsekreterares noon briefing, 9 november 2026: https://www.un.org/sg/fr/node/401528
+- Anadolu Agency, 10 november 2026: https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108
+
+**Öppet:** byggnadsarbetenas syfte och varaktighet; den faktiska rörelsefriheten för UNIFIL; vem som ska upprätthålla kontakt och humanitär samordning efter mandatets slut; lokala besked från berörda kommuner och kyrkliga institutioner. Ingen slutsats om särskild kristen utsatthet får dras enbart från den här briefingen.
