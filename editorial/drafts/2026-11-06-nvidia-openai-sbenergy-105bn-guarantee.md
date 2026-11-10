@@ -424,3 +424,20 @@ Detta ska inte beskrivas som att NVIDIA redan har betalat 36 miljarder dollar el
 **PRIMÄRKÄLLA:** NVIDIA Form 10-Q, kvartalet avslutat 26 juli 2026, Note 10, särskilt tabellerna över framtida åtaganden och avsnittet “AI cloud agreements”: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
 
 **ÖPPET:** fullständiga avtal med AI-molnpartnerna, identiteten på varje motpart, kapacitet per avtal, vilka belopp som redan reducerats genom användning, intäktsdelningens trösklar och hur åtagandena utvecklas i nästa 10-Q.
+
+
+## Jämförelseuppdatering 10 november 2026 – AMD:s kundwarranter
+
+**Händelsedatum:** kvartalet avslutades 26 september 2026. **Dokumentdatum:** AMD:s Form 10-Q lämnades in 28 oktober 2026; Q3-resultaten presenterades 3 november.
+
+**PRIMÄRKÄLLA – AMD Form 10-Q, Note 14:** AMD redovisar två kundrelaterade warrantavtal. Vardera warranten omfattar upp till 160 miljoner AMD-aktier med lösenpris 0,01 USD per aktie. Intjäningen är villkorad av kundernas kvalificerade inköp och särskilda aktiekurs-/prestationsmål. Ingen av warrantserierna var intjänad eller möjlig att utnyttja per 26 september 2026.
+
+AMD redovisar cirka **1,2 miljarder USD** i warrantrelaterad omvärdering som icke-kassaflödespåverkande kostnad under perioden. Bolaget anger dessutom cirka **4,5 miljarder USD** i ännu ej redovisat grant-date fair value, som ska redovisas som en minskning av intäkter när de relevanta prestationsåtagandena uppfylls. Detta är inte en kontant utbetalning på 1,2 miljarder USD och inte ett traditionellt lån; det är en redovisningsmässig värdeförändring av villkorade aktierelaterade instrument och framtida intäktsreduktion.
+
+**Källgräns:** AMD:s not identifierar inte de två kunderna i själva warranttabellen. Bolagets riskfaktorer och oberoende rapportering pekar på OpenAI och Meta som kunder i denna typ av arrangemang, men det går inte att säkert para ihop respektive warrant med respektive kund enbart från noten. Den kopplingen ska därför inte göras utan avtalsbilagor eller uttrycklig bolagsbekräftelse.
+
+**Analytisk betydelse:** Jämförelsen med NVIDIA visar flera olika sätt att knyta samman leverantör, kund och kapital: förskotts-/kapacitetsåtaganden, villkorade garantier, långfristiga köpåtaganden och kundwarranter. Dessa instrument måste hållas isär från redovisad skuld, kontant betalning och faktisk utspädning. Den gemensamma frågan är hur mycket av AI-infrastrukturens efterfrågan som är oberoende kundbetalning och hur mycket som är beroende av leverantörens egna finansierings- eller incitamentsinstrument.
+
+**PRIMÄRKÄLLA:** AMD Form 10-Q, kvartal avslutat 26 september 2026, Note 14: https://www.sec.gov/Archives/edgar/data/2488/0000002488260000xx/amd-20260926.htm
+
+**Öppet:** hämta warrantavtalens fullständiga bilagor; fastställ kundernas identitet och fördelning; följ när prestationsvillkor uppfylls, när warrants intjänas och hur framtida intäktsreduktion redovisas.
