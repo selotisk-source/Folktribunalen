@@ -161,3 +161,21 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 8. Kommer kraven på egen kraftproduktion att bli bindande, och hur ska de i så fall utformas utan att skapa nya systemrisker?
 
 **Status:** Utkastet kompletterat 10 november med regeringens norska koncessionsplan, Finlands proposition HE 282/2026 om datacenterregister, Danmarks stadfästa L 23 och Le Mondes rapportering om protesterna 6–7 november. Skillnaden mellan lag, proposition, myndighetsåtgärd och regeringsavsikt hålls isär. Stortingets frågor 15:568 och 15:474 kvarstår. Kvarstår: slutlig juridisk granskning av norska villkor när förslagstext publiceras, svar från energiministern, finsk lagbehandling och dansk genomförandeförordning. Inte publicerad.
+
+
+## Källuppdatering 10 november 2026 – Saugbrugs tappar Green Mountain som partner
+
+**Händelsedatum:** LOI löpte ut 31 oktober 2026. **Publiceringsdatum:** Norske Skogs börsmeddelande 1 november 2026 kl. 20.15 CET.
+
+**PRIMÄRKÄLLA – Norske Skog/Oslo Børs-meddelande:** Norske Skog och Green Mountain förlänger inte sin avsiktsförklaring om att utreda ett datacenter vid Saugbrugs i Halden. Norske Skog avser fortfarande att utveckla en möjlighet på **80–100 MW**, men ska nu söka en ny industriell datacenterpartner. Bolaget säger att flera utvecklare visat intresse för det reviderade konceptet. Kommunens planprogram för delar av industriområdet som inte används för fiberförädling eller pappersproduktion har nyligen antagits; det är inte ett bygglov, ett nätanslutningsavtal eller ett investeringsbeslut.
+
+**Oberoende bekräftelse:** Finansavisen/TDN återgav börsmeddelandet 1–2 november. Den oberoende rapporteringen bekräftar att samarbetet upphört, men projektets MW-tal och tillgång till kraft kommer från Norske Skogs egen uppgift.
+
+**Betydelse:** Saugbrugs visar skillnaden mellan en LOI, ett planprogram, en reserverad nätanslutning och ett finansierat datacenter. Den namngivna operatören är borta; 80–100 MW är fortsatt en utvecklingsmöjlighet, inte kapacitet i drift eller en bekräftad anslutning. Det är särskilt relevant mot bakgrund av Statnetts paus för nya reservationer till 1 augusti 2027.
+
+**Källor:**
+- Norske Skog, börsmeddelande via MFN/Oslo Børs, 1 november 2026: https://mfn.se/ob/a/norske-skog/nskog-norske-skog-continues-data-centre-development-at-saugbrugs-and-seeks-new-partner-bac6c7e9.iframe
+- Finansavisen/TDN, 1–2 november 2026: https://www.finansavisen.no/tdn/2026/11/02/06611529/norske-skog-avslutter-datasentersamarbeid-med-green-mountain-soker-ny-partner
+- Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+
+**Öppet:** ny partner; bindande nätreservation; kommunens planbestämmelser; bygglov och startbesked; finansieringsstruktur; vem som bär kostnaden för eventuell nätförstärkning.
