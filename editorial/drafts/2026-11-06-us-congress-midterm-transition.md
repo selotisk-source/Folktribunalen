@@ -2,7 +2,7 @@
 
 **Artikeltyp:** Institutionell granskning · kongressmakt · AI · försvar · tillsyn  
 **Utkastdatum:** 6 november 2026  
-**Faktaläge:** 9 november 2026  
+**Faktaläge:** 10 november 2026  
 **Berörda redaktionella spår:** USA:s kongress · Palantir och offentlig makt · NVIDIA och AI-finansiering · Hormuz och säkerhet · Gripen och Europas försvar
 
 *Demokraterna har enligt Associated Press vunnit kontrollen över både representanthuset och senaten i mellanårsvalet den 3 november. Det innebär ett tydligt skifte för den kommande kongressen – men inte en omedelbar förändring av utskottsmakten. Den nuvarande 119:e kongressen sitter kvar tills den nya kongressen tillträder den 3 januari 2027.*
@@ -235,3 +235,28 @@ Källor:
 - Senate EPW Committee, substitute amendment 7 november 2026: https://www.epw.senate.gov/public/index.cfm/2026/11/capito-lee-whitehouse-and-heinrich-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026
 - Senator Markey, statement 9 november 2026: https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-permitting-reform-deal
 - Reuters, 9 november 2026: https://www.reuters.com/legal/litigation/democratic-us-senators-see-hope-permitting-bill-ahead-key-senate-vote-2026-11-09/
+
+## Hegseth: en ny procedurstrid om krigsmakt och kongressens kontroll
+
+**Händelsedatum:** Thomas Massie meddelade den 9 november 2026 att han åter driver åtta artiklar om riksrätt mot försvarsminister Pete Hegseth. **Publiceringsdatum:** Massies pressmeddelande 9 november; Hegseths svar och den planerade proceduromröstningen rapporterades 10 november.
+
+**PRIMÄRKÄLLA – Massies kontor:** Massie uppger att han tvingar fram en omröstning om att ställa Hegseth inför riksrätt. Hans huvudanklagelse är att Hegseth ska ha brutit mot tre bestämmelser i War Powers Resolution of 1973. Det är anklagelser från en ledamot, inte fastställda rättsliga slutsatser.
+
+**PRIMÄRKÄLLA – representanthusets dagordning:** Republican Cloakroom listar den 10 november en procedurmotion om en ännu onumrerad H.Res. med rubriken om riksrätt mot Peter Brian Hegseth. Dagordningen anger att motionen sponsras av Massie och hänvisas till Judiciary Committee. Den anger inte att kammaren redan har beslutat att väcka åtal. Vid kontrolltidpunkten 21.38 Sofia den 10 november var nästa omröstning planerad till cirka 17.30 ET; något utfall hade ännu inte publicerats. H.Res.-numret var fortfarande blankt i den offentliga dagordningen.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters och Associated Press rapporterade den 10 november att de åtta artiklarna främst gäller Iranoperationen, men också operationer i Jemen och Venezuela, skyddet av civila samt Massies påstående om repressalier mot senator Mark Kelly. Hegseth avvisar initiativet som ett politiskt spektakel och hävdar att operationerna var lagliga och utfördes på presidentens order. President Trump och vicepresident Vance har offentligt stött Hegseth.
+
+**Vad som faktiskt står på spel:** Den första omröstningen gäller en procedurmotion om att hänvisa eller stoppa resolutionen. Den är inte samma sak som en slutlig omröstning om riksrätt. Om representanthuset antar artiklarna krävs därefter en separat rättegång i senaten; fällande dom kräver två tredjedelar av de närvarande senatorerna. Den demokratiska majoriteten som valdes den 3 november tillträder först den 3 januari 2027. Den nuvarande kongressen har därför fortfarande en sista period där den sittande majoriteten kontrollerar dagordningen.
+
+**Motargument och osäkerheter:** Hegseth bestrider att det rör sig om impeachable conduct och beskriver anklagelserna som policykonflikter. Massies rättsliga tolkning av War Powers Resolution är inte prövad av domstol i detta ärende. Vi har inte hämtat den fullständiga uppdaterade resolutionens text eller något domstolsavgörande som fastslår brott mot lagen. Den procedurmotion som står på dagordningen kan stoppa ärendet innan en saklig debatt eller omröstning om artiklarna.
+
+**Redaktionell vinkel:** Kongressens sista möjlighet att utöva kontroll över presidentens krigsmakt före maktskiftet i januari. Granskningen bör skilja mellan presidentens befogenheter, försvarsministerns ansvar, War Powers Resolution, den faktiska kongressbehandlingen och de politiska motiven hos både förespråkare och motståndare.
+
+**Källor:**
+- Rep. Thomas Massie, pressmeddelande 9 november 2026: https://massie.house.gov/news/
+- U.S. House Republican Cloakroom, dagordning och vote sheet 10 november 2026: https://repcloakroom.house.gov/
+- Reuters, 10 november 2026: https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/
+- Associated Press, 10 november 2026: https://apnews.com/article/272515c4fca92435224406593a892e69
+- Congressional Record, 15 september 2026, tidigare version av artiklarna: https://www.govinfo.gov/content/pkg/CREC-2026-09-15/pdf/CREC-2026-09-15.pdf
+
+**Status:** Tillagd som en ny procedurhändelse i det befintliga kongressutkastet. Ingen riksrätt har beslutats. Nästa kontrollpunkt är representanthusets proceduromröstning och eventuell publicering av den uppdaterade H.Res.-texten.
