@@ -207,3 +207,16 @@ Myndighetens instruktioner om begäran av allmän handling: https://www.lansstyr
 - Dokumentgrafik som skiljer äganderätt, förvärvstillstånd, ISP-beslut, jakträtt, renskötselrätt och allemansrätt.
 
 **Status:** Utkastet uppdaterat den 10 november 2026 med (1) en uttrycklig källkonflikt om Berg Storsjö 18:3 och 18:5 – de ska inte räknas som en separat tilläggsaffär innan originalhandlingar finns – och (2) Sanningskommissionens SOU 2026:58 om samisk markhistoria och Härjedalsdomen. SVT:s publicering den 10 november anger att mötet hölls i Svenstavik samma tisdag mellan kommunalrådet Therese Kärngard och en jurist som företrädde Cladonia. Kommunen fick enligt SVT en förklaring till köpet, men den exakta motiveringen återges endast i videon och behöver kontrolleras innan den citeras eller sammanfattas. Utkastet är inte publicerat. Kvar före publicering: fullständig fastighetsförteckning, originalbeslut, JO-diarienummer, samebyarnas egna uppgifter, jaktavtal och dokumentation från kommunmötet.
+
+
+## Källnotering – kommunmötet 10 november 2026
+
+Den tidigare uppgiften om att mötet hölls i Svenstavik har nu direkt stöd i SVT:s publicering den 10 november kl. 17:16 (uppdaterad 17:19). SVT anger att kommunalrådet Therese Kärngard mötte en jurist som företrädde Cladonia Skog AB. Kommunen fick besked om varför Alex Karp valt att köpa marken utanför just Storsjö. SVT hänvisar läsaren till videon för själva beskedet; texten återger inte motiveringen. Den ska därför inte parafraseras i artikeln innan videon har granskats eller kommunen har lämnat minnesanteckningar.
+
+Sveriges Radio P4 Jämtland publicerade samma kväll en separat kort rapport och beskriver mötet som ett första möte. Detta bekräftar att frågan fortfarande är i ett tidigt dialogskede; det visar inte att byalaget, samebyarna eller jaktlagen har fått svar.
+
+**OBEROENDE BEKRÄFTELSE:**
+- SVT, 10 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
+- Sveriges Radio P4 Jämtland, 10 november 2026: https://next.sr.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
+
+**Öppet:** Hämta kommunens kallelse, deltagarlista, minnesanteckningar och eventuella skriftliga besked från Cladonia. Kontrollera videons fullständiga ordalydelse innan något motiv tillskrivs bolaget eller Alex Karp personligen.
