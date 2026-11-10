@@ -298,3 +298,27 @@ Källor:
 - Guardian, 2 november 2026, FOI-granskning av 29 trusts: https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts
 - Health and Social Care Committee, 9 juli 2026: https://committees.parliament.uk/committee/81/health-and-social-care-committee/news/214760/drop-palantirs-federated-data-platform-and-look-for-alternative-mps-tell-health-minister/
 
+
+
+## Källuppdatering 10 november 2026 – GP-data, NHS:s faktiska gränser och MOPAC
+
+**Händelsedatum och publiceringsdatum:** WhatsApp-korrespondensen löper juli 2025–mars 2026; den centrala lobbykontakten om GP-data skedde i februari 2026. The Guardian publicerade sin FOI-granskning 9 november 2026 kl. 17.58 GMT.
+
+**OBEROENDE BEKRÄFTELSE / FOI-UNDERLAG:** Guardian redovisar meddelanden mellan Palantirs brittiske chef Louis Mosley och dåvarande hälsoministern Zubir Ahmed. Dokumenten begärdes ut enligt Freedom of Information Act av Foxglove och delades med Guardian. De visar att Palantir argumenterade för att koppla samman primärvårds- och sjukhusdata och uppmanade ministern att föregripa politiskt motstånd. De ursprungliga FOI-bilagorna har inte hämtats direkt i denna kontroll; citat och innehåll ska därför tills vidare hänföras till Guardians granskning av de utlämnade handlingarna.
+
+**PRIMÄRKÄLLA – NHS England, FAQ och Information Governance Framework:** NHS skiljer mellan den nationella och de lokala instanserna. NHS England anger att det inte finns GP-dataset i den nationella instansen. Viss information som ursprungligen kommer från GP-register, exempelvis vaccinationsuppgifter i vissa produkter, kan förekomma nationellt först efter avidentifiering/pseudonymisering. Lokala NHS Trusts och ICB:er kan däremot lägga in GP-dataset som de lagligen innehar i sina lokala instanser när lämpliga data sharing agreements finns. Detta är inte bevis för att identifierbara GP-register har flyttats till den nationella instansen; det visar att lokala integrationer är möjliga inom den publicerade arkitekturen.
+
+**PRIMÄRKÄLLA – Health and Social Care Committee, muntlig bevisning 4 november:** Yvette Cooper sade att kontraktsöversynen fortfarande pågick och att hon inte ville föregripa beslutet. **OBEROENDE RAPPORTERING:** Guardian återger Financial Times uppgift om att regeringen överväger en förlängning och samtidigt en brittisk ersättare. Något slutligt förlängningsbeslut eller undertecknat nytt avtal har inte identifierats.
+
+**PRIMÄRKÄLLA – MOPAC, MD3560, undertecknat 9 oktober 2026:** Sadiq Khan godkände en förlikning av Palantirs rättsliga krav mot MOPAC efter att Deputy Mayor for Policing and Crime vägrat samtycke till att MPS skulle tilldela Palantir kontraktet för Unified Operational Analytics. MOPAC accepterar inte Palantirs påståenden. Båda sidor ska dra tillbaka sina krav; ingen kompensation, ersättning för juridiska kostnader eller annan betalning ska utgå. Förlikningen är inte ett kontraktstilldelningsbeslut och innebär inte att den tidigare vägran upphävts.
+
+**Betydelse:** Den avgörande gränsen är inte bara om GP-data förekommer, utan i vilken instans, med vilken identifierbarhetsnivå, under vilken controller, vilket ändamål och vilket data sharing agreement. Lobbykontakt, lokal integration och nationell databehandling får inte slås ihop till ett enda påstående.
+
+**Källor:**
+- Guardian, 9 november 2026: https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records
+- NHS England, FDP FAQs: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/fdp-faqs/
+- NHS England, Categories of personal data: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/security-privacy/nhs-fdp-information-governance-framework/categories-of-personal-data/
+- Health and Social Care Committee, 4 november 2026: https://committees.parliament.uk/event/27162/formal-meeting-oral-evidence-session/
+- MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
+
+**Öppet före publicering:** hämta originalbilagorna till FOI-begäran; fastställ exakt lokal data controller och DSA för varje GP-pilot; kontrollera om ministeriets översyn lett till ett formellt beslut; kontrollera om MOPAC:s förlikningsavtal och offentliga uttalande publicerats i sin slutliga lydelse.
