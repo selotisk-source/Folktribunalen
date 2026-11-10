@@ -653,3 +653,12 @@ Ny kontrolljournal: [2026-11-10-breaking-watch-followup.md](editorial/research/2
 **Renderkontroll:** statiska tjänstens senaste deployment är fortsatt `live` på commit `8e46f91` (8 november, “Publish approved Hormuz article”). Senaste hämtade `main`-commit är `f265e51` (9 november, “Publish expanded Hormuz investigation”); ingen senare Render-deployhändelse har identifierats. Editorial backend är fortsatt på deployment från 4 november. Databasen är `available`, men tom IP-allowlist blockerar alla externa SQL-anslutningar; Render anger att dess hostade MCP-server saknar en allowlistbar IP. Direkt HTTP-/sidkontroll misslyckades på URL-/DNS-nivå i denna körning. Deploystatus är därför bekräftad i Render, men sidinnehållet är inte direkt kontrollerat.
 
 Ingen draft-PR har mergats. Ingen ny artikel har publicerats. Den godkända korta Hormuzartikeln har en registrerad live-deploypost; PR #3:s utökade granskningsversion är separat och fortfarande öppen.
+
+
+## Driftuppföljning 10 november 2026 – Hormuzversionen på webbplatsen
+
+Källjämförelsen visar att Render fortfarande kör commit `8e46f91` från 8 november. Den deployade `src/app.js` visar Hormuzkortet med 130 incidenter och publiceringsdatum 8 november; den innehåller inte 9 november-versionens 131 incidenter eller East-West-pipelineavsnitt. GitHub `main` har däremot uppdaterad artikeltext i commit `f265e51` från 9 november. Ingen Render-deployhändelse efter 8 november har identifierats, trots `autoDeploy=yes` mot `main`. Orsaken är inte fastställd.
+
+Render rapporterar deploymentstatus `live`, men det betyder i detta fall att den äldre 8 november-byggnaden är live. Webbläsar-/DNS-kontroll av själva HTML-sidan misslyckades. PR #3 är fortfarande draft; fullversionen är inte godkänd för uppdaterad publicering. Ingen manuell deploy har utlösts.
+
+Render Postgres `folktribunalen-db` är `available`, men IP-allowlisten är tom. Read-only SQL-fråga avvisades med felet att externa anslutningar blockeras; Render anger att den hostade MCP-servern saknar en IP-adress att allowlista. Databasens köstatus är därför fortfarande oläsbar.
