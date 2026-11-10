@@ -115,3 +115,59 @@ FN-briefingen uppger även att UNIFIL observerat ingenjörsarbeten och vägbygge
 - Anadolu Agency, 10 november 2026: https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108
 
 **Öppet:** byggnadsarbetenas syfte och varaktighet; den faktiska rörelsefriheten för UNIFIL; vem som ska upprätthålla kontakt och humanitär samordning efter mandatets slut; lokala besked från berörda kommuner och kyrkliga institutioner. Ingen slutsats om särskild kristen utsatthet får dras enbart från den här briefingen.
+
+
+## Ny lokal primärnära dokumentation – fem kristna gränsbyars gemensamma vädjan, 9 november 2026
+
+**Händelsedatum:** måndag 9 november 2026. **Publiceringsdatum:** L'Orient Today 9 november 16:15 Beirut-tid; separat återgivning i Kataeb publicerad samma dag.
+
+Borgmästarna i **Rmeish, Ain Ibl, Dibil, Qouzah och Alma al-Shaab** har enligt L'Orient Today skickat en gemensam vädjan till Council of Catholic Patriarchs and Bishops of Lebanon, som sammanträdde i Bkerki. De ber kyrkoledarna att hjälpa invånarna att kunna stanna kvar på sin mark och göra det möjligt för fördrivna att återvända säkert och värdigt.
+
+**Källstatus:** **PARTSUPPGIFT / dokumenterat lokalt upprop återgivet av press.** Den undertecknade originalskrivelsen har inte hämtats från kommunernas eller kyrkans egen webbplats i denna kontroll. L'Orient Today citerar skrivelsen och återger patriark Beshara Rais offentliga kommentar; Kataeb återger samma vädjan separat. Det är två journalistiska källor, inte två oberoende tillgångar till originalbrevet.
+
+### De tio kraven – sammanfattade utan att slå ihop olika rättsliga frågor
+
+1. Säkra vägarna till Rmeish, Ain Ibl och Dibil så att invånare kan nå sjukhus, skolor och marknader.
+2. Återuppta veckovisa besök i Alma al-Shaab när säkerhetsläget tillåter, för att inspektera hem och hämta tillhörigheter.
+3. Möjliggör frivilligt, säkert och värdigt återvändande, särskilt för fördrivna från Yaroun, Qouzah och Alma al-Shaab.
+4. Tillfälligt bostads- eller hyresstöd för familjer som ännu inte kan återvända.
+5. Återställ grundläggande service, stöd till skolor och hjälp till jordbrukare, småföretagare och hantverkare.
+6. Oberoende skadeinventering, transparent ersättningsmodell och stöd till återuppbyggnad.
+7. Gradvis återöppning av Ain Ibl-sjukhuset med akutberedskap dygnet runt och stöd till vårdkostnader.
+8. Bättre utrustning till Rmeish vårdcentral och Civil Defense-enheten.
+9. Skydd av kyrkor och kulturarv, särskilt kyrkan i Qouzah; en samordningskommission föreslås tillsammans med apostolisk nuntie och Caritas Lebanon.
+10. Kyrkligt arbete gentemot Libanons stat, Heliga stolen och FN för att undvika säkerhets- eller humanitärt vakuum efter UNIFIL:s planerade neddragning från 2027.
+
+L'Orient Today uppger att Qouzah och Alma al-Shaab är helt evakuerade, medan majoriteten av invånarna i flera av de andra byarna har stannat trots brist på livsmedel och medicinska förnödenheter. Detta ska inte generaliseras till alla fem byar som om alla invånare vore fördrivna.
+
+### Kyrkan i Qouzah – separat kulturarvsspår
+
+Vädjan lyfter särskilt skyddet av kyrkan i Qouzah. L'Orient Today beskriver att en bild som cirkulerade den 28 oktober, med en israelisk soldat framför kyrkan, väckte oro för att byggnaden skulle förstöras. Bilden är inte i sig belägg för att kyrkan skadats eller förstörts. Nästa steg är att inhämta daterade fotografier, församlingens och kommunens uppgifter, eventuella skaderapporter och oberoende bildverifiering.
+
+### Kyrkliga aktörer och respons
+
+Maronitpatriarken Beshara Rai sade söndagen 8 november att han mottagit brevet och beskrev de tio kraven som brådskande och legitima. Han sade att vädjan skulle få en viktig plats under rådets veckolånga överläggningar. Apostolisk nuntie ärkebiskop Paolo Borgia uppges ha sagt att vädjan inte kan lämnas obesvarad och kräver konkreta insatser. Det är kyrkliga offentliga uttalanden enligt L'Orient Today, inte ännu ett beslutat biståndsprogram.
+
+### Geografisk och institutionell aktörskarta
+
+- **Rmeish, Ain Ibl, Dibil:** vägar, sjukhus/skola, daglig rörlighet och civilförsvar.
+- **Qouzah, Alma al-Shaab:** uppges helt evakuerade; särskild fråga om återvändande, bostäder och kyrkligt kulturarv.
+- **Yaroun:** nämns bland orterna varifrån fördrivna ska kunna återvända.
+- **Bkerki:** säte för Council of Catholic Patriarchs and Bishops of Lebanon och maronitpatriarkens offentliga respons.
+- **Caritas Lebanon och apostolisk nuntie:** föreslagna samordningsaktörer, inte bekräftat att de redan fått ett formellt mandat.
+- **Libanons stat, Heliga stolen, FN och UNIFIL:** adressater för fortsatt diplomatiskt och humanitärt arbete.
+
+### Oberoende källor och begränsningar
+
+- L'Orient Today, 9 november 2026: https://today.lorientlejour.com/article/1553837/five-christian-villages-in-south-lebanon-appeal-to-catholic-leaders-for-help-staying-on-their-land.html
+- Kataeb, 9 november 2026: https://en.kataeb.org/articles/five-southern-lebanese-villages-urge-church-for-safe-roads-aid-and-return-guarantees
+
+**Öppna frågor före publicering:**
+1. Begär originalbrevet från de fem kommunerna och registrerings-/mottagningsuppgift hos patriarkrådet.
+2. Begär respektive kommuns aktuella befolknings- och evakueringsuppgifter; använd inte odifferentierade totalsiffror.
+3. Begär skriftlig skadebedömning för kyrkan i Qouzah och daterade fotografier före/efter.
+4. Kontrollera sjukhusets nuvarande driftstatus och vad som krävs för 24-timmars akutberedskap.
+5. Följ om patriarkrådet, Caritas eller nuntien faktiskt inrättar den föreslagna kommissionen och med vilken finansiering.
+6. Skilj UNIFIL:s mandatavslut från den ettåriga neddragningen; skriv inte att all FN-närvaro upphör den 31 december 2026.
+
+**Status:** Utkastet kompletterat med lokal vädjan och kyrkobyggnadsspår. Inte godkänt för publicering. Originalbrevet och lokal dokumentation återstår.
