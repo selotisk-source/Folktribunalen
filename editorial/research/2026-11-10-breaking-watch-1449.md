@@ -86,6 +86,34 @@ https://www.hbsslaw.com/cases/nvidia-corporation-nvda-securities-class-action
 
 **Artikelspår (kandidat, inte påbörjat utkast):** *Nvidia under tillsyn: vad är dokumenterat, vad är anklagat och vem granskar exportkedjan?* Håll isär bolagsutredning, kongressbrev, tidigare separata exportmål och den ännu obekräftade 7,5-miljardersuppgiften.
 
+### F/B/R — SoftBank: första konkreta nedskrivningen i den amerikanska AI-kraftkedjan
+
+**Händelsedatum:** kvartalet 1 juli–30 september 2026; resultat offentliggjort 10 november 2026.  
+**Publiceringsdatum:** 10 november 2026.  
+**Aktörer/geografi:** SoftBank Group, dotterbolaget Silver Bands 7 (SB7), SB Energy, OpenAI, leverantörer av kraftgenereringsutrustning; USA, särskilt den offentligt kända PORTS-Pike-anläggningen i Ohio.
+
+**PRIMÄRKÄLLA:** SoftBank publicerade Q2 FY2026-resultatet för halvåret till 30 september den 10 november.  
+https://group.softbank/en/event/earnings_2026q2
+
+**PRIMÄRKÄLLA — tidigare kapitalbeslut:** SoftBank bekräftade 1 oktober att den tredje och sista delen av den planerade OpenAI-investeringen på 10 miljarder USD genomförts. Den totala följdinvesteringen blev 30 miljarder USD, den kumulativa investeringen 64,6 miljarder USD och ägarandelen cirka 13 procent. Den tredje delen finansierades med intäkter från seniora valutadenominerade obligationer; den outnyttjade delen på 10 miljarder USD av den tidigare bryggfaciliteten annullerades efter att samtliga dragna lån återbetalats.  
+https://group.softbank/en/news/press/20261001
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 10 november att SoftBank redovisade en kvartalsförlust på cirka 1,115 biljoner yen (cirka 7 miljarder USD), jämfört med en vinst på cirka 2,5 biljoner yen samma kvartal året före. Reuters pekar ut en nedskrivning på cirka 597,2 miljarder yen (cirka 3,7 miljarder USD) i sexmånadersredovisningen, kopplad till omplanerad upphandling av kraftgenereringsutrustning för amerikanska AI-datacenter. Reuters uppger även att finansieringskostnaderna steg till cirka 462 miljarder yen under kvartalet, mer än dubbelt mot året före, och att möjliga rabatter på framtida utrustningsköp kan uppgå till 2,1 miljarder USD.  
+https://www.reuters.com/world/asia-pacific/softbank-swings-7-billion-net-loss-second-quarter-2026-11-10/
+
+**Viktig period- och redovisningsgräns:** Den kvartalsvisa nettoförlusten på 1,115 biljoner yen och den sexmånadersredovisade upphandlingsförlusten på 597,2 miljarder yen är två olika mått och perioder. Hela kvartalsförlusten får inte tillskrivas utrustningsnedskrivningen. CFO:s resultatsamtal beskriver posten som icke återbetalningsbara förskott samt ändringar och regleringar av undertecknade kontrakt; det är en redovisad förlust, inte bevis för att utrustningen levererats eller att hela projektet ställts in.
+
+**Vad som tillkommit:** SoftBank har nu offentliggjort en konkret förlust kopplad till att kraftutrustning reserverats eller förskottsbetalats innan samtliga projektbehov var slutligt fastställda. Den möjliga rabatten på 2,1 miljarder USD gäller framtida inköp och är inte en kontant återbetalning. Den får därför inte räknas som redan återvunnen likviditet.
+
+**Koppling till Ohio/finansieringskedjan:** Reuters rapporterade i augusti att Nvidia skulle ge kreditstöd på upp till 105 miljarder USD för delar av OpenAI:s 20-åriga hyresåtagande vid ett stort datacenterprojekt i Ohio, utvecklat av SoftBank-ägda SB Energy. Det är en separat rapporterad garanti-/kreditstödsstruktur; det finns inte stöd för att säga att Nvidia garanterar SoftBanks förlust på kraftutrustningen eller att garantin täcker SB7:s förskott.  
+https://www.reuters.com/business/media-telecom/nvidia-invest-15-billion-sb-energy-under-openai-data-center-deal-2026-08-17/
+
+**Varför det spelar roll:** AI-datacenter är inte enbart GPU-inköp. De kräver kraftproduktion, nätanslutning, transformatorer, långledtidsutrustning, leasing, långfristiga hyresåtaganden och garantier. SoftBanks förlust visar att kapacitetsreservationer och förskottsbetalningar kan bli värdeförstörande när projektspecifikationer eller portföljen ändras. Det är ett konkret test av vem som bär förlusten när kraftutrustning köps före slutlig projektmatchning.
+
+**Öppet:** vilka specifika anläggningar som svarar för respektive del av 597,2 miljarder yen; hur stor del av förskotten som kan omallokeras till andra projekt; villkoren för rabatterna på 2,1 miljarder USD; vilka tillgångar SB7 äger eller har rätt till; hur mycket av kraftutrustningen som kan återanvändas; och hur OpenAI:s hyresåtagande, SB Energy-projektbolag och Nvidias rapporterade kreditstöd hänger ihop juridiskt.
+
+**Artikelspår (kandidat, inte påbörjat utkast):** *AI-boomens första kraftnota: SoftBanks 3,7 miljarder dollar i förskott som inte gick att få tillbaka.* Bygg en finansieringskedja från SoftBank/SB7 och kraftutrustning till SB Energy, OpenAI:s hyresåtagande och Nvidias separat rapporterade kreditstöd. Håll kvartalsförlust, halvårsredovisad nedskrivning, framtida rabatt och garanti strikt åtskilda.
+
 ### E/S — Finland: CRMA går från ramverk till konkret gruvavfallsinventering
 
 **Händelsedatum:** riksdagens andra behandling 20 oktober 2026; föreslagen ikraftträdandedag 1 november; EU-deadline 24 november 2026.  
@@ -140,11 +168,11 @@ https://www.defense.gouv.fr/en/news/sweden-orders-four-defence-and-intervention-
 | Spår | Senaste kontroll i denna cykel | Utfall | Nästa relevanta kontrollpunkt |
 |---|---|---|---|
 | A Palantir/offentlig makt | 10 nov | Ingen ny primär dokumenthändelse över tröskeln utöver tidigare kontrollerad Q3/upphandlingsbild | Nya upphandlingar, myndighetsbeslut och dataskydds-/domstolsakter |
-| B AI-datacenter Europa | 10 nov | Norges tillfälliga stopp för nya anslutningsreservationer 9 nov är redan infört i tidigare journal | Detaljer i licensregler; Statnetts kö- och anslutningsdata |
+| B AI-datacenter Europa | 10 nov | Norges tillfälliga stopp är redan infört; SoftBanks kraftutrustningsnedskrivning visar ny capex-/kraftförsörjningsrisk i USA | Detaljer i licensregler; Statnetts kö- och anslutningsdata; SB7/SB Energy-projektfördelning |
 | C Synkronicitet | 10 nov | Inga nya reproducerbara primärresultat över tröskeln | Nya peer-review-publikationer, dataset och reproduktioner |
 | D Sofia/Serdica | 10 nov | Inget nytt primärarkeologiskt dokument hittat | NAIM, kulturministeriet, Sofia kommun och museirapporter |
 | E Strategiska råvaror | 10 nov | Ny konkret CRMA-tillämpning i Finland; se ovan | 24 nov: gruvavfallsbedömningar |
-| F NVIDIA/AI-finansiering | 10 nov | Ny SEC S-1/A samt Nvidia-styrelsens utredning | 11 nov och 18 nov; Anthropic IPO-effektivitet och slutliga villkor |
+| F NVIDIA/AI-finansiering | 10 nov | Ny SEC S-1/A, Nvidia-styrelsens utredning, värdepappersmål och SoftBanks kraftutrustningsförlust | 11 nov och 18 nov; SoftBank/Anthropic finansieringskedja; Anthropic IPO-effektivitet; Nvidia Q3 17 nov |
 | G Libanon | 10 nov | UNIFIL:s lägesbild 5–8 nov redan införd i tidigare journal | Nästa UNIFIL/UN-rapport och verifierbara händelser |
 | H Kyrkor i fem städer | 10 nov | Ingen ny dokumenterad restaurerings-/ägandehändelse över tröskeln | Kyrkoarkiv, byggnads- och kulturarvsregister |
 | I Fennoskandien/skog/häst | 10 nov | Ingen ny primär markanvändnings- eller rättighetshändelse över tröskeln | Skogsbruksplaner, avverkningsanmälningar, kartor och samråd |
@@ -156,7 +184,7 @@ https://www.defense.gouv.fr/en/news/sweden-orders-four-defence-and-intervention-
 | O Hormuz/sjöfart | 10 nov | Oktoberflödet av LNG-fartyg och incidentbild redan införd i tidigare artikelspår | UKMTO/IMO, fartygsdata och försäkrings-/fraktrater |
 | P USA:s kongress | 10 nov | Ny begäran om briefing från Jensen Huang; se F/P ovan | 11 nov svar; 18 nov begärd briefing |
 | Q Gripen/europeisk säkerhet | 10 nov | Ny Saab-order till FDI-fregatterna; se ovan | Kontraktsmilstolpar, FMV och Naval Group |
-| R Strategisk energi/bolag | 10 nov | Inga nya primärhändelser över tröskeln efter tidigare Khor Mor/Zaporizjzja-kontroller | Kraftavtal, nätanslutningar, finansiering och bolagsrapporter |
+| R Strategisk energi/bolag | 10 nov | SoftBank redovisar 597,2 md JPY i sexmånadersförlust kopplad till omplanerad kraftutrustning för amerikanska AI-datacenter | SB7/SB Energy projektallokering, framtida rabatter, utrustningsåterbruk och finansiering |
 | S Urbergsskölden/infrastruktur | 10 nov | Ny finsk CRMA-genomförandepunkt och projektlistan 9 okt; se E/S ovan | GTK-databas, Finlex-publicering, 24 nov och Onkalo/Posiva offentliga tillstånd |
 
 ### Arbetsflöde och publiceringsstatus
