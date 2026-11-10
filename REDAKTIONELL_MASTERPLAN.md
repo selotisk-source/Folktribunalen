@@ -662,3 +662,8 @@ Källjämförelsen visar att Render fortfarande kör commit `8e46f91` från 8 no
 Render rapporterar deploymentstatus `live`, men det betyder i detta fall att den äldre 8 november-byggnaden är live. Webbläsar-/DNS-kontroll av själva HTML-sidan misslyckades. PR #3 är fortfarande draft; fullversionen är inte godkänd för uppdaterad publicering. Ingen manuell deploy har utlösts.
 
 Render Postgres `folktribunalen-db` är `available`, men IP-allowlisten är tom. Read-only SQL-fråga avvisades med felet att externa anslutningar blockeras; Render anger att den hostade MCP-servern saknar en IP-adress att allowlista. Databasens köstatus är därför fortfarande oläsbar.
+
+
+## P – senatsomröstningen 9 november: H.R. 2347 är BAAJA:s lagstiftningsfordon
+
+Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vidare till H.R. 2347. Senate Democratic Caucus och Senate Press Gallery anger att H.R. 2347 är det lagstiftningsfordon som används för Bipartisan American Affordability and Jobs Act (BAAJA). Senate LIS visar fortfarande den ursprungliga formella titeln *Survivor Justice Tax Prevention Act*. Detta är en skillnad mellan ursprunglig registertitel och den aktuella lagstiftningsfordonsrollen, inte två separata omröstningar. Cloture på motionen att gå vidare är inte slutlig passage; senaten fortsätter post-cloture den 10 november. PR #10 uppdaterat med denna skillnad, ersättningsändringen och miljö-/tribal-invändningarna.
