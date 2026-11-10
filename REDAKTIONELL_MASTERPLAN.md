@@ -694,3 +694,11 @@ Senate LIS Roll Call Vote 257 visar 73–25 för cloture på motionen att gå vi
 - **D/H – Sofia/Serres:** PR #8 kompletterat med rapporteringen om att två silverliturgiska flabeller återfördes till Timios Prodromos den 8 november efter utställningen i Thessaloniki. Fullständig inventarielista för alla 48 objekt saknas.
 - **K – Cladonia:** PR #4 kompletterat med SR:s uppgift 10 november om att ett första möte är under planering. Inget datum eller genomfört möte är bekräftat; Bergs formella KS-ärendelista 10 november saknar Cladoniaärende.
 - **Publiceringsstatus:** inga nya artiklar har mergats eller publicerats LIVE. PR #4, #7, #8, #14 och #16 har fått källkommentarer; PR #16:s uppföljningsjournal har uppdaterats.
+
+
+## Delta 10 november 2026, 18.25 Europe/Sofia – Anthropic IPO som separat artikel
+
+- **PR #40 – Anthropic går till börsen – 900,9 miljarder dollar i computeåtaganden.** Nytt separat draft för spår F/B/R, baserat på SEC Form S-1/A-2 den 10 november. Artikeln granskar det föreslagna prisintervallet $70–78, 825 miljoner Class A-aktier, en villkorad privat placering om $26 miljarder och 900,9 miljarder dollar i aggregerade köp-/leasingåtaganden för compute och infrastruktur.
+- **Viktig avgränsning:** 900,9 miljarder dollar är inte omedelbar skuld eller utbetalt kapital; 186,2 miljarder är föremål för villkor/uppsägningsrätt och ytterligare $150–175 miljarder i icke-fasta betalningsarrangemang ligger utanför totalsumman.
+- **PR #14** behåller sin egen vinkel på NVIDIA:s $105 miljarder residualvärdesgaranti och SB Energy/OpenAI. Anthropic-IPO:n behandlas i PR #40, inte som ett nytt huvudavsnitt i PR #14.
+- **Status:** PR #40 öppet draft, inte godkänt, inte mergat, inte publicerat och inte LIVE.
