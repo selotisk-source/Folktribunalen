@@ -496,3 +496,13 @@ Primärkälla: https://firstthings.com/the-pope-and-the-antichrist/
 | Q | Saab uppger AI-agentflygprov på Gripen E; ingen oberoende operativ validering | Aktivt | Testdokumentation och mänsklig kontroll |
 
 Övriga spår H, I, L, M och N gav ingen ny betydande händelse i denna komplettering. E, F, P, R och S har inga nya primärdokument utöver de redan journalförda CRMA-, NVIDIA-, senats- och Onkalo-uppgifterna. J har nu kompletterats med en offentlig primärtext från Thiel/Wolfe.
+
+
+### Sen komplettering – Finland: protester i sex städer, 9 november 2026
+
+- **OBEROENDE RAPPORTERING – Yle, publicerad 9 november kl. 16:09:** protester mot datacenter hölls under helgen i Helsingfors, Lahtis, Tammerfors, Uleåborg, Jyväskylä och Åbo.
+- Yle anger cirka 1 300 deltagare i Helsingfors enligt polisens uppskattning. Uppgifterna om de övriga städerna kommer från Finlands naturskyddsförbund, en av arrangörerna.
+- Demonstranterna krävde att byggprojekten fryses och hänvisade till naturpåverkan, elförbrukning och att regleringen inte hunnit ikapp den snabba expansionen.
+- **Källgräns:** polisens uppskattning gäller Helsingfors. Deltagaruppgifterna för övriga städer är arrangörsuppgifter. Protesterna visar offentlig mobilisering, inte att alla projekt är olagliga eller att samtliga kommuner motsätter sig datacenter.
+
+Källa: https://yle.fi/a/74-20255931
