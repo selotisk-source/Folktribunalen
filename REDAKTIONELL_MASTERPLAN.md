@@ -781,3 +781,15 @@ PR #4 har kompletterats med Fastighetsvärldens 19 oktober-uppgift om att SCA up
 ## 11 november 2026 kl. 02.00 – USA:s kongress: ledarövergång
 
 PR #10 har kompletterats med att House Republicans valde Jim Jordan till partiets ledare i minoritet i nästa kongress med 106–73 den 10 november. Detta var en intern konferensomröstning, inte en plenarsalsomröstning eller ett tillträde före 3 januari 2027. Reuters uppger att senatsrepublikanerna återvalde John Thune genom acklamation. AP och Reuters används som oberoende bekräftelse.
+
+
+### Kontrollnoteringar A–S – 11 november 2026 kl. 02.00
+
+- EuroHPC:s officiella sida bekräftar Lot 1 4 februari 2027 och Lot 2 3 december 2026; tidigare inlämningar måste göras om via nya länkar.
+- Sofia/Samuil: sarcofagens placering och ceremonin 3 oktober är redan dokumenterade i PR #8; ingen ny arkeologisk primärhandling denna cykel.
+- Rottensjön: 12 november är nästa kontrollpunkt; inget utfall före fristens utgång förutsätts.
+- Libanon/UNIFIL: tidigare mandat- och avvecklingsram oförändrad i de kontrollerade primärkällorna.
+- Kela/Oiwa: inget nytt domstolsavgörande eller ny offentlig metodhandling identifierad.
+- Hormuz: ADNOC:s officiella uppdatering 10 november bekräftar skadat fartyg i UAE:s territorialvatten men lämnar identitet, skada och ansvar öppna; separat från UKMTO-incidenten nordost om Lima, Oman.
+- USA:s senat: roll-call 257 den 9 november bekräftar 73–25 cloture på motionen att gå vidare till H.R.2347; procedur, inte slutlig passage.
+- Spår utan nyhet över notiströskeln efter screening: C, H, I, J, L och M.
