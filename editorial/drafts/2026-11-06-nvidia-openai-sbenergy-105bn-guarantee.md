@@ -462,3 +462,26 @@ Dessa poster får inte adderas och rubriceras som “skuld”. De har olika redo
 **PRIMÄRKÄLLA:** AMD Form 10-Q, kvartal avslutat 26 september 2026, undertecknad 3 november 2026: https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/amd-20260926.htm
 
 **Öppet:** identifiera den publika emittent som fick AMD:s investering på 1 miljard USD; granska leasingavtalens överlåtelsevillkor och garantiernas exakta motparter; följ faktisk driftsättning, tredje parts betalningar och eventuella kreditförluster.
+
+
+## Källuppdatering 11 november 2026 – TSMC blir även aktieinvesterare i AI-utvecklarna
+
+**Händelsedatum:** 10 november 2026. **SEC-dokumentdatum:** 10 november 2026.
+
+**PRIMÄRKÄLLA – TSMC Form 6-K:** Styrelsen godkände investeringar på högst **500 miljoner USD i Anthropic** genom förvärv av bolagets aktier till IPO-priset och högst **500 miljoner USD i OpenAI Group PBC** genom förvärv av preferensaktier. Samma styrelsemöte godkände separat cirka **40,93 miljarder USD i kapitalanslag** för avancerad processteknik, avancerad paketering, fabriksbyggnation och 2027 års FoU-/underhållsinvesteringar. Därutöver godkändes separat högst 500 miljoner USD för att etablera ett investeringsbolag inom halvledarindustrin. Den sistnämnda posten är inte en del av de två AI-bolagsinvesteringarna.
+
+**PRIMÄRKÄLLA – Anthropic Form S-1/A-2:** TSMC Partners, Ltd. är namngiven som en av sju köpare i den villkorade privata placeringen på sammanlagt 26 miljarder USD. Vid prospektets mittkurs 74 USD anges TSMC Partners köpa 6 756 756 Class N-aktier för cirka 500 miljoner USD. Placeringen ska ske omedelbart efter IPO:ns genomförande och är villkorad av vissa villkor.
+
+**PRIMÄRKÄLLA – TSMC Form 20-F:** TSMC redovisar TSMC Partners, Ltd. som ett helägt dotterbolag (100 procent) med investeringsverksamhet inom halvledardesign och halvledartillverkning. Tillsammans med beloppsmatchningen talar detta starkt för att TSMC:s styrelsegodkännande på upp till 500 miljoner USD i Anthropic och TSMC Partners-posten i S-1/A-2 avser samma ekonomiska investering. De får därför **inte räknas som två separata Anthropic-investeringar**. Den slutliga köpehandlingen och stängningen återstår att kontrollera.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 10 november om styrelsens två investeringsramar och TSMC:s roll som både leverantör till AI-ekosystemet och investerare.
+
+**Analytisk betydelse:** TSMC är en central tillverkare i den avancerade chipkedjan och har nu godkänt kapitalexponering mot två stora modellutvecklare. Det skapar en tydligare koppling mellan leverantörsintäkter och ägarintressen. Det finns däremot inget belägg i de granskade handlingarna för att TSMC lovat Anthropic eller OpenAI förtur i waferkapacitet, särskilda priser eller ett nytt leveransavtal. Styrelsegodkännande är inte detsamma som genomfört aktieköp.
+
+**Källor:**
+- TSMC Form 6-K, styrelsebeslut 10 november 2026: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm
+- Anthropic Form S-1/A-2, 10 november 2026, investerarallokering: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+- TSMC Form 20-F, dotterbolagsförteckning: https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+- Reuters, 10 november 2026: https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/
+
+**Öppet:** Slutligt IPO-pris, faktisk tilldelning/stängning, slutlig aktieklass och OpenAI-investeringens värdering, aktieantal och tidpunkt.
