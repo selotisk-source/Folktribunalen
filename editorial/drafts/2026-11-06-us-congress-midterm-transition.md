@@ -260,3 +260,17 @@ Källor:
 - Congressional Record, 15 september 2026, tidigare version av artiklarna: https://www.govinfo.gov/content/pkg/CREC-2026-09-15/pdf/CREC-2026-09-15.pdf
 
 **Status:** Tillagd som en ny procedurhändelse i det befintliga kongressutkastet. Ingen riksrätt har beslutats. Nästa kontrollpunkt är representanthusets proceduromröstning och eventuell publicering av den uppdaterade H.Res.-texten.
+
+
+## Republikansk ledarövergång inför den 120:e kongressen
+
+**Händelsedatum:** 10 november 2026. **Publiceringsdatum:** 10 november 2026.
+
+Republikanerna i representanthuset valde Jim Jordan till ledare för partiet i minoritet i den kommande kongressen. Han besegrade Steve Scalise med **106–73** i en sluten omröstning inom den republikanska konferensen. Associated Press rapporterar även att Tom Emmer valdes till whip och att Lisa McClain behöll rollen som conference chair.
+
+Detta är ett internt partibeslut om vem som ska leda den republikanska gruppen i nästa kongress. Det är inte en omröstning i representanthusets plenisal och det innebär inte att Jordan redan har tillträtt som minoritetsledare i den nuvarande 119:e kongressen. Den nya kongressen tillträder den 3 januari 2027. Republikanerna i senaten valde samtidigt John Thune på nytt genom acklamation enligt Reuters.
+
+**OBEROENDE BEKRÄFTELSE:** [Associated Press, 10 november 2026](https://apnews.com/article/9452bdcf8c16ba84b44fe537ebce0de8). [Reuters, 10 november 2026](https://www.reuters.com/world/us/week-after-huge-election-losses-republicans-choose-their-leaders-congress-2026-11-10/). [The Washington Post, 10 november 2026](https://www.washingtonpost.com/politics/2026/11/10/house-republicans-elect-jim-jordan-serve-minority-leader-next-year/).
+
+**Öppet:** demokraternas ledarskapsval, slutlig certifiering av valresultat, utskottsfördelning och ordförandeposter efter den 3 januari. Jordans val är ett ledarskapsval inom partikonferensen, inte en formell omröstning om talmansposten.
+
