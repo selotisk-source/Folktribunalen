@@ -99,7 +99,7 @@ Källor: https://clerk.house.gov/Votes/2026317 · https://www.reuters.com/world/
 | C Synkronicitet | Kontrollerat | Kotler/Kelso/Friston-artikeln finns i PR #38; teoretisk review, inte experimentellt bevis | Fulltext, metodkritik, preregistrerade test |
 | D Sofia | Kontrollerat | Samuils kvarlevor återförda; DNA-identifikation begränsad | Fältdagbok, antropologi, DNA, 48 föremål |
 | E Mineraler | Kontrollerat | Tre ansökta tillstånd i SGU-export 9 nov: Isovinsa Aapua, Stekenjokk nr 9, Kiltivaara nr 1001 | Tillståndsstatus, polygoner, sakägare, sameby/naturvärden |
-| F NVIDIA/finansiering | Kontrollerat | Styrelseutredning, Banks/Warren, Cramer; Anthropic S-1/A-2 finns i PR #40 | Styrelsefynd, BIS, exportlicenser, IPO-stängning |
+| F NVIDIA/finansiering | Kontrollerat | Styrelseutredning/Joon H. Kim, House-brev, Kistenmacher-talan, Banks/Warren och Cramer; Anthropic S-1/A-2 i PR #40 | Styrelsefynd, BIS, exportlicenser, briefing 18 nov, domstolsdocket, IPO-stängning |
 | G Libanon | Kontrollerat | UNIFIL besköts nära Wadi Jilu | Libanesisk utredning, ansvar, säkerhetsordning efter 31 dec |
 | H Kyrkor | Kontrollerat | Ingen ny materiell handling | Församlings-/byggnadsarkiv i fem städer |
 | I Fennoskandien | Kontrollerat | Cladonia/SCA-spåret redan i PR #4; ingen ny primärhandling | Lantmäteriet, jaktupplåtelser, skogsbruksplan, renskötsel |
@@ -109,7 +109,7 @@ Källor: https://clerk.house.gov/Votes/2026317 · https://www.reuters.com/world/
 | M Athos | Kontrollerat | Ingen ny katalogiserad donation eller handskriftsrapport | Bibliotekskataloger, proveniens, digitalisering |
 | N Skrift till Storebror | Kontrollerat | CISA/Palantir governance crosslink; ingen ny biometrisk lag i denna runda | EUDI, AI Act, tillsyn, upphandlingar |
 | O Hormuz | Kontrollerat | UKMTO 201-26 och ADNOC-skada finns i PR #3; Gem No.2-tender är kandidat, inte införd | Fartygsidentitet, lastning 10–20 nov, försäkring |
-| P USA:s kongress | Kontrollerat | Roll Call 317; midterms och ledarskap finns i PR #10 | Utskottsordföranden, NDAA, AI Overwatch, War Powers |
+| P USA:s kongress | Kontrollerat | Roll Call 317; midterms; House-brev till Huang 18 nov; Kistenmacher-talan; PR #10 | Utskottsordföranden, NDAA, AI Overwatch, War Powers, Huang-briefing |
 | Q Gripen | Kontrollerat | Saabs AI-agentpåstående finns i PR #12; ingen oberoende testmatris | FMV/Saab test- och certifieringsunderlag |
 | R Strategisk energi | Kontrollerat | Norge/TeraWulf-spåren redan i PR #31/#14/#40; inget nytt Northvolt-beslut | Nätkapacitet, projektfinansiering, Northvolt-tillgångar |
 | S Urbergsskölden | Kontrollerat | Tre nya synliga ansökningsposter i SGU-export 9 nov; CRMA/Onkalo oförändrat | Finland CRMA 15 nov, STUK-inspektion, svenska tillstånd |
