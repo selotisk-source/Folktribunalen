@@ -956,3 +956,6 @@ Nscale – kompletterande kapacitetsnotering, 11 november: FT:s rapport 5 novemb
 **Fortsatt faktainsamling före fullständigt utkast:** projekt-/kundfördelning för Siemens 15 md EUR; geografi och teknikmix (gasturbiner kontra nätutrustning); orderstockens konvertering till leveranser; Vestas regionala ordermix och effekten av He Dreiht-bladskadan; offentliga nätanslutnings- och tillståndsdata för de datacenter som driver efterfrågan.
 
 **Status:** Artikelidé i masterplanen, ännu inte ett separat granskningsutkast eller PR. 
+
+
+Nscale – finansieringsskillnaden i S-1, 11 november: SEC-prospektet anger upp till 44,6 md USD i Anthropic-avtal men säger att Nscale vid prospektdatumet 18 september saknade bindande finansieringsåtaganden för att finansiera leveransen. Prospektet redovisar 103,4 md USD aktivt och kontrakterat TCV men 2,6 md USD aktivt TCV; H1 2026-intäkter 140,6 m USD, nettoförlust 1,02 md USD och största kund 52 procent av H1-intäkterna. Den separata 3,1 md USD teckningsöverenskommelsen, med 1 md USD NVIDIA-del, får inte räknas som bevis för att Anthropic-finansieringen är säkrad. Källa: https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm
