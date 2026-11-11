@@ -936,3 +936,7 @@ Ny kontrolljournal: [2026-11-11-breaking-watch-1353.md](editorial/research/2026-
 - PR #48 uppdaterad med Irans uttalanden; tillägget omfattas inte av tidigare godkännande.
 - PR #16 kompletterad med journalen och A–S-matrisen.
 - Inga merges och inga LIVE-publiceringar.
+
+
+### Q – Saab/Danmark, 11 november 2026
+Saab meddelade en order på 350 m SEK från danska DALO för ytterligare live-träningsutrustning till CV90, inklusive drönar- och icke-siktlinjeträning, med leveranser 2026–2028. Detta är en Training and Simulation-order, inte en Gripen-order. PR #12:s Gripen-status ändras därför inte. Källa: https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-for-advanced-live-training-systems-from-denmark
