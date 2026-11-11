@@ -578,3 +578,10 @@ Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
 **Avgränsning:** Den separata teckningsöverenskommelsen på minst **3,1 md USD** (2,1 md USD i konvertibla skuldebrev och 1,0 md USD i en separat NVIDIA-del) får inte beskrivas som att hela finansieringen för Anthropic-projektet därmed är säkrad. Prospektet redovisar dem som separata delar och säger samtidigt att finansieringen för Anthropic-avtalen ännu inte var bindande.
 
 **Redaktionell betydelse:** Det finns tre olika nivåer: ett stort nominellt kontraktsvärde, en mycket mindre aktiv TCV-bas och ett separat, ännu inte bindande finansieringsbehov för Anthropic-leveranserna. Det är den skillnaden som måste styra artikelns ekonomiska språk.
+
+
+### Kreditförsäkringens regulatoriska skillnad mellan Europa och USA
+
+**OBEROENDE MEDIERAPPORTERING – Financial Times, 11 november 2026:** FT gör en viktig jurisdiktionsskillnad. Europeiska och kanadensiska banker har länge använt kreditförsäkring för att minska regulatoriska kapitalkrav. Amerikanska banker får i allmänhet inte motsvarande kapitallättnad; där kan försäkringen i stället frigöra intern utlåningskapacitet genom att minska exponeringen mot enskilda projekt, bolag eller sektorer och därmed ge riskkommittéer utrymme att godkänna större lån.
+
+**Granskningsfråga:** För varje identifierat avtal måste vi skilja mellan (a) överföring av ekonomisk kreditrisk, (b) regulatorisk kapitalavlastning, (c) intern risklimit/koncentrationshantering och (d) politisk-risk-/contract-frustration-skydd. Dessa är inte samma sak. FT uppger att försäkringen kan täcka utebliven betalning efter låntagarens fallissemang, även när politiskt motstånd stoppar ett projekt; policyvillkoren och undantagen är dock inte offentliga.
