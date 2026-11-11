@@ -144,6 +144,29 @@ Den första frågan är ännu inte offentligt bevisad. Den andra går att unders
 
 **Artikelvinkel:** NVIDIA är inte bara en leverantör av GPU:er. Bolaget är en strategisk nod i AI-infrastruktur, exportkontroll och amerikansk teknikpolitik. Den verkliga granskningen gäller om makt, information och exportbeslut kan kontrolleras även när grundaren är företagets viktigaste tillgång.
 
+## Källuppdatering 11 november 2026 – H200-köp hos svartlistat universitet
+
+Reuters publicerade den 11 november en dokumentgranskning som bygger på **26 kinesiska upphandlings- och bolagshandlingar**. Ett av de dokumenterade fallen gäller Northwestern Polytechnical University (NWPU), som den 21 oktober köpte två Nvidia H200-acceleratorer för **874 700 yuan** via den kinesiska leverantören Shaanxi Bosuan Network Technology. Reuters fann även fem avtal om hyrd beräkningskapacitet där universitetet kunde använda H200-, A100- och A800-baserade servrar.
+
+**Primär kontroll av mottagarstatus:** USA:s Bureau of Industry and Security (BIS) uppger att NWPU fördes upp på Entity List 2001 av nationella säkerhetsskäl. BIS:s offentliga material beskriver licenskrav och presumtion om avslag för vissa listade mottagare. Den amerikanska policyn från januari 2026 som tillåter vissa H200-exporter till Kina från fall till fall upphäver inte i sig de separata begränsningarna för Entity List-mottagare.
+
+**Avgörande avgränsning:** Reuters dokumenterar ett köp från en kinesisk mellanhand – inte en direkt försäljning från Nvidia till NWPU. Reuters kunde inte fastställa chipens ursprung eller var de hyrda servrarna stod. Uppgifterna visar en möjlig kontroll- och spårbarhetslucka i den kinesiska distributions- och molnmarknaden, men bevisar inte att Nvidia självt har exporterat direkt till universitetet eller brutit mot exportreglerna.
+
+**Varför detta spelar roll:** exportkontrollens faktiska räckvidd avgörs inte bara av licensreglerna för direkt export, utan även av återförsäljare, serveruthyrning, ägar- och användaridentifikation samt möjligheten att kontrollera slutanvändning efter leverans. Den här dokumentserien ger en konkret prövning av om nuvarande regler fångar indirekt tillgång.
+
+**Källklassning**
+- **OBEROENDE BEKRÄFTELSE:** Reuters, 11 november 2026, dokumentgranskning av 26 upphandlings- och bolagshandlingar.
+- **PRIMÄRKÄLLA:** BIS, offentliga beslut och pressmeddelanden om NWPU:s Entity List-status sedan 2001.
+- **OBEKRÄFTAD:** chipens ursprung, servernas fysiska placering och om någon export från Nvidia eller dess auktoriserade distributionskedja ägde rum.
+- **AVGRÄNSNING:** inget i det publicerade materialet fastslår att Nvidia direkt sålt dessa två chip till NWPU.
+
+**Nästa kontrollpunkt:** den av tre republikanska utskottsordförande begärda briefingen med Jensen Huang den 18 november. Per 11 november 22:53 EET har ingen offentlig accept eller saklig respons på begäran hittats. Begäran är inte en stämning eller ett beslut om en offentlig utfrågning.
+
+Källor:
+- https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/
+- https://www.bis.gov/press-release/chinese-national-sentenced-illegal-exports-northwestern-polytechnical-university
+- https://media.bis.gov/regulations/ear/744
+
 ## Källstatus
 
 - **PRIMÄRKÄLLA:** NVIDIA:s styrelseuttalande, 8 november 2026.
