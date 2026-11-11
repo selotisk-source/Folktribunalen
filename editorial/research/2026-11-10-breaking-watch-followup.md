@@ -1250,3 +1250,16 @@ Ett separat granskningsutkast för Svarta havets maritima säkerhetshubb skapas 
 - **INSTITUTIONELL AVGRÄNSNING:** Detta är partikonferensens val inför 120:e kongressen, inte en omröstning i representanthusets plenisal och inte ett tillträde i den nuvarande kongressen. Ny kongress tillträder 3 januari 2027.
 - **ARBETE:** PR #10 kompletterad med ledarövergången och källor. PR #10 är fortsatt draft.
 - Källor: https://apnews.com/article/9452bdcf8c16ba84b44fe537ebce0de8 · https://www.reuters.com/world/us/week-after-huge-election-losses-republicans-choose-their-leaders-congress-2026-11-10/
+
+
+### Kontrollnoteringar A–S – 11 november 2026 kl. 02.00
+
+- **B – EuroHPC:** den officiella upphandlingssidan bekräftar att uppdateringen 5 november endast ändrade inlämningslänkarna och förlängde Lot 1 till 4 februari 2027; Lot 2 kvarstår till 3 december 2026. Gamla utkast/insända anbud måste återskapas i de nya länkarna. Ingen ny deadlineändring efter 5 november identifierad.
+- **D – Sofia/Samuil:** BTA/BNT:s dokumentation av marmorsarkofagens placering och ceremonin 3 oktober finns redan i PR #8. Ingen ny arkeologisk primärhandling om gravkontext, monogram eller sigill identifierad i denna cykel.
+- **E/S – Rottensjön/Urbergsskölden:** överklagandefristen 12 november kvarstår som närmaste kontrollpunkt enligt tidigare granskad kungörelse. Inget utfall före fristens utgång ska förutsättas.
+- **G – Libanon/UNIFIL:** tidigare dokumenterad mandatavveckling kvarstår; ingen ny primärhandling i denna cykel som ändrar mandatets slutdatum eller avvecklingsram.
+- **N – Kela/Oiwa:** PR #45:s rättsliga avgränsning står kvar; inget nytt domstolsavgörande eller ny offentlig Kela-metodhandling identifierad.
+- **O – Hormuz:** ADNOC:s officiella operativa uppdatering den 10 november bekräftar skada på ett av bolagets fartyg efter en attack i UAE:s territorialvatten och säger att insatser pågår. Fartygets identitet, skadeomfattning och ansvarig aktör är fortfarande inte offentliggjorda i uppdateringen. Detta är separat från UKMTO:s tankerincident nordost om Lima, Oman; ingen offentlig fartygsidentitet eller ny skadebedömning har identifierats.
+- **P – Kongressen:** senatens officiella roll-call 257 bekräftar 73–25 för cloture på motionen att gå vidare till H.R.2347 den 9 november. Det är ett procedurbeslut, inte slutligt antagande av lagförslaget.
+- **Q – Saab/FDI:** Saab–Naval Group-kontraktet för svenska system till fyra FDI-fregatter är redan infört i PR #12; ingen ny leverans- eller operativ-statushandling identifierad.
+- **Övriga utan nyhet över notiströskeln:** C, H, I, J, L och M. De har screenats i denna cykel; ingen ny oberoende eller primär dokumentation som ändrar respektive öppna fråga har identifierats.
