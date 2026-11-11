@@ -48,9 +48,9 @@ National Wealth Funds 1 miljard pund och kreditstödet från Euler Hermes och EI
 
 RWE:s aktuella pressmeddelande anger 2,8 GW totalt, cirka 1,4 GW per projekt. De två projekten ligger 50–80 kilometer utanför Norfolks kust i East Anglia.
 
-Den brittiska regeringens offentliga CfD-tabell listar samtidigt för Norfolk Vanguard East och West en huvudpost om 1 380 MW per projekt samt separata mindre enheter om 90 MW och 75 MW per projekt. Summan av de tre posterna blir 1 545 MW per projekt, eller 3,09 GW tillsammans. RWE:s nuvarande planerade kapacitet är däremot 1,4 GW per projekt och 2,8 GW totalt. RWE:s tidigare turbine orders för 92 turbiner à 15 MW motsvarar 1 380 MW per projekt.
+Den brittiska regeringens offentliga CfD-tabell listar för Norfolk Vanguard East och West en huvudpost om 1 380 MW per projekt samt separata mindre enheter om 90 MW och 75 MW per projekt. Summan blir 1 545 MW per projekt, eller 3,09 GW tillsammans. RWE:s aktuella plan är 1,4 GW per projekt och 2,8 GW totalt. RWE:s order på 92 turbiner à 15 MW motsvarar 1 380 MW per projekt.
 
-Detta är en dokumenterad skillnad mellan den offentliga CfD-tabellens tilldelade enheter och utvecklarens aktuella kapacitetsbeskrivning. Den ska inte automatiskt tolkas som ett fel eller som 290 MW ytterligare byggbar effekt. De mindre CfD-enheternas status och relation till den nuvarande projektutformningen behöver klarläggas med RWE och Low Carbon Contracts Company.
+Den skenbara skillnaden förklaras i huvudsak av RWE:s egen årsredovisning 2025: de två Norfolk-projekten kan byggas ut till sammanlagt upp till 3,1 GW, men den kapacitet som då var planerad var 2,8 GW. CfD-tabellens 3,09 GW ligger nära den övre kapaciteten, medan RWE:s pressmeddelande den 11 november beskriver den aktuella byggplanen. Det finns därför inte grund för att kalla siffrorna motstridiga. Kvar att kontrollera är vilka mindre CfD-enheter som är optioner eller ännu inte ingår i den nuvarande tekniska utformningen och vad som omfattas av slutligt investeringsbeslut.
 
 ## Vad affären betyder – och vad den inte visar
 
@@ -73,7 +73,7 @@ För den europeiska energidebatten är jämförelsen med datacenterutbyggnaden r
 
 1. Hämta eller begär låneavtalens offentliga sammanfattningar och klarlägg vilka projektbolag som är låntagare, vilka tillgångar som pantsätts och vilka garantier som faktiskt gäller.
 2. Begär villkoren för National Wealth Funds 1 miljard pund och kreditstödet från Euler Hermes och EIFO.
-3. Be RWE och Low Carbon Contracts Company förklara varför CfD-tabellen listar 1 545 MW per projekt medan den aktuella projektplanen anger 1,4 GW per projekt.
+3. Begär från RWE och Low Carbon Contracts Company den tekniska och avtalsmässiga statusen för CfD-enheterna 90 MW och 75 MW per projekt samt vilka av dem som ingår i nuvarande FID-omfattning.
 4. Kontrollera om den slutliga investeringsbeslutspunkten (FID) har fattats separat från financial close och vilka återstående myndighets- och byggvillkor som gäller.
 5. Följ de första fundamenten och offshore-byggstarten under 2027 samt leverans- och nätanslutningsplanen fram till 2030.
 
@@ -87,5 +87,6 @@ För den europeiska energidebatten är jämförelsen med datacenterutbyggnaden r
 - RWE, delårsrapport Q3 2026: https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-delivers-an-excellent-earnings-performance-in-the-first-three-quarters/
 - RWE/Vestas, Vanguard West, 20 februari 2026: https://uk.rwe.com/press-and-news/2026-02-20-rwe-and-vestas-agree-turbine-supply-agreement-for-vanguard-west-offshore-wind-farm/
 - RWE/Vestas, Vanguard East, 10 mars 2026: https://uk.rwe.com/press-and-news/2026-03-10-rwe-and-vestas-agree-turbine-supply-agreement-for-vanguard-east-offshore-wind-farm/
+- RWE Annual Report 2025, avsnitt 2.4: projekten kan uppgå till 3,1 GW, medan 2,8 GW då var planerat: https://www.rwe.com/-/media/RWE/documents/05-investor-relations/finanzkalendar-und-veroeffentlichungen/2025-GJ/RWE-Annual-Report-2025.pdf
 
 **Redaktionell rekommendation:** Prioritera denna artikel som en ny granskning av hur Europas energiinfrastruktur finansieras. Publicera inte förrän de öppna frågorna om garantier, CfD-kapacitet och FID har fått tydliga svar eller markerats som obesvarade i den slutliga texten.
