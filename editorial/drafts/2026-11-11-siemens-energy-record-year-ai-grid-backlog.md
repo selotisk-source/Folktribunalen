@@ -59,11 +59,32 @@ För 2030 är målet en årlig jämförbar omsättningstillväxt på 12–14 pro
 5. Hur påverkas marginalerna av kapacitetsutbyggnad, leverantörskedjor och pris på kritiska material?
 6. Hur ska det planerade återköpsprogrammet vägas mot investeringar i produktionskapacitet och leveransförmåga?
 
+## Källuppdatering 11 november 2026, 22:53 EET – datacenterandelen är mindre än en tiondel
+
+I Siemens Energys Q4-resultatsamtal den 11 november uppgav ledningen att datacenterrelaterade kunder står för omkring **15 md euro av den totala orderstocken på 164 md euro**, alltså mindre än 10 procent. Ledningen betonade samtidigt att datacenter är en tillväxtfaktor men att bolagets tillväxttes inte är beroende av AI ensamt. Elektrifiering, industriell efterfrågan, nätstabilitet, ersättning av åldrande infrastruktur och försörjningstrygghet lyftes som separata drivkrafter.
+
+Detta är en viktig precisering av den offentliga pressreleasen: datacenter är en tydlig kundgrupp, men inte förklaringen till hela orderstocken. **15 md euro är en ledningsuppgift i resultatsamtalet**, inte en separat reviderad segmentrad eller en fullständig kundlista. Projektens geografi, kontraktsstadium, marginal, förskott och leveransår är fortfarande inte offentligt uppdelade.
+
+BloombergNEF:s rapport från samma dag ger en bredare energikontext. BNEF bedömer att datacenters elanvändning kan nå 2 354 TWh år 2035, cirka 7 procent av global elanvändning, och har kartlagt 181 GW annonserad gaseldad kapacitet föreslagen i anslutning till datacenter. Över 90 procent av denna annonserade kapacitet ligger i USA. BNEF säger att projekten har varierande mognadsgrad och att 181 GW är en indikator på möjlig skala, inte en prognos över faktisk utbyggnad. Ett utsläppsscenario på 345 MtCO₂e per år för amerikanska projekt gäller endast om alla annonserade anläggningar byggs och körs enligt rapportens antaganden.
+
+**Redaktionell betydelse:** Siemens Energys rekordorderstock ska inte beskrivas som en AI-orderstock. Samtidigt visar BNEF:s pipeline att nätanslutningstider och snabb effektleverans kan styra datacenterutbyggnad mot lokal gasproduktion. Dessa två datapunkter beskriver olika populationer och får inte summeras eller jämföras som samma projektmarknad.
+
+### Källstatus – tillägg
+- **PARTSUPPGIFT / ledningsuttalande:** Siemens Energys Q4-resultatsamtal 11 november, transkriberat av StockAnalysis; den muntliga uppgiften är inte en separat reviderad segmentredovisning.
+- **PRIMÄRKÄLLA:** BloombergNEF:s pressmeddelande 11 november 2026.
+- **OBEROENDE BEKRÄFTELSE:** The Guardian 11 november 2026.
+- **AVGRÄNSNING:** BNEF:s 181 GW är annonserad projektkapacitet, inte driftsatt effekt eller säker byggprognos.
+
+Källor:
+- https://stockanalysis.com/quote/etr/ENR/transcripts/671409-q4-2026/
+- https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
+- https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations
+
 ## Källstatus
 
 - **PRIMÄRKÄLLA:** Siemens Energy Q4 FY2026 pressmeddelande, 11 november 2026.
 - **PARTSUPPGIFT:** bolagets förklaring av datacenter som efterfrågedrivare och dess prognoser för 2027/2030.
-- **OBEKRÄFTAD:** exakt andel av orderstocken som kommer från AI/datacenter, eftersom bolaget inte särredovisar detta i pressmeddelandet.
+- **PARTSUPPGIFT:** Siemens Energys ledning uppgav i Q4-samtalet att datacenterrelaterade kunder står för cirka **15 md euro av orderstocken på 164 md euro**, alltså mindre än 10 procent. Uppgiften kommer från ledningens muntliga genomgång och är inte en separat reviderad rapporteringskategori; pressmeddelandet särredovisar inte projektlistan eller kundfördelningen.
 - **ÖPPEN DOKUMENTFRÅGA:** orderstockens projektfördelning, kundförskott per segment, leveranskapacitet och kontraktsvillkor.
 
 ## Källa
