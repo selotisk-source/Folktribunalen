@@ -229,17 +229,34 @@ Källor:
 - LKAB, 3 november 2026: https://news.cision.com/lkab/r/lkab-takes-the-next-step-in-its-critical-minerals-initiative,c4418674
 - EU-kommissionens beslut C(2026)8051 och bilaga, 9 oktober 2026: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
 
-## Källuppdatering 11 november 2026 – Kiltivaara nr 1001
+## Källuppdatering 11 november 2026 – tre ansökta undersökningstillstånd i SGU:s export 9 november
 
-**Dokumenthändelse:** Bergsstaten publicerade den 10 november en kartbilaga till underrättelsen om Kiltivaara nr 1001. Själva ansökan inkom den 2 juli 2026; publiceringsdatumet för kartan får inte beskrivas som ansökningsdatum eller som beslut om tillstånd.
+SGU:s öppna API-export med datum **9 november 2026** visar tre relevanta ansökta undersökningstillstånd i norra Sverige. Det är ansökningar i registret, inte beviljade tillstånd eller beslut om gruvdrift:
 
-**PRIMÄRKÄLLA:** Bergsstaten, kartor till underrättelse om Kiltivaara nr 1001, publicerad 10 november 2026: https://www.sgu.se/bergsstaten/aktuella-handelser/  
-**PRIMÄRKÄLLA:** SGU:s öppna data över ansökta undersökningstillstånd (export 1 november 2026) anger Boliden Mineral AB som sökande, ansökt areal 9 333,6847 hektar, Gällivare kommun och metallerna guld, koppar, molybden och silver. Statusfältet är “Ansökt”.
+| Ansökan | Sökande | Ansökningsdatum | Areal | Kommun/län | Sökta metaller | Status i SGU |
+|---|---|---|---:|---|---|---|
+| Isovinsa Aapua | Privat sökande | 22 juni 2026 | 171,2168 ha | Övertorneå, Norrbotten | guld, järn, koppar, lantanider, skandium, yttrium | Ansökt |
+| Stekenjokk nr 9 | Vilhelmina Mineral AB | 24 juni 2026 | 1 691,5824 ha | Strömsund och Vilhelmina, Jämtland/Västerbotten | bly, guld, koppar, silver, zink | Ansökt |
+| Kiltivaara nr 1001 | Boliden Mineral AB | 2 juli 2026 | 9 333,6847 ha | Gällivare, Norrbotten | guld, koppar, molybden, silver | Ansökt |
 
-Detta är en ansökan och ett underrättelse-/kartsteg, inte ett beviljat undersökningstillstånd, en bearbetningskoncession, en resursberäkning eller ett beslut om gruvdrift. Ingen oberoende källa som bekräftar en ekonomisk fyndighet eller kommersiell potential har identifierats.
+**PRIMÄRKÄLLA:** SGU:s öppna data, samlingen `ut-metaller-industrimineral-ansokta`, exportdatum 9 november 2026:  
+https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-ansokta/items?f=text%2Fhtml&limit=50&startIndex=50
 
-**Geografisk nästa kontroll:** jämför den publicerade ansökningspolygonen med offentliga lager för renskötsel/sameby, Natura 2000, vattenskydd, naturreservat, fornminnen, befintliga undersökningstillstånd och kommunal markanvändning. Inga påståenden om överlapp eller intrång görs innan polygonerna har kontrollerats mot respektive officiellt kartlager.
+Bergsstaten publicerade dessutom den **10 november 2026** en kartbilaga till underrättelsen om Kiltivaara nr 1001. Det är en separat dokumenthändelse efter att ansökan lämnades in den 2 juli. Kartbilagan innebär inte att tillståndet har beviljats.
 
-**Artikelvinkel:** Ett stort prospekteringsområde kan skapa en ny rättighets- och tillståndsprocess långt innan någon mineralresurs är fastställd. Skillnaden mellan ansökt yta, beviljat tillstånd, geologisk resurs och kommersiell reserv måste vara central.
+**PRIMÄRKÄLLA:** Bergsstaten, aktuella händelser/kartor till underrättelse om Kiltivaara nr 1001: https://www.sgu.se/bergsstaten/aktuella-handelser/
+
+### Vad som är nytt – och vad som inte är bevisat
+
+- **Nytt i den offentliga datavyn:** exporten den 9 november gör de tre ansökningarna synliga i SGU:s aktuella dataset. Händelsedatumen för ansökningarna är däremot 22 juni, 24 juni och 2 juli.
+- **Inte beviljat:** samtliga tre poster har status “Ansökt”. Ingen av dem ska beskrivas som ett beviljat undersökningstillstånd, en bearbetningskoncession eller en gruva.
+- **Inte en resursberäkning:** registrerade metaller och ansökt areal bevisar inte att en ekonomiskt utvinningsbar fyndighet finns.
+- **Ingen oberoende bekräftelse av fyndighet:** ingen separat geologisk resursrapport eller oberoende analys som styrker kommersiell potential har identifierats i denna kontroll.
+
+### Geografisk nästa kontroll
+
+Jämför respektive officiella polygon med offentliga lager för samebyar/renskötsel, Natura 2000, vattenskydd, naturreservat, fornminnen, befintliga undersökningstillstånd och kommunal markanvändning. Inga påståenden om överlapp eller intrång görs innan polygonerna har kontrollerats mot respektive officiellt kartlager.
+
+**Artikelvinkel:** De tre ansökningarna visar en pågående prospekteringsaktivitet i Norrbotten, Jämtland och Västerbotten – men den offentliga skillnaden mellan ansökan, beviljat tillstånd, geologisk resurs och kommersiell reserv måste stå i centrum.
 
 **Status:** källuppdatering till befintligt granskningsutkast. Inte mergat eller publicerat.
