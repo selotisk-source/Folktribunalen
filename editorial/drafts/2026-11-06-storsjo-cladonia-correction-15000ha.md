@@ -239,3 +239,18 @@ SVT Jämtland uppger att Bergs kommun träffade en jurist som företrädde Clado
 
 **Källa:** SVT Jämtland, 10 november 2026: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
 
+### Källuppdatering 11 november 2026 – P4:s återgivning av köpskälet
+
+**Händelsedatum:** möte mellan Bergs kommun och Cladonia-företrädare den 10 november 2026.  
+**Publiceringsdatum:** Sveriges Radio P4 Jämtland, 11 november 2026 kl. 10.22.
+
+**OBEROENDE BEKRÄFTELSE:** P4:s uppföljning anger att kommunalrådet Therese Kärngård efter mötet återgav bolagsföreträdarens förklaring som att Karp vill åka skidor i området. P4 beskriver mötet som ett samtal med en representant för Cladonia, inte med Alex Karp personligen.
+
+**Källklassning:**  
+- **PARTSUPPGIFT:** det återgivna köpskälet kommer från bolagets företrädare och återges av kommunalrådet.  
+- **OBEROENDE BEKRÄFTELSE:** P4 bekräftar att mötet ägde rum och att kommunalrådet lämnade denna återgivning offentligt.  
+- **OBEKRÄFTAD:** att detta är Karps personliga motiv, ett formellt ändamål för fastighetsförvärvet eller ett bindande åtagande om framtida markanvändning.
+
+Detta kompletterar SVT:s videoreportage den 10 november, men ersätter inte behovet av mötesanteckningar, skriftligt bolagsbesked och kontroll av faktisk markanvändning. Formulera inte uppgiften som ett direkt citat från Karp.
+
+Källa: Sveriges Radio P4 Jämtland, “Kommunen efter mötet med Karps bolag: Han vill åka skidor”, 11 november 2026: https://www.sverigesradio.se/artikel/bergs-kommun-om-markkopet-i-storsjo-lugnande-besked
