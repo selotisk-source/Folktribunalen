@@ -3,7 +3,7 @@
 **Redaktionell status:** arbetsutkast för chefredaktörens granskning  
 **Publiceringsstatus:** inte publicerat  
 **Huvudspår:** C – Synkronicitetsprotokollet  
-**Faktaläge:** 10 november 2026
+**Faktaläge:** 11 november 2026, 22:53 EET
 
 ## När sammanträffandet känns riktat
 
@@ -99,6 +99,24 @@ I den digitala miljön kan ett sammanträffande vara både genuint meningsfullt 
    https://arxiv.org/abs/2409.13210
 
 7. C.G. Jung, “Synchronicity: An Acausal Connecting Principle”, 1952, senare publicerad i *The Collected Works of C.G. Jung*, vol. 8. **Historisk primärtext för begreppets idéhistoria; inte empiriskt belägg.**
+
+## Ny forskningskälla – 6 november 2026
+
+Marc Wittmann publicerade i *Frontiers in Psychology* artikeln **“Beyond Self, Time, and Space: Exceptional Experiences and Altered States of Consciousness”** den 6 november 2026. Artikeln är uttryckligen klassad som **Hypothesis and Theory** och är en kritisk översikt, inte en ny experimentell studie eller ett nytt dataset.
+
+Wittmann behandlar meningsfulla sammanträffanden tillsammans med andra så kallade exceptionella upplevelser och diskuterar sambandet med förändrade medvetandetillstånd. Författaren återger att vissa meta-analyser har funnit små statistiskt signifikanta effekter inom parapsykologisk forskning, men betonar samtidigt små effektstorlekar, blandade replikationsutfall och svårigheter att dra slutsatser. Artikeln föreslår metodpluralism och kvalitativa fenomenologiska metoder, men driver även en hypotes om icke-lokalt medvetande. Den hypotesen är inte etablerad vetenskaplig förklaring.
+
+En viktig motvikt i samma översikt är att en systematisk Floatation-REST-studie inte fann någon övergripande psi-effekt i sitt fyrvalsparadigm; en korrelation mellan rapporterat djup i det förändrade medvetandetillståndet och träffutfall är inte detsamma som ett kausalt eller reproducerat belägg för precognition.
+
+**Vad källan tillför:** den ger en aktuell teoretisk position som kan jämföras med McCoss biosemiotiska modell och med empirisk forskning om algoritmisk serendipitet. Den ändrar inte protokollets beviskrav: subjektiv meningsfullhet, algoritmisk återkoppling och ett starkare påstående om acausalitet måste hållas som separata hypotesnivåer.
+
+**Källklassning**
+- **PRIMÄR PUBLIKATION:** Wittmann, *Frontiers in Psychology*, publicerad 6 november 2026, DOI: 10.3389/fpsyg.2026.1980354.
+- **TEORETISK ÖVERSIKT:** ingen ny experimentell prövning eller oberoende replikation utförs i artikeln.
+- **HYPOTES:** icke-lokalt medvetande och samband mellan ASC och anomal kognition.
+- **OBEROENDE KONTROLL SOM KRÄVS:** granska de enskilda meta-analyserna, effektstorlekarna, preregistrering, publikationsbias och replikationsmaterial innan några empiriska slutsatser formuleras.
+
+Källa: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1980354/full
 
 ## Öppna frågor före publicering
 
