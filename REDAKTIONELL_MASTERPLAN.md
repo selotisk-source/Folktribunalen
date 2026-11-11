@@ -947,11 +947,11 @@ Nscale – kompletterande kapacitetsnotering, 11 november: FT:s rapport 5 novemb
 
 ### Möjlig ny artikelvinkel – AI-boomens elräkning blir industrins orderbok
 
-**Arbetsrubrik:** *När AI behöver kraft: 15 miljarder euro hos Siemens Energy – och en annan verklighet för vindkraften.*
+**Arbetsrubrik:** *När AI behöver kraft: Siemens Energys 15 miljarder, RWE:s 2,5 GW gas och vindkraftens motbild.*
 
-**Tes att pröva:** AI-datacenterexpansionen blir redan synlig i orderböckerna för gasturbiner och nätutrustning, samtidigt som vindkraftens order- och marginalutveckling följer en annan bana. Artikeln ska inte likställa all datacenterkraft med fossil produktion eller framställa Vestas svagare kvartal som ett generellt fall i vindkraften.
+**Tes att pröva:** AI-datacenterexpansionen blir redan synlig i orderböckerna för gasturbiner och nätutrustning. Samtidigt bygger RWE ut både havsvind och reglerbar gaskapacitet, medan Vestas order- och marginalutveckling följer en annan bana. Artikeln ska inte likställa all datacenterkraft med fossil produktion eller framställa Vestas svagare kvartal som ett generellt fall i vindkraften.
 
-**Underlag:** Siemens Energys FY2026-release (164 md EUR orderstock; 12,4 procents marginal; 8,8 md EUR fritt kassaflöde före skatt) och VD-uppgift via Reuters om cirka 15 md EUR datacenterrelaterade order; Vestas Q3 2026 (77,9 md EUR kombinerad orderstock, snävare helårsutsikter) och Reuters om 27 procents lägre orderintag år över år.
+**Underlag:** Siemens Energys FY2026-release (164 md EUR orderstock; 12,4 procents marginal; 8,8 md EUR fritt kassaflöde före skatt) och VD-uppgift via Reuters om cirka 15 md EUR datacenterrelaterade order; RWE:s Q1–Q3-release (4,6 md EUR justerat EBITDA, 2,5 GW nya gaskraftverk i tysk kapacitetsauktion, 13,5 GW under byggnation); Vestas Q3 2026 (77,9 md EUR kombinerad orderstock, snävare helårsutsikter) och Reuters om 27 procents lägre orderintag år över år.
 
 **Fortsatt faktainsamling före fullständigt utkast:** projekt-/kundfördelning för Siemens 15 md EUR; geografi och teknikmix (gasturbiner kontra nätutrustning); orderstockens konvertering till leveranser; Vestas regionala ordermix och effekten av He Dreiht-bladskadan; offentliga nätanslutnings- och tillståndsdata för de datacenter som driver efterfrågan.
 
