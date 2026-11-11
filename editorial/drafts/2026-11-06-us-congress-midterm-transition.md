@@ -299,3 +299,20 @@ Den 10 november krävde senator Kevin Cramer (R), ledamot av Senate Banking Comm
 **OBEROENDE BEKRÄFTELSE:** Reuters om Cramers uttalande, 11 november: https://www.reuters.com/world/china/senior-republican-us-senate-banking-panel-calls-nvidia-ceo-huang-resign-2026-11-11/
 
 **Status:** Hegseth- och exportkontrolluppgifterna tillagda som nya procedur- och tillsynshändelser. Inga sakanklagelser mot Hegseth eller Huang betraktas som fastställda genom dessa omröstningar eller uttalanden. Draften är inte mergad eller publicerad.
+
+## Källuppdatering 11 november 2026 – House-brevet till NVIDIA
+
+Den 4 november 2026 skrev tre republikanska utskottsordförande – Brian Mast (Foreign Affairs), John Moolenaar (Select Committee on China) och Rick Crawford (House Intelligence) – till NVIDIA:s vd Jensen Huang. Brevet offentliggjordes den 5 november. De begär en gemensam briefing bakom stängda dörrar den **18 november** om Huangs kontakter med Megaspeed-chefen Alice Huang och NVIDIA:s säkerhetsprotokoll mot utländsk underrättelseinhämtning. Huang ombads acceptera datumet eller föreslå en annan sessiondag senast **11 november**.
+
+Detta är en begäran om briefing, inte en subpoena eller offentlig hearing. Kommittéernas formulering om Alice Huang som en “publicly reported” kinesisk underrättelsetillgång är deras beskrivning av medierapportering, inte en offentlig underrättelsehandling eller domstolsfastställd slutsats. Ingen offentlig bekräftelse på att Huang accepterat eller föreslagit nytt datum har hittats per 06.48 EET den 11 november.
+
+**PRIMÄRKÄLLA:** brev daterat 4 november: https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.4.26nvidialetter.pdf  
+**PRIMÄRKÄLLA:** pressmeddelande 5 november: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
+
+Den 9 november lämnades dessutom en föreslagen värdepappersklassaktion in i Northern District of California: Kistenmacher v. NVIDIA Corporation et al., 5:26-cv-13448, Document 1. Klagomålet åberopar Exchange Act §§10(b) och 20(a) samt Rule 10b-5 och hävdar att tidigare uttalanden om Megaspeed och relationen till dess företrädare var materiellt vilseledande. Det är en partsinlaga; ingen domstol har prövat sakfrågan, någon klass är inte certifierad och något svaromål har inte identifierats.
+
+**PRIMÄRHANDLING – kopia av ingiven stämningsansökan:** https://www.hbsslaw.com/sites/default/files/case-downloads/nvda/2026-11-09-Complaint.pdf  
+Full granskning ligger i PR #47. Detta är en civil värdepappersprocess, skild från styrelsens interna utredning och från eventuella myndighetsutredningar.
+
+**Status:** House-brevet och aktieägartalan införda som separata institutionella processer. Inget påstående om spioneri eller exportbrott betraktas som fastställt.
+
