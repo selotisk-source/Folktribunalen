@@ -971,3 +971,27 @@ Kreditförsäkring – jurisdiktionsskillnad, 11 november: FT uppger att europei
 ## Breaking Watch – 11 november 2026, 16:15 EET
 
 Ny fullcykelkontroll A–S tillagd i `editorial/research/2026-11-11-breaking-watch-1615.md`. Täckningsmatrisen har fått motsvarande delta. Huvudspår med substantiell utveckling: Palantir, EU:s AI-gigafabriker, Sofia/Samuil, CRMA:s nordiska projekt, NVIDIA-finansiering, Hormuz, USA:s kongress, Gripen, Jämtmassivet och Onkalo. Öppna kontrollfrågor kvarstår särskilt kring Cladonia/Storsjö, UNIFIL:s avveckling, EUDI-wallets och myndighetsanvändning av biometriska system. Inga artiklar har mergats eller publicerats; uppdateringarna ligger i befintliga granskningsspår.
+
+## Breaking Watch – uppdatering 11 november 2026 kl. 22:24
+
+### Prioriterade förändringar
+1. **A:** Helsing Clarity lanserad 11 november; inget bekräftat kundval eller operativ driftsättning. Palantirs 10-Q visar Q3 commercial revenue 1,168 md USD mot government 1,146 md USD, men nio månaders intäkter är fortfarande 51 % government och 81 % USA. Ett kundkonto står för 27 % av kundfordringarna men inte över 10 % av intäkterna. Minst 5,6 md USD i tioåriga tredjeparts-molnköp är ett inköpsåtagande, inte en omedelbar skuld.
+2. **B/F:** Statnett pausade nya nätreservationer och nya FOS §14-funktionsgodkännanden för stora uttagskunder till senast 1 augusti 2027. Tydal har NVE-koncession för 132 kV-anläggningar och 180 MW oförändrat uttag, men dess separata §14-status är inte offentligt klarlagd. Bitdeers 121 IT-MW-avtal har 4,7 md USD i schemalagda betalningar, men kreditbackstop är villkorad och cirka 500 mn USD återstående capex ska finansieras.
+3. **C:** OUP-artikeln om synkronicitet är en teoretisk modell, inte empirisk evidens för extern kausalitet.
+4. **E/S:** CRMA-bilagan C(2026)8051 listar Hautalampi (FinnCobalt Oy) som projekt 19. ECA:s rapport 04/2026 understryker att strategisk status inte innebär EU-finansiering och inte kräver finansiell bärkraft; revisionsrättens stickprov avser den tidigare projektomgången 2025, inte en särskild granskning av Hautalampi.
+5. **K:** P4:s 11 november-rapport återger kommunalrådets andrahandsuppgift om att bolagsföreträdaren angav skidåkning som förklaring till köpet. Inte ett direkt Karp-uttalande eller bindande markanvändningsplan.
+6. **O:** Reuters rapporterar Didamar-incidenten 11 november; förstörda navigationssystem och faktisk påverkan är inte självständigt fastställda. Oktoberstatistik: 37 fartygsattacker och 31 LNG-fartyg som lämnade området.
+7. **P:** House Roll Call 317 den 10 november: motion om hänskjutande av H.Res.1655 antogs 211–204. Detta var inte en slutlig omröstning om själva impeachment-anklagelsen.
+8. **Q:** Ukrainas avtal om 16 Gripen E undertecknades 30 juni; Saab bokförde 24,6 md SEK i order under Q3. Den separata C/D-gåvan ska hållas isär.
+9. **R:** Enafors/Jämtmassivet är ett planerat 150 MW-batterilager i utvecklingsfas, utan offentlig MWh-kapacitet, slutligt tillstånd, nätanslutning eller investeringsbeslut. Lyten: första kundleveranser av celler uppges i oberoende sammanställning ligga Q1 2027; testkörning är inte serieproduktion.
+
+### Ny separat godkännandepost
+- **PR #51:** “Hautalampi får EU-status – medan Eurobattery Minerals står i en bolagsstyrningskris”. Draft PR, ej mergad. Den skiljer bolagets egna upplysningar om vd:ns häktning, revisorsavgång och NGM-process från saknade domstolshandlingar och från projektets separata tillståndsstatus.
+
+### Nästa kontrollpunkter
+- Tydals FOS §14-ärende och faktisk kreditbackstop.
+- Eurobatterys extra bolagsstämma, registrerad styrelsesammansättning, ny revisor, NGM:s disciplinnämnd och LVV:s tillståndsdiarium för Hautalampi.
+- Bergs kommuns mötesanteckningar och Lantmäteriets lagfarter/fastighetsbeteckningar för Cladonia.
+- UKMTO/IMO:s fortsatta verifiering av Didamar och fartygsincidenter.
+- EuroHPC:s uppdaterade AI-gigafactory-deadlines (3 december 2026, Lot 2; 4 februari 2027, Lot 1); äldre Futurium-datum 12 november får inte återanvändas.
+- För övriga spår D, G, H, I, J, L och M: inga nya publika primärdokument som passerar notiströskeln identifierades i denna sökcykel. Dessa kontroller är en källsökning/screening, inte en ersättning för full arkiv- och diariegenomgång.
