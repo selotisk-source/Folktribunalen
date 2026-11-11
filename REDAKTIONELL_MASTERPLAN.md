@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 11 november 2026, 00.45 Europe/Sofia  
+**Version:** 11 november 2026, 06.48 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
