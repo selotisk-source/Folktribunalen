@@ -966,3 +966,8 @@ RWE:s primärmeddelande visar justerat EBITDA 4,6 md EUR (+35%), nettoinvesterin
 
 
 Kreditförsäkring – jurisdiktionsskillnad, 11 november: FT uppger att europeiska och kanadensiska banker länge har använt försäkring för regulatorisk kapitallättnad, medan amerikanska banker normalt inte får motsvarande kapitaleffekt; där kan försäkringen frigöra intern risklimit/utlåningskapacitet. Detta ska hållas åtskilt från faktisk risköverföring och politisk-risk-/contract-frustration-skydd. Källa: https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565
+
+
+## Breaking Watch – 11 november 2026, 16:15 EET
+
+Ny fullcykelkontroll A–S tillagd i `editorial/research/2026-11-11-breaking-watch-1615.md`. Täckningsmatrisen har fått motsvarande delta. Huvudspår med substantiell utveckling: Palantir, EU:s AI-gigafabriker, Sofia/Samuil, CRMA:s nordiska projekt, NVIDIA-finansiering, Hormuz, USA:s kongress, Gripen, Jämtmassivet och Onkalo. Öppna kontrollfrågor kvarstår särskilt kring Cladonia/Storsjö, UNIFIL:s avveckling, EUDI-wallets och myndighetsanvändning av biometriska system. Inga artiklar har mergats eller publicerats; uppdateringarna ligger i befintliga granskningsspår.
