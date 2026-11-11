@@ -466,3 +466,5 @@ Källor:
 **Redaktionell betydelse:** kvartalets kommersiella övertag får inte användas för att beskriva Palantir som frikopplat från offentlig sektor. Nio månaders mix visar fortsatt en knapp majoritet myndighetsintäkter och stark USA-koncentration. Samtidigt visar 27-procentsandelen av kundfordringarna en fordringskoncentration som inte syns i intäktsmixen. Den stora molncommitmenten gör också leverantörs- och kapacitetsberoendet konkret.
 
 Källa: Palantir Technologies, Form 10-Q, 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+
+**Remaining performance obligations per 30 september 2026:** **4,9 md USD**, varav bolaget väntar sig att redovisa cirka 44 procent som intäkt under de följande 12 månaderna och 37 procent under månad 13–36. Palantir definierar detta som icke uppsägningsbar kontrakterad intäkt som ännu inte redovisats. Bolaget uppger samtidigt att många kundavtal kan sägas upp för bekvämlighet med mindre än tolv månaders varsel; sådana uppsägningsbara belopp räknas inte in i RPO. RPO är därför ett snävare mått än total deal value och ska inte blandas ihop med kassaflöde eller säkrad intäkt.
