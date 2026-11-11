@@ -800,3 +800,8 @@ PR #10 har kompletterats med att House Republicans valde Jim Jordan till partiet
 Ny kontrollcykel A–S dokumenterad i [journalen 05:14](editorial/research/2026-11-11-breaking-watch-0514.md). Nya substantiella delta: SpaceX/Apollo cirka 40 md USD villkorad master finance lease (F), EU-kommissionens 68 TWh/2024 och 114 TWh/2030-prognos samt konsultation till 14 december (B), LKAB:s begränsade demonstrationsdrift i Luleå från 3 november (E/S), UKMTO Incident 201-26 och separat ADNOC-fartygsskada i UAE:s territorialvatten 10 november samt Reuters marknadsrapport 11 november (O). Palantirs TITAN-produktionsorder har primärkontrollerats mot Army CPE ISW och oberoende rapportering om analytikerns godkännanderoll (A); orderhändelsen är från 1 september och inte en ny novemberhändelse.
 
 Befintliga utkast uppdaterade: PR #7, #17, #34, #14 och #3. PR #3 återfördes till draft eftersom de nya Hormuz-tilläggen inte omfattas av tidigare godkännande. Ingen merge eller LIVE-publicering.
+
+
+### Tillägg 11 november 2026 – ORLEN/QatarEnergy
+
+ORLEN:s regulatoriska rapport 39/2026 (10 november) bekräftar uppsägning av ett av två QatarEnergy-avtal om 1 mtpa LNG, cirka 15,3 TWh/år, med 60 dagars fortsatt avtalsverkan. Det andra avtalet till upp till 1 mtpa till 2034 kvarstår. Reuters ger oberoende rapportering och beskriver detta som den första kända uppsägningen av ett långfristigt QatarEnergy-avtal sedan exportstörningarna. PR #18 och PR #3 uppdaterade; PR #3 är fortsatt draft.
