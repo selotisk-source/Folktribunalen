@@ -381,3 +381,23 @@ MOPAC:s offentliga uttalande den 14 oktober säger att High Court-processen lös
 **PRIMÄRKÄLLA:** https://www.london.gov.uk/statement-mopac-and-palantir
 
 **Öppna kontrollfrågor:** fullständig BCH-avtalstext, DPIA och datakällor; vilka tre poliskårer som faktiskt använder plattformen och på vilka rättsliga grunder; Cressida Dicks rådgivaravtal/ersättningsredovisning; LoSapios etikavtal och senatens prövning; den nya MPS UOA-upphandlingens krav, kostnad och exitplan.
+
+
+## Militär användning: TITAN går från prototyp till första produktionsbatch
+
+**Händelsedatum:** 31 augusti 2026. **Publiceringsdatum för arméns besked:** 1 september 2026. **Ny kontroll:** 11 november 2026.
+
+**PRIMÄRKÄLLA – U.S. Army CPE Intelligence and Spectrum Warfare:** Armén uppgav att programmet flyttats till produktion genom två leveransorder på sammanlagt 192 miljoner dollar. Palantir tilldelades 127 miljoner dollar och Anduril 65 miljoner dollar. Beställningen omfattar åtta system – fyra TITAN Advanced och fyra TITAN Basic – med leveransplan över 18 månader. Armén behåller dessutom nio prototypenheter för operativ användning. Palantir leder den övergripande produktionen; L3Harris, Sierra Nevada Corporation, Strategic Technology Consulting och World Wide Technology bidrar med delsystem och teknik. Anduril har en separat hårdvaru- och integrationsroll.
+
+**OBEROENDE BEKRÄFTELSE – DefenseScoop, 1 september 2026:** Reportaget återger arméns besked och intervjuuppgifter om hur systemet används. En armérepresentant beskriver analytikern som den som godkänner eller avslår mål som nomineras vidare till eldstöd. Detta stöder en distinktion mellan automatiserad målidentifiering/-nominering och ett självständigt vapenbeslut.
+
+**Källstatus och avgränsning:** Armén beskriver TITAN som AI-aktiverad och säger att automatiserade målnomineringar kan korta tiden från sensor till verkansförband. Det är inte belägg för att systemet självständigt väljer och avfyrar vapen. Offentlig oberoende testmatris, felutfall, certifieringsunderlag och detaljerad operativ användningsrapport har inte identifierats.
+
+**Varför det spelar roll:** Detta är ett konkret exempel på att Palantirs programvara ingår i en militär sensor-till-besluts- och målnomineringskedja, inte bara i generell dataanalys. Det ger en mer precis artikelvinkel om var mänsklig beslutsmakt ligger och vilka delar som automatiseras.
+
+Källor:
+- U.S. Army CPE ISW, 1 september 2026: https://cpeisw.army.mil/2026/09/01/army-announces-move-to-production-for-titan/
+- DefenseScoop, 1 september 2026: https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/
+- Palantirs Q3 2026 Business Update, publicerad 2 november 2026: https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf
+
+**Redaktionell notering:** TITAN-ordern är inte en ny händelse i november. Nytt i denna kontroll är att arméns primärbesked och den oberoende beskrivningen av analytikerns godkännanderoll har förts in som källunderlag i Palantir-utkastet.
