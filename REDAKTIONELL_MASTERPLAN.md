@@ -757,3 +757,12 @@ PR #39–#44 är öppna granskningsutkast. Ingen PR har mergats och ingen artike
 ### Publicerings- och godkännandestatus
 
 PR #3 Hormuz förblir den enda artikel som tidigare markerats som godkänd grundtext; den utökade versionen i PR #3 kräver fortfarande separat godkännande av tilläggen. PR #45 och övriga nya granskningsobjekt är drafts. Ingen artikel mergades eller publicerades i denna uppdatering. Databasbaserad webbkö och aktuell LIVE-rendering har inte ändrats eller bekräftats genom denna redaktionella uppdatering.
+
+
+## 11 november 2026 kl. 02.00 Europe/Sofia – ny fördjupning av Svarta havet-spåret
+
+- **PR #46 – Svarta havets maritima säkerhetshubb:** separat granskningsutkast skapat efter att Europeiska kommissionens pressbriefingar den 10 november preciserat arbetsgrupp, finansieringsram upp till €50 miljoner, mål om operativ status 2027 och geografisk samverkan över Varna, Constanța och en icke namngiven rumänsk flygbas. Utkastet skiljer hubben från MCM BLACK SEA och Odesas JMSC.
+- **Ny primärkälla:** EU:s gemensamma genomföranderapport JOIN(2026) 15 final (3 juli 2026) beskriver hubben som civilledd, regionalt ägd och interinstitutionell, med CISE/EMSA-interoperabilitet och initialt regionalt partnerskap med Turkiet, Ukraina och Moldavien.
+- **Oberoende korskontroll:** Reuters 10 november och AP 5 november. Ansvar för enskilda fartygsattacker hålls som obekräftat om inte offentlig forensisk attribution finns.
+- **Öppna frågor:** finansieringsinstrument/utbetalning, arbetsgruppens mandat och sammansättning, juridisk form, dataägande, åtkomststyrning, besluts- och ansvarskedja samt mätbara kriterier för operativ status 2027.
+- **Publiceringsstatus:** PR #46 är draft. Ingen merge, publicering eller LIVE-kontroll har skett.
