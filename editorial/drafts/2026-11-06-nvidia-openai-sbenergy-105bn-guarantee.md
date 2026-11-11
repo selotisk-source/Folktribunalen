@@ -567,3 +567,14 @@ Nscale-fallet visar skillnaden mellan ett stort kontrakterat TCV, driftsatt kapa
 **OBEROENDE RAPPORTERING – Financial Times, 5 november 2026:** FT uppgav att optionen först beskrevs som 700 MW, men att Nscale senare klargjorde att den gällde närmare 500 MW vid Nscales egen anläggning. FT uppgav separat att Microsoft redan har ett avtal om cirka 240 MW vid en angränsande anläggning som utvecklas av Ionic Digital. Det är inte samma sak som att Microsoft har sagt upp det befintliga Nscale-avtalet. FT rapporterade också att Nscale behövde hitta andra kunder för den extra kapaciteten och att elförsörjningen för den återstående Ionic-kapaciteten ännu inte var säkrad. Dessa uppgifter är journalistiskt rapporterade; offentliga avtal, kapacitetsbilagor och nätanslutningsbeslut har inte lokaliserats.
 
 Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
+
+
+### Nscale: kontrakterat TCV är inte samma sak som finansierad leverans
+
+**PRIMÄRKÄLLA – SEC S-1, 18 september 2026:** Nscale redovisar cirka **103,4 md USD i aktivt och kontrakterat TCV**, men bara **2,6 md USD i aktivt TCV**, per 31 augusti 2026. Avtalen skulle stödja cirka 461 000 GPU:er som var aktiva eller kontrakterade. Prospektet anger samtidigt **140,6 m USD i intäkter** och **1,02 md USD i nettoförlust** för första halvåret 2026. Den största kunden stod för **52 procent av intäkterna** under halvåret.
+
+**PRIMÄRKÄLLA – Anthropic-avtalen:** Nscale uppger att fyra separata GPU-tjänsteavtal med Anthropic kan ge upp till **44,6 md USD** i betalningar, beroende på leverans och tillgänglighet. Prospektet säger uttryckligen att Nscale vid prospektdatumet **inte hade några bindande finansieringsåtaganden** för den finansiering som krävdes för att fullgöra Anthropic-avtalen. Bolaget uppgav att det arbetade med flera finansieringskällor.
+
+**Avgränsning:** Den separata teckningsöverenskommelsen på minst **3,1 md USD** (2,1 md USD i konvertibla skuldebrev och 1,0 md USD i en separat NVIDIA-del) får inte beskrivas som att hela finansieringen för Anthropic-projektet därmed är säkrad. Prospektet redovisar dem som separata delar och säger samtidigt att finansieringen för Anthropic-avtalen ännu inte var bindande.
+
+**Redaktionell betydelse:** Det finns tre olika nivåer: ett stort nominellt kontraktsvärde, en mycket mindre aktiv TCV-bas och ett separat, ännu inte bindande finansieringsbehov för Anthropic-leveranserna. Det är den skillnaden som måste styra artikelns ekonomiska språk.
