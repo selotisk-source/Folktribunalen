@@ -108,3 +108,23 @@ Ingen ny bolags- eller myndighetsakt över notiströskeln utöver de redan regis
 7. **Våren 2027:** LKAB:s planerade övergång från begränsad demonstrationsdrift till eventuell regelbunden drift; kräver faktiska resultat och tillståndskontroll.
 8. **31 december 2026:** UNIFIL:s mandat upphör enligt tidigare säkerhetsrådsbeslut; följ faktisk neddragning och ansvarsfördelning.
 
+
+
+## Tillägg i samma kontrollcykel – ORLEN/QatarEnergy, 10 november
+
+**PRIMÄRKÄLLA:** ORLEN:s regulatoriska rapport nr 39/2026, publicerad 10 november kl. 20.29 CET, bekräftar att bolaget sagt upp ett av två långfristiga QatarEnergy-avtal på grund av fortsatt force majeure och uteblivna leveranser. Det uppsagda avtalet omfattade 1 miljon ton LNG per år (cirka 15,3 TWh), var oljeindexerat och uppskattades av ORLEN vara värt cirka €570 miljoner för 2026. Avtalet fortsätter att gälla i 60 dagar efter uppsägningsmeddelandet. Det andra avtalet, upp till 1 miljon ton per år till 2034 och med gasindexerad prisformel, fortsätter.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters 10 november beskriver detta som den första kända uppsägningen av ett långfristigt QatarEnergy-avtal sedan kriget störde exporterna. Reuters rapporterar att ORLEN även har gas från Norge och USA och att leveranser från Venture Globals Plaquemines-anläggning inletts tidigare i november.
+
+**PARTSUPPGIFT:** ORLEN säger att egen produktion och övriga långfristiga avtal fullt ut täcker koncernens gasbehov. Detta är bolagets försörjningsbedömning; oberoende volym- och prisavstämning saknas i denna kontroll.
+
+**Betydelse:** Fysisk exportstörning i Qatar och riskerna kring Hormuz har nu lett till en dokumenterad uppsägning av ett europeiskt långtidsavtal. Det gäller ett av två kontrakt, inte hela ORLEN:s Qatarrelation och inte hela Europas Qatari LNG-portfölj.
+
+**Öppet:** 60-dagarsperiodens faktiska leveranser, ersättningsvolymer/priser, QatarEnergys svar och hur stor del av ersättningen som kommer från USA respektive Norge.
+
+Källor:
+- ORLEN Regulatory Announcement No. 39/2026: https://www.orlen.pl/en/investor-relations/reports-and-publications/regulatory-announcements/2026/03/Regulatory-announcement-no-39-2026
+- Reuters, 10 november 2026: https://www.reuters.com/business/energy/polands-orlen-ends-long-term-qatarenergy-lng-contract-over-delivery-failure-2026-11-10/
+- [PR #18 – QatarEnergy/Rio Grande LNG](https://github.com/selotisk-source/Folktribunalen/pull/18)
+
+**Arbetsflöde:** PR #18 och PR #3 har fått faktatillägg. Båda förblir öppna; PR #3 är draft och inväntar uttryckligt godkännande av den uppdaterade texten. Ingen merge eller LIVE-publicering.
