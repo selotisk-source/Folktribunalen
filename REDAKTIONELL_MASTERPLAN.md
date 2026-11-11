@@ -793,3 +793,10 @@ PR #10 har kompletterats med att House Republicans valde Jim Jordan till partiet
 - Hormuz: ADNOC:s officiella uppdatering 10 november bekräftar skadat fartyg i UAE:s territorialvatten men lämnar identitet, skada och ansvar öppna; separat från UKMTO-incidenten nordost om Lima, Oman.
 - USA:s senat: roll-call 257 den 9 november bekräftar 73–25 cloture på motionen att gå vidare till H.R.2347; procedur, inte slutlig passage.
 - Spår utan nyhet över notiströskeln efter screening: C, H, I, J, L och M.
+
+
+## Breaking Watch – 11 november 2026, 05:14 EET
+
+Ny kontrollcykel A–S dokumenterad i [journalen 05:14](editorial/research/2026-11-11-breaking-watch-0514.md). Nya substantiella delta: SpaceX/Apollo cirka 40 md USD villkorad master finance lease (F), EU-kommissionens 68 TWh/2024 och 114 TWh/2030-prognos samt konsultation till 14 december (B), LKAB:s begränsade demonstrationsdrift i Luleå från 3 november (E/S), UKMTO Incident 201-26 och separat ADNOC-fartygsskada i UAE:s territorialvatten 10 november samt Reuters marknadsrapport 11 november (O). Palantirs TITAN-produktionsorder har primärkontrollerats mot Army CPE ISW och oberoende rapportering om analytikerns godkännanderoll (A); orderhändelsen är från 1 september och inte en ny novemberhändelse.
+
+Befintliga utkast uppdaterade: PR #7, #17, #34, #14 och #3. PR #3 återfördes till draft eftersom de nya Hormuz-tilläggen inte omfattas av tidigare godkännande. Ingen merge eller LIVE-publicering.
