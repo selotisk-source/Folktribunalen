@@ -451,3 +451,18 @@ Källor:
 - DHS/CISA award record: https://www.usaspending.gov/award/CONT_AWD_70RCSJ26FC0000028_7001_70RTAC26A00000001_7001
 
 **Öppna frågor:** leverantörsnamn och exitvillkor i det ändrade molnavtalet; fullständigt Army statement of work; HHS N3C:s datakategorier, åtkomstroller och forskningsvillkor; CISA-avtalets omfattning, användare och utbetalningsstatus. Ingen av dessa award-poster bevisar att Palantir fattar myndighetsbeslut i egen rätt.
+
+### SEC-fördjupning 11 november 2026 – segmentmix, fordringskoncentration och molnåtagande
+
+**PRIMÄRKÄLLA – Form 10-Q, rapportperiod till 30 september 2026, inlämnad 3 november:**
+
+- Tredje kvartalet: government revenue **1,1455 md USD**; commercial revenue **1,1679 md USD**. Kommersiella intäkter passerade därmed myndighetsintäkterna med cirka 22,3 mn USD under just detta kvartal.
+- Januari–september: government revenue **2,9940 md USD** mot commercial revenue **2,8875 md USD**. För de första nio månaderna kom alltså fortfarande **51 procent** av intäkterna från offentlig sektor och 49 procent från kommersiella kunder.
+- **81 procent** av intäkterna under januari–september kom från kunder i USA, 19 procent från kunder utanför USA.
+- Kund I svarade för **27 procent av kundfordringarna** per 30 september (25 procent vid utgången av 2025). Ingen enskild kund stod samtidigt för mer än 10 procent av periodens intäkter. Kundidentiteten anges inte.
+
+**Finansierings-/leverantörsberoende:** bolaget uppger att det i mars 2026 ändrade ett tredjepartsavtal för molntjänster. Avtalet innebär minst **5,6 md USD** i köpåtaganden under tio avtalsår till och med 29 februari 2036, med årliga minimibelopp mellan 268 och 979 mn USD. Detta är ett långsiktigt inköpsåtagande för molntjänster – inte redovisad skuld, inte kundintäkt och inte ett bevis för att hela beloppet redan betalats.
+
+**Redaktionell betydelse:** kvartalets kommersiella övertag får inte användas för att beskriva Palantir som frikopplat från offentlig sektor. Nio månaders mix visar fortsatt en knapp majoritet myndighetsintäkter och stark USA-koncentration. Samtidigt visar 27-procentsandelen av kundfordringarna en fordringskoncentration som inte syns i intäktsmixen. Den stora molncommitmenten gör också leverantörs- och kapacitetsberoendet konkret.
+
+Källa: Palantir Technologies, Form 10-Q, 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
