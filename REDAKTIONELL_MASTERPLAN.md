@@ -987,6 +987,7 @@ Ny fullcykelkontroll A–S tillagd i `editorial/research/2026-11-11-breaking-wat
 
 ### Ny separat godkännandepost
 - **PR #51:** “Hautalampi får EU-status – medan Eurobattery Minerals står i en bolagsstyrningskris”. Draft PR, ej mergad. Den skiljer bolagets egna upplysningar om vd:ns häktning, revisorsavgång och NGM-process från saknade domstolshandlingar och från projektets separata tillståndsstatus.
+- **Tidslinje:** Metaller & Gruvor återger den 9 november en åklagaruppgift om att gripandet skedde den 4 november; bolaget offentliggjorde den 7 november att vd:n hade häktats. Häktningsbeslutets datum och konkreta grund är inte dokumenterade i den offentliga källmängden här.
 
 ### Nästa kontrollpunkter
 - Tydals FOS §14-ärende och faktisk kreditbackstop.
