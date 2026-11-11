@@ -54,7 +54,7 @@ Detta är en fråga om bolagsstyrning, inte bevis för att styrelsen är partisk
 **OBEROENDE RAPPORTERING:** Reuters, 10 november 2026:  
 https://www.reuters.com/world/china/nvidias-clubby-board-faces-sticky-honey-pot-test-2026-11-10/
 
-Financial Times rapporterade den 11 november att en tidigare federal åklagare, Joon H. Kim vid Wachtell Lipton, ska leda den externa utredningen. Uppgiften är medierapportering; NVIDIA:s offentliga styrelseuttalande namnger inte rådgivaren. Den får inte beskrivas som bolagets officiella bekräftelse innan en primär handling eller ett bolagsbesked finns.
+Financial Times rapporterade den 11 november att en tidigare federal åklagare, Joon H. Kim vid Wachtell Lipton, ska leda den externa utredningen (https://www.ft.com/content/2b3d4a6e-5b2f-4e5f-9d1a-6c1b2e3d4f5a). Uppgiften är medierapportering; NVIDIA:s offentliga styrelseuttalande namnger inte rådgivaren. Den får inte beskrivas som bolagets officiella bekräftelse innan en primär handling eller ett bolagsbesked finns.
 
 ## FBI – vad är bekräftat?
 
