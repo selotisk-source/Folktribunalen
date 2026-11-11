@@ -198,3 +198,26 @@ Reuters citerar även Wärtsiläs energichef om cirka 3 GW beställningar sedan 
 
 **Källa:** Reuters, 9 november 2026: https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/
 
+### Tillägg 11 november 2026 – Tydal: kontrakterad AI-last och finansieringskedja
+
+**PRIMÄRKÄLLA – Bitdeer/SEC, 4 augusti 2026:** Bitdeer redovisar ett 16-årigt colocation- och serviceavtal via Tydal Data Center AS med Volta Tydal AS. Avtalet omfattar **121 IT-MW**, stödda av cirka **133 brutto-MW**, och cirka **4,7 miljarder USD i schemalagda kontraktsbetalningar** under grundperioden. En åttaårig förlängning skulle kunna höja det potentiella kontraktsvärdet till cirka 8 miljarder USD. Voltas kund beskrivs endast som ett ledande AI-laboratorium; Dell är teknikleverantör och anläggningen ska använda NVIDIA-GPU:er.
+
+Viktiga finansieringsvillkor som inte får tappas bort:
+- Voltas åtaganden väntas få ett kreditstöd genom remburser på cirka **1,3 miljarder USD**, arrangerade av J.P. Morgan-anknutna bolag och en annan global finansinstitution, men stödet är uttryckligen villkorat.
+- Hyresgästen har en rätt att säga upp utan avgift efter tio år.
+- Bitdeer uppger cirka **500 miljoner USD i återstående capex** och avsikt att ta in ytterligare lånekapital.
+- Bitdeer-anknutna bolag behåller 100 procent av campusägandet.
+- Bitdeers egen SEC-bilaga säger uttryckligen att kontraktsvärdet är schemalagda betalningar vid full prestation och **inte GAAP-intäkt**.
+
+**PRIMÄRKÄLLA – NVE, 28 maj 2026:** NVE har beviljat Tydal Data Center tillstånd för nya 132 kV-jordkablar och elektriska anläggningar. Effektuttaget hålls oförändrat på **180 MW**.
+
+**PRIMÄRKÄLLA – Statnett, 9 november 2026:** Statnett har infört en tillfällig paus för nya nätkapacitetsreservationer och nya ansökningar om funktionsgodkännande enligt FOS §14 för stora uttagskunder, typiskt datacenter. Pausen väntas hävas senast 1 augusti 2027. Befintliga anslutningar och anläggningar som redan fått nödvändiga funktionskrav godkända påverkas inte.
+
+**Viktig avgränsning:** NVE:s anläggningskoncession är inte i sig bevis för att Tydal har fått det separata funktionsgodkännandet enligt FOS §14. I denna kontroll har vi inte hittat ett offentligt dokument som visar Tydals exakta status i Statnetts §14-process. Det går därför inte att slå fast vare sig att projektet stoppas av pausen eller att det är undantaget.
+
+**Nästa kontroll:** Statnetts beslut/ärendenummer för Tydals funktionsgodkännande, den faktiska kapacitetsreservationen, RME:s kommande funktionskrav samt om den förväntade kreditbackstoppen faktiskt har ställts ut.
+
+Källor:
+- SEC, Bitdeer Exhibit 99.1, 4 augusti 2026: https://www.sec.gov/Archives/edgar/data/1899123/000121390026085655/ea030075201ex99-1.htm
+- NVE, konsesjonssak 202607345, 28 maj 2026: https://www.nve.no/konsesjon/konsesjonssaker/konsesjonssak?id=26042&type=A-1
+- Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift
