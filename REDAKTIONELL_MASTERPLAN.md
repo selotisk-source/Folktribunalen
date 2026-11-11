@@ -919,3 +919,20 @@ SGU:s API-sida `startIndex=50` har exportdatum **8 november 2026** och visar min
 RWE Annual Report 2025 anger att Norfolk Vanguard East/West har potential upp till 3,1 GW men att 2,8 GW då var planerat. DESNZ:s CfD-tabell summerar till cirka 3,09 GW (1,545 GW per projekt), medan RWE:s aktuella plan den 11 november 2026 är 2,8 GW. Detta förklarar i huvudsak skillnaden som maximal CfD-kapacitet kontra aktuell byggplan. Utkast PR #49 har korrigerats; återstående kontroll gäller vilka 90/75 MW-enheter som är optioner eller ingår i slutlig FID-/teknikomfattning.
 
 Källa: https://www.rwe.com/-/media/RWE/documents/05-investor-relations/finanzkalendar-und-veroeffentlichungen/2025-GJ/RWE-Annual-Report-2025.pdf
+
+
+## Breaking Watch – 11 november 2026, 13:53 EET
+
+Ny kontrolljournal: [2026-11-11-breaking-watch-1353.md](editorial/research/2026-11-11-breaking-watch-1353.md).
+
+### Nya deltan i denna runda
+- **F/B – Nscale:** Reuters 10 november återger en obekräftad uppgift om att Nscale överväger att skjuta upp IPO till 2027. Reuters kunde inte verifiera uppgiften och Nscale hade inte svarat. Microsofts beslut att inte utnyttja en separat Texas-expansionsoption (Reuters 5 november) påverkade enligt källan inte befintliga arbetsorder eller rapporterat TCV. Nscale S-1 definierar TCV så att outnyttjade optioner inte ingår. Öppen källskillnad: Reuters 10 november nämner 2 md USD från NVIDIA, medan S-1 beskriver en separat NVIDIA-del på 1 md USD i en minsta teckningsstruktur om 3,1 md USD.
+- **F – kreditförsäkring:** FT 11 november rapporterar att Barclays har försäkrat viss AI-infrastrukturutlåning, att HSBC undersökt upplägget och att JPMorgan avstod. Bloomberg hade tidigare rapporterat explorativa sonderingar. WTW:s primära marknadsundersökning från maj visar växande datacenterexponering men också att flera försäkringsgivare närmade sig sektorsgränser. Ingen offentlig låntagare, försäkringsgivare eller policy har identifierats.
+- **B/R – Siemens Energy/Vestas:** Siemens Energys officiella FY2026-release anger 164 md EUR i orderstock, 68,1 md EUR i orderintag, 44,2 md EUR omsättning, 12,4 procents marginal och 8,8 md EUR i fritt kassaflöde före skatt. Reuters återger VD:ns uppgift att datacenterrelaterade order på gasturbiner och nätutrustning är cirka 15 md EUR (9,1 procent av orderstocken). Vestas Q3 2026 visar 5,7 md EUR omsättning, 8,5 procents marginal och 77,9 md EUR kombinerad orderstock; Reuters rapporterar 27 procents lägre orderintag år över år och snävare helårsprognos.
+- **O – Hormuz:** Rezaei förnekade 10 november pågående samtal och sade att sundet förblir stängt tills sju iranska villkor uppfylls. Araghchi sade via IRNA att öppning kan ske inom två dagar om villkoren accepteras. Full villkorslista saknas; tvådagarsuppgiften är inte ett återöppningsdatum. IRGC:s påstående om tre tankfartyg som träffat minor är inte matchat mot tre identifierade fartyg.
+
+### Arbetsflöde
+- PR #14 uppdaterad i granskningsgrenen med Nscale-/kreditförsäkringsdelta.
+- PR #48 uppdaterad med Irans uttalanden; tillägget omfattas inte av tidigare godkännande.
+- PR #16 kompletterad med journalen och A–S-matrisen.
+- Inga merges och inga LIVE-publiceringar.
