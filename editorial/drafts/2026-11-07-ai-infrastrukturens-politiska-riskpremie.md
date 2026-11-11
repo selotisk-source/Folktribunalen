@@ -374,3 +374,25 @@ Källor:
 - Lyten, Operations – Lyten Sweden (bolagets aktuella uppgifter, odaterad webbsida): https://lyten.com/operations/lyten-sweden/
 - Lyten, förvärv av Northvolt Sweden, 27 februari 2026: https://www.businesswire.com/news/home/20260227089000/en/Lyten-Completes-Acquisition-of-Northvolt-Sweden-and-Establishes-its-First-Lyten-Industrial-Hub-in-Sweden
 - Oberoende bakgrund om förvärvet: Svenska Dagbladet, februari 2026: https://www.svd.se/a/wrAK5P/northvolt-kops-av-lyten-ska-anstalla-600-personer
+
+## EU:s energibaslinje: 68 TWh till 114 TWh
+
+**Dokumentdatum:** 21 september 2026. **Ny redaktionell kontroll:** 11 november 2026.
+
+**PRIMÄRKÄLLA – Europeiska kommissionens rapport om datacenters energieffektivitet:** Kommissionens sammanställning anger att datacenter i EU använde cirka 68 TWh el under 2024. Rapporten uppskattar att användningen kan nå 114 TWh år 2030, motsvarande cirka 3,2 procent av EU:s elbehov. 114 TWh är en prognos, inte uppmätt förbrukning. Rapporten och kommissionens föreslagna gemensamma klassificeringssystem bygger på rapporteringsdata och indikatorer som PUE, WUE, återvunnen spillvärme och förnybar energiförsörjning.
+
+Kommissionens nuvarande policytidslinje anger att konsultationen om minimistandarder för datacenters energiprestanda är öppen till **14 december 2026** och att ett lagförslag planeras till **andra kvartalet 2027**. Detta är en pågående beredning, inte antagna minimikrav.
+
+**OBEROENDE BEKRÄFTELSE:** Le Monde rapporterade 9 november om protestaktioner 6–7 november i omkring 15 europeiska länder. Uppgiften om 90 enskilda evenemang kommer från arrangörskoalitionen Stop Dirty Data Centres; Le Monde beskriver självständigt protester bland annat i Zaragoza, Amsterdam, Warszawa och Frankrike. Deltagarsiffror och arrangörernas sammanräkning ska hållas åtskilda från oberoende reporterobservationer.
+
+**Öppet:** Kommissionens 68/114 TWh-tal har inte räknats om oberoende i denna kontroll. Databasen bygger på rapporteringspliktiga anläggningar och rapporterade indikatorer; täckningsgrad, saknade uppgifter och nationella skillnader måste granskas innan siffrorna används som fullständig anläggningsinventering.
+
+**Artikelvinkel:** Protesterna visar den lokala politiska motreaktionen; kommissionens energirapport visar hur frågan samtidigt flyttas in i mätning, jämförbarhet och kommande minimiregler. Den centrala konflikten är inte bara hur många datacenter som byggs, utan vem som bär kostnaden för el, vatten, nätförstärkning och spillvärme.
+
+Källor:
+- Europeiska kommissionen, *Report on the energy efficiency of data centres in the EU*, 21 september 2026: https://energy.ec.europa.eu/publications/report-energy-efficiency-data-centres-eu_en
+- Kommissionens aktuella policy- och konsultationssida: https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive/energy-performance-data-centres_en
+- Le Monde, 9 november 2026: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
+- Stop Dirty Data Centres, arrangörernas egen redovisning: https://stopdirtydatacentres.eu/en/
+
+**Redaktionell notering:** Protesterna 6–7 november fanns redan i utkastet. Nytt i denna uppdatering är den officiella EU-energibaslinjen och den bindande tidsgränsen för den pågående konsultationen.
