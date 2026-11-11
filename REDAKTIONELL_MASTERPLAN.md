@@ -943,3 +943,16 @@ Saab meddelade en order på 350 m SEK från danska DALO för ytterligare live-tr
 
 
 Nscale – kompletterande kapacitetsnotering, 11 november: FT:s rapport 5 november preciserar den uteblivna Texas-optionen till cirka 500 MW vid Nscales egen anläggning, efter att 700 MW tidigare nämnts. FT skiljer detta från ett separat Microsoft-avtal om cirka 240 MW vid en angränsande Ionic Digital-anläggning. Befintligt Nscale-avtal uppges inte vara påverkat. Offentliga avtals- och nätanslutningshandlingar saknas. Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
+
+
+### Möjlig ny artikelvinkel – AI-boomens elräkning blir industrins orderbok
+
+**Arbetsrubrik:** *När AI behöver kraft: 15 miljarder euro hos Siemens Energy – och en annan verklighet för vindkraften.*
+
+**Tes att pröva:** AI-datacenterexpansionen blir redan synlig i orderböckerna för gasturbiner och nätutrustning, samtidigt som vindkraftens order- och marginalutveckling följer en annan bana. Artikeln ska inte likställa all datacenterkraft med fossil produktion eller framställa Vestas svagare kvartal som ett generellt fall i vindkraften.
+
+**Underlag:** Siemens Energys FY2026-release (164 md EUR orderstock; 12,4 procents marginal; 8,8 md EUR fritt kassaflöde före skatt) och VD-uppgift via Reuters om cirka 15 md EUR datacenterrelaterade order; Vestas Q3 2026 (77,9 md EUR kombinerad orderstock, snävare helårsutsikter) och Reuters om 27 procents lägre orderintag år över år.
+
+**Fortsatt faktainsamling före fullständigt utkast:** projekt-/kundfördelning för Siemens 15 md EUR; geografi och teknikmix (gasturbiner kontra nätutrustning); orderstockens konvertering till leveranser; Vestas regionala ordermix och effekten av He Dreiht-bladskadan; offentliga nätanslutnings- och tillståndsdata för de datacenter som driver efterfrågan.
+
+**Status:** Artikelidé i masterplanen, ännu inte ett separat granskningsutkast eller PR. 
