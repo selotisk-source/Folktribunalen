@@ -19,6 +19,19 @@ Anthropic får inte intäkterna från de aktier som säljs av befintliga ägare.
 **PRIMÄRKÄLLA:** [Anthropic Form S-1/A-2, SEC, 10 november 2026](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm).  
 **PRIMÄRKÄLLA:** [Anthropics besked om roadshow](https://www.anthropic.com/news/roadshow-launch).
 
+## Den återkallade bankversionen – och vad SEC-filen faktiskt fastställer
+
+**NYTT DOKUMENTFÖRLOPP, 9–10 november 2026.** Reuters rapporterade den 10 november om e-postmeddelanden som visade att Anthropic den 9 november hade skickat banker en kopia av en annan prospektversion. Den cirkulerade versionen angav cirka **866,7 miljoner Class A-aktier** till **70–80 dollar**, med ett beräknat bruttoinflöde på upp till **69,3 miljarder dollar**. En uppföljande e-post sade att prisuppgifterna var felaktiga och att ett uppdaterat dokument skulle skickas. Reuters kunde inte fastställa vilka uppgifter som var felaktiga.
+
+Den offentliga SEC-handlingen **Form S-1/A-2, inlämnad 10 november**, anger i stället **825 miljoner Class A-aktier** till **70–78 dollar**: 801 351 354 nyemitterade aktier från Anthropic och 23 648 646 aktier från befintliga ägare. Det är dessa villkor som ska användas som den offentliga, aktuella prospektversionen. De tidigare bankuppgifterna ska endast redovisas som en återkallad dokumenthändelse, inte som slutliga IPO-villkor.
+
+Det går inte att dra slutsatsen att endast aktieantalet ändrades. Reuters uppger uttryckligen att bolaget inte preciserade vilka prisuppgifter som var felaktiga. Att både den återkallade versionen och den offentliga S-1/A-2 innehåller ett privatplaceringsarrangemang om 26 miljarder dollar är inte i sig bevis för att varje villkor i bankversionen bekräftades; den offentliga S-1/A-2 är den primära källan för den nuvarande placeringens villkor.
+
+**PRIMÄRKÄLLA:** [SEC Form S-1/A-2, 10 november 2026](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm).  
+**OBEROENDE BEKRÄFTELSE:** [Reuters, 10 november 2026 – bankversionen skickades och återkallades](https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/).
+
+**Redaktionell betydelse:** Skillnaden mellan 866,7 och 825 miljoner aktier, samt mellan det återkallade intervallet 70–80 och det offentliga intervallet 70–78 dollar, visar varför prospektversion och dokumentstatus måste följas separat. Den återkallade bankversionen får inte användas för värderings- eller emissionsberäkningar efter att den offentliga S-1/A-2 har publicerats.
+
 ## Den stora siffran – 900,9 miljarder dollar
 
 Anthropic redovisar cirka **900,9 miljarder dollar i samlat åtagande** för köp och leasing av beräkningskapacitet och infrastruktur. Bolaget anger att nästan hela beloppet avser compute och infrastruktur.
