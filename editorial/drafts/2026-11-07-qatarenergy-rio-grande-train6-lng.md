@@ -98,3 +98,25 @@ Reuters uppger i samma artikel att QatarEnergys vd Saad Sherida Al-Kaabi månade
 Det ger en direkt källbelagd koppling mellan Hormuzrisken och den amerikanska LNG-portföljen. Det fastställer däremot inte att Train 6-förhandlingarna är ett svar på en viss attack eller att volymerna kan levereras innan projektet byggts och fått samtliga tillstånd.
 
 Källa: Reuters, 6 november 2026, https://www.reuters.com/business/energy/qatarenergy-eyes-nextdecade-train-6-supply-latest-us-lng-push-sources-say-2026-11-06/
+
+
+## ORLEN säger upp ett av två långfristiga QatarEnergy-avtal
+
+**Händelsedatum:** 10 november 2026. **Publiceringsdatum:** ORLEN:s regulatoriska rapport nr 39/2026 publicerades 10 november kl. 20.29 CET.
+
+**PRIMÄRKÄLLA – ORLEN, regulatoriskt meddelande nr 39/2026:** ORLEN uppger att bolaget den 10 november utnyttjade sin rätt att säga upp ett av två långfristiga LNG-avtal med QatarEnergy, med hänvisning till fortsatt force majeure som hindrat leveranser. Det uppsagda avtalet omfattade 1 miljon ton LNG per år, cirka 15,3 TWh, med oljeindexerad prisformel. ORLEN uppskattar avtalets värde för 2026 till cirka 570 miljoner euro (2,5 miljarder PLN). Avtalet tecknades 29 juni 2009 av dåvarande PGNiG; leveranserna började 2016 och avtalet var avsett att löpa till 2034. Uppsägningen träder inte i full effekt omedelbart: avtalet fortsätter att gälla i ytterligare 60 dagar efter uppsägningsmeddelandet.
+
+ORLEN uppger att det andra QatarEnergy-avtalet fortsätter och omfattar upp till 1 miljon ton per år till 2034, med en prisformel knuten till gasmarknadsnoteringar. Bolaget säger att egen produktion och övriga långfristiga avtal täcker koncernens gasbehov. Detta är ORLEN:s egen försörjningsbedömning, inte en oberoende systembalans.
+
+**OBEROENDE BEKRÄFTELSE – Reuters, 10 november 2026:** Reuters beskriver beslutet som den första kända uppsägningen av ett långfristigt QatarEnergy-LNG-avtal sedan kriget störde exporterna. Reuters anger att QatarEnergy utlyste force majeure i mars efter drönarangrepp mot Ras Laffan och omfattande störningar i Hormuztrafiken. Reuters rapporterar också att ORLEN köper gas från norsk kontinentalsockel och USA och att kommersiella leveranser från första fasen av Venture Globals Plaquemines-anläggning inletts tidigare i november.
+
+**Källskillnad:** ORLEN:s primärmeddelande anger den fortsatta force majeure-situationen och oförmågan att leverera, men utvecklar inte själv hela skade- och krigshändelsekedjan. Den specifika bakgrunden om Ras Laffan återges därför som Reuters rapportering, inte som ett ordagrant påstående i ORLEN:s regulatoriska rapport.
+
+**Betydelse:** Detta är inte ett fullständigt brott mellan Polen och QatarEnergy – ett andra avtal fortsätter. Men ett 15,3 TWh/år-avtal med oljeindexerad prissättning lämnar nu den långsiktiga kontraktsportföljen efter en utdragen force majeure. Det visar hur störningar i Hormuz och Qatars exportinfrastruktur börjar omvandlas till faktiska avtalsförändringar och alternativa inköpskedjor i Europa.
+
+**Öppna frågor:** faktiska uteblivna leveransvolymer, hur de 60 dagarna används, ersättningsvolymer och prisformler, QatarEnergys svar, samt hur mycket av ORLEN:s ersättningsgas som faktiskt kommer från Norge respektive USA.
+
+Källor:
+- ORLEN Regulatory Announcement No. 39/2026, 10 november 2026: https://www.orlen.pl/en/investor-relations/reports-and-publications/regulatory-announcements/2026/03/Regulatory-announcement-no-39-2026
+- Reuters, 10 november 2026: https://www.reuters.com/business/energy/polands-orlen-ends-long-term-qatarenergy-lng-contract-over-delivery-failure-2026-11-10/
+
