@@ -41,9 +41,11 @@
 
 ## Aktuella nyhetsspår
 
-| Spår | Artikelvinkel | Status 8 nov 2026 |
+**Redaktionell prioritetsordning:** Hormuz/sjöfarten är **prioritet 6**. Det är ett separat köindex och ska inte härledas från numreringen av de nio långsiktiga huvudspåren. Prioritet 1–5 ligger före Hormuz och ska behålla sin tidigare beslutade ordning. Hormuz får inte flyttas upp som nästa artikel enbart för att grundversionen är godkänd.
+
+| Spår | Artikelvinkel | Status 11 nov 2026 |
 |---|---|---|
-| Hormuz och sjöfarten | Hormuz: Irak söker en egen väg – men farleden är fortfarande osäker | **Grundversion godkänd 10 november; senare tillägg 10–11 november inväntar separat godkännande.** IMO:s officiella lista anger 133 bekräftade incidenter och 25 dödsfall med lägesdatum 10 november (131 i föregående ögonblicksbild 9 november). IMO-listan innehåller bland annat NAVIG8 MACALLISTER, HUDA och GRIT; den anger inte uttryckliga UKMTO-varningsnummer för dessa poster. Reuters 11 november återger Washington Institute:s räkning om 37 fartygsangrepp i oktober; detta är ett separat mått från IMO:s incidentlista. ORLEN:s regulatoriska meddelande 10 november bekräftar uppsägning av ett av två QatarEnergy-avtal: 1 mtpa, cirka 15,3 TWh, uppskattat avtalsvärde 570 miljoner euro för 2026, 60 dagars fortsatt verkan; det andra avtalet kvarstår. UKMTO 201-26 och ADNOC-händelsen hålls åtskilda. PR #48 är draft, ej mergad och ej LIVE; PR #3 är stängd som supersederad. |
+| **Prioritet 6 – Hormuz och sjöfarten** | Hormuz: Irak söker en egen väg – men farleden är fortfarande osäker | **Grundversion godkänd 10 november; senare tillägg 10–11 november inväntar separat godkännande.** IMO:s officiella lista anger 133 bekräftade incidenter och 25 dödsfall med lägesdatum 10 november (131 i föregående ögonblicksbild 9 november). IMO-listan innehåller bland annat NAVIG8 MACALLISTER, HUDA och GRIT; den anger inte uttryckliga UKMTO-varningsnummer för dessa poster. Reuters 11 november återger Washington Institute:s räkning om 37 fartygsangrepp i oktober; detta är ett separat mått från IMO:s incidentlista. ORLEN:s regulatoriska meddelande 10 november bekräftar uppsägning av ett av två QatarEnergy-avtal: 1 mtpa, cirka 15,3 TWh, uppskattat avtalsvärde 570 miljoner euro för 2026, 60 dagars fortsatt verkan; det andra avtalet kvarstår. UKMTO 201-26 och ADNOC-händelsen hålls åtskilda. PR #48 är draft, ej mergad och ej LIVE; PR #3 är stängd som supersederad. |
 | Maktförskjutningen i USA:s kongress | Kongressen byter färg – men vem kontrollerar den tekniska makten? | Långt delutkast finns i PR #1; måste uppdateras med certifierade mandat, ledarskap, utskott och faktisk maktövergång. |
 | Palantirs kvartalsrapport och AI-infrastruktur | Palantir Q3: tillväxt, offentliga kontrakt och datacenterberoenden | Q3/SEC 10-Q-underlag finns; separat artikel behöver färdig ingress, fullständig text, primärkällor, oberoende källor, bildförslag, faktakontroll och öppna frågor. |
 | Svenska Gripen över Polen | Fyra timmar i polskt luftrum – vad gjorde den svenska insatsen? | Expressen-underlag 4 november och Försvarsmaktens bakgrund finns. Separat artikel ännu inte påbörjad; nästa nyhetsartikel efter att Hormuz är godkänd och publicerad/LIVE. Kräver polsk generalstabs originalpost, svensk Försvarsmaktskommentar och tydlig skillnad mellan patrull, incidentberedskap och stridskontakt. |
@@ -59,11 +61,10 @@
 
 ## Nästa arbetsordning
 
-1. **Hormuz:** grundversionen är godkänd. Slutför källkontroll och redaktionell integrering av 10–11 november-tilläggen; lägg därefter hela uppdaterade versionen för chefredaktörens separata beslut. När godkänd helhet och DB/adminåtkomst finns: publicera via redaktionens avsedda flöde och kontrollera LIVE.
-2. **Gripen över Polen:** nästa artikel först efter att Hormuz-fullversionen faktiskt visas LIVE. Hämta polsk generalstabs originalpost, Försvarsmaktens svar, uppdragets mandat, ledningskedja och skillnaden mellan patrullering, incidentberedskap, larmstart och stridskontakt.
-3. Separat artikel om maktförskjutningen i USA:s kongress.
-4. Palantirs senaste kvartalsrapport och AI-infrastruktur.
-5. Återgå till de nio huvudspåren och säkerställ en fullständig egen artikel för varje spår, ett i taget.
+1. **Prioritet 1–5:** genomför de fem tidigare beslutade artiklarna i deras redan fastställda ordning. De ligger före Hormuz; denna korrigering ändrar inte deras inbördes ordning.
+2. **Prioritet 6 – Hormuz:** grundversionen av fulltexten är godkänd, men tilläggen 10–11 november inväntar separat beslut. När prioritet 6 nås: slutför källkontroll, lägg den samlade uppdaterade versionen för chefredaktörens beslut och publicera först efter uttryckligt godkännande samt fungerande DB/admin. Kontrollera faktisk LIVE-visning innan nästa artikel.
+3. **Prioritet 7 och följande:** fortsätt i den redan beslutade kön. Gripen över Polen, USA:s kongress och Palantirs Q3 får inte automatiskt flyttas före de fem första eller före Hormuz; deras plats bestäms av den gällande prioriteringslistan.
+4. De nio långsiktiga huvudspåren och separata serierna fortsätter parallellt som masterplanens täckningskrav, men artikelproduktion sker fortfarande en artikel åt gången och utan att kringgå prioriteringskön.
 
 ## Redaktionell standard
 
@@ -139,3 +140,8 @@ Read-only SQL har prövats igen 11 november och nekas eftersom databasens IP-all
 - En ny, synkad granskningsgren skapades från aktuell main: editorial/hormuz-2026-11-11-reconciled. PR #48 innehåller endast tre fokuserade filändringar: masterplanen, kanonisk Hormuz-fulltext och arkivfilen.
 - PR #48 jämförs med main som ahead by 3, behind by 0; GitHub rapporterar mergeable=true. PR #48 är fortsatt draft eftersom tilläggen 10–11 november inte har godkänts.
 - Den ursprungliga chefredaktörskommentaren i PR #3 finns kvar och länkas i PR #48. Ingen merge, publicering eller LIVE-ändring har gjorts.
+
+
+## Prioritetskorrigering – 11 november 2026
+
+Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar i denna masterplan som placerade Hormuz först eller som nästa artikel var felaktiga och ersätts av denna prioritetsordning. Prioritet 1–5 ska genomföras före Hormuz i den tidigare beslutade inbördes ordningen. Hormuz grundversionens godkännande kvarstår, men det ändrar inte artikelns köplats; tillägg daterade 10–11 november är fortfarande inte godkända. Ingen artikel efter Hormuz påbörjas före faktisk LIVE-kontroll när Hormuz väl når sin tur.
