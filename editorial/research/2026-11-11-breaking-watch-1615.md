@@ -106,7 +106,7 @@ Källor:
 
 ### R. Strategisk energi – nytt batterilager i Jämtland, fortfarande tidigt
 
-**PARTSUPPGIFT / oberoende lokal rapportering:** Sunna Group presenterade Jämtmassivet vid Enafors som ett batterilager på 150 MW. SVT rapporterade 11 november en uppgiven energikapacitet om 300 MWh och investering omkring 1 md SEK. Bolagets projektsida har samtidigt angett 195 MW. Skillnaden 150/195 MW är olöst; MW är effekt och MWh är energikapacitet. Projektet saknar ännu slutligt investeringsbeslut och är inte liktydigt med en byggstart; tidplanen pekar mot 2030 som målbild.
+**PRIMÄRKÄLLA / PARTSUPPGIFT:** Sunna Groups pressmeddelande 29 oktober anger installerad effekt 150 MW. Bolagets egen projektsida anger samtidigt 195 MW. Ingen av dessa två bolagskällor anger lagringskapacitet i MWh. **OBEROENDE BEKRÄFTELSE – SVT, 11 november:** SVT rapporterar en investering omkring 1 md SEK och återger 150 MW, men använder MW som om det vore energikapacitet; detta är en dimensionsmässig sammanblandning. MW mäter effekt, MWh mäter lagrad energi. **Montel, 10 november:** vd uppger att investeringsbeslut kan komma i slutet av 2028; bolagets plan är drift 2030. Projektet är i utvecklingsfas, och tillståndsprocess samt nätanslutning återstår. Lagrat energiinnehåll i MWh är därför fortfarande OBEKRÄFTAT/ej offentliggjort.
 
 ### S. Urbergsskölden – Onkalo är ett tillståndssteg, inte start av drift
 
@@ -133,7 +133,7 @@ Källor:
 | O Hormuz | IMO:s sjömansdöd/incidenttal, LNG-flöden och Orlens avtalsuppsägning | Substantiell | AIS/UKMTO, försäkring, fraktrater, Orlens alternativa volymer |
 | P Kongressen | H.Res.1655 hänvisad; BAAJA går vidare som substitute amendment på H.R.2347 | Substantiell | Slutlig text, kammarbehandling, NDAA och tillsyn |
 | Q Gripen | Saab/Janes om AI-agent i flygprov; inget offentligt operativt godkännande | Substantiell | FMV:s test- och certifieringsunderlag |
-| R Energi | Jämtmassivet 150 MW/300 MWh med olöst 195 MW-skillnad; tidig fas | Substantiell | Nätanslutning, MWh, tillstånd och FID |
+| R Energi | Jämtmassivet: 150 MW i pressmeddelande, 195 MW på projektsida; ingen MWh-kapacitet offentliggjord | Substantiell | Nätanslutning, MWh, tillstånd och FID |
 | S Urbergsskölden | Onkalo driftlicens; driftsättning och STUK-villkor kvar | Substantiell | STUK:s pre-operational inspection och CRMA-projektens nationella beslut |
 
 ## Redaktionell kö och publiceringsstatus
