@@ -95,7 +95,7 @@ Källor:
 | N Skrift till Storebror | EU-/nationella dataskydds- och AI-regler; PR #39 | Inget nytt antaget lagbeslut i denna cykel. | Slutlig lagtext, tillsynsbeslut, upphandlingar och domstolsavgöranden. |
 | O Hormuz/sjöfart | IRNA/Al-Mayadeen via Reuters/Al Jazeera; UKMTO/IMO | Ny diplomatisk position 10–11 nov; fulla villkor och öppningsdatum saknas. | USA:s formella svar, Qatar/Oman-medling, UKMTO-fartygs-ID och minröjning. |
 | P USA:s kongress | Clerk/Congressional Record och PR #10 | Hegseth-omröstningen är redan dokumenterad; inget nytt kongressbeslut i denna cykel. | Nya utskottsordföranden, anslag, utfrågningar och tillsynsbrev. |
-| Q Gripen/europeisk säkerhet | Saab/FMV/Reuters och PR #12 | Ingen ny Gripen-beställning eller certifiering; Saab-ordern till Danmark gäller träningssystem, inte Gripen. | Exportbeslut, FMV/FOI-testdokumentation, leveransplaner och operativ certifiering. |
+| Q Gripen/europeisk säkerhet | Saab/FMV och PR #12 | Ingen ny Gripen-beställning eller certifiering. **Ny mindre upphandling:** Saab meddelade 11 november en order på 350 m SEK från danska DALO för ILDS/CV90, drönar- och icke-siktlinjeträning, leveranser 2026–2028. Det är en träningssystemsorder, inte Gripen. | Exportbeslut, FMV/FOI-testdokumentation, leveransplaner och operativ certifiering. |
 | R Energi/större bolag | Siemens Energy och Vestas Q3-rapporter | Nytt: Siemens 164 md EUR orderstock, cirka 15 md EUR datacenterrelaterade order enligt VD/Reuters; Vestas svagare orderintag och snävare prognos. | Nätutbyggnad, kraftutrustningskapacitet, FID, Vestas ordermix och marginaler. |
 | S Urbergsskölden/infrastruktur | CRMA, GTK, SGU, STUK/Posiva och PR #34 | Ingen ny CRMA-/Onkalo-beslutsändring; tidigare strategiska projekt kvarstår. | 20 november-samråd, STUK-inspektion, finansiering och offentlig civil infrastrukturdata. |
 
@@ -115,3 +115,16 @@ Källor:
 4. **B/R – elinfrastruktur:** följ hur Siemens orderstock omsätts i produktion och om Vestas ordermixen signalerar ett mer selektivt vindmarknadsläge.
 
 **Publiceringsstatus:** Inga artiklar har mergats eller publicerats LIVE i denna runda.
+
+
+### Q – Saab/Danmark: ny träningssystemsorder, inte Gripen
+
+**Publiceringsdatum:** 11 november 2026, 08:45 CET.
+
+**PRIMÄRKÄLLA – Saab:** Saab meddelade en order på 350 miljoner SEK från danska Defence Acquisition and Logistics Organisation för ytterligare live-träningsutrustning. Leveranser planeras 2026–2028. Ordern omfattar Instrumented Laser Duel System till CV90 med nya funktioner för drönarträning och träning utan direkt siktlinje. Den bygger vidare på Combat Training Centre-kontraktet från 2025 med fyra träningsområden.
+
+**OBEROENDE BEKRÄFTELSE:** Inderes återpublicerar Saabs pressmeddelande; det är distributionsbekräftelse, inte en separat myndighetsbekräftelse. Någon offentlig DALO-upphandling eller separat kontraktshandling har inte lokaliserats i denna kontroll.
+
+**Faktagräns:** Detta är en Saab-order inom Training and Simulation, inte en Gripen-beställning, flygplansleverans eller bekräftelse på ny operativ flygförmåga.
+
+Källa: https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-for-advanced-live-training-systems-from-denmark
