@@ -396,3 +396,24 @@ Källor:
 - Stop Dirty Data Centres, arrangörernas egen redovisning: https://stopdirtydatacentres.eu/en/
 
 **Redaktionell notering:** Protesterna 6–7 november fanns redan i utkastet. Nytt i denna uppdatering är den officiella EU-energibaslinjen och den bindande tidsgränsen för den pågående konsultationen.
+
+
+## Källuppdatering 11 november 2026 – BAAJA:s senatsfordon och datacenterkostnader
+
+**PRIMÄRKÄLLA – U.S. Senate, 10 november 2026:** senaten röstade **62–21** för en motion to proceed till H.R.2347. Det var ett procedurmässigt beslut att ta upp lagstiftningsfordonet, inte slutligt antagande av lagtexten.
+
+**PRIMÄRKÄLLA – senatens 494-sidiga substitute amendment:** H.R.2347:s ursprungliga House-titel gäller en annan skattefråga. Senaten använder numret som lagstiftningsfordon och har lagt fram en amendment in the nature of a substitute som stryker texten efter enacting clause och ersätter den med Bipartisan American Affordability and Jobs Act of 2026 (BAAJA). Det är därför fel att antingen kalla H.R.2347:s ursprungliga House-text för BAAJA eller att beskriva den 62–21-rösten som ett slutligt antagande.
+
+**Vad den föreslagna texten gör för datacenter:**
+- §2107, Ratepayer Protection, anger att stora computational-load owners/operators ska bära hela kostnaden för den el och den infrastruktur som krävs för att betjäna dem. FERC ska utveckla tariff- och kostnadsregler för transmission; delstater får också utforma särskilda tariffer, konkurrensutsättningar och finansiella säkerheter.
+- §2114 kräver insamling av data om computational-load entities.
+- §2117 skapar ett Data Center Community Assistance Program och ett offentligt verktyg för delstater, kommuner och tribala samhällen med information om energi-, vatten-, infrastruktur- och samhällseffekter.
+
+**Motvikt och rättslig osäkerhet:** BAAJA är inte en renodlad datacenterlag. Den innehåller omfattande ändringar av NEPA, Clean Water Act, Endangered Species Act, energitillstånd och historiskt kulturarv. Förespråkarna beskriver kortare och mer förutsägbara tillståndsprocesser samt skydd för stamnätskundernas kostnader. Kritikerna behöver granskas utifrån den faktiska ersättningstexten, särskilt rättslig prövning, vatten, artskydd och konsultation med urfolk. Per 11 november är texten fortfarande under behandling; den är inte gällande rätt.
+
+**Källor:**
+- Senatens roll call-lista: https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm
+- Substitute amendment, 494 sidor: https://www.epw.senate.gov/public/index.cfm?File_id=2908E3D0-D53E-499F-9308-BF12EBE10B1E&a=files.serve
+- Senatens utskottsbesked, 7 november: https://www.epw.senate.gov/public/index.cfm/2026/11/whitehouse-capito-heinrich-lee-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026
+
+**Redaktionell vinkel:** datacenterutbyggnaden blir en fråga om kostnadsallokering och lokal makt. Vem betalar för nätförstärkning, vem får tillgång till nätet, vem får data om vatten och effektbehov och vilka rättigheter behåller kommuner och tribala samhällen när tillståndsprocesserna snabbas upp?
