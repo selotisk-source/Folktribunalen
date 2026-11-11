@@ -66,3 +66,10 @@
 2. Begär förklaring av CfD-tabellens 90/75 MW-enheter.
 3. Följ RWE:s byggstart och fundamentleveranser under 2027.
 4. Fortsätt kontrollera A–S mot nya primärdokument; återrapportera endast materiella förändringar.
+
+
+### Källkomplettering 11 november 2026 – CfD-kapacitet Vanguard
+
+RWE Annual Report 2025 anger uttryckligen att Norfolk Vanguard East/West tillsammans har potential upp till 3,1 GW, men att den då aktuella planerade kapaciteten var 2,8 GW. DESNZ:s CfD-tabell summerar till 1,545 GW per projekt (1,380 + 0,090 + 0,075 GW), alltså cirka 3,09 GW. RWE:s 11 november 2026-pressmeddelande anger fortsatt 1,4 GW per projekt/2,8 GW totalt. Skillnaden är därmed i huvudsak förklarad som maximal tilldelad CfD-kapacitet kontra aktuell planerad byggkapacitet; den är inte i sig belägg för fel eller ytterligare 290 MW som säkert byggs. Kvar att kontrollera är vilka 90/75 MW-enheter som är optioner eller ingår i nuvarande FID-/teknikomfattning.
+
+**PRIMÄRKÄLLOR:** RWE Annual Report 2025, avsnitt 2.4; DESNZ CfD AR7-resultat; RWE 11 november 2026.
