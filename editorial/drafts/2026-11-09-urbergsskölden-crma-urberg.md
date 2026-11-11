@@ -229,3 +229,17 @@ Källor:
 - LKAB, 3 november 2026: https://news.cision.com/lkab/r/lkab-takes-the-next-step-in-its-critical-minerals-initiative,c4418674
 - EU-kommissionens beslut C(2026)8051 och bilaga, 9 oktober 2026: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
 
+## Källuppdatering 11 november 2026 – Kiltivaara nr 1001
+
+**Dokumenthändelse:** Bergsstaten publicerade den 10 november en kartbilaga till underrättelsen om Kiltivaara nr 1001. Själva ansökan inkom den 2 juli 2026; publiceringsdatumet för kartan får inte beskrivas som ansökningsdatum eller som beslut om tillstånd.
+
+**PRIMÄRKÄLLA:** Bergsstaten, kartor till underrättelse om Kiltivaara nr 1001, publicerad 10 november 2026: https://www.sgu.se/bergsstaten/aktuella-handelser/  
+**PRIMÄRKÄLLA:** SGU:s öppna data över ansökta undersökningstillstånd (export 1 november 2026) anger Boliden Mineral AB som sökande, ansökt areal 9 333,6847 hektar, Gällivare kommun och metallerna guld, koppar, molybden och silver. Statusfältet är “Ansökt”.
+
+Detta är en ansökan och ett underrättelse-/kartsteg, inte ett beviljat undersökningstillstånd, en bearbetningskoncession, en resursberäkning eller ett beslut om gruvdrift. Ingen oberoende källa som bekräftar en ekonomisk fyndighet eller kommersiell potential har identifierats.
+
+**Geografisk nästa kontroll:** jämför den publicerade ansökningspolygonen med offentliga lager för renskötsel/sameby, Natura 2000, vattenskydd, naturreservat, fornminnen, befintliga undersökningstillstånd och kommunal markanvändning. Inga påståenden om överlapp eller intrång görs innan polygonerna har kontrollerats mot respektive officiellt kartlager.
+
+**Artikelvinkel:** Ett stort prospekteringsområde kan skapa en ny rättighets- och tillståndsprocess långt innan någon mineralresurs är fastställd. Skillnaden mellan ansökt yta, beviljat tillstånd, geologisk resurs och kommersiell reserv måste vara central.
+
+**Status:** källuppdatering till befintligt granskningsutkast. Inte mergat eller publicerat.
