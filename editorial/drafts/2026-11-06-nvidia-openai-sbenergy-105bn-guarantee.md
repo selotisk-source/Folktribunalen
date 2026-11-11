@@ -560,3 +560,10 @@ Nscale-fallet visar skillnaden mellan ett stort kontrakterat TCV, driftsatt kapa
 - WTW, CPRI Capacity Survey, 26 maj 2026: https://www.wtwco.com/en-be/insights/2026/05/credit-and-political-risk-insurance-capacity-survey-and-market-update-2026
 
 **Status:** Detta är en källuppdatering i ett öppet granskningsutkast. Den ändrar inte publiceringsstatus och kräver chefredaktörens uttryckliga beslut.
+
+
+### Kapacitetsprecisering – Texas-optionen
+
+**OBEROENDE RAPPORTERING – Financial Times, 5 november 2026:** FT uppgav att optionen först beskrevs som 700 MW, men att Nscale senare klargjorde att den gällde närmare 500 MW vid Nscales egen anläggning. FT uppgav separat att Microsoft redan har ett avtal om cirka 240 MW vid en angränsande anläggning som utvecklas av Ionic Digital. Det är inte samma sak som att Microsoft har sagt upp det befintliga Nscale-avtalet. FT rapporterade också att Nscale behövde hitta andra kunder för den extra kapaciteten och att elförsörjningen för den återstående Ionic-kapaciteten ännu inte var säkrad. Dessa uppgifter är journalistiskt rapporterade; offentliga avtal, kapacitetsbilagor och nätanslutningsbeslut har inte lokaliserats.
+
+Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
