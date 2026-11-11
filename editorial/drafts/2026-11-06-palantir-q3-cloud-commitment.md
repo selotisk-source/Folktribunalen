@@ -419,7 +419,7 @@ Den inkommande demokratiska ledningen för kongressens säkerhetsutskott har red
 
 Upphandlingsuppgiften gäller ett femårigt Foundry-avtal med ett rapporterat värde om £10 093 202. Köparen är Police and Crime Commissioner for Cambridgeshire; avtalet är ett call-off från ramavtal. Beteckningen “BCH” avser Bedfordshire, Cambridgeshire och Hertfordshire. Att den kommersiella upphandlingsfunktionen arbetar för sju polisstyrkor visar inte i sig att alla sju är användare av just detta avtal. PublicTechnology rapporterar att de tre BCH-styrkorna och möjligen Eastern Region Special Operations Unit omfattas; ERSOU-delen måste kontrolleras mot call-off-avtalets fullständiga scope.
 
-**Källstatus:** upphandlingsposten har identifierats, men den direkta Contracts Finder-sidan gav 403 i denna körning. Signerat call-off-avtal, DPIA, databehandlingsbilagor, datakategorier, lagringstid, underleverantörer och exitvillkor saknas fortfarande. Publiceringsdatum för upphandlingsnotisen (6 november) ska hållas isär från tilldelningsdatumet (8 oktober).
+**Källstatus:** upphandlingsposten har identifierats, men den direkta Contracts Finder-sidan kunde inte läsas ut i denna körning. Signerat call-off-avtal, DPIA, databehandlingsbilagor, datakategorier, lagringstid, underleverantörer och exitvillkor saknas fortfarande. Publiceringsdatum för upphandlingsnotisen (6 november) ska hållas isär från tilldelningsdatumet (8 oktober).
 
 **Öppet NHS-spår:** någon offentlig myndighetshandling som bekräftar den rapporterade tvååriga förlängningen av FDP-avtalet har fortfarande inte identifierats. Den ska fortsatt beskrivas som medierapportering, inte som fattat beslut.
 
