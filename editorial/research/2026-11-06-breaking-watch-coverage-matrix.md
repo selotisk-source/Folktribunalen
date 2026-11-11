@@ -913,3 +913,29 @@ DANS är beställare; CAIS EOP och TED är offentliga upphandlingsregister; den 
 | F NVIDIA | Officiell Q3 FY2027-rapportering planerad 17 nov 2026. | NVIDIA IR = **PRIMÄRKÄLLA** för rapportdatum; resultat ej publicerat. | Stäm av inköpsåtaganden, garantier, leasing, AI-cloud-partners och kundkoncentration i kommande 10-Q/8-K. |
 
 **Kontrollnotering övriga spår:** C, D, E, G, H, I, J, L, M, N, P, Q, R och S har ingen ny primärhandling i denna riktade cykel som ändrar den senast dokumenterade statusen. Detta är inte ett påstående om att inga händelser alls inträffat; öppna frågor och nästa kontrollpunkter i respektive spår kvarstår.
+
+
+## Kontrollcykel 11 november 2026, 05:14 EET – delta A–S
+
+| Spår | Senaste kontroll | Primärkällor kontrollerade / nya dokument | Oberoende belägg | Status och öppna frågor |
+|---|---|---|---|---|
+| A | 11 nov 05:14 | Army CPE ISW, 1 sep: TITAN 192 m USD, Palantir 127 m, Anduril 65 m, 8 system | DefenseScoop 1 sep om analytikerns godkännanderoll | Ingen ny novemberorder; oberoende operativ testmatris saknas. PR #7 uppdaterad. |
+| B | 11 nov 05:14 | EU-kommissionens datacenterenergirapport 21 sep; policytidslinje till 14 dec och Q2 2027 | Le Monde 9 nov om protester 6–7 nov; arrangörernas 90-evenemangstal märkt partsuppgift | 68 TWh 2024 och 114 TWh-prognos 2030; täckningsgrad och lokal nät-/vattenbelastning öppna. PR #17 uppdaterad. |
+| C | 11 nov 05:14 | Tidigare forskningsunderlag i PR #38 genomgånget; ingen ny reproducerbar primärstudie | Ingen ny oberoende replikation | Inget nytt över notiströskeln; acausalitet obelagd. |
+| D | 11 nov 05:14 | Tidigare BTA-/museiuppgifter om Samuils kvarlevor och överföringen 3 okt | Tidigare Reuters/BTA-korskontroll | Ingen ny arkeologisk primärhandling; originalutgrävnings- och mätprotokoll öppna. |
+| E | 11 nov 05:14 | EU C(2026)8051, 9 okt: 46 nya CRMA-projekt; LKAB 3 nov om Luleå-demo | Ingen oberoende process-/produktionsdata för LKAB-demo | Strategisk status ≠ tillstånd/produktion; provdrift i begränsad skala. PR #34 uppdaterad. |
+| F | 11 nov 05:14 | SpaceX Form 8-K, 26 okt, event 24 okt: cirka 40 md USD planerad finance lease med Apollo-managed lessor | Reuters 26 okt; Reuters 4 nov återger Bloomberg-syndikering med reservation | Villkorat åtagande, inte stängt eller utbetalt; ränta och redovisning öppna. PR #14 uppdaterad. |
+| G | 11 nov 05:14 | FN-briefing 9 nov; Libanons presidentkansli 30 okt och 10 nov | Tidigare FN/nyhetskorskontroll | Ingen ny verifierad kyrkskada; lokala bybrev och faktisk neddragning av UNIFIL öppna. |
+| H | 11 nov 05:14 | Tidigare kyrko- och kulturarvsunderlag för Wiesbaden, Warszawa, Prag, Sofia, Varna | Ingen ny oberoende restaureringsrapport | Ingen ny primärhandling över notiströskeln. |
+| I | 11 nov 05:14 | Tidigare kart-, skogsbruks- och hästkulturunderlag | Ingen ny oberoende fält-/registeruppgift | Ingen ny offentlig mark- eller kulturmiljöhandling. |
+| J | 11 nov 05:14 | Tidigare folkloristiskt, hydrologiskt och runologiskt material | Ingen ny oberoende biologisk observation | Inget nytt belägg för biologiskt väsen; teologisk jämförelse hålls separat. |
+| K | 11 nov 05:14 | Tidigare SCA-/Cladonia-uppgifter och separat rapporterade Berg Storsjö 18:3/18:5 | Tidigare lokal rapportering | Ingen ny lagfart eller myndighetsakt; exakt arealöverlappning, jaktupplåtelser och servitut öppna. |
+| L | 11 nov 05:14 | Tidigare RAÄ-/kyrkoarkivsspår | Ingen ny oberoende restaureringsuppgift | Ingen ny brand-, byggnadsarkeologi- eller förvaltningshandling. |
+| M | 11 nov 05:14 | Tidigare Athos-katalog-/digitaliseringsspår | Ingen ny oberoende proveniensbekräftelse | Ingen ny donation eller katalogpost över notiströskeln. |
+| N | 11 nov 05:14 | Kela TT 2026:14, Yle MOT och IMY-spåret i PR #41/#45 | Yle och domstolens primärdom | Ingen ny dom; enskilt arbetsrättsmål får inte generaliseras till hela piloten. |
+| O | 11 nov 05:14 | UKMTO Incident 201-26, 10 nov; ADNOC/WAM 10 nov | Reuters 11 nov om UKMTO och marknadsreaktion | Två separata fartygshändelser; identitet/ansvar ej fastställda. 37 oktoberattacker/10 i november är Washington Institute-räkning via Reuters, inte IMO-register. PR #3 uppdaterad och återförd till draft. |
+| P | 11 nov 05:14 | Senatens roll-call 257 och republikansk intern ledaromröstning 10 nov | Officiella kongresskällor och tidigare AP/Reuters | Ingen ny plenipassage; Jim Jordans val är partiintern process. |
+| Q | 11 nov 05:14 | Saab 3 nov AI-agentbesked; Saab 6 nov FDI-order | Ingen oberoende operativ validering av AI-agentprovet | Ingen ny Gripen-order; FDI-order hålls separat från Gripen. |
+| R | 11 nov 05:14 | Statnett/regeringen 9 nov, EdgeConneX delstart, Lyten, Venture Global, Khor Mor/Zaporizjzja | Reuters/Norran och respektive myndighets-/bolagskällor enligt befintliga PR | Inga nya delta över notiströskeln i denna cykel; MW-stadier och partsuppgifter hålls åtskilda. |
+| S | 11 nov 05:14 | LKAB 3 nov; EU CRMA C(2026)8051; GTK/SGU/Posiva tidigare kontroller | Ingen oberoende LKAB-processdata | LKAB-demo i begränsad provdrift; Gällivare-tillstånd överklagat enligt LKAB. Onkalo kräver STUK:s slutkontroll. PR #34 uppdaterad. |
+
