@@ -14,7 +14,7 @@
 **Händelseperiod:** 9–10 november 2026.  
 **Publicerings-/dokumentdatum:** Europeiska kommissionens pressbriefingar den 10 november 2026; Reuters publicerade sin rapport den 10 november.
 
-Vid besöket i Rumänien och Bulgarien meddelade kommissionsordförande Ursula von der Leyen att EU ska bidra med **upp till 50 miljoner euro** för att påskynda etableringen av Black Sea Maritime Security Hub. Kommissionen siktar på att hubben ska vara operativ under 2027. Ett separat belopp på 10 miljoner euro till rumänsk sök- och räddningskapacitet i Svarta havet har också nämnts. De två beloppen avser olika ändamål och ska inte slås ihop till en enda finansieringspost.
+Vid besöket i Rumänien den **9 november** meddelade kommissionsordförande Ursula von der Leyen att EU ska bidra med **upp till 50 miljoner euro** för att påskynda etableringen av Black Sea Maritime Security Hub och ytterligare **10 miljoner euro till rumänsk sök- och räddningskapacitet**. Vid besöket i Varna den **10 november** meddelade hon dessutom **ytterligare 10 miljoner euro till bulgariska myndigheters sök- och räddningskapacitet**. Det ger tre separata ändamål och ett sammanlagt annonserat stödbelopp på **upp till 70 miljoner euro**: 50 miljoner till den gemensamma hubben, 10 miljoner till Rumänien och 10 miljoner till Bulgarien. Beloppen är offentliga finansieringsbesked; de granskade uttalandena anger ännu inte fullständig budgetmekanism, bindningsdatum eller utbetalningsplan. De ska därför inte beskrivas som redan utbetalda medel.
 
 Vid den dagliga pressbriefingen den 10 november sade kommissionens talesperson att en gemensam arbetsgrupp ska utforma ett integrerat koncept och en arbetsplan med konkreta leveranser och tidsfrister. Den uppföljande briefingen preciserade att hubben ska samordnas av Bulgarien och Rumänien och verka över kust- och marina anläggningar i **Varna och Constanța**, med integration av en flygbas i Rumänien. Kommissionen lämnade inga ytterligare detaljer om den rumänska anläggningen, personalens sammansättning eller hubbens juridiska form.
 
@@ -106,8 +106,8 @@ Den offentliga geografiska informationen räcker för att beskriva regionala sam
 - **7 oktober 2026:** MCM BLACK SEA genomför sin tolfte aktivering från Varna. Detta är minröjningsgruppen, inte den nya hubben.
 - **28 oktober 2026:** Contship Jet träffas av tre maritima drönare; besättningen räddas.
 - **5 november 2026:** AP publicerar en bredare fotogranskning av fartygsangrepp och räddningsinsatser.
-- **9 november 2026:** von der Leyen besöker Rumänien och meddelar upp till €50 miljoner till hubben samt separat stöd till rumänsk sök- och räddningskapacitet.
-- **10 november 2026:** von der Leyen besöker Varna och Nikola Vaptsarov Naval Academy med Rumen Radev. Kommissionens pressbriefing preciserar arbetsgrupp, geografisk samverkan och målet om operativ status 2027.
+- **9 november 2026:** von der Leyen besöker Rumänien och meddelar upp till €50 miljoner till hubben samt €10 miljoner till rumänsk sök- och räddningskapacitet.
+- **10 november 2026:** vid besöket i Varna meddelar hon ytterligare €10 miljoner till bulgariska myndigheters sök- och räddningskapacitet. Samma dag preciserar kommissionens pressbriefing arbetsgrupp, geografisk samverkan och målet om operativ status 2027.
 
 ## Vad som fortfarande saknas
 
@@ -133,7 +133,10 @@ Den bärande artikelvinkeln är därför: **vem får se Svarta havet som ett gem
 
 ### Primärkällor
 - Europeiska kommissionen, EC Midday press briefing, 10 november 2026, media-ID I-297107: https://audiovisual.ec.europa.eu/en/media/video/I-297107
+- Europeiska kommissionen, uttalande av kommissionsordförande von der Leyen med Bulgariens premiärminister Rumen Radev, Varna, 10 november 2026, STATEMENT/26/2392: https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2392
 - Europeiska kommissionen, uppföljande Q&A, 10 november 2026, media-ID I-297544: https://audiovisual.ec.europa.eu/en/media/video/I-297544
+- Radio Bulgaria/BTA, 10 november 2026 – €10 miljoner till Bulgariens sök- och räddningsinsatser: https://www.bnrnews.bg/en/post/556044/eu-allocates-euro10-mln-to-bulgaria-for-rescue-operations-in-the-black-sea
+- BNT, 10 november 2026 – bekräftar tillkännagivandet om €10 miljoner till Bulgarien: https://bntnews.bg/news/bulgaria-to-receive-%E2%82%AC10-million-from-european-commission-for-search-and-rescue-operations-in-the-black-sea-1421621news.html
 - Europeiska kommissionen och unionens höga representant, JOIN(2026) 15 final, 3 juli 2026: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A52026JC0015
 - Europeiska kommissionen och unionens höga representant, JOIN(2025) 135 final: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A52025JC0135
 - Bulgariens ministerråd, mötet i Varna 10 november 2026: https://www.government.bg/bg/prestsentar/predstoyashti-sabitia/premierat-rumen-radev-shte-se-sreshtne-vav-varna-s-predsedatelya-na-ek-fon-der-layen
@@ -145,6 +148,6 @@ Den bärande artikelvinkeln är därför: **vem får se Svarta havet som ett gem
 - Associated Press, 29 oktober 2026: https://www.washingtonpost.com/business/2026/10/28/bulgaria-drone-attack-container-ship-black-sea/7d0a5260-d2cd-11f1-9931-2a41b76fc976_story.html
 - Associated Press, 5 november 2026: https://apnews.com/article/97dc296411d2e34bf566d6e07c0e885b
 
-**Källbegränsning:** Kommissionens egna briefingar bekräftar finansieringsram, arbetsgrupp, geografisk modell och målår, men inte ännu den slutliga budgetmekanismen, arbetsgruppens sammansättning eller data- och ansvarsfördelningen. Ansvar för enskilda fartygsangrepp är inte fastställt genom offentlig forensisk attribution i de källor som använts här.
+**Källbegränsning:** Kommissionens egna uttalanden bekräftar tre separata finansieringsbesked – upp till €50 miljoner till hubben, €10 miljoner till Rumänien och €10 miljoner till Bulgarien – men inte ännu de slutliga budgetmekanismerna, bindningsdatumen eller utbetalningsplanerna. De bekräftar även arbetsgruppens geografiska modell och målår, men inte arbetsgruppens sammansättning eller data- och ansvarsfördelningen. Ansvar för enskilda fartygsangrepp är inte fastställt genom offentlig forensisk attribution i de källor som använts här.
 
 **Status:** Granskningsutkast. Inte godkänt, inte mergat, inte publicerat och inte LIVE.
