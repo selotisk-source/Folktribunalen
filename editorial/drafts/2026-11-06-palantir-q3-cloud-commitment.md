@@ -401,3 +401,26 @@ Källor:
 - Palantirs Q3 2026 Business Update, publicerad 2 november 2026: https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf
 
 **Redaktionell notering:** TITAN-ordern är inte en ny händelse i november. Nytt i denna kontroll är att arméns primärbesked och den oberoende beskrivningen av analytikerns godkännanderoll har förts in som källunderlag i Palantir-utkastet.
+
+## Källuppdatering 11 november 2026 – CISA-nomineringen och räckvidden för BCH-avtalet
+
+**Händelse 9 november; offentlig nominering samma dag.** Vita huset skickade Michael LoSapios nominering till posten som direktör för Cybersecurity and Infrastructure Security Agency (CISA) till senaten. LoSapio är Palantirs Chief Information Security Officer. Han är nominerad, inte bekräftad; Nick Andersen är fortsatt tillförordnad direktör. CISA har enligt Reuters saknat en senatsbekräftad direktör i nära 22 månader och myndighetens personalstyrka har minskat med ungefär en tredjedel sedan 2025. Det senare är Reuters rapportering, inte en ny myndighetsrevision i denna kontroll.
+
+**PRIMÄRKÄLLA:** Vita husets nomineringar till senaten, 9 november 2026: https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-54a2/
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 9 november: https://www.reuters.com/world/white-house-nominates-palantirs-losapio-lead-homeland-securitys-cyber-agency-2026-11-09/  
+CyberScoop, 10 november: https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/
+
+Den inkommande demokratiska ledningen för kongressens säkerhetsutskott har redan uttryckt frågor om Palantirs arbete åt DHS och ICE. Det är politisk och parlamentarisk granskning, inte ett konstaterande att LoSapio är olämplig eller att en rättslig intressekonflikt redan föreligger. Före en eventuell bekräftelse behöver senaten få klarhet i hans ekonomiska innehav, avyttringar, jävs- och recusalplan, eventuella återanställningsarrangemang samt om CISA själv har direkta Palantir-avtal eller endast berörs av Palantirs arbete i andra DHS-delar. Något offentligt etiskt utlåtande eller en färdig recusalplan har inte identifierats i denna kontroll.
+
+**Viktig avgränsning:** Det finns inte belägg här för att CISA-nomineringen innebär att Palantir får ett nytt kontrakt eller att CISA använder Palantirs plattform i ett visst operativt beslut. Frågan gäller tills vidare styrning, oberoende och offentlig kontroll.
+
+### Förtydligande om BCH-avtalet
+
+Upphandlingsuppgiften gäller ett femårigt Foundry-avtal med ett rapporterat värde om £10 093 202. Köparen är Police and Crime Commissioner for Cambridgeshire; avtalet är ett call-off från ramavtal. Beteckningen “BCH” avser Bedfordshire, Cambridgeshire och Hertfordshire. Att den kommersiella upphandlingsfunktionen arbetar för sju polisstyrkor visar inte i sig att alla sju är användare av just detta avtal. PublicTechnology rapporterar att de tre BCH-styrkorna och möjligen Eastern Region Special Operations Unit omfattas; ERSOU-delen måste kontrolleras mot call-off-avtalets fullständiga scope.
+
+**Källstatus:** upphandlingsposten har identifierats, men den direkta Contracts Finder-sidan gav 403 i denna körning. Signerat call-off-avtal, DPIA, databehandlingsbilagor, datakategorier, lagringstid, underleverantörer och exitvillkor saknas fortfarande. Publiceringsdatum för upphandlingsnotisen (6 november) ska hållas isär från tilldelningsdatumet (8 oktober).
+
+**Öppet NHS-spår:** någon offentlig myndighetshandling som bekräftar den rapporterade tvååriga förlängningen av FDP-avtalet har fortfarande inte identifierats. Den ska fortsatt beskrivas som medierapportering, inte som fattat beslut.
+
+**Status:** nytt CISA-avsnitt tillagt i befintligt granskningsutkast. Ingen merge eller publicering.
