@@ -115,3 +115,14 @@ Det är viktigt att skilja detta från 2025 års test. Då flög Saab och Helsin
 - **ÖPPET:** FMV:s fullständiga kontrakt, kommande systemmilstolpar, brasiliansk certifiering och Kanadas upphandlingsbeslut.
 
 **Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+
+### Primärkällan till Saab/Janes-uppgiften – 11 november
+
+**PRIMÄRKÄLLA – Saab, 3 november 2026:** Saab publicerade ett eget pressmeddelande om bolagets AI-agenter för framtida stridsflygsystem. Bolaget uppger att agenterna har flugits på Gripen E och att BVR-scenarier har validerats under verkliga flygförhållanden. Det är Saabs beskrivning av ett flygprov, inte en oberoende certifieringsrapport.
+
+**OBEROENDE BEKRÄFTELSE – Janes, 3 november:** Janes rapporterade efter intervju med Saab vid International Fighter Conference. Den oberoende rapporteringen bekräftar att Saab presenterade programmet, men inte de fullständiga prestanda- eller säkerhetsuppgifterna.
+
+**Vad som fortfarande saknas:** offentlig testmatris, antal och typ av flygprov, systemversion, säkerhetsanalys, mänsklig kontroll, gränser för autonomi, certifieringsplan och beslut om eventuell operativ införing. Artikeln ska därför inte beskriva AI-agenten som operativ förmåga eller självständig vapenbeslutsfattare.
+
+Saabs pressmeddelande: https://www.saab.com/newsroom/press-releases/2026/saab-unveils-its-ai-agents-for-future-fighter-systems
