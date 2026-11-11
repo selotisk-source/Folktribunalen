@@ -67,7 +67,7 @@ Detta är en generell granskning av CRMA-instrumentet och den tidigare projektom
 6. [Eurobattery Minerals – bolagets redogörelse för spansk dom och insiderbrottsmisstanke, 19 september 2026](https://investors.eurobatteryminerals.com/pressmeddelanden/eurobattery-minerals-ab-har-fatt-information-om-domstolsavgorande-och-brottsmisstanke-avseende-verkstallande-direktor/)
 7. [Eurobattery Minerals – kompletterande miljödokument för Hautalampi, 24 augusti 2026](https://investors.eurobatteryminerals.com/pressmeddelanden/eurobattery-minerals-lamnar-in-kompletterande-dokumentation-for-miljotillstandsansokan-for-hautalampi/)
 8. [Europeiska revisionsrätten – Special Report 04/2026, *Critical raw materials for the energy transition*](https://www.eca.europa.eu/ECAPublications/SR-2026-04/SR-2026-04_EN.pdf)
-9. [EFN – rapportering om Eurobattery och häktningen](https://efn.se/)
-10. [Metaller & Gruvor – rapportering om Eurobattery och häktningen](https://metallerochgruvor.se/)
+9. [EFN – rapportering om Eurobattery och häktningen](https://efn.se/eurobatterys-vd-haktad-i-sverige)
+10. [Metaller & Gruvor – rapportering om Eurobattery och häktningen](https://www.metallerochgruvor.se/20261109/12439/eurobattery-minerals-vd-haktad-i-sverige)
 
 **Publiceringsvillkor:** utkastet kräver chefredaktörens uttryckliga godkännande. Före publicering bör den svenska häktningshandlingen, den aktuella styrelseregistreringen, NGM:s formella handling och LVV:s diarieförda tillståndsstatus begäras in.
