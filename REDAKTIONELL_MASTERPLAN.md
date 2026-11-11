@@ -912,3 +912,10 @@ SGU:s API-sida `startIndex=50` har exportdatum **8 november 2026** och visar min
 - **Balansräkning:** RWE anger €17,0 md nettoskuld per 30 september och cirka €12 md vid årsslut, huvudsakligen på grund av avkonsolideringen av Vanguard efter joint venturet. Det betyder inte att RWE saknar fortsatt ekonomisk exponering; ägandet är fortsatt 50 procent.
 - **Status:** PR #49 är draft för chefredaktörens granskning. Inte mergad, inte publicerad och inte LIVE.
 - **Kontrolljournal 09:48 EET:** [editorial/research/2026-11-11-breaking-watch-0948.md](editorial/research/2026-11-11-breaking-watch-0948.md).
+
+
+### Källkomplettering 11 november 2026 – Vanguard CfD-kapacitet
+
+RWE Annual Report 2025 anger att Norfolk Vanguard East/West har potential upp till 3,1 GW men att 2,8 GW då var planerat. DESNZ:s CfD-tabell summerar till cirka 3,09 GW (1,545 GW per projekt), medan RWE:s aktuella plan den 11 november 2026 är 2,8 GW. Detta förklarar i huvudsak skillnaden som maximal CfD-kapacitet kontra aktuell byggplan. Utkast PR #49 har korrigerats; återstående kontroll gäller vilka 90/75 MW-enheter som är optioner eller ingår i slutlig FID-/teknikomfattning.
+
+Källa: https://www.rwe.com/-/media/RWE/documents/05-investor-relations/finanzkalendar-und-veroeffentlichungen/2025-GJ/RWE-Annual-Report-2025.pdf
