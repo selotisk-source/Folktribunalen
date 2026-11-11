@@ -37,6 +37,18 @@ Detta är en **OBEROENDE BEKRÄFTELSE återgiven av SVT med hänvisning till lä
 
 SCA:s förklaring till försäljningen har varit att marken inte var optimal ur bolagets skogsbrukssynpunkt, eftersom en stor del består av kalfjäll och fjällnära skog. Det är säljarens förklaring, inte ett oberoende konstaterande om hela fastighetsportföljens ekonomiska eller ekologiska värde.
 
+## SCA:s kapitalomallokering efter försäljningen
+
+Fastighetsvärlden rapporterade den 19 oktober att SCA uppgett till tidningen att de **240 miljoner kronor** som bolaget fick i de två transaktionerna har använts till att förvärva **4 000–5 000 hektar produktiv skogsmark** som inte är fjällnära och som ligger närmare bolagets industri och terminaler.
+
+Detta ger en tydligare bild av säljarens industriella motiv: SCA beskriver affären som en omallokering från fjällnära/lågproduktiv mark till mer produktiv skog med bättre logistiskt läge. Uppgiften är dock en **PARTSUPPGIFT återgiven av Fastighetsvärlden** – inte ett självständigt verifierat kassaflöde eller en fullständig lista över SCA:s ersättningsförvärv.
+
+Fastighetsvärldens artikel skiljer dessutom mellan två transaktioner: huvudpaketet om cirka 15 000 hektar för 235 miljoner kronor (Berg Storsjö 12:9 och delar av ytterligare 14 fastigheter) samt Berg Storsjö 18:3 och 18:5 om cirka 300 hektar för fem miljoner kronor, i ett separat förvärvstillstånd men vid samma tillfälle. Det förklarar varför vissa källor anger 235 miljoner och andra 240 miljoner: beloppen avser olika avgränsningar. Det fastställer fortfarande inte den exakta sammanlagda arealen; 15 000 hektar är en avrundad uppgift och måste kontrolleras mot fastighetsregistret.
+
+**OBEROENDE RAPPORTERING / PARTSUPPGIFT:** [Fastighetsvärlden, 19 oktober 2026](https://www.fastighetsvarlden.se/notiser/palantirs-vd-kopt-ytterligare-i-harjedalen/), särskilt uppgifterna om de två tillstånden och SCA:s kommentar.
+
+**ÖPPET:** vilka konkreta fastigheter SCA förvärvade för 4 000–5 000 hektar; om förvärven redan är genomförda och lagfarna; samt hur de två Cladonia-överlåtelsernas registrerade arealer summerar. Nästa kontroll är SCA:s års-/transaktionsuppgifter och fastighetsregisterutdrag för de berörda fastigheterna.
+
 ## Köparens löften är ännu inte samma sak som bindande villkor
 
 I svar till SVT har Cladonia uppgett att:
