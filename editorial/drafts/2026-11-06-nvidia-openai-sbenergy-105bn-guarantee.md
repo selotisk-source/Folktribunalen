@@ -1,7 +1,7 @@
 # AI-infrastrukturens kreditstöd: NVIDIA, Google, Nscale och Anthropic
 
 **Artikeltyp:** Finansgranskning · AI-infrastruktur · garantier · projektfinansiering  
-**Faktaläge:** 7 november 2026  
+**Faktaläge:** 11 november 2026, 13:53 EET  
 **Berörda spår:** F – AI-finansiering och säkerheter · B – AI-datacenter · R – strategisk energi
 
 *En av AI-boomens största finansiella risker syns inte som ett vanligt lån. NVIDIA har i sin kvartalsrapport redovisat garantier på upp till 105 miljarder dollar kopplade till OpenAI:s planerade datacenter i Ohio. Beloppet är inte en redan utbetald investering eller en bokförd skuld på 105 miljarder. Det är ett villkorat åtagande som ska skydda en del av SB Energys fastighets-, el- och byggfinansiering om OpenAI inte fullgör sina leasingåtaganden. Men strukturen gör NVIDIA till mer än en chipleverantör: bolaget investerar i projektbolaget, garanterar en del av dess risk och får samtidigt exklusiv rätt att leverera AI-infrastruktur.*
@@ -512,3 +512,51 @@ Källor:
 - Reuters, 4 november 2026, återgivning av Bloomberg-uppgift med uttrycklig reservation om oberoende verifiering: https://www.reuters.com/legal/transactional/goldman-apollo-seek-buyers-40-billion-spacex-ai-chip-deal-bloomberg-news-reports-2026-11-04/
 
 **Nästa NVIDIA-kontroll:** bolagets Q3 FY2027-resultat och CFO-kommentar är planerade till 17 november 2026. SpaceX-leasen ska hållas separat från NVIDIA:s egna garantier, inköpsåtaganden och molnavtal.
+
+
+## Källuppdatering 11 november 2026 – Nscale, Microsoft-optionen och kreditförsäkring
+
+### Microsofts uteblivna expansion är inte en uppsägning av det befintliga avtalet
+
+**Händelsedatum:** Beslutet om optionen fattades enligt en Reuters-källa flera månader före Nscales IPO-ansökan; **publiceringsdatum:** 5 november 2026.
+
+**OBEROENDE RAPPORTERING – Reuters:** Microsoft kommer inte att utnyttja en option att mer än fördubbla den befintliga Texas-affären om hyrd beräkningskapacitet. Reuters uppger samtidigt att det befintliga Texas-avtalet inte påverkades och att Nscale diskuterade att sälja den återstående kapaciteten till andra stora kunder.
+
+**PRIMÄRKÄLLA – Nscale Form S-1, inlämnad 18 september 2026:** Nscale anger att Microsofts arbetsorder mellan september 2025 och april 2026 kan ge upp till 43,8 miljarder USD till december 2033, exklusive optioner. Prospektet definierar TCV så att outnyttjade optioner, förlängningar och outnyttjad kapacitet inte räknas in. Reuters uppger uttryckligen att Microsofts beslut därför inte påverkar det rapporterade TCV-värdet på cirka 103 miljarder USD.
+
+**Redaktionell gräns:** Detta är inte en uppsägning eller nedskrivning av de befintliga arbetsorderna på 43,8 miljarder USD. Det är ett beslut att inte utnyttja en separat expansionsoption. Optionens exakta kapacitet och värde har inte offentliggjorts.
+
+### Nscales IPO-tidplan – ännu obekräftad uppgift
+
+**Publiceringsdatum:** 10 november 2026.
+
+**OBEKRÄFTAD:** Reuters rapporterade att Nscale överväger att skjuta upp en planerad börsnotering till 2027. Reuters anger att uppgiften kommer från *The Telegraph* och att Nscale inte omedelbart svarade på en begäran om kommentar. Varken ett uppskjutet IPO-beslut eller den rapporterade värderingen på 35 miljarder USD har bekräftats i ett nytt bolagsmeddelande i denna kontroll.
+
+**PRIMÄRKÄLLA – SEC S-1:** Prospektet från 18 september är preliminärt, saknar slutligt prisintervall och anger planerad NYSE-notering under symbolen NSCL. Det anger en minsta teckningsstruktur om 3,1 miljarder USD: 2,1 miljarder USD i osäkrade konvertibla skuldebrev samt en separat NVIDIA-del om 1,0 miljard USD i konvertibla skuldebrev eller icke-röstberättigade aktier. Reuters-artikeln om IPO-övervägandet återger däremot en tidigare siffra om 2 miljarder USD från NVIDIA. Skillnaden är inte förklarad i de källor som kontrollerats och ska hållas öppen, inte jämnas ut genom antagande.
+
+### Kreditförsäkring blir ett nytt risklager i AI-datacenterfinansieringen
+
+**Publiceringsdatum:** 11 november 2026.
+
+**OBEROENDE MEDIERAPPORTERING – Financial Times:** FT rapporterar att Barclays har försäkrat en del av sin AI-infrastrukturutlåning, att HSBC har undersökt produkten och att JPMorgan övervägde den men avstod. Enligt FT överför banker typiskt 20–50 procent av ett projekts exponering till försäkringsgivare; mer än 70 försäkringsgivare erbjuder numera projektfinansieringsskydd. FT anger också att premierna kan motsvara 50–70 procent av den vinst bankerna förväntar sig på den försäkrade lånedelen. Inga specifika låntagare, försäkringsgivare eller policydokument namnges i den offentliga rapporteringen.
+
+**OBEROENDE TIDIGARE RAPPORTERING – Bloomberg, 28–29 oktober:** Barclays sonderade försäkringsmarknaden för skydd på mer än 10 miljarder USD i AI-infrastrukturrelaterad skuld; HSBC förde preliminära diskussioner om risköverföring på datacenterlån. Bloomberg beskrev dessa samtal som explorativa. FT:s uppgift om att Barclays redan har försäkrat viss utlåning är därför ett senare steg i rapporteringen, men inte en offentlig transaktionsbekräftelse.
+
+**PRIMÄRKÄLLA PÅ MARKNADSNIVÅ – WTW:s CPRI-undersökning, publicerad 26 maj 2026:** 76 försäkringsmarknader deltog. WTW uppger att 25 procent av de tillfrågade försäkringsgivarna hade mer än 10 procent av sin premieintäkt från datacenter 2025, att andelen väntades öka 2026 och att flera aktörer redan närmade sig eller nått sektorsgränser. WTW beskriver samtidigt en växande total marknadskapacitet. WTW:s uppgift om cirka 55 procents förväntad bruttomarginal är ett annat mått än FT:s premie i förhållande till bankens förväntade intjäning; de ska inte jämföras som samma procentsats.
+
+**Vad som ännu saknas:** offentlig identifiering av låntagare, SPV, långivare, försäkringsgivare, täckningsgrad per avtal, undantag, självrisk, löptid, återförsäkring och om risköverföringen faktiskt ger regulatorisk kapitalavlastning i respektive jurisdiktion. Försäkring flyttar eller delar kreditrisk; den eliminerar den inte.
+
+### Redaktionell betydelse
+
+Nscale-fallet visar skillnaden mellan ett stort kontrakterat TCV, driftsatt kapacitet, outnyttjade optioner och kapital som faktiskt har säkrats. Kreditförsäkringen visar ett parallellt skifte: en del av AI-datacenterlånens risk börjar spridas från bankernas balansräkningar till specialiserade försäkringsgivare. Den centrala granskningsfrågan är därför inte bara vem som lånar och vem som hyr, utan vem som ytterst bär förlusten när en kund inte tar kapacitet, ett campus försenas, el saknas eller GPU-utrustning tappar restvärde.
+
+**Källor**
+- Nscale Form S-1, 18 september 2026: https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm
+- Reuters, Microsoft-optionen, 5 november 2026: https://www.reuters.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-uks-nscale-ft-reports-2026-11-05/
+- Reuters, Nscale överväger IPO-uppskjutning, 10 november 2026: https://www.reuters.com/world/europe/ai-cloud-firm-nscale-considers-delaying-35-billion-listing-telegraph-reports-2026-11-10/
+- Financial Times, 11 november 2026: https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565
+- Bloomberg, Barclays, 28 oktober 2026: https://bloomberg.com/news/articles/2026-10-28/barclays-turns-to-insurers-to-hedge-billions-of-data-center-debt
+- Bloomberg, HSBC, 29 oktober 2026: https://news.bloomberglaw.com/insurance/hsbc-seeks-to-hedge-data-center-debt-with-credit-risk-insurance
+- WTW, CPRI Capacity Survey, 26 maj 2026: https://www.wtwco.com/en-be/insights/2026/05/credit-and-political-risk-insurance-capacity-survey-and-market-update-2026
+
+**Status:** Detta är en källuppdatering i ett öppet granskningsutkast. Den ändrar inte publiceringsstatus och kräver chefredaktörens uttryckliga beslut.
