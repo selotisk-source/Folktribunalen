@@ -203,3 +203,15 @@ EuroHPC säger att endast inlämningslänkarna ändras; de publicerade upphandli
 - **PRIMÄRKÄLLA:** EuroHPC JU, uppdatering 5 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
 - **OBEROENDE BEKRÄFTELSE:** HPCwire, 6 november 2026: https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/
 
+
+
+### Ny kontroll 11 november 2026 – nya anbudslänkar publicerade
+
+**PRIMÄRKÄLLA – EuroHPC:s officiella upphandlingssida, kontrollerad 11 november:** de nya länkarna för inlämning är nu synliga. De tidigare utkasten och tidigare inskickade anbuden ska inte återanvändas; konsortier måste skapa om och lämna in via de nya länkarna.
+
+- Lot 2, large-scale: sista inlämning 3 december 2026 kl. 17.00 CET.
+- Lot 1, small/medium-scale: sista inlämning 4 februari 2027 kl. 17.00 CET.
+
+Detta är en separat upphandling med referens EUROHPC-2026-CEI-AIGF-01. Den får inte blandas ihop med BRAIN++/Discoverer++-upphandlingen eller dess kontraktsstatus. Denna kontroll visar att inlämningslänkarna nu är publicerade, inte att något konsortium har lämnat in eller fått tilldelning.
+
+Officiell sida: https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
