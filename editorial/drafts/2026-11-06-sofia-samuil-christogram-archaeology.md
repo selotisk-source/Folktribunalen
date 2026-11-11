@@ -191,3 +191,18 @@ Undersökningen omfattade även material från övriga gravstrukturer. I sarkofa
 - BTA, sarcofagens placering i Sankt Sofia, 2 oktober 2026: https://www.bta.bg/en/news/culture/1216728-sarcophagus-for-tsar-samuel-s-remains-now-stands-ready-in-st-sophia-church
 
 **Öppet:** fullständig antropologisk rapport och mätprotokoll; fältdagbok och fyndkatalog från Moutsopoulos; laboratoriernas provkedja och resultat; radiokoldatering, DNA och isotoper; fullständig inventarielista över de 48 föremål som överfördes till Grekland.
+
+## Källuppdatering 11 november 2026 – vad DNA kan och inte kan visa
+
+BTA:s intervju med arkeologisk expertis om den preliminära undersökningen av kvarlevorna tydliggör en viktig begränsning: en genetisk jämförelse mellan benen i de två gravkontexterna kan i bästa fall visa om individerna är biologiskt besläktade. Det kan stärka en historisk identifiering av en kunglig familjegrav, men det är inte samma sak som en direkt DNA-match mot ett säkert identifierat referensprov från Tsar Samuil. Något sådant referensprov eller färdigt genetiskt resultat har inte publicerats i det material som kontrollerats.
+
+**PRIMÄRKÄLLA:** BTA:s intervju/rapportering om den preliminära undersökningen, 8 oktober 2026: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve  
+**OBEROENDE BEKRÄFTELSE:** bTV:s rapportering samma dag: https://btvnovinite.bg/bulgaria/predvaritelnite-izsledvanija-na-kostite-na-car-samuil-pokazvat-tezhki-zaboljavanija-i-travma-na-ljavata-mu-raka.html
+
+Den redaktionella formuleringen ska därför fortsatt vara “kvarlevor som tillskrivs Tsar Samuil” eller “historiskt/arkeologiskt identifierade som Samuils kvarlevor”, inte “DNA-verifierade kvarlevor”. De preliminära antropologiska fynden om sjukdomar och en äldre skada på vänster arm är inte i sig identitetsbevis.
+
+**Platsåtskillnaden kvarstår:** kvarlevorna grävdes fram vid basilikan Sankt Achillios på ön i Lilla Prespasjön i dagens Grekland och placerades den 3 oktober i en ny marmorsarkofag i Sankt Sofia-kyrkan i Sofia. Den arkeologiska nivån under Sankt Sofia-kyrkans transparenta golv är en annan utgrävningsmiljö. Inget i överföringen visar att Samuils ursprungliga grav låg under kyrkan i Sofia.
+
+**Öppet:** full antropologisk rapport, provkedja, metodbeskrivning och eventuella DNA-/isotopresultat. Fyndåret anges fortsatt som “under 1960-talet” tills fältdagbok och originalrapport från Moutsopoulos har granskats.
+
+**Status:** källkritisk precisering till befintligt granskningsutkast. Inte godkänt eller publicerat.
