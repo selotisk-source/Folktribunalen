@@ -4,6 +4,16 @@
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
+## Aktuell arbetsuppdatering – 9 november 2026, kväll
+
+- **Hormuz fullversion:** PR #3 är fortsatt draft och ej mergad. Fulltexten uppdaterades 9 november med IMO:s 131 bekräftade incidenter/25 dödsfall, IMO:s nya HUDA-post och tydligare osäkerhetsmärkning för UKMTO 199/200. Kräver separat godkännande; den tidigare kortversionens godkännande gäller inte fullversionen.
+- **Norge/AI-elnät:** Ett komplett första utkast har skapats i `editorial/drafts/2026-11-09-norge-ai-elnat.md`, granskningsärende [PR #31](https://github.com/selotisk-source/Folktribunalen/pull/31). Draft, ej mergat eller publicerat.
+- **Storsjö/Cladonia:** Ett komplett första utkast har skapats i `editorial/drafts/2026-11-09-storsjo-cladonia-markagande.md`, granskningsärende [PR #32](https://github.com/selotisk-source/Folktribunalen/pull/32). Draft, ej mergat eller publicerat.
+- **Cladonia-faktaläge:** SVT:s publicering 9 november anger över 30 000 underskrifter och uppskjutet möte med Bergs kommun. ISP:s beslut 27 augusti var att lämna anmälan utan åtgärd; Länsstyrelsen beviljade förvärvstillstånd 9 september. Fastighetsförteckning, lagfarter, originalbeslut och berörda samebyars perspektiv återstår.
+- **Publicering:** Inget av de nya utkasten har mergats eller publicerats. GitHub-PR:er är granskningsposter, inte webbplatsens databasbaserade kö. Den databasbaserade kön är fortsatt separat och dess åtkomst är inte end-to-end-testad i denna uppdatering.
+- **Arbetsordning:** Fortsätt med de återstående prioriterade spåren i research- och utkastform. Publiceringsgodkännande hanteras separat, ett utkast i taget, och ingen artikel går LIVE utan uttryckligt godkännande.
+
+
 ## 1. Publiceringsstatus och system
 
 - GitHub: https://github.com/selotisk-source/Folktribunalen
