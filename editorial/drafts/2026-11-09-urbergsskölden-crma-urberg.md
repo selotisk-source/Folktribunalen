@@ -123,7 +123,7 @@ Den viktigaste redaktionella slutsatsen är därför att Europa inte bara behöv
 ## Primärkällor
 
 1. **Europeiska kommissionen,** beslut (EU) 2026/2349 av den 9 oktober 2026, notifierat C(2026)8051, publicerat 22 oktober 2026: https://eur-lex.europa.eu/eli/dec/2026/2349/oj/eng
-2. **Europeiska kommissionen,** urvalet av strategiska CRMA-projekt och den samlade listan med 106 projekt: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
+2. **Europeiska kommissionen,** urvalet av strategiska CRMA-projekt och den samlade listan med 106 projekt: https://single-market-economy.ec.europa.eu/document/download/efabd887-9c12-4a3d-910e-8433c0f63a81_en?filename=C_2026_8051_F1_ANNEX_EN_V3_P1_5091583.PDF
 3. **Finlands statsråd,** riksdagens svar på HE 133/2026, föredragning 6 november 2026; presidenten godkände framställningen och lagarna träder i kraft 15 november 2026: https://valtioneuvosto.fi/paatokset/paatos?decisionId=7389
 4. **Finlands riksdag,** utskottsbetänkande TaVM 26/2026 om HE 133/2026: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-52732
 5. **GTK,** myndighetsuppgifter enligt CRMA, 13 augusti 2026: https://www.gtk.fi/sv/aktuellt/geologiska-forskningscentralen-far-uppgifter-enligt-eus-forordning-om-kritiska-ravaror/
