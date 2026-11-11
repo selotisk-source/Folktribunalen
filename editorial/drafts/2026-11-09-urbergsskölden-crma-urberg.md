@@ -276,3 +276,19 @@ Inga påståenden om överlapp, intrång eller lokal opposition görs innan poly
 **Artikelvinkel:** Den svenska prospekteringsvågen är synlig i myndighetsregistret långt innan den blir gruvproduktion. Vem söker vilka metaller, över vilka arealer, och vilka rättighets-, natur- och vattenintressen berörs innan ett tillstånd ens är beviljat?
 
 **Status:** källuppdatering till befintligt granskningsutkast. Inte mergat eller publicerat.
+
+### Källuppdatering 11 november 2026 – Hautalampi och vad strategisk status faktiskt innebär
+
+**PRIMÄRKÄLLA – Europeiska kommissionen, beslut C(2026) 8051, 9 oktober 2026:** bilagans punkt 19 listar **Hautalampi Cobalt-Nickel-Copper Mine Project** som ett pågående utvinningsprojekt i Finland, med FinnCobalt Oy som projektfrämjare och koppar, kobolt och nickel som avsedda råvaror. Punkt 45 listar Viscaria Copper Project i Sverige. Den nya listan omfattar 46 projekt; den innehåller även fem finska projekt i olika delar av värdekedjan och Aurubis Bulgaria AD:s kopparprojekt i Pirdop.
+
+**PRIMÄRKÄLLA – Eurobattery Minerals:** bolaget uppger att det äger 100 procent av FinnCobalt Oy sedan juli 2024. Bolaget meddelade den 15 januari 2026 att det lämnat in en ny CRMA-ansökan för Hautalampi efter att projektet inte valdes i den första omgången 2025. Den 24 augusti 2026 uppgav bolaget att FinnCobalt lämnat in begärda kompletteringar i den pågående miljö- och vattenrättsliga tillståndsprocessen. Detta är bolagets uppgift; något slutligt miljötillstånd har inte identifierats i denna kontroll.
+
+**OBEROENDE REVISION – Europeiska revisionsrätten, specialrapport 04/2026:** revisionsrätten konstaterar att finansiell bärkraft inte är ett villkor för att väljas som strategiskt projekt enligt CRMA, att lagen inte ger projekten automatisk EU-finansiering och att många utvalda projekt kan få svårt att bidra till EU:s försörjning före 2030. Revisionsrättens stickprov avser 19 projekt från den tidigare urvalsomgången 2025; det är en systemkritik av instrumentet, inte en särskild revision av Hautalampi.
+
+**Redaktionell slutsats:** strategisk status ska inte beskrivas som finansieringsbeslut, färdigt miljötillstånd, investeringsbeslut, byggstart, mineralreserv eller kommersiell produktion. Den ger ett regel- och synlighetsmässigt stöd, men projektet måste fortfarande klara tillstånd, finansiering, teknisk genomförbarhet och köparavtal.
+
+Källor:
+- Kommissionens beslut C(2026) 8051 och bilaga, 9 oktober 2026: https://single-market-economy.ec.europa.eu/document/download/efabd887-9c12-4a3d-910e-8433c0f63a81_en?filename=C_2026_8051_F1_ANNEX_EN_V3_P1_5091583.PDF
+- Eurobattery Minerals, ansökan 15 januari 2026: https://investors.eurobatteryminerals.com/en/press-releases/eurobattery-minerals-submits-crma-strategic-project-applications-for-san-juan-and-hautalampi/
+- Eurobattery Minerals, kompletterande miljödokument 24 augusti 2026: https://investors.eurobatteryminerals.com/pressmeddelanden/eurobattery-minerals-lamnar-in-kompletterande-dokumentation-for-miljotillstandsansokan-for-hautalampi/
+- Europeiska revisionsrätten, Special Report 04/2026: https://www.eca.europa.eu/ECAPublications/SR-2026-04/SR-2026-04_EN.pdf
