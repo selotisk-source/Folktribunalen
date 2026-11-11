@@ -585,3 +585,25 @@ Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
 **OBEROENDE MEDIERAPPORTERING – Financial Times, 11 november 2026:** FT gör en viktig jurisdiktionsskillnad. Europeiska och kanadensiska banker har länge använt kreditförsäkring för att minska regulatoriska kapitalkrav. Amerikanska banker får i allmänhet inte motsvarande kapitallättnad; där kan försäkringen i stället frigöra intern utlåningskapacitet genom att minska exponeringen mot enskilda projekt, bolag eller sektorer och därmed ge riskkommittéer utrymme att godkänna större lån.
 
 **Granskningsfråga:** För varje identifierat avtal måste vi skilja mellan (a) överföring av ekonomisk kreditrisk, (b) regulatorisk kapitalavlastning, (c) intern risklimit/koncentrationshantering och (d) politisk-risk-/contract-frustration-skydd. Dessa är inte samma sak. FT uppger att försäkringen kan täcka utebliven betalning efter låntagarens fallissemang, även när politiskt motstånd stoppar ett projekt; policyvillkoren och undantagen är dock inte offentliga.
+
+
+### 10-Q:s fulla åtagandestack – 366 md USD och ytterligare 56 md USD
+
+**PRIMÄRKÄLLA – NVIDIA Form 10-Q, kvartal avslutat 26 juli 2026, inlämnad 26 augusti 2026:** den separata tabellen över framtida åtaganden visar totalt **366 md USD**:
+- **279 md USD** i supply- och kapacitetsåtaganden;
+- **29 md USD** i cloud service agreements;
+- **25 md USD** i datacenterleaser som ännu inte har börjat löpa;
+- **25 md USD** i aktieinvesteringar;
+- **8 md USD** i kapitalutgifter.
+
+Supply- och kapacitetsåtagandena hade enligt bolaget ökat från **119 md USD** föregående kvartal till 279 md USD per 26 juli. NVIDIA skriver samtidigt att vissa leverantörsavtal kan avbeställas, omplaneras eller justeras innan fasta order läggs, men att ändringar kan medföra extra kostnader. Det är därför ett stort framtida inköps- och kapacitetsåtagande, inte 279 md USD i redan levererad utrustning eller omedelbar skuld.
+
+**En separat tabell redovisar ytterligare 56 md USD**: 36 md USD i AI-cloud-avtal och 20 md USD i datacenterleaser för tredje part som ännu inte har startat. Dessa poster ska inte automatiskt adderas till 366 md USD utan att respektive not och eventuell överlappning granskas. NVIDIA anger att vissa AI-cloud-partners kan sälja kapacitet till andra kunder i stället för att leverera den till NVIDIA; om de inte lyckas sälja den kapacitet som de har åtagit sig kan NVIDIA i vissa fall behöva köpa den. Det flyttar en del av efterfrågerisken tillbaka till NVIDIA.
+
+**Faktisk skuld – separat kategori:** NVIDIA uppger att bolaget i juni 2026 emitterade **25 md USD i seniora osäkrade obligationer** i sju trancher. Denna emission är faktisk upplåning och ska inte blandas ihop med framtida leverantörsåtaganden eller villkorade garantier.
+
+**MOU och finansieringsambition:** NVIDIA skriver att bolaget i augusti ingick MOU:er med stora kapitalförvaltare om oberoende finansieringsplattformar som skulle samla in och placera tredjepartskapital för AI-infrastruktur. Bolaget varnar uttryckligen för att dessa preliminära arrangemang kanske inte leder till slutliga avtal. Det är alltså inte samma sak som att 500 md USD redan är finansierade eller utbetalda.
+
+**Redaktionell slutsats:** tre risklager måste hållas åtskilda: (1) inköps- och kapacitetsåtaganden som kan bli dyra om efterfrågan uteblir, (2) leaser och AI-cloud-avtal som ännu inte har börjat löpa, samt (3) garantier som kan utlösas först vid vissa hyresgästmislighållanden. Den totala risken kan vara betydande, men den får inte beskrivas som en enda skuldpost på 366, 422 eller 474 md USD.
+
+Källa: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
