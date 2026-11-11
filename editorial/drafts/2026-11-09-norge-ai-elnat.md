@@ -1,7 +1,7 @@
 # VEM FÅR ELEKTRICITETEN? NORGE SÄTTER GRÄNSER FÖR AI-INDUSTRINS NÄTANSLUTNING
 
 **Artikeltyp:** Energi- och industrigranskning · digital infrastruktur · offentlig politik  
-**Faktaläge:** 10 november 2026  
+**Faktaläge:** 11 november 2026, 22:53 EET  
 **Publiceringsstatus:** Redaktionellt utkast – inte godkänt för publicering  
 **Geografiskt fokus:** Norge, med europeiska konsekvenser
 
@@ -221,3 +221,27 @@ Källor:
 - SEC, Bitdeer Exhibit 99.1, 4 augusti 2026: https://www.sec.gov/Archives/edgar/data/1899123/000121390026085655/ea030075201ex99-1.htm
 - NVE, konsesjonssak 202607345, 28 maj 2026: https://www.nve.no/konsesjon/konsesjonssaker/konsesjonssak?id=26042&type=A-1
 - Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift
+
+
+## Källuppdatering 11 november 2026, 22:53 EET – global effektbrist och fossil reservkraft
+
+BloombergNEF publicerade den 11 november rapporten *Powering the Data Center Boom: How Grid Policy Can Deliver Clean Power Faster*. BNEF bedömer att datacenters elanvändning kan nå **2 354 TWh per år 2035**, motsvarande omkring **7 procent av global elanvändning**. BNEF har samtidigt kartlagt **181 GW annonserad gaseldad produktion** föreslagen i anslutning till datacenter; mer än 90 procent ligger i USA. BNEF framhåller uttryckligen att projekten har mycket olika mognadsgrad och tidplan och att siffran visar en möjlig skala – **inte en prognos över vad som kommer att byggas**.
+
+I ett villkorat scenario där alla annonserade amerikanska gasprojekt byggs och körs enligt rapportens antaganden skulle utsläppen bli cirka 345 miljoner ton CO₂e per år. Det är ett modellscenario, inte uppmätta utsläpp eller redan installerad effekt. BNEF varnar för att anläggningar som marknadsförs som tillfällig reservkraft kan fortsätta köras efter att nätanslutning finns, om ekonomin gör fortsatt drift lönsam.
+
+**Policyjämförelse – Storbritannien:** den brittiska regeringens *Data Centre Covenant*, publicerad 28 oktober 2026, beskriver tillfällig lokal elproduktion som en undantagslösning för särskilt strategiska projekt när andra åtgärder inte kan leverera effekt i tid. Det är inte ett generellt tillstånd för datacenter att bygga permanent gasproduktion. Covenantens villkor och eventuella senare myndighetsbeslut måste hållas åtskilda från enskilda projektansökningar.
+
+**Betydelse för Norge:** Statnetts paus och regeringens aviserade koncessionsordning kan styra om investeringar mot nätförstärkning, flexibel anslutning och ny ren produktion – eller skapa incitament för lokal fossil reservkraft. BNEF:s 181 GW är huvudsakligen amerikansk och får inte presenteras som en europeisk eller norsk projektpipeline. Den ger däremot ett internationellt jämförelsematerial för frågan om tillfällig reservkraft riskerar att bli långvarig basproduktion.
+
+**Öppna frågor:** om norsk koncessionsordning kommer att kräva bindande additionalitet i ren elproduktion, flexibel last, kostnadsbidrag till nätet, tidsgränser för fossil reservkraft och offentlig redovisning av faktisk drift. Ingen av dessa villkor är fastställd i de norska beskeden den 9 november.
+
+**Källstatus**
+- **PRIMÄRKÄLLA:** BloombergNEF, 11 november 2026, *Data Center Power Demand Is Set to Surge, Raising New Climate Challenges*.
+- **PRIMÄRKÄLLA:** UK Government, 28 oktober 2026, *Data Centre Covenant*.
+- **OBEROENDE BEKRÄFTELSE:** The Guardian, 11 november 2026, om BNEF:s gaspipeline och risken för fossil inlåsning.
+- **AVGRÄNSNING:** 181 GW är annonserad kapacitet i varierande projektstadier, inte driftsatt kapacitet eller en säker byggprognos.
+
+Källor:
+- https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
+- https://www.gov.uk/government/publications/data-centre-covenant
+- https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations
