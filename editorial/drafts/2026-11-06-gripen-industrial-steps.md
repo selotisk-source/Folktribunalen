@@ -126,3 +126,20 @@ Det är viktigt att skilja detta från 2025 års test. Då flög Saab och Helsin
 **Vad som fortfarande saknas:** offentlig testmatris, antal och typ av flygprov, systemversion, säkerhetsanalys, mänsklig kontroll, gränser för autonomi, certifieringsplan och beslut om eventuell operativ införing. Artikeln ska därför inte beskriva AI-agenten som operativ förmåga eller självständig vapenbeslutsfattare.
 
 Saabs pressmeddelande: https://www.saab.com/newsroom/press-releases/2026/saab-unveils-its-ai-agents-for-future-fighter-systems
+
+### Källuppdatering 11 november 2026 – Ukrainakontraktet är nu orderbokat
+
+**Händelsedatum:** avtalet undertecknades den 30 juni 2026.  
+**Publiceringsdatum för Saab-bekräftelsen:** 23 oktober 2026.
+
+**PRIMÄRKÄLLA – Ukrainas presidentkansli, 30 juni:** Ukraina och Sverige undertecknade ett avtal om köp av **16 Gripen E**. Den ukrainska presidentens kansli anger att leveranserna ska börja i början av 2029 och att köpet ska finansieras genom EU-kredit med brittiskt stöd. Samma publicering skiljer uttryckligen ut Sveriges planerade militära gåva om **16 Gripen C/D**, vars första leveranser anges till början av 2027.
+
+**PRIMÄRKÄLLA – Saab Q3, 23 oktober:** Saab redovisar en orderbokning på **24,6 miljarder kronor** för Gripen E till Ukraina. Detta är en faktisk orderpost i bolagets Q3-redovisning, inte längre enbart maj månads avsiktsförklaring om upp till 20 flygplan.
+
+**OBEROENDE BEKRÄFTELSE:** Ukrainas presidentkansli och Saabs Q3-rapport stöder varandra om att ett avtal om 16 Gripen E finns och att Saab har bokfört en order. De två uppgifterna ska hållas åtskilda från den separata gåvan av 16 Gripen C/D.
+
+**Öppet:** fullständigt kontraktsvärde per flygplan, leveransprofil, finansieringsvillkor, vapenpaket, utbildningsvolym, underhåll, reservdelar och industriell kapacitet. Publicera inga operativa detaljer om basering, beredskap eller sårbarheter.
+
+Källor:
+- Ukrainas presidentkansli, 30 juni 2026: https://www.president.gov.ua/news/ukrayina-ta-shveciya-uklali-ugodu-pro-zakupivlyu-16-vinishuv-105157
+- Saab, Q3 results 2026, 23 oktober: https://www.saab.com/newsroom/press-releases/2026/saab-q3-results-2026positioned-to-capture-growing-demand
