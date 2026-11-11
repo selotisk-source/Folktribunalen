@@ -771,3 +771,8 @@ PR #3 Hormuz förblir den enda artikel som tidigare markerats som godkänd grund
 ## 11 november 2026 kl. 02.00 – Anthropic IPO-dokumentförlopp
 
 PR #40 har kompletterats med ett viktigt källstatusskifte: Reuters rapporterade 10 november att en bankversion som cirkulerade 9 november med cirka 866,7 miljoner aktier och $70–80 återkallades som felaktig. Den offentliga SEC Form S-1/A-2, inlämnad 10 november, anger i stället 825 miljoner aktier och $70–78. Reuters kunde inte fastställa vilka uppgifter i bankversionen som var felaktiga. Den återkallade versionen används därför endast som dokumenthändelse; den offentliga SEC-handlingen är primärkälla för aktuella villkor. PR #40 är fortsatt draft, inte mergad eller publicerad.
+
+
+## 11 november 2026 kl. 02.00 – Cladonia/SCA: kapitalomallokering
+
+PR #4 har kompletterats med Fastighetsvärldens 19 oktober-uppgift om att SCA uppgett att de sammanlagt 240 mkr från de två transaktionerna använts till 4 000–5 000 ha produktiv, icke fjällnära skog närmare industri och terminaler. Detta är en partsuppgift återgiven av tidningen, inte verifierad spårning av kapital eller fullständig fastighetslista. Huvudpaketet anges till 235 mkr; separat tillstånd för Berg Storsjö 18:3 och 18:5 om cirka 300 ha anges till 5 mkr. Exakt totalareal kvarstår öppen tills registerutdrag har kontrollerats.
