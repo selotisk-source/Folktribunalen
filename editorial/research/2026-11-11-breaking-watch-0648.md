@@ -30,18 +30,18 @@ Källor: https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sen
 
 Källor: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve · https://www.bta.bg/en/news/culture/1216728-sarcophagus-for-tsar-samuel-s-remains-now-stands-ready-in-st-sophia-church · https://apnews.com/article/68839e7ca6ba2b121529f7e475e501d6
 
-### E/S – Kiltivaara nr 1001: ansökan, inte beviljat tillstånd
+### E/S – tre ansökta undersökningstillstånd i SGU:s export 9 november
 
-**Dokumentdatum:** Bergsstaten publicerade kartbilaga till underrättelsen 10 november 2026.  
-**Ansökningsdatum:** 2 juli 2026.
+SGU:s öppna API-export daterad **9 november 2026** visar tre relevanta ansökningar:
+- **Isovinsa Aapua:** 171,2168 ha, Övertorneå, ansökan 22 juni 2026, guld/järn/koppar/lantanider/skandium/yttrium, privat sökande, status “Ansökt”.
+- **Stekenjokk nr 9:** 1 691,5824 ha, Strömsund/Vilhelmina, ansökan 24 juni 2026, bly/guld/koppar/silver/zink, Vilhelmina Mineral AB, status “Ansökt”.
+- **Kiltivaara nr 1001:** 9 333,6847 ha, Gällivare, ansökan 2 juli 2026, guld/koppar/molybden/silver, Boliden Mineral AB, status “Ansökt”.
 
-- **PRIMÄRKÄLLA:** SGU:s öppna data anger Boliden Mineral AB som sökande, cirka 9 333,6847 hektar i Gällivare kommun och guld, koppar, molybden och silver som sökta metaller. Statusfältet är “Ansökt”.
-- **Viktig avgränsning:** Kartbilagan och ansökan är inte ett beviljat undersökningstillstånd, en bearbetningskoncession, en resursberäkning eller ett beslut om gruvdrift.
-- **Öppet:** beslutsläge, fullständig ansökningspolygon, fastighets-/sakägarlista, sameby- och renskötselperspektiv, Natura 2000, vattenskydd, naturreservat, fornminnen och befintliga tillstånd.
-- **Oberoende belägg:** ingen oberoende källa som bekräftar en ekonomisk fyndighet eller kommersiell potential har identifierats.
-- **Arbetsflöde:** PR #34 uppdaterad.
+**PRIMÄRKÄLLA:** SGU:s öppna data, `ut-metaller-industrimineral-ansokta`, export 9 november: https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-ansokta/items?f=text%2Fhtml&limit=50&startIndex=50
 
-Källa: https://www.sgu.se/bergsstaten/aktuella-handelser/
+Bergsstaten publicerade 10 november en kartbilaga till underrättelsen om Kiltivaara nr 1001. Ansökningsdatumen är juni/juli; 9 november är datasetets exportdatum och 10 november kartbilagans publiceringsdatum. Ingen av posterna är ett beviljat tillstånd, en resursberäkning eller ett beslut om gruvdrift. Ingen oberoende källa som bekräftar ekonomisk fyndighet har identifierats.
+
+**Nästa kontroll:** polygoner mot sameby/renskötsel, Natura 2000, vattenskydd, naturreservat, fornminnen, befintliga tillstånd och kommunal markanvändning. Inga överlapp påstås innan officiella kartlager jämförts.
 
 ### G – UNIFIL-patrull besköts nära Wadi Jilu
 
@@ -87,7 +87,7 @@ Källor: https://clerk.house.gov/Votes/2026317 · https://www.reuters.com/world/
 | B AI-datacenter | Kontrollerat | Norges reservationspaus och aviserade koncessionsordning finns redan i PR #31 | Övergångsregler, RME-krav, kapacitet per projekt |
 | C Synkronicitet | Kontrollerat | Kotler/Kelso/Friston-artikeln finns i PR #38; teoretisk review, inte experimentellt bevis | Fulltext, metodkritik, preregistrerade test |
 | D Sofia | Kontrollerat | Samuils kvarlevor återförda; DNA-identifikation begränsad | Fältdagbok, antropologi, DNA, 48 föremål |
-| E Mineraler | Kontrollerat | Kiltivaara nr 1001, ansökt 9 333,7 ha | Tillståndsstatus, polygon, sakägare, sameby/naturvärden |
+| E Mineraler | Kontrollerat | Tre ansökta tillstånd i SGU-export 9 nov: Isovinsa Aapua, Stekenjokk nr 9, Kiltivaara nr 1001 | Tillståndsstatus, polygoner, sakägare, sameby/naturvärden |
 | F NVIDIA/finansiering | Kontrollerat | Styrelseutredning, Banks/Warren, Cramer; Anthropic S-1/A-2 finns i PR #40 | Styrelsefynd, BIS, exportlicenser, IPO-stängning |
 | G Libanon | Kontrollerat | UNIFIL besköts nära Wadi Jilu | Libanesisk utredning, ansvar, säkerhetsordning efter 31 dec |
 | H Kyrkor | Kontrollerat | Ingen ny materiell handling | Församlings-/byggnadsarkiv i fem städer |
@@ -101,7 +101,7 @@ Källor: https://clerk.house.gov/Votes/2026317 · https://www.reuters.com/world/
 | P USA:s kongress | Kontrollerat | Roll Call 317; midterms och ledarskap finns i PR #10 | Utskottsordföranden, NDAA, AI Overwatch, War Powers |
 | Q Gripen | Kontrollerat | Saabs AI-agentpåstående finns i PR #12; ingen oberoende testmatris | FMV/Saab test- och certifieringsunderlag |
 | R Strategisk energi | Kontrollerat | Norge/TeraWulf-spåren redan i PR #31/#14/#40; inget nytt Northvolt-beslut | Nätkapacitet, projektfinansiering, Northvolt-tillgångar |
-| S Urbergsskölden | Kontrollerat | Kiltivaara crosslink; CRMA/Onkalo-listan oförändrad | Finland CRMA 15 nov, STUK-inspektion, svenska tillstånd |
+| S Urbergsskölden | Kontrollerat | Tre nya synliga ansökningsposter i SGU-export 9 nov; CRMA/Onkalo oförändrat | Finland CRMA 15 nov, STUK-inspektion, svenska tillstånd |
 
 ## Arbetsflöde och publiceringsstatus
 
