@@ -890,3 +890,5 @@ Källor: https://clerk.house.gov/Votes/2026317 · https://www.reuters.com/world/
 ### Korrigering 11 november 2026 – SGU:s mineralansökningar
 
 Den tidigare journaltexten som angav SGU-export 1 november för Kiltivaara ska ersättas med **exportdatum 9 november 2026**. SGU:s öppna dataset visar tre relevanta ansökta poster: Isovinsa Aapua (Övertorneå, 171,2168 ha), Stekenjokk nr 9 (Strömsund/Vilhelmina, 1 691,5824 ha) och Kiltivaara nr 1001 (Gällivare, 9 333,6847 ha). Samtliga står som “Ansökt”; inget av dem är ett beviljat tillstånd eller en resursberäkning. Full källmatris finns i [kontrolljournalen 11 november 06:48 EET](editorial/research/2026-11-11-breaking-watch-0648.md) och granskningsutkastet PR #34.
+
+Fullständig kontrollmatris och systemstatus för rundan 06:48 EET: [editorial/research/2026-11-11-breaking-watch-0648.md](editorial/research/2026-11-11-breaking-watch-0648.md).
