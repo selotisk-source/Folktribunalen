@@ -215,3 +215,17 @@ EuroHPC säger att endast inlämningslänkarna ändras; de publicerade upphandli
 Detta är en separat upphandling med referens EUROHPC-2026-CEI-AIGF-01. Den får inte blandas ihop med BRAIN++/Discoverer++-upphandlingen eller dess kontraktsstatus. Denna kontroll visar att inlämningslänkarna nu är publicerade, inte att något konsortium har lämnat in eller fått tilldelning.
 
 Officiell sida: https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+### Källnotering 11 november 2026 – äldre översiktssida har passerad deadline
+
+Apply AI Alliance/Futuriums översikt publicerad 31 juli 2026 anger fortfarande den ursprungliga övergripande tidsfristen **12 november 2026** för AI Gigafactories. Den uppgiften är nu överspelad av EuroHPC Joint Undertaking:s senare upphandlingsuppdatering den 5 november och de nya inlämningslänkar som publicerades den 11 november.
+
+**Gällande deadlines enligt EuroHPC:s uppdaterade upphandlingssida:**
+- Lot 1: 4 februari 2027 kl. 17.00 CET.
+- Lot 2: 3 december 2026 kl. 17.00 CET.
+
+Detta gäller den separata upphandlingen EUROHPC-2026-CEI-AIGF-01. Det får inte blandas ihop med BRAIN++/Discoverer++ eller med den bredare politiska ambitionen om upp till sju AI-gigafabriker. Futuriums sida är en äldre översikt, inte den styrande aktuella anbudskalendern.
+
+Källor:
+- Futurium/Apply AI Alliance, 31 juli 2026: https://futurium.ec.europa.eu/de/apply-ai-alliance/posts/commission-opens-call-seven-ai-gigafactories-across-europe
+- EuroHPC JU, uppdatering 5 november 2026 och nya länkar kontrollerade 11 november: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
