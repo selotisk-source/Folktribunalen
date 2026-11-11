@@ -108,3 +108,13 @@ Det går därför inte att beskriva 1 GW som finansierad kapacitet. Markförvär
 ## Publiceringsvillkor
 
 Utkastet kräver chefredaktörens uttryckliga godkännande. Innan publicering ska fastighetsöverlåtelsen, tillståndsstatus, nätanslutningen och fas 1:s faktiska omfattning styrkas med dokument. Bolagens kapacitets- och driftuppgifter ska fortsatt märkas som partsuppgifter tills oberoende mätdata eller myndighetsunderlag finns.
+
+### Oberoende statuskontroll 11 november 2026 – celler till kund och datacenterstart
+
+**OBEROENDE BEKRÄFTELSE – Energivärlden, uppdaterad 13 oktober 2026:** den senaste sammanställningen anger att Lyten testkör produktionslinjerna i Skellefteå men ännu inte tillverkar battericeller för försäljning. De första cellerna till kunder väntas enligt sammanställningen först under **första kvartalet 2027**, och inga kunder har namngivits. Uppgiften bygger bland annat på Norrans rapportering om testkörning i september. Den ska vägas mot Lytens egen uppgift om att produktionen har återstartat och skalas upp: testkörning/återstart är inte detsamma som kommersiella leveranser.
+
+**PRIMÄRKÄLLA – Lyten:** bolagets egen status om återstart och upptrappning är en partsuppgift. Den ska inte användas som belägg för försäljning, kundgodkända celler eller stabil serieproduktion.
+
+**Öppet:** faktisk cellvolym, kvalitetsgodkännande, kundnamn, leveransavtal, avkastning/yield, bemanning och när kommersiell produktion kan visas i data.
+
+Källa: Energivärlden, “Northvolt och Europas batterifabriker”, publicerad 7 oktober och uppdaterad 13 oktober 2026: https://www.energivarlden.se/artikel/europa-kraftsamlar-for-att-ta-taten-i-batteriracet/
