@@ -900,3 +900,15 @@ Den 4 november daterade tre republikanska House-ordförande ett brev till Jensen
 ### Utvidgad mineralregisterkontroll – 11 november 2026
 
 SGU:s API-sida `startIndex=50` har exportdatum **8 november 2026** och visar minst 28 ansökta undersökningstillstånd med ansökningsdatum under 2026, från 22 juni till 20 oktober. Urvalet omfattar bland annat Kiltivaara (Boliden, 9 333,7 ha), Stavaträsk (24 822,9 ha, guld), Sorvanen/Koutelis (KoBold; kobolt/koppar/REE), Yxsjöberg/Sandudden (NewPeak; beryllium/volfram/REE), Flenberget/Hålåberget (Nordmark; volfram) och Grängesberg nr 8/9 (apatit/järn/REE/vanadin/volfram). Samtliga är ansökta, inte beviljade. Kiltivaara-kartan publicerades separat 10 november. Full tabell och källstatus finns i PR #34 och journalen 11 november 06:48 EET.
+
+
+### Nytt granskningsutkast 11 november 2026 – RWE/KKR och Vanguard
+
+- **Ny artikel:** [PR #49 – RWE–KKR stänger £12 md i Vanguard-finansiering](https://github.com/selotisk-source/Folktribunalen/pull/49).
+- **Händelse 11 november:** RWE och KKR har slutfört 50:50-transaktionen och nått finansiell stängning för Vanguard West/East, cirka 2,8 GW och cirka £12 md total projektinvestering.
+- **Finansieringsstruktur enligt RWE:** 35 banker, £11,1 md kontantfaciliteter, £1,7 md kompletterande faciliteter, £1 md förbindelse från National Wealth Fund samt kreditstöd från Euler Hermes och EIFO. RWE beskriver projektfinansieringen som non-recourse. Detaljerade garanti- och säkerhetsvillkor är inte offentliggjorda i pressmeddelandet.
+- **Oberoende bekräftelse:** Reuters och brittiska regeringens pressmeddelande 11 november.
+- **Öppen källfråga:** DESNZ:s CfD-tabell listar 1 380 + 90 + 75 MW per projekt, medan RWE:s aktuella plan anger 1,4 GW per projekt och Vestas-orderna 92 × 15 MW = 1 380 MW. Skillnaden kräver förklaring; ingen slutsats om fel eller ytterligare kapacitet dras.
+- **Balansräkning:** RWE anger €17,0 md nettoskuld per 30 september och cirka €12 md vid årsslut, huvudsakligen på grund av avkonsolideringen av Vanguard efter joint venturet. Det betyder inte att RWE saknar fortsatt ekonomisk exponering; ägandet är fortsatt 50 procent.
+- **Status:** PR #49 är draft för chefredaktörens granskning. Inte mergad, inte publicerad och inte LIVE.
+- **Kontrolljournal 09:48 EET:** [editorial/research/2026-11-11-breaking-watch-0948.md](editorial/research/2026-11-11-breaking-watch-0948.md).
