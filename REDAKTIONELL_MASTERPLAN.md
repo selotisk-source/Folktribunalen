@@ -776,3 +776,8 @@ PR #40 har kompletterats med ett viktigt källstatusskifte: Reuters rapporterade
 ## 11 november 2026 kl. 02.00 – Cladonia/SCA: kapitalomallokering
 
 PR #4 har kompletterats med Fastighetsvärldens 19 oktober-uppgift om att SCA uppgett att de sammanlagt 240 mkr från de två transaktionerna använts till 4 000–5 000 ha produktiv, icke fjällnära skog närmare industri och terminaler. Detta är en partsuppgift återgiven av tidningen, inte verifierad spårning av kapital eller fullständig fastighetslista. Huvudpaketet anges till 235 mkr; separat tillstånd för Berg Storsjö 18:3 och 18:5 om cirka 300 ha anges till 5 mkr. Exakt totalareal kvarstår öppen tills registerutdrag har kontrollerats.
+
+
+## 11 november 2026 kl. 02.00 – USA:s kongress: ledarövergång
+
+PR #10 har kompletterats med att House Republicans valde Jim Jordan till partiets ledare i minoritet i nästa kongress med 106–73 den 10 november. Detta var en intern konferensomröstning, inte en plenarsalsomröstning eller ett tillträde före 3 januari 2027. Reuters uppger att senatsrepublikanerna återvalde John Thune genom acklamation. AP och Reuters används som oberoende bekräftelse.
