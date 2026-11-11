@@ -137,3 +137,6 @@ Källa: https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-fo
 
 
 **RWE Q1–Q3 2026 – primärkälla:** RWE redovisar 4,6 md EUR justerat EBITDA (+35%), 1,8 md EUR justerad nettovinst, 2,52 EUR justerad EPS och 10,7 md EUR nettoinvesteringar för januari–september. Nettoskulden var 17,0 md EUR den 30 september; bolaget räknar med cirka 12 md EUR vid årsslut, huvudsakligen genom avkonsolidering av Vanguard JV. RWE uppger även att man tilldelats kontrakt i tysk kapacitetsauktion för 2,5 GW nya kombinerade gas- och ångturbinkraftverk vid tre platser och att 13,5 GW kapacitet är under byggnation. Detta är kapacitet/projekt, inte redan levererad el. Primärkälla: https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-delivers-an-excellent-earnings-performance-in-the-first-three-quarters/
+
+
+**Kreditförsäkring – regulatorisk skillnad:** FT 11 november skiljer mellan europeiska/kanadensiska banker, där försäkring länge har använts för regulatorisk kapitallättnad, och amerikanska banker, som normalt inte får samma kapitaleffekt men kan frigöra intern utlåningskapacitet genom lägre projekt-/sektorexponering. Detta måste hållas isär från faktisk risköverföring och politisk-risk-/contract-frustration-skydd. Policyvillkor saknas. Källa: https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565
