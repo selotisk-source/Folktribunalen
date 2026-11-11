@@ -274,3 +274,28 @@ Detta är ett internt partibeslut om vem som ska leda den republikanska gruppen 
 
 **Öppet:** demokraternas ledarskapsval, slutlig certifiering av valresultat, utskottsfördelning och ordförandeposter efter den 3 januari. Jordans val är ett ledarskapsval inom partikonferensen, inte en formell omröstning om talmansposten.
 
+## Källuppdatering 11 november 2026 – H.Res.1655 och exportkontroll
+
+### Hegseth: 10 november var en hänvisningsomröstning, inte en impeachmentomröstning
+
+**PRIMÄRKÄLLA:** Representanthusets Clerk registrerar Roll Call 317 den 10 november 2026 som en omröstning om *On Motion to Refer* H.Res.1655 till Judiciary Committee. Resultatet blev 211–204, med 18 som inte röstade. Fördelningen var 210 republikanska ja, ett republikanskt nej, 203 demokratiska nej och ett oberoende ja.
+
+Detta var inte en omröstning om huruvida Peter Hegseth skulle ställas inför riksrätt och inte en prövning av de åtta anklagelsernas riktighet. Kammaren skickade resolutionen till utskottet och avstod därmed från en omedelbar sakomröstning. Hänvisningen avgör inte om utskottet kommer att behandla den vidare.
+
+**PRIMÄRKÄLLA:** https://clerk.house.gov/Votes/2026317  
+**OBEROENDE BEKRÄFTELSE:** Reuters, 10 november: https://www.reuters.com/world/us/us-house-votes-derail-impeachment-defense-secretary-hegseth-2026-11-10/  
+Associated Press, 10 november: https://apnews.com/article/87a78193502f716e6fb8eee5aef06ac0
+
+Den procedurmässiga betydelsen är att den republikanskt ledda 119:e kongressen valde att skjuta frågan till utskott i stället för att rösta om artiklarna. Den nya kongressen tillträder först den 3 januari 2027. Det är därför fel att beskriva den demokratiska valvinsten som redan utövad utskottsmakt.
+
+### NVIDIA: tvärpolitisk press om exportlicenser
+
+Den 9 november publicerade senatorerna Jim Banks (R) och Elizabeth Warren (D) ett gemensamt uttalande som kräver att handelsdepartementet omprövar NVIDIA:s exportlicenser till Kina och att AI Overwatch Act drivs in i NDAA. Detta är ett gemensamt politiskt uttalande, inte en antagen lag, ett utskottsbeslut eller ett offentliggjort myndighetsbeslut om att dra in licenser.
+
+**PRIMÄRKÄLLA:** Senate Banking Committee, 9 november: https://www.banking.senate.gov/newsroom/minority/warren-banks-statement-on-nvidias-continued-export-of-advanced-ai-chips-following-reports-of-foreign-intelligence-operation
+
+Den 10 november krävde senator Kevin Cramer (R), ledamot av Senate Banking Committee, att Jensen Huang skulle lämna posten som NVIDIA:s vd. Det är Cramers personliga uttalande till medier, inte ett ställningstagande från hela utskottet. Den påstådda underrättelsekopplingen är fortsatt baserad på medierapportering och har inte fastställts i en offentlig myndighetsrapport eller domstolshandling. NVIDIA:s styrelse säger att den inte har skäl att tro att bolagshemligheter eller nationell säkerhet har komprometterats och har inlett en oberoende intern utredning. Den separata granskningen behandlas i PR #47.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters om Cramers uttalande, 11 november: https://www.reuters.com/world/china/senior-republican-us-senate-banking-panel-calls-nvidia-ceo-huang-resign-2026-11-11/
+
+**Status:** Hegseth- och exportkontrolluppgifterna tillagda som nya procedur- och tillsynshändelser. Inga sakanklagelser mot Hegseth eller Huang betraktas som fastställda genom dessa omröstningar eller uttalanden. Draften är inte mergad eller publicerad.
