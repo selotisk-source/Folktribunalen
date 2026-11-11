@@ -64,13 +64,15 @@ De nya projekten omfattar flera delar av värdekedjan: åtta utvinningsprojekt, 
 
 | Land | Projekt | CRMA-klassificering | Material |
 |---|---|---|---|
+| Finland | CoNiKo – Cobalt and Nickel refining in Kokkola | Förädling | Kobolt och nickel (batterikvalitet) |
+| Finland | Hautalampi Cobalt-Nickel-Copper Mine Project | Utvinning | Kobolt, nickel och koppar |
 | Finland | Project Arctial | Förädling | Aluminium |
 | Finland | Sokli | Utvinning | Sällsynta jordartsmetaller för magneter |
 | Finland | Suhanko project | Utvinning | Koppar, nickel och platinagruppmetaller |
 | Sverige | Viscaria Copper Project | Utvinning | Koppar |
 | Bulgarien | Tankhouse Expansion Pirdop, Aurubis Bulgaria | Förädling | Koppar |
 
-Det är en viktig nordisk och regional karta. Arctial är ett aluminiumförädlingsprojekt, inte en ny gruva. Sokli är ett utvinningsprojekt med sällsynta jordartsmetaller för magneter som angivet strategiskt bidrag. Suhanko gäller koppar, nickel och platinagruppmetaller. Viscaria gäller kopparutvinning i Kiruna. I Bulgarien omfattar listan en expansion av Aurubis kopparförädling i Pirdop.
+Det är en viktig nordisk och regional karta. Finland har fem projekt i listan: CoNiKo är kobolt- och nickelförädling i Kokkola; Hautalampi är ett föreslaget kobolt-, nickel- och koppargruvprojekt i Outokumpu; Arctial gäller aluminiumförädling; Sokli gäller utvinning med sällsynta jordartsmetaller; och Suhanko gäller koppar, nickel och platinagruppmetaller. Viscaria gäller kopparutvinning i Kiruna. I Bulgarien omfattar listan en expansion av Aurubis kopparförädling i Pirdop.
 
 Dessa projekt är inte likvärdiga med varandra. De ligger i olika led av värdekedjan och har olika behov av råvaruförsörjning, el, vatten, transporter, miljöprövning och kapital.
 
