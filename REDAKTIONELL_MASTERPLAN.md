@@ -959,3 +959,7 @@ Nscale – kompletterande kapacitetsnotering, 11 november: FT:s rapport 5 novemb
 
 
 Nscale – finansieringsskillnaden i S-1, 11 november: SEC-prospektet anger upp till 44,6 md USD i Anthropic-avtal men säger att Nscale vid prospektdatumet 18 september saknade bindande finansieringsåtaganden för att finansiera leveransen. Prospektet redovisar 103,4 md USD aktivt och kontrakterat TCV men 2,6 md USD aktivt TCV; H1 2026-intäkter 140,6 m USD, nettoförlust 1,02 md USD och största kund 52 procent av H1-intäkterna. Den separata 3,1 md USD teckningsöverenskommelsen, med 1 md USD NVIDIA-del, får inte räknas som bevis för att Anthropic-finansieringen är säkrad. Källa: https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm
+
+
+### R – RWE Q1–Q3, 11 november 2026
+RWE:s primärmeddelande visar justerat EBITDA 4,6 md EUR (+35%), nettoinvesteringar 10,7 md EUR, nettoskuld 17,0 md EUR och prognos cirka 12 md EUR vid årsslut genom huvudsakligen Vanguard-avkonsolidering. RWE uppger också 2,5 GW nya kombinerade gas- och ångturbinkraftverk i tysk kapacitetsauktion och 13,5 GW under byggnation. PR #49 har fått en källuppdatering; avkonsolidering ska inte beskrivas som att RWE:s 50-procentiga ägarandel eller ekonomiska exponering försvinner. Källa: https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-delivers-an-excellent-earnings-performance-in-the-first-three-quarters/
