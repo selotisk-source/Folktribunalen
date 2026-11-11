@@ -889,10 +889,14 @@ Källor: https://clerk.house.gov/Votes/2026317 · https://www.reuters.com/world/
 
 ### Korrigering 11 november 2026 – SGU:s mineralansökningar
 
-Den tidigare journaltexten som angav SGU-export 1 november för Kiltivaara ska ersättas med **exportdatum 9 november 2026**. SGU:s öppna dataset visar tre relevanta ansökta poster: Isovinsa Aapua (Övertorneå, 171,2168 ha), Stekenjokk nr 9 (Strömsund/Vilhelmina, 1 691,5824 ha) och Kiltivaara nr 1001 (Gällivare, 9 333,6847 ha). Samtliga står som “Ansökt”; inget av dem är ett beviljat tillstånd eller en resursberäkning. Full källmatris finns i [kontrolljournalen 11 november 06:48 EET](editorial/research/2026-11-11-breaking-watch-0648.md) och granskningsutkastet PR #34.
+Den tidigare journaltexten som angav SGU-export 1 november för Kiltivaara ska ersättas med **exportdatum 8 november 2026**. SGU:s öppna dataset visar tre relevanta ansökta poster: Isovinsa Aapua (Övertorneå, 171,2168 ha), Stekenjokk nr 9 (Strömsund/Vilhelmina, 1 691,5824 ha) och Kiltivaara nr 1001 (Gällivare, 9 333,6847 ha). Samtliga står som “Ansökt”; inget av dem är ett beviljat tillstånd eller en resursberäkning. Full källmatris finns i [kontrolljournalen 11 november 06:48 EET](editorial/research/2026-11-11-breaking-watch-0648.md) och granskningsutkastet PR #34.
 
 Fullständig kontrollmatris och systemstatus för rundan 06:48 EET: [editorial/research/2026-11-11-breaking-watch-0648.md](editorial/research/2026-11-11-breaking-watch-0648.md).
 
 ### NVIDIA – House-brev och aktieägartalan, tillägg 11 november 2026
 
 Den 4 november daterade tre republikanska House-ordförande ett brev till Jensen Huang och begärde en sluten briefing den 18 november; svar eller alternativt datum begärdes senast 11 november. Brevet är en begäran, inte en subpoena. Den 9 november lämnades Kistenmacher v. NVIDIA, 5:26-cv-13448, Document 1, in i Northern District of California. Det är en föreslagen värdepappersklassaktion och en partsinlaga, inte en dom. NVIDIA:s oberoende styrelseledamöter meddelade 10 november att Joon H. Kim och Wachtell Lipton anlitats för utredningen. Full källkritik och dokumentlänkar finns i PR #47 och kontrolljournalen 11 november 06:48 EET.
+
+### Utvidgad mineralregisterkontroll – 11 november 2026
+
+SGU:s API-sida `startIndex=50` har exportdatum **8 november 2026** och visar minst 28 ansökta undersökningstillstånd med ansökningsdatum under 2026, från 22 juni till 20 oktober. Urvalet omfattar bland annat Kiltivaara (Boliden, 9 333,7 ha), Stavaträsk (24 822,9 ha, guld), Sorvanen/Koutelis (KoBold; kobolt/koppar/REE), Yxsjöberg/Sandudden (NewPeak; beryllium/volfram/REE), Flenberget/Hålåberget (Nordmark; volfram) och Grängesberg nr 8/9 (apatit/järn/REE/vanadin/volfram). Samtliga är ansökta, inte beviljade. Kiltivaara-kartan publicerades separat 10 november. Full tabell och källstatus finns i PR #34 och journalen 11 november 06:48 EET.
