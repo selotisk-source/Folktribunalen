@@ -86,9 +86,9 @@ Den 9 november publicerade senatorerna Jim Banks (R) och Elizabeth Warren (D) et
 
 ## Aktieägartalan: separat civilprocess, inga domstolsfynd
 
-Den 9 november 2026 lämnades en föreslagen värdepappersklassaktion in i U.S. District Court for the Northern District of California: **Kistenmacher v. NVIDIA Corporation et al., 5:26-cv-13448, Document 1**. Klagomålet är 17 sidor och riktar sig mot NVIDIA och Jensen Huang. Det åberopar Exchange Act §§10(b) och 20(a) samt SEC Rule 10b-5. Den föreslagna klassperioden är 9 oktober 2025–8 november 2026.
+Den 9 november 2026 lämnades en föreslagen värdepappersklassaktion in i U.S. District Court for the Northern District of California: **Kistenmacher v. NVIDIA Corporation et al., 5:26-cv-13448, Document 1**. Klagomålet riktar sig mot NVIDIA och Jensen Huang. Det åberopar Exchange Act §§10(b) och 20(a) samt SEC Rule 10b-5. Den föreslagna klassperioden är 9 oktober 2025–8 november 2026.
 
-Klaganden hävdar att bolagets och Huangs tidigare offentliga uttalanden om Megaspeed och om att kontakterna med dess företrädare var normala var materiellt vilseledande, eftersom de inte redovisade den påstådda personliga relationen och de påstådda säkerhets- och affärsriskerna. Det är **kärandens rättsliga teori**, inte en domstolsbedömning. Klagomålet säger självt att påståendena bygger på offentlig information och kärandens ombuds undersökning; domstolen har inte prövat sakfrågan, någon klass har inte certifierats och något svaromål har inte identifierats.
+Klaganden hävdar att bolagets och Huangs tidigare offentliga uttalanden om Megaspeed och om att kontakterna med dess företrädare var normala var materiellt vilseledande, eftersom de inte redovisade den påstådda personliga relationen och de påstådda säkerhets- och affärsriskerna. Det är **kärandens rättsliga teori**, inte en domstolsbedömning. Klagomålet anger självt att flera påståenden bygger på information och övertygelse samt kärandens ombuds undersökning av offentliga dokument; domstolen har inte prövat sakfrågan, någon klass har inte certifierats och något svaromål har inte identifierats.
 
 **PRIMÄRHANDLING – kopia av ingiven stämningsansökan, Document 1, filed 9 November 2026:**  
 https://www.hbsslaw.com/sites/default/files/case-downloads/nvda/2026-11-09-Complaint.pdf  
