@@ -90,3 +90,22 @@ För den europeiska energidebatten är jämförelsen med datacenterutbyggnaden r
 - RWE Annual Report 2025, avsnitt 2.4: projekten kan uppgå till 3,1 GW, medan 2,8 GW då var planerat: https://www.rwe.com/-/media/RWE/documents/05-investor-relations/finanzkalendar-und-veroeffentlichungen/2025-GJ/RWE-Annual-Report-2025.pdf
 
 **Redaktionell rekommendation:** Prioritera denna artikel som en ny granskning av hur Europas energiinfrastruktur finansieras. Publicera inte förrän de öppna frågorna om garantier, CfD-kapacitet och FID har fått tydliga svar eller markerats som obesvarade i den slutliga texten.
+
+
+## Källuppdatering – RWE:s Q1–Q3-resultat och tysk kapacitetsauktion, 11 november 2026
+
+**PRIMÄRKÄLLA – RWE:s delårsmeddelande:** RWE redovisar justerat EBITDA på **4,6 md EUR** för januari–september, upp 35 procent från 3,4 md EUR. Justerad nettovinst ökade till 1,8 md EUR och justerad vinst per aktie till 2,52 EUR. Bolaget anger att det efter nio månader nått cirka 85 procent av helårets EPS-mål och räknar med att helårsresultatet hamnar i den övre delen av prognosintervallet.
+
+**PRIMÄRKÄLLA – investeringar och skuld:** RWE redovisar **10,7 md EUR i nettoinvesteringar** under de första nio månaderna och **17,0 md EUR i nettoskuld** den 30 september. Bolaget räknar med cirka 12 md EUR i nettoskuld vid årsskiftet. RWE anger att den förväntade minskningen huvudsakligen beror på att Vanguard West och Vanguard East avkonsolideras efter JV-bildningen med KKR. Det är en förändring i redovisningsperimetern; RWE behåller 50 procents ägande och den ekonomiska exponeringen försvinner inte.
+
+**PRIMÄRKÄLLA – ny tysk gaskapacitet:** I den tyska kapacitetsauktionen tilldelades RWE kontrakt för nya kombinerade gas- och ångturbinkraftverk på sammanlagt **2,5 GW vid tre platser**. RWE uppger också att ytterligare **13,5 GW** kapacitet är under byggnation. Detta är kapacitets- och projektuppgifter, inte redan producerad el.
+
+**Oberoende kontroll:** Reuters rapporterade 11 november om resultatet och RWE:s starkare utsikter. RWE:s pressmeddelande är primärkälla för exakta resultat, investeringar, nettoskuld, auktionsutfall och Vanguard-avkonsolidering.
+
+**Redaktionell betydelse:** Vanguard-finansieringen ska läsas i en bredare portfölj där RWE samtidigt bygger ut havsvind, batterier, nät-/kapacitetsrelaterad infrastruktur och gasbaserad reglerbar effekt. Avkonsolideringen minskar den redovisade nettoskulden, men gör inte RWE:s ägarandel eller projektberoende irrelevant.
+
+**Källor**
+- RWE, 11 november 2026: https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-delivers-an-excellent-earnings-performance-in-the-first-three-quarters/
+- Reuters, 11 november 2026: https://www.reuters.com/business/energy/rwe-posts-9-month-core-earnings-above-expectations-favourable-conditions-2026-11-11/
+
+**Status:** Källuppdatering i öppet granskningsutkast; tidigare artikelgodkännande omfattar inte detta tillägg.
