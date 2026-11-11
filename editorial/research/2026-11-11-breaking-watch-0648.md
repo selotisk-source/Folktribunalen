@@ -68,6 +68,17 @@ Källor: https://unifil.unmissions.org/en/press-releases/unifil-statement-10-nov
 
 Källor: https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx · https://www.banking.senate.gov/newsroom/minority/warren-banks-statement-on-nvidias-continued-export-of-advanced-ai-chips-following-reports-of-foreign-intelligence-operation · https://www.reuters.com/world/china/senior-republican-us-senate-banking-panel-calls-nvidia-ceo-huang-resign-2026-11-11/ · https://apnews.com/article/68839e7ca6ba2b121529f7e475e501d6
 
+### F/P – NVIDIA:s styrelseutredning, House-brev och aktieägartalan
+
+- **PRIMÄRKÄLLA:** NVIDIA:s styrelse meddelade 8 november att den inleder en oberoende utredning; oberoende styrelseledamöter meddelade 10 november att Joon H. Kim och Wachtell, Lipton, Rosen & Katz anlitats. Ingen tidsplan eller fullständig rapporteringsplan har offentliggjorts.
+- **PRIMÄRKÄLLA:** Tre republikanska House-ordförande daterade 4 november ett brev till Huang och begärde en sluten gemensam briefing 18 november. Svar eller alternativt datum begärdes senast 11 november. Brevet är en begäran, inte en subpoena. Ingen offentlig acceptans har hittats per 06.48 EET.
+- **PRIMÄRHANDLING:** Kistenmacher v. NVIDIA Corporation et al., 5:26-cv-13448, Document 1, lämnades in 9 november i Northern District of California. Den föreslagna värdepappersklassaktionen åberopar Exchange Act §§10(b), 20(a) och Rule 10b-5. Klagomålet är en partsinlaga; ingen domstol har prövat sakfrågan, ingen klass är certifierad och inget svaromål har identifierats.
+- **PRIMÄRKÄLLA:** Banks/Warren-uttalandet 9 november om exportlicenser och AI Overwatch Act. **OBEROENDE RAPPORTERING:** Cramers personliga avgångskrav 10 november, rapporterat 11 november.
+- **OBEKRÄFTAD:** spioneri, informationsöverföring eller olaglig chipvidareexport. Offentlig avhemligad underrättelsehandling, exportlicensdata, BIS-åtgärd eller domstolsfynd har inte identifierats.
+- **Arbetsflöde:** PR #47 utökat; PR #10 uppdaterat med House-brevet och den separata aktieägartalan.
+
+Källor: https://investor.nvidia.com/news/press-release-details/2026/Statement-from-the-Independent-Members-of-the-NVIDIA-Board/default.aspx · https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.4.26nvidialetter.pdf · https://www.hbsslaw.com/sites/default/files/case-downloads/nvda/2026-11-09-Complaint.pdf
+
 ### P – Hegseth: House hänvisade resolutionen till utskott
 
 **Händelsedatum:** 10 november 2026.
