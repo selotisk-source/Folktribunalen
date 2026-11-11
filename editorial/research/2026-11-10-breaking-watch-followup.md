@@ -1233,3 +1233,12 @@ Ett separat granskningsutkast för Svarta havets maritima säkerhetshubb skapas 
 - **ÖPPET:** exakt vilka delar av bankversionen som var felaktiga; Anthropic har inte offentliggjort en korrigerande förklaring. Den offentliga S-1/A-2 bekräftar en separat villkorad privat placering om $26 md, men bankversionens övriga villkor får inte automatiskt behandlas som bekräftade.
 - **ARBETE:** PR #40 uppdaterad med särskilt avsnitt om dokumentförloppet. Draft kvarstår; ingen merge/publicering.
 - Källor: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm · https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/
+
+
+### 11 november 2026 kl. 02.00 – Cladonia/SCA: två transaktioner och säljarens omallokering
+
+- **OBEROENDE RAPPORTERING / PARTSUPPGIFT, 19 oktober:** Fastighetsvärlden skiljer mellan huvudpaketet om cirka 15 000 ha för 235 mkr (Berg Storsjö 12:9 och delar av ytterligare 14 fastigheter) och två fastigheter Berg Storsjö 18:3 och 18:5 om cirka 300 ha för 5 mkr, i separat förvärvstillstånd men vid samma tillfälle. Det är alltså inte belagt som ett senare fristående köp.
+- **PARTSUPPGIFT från SCA, återgiven av Fastighetsvärlden:** SCA uppger att de sammanlagt 240 mkr från de två transaktionerna använts till att köpa 4 000–5 000 ha produktiv skog som inte är fjällnära och ligger närmare industri/terminaler. Det är ett bolagsuttalande, inte oberoende verifierad spårning av betalningsflödet eller en offentlig fastighetslista.
+- **Källkritisk slutsats:** 235 mkr avser huvudpaketet; 5 mkr avser den separata 300-ha-affären; 240 mkr är den sammanlagda köpeskillingen enligt Fastighetsvärldens redovisning. Den exakta totalarealen ska inte anges som 15 300 ha förrän Lantmäteriets arealer och eventuell avrundning i 15 000-ha-uppgiften kontrollerats.
+- **Arbete:** PR #4 uppdaterad med SCA:s omallokering och skillnaden mellan 235/240 mkr. PR #4 är fortsatt draft.
+- Källa: https://www.fastighetsvarlden.se/notiser/palantirs-vd-kopt-ytterligare-i-harjedalen/
