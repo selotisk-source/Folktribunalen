@@ -485,3 +485,30 @@ Dessa poster får inte adderas och rubriceras som “skuld”. De har olika redo
 - Reuters, 10 november 2026: https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/
 
 **Öppet:** Slutligt IPO-pris, faktisk tilldelning/stängning, slutlig aktieklass och OpenAI-investeringens värdering, aktieantal och tidpunkt.
+
+
+## SpaceX och Apollo: cirka 40 miljarder dollar i planerad GPU-finansleasing
+
+**Händelsedatum:** 24 oktober 2026, då SpaceX enligt sin SEC-rapport undertecknade ett bindande åtagandebrev. **Publicerings-/inlämningsdatum:** 26 oktober 2026.
+
+**PRIMÄRKÄLLA – SpaceX Form 8-K, Item 8.01:** SpaceX åtog sig att ingå ett master finance lease-avtal med en enhet som förvaltas av Apollo Global Management. Leasinggivaren ska köpa GPU-poddar och tillhörande utrustning och leasa dem till SpaceX för datacenter som SpaceX väljer. SpaceX uppskattar de sammanlagda amorterings-/principalbetalningarna över respektive leasingperiod till cirka **40 miljarder dollar**. Utrustningen ska levereras i etapper; varje leasingplan väntas löpa cirka fem till fem och ett kvarts år. Hyra ska betalas kvartalsvis i förskott. Räntesatsen skulle fastställas vid prissättning före det slutliga master lease-avtalet.
+
+Detta är **inte** belägg för att SpaceX redan fått 40 miljarder dollar i kontanter eller att ett slutligt leasingavtal redan har stängts. Form 8-K säger att transaktionen är villkorad av vissa closing conditions, väntades stängas före årsskiftet 2026 och att leasingplanerna ska börja när GPU:erna levereras under första halvåret 2027. Dokumentet anger uttryckligen risken att transaktionen inte stängs på planerade villkor eller alls.
+
+**PRIMÄRKÄLLA – SpaceX:s investerarbesked, 26 oktober:** Bolaget säger att utrustningen ska omfatta nästa generations NVIDIA Vera Rubin-chip. SpaceX uppger att finansieringsgruppen leds av Apollo och Goldman Sachs; Goldman var enligt bolaget ensam struktureringsagent. SpaceX anger också ankarkapital från fonder/konton förvaltade av BlackRock, Goldman Sachs Asset Management och kapitalrådgivna konton hos KKR. Den detaljerade SEC-handlingen namnger däremot endast den Apollo-förvaltade leasinggivaren; de övriga finansieringsaktörernas roller återges därför som SpaceX:s egen partsuppgift.
+
+**OBEROENDE BEKRÄFTELSE – Reuters, 26 oktober 2026:** Reuters rapporterade om arrangemanget och dess avsedda användning för AI-chip och serverutrustning. Reuters rapporterade 4 november, med hänvisning till Bloomberg, att Apollo och Goldman sökte investerare för delar av finansieringen; Reuters sade då att det inte självständigt kunde verifiera den uppgiften. Den senare uppgiften ska därför inte behandlas som fastställd syndikering.
+
+**Redovisningsmässig avgränsning:** SEC-handlingen beskriver en planerad *finance lease* men avgör inte i sig hur SpaceX kommer att redovisa den slutliga transaktionen eller om någon del skulle hamna utanför balansräkningen. Utkastet drar därför ingen slutsats om off-balance-sheet-behandling. De cirka 40 miljarderna är förväntade principalbetalningar över leasingperioderna, inte en omedelbar kontantutbetalning och inte NVIDIA:s skuld.
+
+**Korskoppling till NVIDIA:** SpaceX-arrangemanget är separat från NVIDIA:s redovisade 36 miljarder dollar i AI-cloud agreements och från bolagets preliminära MOU-ambition om att mobilisera mer än 500 miljarder dollar i tredjepartskapital. Beloppen får inte summeras som om de vore samma typ av åtagande eller samma gäldenär.
+
+**Öppna kontrollpunkter:** slutligt master lease-avtal, faktisk stängning, ränta efter prissättning, leasinggivarens juridiska identitet, leveransplan per GPU-tranch, redovisningsnot i SpaceX:s nästa rapport och om de rapporterade ankarkapitalåtagandena fullföljs.
+
+Källor:
+- SpaceX Form 8-K, händelsedatum 24 oktober, inlämnad 26 oktober 2026: https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/tm2628247d1_8k.htm
+- SpaceX investerarbesked, 26 oktober 2026: https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx
+- Reuters, 26 oktober 2026: https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/
+- Reuters, 4 november 2026, återgivning av Bloomberg-uppgift med uttrycklig reservation om oberoende verifiering: https://www.reuters.com/legal/transactional/goldman-apollo-seek-buyers-40-billion-spacex-ai-chip-deal-bloomberg-news-reports-2026-11-04/
+
+**Nästa NVIDIA-kontroll:** bolagets Q3 FY2027-resultat och CFO-kommentar är planerade till 17 november 2026. SpaceX-leasen ska hållas separat från NVIDIA:s egna garantier, inköpsåtaganden och molnavtal.
