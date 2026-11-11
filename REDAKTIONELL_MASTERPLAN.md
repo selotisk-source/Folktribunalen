@@ -766,3 +766,8 @@ PR #3 Hormuz förblir den enda artikel som tidigare markerats som godkänd grund
 - **Oberoende korskontroll:** Reuters 10 november och AP 5 november. Ansvar för enskilda fartygsattacker hålls som obekräftat om inte offentlig forensisk attribution finns.
 - **Öppna frågor:** finansieringsinstrument/utbetalning, arbetsgruppens mandat och sammansättning, juridisk form, dataägande, åtkomststyrning, besluts- och ansvarskedja samt mätbara kriterier för operativ status 2027.
 - **Publiceringsstatus:** PR #46 är draft. Ingen merge, publicering eller LIVE-kontroll har skett.
+
+
+## 11 november 2026 kl. 02.00 – Anthropic IPO-dokumentförlopp
+
+PR #40 har kompletterats med ett viktigt källstatusskifte: Reuters rapporterade 10 november att en bankversion som cirkulerade 9 november med cirka 866,7 miljoner aktier och $70–80 återkallades som felaktig. Den offentliga SEC Form S-1/A-2, inlämnad 10 november, anger i stället 825 miljoner aktier och $70–78. Reuters kunde inte fastställa vilka uppgifter i bankversionen som var felaktiga. Den återkallade versionen används därför endast som dokumenthändelse; den offentliga SEC-handlingen är primärkälla för aktuella villkor. PR #40 är fortsatt draft, inte mergad eller publicerad.
