@@ -939,3 +939,14 @@ DANS är beställare; CAIS EOP och TED är offentliga upphandlingsregister; den 
 | R | 11 nov 05:14 | Statnett/regeringen 9 nov, EdgeConneX delstart, Lyten, Venture Global, Khor Mor/Zaporizjzja | Reuters/Norran och respektive myndighets-/bolagskällor enligt befintliga PR | Inga nya delta över notiströskeln i denna cykel; MW-stadier och partsuppgifter hålls åtskilda. |
 | S | 11 nov 05:14 | LKAB 3 nov; EU CRMA C(2026)8051; GTK/SGU/Posiva tidigare kontroller | Ingen oberoende LKAB-processdata | LKAB-demo i begränsad provdrift; Gällivare-tillstånd överklagat enligt LKAB. Onkalo kräver STUK:s slutkontroll. PR #34 uppdaterad. |
 
+
+
+---
+
+## Delta – 11 november 2026, 16:15 EET
+
+Ny fullcykelnotering för A–S: se [researchnoteringen 11 november 16:15](2026-11-11-breaking-watch-1615.md). Denna delta ersätter inte tidigare kontrollposter.
+
+**Viktigaste tillägg sedan föregående kontroll:** Palantirs Q3 10-Q visar att kommersiella intäkter för första gången i den aktuella kvartalsjämförelsen översteg myndighetsintäkterna, samtidigt som bolaget redovisar minst 5,6 md USD i molnhostingåtaganden till februari 2036. NVIDIA:s 10-Q redovisar 366 md USD i framtida åtaganden, separata 56 md USD i AI-cloud-/tredjepartsleaseåtaganden och 108,5 md USD i maximala garantier; dessa poster är inte en enda skuld. EU:s CRMA-lista omfattar fem finska projekt, Viscaria i Sverige och Aurubis Pirdop i Bulgarien. Onkalo har fått driftlicens men inväntar STUK:s driftsättningskontroll. EuroHPC:s nya anbudslänkar är nu publicerade; Lot 2 stänger 3 december 2026 och Lot 1 den 4 februari 2027. Senatens BAAJA går vidare genom en substitute amendment till H.R.2347; 62–21-rösten den 10 november var en motion to proceed, inte slutligt lagantagande. Jämtmassivet vid Enafors är ett tidigt batterilagerprojekt med olöst skillnad mellan 150 och 195 MW.
+
+**Status:** A, B, D, E, F, O, P, Q, R och S har substantiella uppdateringar eller nya primärdokument. C, G, K, N har viktiga kontrollnoteringar/öppna frågor. H, I, J, L och M passerade inte publiceringströskeln för en ny notis i denna cykel.
