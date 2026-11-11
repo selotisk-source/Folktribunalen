@@ -207,3 +207,25 @@ Primärhandlingar:
 - SGU, förbudsområden/förbudsår (öppet API, export 8 november 2026): https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-forbud/items?f=text%2Fhtml&limit=50&startIndex=0
 
 **Öppet:** hämta Bergmästarens ursprungliga beslut och eventuella ansökningar om förlängning; kontrollera om nya tillstånd sökts över samma område; gör en verifierad kartöverläggning mot Cladonia-fastigheterna och Sametingets säsongskartor. Ingen självständig nyhetsrapportering om just denna statusförändring identifierades.
+
+
+## LKAB:s demonstrationsanläggning i Luleå går in i provdrift
+
+**Händelsedatum:** operativ testning inleddes enligt LKAB den 3 november 2026. **Publiceringsdatum:** 3 november 2026.
+
+**PRIMÄRKÄLLA – LKAB:** Bolaget uppger att demonstrationsanläggningen i Luleå gått in i varm driftsättning och ska testa processer för att utvinna fosfor och samtliga 17 sällsynta jordartsmetaller ur restströmmar från järnmalmsproduktionen i Malmberget, Gällivare. LKAB anger att investeringsbeslutet för demonstrationsanläggningen var cirka 800 miljoner kronor, att byggstart skedde i början av 2025 och att anläggningen nu är färdig. Under de kommande månaderna ska driften ske i begränsad skala för att samla processdata och optimera tekniken.
+
+LKAB säger att regelbunden drift kan inledas under våren 2027 om testerna går enligt plan. Detta är en bolagsprognos, inte en bekräftad kommersiell produktionsstart. Bolaget uppger också att det fullskaliga industriparksprojektet i Luleå fick miljötillstånd i maj 2026, medan ett separat tillstånd kopplat till fortsatt verksamhet och planerad apatitfabrik i Gällivare har överklagats efter beslut i juni.
+
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende teknisk resultatrapport, verifierad produktionsvolym, haltanalys eller extern processrevision har identifierats i denna kontroll. Uppgifterna om färdigställande, kostnad och kommande drift är därför fortsatt partsuppgifter.
+
+**Geografisk och industriell kedja:** LKAB beskriver en planerad kedja där apatitkoncentrat från Gällivare transporteras till Luleå för vidare framställning av sällsynta jordartsmetaller, fosfor och gips. Detta är en planerad värdekedja; den begränsade demonstrationsdriften är ännu inte liktydig med fullskalig förädling eller kommersiell produktion.
+
+**Avgränsning mot CRMA-listan:** LKAB uppger att bolagets framtida investeringar redan har fått strategisk projektstatus enligt CRMA. Demonstrationsanläggningen ska dock inte blandas ihop med de 46 nya projekt som kommissionen beslutade om den 9 oktober 2026; LKAB:s Luleåprojekt finns inte upptaget i den nya 46-projektsbilagan.
+
+**Artikelvinkel:** Den nordiska råvarukedjan kan börja med restströmmar från befintlig järnmalmsproduktion snarare än en helt ny gruva. Den avgörande frågan är om demonstrationsresultat, tillstånd och finansiering kan omsättas i faktisk europeisk produktion.
+
+Källor:
+- LKAB, 3 november 2026: https://news.cision.com/lkab/r/lkab-takes-the-next-step-in-its-critical-minerals-initiative,c4418674
+- EU-kommissionens beslut C(2026)8051 och bilaga, 9 oktober 2026: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
+
