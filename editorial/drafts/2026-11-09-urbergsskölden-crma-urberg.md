@@ -229,34 +229,48 @@ Källor:
 - LKAB, 3 november 2026: https://news.cision.com/lkab/r/lkab-takes-the-next-step-in-its-critical-minerals-initiative,c4418674
 - EU-kommissionens beslut C(2026)8051 och bilaga, 9 oktober 2026: https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
 
-## Källuppdatering 11 november 2026 – tre ansökta undersökningstillstånd i SGU:s export 9 november
+## Källuppdatering 11 november 2026 – prospekteringsvågen i SGU:s export 8 november
 
-SGU:s öppna API-export med datum **9 november 2026** visar tre relevanta ansökta undersökningstillstånd i norra Sverige. Det är ansökningar i registret, inte beviljade tillstånd eller beslut om gruvdrift:
+SGU:s öppna API-dataset `ut-metaller-industrimineral-ansokta` visar i sin andra 50-postersida **minst 28 ansökta undersökningstillstånd med ansökningsdatum under 2026**, från 22 juni till 20 oktober. Datasetets `export_date` för dessa poster är **8 november 2026**. Detta är ett registerutdrag, inte 28 nya fynd och inte 28 beviljade tillstånd.
 
-| Ansökan | Sökande | Ansökningsdatum | Areal | Kommun/län | Sökta metaller | Status i SGU |
+Några representativa poster i exporten:
+
+| Område | Sökande | Ansökningsdatum | Areal | Kommun/län | Sökta metaller/mineral | Status |
 |---|---|---|---:|---|---|---|
 | Isovinsa Aapua | Privat sökande | 22 juni 2026 | 171,2168 ha | Övertorneå, Norrbotten | guld, järn, koppar, lantanider, skandium, yttrium | Ansökt |
-| Stekenjokk nr 9 | Vilhelmina Mineral AB | 24 juni 2026 | 1 691,5824 ha | Strömsund och Vilhelmina, Jämtland/Västerbotten | bly, guld, koppar, silver, zink | Ansökt |
+| Stekenjokk nr 9 | Vilhelmina Mineral AB | 24 juni 2026 | 1 691,5824 ha | Strömsund/Vilhelmina | bly, guld, koppar, silver, zink | Ansökt |
 | Kiltivaara nr 1001 | Boliden Mineral AB | 2 juli 2026 | 9 333,6847 ha | Gällivare, Norrbotten | guld, koppar, molybden, silver | Ansökt |
+| Sorvanen nr 100 / Koutelis nr 100 | KoBold Exploration Sweden AB | 19 aug 2026 | 812,4811 / 215,4971 ha | Gällivare, Norrbotten | guld, järn, kobolt, koppar, lantanider, silver, skandium, yttrium | Ansökt |
+| Viscaria nr 124 | Viscaria Kiruna AB | 11 aug 2026 | 1 841,8484 ha | Kiruna, Norrbotten | koppar | Ansökt |
+| Yxsjöberg nr 201 / Sandudden nr 2 | NewPeak Sweden Oy | 9 okt 2026 | 989,8316 / 344,5747 ha | Ljusnarsberg/Ludvika | beryllium, koppar, lantanider, skandium, volfram, yttrium | Ansökt |
+| Flenberget 100 / Hålåberget 1 | Nordmark Exploration AB | 12 okt 2026 | 116,3302 / 479,8000 ha | Mora, Dalarna | volfram | Ansökt |
+| Grängesberg nr 9 / nr 8 | Grängesberg Iron AB | 14 sep / 11 okt 2026 | 402,5690 / 97,9102 ha | Ljusnarsberg/Ludvika | apatit, järn, lantanider, skandium, tenn, vanadin, volfram, yttrium | Ansökt |
+| Stavaträsk nr 112 | Elemental Exploration Scandinavia AB | 21 aug 2026 | 24 822,8633 ha | Skellefteå/Piteå | guld | Ansökt |
+| Nasafjäll nr 1001 / Bjurbäcksliden nr 1001 | Growthrock AB / Kodiak Minerals AB | 20 okt 2026 | 757,5850 / 2 207,1709 ha | Arjeplog / Lycksele | bly, guld, koppar, silver, zink | Ansökt |
 
-**PRIMÄRKÄLLA:** SGU:s öppna data, samlingen `ut-metaller-industrimineral-ansokta`, exportdatum 9 november 2026:  
+Tabellen är ett urval, inte en fullständig lista. Den andra API-sidan innehåller även bland annat Nautanen nr 1016, Kiirunavaara nr 17, Liikavaara nr 1058, Svansele nr 1, Sorseleskogen nr 777, Dals nr 107, Marsgruvan nr 2, Majva nr 777 och Högtjärn nr 101.
+
+**PRIMÄRKÄLLA:** SGU:s öppna data, `ut-metaller-industrimineral-ansokta`, sida `startIndex=50`, exportdatum 8 november 2026:  
 https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-ansokta/items?f=text%2Fhtml&limit=50&startIndex=50
 
-Bergsstaten publicerade dessutom den **10 november 2026** en kartbilaga till underrättelsen om Kiltivaara nr 1001. Det är en separat dokumenthändelse efter att ansökan lämnades in den 2 juli. Kartbilagan innebär inte att tillståndet har beviljats.
+Bergsstaten publicerade dessutom den **10 november 2026** en kartbilaga till underrättelsen om Kiltivaara nr 1001. Ansökningsdatumet är 2 juli; kartbilagans publiceringsdatum är 10 november. Den är inte ett beviljat tillstånd.
 
-**PRIMÄRKÄLLA:** Bergsstaten, aktuella händelser/kartor till underrättelse om Kiltivaara nr 1001: https://www.sgu.se/bergsstaten/aktuella-handelser/
+**PRIMÄRKÄLLA:** Bergsstaten, aktuella händelser/kartor till underrättelse om Kiltivaara nr 1001:  
+https://www.sgu.se/bergsstaten/aktuella-handelser/
 
-### Vad som är nytt – och vad som inte är bevisat
+### Vad exporten visar – och inte visar
 
-- **Nytt i den offentliga datavyn:** exporten den 9 november gör de tre ansökningarna synliga i SGU:s aktuella dataset. Händelsedatumen för ansökningarna är däremot 22 juni, 24 juni och 2 juli.
-- **Inte beviljat:** samtliga tre poster har status “Ansökt”. Ingen av dem ska beskrivas som ett beviljat undersökningstillstånd, en bearbetningskoncession eller en gruva.
+- **Registermönster:** ett stort antal ansökta områden med koppar, guld, grafit, litium/tantal i äldre poster, lantanider, skandium, volfram, beryllium, kobolt och andra metaller. Det visar prospekteringsintresse, inte en färdig svensk råvaruresurs.
+- **Inte beviljat:** de 2026-poster som redovisas här har status “Ansökt”. Inga av dem ska beskrivas som beviljade undersökningstillstånd, bearbetningskoncessioner eller gruvor.
 - **Inte en resursberäkning:** registrerade metaller och ansökt areal bevisar inte att en ekonomiskt utvinningsbar fyndighet finns.
-- **Ingen oberoende bekräftelse av fyndighet:** ingen separat geologisk resursrapport eller oberoende analys som styrker kommersiell potential har identifierats i denna kontroll.
+- **Oberoende belägg:** ingen oberoende resursrapport som styrker kommersiell potential har identifierats för de ansökta områdena i denna kontroll.
 
 ### Geografisk nästa kontroll
 
-Jämför respektive officiella polygon med offentliga lager för samebyar/renskötsel, Natura 2000, vattenskydd, naturreservat, fornminnen, befintliga undersökningstillstånd och kommunal markanvändning. Inga påståenden om överlapp eller intrång görs innan polygonerna har kontrollerats mot respektive officiellt kartlager.
+Ladda ned och jämför respektive officiell polygon med offentliga lager för samebyar/renskötsel, Natura 2000, vattenskydd, naturreservat, fornminnen, befintliga undersökningstillstånd och kommunal markanvändning. Särskilt viktiga geografiska kluster i denna export är Gällivare/Kiruna/Arjeplog i Norrbotten, Övertorneå, Strömsund/Vilhelmina, Skellefteå/Piteå samt Ljusnarsberg/Ludvika/Mora.
 
-**Artikelvinkel:** De tre ansökningarna visar en pågående prospekteringsaktivitet i Norrbotten, Jämtland och Västerbotten – men den offentliga skillnaden mellan ansökan, beviljat tillstånd, geologisk resurs och kommersiell reserv måste stå i centrum.
+Inga påståenden om överlapp, intrång eller lokal opposition görs innan polygonerna har kontrollerats mot respektive officiellt kartlager och samrådshandlingar.
+
+**Artikelvinkel:** Den svenska prospekteringsvågen är synlig i myndighetsregistret långt innan den blir gruvproduktion. Vem söker vilka metaller, över vilka arealer, och vilka rättighets-, natur- och vattenintressen berörs innan ett tillstånd ens är beviljat?
 
 **Status:** källuppdatering till befintligt granskningsutkast. Inte mergat eller publicerat.
