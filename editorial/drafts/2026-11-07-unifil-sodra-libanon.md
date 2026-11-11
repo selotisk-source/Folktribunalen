@@ -171,3 +171,20 @@ Maronitpatriarken Beshara Rai sade söndagen 8 november att han mottagit brevet 
 6. Skilj UNIFIL:s mandatavslut från den ettåriga neddragningen; skriv inte att all FN-närvaro upphör den 31 december 2026.
 
 **Status:** Utkastet kompletterat med lokal vädjan och kyrkobyggnadsspår. Inte godkänt för publicering. Originalbrevet och lokal dokumentation återstår.
+
+## Källuppdatering 11 november 2026 – skottlossning vid Wadi Jilu
+
+**Händelsedatum:** 10 november 2026, kväll.  
+**PRIMÄRKÄLLA:** UNIFIL uppger att en rutinpatrull nära Wadi Jilu besköts med omkring ett dussin skott. Efter att patrullen identifierat ett mynningsblänk besvarade den elden; skytten upphörde därefter. Ingen fredsbevarare skadades. UNIFIL har inte identifierat skytten eller angett från vilken position skotten kom och har uppmanat Libanons regering att snabbt utreda händelsen.
+
+**PRIMÄRKÄLLA:** UNIFIL:s uttalande 10 november: https://unifil.unmissions.org/en/press-releases/unifil-statement-10-november-2026
+
+**OBEROENDE BEKRÄFTELSE – begränsad:** Anadolu och ANSA rapporterade samma kväll och återger UNIFIL:s uttalande. De är oberoende redaktioner men tillför inte en separat ögonvittnes- eller teknisk verifiering av händelsen:
+- https://www.aa.com.tr/en/middle-east/un-peacekeepers-come-under-fire-in-southern-lebanon-mission-says/4119542
+- https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/unifil-nostra-pattuglia-bersagliata-da-colpi-nessun-soldato-ferito_3a96a44f-3dbb-4d23-8b84-8a17f5c22655.html
+
+**Varför det spelar roll:** incidenten inträffar när UNIFIL:s ordinarie mandat närmar sig slutdatumet den 31 december 2026 och frågan om en efterföljande säkerhetsordning fortfarande är olöst. Den ska hållas åtskild från UNIFIL:s rapport om israeliska luftangrepp, artilleribanor och ingenjörsarbeten den 5–8 november. Den visar inte vem som sköt, och den ger inget belägg för att en viss väpnad grupp låg bakom.
+
+**Öppet:** Libanons regerings utredning, eventuell identifiering av skytten, platsens exakta händelseförlopp och om incidenten påverkar patrullering eller lokala rörelser. Inga slutsatser dras om ansvarig aktör innan utredningsmaterial finns.
+
+**Status:** ny incident införd i granskningsutkastet. Inte mergat, inte publicerat.
