@@ -128,3 +128,6 @@ Källor:
 **Faktagräns:** Detta är en Saab-order inom Training and Simulation, inte en Gripen-beställning, flygplansleverans eller bekräftelse på ny operativ flygförmåga.
 
 Källa: https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-for-advanced-live-training-systems-from-denmark
+
+
+**Kapacitetsprecisering – Texas:** FT:s rapport 5 november säger att den tidigare omtalade Microsoft-optionen först beskrevs som 700 MW men senare preciserades av Nscale till cirka 500 MW vid Nscales egen anläggning. FT beskriver dessutom ett separat Microsoft-avtal på cirka 240 MW vid en angränsande Ionic Digital-anläggning. Det är inte en uppsägning av befintlig Nscale-kapacitet. Nscale uppges behöva hitta andra kunder för den extra kapaciteten; elförsörjningen för återstående Ionic-kapacitet var enligt FT ännu inte säkrad. Avtal och nätanslutningshandlingar saknas. Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
