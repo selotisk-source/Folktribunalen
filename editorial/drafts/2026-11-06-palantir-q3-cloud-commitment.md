@@ -424,3 +424,30 @@ Upphandlingsuppgiften gäller ett femårigt Foundry-avtal med ett rapporterat v�
 **Öppet NHS-spår:** någon offentlig myndighetshandling som bekräftar den rapporterade tvååriga förlängningen av FDP-avtalet har fortfarande inte identifierats. Den ska fortsatt beskrivas som medierapportering, inte som fattat beslut.
 
 **Status:** nytt CISA-avsnitt tillagt i befintligt granskningsutkast. Ingen merge eller publicering.
+
+
+## Källuppdatering 11 november 2026 – lång molnförpliktelse och fler myndighetsbeställningar
+
+### Minst 5,6 md USD till en tredje parts molninfrastruktur
+
+**PRIMÄRKÄLLA – Palantir Form 10-Q, publicerad 3 november 2026:** i mars 2026 ändrade Palantir ett avtal om tredjeparts molnhosting. Bolaget har åtagit sig att spendera minst **5,6 md USD** över tio avtalsår till och med **29 februari 2036**. Årliga minimibelopp varierar mellan **268 mn och 979 mn USD**. Leverantören namnges inte i noten. Tidigare betalningsåtaganden enligt det ändrade avtalet upphörde när ändringen skrevs under.
+
+**Redaktionell betydelse:** Palantirs plattformar är inte bara en fråga om myndighetskontrakt och algoritmer. De är också beroende av långvarig extern molnkapacitet. Den ekonomiska frågan är vem som kontrollerar hostingmiljön, hur data kan flyttas, vilka exitkostnader som gäller och vad som händer om kapacitet, pris eller leverantörsvillkor förändras. 5,6 md USD är ett minimiåtagande över tid, inte en omedelbar skuld eller en betalning till en myndighet.
+
+### Nya offentliga award-poster – tre olika myndighetsmiljöer
+
+**PRIMÄRKÄLLA – U.S. Army, 17 september 2026:** ett kontrakt på cirka **48,1 mn USD** tilldelades Palantir för modernisering av ammunition management. Armén beskriver en tolvmånaders basperiod med fem optionsår och en avsikt att ersätta nio äldre system. Detta är en kontraktstilldelning; den visar inte att migrering, driftsättning eller operativ effekt redan är uppnådd.
+
+**PRIMÄRKÄLLA – USAspending, 29 september 2026:** HHS/National Clinical Cohort Collaborative (N3C) tilldelade en beställning på cirka **9,7 mn USD** för en Trusted Research Environment. Detta är ett hälsodata-/forskningsspår, inte belägg för kliniska beslut som fattas av Palantir.
+
+**PRIMÄRKÄLLA – USAspending, 28 september 2026:** CISA inom DHS har en separat SaaS-beställning på cirka **32,1 mn USD**. Den ska inte sammanblandas med ICE:s migrationsärenden eller med andra DHS-kontrakt. De kontrollerade award-posterna visade inga utbetalningar vid kontrolltillfället; ett obligationsbelopp eller en tilldelning är inte bevis för att ett system är driftsatt eller att personuppgifter redan behandlas i produktion.
+
+**Källstatus:** USAspending-posterna är primära federala award-register. Fullständiga statement of work, DPIA, datakällor, användarlistor, databehandlingsvillkor och driftbevis har inte lokaliserats i denna kontroll. Oberoende bekräftelse av faktisk användning saknas därför.
+
+Källor:
+- Palantir Form 10-Q, 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+- U.S. Army ammunition management award, 17 september 2026: https://www.army.mil/article/295461/u_s_army_awards_contract_to_modernize_ammunition_management
+- HHS/N3C award record: https://www.usaspending.gov/award/CONT_AWD_7571TE26F66007_7571_75P00122A00010_7570
+- DHS/CISA award record: https://www.usaspending.gov/award/CONT_AWD_70RCSJ26FC0000028_7001_70RTAC26A00000001_7001
+
+**Öppna frågor:** leverantörsnamn och exitvillkor i det ändrade molnavtalet; fullständigt Army statement of work; HHS N3C:s datakategorier, åtkomstroller och forskningsvillkor; CISA-avtalets omfattning, användare och utbetalningsstatus. Ingen av dessa award-poster bevisar att Palantir fattar myndighetsbeslut i egen rätt.
