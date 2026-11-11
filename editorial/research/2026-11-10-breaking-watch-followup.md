@@ -1242,3 +1242,11 @@ Ett separat granskningsutkast för Svarta havets maritima säkerhetshubb skapas 
 - **Källkritisk slutsats:** 235 mkr avser huvudpaketet; 5 mkr avser den separata 300-ha-affären; 240 mkr är den sammanlagda köpeskillingen enligt Fastighetsvärldens redovisning. Den exakta totalarealen ska inte anges som 15 300 ha förrän Lantmäteriets arealer och eventuell avrundning i 15 000-ha-uppgiften kontrollerats.
 - **Arbete:** PR #4 uppdaterad med SCA:s omallokering och skillnaden mellan 235/240 mkr. PR #4 är fortsatt draft.
 - Källa: https://www.fastighetsvarlden.se/notiser/palantirs-vd-kopt-ytterligare-i-harjedalen/
+
+
+### 11 november 2026 kl. 02.00 – USA:s kongress: republikansk ledarövergång
+
+- **HÄNDELSE/PUBLICERING 10 NOVEMBER – OBEROENDE BEKRÄFTELSE:** Republikanerna i representanthuset valde Jim Jordan till ledare för partiet i minoritet i nästa kongress, 106–73 mot Steve Scalise, i sluten konferensomröstning. AP uppger även att Tom Emmer valdes till whip och Lisa McClain behöll conference chair. Reuters rapporterar att senatsrepublikanerna återvalde John Thune genom acklamation.
+- **INSTITUTIONELL AVGRÄNSNING:** Detta är partikonferensens val inför 120:e kongressen, inte en omröstning i representanthusets plenisal och inte ett tillträde i den nuvarande kongressen. Ny kongress tillträder 3 januari 2027.
+- **ARBETE:** PR #10 kompletterad med ledarövergången och källor. PR #10 är fortsatt draft.
+- Källor: https://apnews.com/article/9452bdcf8c16ba84b44fe537ebce0de8 · https://www.reuters.com/world/us/week-after-huge-election-losses-republicans-choose-their-leaders-congress-2026-11-10/
