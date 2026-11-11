@@ -940,3 +940,6 @@ Ny kontrolljournal: [2026-11-11-breaking-watch-1353.md](editorial/research/2026-
 
 ### Q – Saab/Danmark, 11 november 2026
 Saab meddelade en order på 350 m SEK från danska DALO för ytterligare live-träningsutrustning till CV90, inklusive drönar- och icke-siktlinjeträning, med leveranser 2026–2028. Detta är en Training and Simulation-order, inte en Gripen-order. PR #12:s Gripen-status ändras därför inte. Källa: https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-for-advanced-live-training-systems-from-denmark
+
+
+Nscale – kompletterande kapacitetsnotering, 11 november: FT:s rapport 5 november preciserar den uteblivna Texas-optionen till cirka 500 MW vid Nscales egen anläggning, efter att 700 MW tidigare nämnts. FT skiljer detta från ett separat Microsoft-avtal om cirka 240 MW vid en angränsande Ionic Digital-anläggning. Befintligt Nscale-avtal uppges inte vara påverkat. Offentliga avtals- och nätanslutningshandlingar saknas. Källa: https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8
