@@ -1183,3 +1183,44 @@ Källa: https://projekt.statkraft.se/mittlagan/fragor-och-svar-om-projekt-mittla
 - **PR #16:** denna täckningsmatris och delta-logg uppdateras på den befintliga granskningsgrenen.
 
 Ingen artikel har mergats eller publicerats i denna cykel. Alla nya artiklar och tillägg ligger kvar i granskningsläge.
+
+
+## 11 november 2026 kl. 02.00 Europe/Sofia – Svarta havets maritima säkerhetshubb
+
+### Nytt sedan föregående kontroll
+
+**HÄNDELSE/PUBLICERING 10 NOVEMBER 2026 – PRIMÄRKÄLLA:** Europeiska kommissionens pressbriefing den 10 november preciserar genomförandemodellen för Black Sea Maritime Security Hub. En gemensam arbetsgrupp mellan Bulgarien och Rumänien ska ta fram ett integrerat koncept och en arbetsplan med konkreta leveranser och tidsfrister. Kommissionen anger upp till 50 miljoner euro i finansiering och målet att hubben ska vara operativ under 2027.
+
+**NY OPERATIV GEOGRAFI – PRIMÄRKÄLLA:** Kommissionens uppföljande briefing den 10 november anger att hubben samordnas av Bulgarien och Rumänien och är tänkt att verka över kust- och marina anläggningar i Varna och Constanța samt med integration av en flygbas i Rumänien. Briefingen namnger inte flygbasen och klargör inte om hubben ska ha en fysisk central, gemensam personal eller en distribuerad nätverksmodell. Inga känsliga anläggningsdetaljer förs in i bevakningen.
+
+**STRUKTURELL RAM – PRIMÄRKÄLLA:** EU:s gemensamma genomföranderapport JOIN(2026) 15 final, 3 juli 2026, beskriver hubben som en regionalt ägd, civilledd och interinstitutionell samarbetsnätverksstruktur, gemensamt initierad och koordinerad av Bulgarien och Rumänien med EU-stöd. Den ska integrera maritim lägesbild, övervakningsdata och informationsutbyte, med interoperabilitet mot EU:s Common Information Sharing Environment (CISE) via EMSA. Rapporten nämner initialt samarbete med Turkiet, Ukraina och Moldavien samt samordning med Odesas Joint Maritime Security Centre.
+
+**VIKTIG AVGRÄNSNING – PRIMÄRKÄLLA:** MCM BLACK SEA, den trilaterala minröjningsgruppen mellan Bulgarien, Rumänien och Turkiet, är en separat struktur. Bulgariens försvarsministerium dokumenterar den tolfte aktiveringen från Varna den 7 oktober 2026. EU-rapporten beskriver MCM BLACK SEA som det primära skyddet mot drivande minor; den nya hubben ska komplettera regional lägesbild och interinstitutionell samordning, inte ersätta minröjningsgruppen.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade den 10 november om kommissionens finansieringslöfte och den regionala bakgrunden. AP:s rapportering den 5 november dokumenterar den ökade risken för kommersiell sjöfart och räddningsinsatser nära Bulgarien och Rumänien. Bulgariens regering uppgav den 29 oktober att videomaterial och annan bevisning om fartygsattacker delats med allierade för teknisk granskning; ansvar för enskilda incidenter ska därför fortsatt anges som obekräftat tills forensisk attribution publiceras.
+
+### Källklassificering och öppna frågor
+
+- **PRIMÄRKÄLLA:** Europeiska kommissionen, EC Midday press briefing, 10 november 2026, Black Sea Maritime Security Hub Q&A, media-ID I-297107.
+- **PRIMÄRKÄLLA:** Europeiska kommissionen, uppföljande Q&A 10 november 2026, media-ID I-297544.
+- **PRIMÄRKÄLLA:** Joint Report JOIN(2026) 15 final, 3 juli 2026, EUR-Lex CELEX 52026JC0015.
+- **PRIMÄRKÄLLA:** Bulgariens ministerråd, program för mötet mellan Rumen Radev och Ursula von der Leyen i Varna, 10 november 2026.
+- **PRIMÄRKÄLLA:** Bulgariens försvarsministerium, tolfte aktiveringen av MCM BLACK SEA, 7 oktober 2026.
+- **OBEROENDE BEKRÄFTELSE:** Reuters, 10 november 2026; Associated Press, 5 november 2026.
+- **ÖPPET:** exakt finansieringsinstrument och utbetalningsplan för de upp till €50 miljonerna; arbetsgruppens mandat och deltagare; juridisk form; dataskydd och åtkomststyrning; vilka data som delas via CISE/EMSA; hur hubben fördelar ansvar mellan civila myndigheter och marina aktörer; vilka länder som deltar i första driftfasen; samt mätbara kriterier för att nå operativ status 2027.
+- **ATTRIBUTION:** Rumänska och ukrainska uttalanden om rysk inblandning i enskilda attacker redovisas som partsuppgifter om de inte stöds av offentlig forensisk bevisning. Bulgarien har uttryckligen efterfrågat tydlig bevisning. Rysslands förnekanden ska återges när ansvar diskuteras.
+
+### Redaktionell vinkel
+
+**Från Varna till Constanța: EU bygger en civil maritim lägesbild – men vem äger informationen och vem fattar besluten?** Artikeln ska förklara skillnaden mellan en civilledd informations- och samverkanshubb, NATO:s regionala säkerhetsroll, MCM BLACK SEA:s minröjningsuppdrag och Odesas JMSC. Den ska granska finansiering, dataansvar, mandat, insyn och ansvarskedja innan hubben når operativ status.
+
+### A–S-matris – ändring
+
+- **O. Hormuz/sjöfart:** lägg till ett separat delspår för Svarta havet; blanda inte incidenter, fartygslistor eller riskpremier med Hormuz.
+- **G. Libanon och regional geopolitik:** ingen ny Libanonhändelse i denna kontroll; fortsatt separat bevakning.
+- **Q. Europeisk säkerhet:** korsreferens till EU:s civila maritima säkerhetssamordning, men håll detta åtskilt från Saab/Gripen och försvarsmaterielkontrakt.
+- **B/R/S:** följ hubbens koppling till hamnar, energi- och undervattensinfrastruktur samt civil beredskap; publicera endast offentliga, icke-känsliga geografiska uppgifter.
+
+### Arbetsflöde
+
+Ett separat granskningsutkast för Svarta havets maritima säkerhetshubb skapas i PR #46. Det är draft och kräver chefredaktörens godkännande. Ingen merge, publicering eller LIVE-ändring görs i denna kontroll.
