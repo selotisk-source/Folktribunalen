@@ -1224,3 +1224,12 @@ Ingen artikel har mergats eller publicerats i denna cykel. Alla nya artiklar och
 ### Arbetsflöde
 
 Ett separat granskningsutkast för Svarta havets maritima säkerhetshubb skapas i PR #46. Det är draft och kräver chefredaktörens godkännande. Ingen merge, publicering eller LIVE-ändring görs i denna kontroll.
+
+
+### 11 november 2026 kl. 02.00 – Anthropic: återkallad bankversion och offentlig SEC-version
+
+- **HÄNDELSE 9 NOVEMBER / PUBLICERING 10 NOVEMBER – OBEROENDE BEKRÄFTELSE:** Reuters rapporterade att en Anthropic-representant skickade banker en prospektkopia med cirka 866,7 miljoner Class A-aktier till $70–80 och upp till $69,3 md i bruttoinflöde. En uppföljande e-post sade att prisuppgifterna var felaktiga och att en uppdaterad handling skulle komma. Reuters kunde inte avgöra vilka uppgifter som var felaktiga.
+- **PRIMÄRKÄLLA 10 NOVEMBER:** SEC Form S-1/A-2 anger 825 miljoner Class A-aktier till $70–78, varav 801 351 354 nyemitterade och 23 648 646 sekundära. Det är den offentliga prospektversionen som ska användas. Bankversionen ska endast redovisas som en återkallad dokumenthändelse.
+- **ÖPPET:** exakt vilka delar av bankversionen som var felaktiga; Anthropic har inte offentliggjort en korrigerande förklaring. Den offentliga S-1/A-2 bekräftar en separat villkorad privat placering om $26 md, men bankversionens övriga villkor får inte automatiskt behandlas som bekräftade.
+- **ARBETE:** PR #40 uppdaterad med särskilt avsnitt om dokumentförloppet. Draft kvarstår; ingen merge/publicering.
+- Källor: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm · https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/
