@@ -71,3 +71,5 @@ Detta är en generell granskning av CRMA-instrumentet och den tidigare projektom
 10. [Metaller & Gruvor – rapportering om Eurobattery och häktningen](https://www.metallerochgruvor.se/20261109/12439/eurobattery-minerals-vd-haktad-i-sverige)
 
 **Publiceringsvillkor:** utkastet kräver chefredaktörens uttryckliga godkännande. Före publicering bör den svenska häktningshandlingen, den aktuella styrelseregistreringen, NGM:s formella handling och LVV:s diarieförda tillståndsstatus begäras in.
+
+**Tidslinjetillägg 11 november:** Metaller & Gruvor återger den 9 november en uppgift från åklagaren om att gripandet skedde onsdagen den **4 november**. Detta är en sekundär återgivning av gripandedatumet; det är inte en häktningshandling och fastställer inte datumet för själva häktningsbeslutet. Bolagets eget offentliggörande den 7 november är den primära källan för att bolaget informerats om att vd:n häktats. Bolagets uppdatering den 21 oktober sade också att García Martínez skulle kvarstå som styrelseordförande i FinnCobalt Oy fram till den extra bolagsstämman. Efter häktningsbeskedet har inget nytt offentligt bolagsbesked om den rollen identifierats.
