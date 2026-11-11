@@ -141,3 +141,89 @@ Källor:
 Befintliga granskningsutkast för Palantir, NVIDIA, AI-infrastruktur, Gripen, Urbergsskölden, Sofia, Cladonia, Hormuz och Libanon förblir öppna. Denna cykel skapar inga nya parallella artiklar; uppdateringar förs in i befintliga granskningsspår. Ingen PR har mergats och ingen artikel har publicerats LIVE.
 
 **Föreslagen nästa artikelordning:** (1) NVIDIA:s garanti- och åtagandekedja, (2) Palantirs myndighetskontrakt och långsiktiga molnberoende, (3) CRMA:s nordiska projektportfölj, (4) Sofia: återförandet av Samuils kvarlevor och den ännu öppna identitetsfrågan.
+
+## Breaking Watch – kontrollrunda 11 november 2026 kl. 22:24
+
+### Sammanfattning av substantiella förändringar
+
+**A. Palantir, offentlig makt och algoritmisk styrning**
+- Helsing lanserade Clarity den 11 november. **PARTSUPPGIFT:** Helsing beskriver systemet som en AI-plattform för att sammanföra sensorer, öppna källor och militära rapporter till en gemensam lägesbild och målunderlag, med mänsklig operatör i beslutsloopen. **OBEROENDE BEKRÄFTELSE:** Reuters rapporterar lanseringen men uppger att Helsing inte offentliggjort någon operativ kund eller driftsättningsdag. Bundeswehrs bredare urval av omkring 30 AI-verktyg och prototypplan för 2027 får inte beskrivas som att Clarity redan valts.
+- Palantirs Form 10-Q för perioden till 30 september (inlämnad 3 november) visar att kommersiella intäkter i Q3 var 1,168 md USD mot 1,146 md USD från offentlig sektor. För januari–september var offentlig sektor fortfarande 51 procent av intäkterna; 81 procent av intäkterna kom från USA. Kund I stod för 27 procent av kundfordringarna men ingen enskild kund över 10 procent av intäkterna. Bolaget redovisar dessutom minst 5,6 md USD i tioåriga köpåtaganden för tredjeparts-molntjänster, med årliga minimibelopp 268–979 mn USD. Det är ett leverantörsåtagande, inte en omedelbar skuld eller intäkt.
+- **Artikelvinkel:** Europas militära AI-suveränitet avgörs inte av produktnamn utan av upphandling, ägande av data, revisionsrätt, exportkontroll, mänsklig beslutsrätt och exitvillkor.
+
+**B. Europas AI-datacenter och digitala industri**
+- **PRIMÄRKÄLLA:** Statnett meddelade den 9 november en tillfällig paus för nya reservationer av nätkapacitet och nya funktionsgodkännanden enligt FOS §14 för stora uttagskunder, ofta datacenter. Pausen ska gälla till senast 1 augusti 2027. Statnetts köbild visar cirka 0,8 GW anslutet, 4,2 GW reserverat, 9,1 GW i anslutningskö och 18 GW i förfrågningsfas. Summan är inte faktisk förbrukning eller säkrad effekt; kategorierna har olika status.
+- **Tydal/Bitdeer/Volta:** SEC-bilagan från 4 augusti beskriver ett 16-årigt avtal för 121 IT-MW, cirka 133 brutto-MW och schemalagda betalningar på cirka 4,7 md USD. Hyresgästen kan säga upp utan avgift efter år tio. En kreditbackstop på cirka 1,3 md USD är endast förväntad och villkorad; Bitdeer uppger cirka 500 mn USD återstående capex och avsikt att ta in ytterligare lånekapital. NVE:s koncession från 28 maj gäller 132 kV-anläggningar och oförändrat effektuttag på 180 MW. Den visar inte i sig att Tydal har FOS §14-godkännande. Exakt status hos Statnett är öppen.
+- **Enafors/Jämtmassivet:** Sunna Group beskriver ett planerat batterilager på 150 MW vid en tidigare grustäkt. Bolagets projektsida anger utvecklingsfas, inga klara tillstånd eller nätanslutning och målsättning om drift 2029–2030. SVT rapporterar en uppskattad investering omkring 1 md SEK. Offentlig MWh-kapacitet och investeringsbeslut saknas; 150 MW är effekt, inte lagringsenergi.
+- **EU AI Gigafactories:** den äldre Futurium-översikten som anger 12 november är överspelad. EuroHPC:s uppdatering den 5 november anger nya deadlines: 3 december 2026 för Lot 2 och 4 februari 2027 för Lot 1. Detta är den styrande upphandlingskalendern.
+
+**C. Synkronicitetsprotokollet**
+- Den 19 oktober publicerades den teoretiska artikeln “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning” i *Neuroscience of Consciousness*. Den föreslår ett neurodynamiskt ramverk för hur mening och sammanträffanden upplevs. Det är en teoretisk modell/syntes, inte ett experimentellt belägg för en yttre kausal kraft. Nästa steg är att bryta ut testbara hypoteser, mätvariabler och förregistrerade reproduktionsförsök.
+
+**E. Strategiska råvaror och mineraler / S. Urbergsskölden**
+- **PRIMÄRKÄLLA:** Kommissionens beslut C(2026) 8051 av den 9 oktober listar 46 nya strategiska projekt. Bilagan anger Hautalampi som projekt 19 (Finland; FinnCobalt Oy; koppar, kobolt och batterikvalitetsnickel), Sokli och Suhanko i Finland, Viscaria i Sverige och kopparförädlingsprojektet Pirdop i Bulgarien.
+- **OBEROENDE BEKRÄFTELSE / systemgranskning:** Europeiska revisionsrätten konstaterar i specialrapport 04/2026 att CRMA inte ger projekten automatisk EU-finansiering och att finansiell bärkraft inte är ett villkor för strategisk status. I revisionsrättens stickprov av 19 projekt från den tidigare omgången fanns ett projekt där projektfrämjaren gick i konkurs efter urvalet. Stickprovet är inte en särskild granskning av Hautalampi.
+- **Ny bolagshändelse:** Eurobattery Minerals meddelade den 7 november att vd och styrelseledamot Roberto García Martínez häktats i Sverige och att bolaget saknar närmare information. Bolaget uppgav den 21 oktober att moderbolagets styrelse då hade två ledamöter, färre än bolagsordningens minimum, att revisorn avgått den 2 oktober och att NGM avsåg hänskjuta avnoteringsfrågan till disciplinnämnden. Bolaget planerade en extra bolagsstämma under andra hälften av november. Den dagliga Hautalampi-ledningen uppgavs ligga kvar hos FinnCobalts vd Ilari Kinnunen. Häktningsgrunden är **OBEKRÄFTAD** utan domstolshandling.
+- Ett separat granskningsutkast har lagts i GitHub-godkännandeflödet som PR #51; det är inte publicerat.
+
+**F. NVIDIA, AI-finansiering och säkerheter**
+- Ingen ny NVIDIA-10-Q eller direkt NVIDIA-finansiering har identifierats i denna cykel. Tydal är relevant som GPU-datacenterfinansiering, men SEC-bilagan visar inte att NVIDIA är långivare, garant eller kapitalägare. Det namngivna slutkundslaboratoriet är inte offentliggjort. Håll GPU-leverantör, fastighetsägare, hyresgäst, kreditgivare och slutkund åtskilda.
+
+**G. Libanons kristna historia och regional geopolitik**
+- Ingen ny självständigt belagd händelse som direkt ändrar en namngiven kristen institutions ägande, status eller skydd har passerat notiströskeln i denna kontroll. Fortsatt kontroll krävs av UNIFIL/OCHA, kyrkliga samfund och lokala kulturarvsmyndigheter.
+
+**K. Cladonia Skog AB / Alex Karp – Storsjö kapell**
+- Mötet mellan Bergs kommun och en Cladonia-företrädare ägde rum den 10 november. **OBEROENDE BEKRÄFTELSE:** P4 Jämtland publicerade den 11 november kommunalrådets återgivning av bolagsföreträdarens förklaring: “han vill åka skidor”. Detta är en andrahandsuppgift från kommunalrådet om vad bolagsföreträdaren sade – inte ett direkt uttalande från Karp, inte ett formellt ändamål i köpehandlingen och inte ett bindande markanvändningslöfte.
+- SVT:s tidigare rapportering beskriver att lokala jaktarrangemang påverkats efter ägarbytet och att Cladonia lämnat löften om dialog, skogsskötsel och vissa lokala nyttjanderätter. Dessa är **PARTSUPPGIFTER** tills avtal och faktisk tillämpning kontrollerats.
+- ISP:s beslut har i medier återgivits som att anmälan lämnades utan åtgärd. Det ska inte beskrivas som ett positivt säkerhetsgodkännande efter full materiell prövning. JO-anmälan är rapporterad, men inget JO-beslut har identifierats.
+- Fastighetsbeteckningar, lagfarter, servitut och nyttjanderättsavtal är fortsatt prioriterad dokumentkontroll.
+
+**N. Från skrift till Storebror**
+- EU:s AI Act: transparenskraven i artikel 50 får en ny tillämpningspunkt den 2 december 2026 för relevanta system som redan fanns på marknaden före 2 augusti 2026. Bilaga III:s högriskkrav för bland annat biometriska och vissa offentliga användningsområden anges i den aktuella tidslinjen till 2 december 2027. Skilj detta från redan gällande förbud mot vissa otillåtna AI-praktiker och från senare krav för högriskprodukter.
+
+**O. Hormuz, sjöfart och energiflöden**
+- Reuters rapporterade den 11 november ett angrepp mot navigationssystem på Omans Didamar-ö, med tre källor och visuellt material. Reuters kunde inte fastställa att systemen förstördes; skadeomfattning och operativ påverkan är **OBEKRÄFTADE**. Reuters rapporterade samtidigt 37 fartygsattacker under oktober och 31 LNG-fartyg som lämnade området. Skilj angrepp mot navigationsinfrastruktur från verifierade attacker på handelsfartyg och från påståenden om att sundet är stängt.
+- IMO:s rapportering den 6 november angav över 130 verifierade attacker mot kommersiella fartyg sedan 28 februari 2026 och 25 döda sjömän. Detta är ett ackumulerat IMO-tal, inte ett mått på Didamar-händelsen.
+
+**P. USA:s kongress och institutionell makt**
+- House Roll Call 317 den 10 november visar att motionen om att hänskjuta H.Res. 1655 gick igenom med 211–204. Detta var ett processuellt beslut om hänskjutande, inte en omröstning om att anta eller avslå själva impeachment-anklagelsen. Befintligt utkast PR #10 innehåller redan händelsen; ingen dubblett skapad.
+
+**Q. Svenska Gripen och Europas säkerhet**
+- **PRIMÄRKÄLLA:** Ukrainas presidentkansli anger att avtalet om köp av 16 Gripen E undertecknades den 30 juni 2026, med planerade första leveranser i början av 2029. Saab redovisade orderbokning på 24,6 md SEK i Q3-rapporten den 23 oktober. Den planerade gåvan av 16 Gripen C/D är en separat process och får inte räknas in i samma order.
+- Saab uppgav den 11 november även en dansk beställning av avancerade live-träningssystem. Den är en separat försvarsindustrinyhet, inte en Gripen-order.
+- Saab har tidigare beskrivit AI-agenttester på Gripen E; dessa är bolagsuppgifter om utveckling/test, inte belägg för operativ förmåga i skarp tjänst.
+
+**R. Strategisk energi och större bolag**
+- Lyten uppger att produktionen i Skellefteå återstartat. Oberoende sammanställning från Energivärlden anger dock att linjer testkörs och att första kundleveranser väntas först Q1 2027; inga kunder har namngivits. Testproduktion/återstart får inte likställas med kommersiell serieproduktion.
+- Jämtmassivet/Enafors är ett planerat 150 MW-batterilager i utvecklingsfas, utan offentliggjord MWh-kapacitet, slutligt tillstånd, nätanslutning eller investeringsbeslut.
+
+### Täckningsmatris A–S
+
+| Spår | Kontroll 11 nov | Resultat | Nästa relevanta kontroll |
+|---|---|---|---|
+| A Palantir | SEC 10-Q, Helsing/Reuters | Nytt: Clarity; Q3-intäktsmix och molncommitment | Bundeswehrs krav, kontrakt, revisions- och dataägandeklausuler |
+| B AI-datacenter | Statnett, NVE, Bitdeer/SEC, EuroHPC, Sunna | Nytt: norsk anslutningspaus; Tydal-finansiering; Enafors-plan | Tydals §14-status; grid/permit för Enafors; EuroHPC deadlines |
+| C Synkronicitet | OUP journalartikel | Ny teoretisk modell, ingen empirisk kausal bekräftelse | Förregistrerade test och replikation |
+| D Sofia | NAIM/Sofia arkeologiska offentliga sökningar | Ingen ny primär utgrävningsrapport funnen | NAIM årsrapport, kommunala bygg- och utgrävningsbeslut |
+| E Mineraler | Kommissionens C(2026)8051, Eurobattery | Nytt: Hautalampi i 46-projektlistan; Eurobattery ledningskris | LVV-tillstånd, styrelse, revisor, finansiering och offtake |
+| F NVIDIA/finansiering | Bitdeer SEC 6-K, Palantir 10-Q | Ny finansieringskedja i Tydal; ingen direkt NVIDIA-kredit bekräftad | Faktiskt utställd LOC, skuldvillkor, ägande av GPU:er |
+| G Libanon | UN/UNIFIL och kyrkliga källsökningar | Ingen ny verifierad kyrkspecifik notis | Fördrivning, kyrkors skador, mark- och rättsprocesser |
+| H Kyrkor genom imperier | Kyrko-/kulturarvssökningar i fem städer | Ingen ny primär restaurerings- eller ägarhandling funnen | Lokala byggnadsarkiv och församlingsprotokoll |
+| I Fennoskandien | SGU/GTK/skogs- och hästkulturssökningar | Ingen ny notis med primär dokumentation | Markanvändning, avverkning, rennäring och historiska kartor |
+| J Storsjöodjuret | Folklore/hydrologi/Frösöstenens offentliga källor | Ingen ny dokumenterad observation eller hydrologisk studie | Arkivvittnesmål och runologisk/arkeologisk publicering |
+| K Cladonia/Storsjö kapell | P4, SVT, ISP/JO-rapportering | Nytt: kommunmötet och återgivet köpskäl | Mötesanteckningar, lagfarter, jakt-/servitutsavtal, JO-status |
+| L Skaga kapell | RAÄ/länsstyrelse/kyrkoarkivssökningar | Ingen ny restaureringshandling funnen | Brand-, inventarie- och restaureringsarkiv |
+| M Böckernas väg till Athos | Offentliga kataloger/forskningsprojekt | Ingen ny katalogisering eller dokumenterad donation funnen | Bibliotekskataloger och proveniensprojekt |
+| N Skrift till Storebror | EU AI Act Service Desk | Ny tidslinjekontroll; nästa transparenspunkt 2 dec 2026 | Tillsynsbeslut, biometriska och offentliga upphandlingar |
+| O Hormuz | Reuters, IMO | Nytt: Didamar-incident och oktoberstatistik | UKMTO/IMO incidentuppdatering, försäkring och ruttdata |
+| P USA:s kongress | House Clerk roll call 317 | Ny processuell hänskjutning 211–204 | Utskottets diarieföring och nästa hearing/åtgärd |
+| Q Gripen | Saab Q3, Ukrainas presidentkansli | Nytt: 16 Gripen E-kontrakt/orderbokning | Finansiering, produktion, leverans och separat C/D-gåva |
+| R Energi/bolag | Sunna, Lyten, Energivärlden | Nytt: Enafors BESS-plan; Lyten kommersiell leverans först Q1 2027 enligt oberoende sammanställning | Tillstånd, MWh, nätanslutning och faktisk cellförsäljning |
+| S Urbergsskölden | CRMA-bilaga, ECA, GTK/SGU-sökningar | Nytt: Hautalampi och andra projekt; ECA:s genomförandekritik | Projektens tillstånd/finansiering; RAKKA, gruvavfall, Onkalo |
+
+### Faktisk redaktionell arbetsstatus
+
+- Uppdaterade befintliga granskningsutkast: PR #4 (Cladonia), #7 (Palantir Q3), #12 (Gripen), #24 (AI-gigafactory-deadlines), #31 (Norge/Tydal), #34 (CRMA/Hautalampi), #43 (Lyten/Skellefteå) och #48 (Hormuz/Didamar).
+- Skapade separat granskningsutkast för Eurobattery/Hautalampi som **draft PR #51**.
+- Befintliga PR #10 (USA:s kongress) och #50 (Helsing Clarity) täcker redan de aktuella uppgifterna; inga dubbletter skapades.
+- PR #16:s journal och masterplan uppdateras i samma arbetsgren. Inga PR:ar har mergats och inget har publicerats LIVE.
