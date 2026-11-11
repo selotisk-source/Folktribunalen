@@ -963,3 +963,6 @@ Nscale – finansieringsskillnaden i S-1, 11 november: SEC-prospektet anger upp 
 
 ### R – RWE Q1–Q3, 11 november 2026
 RWE:s primärmeddelande visar justerat EBITDA 4,6 md EUR (+35%), nettoinvesteringar 10,7 md EUR, nettoskuld 17,0 md EUR och prognos cirka 12 md EUR vid årsslut genom huvudsakligen Vanguard-avkonsolidering. RWE uppger också 2,5 GW nya kombinerade gas- och ångturbinkraftverk i tysk kapacitetsauktion och 13,5 GW under byggnation. PR #49 har fått en källuppdatering; avkonsolidering ska inte beskrivas som att RWE:s 50-procentiga ägarandel eller ekonomiska exponering försvinner. Källa: https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-delivers-an-excellent-earnings-performance-in-the-first-three-quarters/
+
+
+Kreditförsäkring – jurisdiktionsskillnad, 11 november: FT uppger att europeiska och kanadensiska banker länge har använt försäkring för regulatorisk kapitallättnad, medan amerikanska banker normalt inte får motsvarande kapitaleffekt; där kan försäkringen frigöra intern risklimit/utlåningskapacitet. Detta ska hållas åtskilt från faktisk risköverföring och politisk-risk-/contract-frustration-skydd. Källa: https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565
