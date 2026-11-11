@@ -54,7 +54,7 @@ Detta är en fråga om bolagsstyrning, inte bevis för att styrelsen är partisk
 **OBEROENDE RAPPORTERING:** Reuters, 10 november 2026:  
 https://www.reuters.com/world/china/nvidias-clubby-board-faces-sticky-honey-pot-test-2026-11-10/
 
-Financial Times rapporterade den 11 november att en tidigare federal åklagare, Joon H. Kim vid Wachtell Lipton, ska leda den externa utredningen (https://www.ft.com/content/2b3d4a6e-5b2f-4e5f-9d1a-6c1b2e3d4f5a). Uppgiften är medierapportering; NVIDIA:s offentliga styrelseuttalande namnger inte rådgivaren. Den får inte beskrivas som bolagets officiella bekräftelse innan en primär handling eller ett bolagsbesked finns.
+NVIDIA:s oberoende styrelseledamöter bekräftade den 10 november att de anlitat tidigare tillförordnade federale åklagaren Joon H. Kim och advokatbyrån Wachtell, Lipton, Rosen & Katz för att genomföra utredningen. Bolagets uttalande anger ingen tidsplan, inget detaljerat mandat och inget löfte om att publicera en fullständig rapport. **PRIMÄRKÄLLA:** https://investor.nvidia.com/news/press-release-details/2026/Statement-from-the-Independent-Members-of-the-NVIDIA-Board/default.aspx Den får inte beskrivas som bolagets officiella bekräftelse innan en primär handling eller ett bolagsbesked finns.
 
 ## FBI – vad är bekräftat?
 
@@ -64,6 +64,58 @@ Det är därför korrekt att skriva att Trump sagt att FBI granskar saken, inte 
 
 **OBEROENDE RAPPORTERING:** Associated Press, 9 november 2026:  
 https://apnews.com/article/3345b9f05c54d58909e88f6dcb9c1cd8
+
+
+## Kongressens två parallella spår
+
+### Representanthusets tre utskottsordförande begär ett slutet briefingmöte
+
+Den 4 november 2026 skickade ordförandena Brian Mast (Foreign Affairs), John Moolenaar (Select Committee on China) och Rick Crawford (House Intelligence) ett gemensamt brev till Huang. Brevet offentliggjordes den 5 november. De begär en gemensam, sluten briefing den **18 november 2026** om två frågor: Huangs kontakter med Megaspeed-chefen Alice Huang och NVIDIA:s säkerhetsprotokoll mot utländsk underrättelseinhämtning.
+
+Huang ombads acceptera datumet eller föreslå en annan dag då 119:e kongressen sammanträder senast **11 november**. Brevet är en begäran om briefing, inte en subpoena, inte en offentlig hearing och inte ett konstaterande att Huang begått brott. Ingen offentlig bekräftelse på att Huang accepterat eller föreslagit ett alternativt datum har identifierats per 06.48 EET den 11 november.
+
+**PRIMÄRKÄLLA:** brevet, daterat 4 november: https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.4.26nvidialetter.pdf  
+**PRIMÄRKÄLLA:** kommittéernas pressmeddelande 5 november: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
+
+### Senatens exportkontrollspår
+
+Den 9 november publicerade senatorerna Jim Banks (R) och Elizabeth Warren (D) ett gemensamt uttalande om exportlicenser och AI Overwatch Act. Den 10 november krävde senator Kevin Cramer (R), ledamot av Senate Banking Committee, att Huang lämnar vd-posten. Det senare är Cramers personliga uttalande, inte ett beslut av hela utskottet.
+
+**PRIMÄRKÄLLA:** https://www.banking.senate.gov/newsroom/minority/warren-banks-statement-on-nvidias-continued-export-of-advanced-ai-chips-following-reports-of-foreign-intelligence-operation  
+**OBEROENDE RAPPORTERING:** Reuters 11 november: https://www.reuters.com/world/china/senior-republican-us-senate-banking-panel-calls-nvidia-ceo-huang-resign-2026-11-11/
+
+## Aktieägartalan: separat civilprocess, inga domstolsfynd
+
+Den 9 november 2026 lämnades en föreslagen värdepappersklassaktion in i U.S. District Court for the Northern District of California: **Kistenmacher v. NVIDIA Corporation et al., 5:26-cv-13448, Document 1**. Klagomålet är 17 sidor och riktar sig mot NVIDIA och Jensen Huang. Det åberopar Exchange Act §§10(b) och 20(a) samt SEC Rule 10b-5. Den föreslagna klassperioden är 9 oktober 2025–8 november 2026.
+
+Klaganden hävdar att bolagets och Huangs tidigare offentliga uttalanden om Megaspeed och om att kontakterna med dess företrädare var normala var materiellt vilseledande, eftersom de inte redovisade den påstådda personliga relationen och de påstådda säkerhets- och affärsriskerna. Det är **kärandens rättsliga teori**, inte en domstolsbedömning. Klagomålet säger självt att påståendena bygger på offentlig information och kärandens ombuds undersökning; domstolen har inte prövat sakfrågan, någon klass har inte certifierats och något svaromål har inte identifierats.
+
+**PRIMÄRHANDLING – kopia av ingiven stämningsansökan, Document 1, filed 9 November 2026:**  
+https://www.hbsslaw.com/sites/default/files/case-downloads/nvda/2026-11-09-Complaint.pdf  
+Kopian ligger hos en advokatbyrå som marknadsför grupptalan; stämplingsraden i dokumentet anger domstol, målnummer, dokumentnummer och inlämningsdatum. Den ska behandlas som en ingiven partsinlaga, inte som en neutral faktarapport.
+
+Hagens Berman anger 8 januari 2027 som sista dag för ansökan om att bli lead plaintiff. Den uppgiften är advokatbyråns processinformation och ska kontrolleras mot domstolens docket innan den används som en absolut domstolsfrist.
+
+## Exportkontrollkedjan: ytterligare rapporterade uppgifter kräver dokument
+
+Reuters rapporterade den 10 november, med hänvisning till The Information, att omkring 240 000 H100-, H200- och A100-chip till ett uppgivet värde om minst 7,5 miljarder dollar ska ha nått kinesiska köpare genom ett nätverk av bolag. Reuters och andra medier har också återgett New York Times uppgifter om att NVIDIA:s chefsjurist Tim Teter kontaktade tjänstemän vid handelsdepartementet i augusti 2025 om Megaspeed-utredningen och att ärendet senare flyttades från Commerce till Justice Department. Financial Times rapporterade dessutom att Commerce dröjt med att föra upp Megaspeed på Entity List trots att flera myndigheter enligt tidningen förespråkat det.
+
+Dessa uppgifter är **medierapporterade påståenden**. I denna kontroll har inget offentligt BIS-ärendenummer, exportlicensregister, tullmanifest, överlämnings-PM från Commerce till DOJ, Entity List-beslut eller myndighetsbeslut som styrker hela kedjan identifierats. Att ett data center levererar beräkningskapacitet till kinesiska kunder är inte i sig bevis för olaglig vidareexport; slutanvändare, chipmodeller, licensvillkor och fysisk leverans måste visas.
+
+**OBEROENDE RAPPORTERING:** Reuters 10 november om de rapporterade chipvolymerna: https://www.reuters.com/world/china/nvidia-ceos-affair-aided-75-billion-chip-shipments-china-information-reports-2026-11-10/  
+Reuters/återgivning av NYT:s uppgifter om kontakten med Commerce och överföringen till DOJ: https://qz.com/megaspeed-chip-investigation-moved-justice-department-nvidia-110926  
+Financial Times om den rapporterade Entity List-fördröjningen: https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06
+
+## Uppdaterad tidslinje
+
+- **4 november 2026:** tre republikanska utskottsordförande daterar sitt brev till Huang och begär sluten briefing 18 november; svar senast 11 november.
+- **5 november 2026:** House Foreign Affairs Committee publicerar brevet.
+- **8 november 2026:** NVIDIA:s styrelse tillkännager oberoende utredning.
+- **9 november 2026:** Banks/Warren publicerar gemensamt exportkontrolluttalande; Kistenmacher-stämningen lämnas in som Document 1.
+- **10 november 2026:** NVIDIA:s oberoende styrelseledamöter namnger Joon H. Kim och Wachtell Lipton som externa utredare; Cramer kräver att Huang avgår; ny rapportering om chipvolymer och Commerce/DOJ-kedjan.
+- **11 november 2026:** sista dag enligt House-brevet för Huang att acceptera 18 november eller föreslå alternativt datum. Ingen offentlig respons har hittats per 06.48 EET.
+- **17 november 2026:** NVIDIA:s planerade Q3-resultat.
+- **18 november 2026:** begärt slutet briefingmöte med de tre House-utskotten; ännu inte bekräftat att det blir av.
 
 ## Vad som måste klarläggas
 
