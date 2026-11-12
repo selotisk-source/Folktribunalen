@@ -1,6 +1,6 @@
 # Breaking Watch – kontrolljournal 12 november 2026, 08:08 EET
 
-**Omfattning:** screening av samtliga huvudspår A–S; fördjupad källkontroll av A/B/D/E/F/K/N/O/P/Q/R/S. Övriga spår kontrollerades mot de offentliga källor och sökvägar som var tillgängliga i denna cykel; där ingen ny primärhandling hittades anges det som screeningutfall, inte som bevis för att inget har hänt.
+**Omfattning:** screening av samtliga huvudspår A–S; fördjupad källkontroll av A/B/C/D/E/F/H/K/N/O/P/Q/R/S. Övriga spår kontrollerades mot de offentliga källor och sökvägar som var tillgängliga i denna cykel; där ingen ny primärhandling hittades anges det som screeningutfall, inte som bevis för att inget har hänt. C och H uppgraderades från första screening till riktad källkontroll efter att två nya vetenskapliga artiklar respektive en bulgarisk parlamentarisk handling identifierats.
 
 ## Materiella deltan
 
@@ -19,8 +19,11 @@
 - **Nästa kontroll:** utformning av övergångsregler, RME:s tekniska krav, projektens faktiska §14-status, nätanslutningsavtal och kostnadsfördelning.
 
 ### C – Synkronicitetsprotokollet
-- **SCREENING:** ingen ny empirisk studie eller reproduktionsrapport som passerar notiströskeln identifierades i denna cykel.
-- **Nästa kontroll:** preregistrerade studier, replikationer, öppna dataset, basfrekvenser och metodkritik. Håll psykologisk perception, algoritmisk förstärkning och kausala hypoteser åtskilda.
+- **OBEROENDE AKADEMISK PUBLIKATION – 21 september 2026:** Angus McCoss, *Synchronistic Experience as Salience Alignment in Biosemiotic Feedback Systems*, Biosemiotics. Artikeln utvecklar en kvalitativ biosemiotisk teori där en upplevelse blir synkronistisk när en händelse är meningsfull, överraskande och kausalt ogenomskinlig för personen. Den diskuterar dolda, fördröjda, distribuerade, sociala och tekniskt medierade återkopplingsvägar, särskilt rekommendationssystem. Författaren anger uttryckligen att arbetet är en kvalitativ heuristisk ram, inte en matematisk eller empirisk modell; inga dataset genererades eller analyserades. Artikeln föreslår framtida intervjuprotokoll och testning av om synkronicitetskänslan minskar när en återkopplingsväg blir synlig.
+- **OBEROENDE AKADEMISK PUBLIKATION – 19 oktober 2026:** Steven Kotler, Michael Mannino, Karl Friston och Scott Kelso, *Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning*, Neuroscience of Consciousness, Review Article. Författarna föreslår en gemensam neurodynamisk modell för purpose, synchronicity och flow genom metastabil koordination och attractor-landskap. De formulerar empiriska förutsägelser om bland annat sharp-wave ripples, P300b och nätverkskoherens. Det är en teoretisk/review-baserad syntes med testbara hypoteser, inte ett nytt kontrollerat experiment som visar acausalitet.
+- **Redaktionell slutsats:** båda artiklarna är nya vetenskapliga bidrag, men de stöder inte påståendet att tidsmässiga sammanträffanden orsakas av en acausal princip. De ger i stället olika naturalistiska vägar för att undersöka meningsfulla sammanträffanden och hur dolda återkopplingskedjor, saliens och prediktiva system kan bidra.
+- Källor: https://link.springer.com/article/10.1007/s12304-026-09663-z ; https://academic.oup.com/nc/article/2026/1/niag063/8943654
+- **Nästa kontroll:** granska artikelns empiriska prediktioner mot existerande neurodata, hitta preregistrerade tester/replikationer och utveckla protokollets egen förregistrerade studie med basfrekvenser, blindad kodning och dokumenterade återkopplingsvägar.
 
 ### D – Sofia: staden under staden
 - **PRIMÄRKÄLLA:** Bulgariens statliga källor dokumenterar att Tsar Samuils kvarlevor återfördes och placerades i marmorsarkofag i Sankt Sofia den 3 oktober 2026. BTA:s rapport den 2 oktober beskriver förberedelsen av sarkofagen; regeringens och utrikesministeriets rapporter dokumenterar ceremonin.
@@ -48,8 +51,10 @@
 - **Nästa kontroll:** UN/OCHA:s daterade fördrivningsdata, Bkerke och respektive patriarkat, kommunala mark-/kulturarvsbeslut och parlamentariska handlingar. Skilj kyrkliga vittnesmål från verifierade skade- och fördrivningsdata.
 
 ### H – Kyrkor som överlevt imperierna
-- **SCREENING:** inga nya kommunala bygglov, restaureringsbeslut eller kyrkliga primärmeddelanden för Wiesbaden, Warszawa, Prag, Sofia eller Varna passerade notiströskeln i denna cykel.
-- **Nästa kontroll:** respektive stads byggnads- och kulturarvsregister samt församlings-/kyrkoarkiv, separat per stad.
+- **PRIMÄRKÄLLA – Bulgariens parlament:** en skriftlig fråga om luftkonditioneringsenheter monterade på fasaden till katedralen ”Uspenie Bogorodichno” i Varna lämnades in 9 juli 2026, register-ID 52-654-06-547. Parlamentets register visar att kulturministern Evтим Милошев lämnade skriftligt svar 1 oktober 2026. Fråge- och svarspdf:er är länkade i parlamentets register, men själva svarspdf:ens fulltext hämtades inte i denna kontroll.
+- **OBEROENDE LOKAL RAPPORTERING:** Varna Online 8 oktober, med hänvisning till ministersvaret via Moreto.net, uppger att monteringen inte samordnats med kulturministeriet och att dokumentation inte lämnats till National Institute for Immovable Cultural Heritage (NINKN). Detta ska tills vidare tillskrivas den sekundära rapporteringen tills svarspdf:en lästs; inget beslut om borttagning eller slutlig sanktion har fastställts här.
+- Källor: https://parliament.bg/bg/topical_nature/ID/84084 ; https://varnaonline.bg/news/mvk-zapochva-procedura-za-myarka-za-klimaticite-na-katedralata-vav-varna-3080news.html
+- **Nästa kontroll:** hämta PDF 86127452-654-06-547.pdf, kontrollera ministeriets exakta konstateranden, NINKN:s tillsynsakt och eventuell kommunal/diocesan ansökan om efterhandslov eller återställande. Jämför med Wiesbaden, Warszawa, Prag och Sofia i separata byggnads- och kyrkoarkiv.
 
 ### I – Fennoskandien: urberg, skog och hästkultur
 - **SCREENING:** inga nya primärhandlingar om skogsavverkning, markägande, renskötsel, kulturmiljö eller hästavel som passerar notiströskeln identifierades i denna cykel.
@@ -119,12 +124,12 @@
 |---|---|---|---|
 | A | Fördjupad | Clarity-lansering; Cambridgeshire award-källkedja | Originalkontrakt, DPIA, data-/exitvillkor |
 | B | Fördjupad | Norsk paus och planerad licensordning | RME-krav, övergångsregler, projektstatus |
-| C | Screening | Inget nytt empiriskt fynd | Replikationer och preregistrering |
+| C | Fördjupad | Två nya teoretiska modeller; ingen empirisk validering | Preregistrerade tester och replikationer |
 | D | Fördjupad | Ingen ny arkeologisk delta; Samuils återbegravning fortsatt dokumenterad | Originalrapport och mätprotokoll |
 | E | Fördjupad | GTK PLUS/Betolar forskningsprojekt | Resultat, tillstånd, kommersialisering |
 | F | Fördjupad | NVIDIA:s oberoende styrelseutredning och kongresspress | Styrelsebeslut, originalbrev, SEC/docket |
 | G | Screening | Inget nytt primärdokument | UN/OCHA, patriarkat, kommunala beslut |
-| H | Screening | Inget nytt byggnads-/restaureringsbeslut | Stads- och kyrkoarkiv |
+| H | Fördjupad | Varna-katedralens fasadmontering; parlamentariskt ministersvaret 1 oktober | Hämta svarspdf och NINKN-/tillsynsakt |
 | I | Screening | Inget nytt skogs-/rättighetsbeslut | SGU/GTK, Skogsstyrelsen, historiska kartor |
 | J | Screening | Inget nytt primärvittnesmål eller hydrologiskt fynd | Folklorearkiv, hydrologi, runologi |
 | K | Fördjupad | Le Monde om tidigare rapporterat 300 ha | Lantmäteriet, Bolagsverket, tillstånd |
