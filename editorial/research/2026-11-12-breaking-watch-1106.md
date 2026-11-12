@@ -107,3 +107,13 @@ Fem utvecklingsområden gav nya eller väsentligt fördjupade belägg i denna cy
 - **OBEROENDE RAPPORTERING:** Reuters rapporterade 26 januari att NVIDIA investerade cirka 2 md USD i CoreWeave och att CoreWeave sade att pengarna inte skulle användas för att köpa NVIDIA-processorer. Detta är ägar-/leverantörsexponering, inte bevis på cirkulär GPU-finansiering.
 - **Capex-definition:** CoreWeaves SEC 8-K-bilaga visar 9,441 md USD i kontanta köp av materiella anläggningstillgångar Q3; ledningen sade på resultatkonferensen att capex var 14,5 md USD. Skillnaden är ännu inte avstämd mot fullständig Q3 10-Q. Redovisa båda måtten med respektive definition.
 - Balansräkningen visar 18,697 md USD i operationella leasingskulder, 649 m USD i finansiella leasingskulder, 56,778 md USD i materiella anläggningstillgångar, 18,922 md USD i nyttjanderättstillgångar och cirka 10,002 md USD i uppskjutna intäkter. Vem som äger respektive GPU-flotta och vem som bär restvärdesrisken kräver Q3 10-Q:s fullständiga leasing-/säkerhetsnoter.
+
+
+
+### C. Synkronicitetsprotokollet – teori har fördjupats, empiriskt läge oförändrat
+
+**PRIMÄRKÄLLA:** Angus McCoss, “Synchronistic Experience as Salience Alignment in Biosemiotic Feedback Systems”, publicerad i *Biosemiotics* 21 september 2026. Artikeln föreslår en kvalitativ modell med tre villkor: meningsmässig/semiotisk samstämmighet med individens aktuella uppmärksamhetslandskap, överraskning i förhållande till förväntan och kausal ogenomskinlighet för den som upplever händelsen. Rekommendationssystem används som en analogi för hur tidigare beteendespår kan återkomma som oväntat relevant innehåll. Författaren säger uttryckligen att modellen är heuristisk och kvalitativ; den är inte ett färdigt kvantitativt eller empiriskt validerat instrument och kräver inte acausalitet.
+
+**Status:** redan inarbetad i öppet PR #38. Ingen ny reproducerbar empirisk studie eller kausal evidens identifierad. Artikelvinkeln är hur en meningsfull sammanträffandeupplevelse kan uppstå genom dolda, fördröjda eller distribuerade feedbackvägar utan att det visar att en händelse förutsäger eller orsakar en annan.
+
+Källa: https://link.springer.com/article/10.1007/s12304-026-09663-z
