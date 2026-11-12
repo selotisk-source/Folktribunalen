@@ -752,3 +752,13 @@ Faktiska finansieringsposter som bolaget redovisar separat är bland annat en **
 **Korskoppling A/F:** Nebius upprepar att Palantir utsett bolaget till preferred AI cloud partner för sovereign AI. Det partnerskapet offentliggjordes redan 8 september 2026 och är inte en ny affär i denna cykel. Palantirs eget tillkännagivande: https://www.palantir.com/newsroom/press-releases/nebius-and-palantir-announce-partnership-to-advance-sovereign-ai-infrastructure/.
 
 **Artikelvinkel:** AI-infrastrukturens finansiella rörsystem – kundförskott, asset-backed debt, konvertibler och elanslutning. Den centrala frågan är skillnaden mellan kontrakterad effekt, faktiskt driftsatt kapacitet och intäkter som kan redovisas.
+
+### Komplettering av Nebius Q3-upplysningarna
+
+SEC:s Exhibit 99.1 preciserar att Q3-resultatet från fortsatt verksamhet var en **GAAP-förlust på 37,5 m USD**, samtidigt som justerad EBITDA var 465,8 m USD (icke-GAAP). Nettokassaflödet från den löpande verksamheten var **-273,0 m USD** och köp av materiella/anläggningstillgångar och immateriella tillgångar cirka **7,300 md USD**. Det är därför viktigt att inte använda justerad EBITDA som ersättning för kassaflöde eller GAAP-resultat.
+
+Nebius uppger också att tidigare ARR-vägledning om 7–9 md USD i december flyttas till en förväntan om att ARR ska överstiga 7 md USD i **februari 2027**, ungefär två månader senare. Bolaget anger fortsatt mål om 5 GW kontrakterad effekt vid utgången av 2026, från över 4 GW vid rapportdatumet. Det är kontrakterad effekt, inte redan driftsatt effekt.
+
+Bland de egna sajter som enligt bolaget ska börja leverera kapacitet 2027 nämns Missouri, Lappeenranta, en andra Mäntsälä-anläggning och Alabama; tillsammans anges de representera över 3 GW vid full skala under 3–3,5 år. Bolaget uppger att första NVIDIA Vera Rubin-system redan integreras och att Nebius är första AI-moln att använda NVIDIA Groq 3 LPX. Dessa är partsuppgifter om produktintegration och framtida kapacitet, inte oberoende driftsverifiering.
+
+Källa: SEC Exhibit 99.1, balans- och kassaflödesuppgifter: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm. Aktieägarbrev, kapacitet och ARR-guidning: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-2.htm.
