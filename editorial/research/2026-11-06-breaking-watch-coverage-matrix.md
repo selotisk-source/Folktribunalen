@@ -982,3 +982,41 @@ Alla 19 huvudspår A–S screenades. Fyra substantiella uppdateringar passerade 
 **Källreservationer:** UKMTO 201-26 och 202-26:s fullständiga PDF:er hämtades inte direkt. UKMTO:s Warnings-sida beskriver produktfamiljen men den individuella listan renderades inte i hämtad sidtext; Recent Incidents visade 0 rapporter. Incidentdetaljerna är därför sekundära transkriptioner av numrerade UKMTO-produkter. ADNOC:s besked är bolagets primäruttalande; WAM återger samma besked och räknas inte som separat teknisk verifiering. Didamar-uppgiften bygger på tre källor till Reuters; faktisk förstörelse av navigationssystem är inte självständigt fastställd. Cladonia-uppgifterna om mötets besked är kommunledningens återgivning, inte ett bindande bolagslöfte. IPC-data saknar konfessionell uppdelning.
 
 **Arbetsflöde:** PR #12, #22 och #32 har uppdaterats i sina befintliga granskningsgrenar. Ett nytt separat Hormuz-granskningsutkast har skapats. PR #16:s researchjournal har uppdaterats. Inga PR:ar har mergats och ingen LIVE-publicering har utförts.
+
+
+---
+
+## Delta – 12 november 2026, 10:05 EET
+
+Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidensuppdateringar motiverade direkta ändringar i befintliga granskningsutkast:
+
+1. **O – Hormuz:** UKMTO-original-PDF:erna för 201-26 och 202-26 hämtades direkt. 201-26 är en ATTACK-notis från källan Master, incident 10 november kl. 13:38 UTC, tanker träffad av okänd projektil 19 NM nordost om Lima, besättning säker, ingen miljöpåverkan rapporterad och skadebedömning vid första ljus. 202-26 är SUSPICIOUS ACTIVITY, källa Military authorities, incidentdatum/tid TBC och okänd besättnings-/skade-/miljöstatus. De två rapporterna är separata; ingen fartygsidentitet eller gemensam orsak har fastställts. **PR #53 uppdaterad** med primärkällorna.
+2. **K – Cladonia/Storsjö:** Le Monde publicerade 12 november en oberoende återgivning av Östersunds-Postens rapport den 16 oktober om ytterligare cirka 300 hektar förvärvade av Cladonia Skog AB, beskrivet som bildat i augusti med Karp som ensam aktieägare. Den rapporterade köparen är bolaget, inte Karp personligen. Direkt lagfart/köpehandling saknas; slutligt totalhektartal är ännu inte registerfastställt. **PR #32 uppdaterad** med källan och den juridiska åtskillnaden.
+3. **G – Libanon:** UNIFIL:s primäruttalande 10 november om skottlossning mot patrull nära Wadi Jilu (omkring tolv skott, patrullen besvarade elden, inga skadade, skytten oidentifierad) återkontrollerades mot AFP/Al Jazeera. Befintligt PR #22 innehåller händelsen; ingen ny kyrkspecifik uppgift.
+4. **B/E/F/P/Q/R/S:** Norge/EuroHPC, CRMA, CoreWeave/NVIDIA, H.Res.1655, Gripen, Northvolt och Posiva har aktuella primärdokument eller uppdaterade oberoende källor i befintliga PR:er. Inget nytt separat artikelutkast behövdes denna cykel.
+
+| Spår | Senaste kontroll | Primärkällor/dokument | Status i denna cykel | Nästa kontrollpunkt |
+|---|---|---|---|---|
+| A | 12 nov 10:05 | Palantir 10-Q, BCH-upphandling, MOPAC, rådgivaruppgift | Befintliga PR #7/#55; ingen ny sakuppgift utöver tidigare journal | NHS/BCH DPIA, exitvillkor, rådgivaravtal |
+| B | 12 nov 10:05 | Norska regeringens besked 10 nov, Statnett, EuroHPC 5 nov | Befintliga PR #24/#31; licensförslag ej lag och kötal ej driftsatt kapacitet | Licensprinciper och nya anbud |
+| C | 12 nov 10:05 | OUP-teori, Frontiers-studie | Inget nytt kausalt/empiriskt belägg | Replikation och basfrekvenser |
+| D | 12 nov 10:05 | NAIM/Sofia, tidigare arkeologiska källor | Ingen ny utgrävnings- eller kataloghandling | Originalrapport, antropologi och föremålskatalog |
+| E | 12 nov 10:05 | EU C(2026)8051, SGU/Bergsstaten | CRMA-status och Pallas-tillstånd finns i PR #34; status ≠ gruvtillstånd | Projektvisa miljö- och koncessionsbeslut |
+| F | 12 nov 10:05 | NVIDIA Q2 10-Q, CoreWeave Q3 8-K | Befintlig PR #14/researchjournal; skuld, leasing, backlog och garantier hålls isär | CoreWeave Q3 10-Q och nya säkerhetsvillkor |
+| G | 12 nov 10:05 | UNIFIL 10 nov; AFP/Al Jazeera | Wadi Jilu-händelsen dokumenterad; ingen skytt identifierad | Libanesisk utredning och UNIFIL-övergång |
+| H | 12 nov 10:05 | Kyrko-, kommun- och kulturarvskällor i fem städer | Ingen ny primär restaurerings-/ägarhandling | Lokala byggnadsakter och församlingsarkiv |
+| I | 12 nov 10:05 | SGU/GTK och offentliga skogs-/kulturmiljökällor | Ingen ny verifierad mark- eller hästkulturhandling | Avverkning, rennäring och historiska kartor |
+| J | 12 nov 10:05 | Folkloristik, runologi, Thiel-intervju | Ingen ny dokumenterad observation eller runologisk primärkälla | Originalvittnesmål och fullständiga intervjutranskript |
+| K | 12 nov 10:05 | Le Monde 12 nov; OP 16 okt; SVT/P4 | 300 ha får oberoende mediebekräftelse; register saknas; PR #32 uppdaterad | Lagfarter, köpehandlingar, verklig huvudman |
+| L | 12 nov 10:05 | RAÄ, länsstyrelse och kyrkoarkivsspår | Ingen ny restaurerings-/brandhandling | Inventarier och byggnadsarkeologi |
+| M | 12 nov 10:05 | MOmA/Athos offentliga katalog- och projektuppgifter | Ingen ny donation/proveniens eller konkret svensk-bulgarisk bokväg | Kataloger och provenienshandlingar |
+| N | 12 nov 10:05 | EU eIDAS, IMY/EDPB och svenska lagkällor | Ingen ny dom/tillsynshändelse | EUDI-införande och biometrisk tillsyn |
+| O | 12 nov 10:05 | UKMTO 201-26 och 202-26 original-PDF; ADNOC; Reuters | Primär-PDF hämtad; PR #53 uppdaterad; identiteter/orsak fortfarande öppna | Skadebedömning, fartygsidentitet, omanskt besked |
+| P | 12 nov 10:05 | House Clerk Roll Call 317; H.Res.1655 | Hänskjutande 211–204, inte meritsomröstning; befintlig PR #10 | Judiciary Committee och nästa procedursteg |
+| Q | 12 nov 10:05 | Saab pressmeddelanden och branschrapportering | Befintlig PR #12; AI-agentflygning är bolagsuppgift, inte operativ autonomi | Leverans, komponentvolym och exportorder |
+| R | 12 nov 10:05 | Lyten, Energivärlden, RWE, Siemens Energy | Befintliga PR #43/#49/#52; kommersiell batterileverans väntas enligt oberoende källa Q1 2027 | Kundgodkända celler och faktiska leveranser |
+| S | 12 nov 10:05 | Posiva 22 okt, finska regeringen/STUK, CRMA | Driftlicens beviljad; STUK:s pre-operation inspection återstår | Inspektionsbeslut och faktisk drift |
+
+**Källreservationer:** Le Monde bekräftar en medieuppgift om 300 hektar men är inte ett fastighetsregister. UKMTO:s PDF:er är primärkällor men identifierar inte fartygen. UNIFIL:s uttalande identifierar inte skytten. Strategisk CRMA-status är inte tillstånd eller finansiering. Posivas driftlicens tillåter inte start före STUK:s föreskrivna inspektion.
+
+**Arbetsflöde:** PR #53 och PR #32 uppdaterade i befintliga draftgrenar. Inga nya artikel-PR:ar skapades; inga PR:ar mergades; ingen artikel blev LIVE.
