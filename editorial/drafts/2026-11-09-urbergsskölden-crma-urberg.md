@@ -352,3 +352,45 @@ Onkalo är ett slutförvar för använt kärnbränsle, inte ett energilager och 
 Kommissionen godkände den 9 oktober 2026 sin andra EU-lista med 46 strategiska projekt; totalt anges nu 106 strategiska projekt under CRMA. I den nya bilagan finns fem projekt i Finland – CoNiKo/Kokkola, Hautalampi, Arctial, Sokli och Suhanko – samt Viscaria Copper Project i Sverige. [Kommissionens urvalssida](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en) och [beslutsbilagan](https://single-market-economy.ec.europa.eu/document/download/efabd887-9c12-4a3d-910e-8433c0f63a81_en?filename=C_2026_8051_F1_ANNEX_EN_V3_P1_5091583.PDF).
 
 Strategisk projektstatus är inte ett gruvtillstånd, miljögodkännande, byggstart, slutligt investeringsbeslut eller bevis på kommersiell produktion. Varje projekt måste följas separat genom tillstånd, finansiering, byggnation och faktisk produktion.
+
+
+## Ny primärkälla 13 november 2026 – två nya undersökningstillstånd från Bergsstaten
+
+**Beslutsdatum:** 12 november 2026.  
+**Publiceringsdatum för kungörelserna:** 12 november 2026.  
+**Berörda spår:** E – strategiska råvaror; S – Urbergsskölden.
+
+### Gränsberget nr 102 – 77 880 hektar
+
+**PRIMÄRKÄLLA:** Bergsstaten beviljade den 12 november 2026 1478078 BC Ltd undersökningstillstånd för Gränsberget nr 102. Området omfattar **77 880,03 hektar** i Falu, Säters, Hedemora, Hofors och Sandvikens kommuner. Tillståndet gäller från 12 november 2026 till 12 november 2029. Ansökan kom in 5 juni 2026.
+
+Ansökan angav guld, koppar, kobolt, berggrundsjärn, molybden, nickel, silver, zink och bly. Eftersom sökanden inte begränsade ansökan beviljades tillståndet för samtliga koncessionsmineral i den aktuella lagbestämmelsen. Bergsstaten anger att bolagets planerade första steg är att sammanställa historiska data och offentlig information, därefter regional moränprovtagning och geofysiska mätningar, med eventuella borrmål som ett senare steg.
+
+Länsstyrelser och kommuner har i beslutsunderlaget lyft naturreservat, Natura 2000, våtmarker, nyckelbiotoper, rödlistade arter, vattenintressen, kulturmiljöer och friluftsliv. Dessa intressen är inte ett bevis på att prospektering redan har skett eller att en fyndighet är ekonomiskt utvinningsbar.
+
+### Lindesby nr 1004 – Boliden
+
+**PRIMÄRKÄLLA:** Bergsstaten beviljade Boliden Mineral AB undersökningstillstånd för Lindesby nr 1004, **5 523,51 hektar** i Hällefors, Nora och Lindesbergs kommuner. Tillståndet gäller 12 november 2026–12 november 2029. Ansökan kom in 4 augusti 2026.
+
+Ansökan angav zink, bly, koppar, silver och guld. Även här omfattar det beviljade tillståndet samtliga koncessionsmineral enligt den aktuella bestämmelsen eftersom ansökan inte begränsades.
+
+Beslutet innehåller ett särskilt villkor för åtgärder som kan påverka totalförsvars- och beredskapsintressen. För sådana åtgärder krävs en gällande arbetsplan; Försvarsmakten och Fortifikationsverket ska behandlas som sakägare i berörda arbetsplaner. Den offentliga beslutshandlingen ger stöd för att redovisa villkoret på denna övergripande nivå, men inga koordinater eller detaljer om skyddade anläggningar återges här.
+
+### Vad tillstånden betyder – och inte betyder
+
+- Ett undersökningstillstånd ger ensamrätt att undersöka ett område under en bestämd period. Det är **inte** en bearbetningskoncession, ett miljötillstånd, ett bygglov, en mineralreserv eller ett beslut om gruvdrift.
+- Undersökningsarbete kräver en gällande arbetsplan, delgivning till berörda rättighetshavare och föreskriven säkerhet innan arbeten startar. Andra tillstånd kan behövas enligt miljöbalken och annan lagstiftning.
+- Bergsstaten skriver i Gränsbergetbeslutet att någon avvägning mellan motstående intressen inte görs i själva prövningen av undersökningstillståndet. Det betyder inte att natur-, kultur- eller sakägarintressen saknar rättsligt skydd; de hanteras i senare arbetsplaner och tillståndsprövningar.
+- Sista dag att överklaga båda besluten är **17 december 2026**.
+
+### Källstatus och öppna frågor
+
+**PRIMÄRKÄLLA:** Bergsstatens kungörelser och fullständiga besluts-PDF:er.  
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende nyhetsrapportering om just dessa två beslut identifierades i denna kontroll.  
+**ÖPPET:** 1478078 BC Ltd:s verkliga huvudman och finansiering, eventuella överlåtelser, kommande arbetsplaner, säkerhetsbelopp, lokala yttranden och om någon överklagar före 17 december. Ingen fyndighet, resurs eller reserv har fastställts genom besluten.
+
+**Primärkällor:**
+- Bergsstaten, Gränsberget nr 102, kungörelse 12 november 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/undersokningstillstand-for-gransberget-nr-102/
+- Beslut Gränsberget nr 102: https://resource.sgu.se/bergsstaten/gransberget-nr-102-bes.pdf
+- Bergsstaten, Lindesby nr 1004, kungörelse 12 november 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/undersokningstillstand-for-lindesby-nr-1004/
+- Beslut Lindesby nr 1004: https://resource.sgu.se/bergsstaten/lindesby-nr-1004-bes.pdf
