@@ -16,7 +16,7 @@ På två dygn har fyra skilda rapportkedjor fört in nya uppgifter om sjöfart o
 
 **OBEROENDE BEKRÄFTELSE / sekundär återgivning av primärnotis:** UKMTO Warning 201-26 klassificeras som ATTACK. Den återgivna notisen anger att en tanker enligt befälhavaren träffades av en okänd projektil cirka 19 nautiska mil nordost om Lima, Oman. Besättningen uppgavs vara säker och ingen miljöpåverkan rapporterades vid första rapporteringen. Befälhavaren skulle göra en skadebedömning vid första ljus.
 
-UKMTO:s offentliga notissida är den primära publiceringskanalen, men den fullständiga PDF-filen kunde inte hämtas direkt i denna kontroll. Uppgifterna ovan kommer därför från en detaljerad transkription av den numrerade PDF-produkten hos en maritim branschkälla. Tankerns namn, IMO-nummer, flagg, last, skadans omfattning och ansvarig aktör är inte fastställda i det underlag som hämtats.
+UKMTO:s Warnings-sida beskriver varningarnas officiella klassificeringar, men den individuella produktlistan ligger i en inbäddad vy som inte återgavs i den hämtade sidtexten. Sidan Recent Incidents visade 0 rapporter vid kontrollen. Den fullständiga PDF-filen för 201-26 kunde inte hämtas direkt; uppgifterna ovan kommer därför från en detaljerad sekundär transkription av den numrerade PDF-produkten hos en maritim branschkälla. Tankerns namn, IMO-nummer, flagg, last, skadans omfattning och ansvarig aktör är inte fastställda i det underlag som hämtats.
 
 ### 2. Ett ADNOC-fartyg skadat i UAE:s territorialvatten
 
@@ -32,8 +32,8 @@ UKMTO:s offentliga notissida är den primära publiceringskanalen, men den fulls
 **Publiceringsdatum:** 11 november 2026.  
 **Händelsedatum och tid:** TBC i den återgivna produkten.
 
-**PRIMÄRKÄLLA – UKMTO:s notislista:** listan visar en ny numrerad produkt 202-26.  
-**OBEROENDE BEKRÄFTELSE / sekundär PDF-transkription:** en maritim branschkälla återger att produkten rubriceras SUSPICIOUS ACTIVITY och gäller en incident med en tanker i Strait of Hormuz. Källraden anges som Military authorities. Besättningens status, skada och miljöpåverkan anges som okända; händelsedatum och klockslag står som TBC.
+**PRIMÄRKÄLLA – UKMTO:s produktdefinition:** Warnings-sidan beskriver att UKMTO-varningar omfattar bland annat Attack, Boarding och Hijack, men den individuella produktlistan renderades inte i den hämtade texten. Sidan Recent Incidents visade 0 rapporter vid kontrollen.  
+**SEKUNDÄR PDF-TRANSKRIPTION:** en maritim branschkälla återger en numrerad UKMTO-produkt 202-26, rubricerad SUSPICIOUS ACTIVITY, om en incident med en tanker i Strait of Hormuz. Original-PDF-filen hämtades inte direkt i denna kontroll. Källraden anges som Military authorities. Besättningens status, skada och miljöpåverkan anges som okända; händelsedatum och klockslag står som TBC.
 
 Detta är inte samma klassificering som 201-26: 201-26 är en ATTACK-notis med befälhavaren som källa och en rapporterad projektilträff nordost om Lima. 202-26 är en senare Suspicious Activity-notis med militär myndighetskälla, osäker händelsetid och okänd status. Produkten namnger inte fartyg, IMO-nummer, flagg, last, metod eller angripare. Den får inte beskrivas som en bekräftad projektilträff, minexplosion eller brand.
 
@@ -87,7 +87,8 @@ Den offentliga informationen räcker ännu inte för att fastställa att alla ra
 ## Källor
 
 **Primärkällor**
-- UKMTO Notices: https://www.ukmto.org/ukmto-products/notices
+- UKMTO Warnings (produktdefinition): https://www.ukmto.org/ukmto-products/warnings
+- UKMTO Recent Incidents (visade 0 rapporter i den hämtade sidtexten vid kontrollen): https://www.ukmto.org/recent-incidents
 - ADNOC Logistics & Services, 10 november 2026: https://www.adnocls.ae/en/news-and-media/press-releases/2026/november-10-statement/
 
 **Oberoende rapportering och transkriptioner**
