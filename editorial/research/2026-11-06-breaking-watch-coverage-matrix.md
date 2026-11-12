@@ -1095,3 +1095,6 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 
 
 **Q-komplettering:** Reuters 12 nov 09:44 UTC anger att den nordiska avsikten fokuserar på att harmonisera lagar/regler som hindrar gränsöverskridande förflyttning av trupper och materiel. Det är en avsikt, inte ett undertecknat avtal.
+
+
+**B/R-komplettering 12 nov:** Siemens 11 nov produktlansering av rostfri direkt-till-chip-vätskekylventil för AI-datacenter (ingen offentlig ordervolym); Siemens 9 nov sexårigt Gridscale X-kontrakt med Kärnten Netz för digital tvilling, trängselprognoser och flexibilitetshantering (inget offentliggjort kontraktsvärde eller MW-resultat). Primära bolagsuppgifter, ingen oberoende driftsbekräftelse.
