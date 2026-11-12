@@ -309,6 +309,19 @@ Uttalandet redovisar **inte** inventeringens resultat, antal eller identitet på
 
 De underliggande ACRA-registrerade årsredovisningarna har inte hämtats direkt i denna kontroll. Beloppen ska därför behandlas som en prioriterad registerkontroll, inte som färdig primärverifiering. Nästa steg är att hämta bolagets fullständiga registrerade årsredovisningar, UEN, koncernstruktur och uppgifter om Swiftdata samt att kontrollera vilken juridisk person som faktiskt äger GPU-tillgångarna.
 
+### Källuppdatering 12 november 2026, 15:14 EET – ytterligare kongressbrev
+
+**PRIMÄRKÄLLA – House Foreign Affairs Committee Democrats, publicerat 9 november 2026:** Ranking Member Gregory W. Meeks, Gabe Amo och Sydney Kamlager-Dove skickade ett separat brev till handelsminister Howard Lutnick. De begär svar om administrationens godkännanden av avancerade AI-chipexporter, vad Commerce visste om de rapporterade underrättelseanknytningarna och när myndighetsledningen informerades.
+
+Detta är en begäran om information och en politisk uppmaning från ledamöter; det är inte ett beslut av Commerce Department, en BIS-licensåterkallelse, en dom eller en lag. Den ska hållas åtskild från det gemensamma brevet den 4 november från de tre republikanska utskottsordförandena, som begärde en sluten briefing med Jensen Huang den 18 november.
+
+**Svarsläge:** De republikanska ordförandena bad Huang att acceptera den 18 november eller föreslå en annan tid senast den 11 november. Ingen offentlig bekräftelse på att Huang accepterat datumet har identifierats i denna kontroll. Briefingen är därför fortfarande en begärd, inte offentligt bekräftad, händelse.
+
+**Källor:**
+- House Foreign Affairs Committee Democrats, 9 november 2026: https://democrats-foreignaffairs.house.gov/2026/11/meeks-amo-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties/
+- House Foreign Affairs Committee, 5 november 2026: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
+- NVIDIA Board, 10 november 2026: https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board
+
 ### Uppdaterad bevismatris
 
 - **PRIMÄRKÄLLA:** Singapore Government/Ministry of Home Affairs förnekar att Singapore utrett Alice Huang; bekräftar separat att Megaspeed-utredningen pågår.
