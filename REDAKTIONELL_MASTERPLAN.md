@@ -1,8 +1,23 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 12 november 2026, 13.52 Europe/Sofia  
+**Version:** 13 november 2026, 00.28 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
+
+
+
+## Breaking Watch – uppdatering 13 november 2026, 00:28 EET
+
+- **F/P – NVIDIA:s ledningsskifte:** SEC Form 8-K, inlämnad 12 november, bekräftar att styrelsen accepterade Jensen Huangs avgång den 11 november med omedelbar verkan. Colette Kress är interim-vd och behåller CFO-rollen; Harvey C. Jones blir styrelseordförande. 8-K anger inget skäl. Singapore MHA:s primärbesked 12 november säger att Alice Huang inte utreddes för spioneri och att bevisningen inte räckte för att fastställa de undersökta inhemska brotten; Megaspeed-utredningen fortsätter. PR #47 och PR #10 uppdaterade med SEC, MHA och House-brevet.
+- **P – House-briefing:** de tre utskottsordförandena begärde en sluten briefing med Huang den 18 november och svar senast 11 november. Ingen offentlig acceptans, ny tid, inställelse eller ersättande vittne identifierad. Begäran är inte en subpoena.
+- **O – Hormuz:** UKMTO #201–204 redovisar fyra separata incidenter 10–11 november. #203 rapporterar flera skadade; #204 identifieras av Reuters som MT DOMINICA PROSPERITY, med 22 evakuerade. Ingen ansvarig aktör har identifierats.
+- **K – Cladonia:** SVT bekräftar mötet i Svenstavik 10 november mellan kommunalrådet och en jurist för Cladonia. Le Monde 12 november återger en separat 300-hektarsuppgift via ÖP. Fastighetsregister och köpehandlingar saknas fortfarande.
+- **R – Norrsundet:** Blykallas samråd om föreslagen anläggningsplan för sex blykylda SMR, cirka 330 MWe, stänger 13 november. Det är inte bygg- eller driftstillstånd.
+- **I – Fennoskandien:** SOU 2026:58 är läst mot mandatbegränsningarna och rekommendationerna om mark, skogsbruk, renskötsel och kumulativa miljöeffekter. Nytt senare granskningsutkast PR #61. Detta ändrar inte publiceringsordningen.
+- **B/E/F:** Statnetts tillfälliga stopp för nya datacenterreservationer, CRMA:s 46 nya projekt och NVIDIA:s 105 md USD SB Energy-garantiram är fortsatt centrala baslinjer; inga nya avtalsändringar identifierade i denna cykel.
+- **Övriga spår:** A, C, D, G, H, J, L, M, N, Q och S har screenats; inget nytt offentligt primärdokument över notiströskeln har identifierats i denna cykel.
+
+**Köstatus:** PR #61 är ett senare DRAFT. Befintlig prioriteringsordning är oförändrad. Ingen PR har mergats och ingen artikel är LIVE.
 
 ## 1. Publiceringsstatus och system
 
@@ -35,7 +50,7 @@
 | 6 | **NVIDIA – när aktier blir säkerhet för lån** | AI-finansierings- och kreditkedjeutkast; NVIDIA/icke-kinesisk molnpolicy som separat delspår | Den centrala artikeln om **NVIDIA-aktier som lånesäkerhet** saknar ännu en egen dokumenterad låne-/pantkedja. Håll aktiepant åtskild från GPU-, server- och projektfinansiering. |
 | 7 | **Det stora och det lilla fängelset – Libanons kristna historia** | `2026-11-05-libanon-unifil-kristna-syd.md` | UNIFIL-utkastet täcker inte hela den historiska artikeln. Geagea, Gemayel-familjen, Syriens närvaro och tillbakadragande, domar, amnesti och kyrkans roll kräver en separat sammanhängande historisk granskning med flera perspektiv. |
 | 8 | **Europa: Kyrkorna som överlevde imperierna** | Referensmaterial sparat; inget komplett huvudutkast i PR #1 | Egen artikel krävs med byggnadsspecifika källor för Wiesbaden, Warszawa och Prag. Sofia och Varna kan bli fortsättningar. Skilj byggnadskontinuitet, liturgiskt bruk, församlingens överlevnad, skada och återuppbyggnad. |
-| 9 | **Fennoskandien – urberget, skogen och hästen** | `2026-11-06-arctial-hastlandskap-energi-crma.md` som ett delcase | Arctial/Kvikant är inte en heltäckande fennoskandisk historia. En egen huvudartikel kräver separata geologiska, skogshistoriska, arkeologiska, ekonomiska och hästhistoriska källor. |
+| 9 | **Fennoskandien – urberget, skogen och hästen** | `2026-11-06-arctial-hastlandskap-energi-crma.md` som ett delcase; [PR #61 – SOU 2026:58 och markpolitik](https://github.com/selotisk-source/Folktribunalen/pull/61) | Arctial/Kvikant är inte en heltäckande fennoskandisk historia. PR #61 är ett separat senare granskningsärende om Sanningskommissionens 71 uppmaningar, Jämtlands historiska skattefjäll/lappbyar och dagens markförvaltning. Det är inte ett rättsligt avgörande om enskilda fastigheter. En bred huvudartikel kräver fortsatt geologiska, skogshistoriska, arkeologiska, ekonomiska och hästhistoriska källor. |
 
 **Statusbedömning:** Spår 1–5 och 7 har minst ett delutkast i dokumentbanken, men inget är automatiskt färdigt eller godkänt. Spår 6 har relaterade finansieringsutkast men saknar en egen artikel om NVIDIA-aktier som lånesäkerhet. Spår 8 saknar komplett artikelutkast. Spår 9 har ett delcase men saknar den breda huvudartikeln. Inget av de nio spåren är LIVE.
 
