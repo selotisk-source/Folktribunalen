@@ -171,3 +171,11 @@ Källor:
 - House Foreign Affairs: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
 - Reuters, 12 nov: https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/
 - BIS: https://www.bis.gov/news-updates
+
+
+#### F. NVIDIA – leverantörskedja och fjärråtkomst till GPU-kapacitet
+
+Reuters publicerade 12 november kl. 08:25 UTC en separat leverantörskedjeanalys. Leverantörer i Taiwan och Sydkorea uppges planera för ett möjligt vd-byte; en anonym taiwanesisk leverantör befarar att en efterträdare kan vara mindre aggressiv med kapacitetsbokningar. Reuters anger samtidigt motargumentet att de närmaste ett till två årens chip redan är designade/i produktion och att kundernas 2027-planer inte nödvändigtvis ändras av vem som är vd. Vid Reuters publicering var TSMC ned cirka 2 procent, SK Hynix ned 1,6 procent och Samsung upp 0,8 procent. Reuters rapporterar även att kinesiska AI-bolag söker utländsk åtkomst till NVIDIA-chip av oro för att USA kan skärpa kontroller av fjärråtkomst till avancerade processorer. Detta är rapporterade marknads- och företagsreaktioner, inte ett nytt bekräftat förbud eller bevis för faktisk chipdiversion.
+
+Källa:
+- Reuters, 12 nov: https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12/
