@@ -399,3 +399,8 @@ The requested 18 November briefing now has an open status question because the r
 - Singapore MHA: https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/  
 - House committee request: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset  
 - Reuters: https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/
+
+
+### Singapore MHA – additional procedural detail, 13 November
+
+MHA's 12 November statement also says that Supermicro provided limited cooperation in the Singapore inquiry. Singapore's police and Attorney-General's Chambers raised the issue with U.S. authorities on 7 July 2025 and repeatedly sought assistance from DOJ/FBI from September 2025 onward; MHA says the information and assistance received remained limited. This is Singapore's account of cross-border investigative cooperation. It is not a finding that Supermicro committed an offence, and it does not establish that NVIDIA or Huang participated in any unlawful export.
