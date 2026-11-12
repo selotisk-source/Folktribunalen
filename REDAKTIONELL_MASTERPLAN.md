@@ -1027,3 +1027,13 @@ Full A–S-screening genomförd och dokumenterad i [researchjournalen 10:05](edi
 - PR #22 – Libanon: UNIFIL:s Wadi Jilu-uttalande 10 november återkontrollerat; händelsen och den oidentifierade skytten hålls isär från kyrkspecifika uppgifter.
 
 **Prioriteringsordningen ligger fast:** 1 Hormuz, 2 Gripen över Polen, 3 USA:s kongress, 4 Palantir Q3, 5 AI-infrastrukturens kreditkedja. Ingen artikel har mergats, godkänts eller publicerats. Databasbaserad webbkö är fortfarande skild från GitHub-gransknings-PR:erna.
+
+
+
+## Breaking Watch – kontrollcykel 12 november 2026, 11:06 EET
+
+- Full A–S-screening genomförd; fem spår gav substantiellt nytt eller fördjupat belägg: B, E/S, F, O och R.
+- Nya kontrollpunkter: Stortingets höring 23 november; Finlands lagpaket träder i kraft 15 november och operatörernas CRMA-bedömningar förfaller 24 november; CoreWeaves fullständiga Q3 10-Q och NVIDIAs resultat 17 november; identifiering av de tankfartyg som IRGC hävdar skadades; RWE/KKR:s faktiska bygg- och finansieringsmilstolpar.
+- Kanonisk cykeljournal: `editorial/research/2026-11-12-breaking-watch-1106.md`.
+- Täckningsmatris: uppdaterad i samma redaktionella gren.
+- PR #14, #31, #34 och #53 uppdaterade. PR #49 om RWE/KKR fanns redan i kö. Inga merge- eller publiceringsåtgärder.
