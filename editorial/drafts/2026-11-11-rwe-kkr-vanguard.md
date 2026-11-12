@@ -109,3 +109,13 @@ För den europeiska energidebatten är jämförelsen med datacenterutbyggnaden r
 - Reuters, 11 november 2026: https://www.reuters.com/business/energy/rwe-posts-9-month-core-earnings-above-expectations-favourable-conditions-2026-11-11/
 
 **Status:** Källuppdatering i öppet granskningsutkast; tidigare artikelgodkännande omfattar inte detta tillägg.
+
+
+
+## Källförtydligande – financial close kontra formellt FID, 12 november 2026
+
+RWE:s primärmeddelande den 11 november säger uttryckligen att equity close och financial close har uppnåtts för båda projekten. Den brittiska regeringens pressmeddelande samma dag beskriver milstolpen som att utvecklarna nu gör sitt “final investment commitment”. RWE:s meddelande använder däremot inte uttryckligen termen Final Investment Decision (FID). Tidigare RWE-kommunikation i januari 2026 angav att FID och projektfinansiering var planerade till sommaren 2026. **Redaktionell avgränsning:** beskriv financial close och equity close som uppnådda; redovisa regeringens formulering ordagrant eller som dess beskrivning; slå inte fast ett formellt FID förrän ett projektbolagsbeslut eller en uttrycklig RWE/FMV-handling bekräftar det.
+
+Källor:
+- RWE, 11 november 2026: https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-and-kkr-join-forces-to-deliver-2-8-gw-of-new-offshore-wind-capacity-in-the-uk/
+- UK Government, 11 november 2026: https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables
