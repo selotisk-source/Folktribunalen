@@ -681,3 +681,9 @@ Två olika företeelser ska följas parallellt: NVIDIA:s direkta investeringar o
 - NVIDIA, resultatkonferens Q3 FY2027 planerad 17 november 2026: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx
 
 **Nästa kontrollpunkter:** CoreWeaves fullständiga Q3 10-Q och skuldnoter; om de förväntade 9 md USD i kundförskott faktiskt inflyter; hur mycket av DDTL-faciliteten som dragits; faktisk aktiv effekt vid årsskiftet; NVIDIAs Q3-rapport 17 november; och Oracles nästa rapportering om leasingåtaganden, finansierade kundfordringar och datacenterleveranser.
+
+
+
+### Källförtydligande – CoreWeaves leasing och skuldflöden
+
+SEC Exhibit 99.1:s balansräkning visar dessutom **18,697 md USD i operationella leasingskulder** och **649 m USD i finansiella leasingskulder** vid 30 september 2026. Dessa ska redovisas separat från de cirka 46,873 md USD i recourse och non-recourse debt; de är inte inkluderade i den skuldsumman. Q3-kassaflödet visar **10,301 md USD i skuldemissionsintäkter** och **2,344 md USD i amorteringar/återbetalningar**. Total liabilities var 87,456 md USD. Detta förstärker behovet av att skilja bankskuld, leasingskulder, uppskjutna intäkter och övriga åtaganden i finansieringskartan.
