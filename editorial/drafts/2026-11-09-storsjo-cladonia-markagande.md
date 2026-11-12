@@ -1,7 +1,7 @@
 # STORSJÖ KAPELL: VEM ÄGER LANDSKAPET NÄR MARKEN BYTER HÄNDER?
 
 **Artikeltyp:** Granskning · markägande · skogspolitik · lokalsamhälle · utländska investeringar  
-**Faktaläge:** 9 november 2026  
+**Faktaläge:** 12 november 2026, 08:52 EET  
 **Publiceringsstatus:** Redaktionellt utkast – inte godkänt för publicering  
 **Geografiskt fokus:** Storsjö kapell, Bergs kommun, Jämtlands län
 
@@ -246,3 +246,41 @@ Sveriges Radio P4 Jämtland publicerade samma kväll en separat kort rapport och
 5. Fortsätt skilja mellan Alex Karp, Cladonia Skog AB, SCA och eventuella andra juridiska personer.
 
 **Redaktionell slutsats:** Mötet tillför en kommunalt återgiven avsiktsbild, inte en juridiskt bindande garanti. Artikeln ska ställa den återgivna rekreationsinriktningen bredvid kontraktets rapporterade skogsbruksändamål och därefter söka originalhandlingarna.
+
+
+## Uppdatering 12 november 2026, 08:52 EET – uppropet och 300-hektarsuppgiften
+
+### Uppropets storlek
+
+**OBEROENDE BEKRÄFTELSE – P4 Jämtland, 12 november 2026 kl. 05.56:**  
+https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
+
+P4 rapporterar att omkring 30 000 personer skrivit under uppropet mot markaffären. Skiftets kampanjsida visar vid direkt kontroll 33 174 underskrifter, medan plattformens översiktssida visade 33 361. Räknarna är inte synkroniserade. Skriv därför “över 33 000 enligt Skiftets egna räknare” och ange att det är kampanjplattformens uppgift, inte en oberoende revision av underskrifterna.
+
+**PARTSUPPGIFT – Skiftet:**  
+https://kampanjer.skiftet.org/campaigns/palantir-ut-ur-harjedalen
+
+Kampanjtextens politiska och bolagsrelaterade påståenden är opinionsbildning. Använd endast den synliga signaturräknaren som plattformsdata; använd inte kampanjtexten som bevis för ägande, bolagsavsikt eller Palantirs myndighetsanvändning.
+
+### 300 hektar: Le Monde och SVT ger olika bild
+
+**OBEROENDE BEKRÄFTELSE – Le Monde, 12 november 2026:**  
+https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html
+
+Le Monde skriver att Cladonia Skog AB köpte ytterligare 300 hektar i regionen den 16 oktober och att Alex Karp är bolagets enda ägare. Le Monde hänvisar till Östersunds-Posten. Den bakomliggande OP-länken leder i den tillgängliga versionen till en opinionsartikel och den ursprungliga nyhetsrapporten kunde inte hämtas. Uppgiften är därför inte primärverifierad.
+
+**Motbelägg – SVT Jämtland, 12 november 2026 kl. 05.30:**  
+https://www.svt.se/nyheter/lokalt/jamtland/har-ar-palantir-vdns-mark-i-harjedalen-se-skogen-on-och-fabodvallen?mobilmeny=1
+
+SVT skriver att flera fastigheter, inklusive ön, köptes av SCA i ett enda svep och anger 240 miljoner kronor som total kostnad för hela skogsaffären. Det är förenligt med SVT:s tidigare korrigering att en separat “ö-affär” på 300 hektar kan ha varit en missvisande tolkning av samma förvärv.
+
+**Status:** OBEKRÄFTAD konflikt. Le Monde kan avse en separat transaktion med annan säljare eller en annan avgränsning av fastigheterna; SVT kan avse hela SCA-affären. Ingetdera ska behandlas som avgjort utan fastighetsbeteckningar, säljare, köpare och lagfartsdatum från Lantmäteriet. Håll isär Alex Karp personligen, Cladonia Skog AB och SCA.
+
+### Kommunal status
+
+**PRIMÄRKÄLLA – Bergs kommuns kallelse till kommunstyrelsen 10 november 2026:**  
+https://berg.se/download/18.74b303f21a1a1a9bcb31a1f/1793747745560/Kallelse%20f%C3%B6rstasida%20kommunstyrelsen%2010%20november%202026.pdf
+
+Cladonia/Storsjö finns inte som formellt ärende på den publicerade KS-dagordningen. Det mediala rapporterade mötet med kommunföreträdare och bolagets representant ska därför beskrivas som en separat kontakt, inte som ett beslut av kommunstyrelsen. Något formellt beslut om markanvändning, datacenter eller mineralutvinning har inte identifierats i denna kontroll.
+
+**Nästa primärkontroll:** Lantmäteriets lagfarts- och fastighetsutdrag, Bolagsverkets aktuella ägar-/styrelseuppgifter, eventuella skriftliga bolagsbesked samt kommunens eventuella mötesanteckningar. Medieåtergivningar av muntliga besked är partsuppgifter, inte bindande avtal.
