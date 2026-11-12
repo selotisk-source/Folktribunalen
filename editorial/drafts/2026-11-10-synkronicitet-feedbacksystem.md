@@ -118,6 +118,25 @@ En viktig motvikt i samma översikt är att en systematisk Floatation-REST-studi
 
 Källa: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1980354/full
 
+## Källuppdatering 12 november 2026 – empirisk studie om synkronicitetsmedvetenhet
+
+**PRIMÄRKÄLLA – originalforskning:** Pninit Russo-Netzer och Tamar Icekson publicerade den 11 mars 2026 artikeln *Attachment to God and meaning in life: the role of synchronicity awareness among ultra-Orthodox and secular individuals* i *Frontiers in Psychology*, volym 17, DOI 10.3389/fpsyg.2026.1609435.
+
+Studien använde ett matchat urval om **242 deltagare** från ultraortodoxa och sekulära grupper i Israel. Deltagarna besvarade självskattningsmått för anknytning till Gud, medvetenhet om synkronicitet, meningsdetektion och upplevd mening i livet. Forskarna använde path analysis.
+
+**Resultat enligt artikeln:**
+- Grupperna uppvisade liknande nivåer av rapporterad synkronicitetsmedvetenhet och meningsdetektion.
+- Meningsdetektion – att aktivt tolka sammanträffanden som betydelsefulla – medierade sambandet mellan ängslig anknytning till Gud och upplevd mening i livet.
+- Enbart medvetenhet om sammanträffanden medierade inte detta samband.
+
+**Metodgräns:** Det är en empirisk studie av självrapporterade upplevelser och deras samband med religiös anknytning och meningsskapande. Den är inte ett test av om yttre händelser kan vara objektivt acausalt sammankopplade. Den tvärsnittsliga, självrapporterade designen fastställer inte kausal riktning. Författarna efterlyser själva longitudinella och experimentella studier.
+
+**Redaktionell betydelse:** Studien stärker underlaget för att undersöka hur människor uppmärksammar och tolkar meningsfulla sammanträffanden. Den får inte användas som belägg för att sammanträffanden överskrider slump eller vanliga kausala mekanismer.
+
+**Korskoppling:** McCoss-artikeln i *Biosemiotics* (21 september 2026) är en kvalitativ biosemiotisk teori; Kotler, Mannino, Kelso och Fristons artikel i *Neuroscience of Consciousness* (19 oktober 2026) är en review som föreslår neurodynamiska hypoteser. Dessa två bidrag ska hållas åtskilda från Russo-Netzer/Iceksons empiriska självrapporteringsstudie.
+
+**Källa:** https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1609435/full
+
 ## Öppna frågor före publicering
 
 - Hämta fulltextens metod- och referensdel för Kotler, Mannino, Kelso och Friston och kontrollera vilka empiriska resultat som är direkta observationer respektive teoretiska prediktioner.
