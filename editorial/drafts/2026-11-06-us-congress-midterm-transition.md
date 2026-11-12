@@ -342,3 +342,22 @@ Coloms seger ger Demokraterna **55 projicerade senatsplatser mot Republikanernas
 - **OBEROENDE BEKRÄFTELSE:** AP:s och Reuters projektion av Coloms seger; Hyde-Smith har medgett sig besegrad.
 - **PRIMÄRKÄLLA:** Alaska anger att RCV-tabellering kommer den 18 november och att certifiering är planerad till den 25 november.
 - **OBEKRÄFTAD:** Alaskas slutliga vinnare och den slutliga senatsfördelningen.
+
+
+## Källuppdatering 12 november 2026 – Remote Access Security Act och utländsk GPU-molnåtkomst
+
+Reuters rapporterade 12 november kl. 05.31 UTC att kinesiska AI-bolag försöker säkra NVIDIA-baserad beräkningskapacitet i datacenter utanför Kina. Reuters hänvisar till tre personer med insyn; inga bindande kapacitetsavtal, köparnamn eller leveransvolymer har offentliggjorts. Reuters kunde inte självständigt verifiera den separata underrättelseanklagelsen mot den affärskontakt som förekommer i rapporteringen. Detta är en rapporterad marknadsreaktion och en möjlig policytrigger, inte bevis för exportbrott.
+
+**PRIMÄRKÄLLA – H.R. 2683:** Remote Access Security Act passerade representanthuset 12 januari 2026 med 369–22 (House Clerk Roll Call 13). Den 13 januari mottogs lagförslaget i senaten, lästes två gånger och hänvisades till Senate Committee on Banking, Housing, and Urban Affairs. Det är fortfarande inte antagen lag.
+
+**PRIMÄRKÄLLA – S. 3519:** Senator Dave McCormicks officiella lagstiftningsregister listar en senatsversion med samma namn, introducerad 5 augusti 2026 och hänvisad till Banking, Housing, and Urban Affairs. Ingen senare senatsomröstning eller utskottsrapport har identifierats i denna kontroll.
+
+**Betydelse:** lagförslagen riktar sig mot fjärråtkomst via internet eller molntjänster till exportkontrollerad teknik som är fysiskt placerad i ett annat land. Det är direkt relevant för Reuters rapportering om att kinesiska företag söker utländsk GPU-kapacitet. H.R. 2683 har passerat House men är inte lag; S. 3519 har inte passerat Senate.
+
+Källor:
+- Reuters, 12 november 2026: https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/
+- U.S. House Clerk, Roll Call 13: https://clerk.house.gov/Votes/202613
+- GovInfo, H.R. 2683, Referred in Senate: https://www.govinfo.gov/app/details/BILLS-119hr2683rfs
+- Senator Dave McCormick, S. 3519: https://www.mccormick.senate.gov/about/legislation/?leg_page=3&leg_type=sponsored
+
+**Nästa kontroll:** Senate Banking Committee:s kalender och markup, Commerce/BIS-regler om fjärråtkomst, eventuella nya lagförslag i NDAA samt offentliga licens- och efterlevnadsbesked. Ingen slutlig lagstiftning eller exportöverträdelse påstås.
