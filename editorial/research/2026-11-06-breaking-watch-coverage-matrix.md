@@ -1007,7 +1007,7 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 | H | 12 nov 10:05 | Kyrko-, kommun- och kulturarvskällor i fem städer | Ingen ny primär restaurerings-/ägarhandling | Lokala byggnadsakter och församlingsarkiv |
 | I | 12 nov 10:05 | SGU/GTK och offentliga skogs-/kulturmiljökällor | Ingen ny verifierad mark- eller hästkulturhandling | Avverkning, rennäring och historiska kartor |
 | J | 12 nov 10:05 | Folkloristik, runologi, Thiel-intervju | Ingen ny dokumenterad observation eller runologisk primärkälla | Originalvittnesmål och fullständiga intervjutranskript |
-| K | 12 nov 10:05 | Le Monde 12 nov; OP 16 okt; SVT/P4 | 300 ha får oberoende mediebekräftelse; register saknas; PR #32 uppdaterad | Lagfarter, köpehandlingar, verklig huvudman |
+| K | 12 nov 10:05 | Le Monde 12 nov; OP 16 okt; SVT/P4 | Le Monde återger ÖP:s 300-ha-uppgift; ingen oberoende registerbekräftelse; register saknas; PR #32 uppdaterad | Lagfarter, köpehandlingar, verklig huvudman |
 | L | 12 nov 10:05 | RAÄ, länsstyrelse och kyrkoarkivsspår | Ingen ny restaurerings-/brandhandling | Inventarier och byggnadsarkeologi |
 | M | 12 nov 10:05 | MOmA/Athos offentliga katalog- och projektuppgifter | Ingen ny donation/proveniens eller konkret svensk-bulgarisk bokväg | Kataloger och provenienshandlingar |
 | N | 12 nov 10:05 | EU eIDAS, IMY/EDPB och svenska lagkällor | Ingen ny dom/tillsynshändelse | EUDI-införande och biometrisk tillsyn |
