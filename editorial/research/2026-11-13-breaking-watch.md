@@ -1,0 +1,148 @@
+# FOLKTRIBUNALEN – Breaking Watch
+## Intern arbetslogg och täckningsmatris | 13 november 2026, 00:28 EET
+
+**Dokumenttyp:** intern OSINT-arbetslogg, inte publiceringsartikel.  
+**Status:** researchjournal för redaktionell granskning. Ingen artikel publiceras eller mergas genom detta dokument.
+
+## Samlad bedömning
+
+Samtliga 19 huvudspår A–S har screenats. Den tydligaste nya utvecklingen är **NVIDIA:s ledningsskifte**, som nu är bekräftat i en SEC-8-K. Samtidigt har Singapore publicerat en officiell redogörelse som väsentligt nyanserar den amerikanska underrättelseanklagelsen mot den tidigare Megaspeed-chefen Alice Huang: Singapore säger uttryckligen att hon inte utreddes för spioneri och att man inte fann tillräcklig bevisning för att fastställa att hon begått de undersökta inhemska brotten. Utredningen mot Megaspeed och sex andra personer fortsätter.
+
+Övriga betydelsefulla kontrollpunkter:
+1. **O/F/P – NVIDIA, exportkontroller och kongressen:** SEC 8-K daterad 12 november redovisar att styrelsen accepterade Jensen Huangs avgång den 11 november, med omedelbar verkan. Colette Kress är interim-vd och behåller CFO-rollen; Harvey C. Jones blir bolagets första styrelseordförande. House-ordförandenas begärda briefing den 18 november har nu passerat svarsdagen 11 november; ingen offentlig bekräftelse på Huang/NVIDIA:s svar eller ändrat upplägg har hittats.
+2. **O – Hormuz:** UKMTO:s varningar 201–204 redovisar fyra separata incidenter 10–11 november. Den senaste, #204, gäller en tanker 14 nautiska mil nordväst om Ras Al Khaimah; Reuters identifierar den som MT DOMINICA PROSPERITY och uppger att samtliga 22 ombord evakuerades säkert. Projektilens avsändare är okänd.
+3. **K – Cladonia/Storsjö:** SVT bekräftar mötet den 10 november mellan Bergs kommunalråd och en jurist som företrädde Cladonia. Le Monde återger den 12 november en separat uppgift om cirka 300 hektar/5 mkr med hänvisning till Östersunds-Posten. Inga direkta lagfartsutdrag eller köpehandlingar har hämtats i denna cykel.
+4. **R – Norrsundet:** Länsstyrelsens samråd om den föreslagna anläggningsplanen för Blykallas sex blykylda SMR stänger **13 november 2026**. Det är ett samråd, inte ett bygg- eller driftstillstånd.
+5. **I – Fennoskandien:** SOU 2026:58 har nu lästs mot sin egen sammanfattning och historiska Jämtlandskapitel. Ett separat, senare granskningsutkast har öppnats som **PR #61**. Det ändrar inte den befintliga artikelordningen.
+
+**Redaktionell status:** befintliga artiklar förblir DRAFT. PR #61 är också DRAFT. Ingen PR har mergats och ingen artikel har publicerats eller kontrollerats LIVE.
+
+---
+
+## Betydande uppdateringar
+
+### F/P/N – NVIDIA:s ledningsskifte och den offentliga exportkontrollfrågan
+
+**Händelsedatum:** 11 november 2026.  
+**Publicerings-/filingsdatum:** 12 november 2026.
+
+- **PRIMÄRKÄLLA:** NVIDIA:s Form 8-K, SEC accession 0001045810-26-000082, inlämnad 12 november. Den säger att styrelsen den 11 november accepterade Jen-Hsun Huangs avgång som president, vd och styrelseledamot, med omedelbar verkan. Colette M. Kress utsågs till interim-vd och fortsätter samtidigt som CFO. Harvey C. Jones utsågs samma dag till styrelsens första ordförande. 8-K anger inget skäl till avgången.
+- **PRIMÄRKÄLLA:** NVIDIA:s pressmeddelande 12 november bekräftar samma ledningsbeslut och säger att bolaget söker en permanent vd. Q3 FY2027-resultatet ska fortfarande publiceras 17 november kl. 1.20 p.m. Pacific Time, följt av telefonkonferens kl. 2 p.m. PT.
+- **OBEROENDE BEKRÄFTELSE:** Reuters och AP rapporterar avgången och Kress interimutnämning. Deras rapportering om bakomliggande personliga relationer och misstänkta underrättelsekopplingar ska inte blandas ihop med vad SEC-filing eller bolaget faktiskt säger.
+- **PRIMÄRKÄLLA – Singapore:** Ministry of Home Affairs redogörelse 12 november säger att Alice Huang (Huang Le) inte utreddes för spioneri. Singapore utreder sedan februari 2025 Megaspeed och dess nyckelpersoner för misstänkta inhemska brott, bland annat möjliga felaktiga deklarationer vid serverköp. I februari 2026 bedömde polisen, efter samråd med Attorney-General’s Chambers, att bevisningen inte räckte för att fastställa att Alice Huang begått de undersökta brotten. Hon fick en formell varning och förbjöds återresa efter att polisen bedömt att hon lämnat uppgifter hon visste var felaktiga om sin roll i bolaget. Utredningen mot Megaspeed och sex andra personer fortsätter.
+- **PRIMÄRKÄLLA – internationell rättslig samverkan:** Singapore uppger att USA:s BIS gjorde en frivillig Post-Shipment Verification hos Megaspeed den 24 juni 2025; Singapore fick då först kännedom om USA:s intresse. Singapore uppger också att man därefter sökt hjälp från DOJ/FBI men fått begränsad information eller assistans. MHA säger att den egna utredningen inte initierades på begäran av någon annan stat.
+- **PARTSUPPGIFT:** House Foreign Affairs-, China Select- och Intelligence-ordförandena beskrev i sitt pressmeddelande 5 november Alice Huang som en offentligt rapporterad kinesisk underrättelsetillgång och begärde en gemensam sluten briefing med Jensen Huang den 18 november. Brevet är en begäran, inte en subpoena, inte en offentlig utfrågning och inte ett fastställt underrättelsefynd.
+- **ÖPPEN FRÅGA:** svarsdagen i House-brevet var 11 november. Ingen offentlig acceptans, alternativ tid, inställd briefing eller ersättande vittne har identifierats i denna kontroll. Huangs avgång gör statusen särskilt viktig att följa, men upphäver inte automatiskt en personlig begäran om briefing.
+- **OBEROENDE BEKRÄFTELSE:** Reuters rapporterar att talman Mike Johnson sagt att kongressen utvecklar enighet om skärpta chiprestriktioner mot Kina. Det är ett politiskt uttalande, inte en antagen exportkontrollregel.
+- **Viktig gräns:** det finns i detta underlag inget fastställt belägg för att NVIDIA:s företagshemligheter läckt, att Huang varit medveten om någon underrättelsekoppling eller att Megaspeed slutligt befunnits ha brutit mot amerikanska exportkontroller.
+
+**Varför det spelar roll:** Kress har varit CFO sedan 2013 och är nu tillfälligt både vd och CFO inför kvartalsrapporten 17 november. Det gör governance, kapitalallokering, kundförskott, garantier och relationerna till AI-molnpartners till en direkt styrelse- och ledningsfråga. Det är dock inte belägg för att de tidigare redovisade garantierna eller avtalen har ändrats.
+
+**Källor:**
+- SEC Form 8-K, 12 november: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm
+- NVIDIA, CEO Transition, 12 november: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx
+- Singapore MHA, 12 november: https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/
+- House Foreign Affairs Committee, 5 november: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
+- Reuters, 12 november: https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/
+- AP, 12 november: https://apnews.com/article/017d4af2ad194ec2981d661663da9f9b
+
+### O – Hormuz: fyra separata UKMTO-incidenter 10–11 november
+
+- **PRIMÄRKÄLLA:** UKMTO:s Recent Incidents-lista redovisar #201–204. Samtliga är separata varningar och får inte slås ihop till en enda fartygshändelse.
+- **#201, 10 november:** tanker 19 nautiska mil nordost om Lima, Oman; befälhavaren rapporterade träff av okänd projektil. Besättningen uppgavs vara säker och ingen miljöpåverkan rapporterades.
+- **#202, 11 november:** tanker i Hormuzsundet; en senare uppdatering bekräftar att fartyget träffats av okänd projektil. Besättning, skador och miljöpåverkan var fortfarande okända vid den första uppdateringen.
+- **#203, 10 november:** tanker i Persiska viken, på östgående resa, träffad av okänd projektil. Flera personer skadades och fördes i land för vård; övrig besättning var säker. Fartyget är inte identifierat i den publika UKMTO-notisen.
+- **#204, 11 november kl. 18.00 UTC:** tanker 14 nautiska mil nordväst om Ras Al Khaimah, UAE, träffad i maskinrummet av okänd projektil. Inga dödsfall rapporterades; hela besättningen evakuerades säkert och brandsläckning pågick.
+- **OBEROENDE BEKRÄFTELSE:** Reuters identifierar #204-fartyget som Liberia-flaggade MT DOMINICA PROSPERITY. Reuters uppger 22 personer ombord, varav 19 indiska medborgare, och hänvisar till Indiens sjöfartsminister för evakueringen. MARISKS anges som källa till ägare och operatör; Ambrey uppger att träffen skedde akterut när fartyget lämnade Hormuz.
+- **OBEKRÄFTAD/PARTSUPPGIFT:** Iranska militärens påstående om fyra tankfartyg som skulle ha träffats av minor den 11–12 november har inte kunnat oberoende verifieras av Reuters. Inget av de fyra UKMTO-larmen anger ansvarig stat eller grupp.
+
+**Källor:**
+- UKMTO: https://www.ukmto.org/recent-incidents
+- Reuters, 12 november: https://www.reuters.com/world/middle-east/vessel-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-2026-11-12/
+
+### K – Cladonia Skog AB / Storsjö kapell
+
+- **OBEROENDE BEKRÄFTELSE:** SVT publicerade 10 november att Bergs kommunalråd Therese Kärngard träffade en jurist som anlitats som företrädare för Cladonia Skog. SVT:s text bekräftar mötet i Svenstavik men hänvisar till video för själva förklaringen om varför marken köptes. Det är ett möte och en återgiven förklaring, inte ett bindande bolagslöfte eller ett myndighetsbeslut.
+- **PARTSUPPGIFT:** tidigare återgivna uppgifter om rekreation/skidåkning och avsaknad av presenterade planer på datacenter eller mineralutvinning måste fortsatt beskrivas som bolagets förklaring via kommunledningen.
+- **OBEROENDE BEKRÄFTELSE/SEKUNDÄR ÅTERGIVNING:** Le Monde publicerade 12 november en uppgift om en separat tilläggsaffär om cirka 300 hektar och cirka 5 miljoner kronor, med hänvisning till Östersunds-Posten. Detta är inte ett ersättande bevis för totalarealen eller en direkt lagfartsverifiering.
+- **ÖPPET:** Lantmäteriets lagfartsutdrag, köpehandlingar, fullständig fastighetslista och Länsstyrelsens ursprungliga beslut har inte hämtats direkt i denna cykel. Bergs kommuns kallelse-PDF för 10 november kunde inte öppnas i denna miljö; inget formellt kommunstyrelsebeslut om affären har därför verifierats här.
+
+**Källor:**
+- SVT, 10 november: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
+- Le Monde, 12 november: https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html
+
+### R – Norrsundet: samrådet stänger 13 november
+
+- **PRIMÄRKÄLLA:** Länsstyrelsen Gävleborg anger att Blykallas ansökan gäller sex blykylda små modulära reaktorer, cirka 330 MWe sammanlagd elektrisk effekt, mellanlager för kärnavfall och ett verksamhetsområde om cirka 40 hektar på fastigheten Gävle Norrsundet 15:28.
+- **PRIMÄRKÄLLA:** samrådet om förslag till anläggningsplan och miljökonsekvensbeskrivning löper 9 oktober–13 november 2026. Länsstyrelsen ska lämna ett förslag till anläggningsplan till regeringen senast 31 december 2026.
+- **Viktig statusgräns:** Norrsundet har ännu ingen gällande anläggningsplan. Samrådet är inte ett byggtillstånd, en driftlicens eller ett slutligt investeringsbeslut. Strålsäkerhetsmyndighetens och Mark- och miljödomstolens prövningar återstår.
+
+**Källor:**
+- Länsstyrelsen, samrådsinformation: https://www.lansstyrelsen.se/gavleborg/samhalle/ny-karnkraft.html
+- Länsstyrelsen, samråd 9 oktober–13 november: https://www.lansstyrelsen.se/gavleborg/om-oss/nyheter-och-press/nyheter/nyheter---gavleborg/2026-10-13-lansstyrelsen-bjuder-in-till-samrad-om-ny-karnkraft-i-norrsundet.html
+
+### B – Norge: nätkapacitet och datacenter
+
+- **PRIMÄRKÄLLA:** Statnett beslutade 9 november om tillfälligt stopp för nya nätkapacitetsreservationer och vissa nya godkännandeärenden för stora datacenter. Stoppet väntas upphöra senast 1 augusti 2027. Befintliga anslutningar och redan godkända anläggningar omfattas inte.
+- Statnett redovisar 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i anslutningsförfrågningar. Dessa är olika statuskategorier och får inte summeras till kontrakterad eller driftsatt effekt.
+- **PRIMÄRKÄLLA:** regeringen aviserar en avsedd koncessionsordning för datacenter och säger att kryptoverksamhet inte ska räknas som samhällsnyttig. Detta är en planerad regleringsmodell, inte en redan antagen lag.
+- **OBEROENDE BEKRÄFTELSE:** Reuters rapporterar om åtgärderna 9 november.
+
+**Källor:**
+- Statnett, 9 november: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- Regeringen, 9 november: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- Reuters, 9 november: https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
+
+### I – Fennoskandien: SOU 2026:58 och historisk markgeografi
+
+- **PRIMÄRKÄLLA:** SOU 2026:58, *Markerna berättar och minns*, överlämnad 30 september. Sammanfattningen innehåller 71 numrerade uppmaningar. Punkterna 25–36 rör bland annat historisk förlust av rättigheter till skatteland, renskötsel, skogssamebyars jakt/fiske, human-rights due diligence för statliga bolag och Statens fastighetsverk, kumulativa effekter i miljökonsekvensbeskrivningar och traditionell samisk kunskap. Punkt 38 gäller förslag om fritt och informerat förhandssamtycke; punkt 71 årlig rapportering till riksdagen.
+- Rapportens historiska Jämtlandskapitel beskriver 28 skattefjäll som insynades 1645–1889 och nio lappbyar från 1889, däribland Storsjö och Tännäs. Detta är historisk-geografisk dokumentation, inte bevis för en rättighet på en specifik nutida fastighet.
+- **Viktig mandatbegränsning:** kommissionen säger uttryckligen att uppdraget inte omfattade en fullständig juridisk kartläggning av renskötselrätten eller förslag till lagändringar inom Renmarkskommitténs avgränsade område. Uppmaningarna är inte lag eller dom.
+- **OBEROENDE BEKRÄFTELSE:** Institutet för mänskliga rättigheter, The Guardian och Justice Info rapporterade om överlämningen och de 71 uppmaningarna.
+- **ÖPPET:** regeringens remiss-/beredningsärende, budgeterade genomförandeåtgärder och Sametingets fullständiga svar.
+
+**Källor:**
+- Riksdagen, SOU 2026:58: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/markerna-berattar-och-minns_heb358/html/
+- Institutet för mänskliga rättigheter, 30 september: https://mrinstitutet.se/aktuellt/nyheter-2026/2026-09-30-sanningskommissionens-slutrapport-visar-vagen-mot-upprattelse-och-forsoning
+- The Guardian, 30 september: https://www.theguardian.com/world/2026/sep/30/sweden-sami-harm-apology-report
+- Justice Info, 4 november: https://www.justiceinfo.net/en/168108-the-swedish-commission-closes-the-nordic-sami-reconciliation-initiatives.html
+- Internt granskningsutkast: https://github.com/selotisk-source/Folktribunalen/pull/61
+
+---
+
+## Täckningsmatris A–S
+
+| Spår | Primärkällor / underlag screenat i denna cykel | Nytt över notiströskeln | Status och nästa kontrollpunkt |
+|---|---|---|---|
+| **A. Palantir och offentlig makt** | SEC Form 10-Q för kvartalet till 30 september; tidigare NHS England/OSR-material i befintlig artikelkö. | Ingen ny myndighetsupphandling eller ny dokumenterad NHS-datautvidgning identifierad. Q3 visar 2,313 md USD i omsättning och ett redovisat åtagande om minst 5,6 md USD för molntjänster över tio avtalsår till februari 2036. | **Aktiv.** Hämta namngiven molnleverantör om offentlig, avtalsbilagor, uppsägnings- och exitvillkor samt oberoende effektutvärdering. |
+| **B. Europas AI-datacenter** | Statnett och norska regeringen, 9 november; Reuters. | Tillfälligt stopp för nya datacenterreservationer i Norge till senast 1 augusti 2027; planerad koncessionsordning. | **Aktiv.** Följ RME:s funktionskrav, remiss, regionnätsundantag, elavtal och faktisk driftsatt effekt. |
+| **C. Synkronicitetsprotokollet** | Sökning efter peer-review, preregistrerade studier och öppna dataset inom perception, sammanträffanden och algoritmisk förstärkning. | Ingen ny reproducerbar studie som visar en objektiv acausal mekanism identifierad. | **Metodspår.** Fortsätt med basfrekvenser, preregistrering, kontrollgrupper, multipla jämförelser och oberoende replikation. |
+| **D. Sofia – staden under staden** | Sökning mot NAIM, Sofia kommun, musei- och arkeologikällor; tidigare Samuil-källspår. | Ingen ny primär arkeologisk rapport eller nytt kulturarvsbeslut om Sankt Sofia/Serdica identifierat. | **Aktiv bakgrund.** Hämta originaldokumentation för fyndet vid Sankt Achilleios, föremålsproveniens och ceremoniella överföringar. |
+| **E. Strategiska råvaror** | EU-kommissionens CRMA-projektsida och Publications Office-publikation, 9 oktober; SGU/GTK/Bergsstaten som fortsatta kontrollkällor. | Kommissionen har godkänt 46 nya EU-projekt; totalt 106 strategiska projekt räknas in när första EU-listan och 13 projekt utanför EU/territorier inkluderas. | **Aktiv.** Projektstatus är inte finansiering, gruvtillstånd, byggstart eller produktion. Följ nationella tillstånd och projektfinansiering. |
+| **F. NVIDIA och AI-finansiering** | NVIDIA Q2 FY2027 Form 10-Q; SEC Form 8-K 12 november; NVIDIA-pressmeddelande; Singapore MHA; House-brevet. | **Nytt ledningsskifte:** Huang avgår, Kress interim-vd/CFO, Jones styrelseordförande. Singapore nyanserar Megaspeed-anklagelserna. | **Aktiv/hög prioritet.** Följ Q3-resultat 17 november, Kress uttalanden om garantier/AI-cloud agreements, House-briefing och utredningar. |
+| **G. Libanons kristna historia och geopolitik** | Sökning mot UNIFIL, OCHA och kyrkliga källor. | Ingen ny oberoende verifierad kyrk- eller samfundsspecifik händelse över notiströskeln i denna cykel. | **Aktiv.** Fortsätt skilja civila händelser, partsuppgifter, fördrivning och kyrkliga vittnesmål. |
+| **H. Kyrkor som överlevt imperierna** | Offentliga kyrko- och kulturarvskällor för Wiesbaden, Warszawa, Prag, Sofia och Varna. | Ingen ny restaurerings-, ägande- eller bygglovshandling över notiströskeln. | **Bakgrund.** Fortsätt stadsvis med byggnadsarkiv, församlingar och kulturarvsregister. |
+| **I. Fennoskandien – urberg, skog och häst** | SOU 2026:58, Riksdagens dokumentportal, Institutet för mänskliga rättigheter, Guardian och Justice Info. | Rapporten ger ett viktigt primärunderlag för mark, skogsbruk, renskötsel och Jämtlands historiska skattefjäll/lappbyar. Nytt granskningsutkast PR #61. | **Aktiv.** Följ regeringens beredning, Sametingets svar och faktiska förändringar i mark- och skogsbeslut. |
+| **J. Storsjöodjuret – odjuret ur djupet** | Tidigare folkloristiska arkiv, Frösöstenens runologiska källor och Thiels egna offentliga uttalanden. | Ingen ny primär observation, hydrologisk rapport eller ny Thiel-utsaga identifierad. | **Metod-/kulturspår.** Håll biologiska påståenden åtskilda från folkloristik och teologisk symbolik. |
+| **K. Cladonia/Storsjö kapell** | SVT 10 november; Le Monde 12 november; tidigare ISP/Länsstyrelse- och fastighetsuppgifter i PR #32. | SVT bekräftar kommunmötet 10 november. Le Monde återger separat tilläggsaffär om cirka 300 ha/5 mkr via ÖP. | **Aktiv.** Hämta Lantmäteriet, köpehandlingar, exakta fastighetsbeteckningar, bolagsrelationer och kommunens formella protokoll. |
+| **L. Skaga kapell** | Sökning mot RAÄ, länsstyrelse- och församlingskällor. | Ingen ny restaurerings-, brand-, inventarie- eller ägandehandling identifierad. | **Bakgrund.** Fortsätt med byggnadsarkeologi och arkivbelagda dateringar. |
+| **M. Böckernas väg till Athos** | Offentliga kataloger, bibliotekskällor och forskningsprojekt. | Ingen ny offentlig donation, katalogisering eller digitaliseringsrelease identifierad. | **Bakgrund.** Följ proveniens och öppna kataloger; inga privata eller begränsade klosteruppgifter. |
+| **N. Från skrift till Storebror** | EU AI Act och tidigare HMICFRS-/biometrimaterial i PR #57. | Ingen ny lagändring eller ny dom identifierad i denna cykel. | **Aktiv.** Hämta fullständigt HMICFRS-original och följ AI Act:s stegvisa tillämpning, tillsyn och upphandling. |
+| **O. Hormuz och energiflöden** | UKMTO Recent Incidents #201–204; Reuters 12 november. | Fyra separata incidenter 10–11 november, varav #203 med flera skadade och #204 med evakuerad besättning på MT DOMINICA PROSPERITY. | **Hög prioritet.** Matcha IMO, flagg, ägare, operatör, last, AIS och försäkring; tillskriv inte angripare utan belägg. |
+| **P. USA:s kongress** | AP och Reuters om valresultat; House-kommittéernas brev 5 november; SEC 8-K; Singapore MHA. | Demokraterna bedöms ha vunnit båda kamrarna; 55–44 i senaten med Alaska olöst och 254–168 i representanthuset med 13 lopp ännu ej avgjorda enligt Reuters. NVIDIA-briefingens svarstid har passerat. | **Aktiv.** Slutlig certifiering, 119:e kongressens återstående beslut, 120:e kongressens tillträde 3 januari 2027 och briefingstatus 18 november. |
+| **Q. Gripen och Europas säkerhet** | Sökning mot Saab, FMV och Försvarsmakten. | Ingen ny Gripen E/F-order eller leverans med ny operativ betydelse identifierad. JEF-materialet ligger i separat befintlig PR. | **Aktiv.** Följ beställning kontra avsikt, leverans, utbildning och operativ förmåga. |
+| **R. Strategisk energi och större bolag** | Länsstyrelsen Gävleborgs Norrsundet-samråd och planhandlingar. | Samrådet stänger 13 november; Blykallas ansökan gäller sex blykylda SMR, cirka 330 MWe och mellanlager. | **Aktiv.** Registrera yttranden, länsstyrelsens sammanställning och förslag till anläggningsplan senast 31 december. |
+| **S. Urbergsskölden – industri och infrastruktur** | EU:s CRMA-projektlista; GTK/SGU/Posiva som kontrollpunkter. | Ingen ny Onkalo-drift- eller säkerhetslicens och inget nytt tillstånd för civil underjordisk anläggning identifierat. | **Aktiv.** Följ CRMA-projektens faktiska finansiering/tillstånd och Posiva/STUK:s formella driftsteg. |
+
+## Befintliga granskningsärenden och köstatus
+
+- **PR #3:** Hormuz, fortsatt chefredaktörens granskningsärende.
+- **PR #10:** USA:s kongress; kompletteras med den nya House-/NVIDIA-kopplingen och Singapore MHA:s primärbesked.
+- **PR #14:** AI-infrastrukturens kreditkedja; kompletteras med SEC 8-K och Kress interimroll inför Q3.
+- **PR #32:** Cladonia/Storsjö; fortsätter med fastighets- och tillståndskontroll.
+- **PR #47:** NVIDIA:s ledningsskifte och exportkontroller; kompletteras med SEC 8-K och Singapore MHA:s fullständiga rättelse.
+- **PR #53:** Hormuz-incidenter; UKMTO #201–204 korskontrolleras.
+- **PR #59:** Norrsundet; samrådsfristen 13 november.
+- **PR #61:** nytt DRAFT om SOU 2026:58 och dagens markpolitik, placerat efter befintlig prioriteringsordning.
+
+**Ingen PR har mergats. Ingen artikel är LIVE. Webbplatsens databasbaserade godkännandekö och aktuell Render-deployment har inte kontrollerats i denna cykel.**
