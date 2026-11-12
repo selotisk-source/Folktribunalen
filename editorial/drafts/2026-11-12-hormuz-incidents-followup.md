@@ -1,4 +1,4 @@
-# Hormuz: fyra rapporter – fyra olika bevislägen
+# Hormuz: fler fartygsincidenter – separata beviskedjor
 
 **Redaktionell status:** granskningsutkast för chefredaktörens godkännande  
 **Faktaläge:** 12 november 2026, 08:52 EET  
@@ -201,3 +201,23 @@ Källor:
 - Reuters, 12 november 2026, IRGC:s uppgift: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
 - UKMTO:s produktlista: https://www.ukmto.org/ukmto-products/advisories
 - UKMTO Recent Incidents: https://www.ukmto.org/recent-incidents
+
+## Källuppdatering 12 november 2026, 19:10 EET – nya fartygsidentiteter och öppna matchningar
+
+### MT Fujairah Energy – händelse 10 november, uppgift publicerad 11 november
+Indiens sjöfartsminister Sarbananda Sonowal uppgav i ett X-inlägg att den Liberiaflaggade VLCC:n MT Fujairah Energy träffades av en projektil när den gick från Al Ruwais mot Dubai. Ombord fanns 22 personer, varav sex indiska sjömän. Fyra besättningsmedlemmar skadades; en indisk sjöman hade lindriga skador och fördes i land för kontroll. De övriga 18 uppgavs vara säkra. [Ministerposten](https://x.com/sarbanandsonwal/status/2120320614573682936) är primär partsuppgift; [Crewboard](https://crew-board.net/news/hormuz-gulf-ship-attacks-mid-october-2026) och [ABC News Nepal](https://abcnews.com.np/all-3-indian-seafarers-safe-after-possible-attack-on-saudi-flagged-tanker/) återger uppgifterna. Exakt position, IMO-nummer i ministerposten, skadornas omfattning för tre av de fyra skadade och eventuell miljöpåverkan är inte fastställda i det material som kontrollerats.
+
+**Öppen matchning:** Crewboard uppger uttryckligen att det inte är bekräftat om Fujairah Energy är samma fartyg som ADNOC beskrev som skadat i UAE-vatten den 10 november. Den ska inte heller kopplas till UKMTO 201-26 utan IMO-nummer eller positionsmatchning.
+
+### NCC Fajr – händelse 11 november, uppgift publicerad 11 november
+Sonowal uppgav att den saudiskflaggade tankern NCC Fajr var inblandad i en möjlig attack under passage genom Hormuzsundet. Samtliga ombord uppgavs vara säkra, inklusive tre indiska sjömän. [Ministerposten](https://x.com/sarbanandsonwal/status/2120482097743950324) är primär partsuppgift; [The Tribune](https://www.tribuneindia.com/news/world/all-3-indian-nationals-safe-after-possible-attack-on-saudi-flagged-tanker-shipping-minister-sonowal/) och [ABC News Nepal](https://abcnews.com.np/all-3-indian-seafarers-safe-after-possible-attack-on-saudi-flagged-tanker/) ger oberoende publiceringsbekräftelse av ministeruppgiften. Crewboard återger att säkerhetsföretaget Vanguard Tech kopplar NCC Fajr till UKMTO Warning 202-26, men UKMTO har inte namngivit fartyget. Det är därför en möjlig matchning, inte en officiell identifiering.
+
+### MT Dominica Prosperity – händelse 11 november, rapport publicerad 12 november
+Reuters rapporterade att den Liberiaflaggade oljetankern MT Dominica Prosperity träffades av en oidentifierad projektil cirka 14 nautiska mil nordväst om Ras Al Khaimah, nära Mina Saqr. En brand uppstod i maskinrummet. Alla 22 besättningsmedlemmar, däribland 19 indiska medborgare, evakuerades enligt Indiens sjöfartsminister. Reuters uppger att brittiska maritima myndigheter rapporterade händelsen och att Ambrey bedömde att fartyget träffades i aktern när det lämnade Hormuzsundet. Reuters återger MARISKS uppgift om registrerad ägare Haut Brion 56 Ltd och operatör Sinokor Maritime. [Reuters, 12 november 2026](https://www.reuters.com/world/middle-east/vessel-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-2026-11-12/). Exakt projektiltyp, avsändare, lastskada och eventuell förorening är inte fastställda.
+
+### Samlad källkontroll
+- **PRIMÄRKÄLLA/PARTSUPPGIFT:** Indiens sjöfartsminister har publicerat fartygsnamn och besättningsstatus på X. De två direktlänkarna ovan är åtkomliga som länkar men X blockerade full sidvisning i denna kontroll.
+- **OBEROENDE BEKRÄFTELSE:** Reuters bekräftar Dominica Prosperity-incidenten med hänvisning till brittiska maritima myndigheter och Ambrey. Flera medier återger ministeruppgifterna om Fujairah Energy och NCC Fajr.
+- **OBEKRÄFTAD:** Vem som avfyrade projektilerna, om NCC Fajr är UKMTO 202-26, om Fujairah Energy är ADNOC-fartyget, och om Dominica Prosperity är samma händelse som någon anonymiserad UKMTO-notis.
+- **IMO:** IMO:s incidentöversikt anger 134 bekräftade incidenter och 25 dödade sjömän. Den individuella listans senaste daterade händelse är 7 november; det är därför inte klarlagt om händelserna 10–11 november ingår i totalsiffran. De ska inte läggas till totalsiffran på egen hand. [IMO:s incidentöversikt](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx).
+- **PARTSUPPGIFT/OBEKRÄFTAD:** IRGC:s påstående om två tankfartyg som skulle ha träffat minor saknar namngivna fartyg och oberoende bekräftelse. Det ska inte kopplas till NCC Fajr eller Dominica Prosperity utan en verifierbar fartygs- och positionsmatchning.
