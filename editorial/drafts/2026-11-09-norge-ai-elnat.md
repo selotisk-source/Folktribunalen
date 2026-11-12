@@ -263,3 +263,22 @@ Detta är **inte** ett beslutat datacenterprojekt. Inga specifika kärnkraftverk
 Källor:
 - Reuters, 11 november 2026: https://www.reuters.com/business/energy/eon-reviews-former-german-nuclear-sites-data-centres-2026-11-11/
 - E.ON, niomånadersresultat och pressmeddelanden 2026: https://www.eon.com/en/about-us/media/press-release/2026.html
+
+
+
+## Källuppdatering 12 november 2026, 11:06 EET – nytt formellt förslag i Stortinget
+
+**PRIMÄRKÄLLA – Dokument 8:9 S (2026–2027), framlagt 5 oktober 2026:** nio representanter från Sosialistisk Venstreparti (SV) föreslår ett nationellt koncessionssystem för etablering av datacenter. Förslaget begär bland annat en tillfällig lag som pausar etablering av nya datacenter tills en samlad reglering finns på plats, nationell koncession med kriterier för samhällsnytta, arbetstagares rättigheter, öppenhet om ägare och kunder, nyttiggörande av spillvärme, uppföljning av kryptovalutaförbud, prioritering i nätkön samt utredning av offentligt ägande.
+
+**Status 12 november:** Stortingets ärendesida anger att förslaget behandlas i energi- och miljökommittén. Kommitténs offentliga höringssida anger sista dag för skriftliga inspel 23 november 2026 kl. 14.00. Förslaget är inte antagen lag och innebär inte i sig ett etableringsstopp.
+
+**Jämförelse med regeringens besked 9 november:** regeringen har aviserat en ordning för kontrollerad tillväxt och vill utreda koncession för både befintliga och framtida datacenter. Regeringens besked är en politisk avsikt, inte en färdig lagtext. SV-förslaget går längre genom att begära en tillfällig paus och uttryckliga kriterier om ägar-/kundöppenhet, arbetstagares rättigheter och offentligt ägande. Dessa två politiska spår får inte beskrivas som samma beslut.
+
+**OBEROENDE BELÄGG:** Stortingets dokument och ärendesida är primärkällor för förslaget och dess status. Ingen separat oberoende rapportering behövs för att fastställa att förslaget är framlagt; politiska motiveringar i själva förslaget är däremot PARTSUPPGIFTER och ska inte återges som verifierade marknadsfakta.
+
+**Nästa kontrollpunkter:** skriftliga höringssvar till 23 november; kommitténs behandling och eventuell rekommendation; om regeringen publicerar ett konkret koncessionsförslag; samt hur en eventuell ordning skulle samspela med Statnetts reservationspaus som väntas gälla till senast 1 augusti 2027.
+
+Källor:
+- Stortinget, Dokument 8:9 S (2026–2027), förslag daterat 5 oktober 2026: https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-009s/
+- Stortinget, ärendesida: https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200427
+- Stortinget, aktiv höring: https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/horing/?h=10006024
