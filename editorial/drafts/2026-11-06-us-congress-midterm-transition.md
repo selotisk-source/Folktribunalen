@@ -316,3 +316,29 @@ Full granskning ligger i PR #47. Detta är en civil värdepappersprocess, skild 
 
 **Status:** House-brevet och aktieägartalan införda som separata institutionella processer. Inget påstående om spioneri eller exportbrott betraktas som fastställt.
 
+
+
+## Källuppdatering 12 november 2026 – Mississippi ger Demokraterna den 55:e senatsplatsen
+
+**Händelsedatum:** valet hölls den 3 november; den avgörande rösträkningen och medieprojektionen kom den 11 november 2026.  
+**Publiceringsdatum:** AP och Reuters publicerade sina besked den 11 november.
+
+**OBEROENDE BEKRÄFTELSE:** Associated Press kallade den 11 november Mississippi-valet för demokraten Scott Colom, som besegrade den sittande republikanska senatorn Cindy Hyde-Smith. Reuters återgav samma projektion. Hyde-Smith har medgett sig besegrad. Coloms ledning var cirka 4 669 röster, ungefär 0,5 procentenheter, när AP kallade loppet.
+
+Coloms seger ger Demokraterna **55 projicerade senatsplatser mot Republikanernas 44**, medan Alaskas senatsval fortfarande är oavgjort och ännu inte har slutlig vinnare. Om Mary Peltola vinner Alaska kan Demokraternas majoritet bli 56; om Dan Sullivan behåller platsen blir fördelningen 55–45. Detta är en projicerad mandatfördelning, inte ett färdigcertifierat slutresultat.
+
+**PRIMÄRKÄLLA – Alaska Division of Elections:** delstatens valresultatsida markerar 2026 års resultat som *Unofficial*. Den anger att ranked-choice-tabelleringen för berörda val inte blir tillgänglig förrän **18 november 2026** och att måldatum för certifiering är **25 november 2026**. Första-rundans ledning ska därför inte beskrivas som ett slutligt valresultat.
+
+**Institutionell tidslinje:** den nuvarande 119:e kongressen fortsätter sitt arbete till den 3 januari 2027. Den demokratiska majoriteten får formell kontroll över den 120:e kongressen först när den tillträder då. Utskottsordföranden, tillsynsplaner och nya lagstiftningsprioriteringar ska följas efter att partierna fastställt sina ledarskap och utskottsfördelningar.
+
+**Redaktionell betydelse:** den nya senatsmarginalen påverkar hur stor majoritet Demokraterna kan få, men den ändrar inte den sittande kongressens rösträkning eller befogenheter före den 3 januari. Den ska inte användas för att beskriva lagförslag som redan antagna eller tillsynsåtgärder som redan beslutade.
+
+**Källor**
+- Associated Press, 11 november 2026: https://apnews.com/article/56c18f292a734443992f9466c3b0f346
+- Reuters, 11 november 2026: https://www.reuters.com/world/us/democrat-scott-colom-defeats-incumbent-cindy-hyde-smith-cnn-projects-2026-11-11/
+- Alaska Division of Elections, 2026 års officiella resultatsida (resultat ännu inofficiella): https://www.elections.alaska.gov/election-results/e/
+
+**Faktastatus**
+- **OBEROENDE BEKRÄFTELSE:** AP:s och Reuters projektion av Coloms seger; Hyde-Smith har medgett sig besegrad.
+- **PRIMÄRKÄLLA:** Alaska anger att RCV-tabellering kommer den 18 november och att certifiering är planerad till den 25 november.
+- **OBEKRÄFTAD:** Alaskas slutliga vinnare och den slutliga senatsfördelningen.
