@@ -1023,7 +1023,7 @@ Full A–S-screening genomförd och dokumenterad i [researchjournalen 10:05](edi
 
 **Materiella ändringar i befintliga granskningsspår:**
 - PR #53 – Hormuz: UKMTO-original-PDF:erna 201-26 och 202-26 hämtade direkt; bevisstatus och öppna frågor korrigerade.
-- PR #32 – Cladonia/Storsjö: Le Monde 12 november tillagt som oberoende bekräftelse av den rapporterade separata 300-hektarsaffären; bolaget hålls isär från Karp personligen och registerfrågor kvarstår.
+- PR #32 – Cladonia/Storsjö: Le Monde 12 november tillagt som ytterligare medieåtergivning av ÖP:s rapporterade separata 300-hektarsaffär; registerbekräftelse saknas; bolaget hålls isär från Karp personligen och registerfrågor kvarstår.
 - PR #22 – Libanon: UNIFIL:s Wadi Jilu-uttalande 10 november återkontrollerat; händelsen och den oidentifierade skytten hålls isär från kyrkspecifika uppgifter.
 
 **Prioriteringsordningen ligger fast:** 1 Hormuz, 2 Gripen över Polen, 3 USA:s kongress, 4 Palantir Q3, 5 AI-infrastrukturens kreditkedja. Ingen artikel har mergats, godkänts eller publicerats. Databasbaserad webbkö är fortfarande skild från GitHub-gransknings-PR:erna.
