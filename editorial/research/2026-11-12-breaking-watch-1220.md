@@ -179,3 +179,21 @@ Reuters publicerade 12 november kl. 08:25 UTC en separat leverantörskedjeanalys
 
 Källa:
 - Reuters, 12 nov: https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12/
+
+
+#### N. EU-domstolen – Google AdSense: generaladvokaten stöder kommissionens överklagande
+
+**Händelsedatum:** Generaladvokatens yttrande var schemalagt till 12 november kl. 09:30 i mål C-826/24 P. **Publiceringsdatum:** Reuters rapporterade 12 november att yttrandet lämnats och stöder kommissionens överklagande.
+
+- **PRIMÄRKÄLLA – domstolskalender:** CJEU:s officiella kalender anger AG Kokotts yttrande i Commission v Google and Alphabet (Google AdSense), C-826/24 P, den 12 november.
+- **OBEROENDE BEKRÄFTELSE – Reuters:** Generaladvokat Juliane Kokott stöder kommissionens överklagande av tribunalens dom från 18 september 2024 som upphävde bötesbeloppet på 1,49 miljarder euro. Enligt Reuters ansåg hon att tribunalen ställde för höga krav vid bedömningen av varaktigheten för de avtalsvillkor som begränsade konkurrerande sökannonser hos publicister och inte tillräckligt kopplade slutsatserna till kriterierna för marknadsdominans.
+- **Bakgrund – PRIMÄRKÄLLA:** tribunalen upphävde 2024 kommissionens beslut från 2019. Målet gäller exklusivitets-, placerings- och förhandsgodkännandeklausuler i Googles AdSense-avtal med publicister under perioden 2006–2016.
+- **Rättslig status:** generaladvokatens yttrande är inte bindande. EU-domstolen väntas meddela sin dom senare; inget nytt slutligt domstolsavgörande har meddelats i denna cykel.
+- **Källbegränsning:** det fullständiga yttrandet hade ännu inte lokaliserats i InfoCuria när denna kontroll avslutades. Reuters återger dess huvudsakliga slutsats; domstolskalendern bekräftar att yttrandet var utsatt till dagens datum.
+- **Betydelse:** utgången kan påverka hur kommissionen måste bevisa varaktighet, konkurrensbegränsande effekt och sammanhängande överträdelser i digitala annonsmarknader. Det är en rättslig kontrollfråga om plattformsmakt, inte i sig ett beslut om dagens AdSense-verksamhet.
+- **Artikelspår:** lägg till som ett eget rättsfall i N – Från skrift till Storebror, med koppling till data, annonsmarknadens nätverkseffekter och publicisters beroende av plattformar.
+
+Källor:
+- CJEU:s officiella kalender: https://curia.europa.eu/site/jcms/d2_5117/en/jcms/d2_5481/en/jcms/d2_5117/de/jcms/d2_5117/lv/jcms/d2_5117/bg/
+- Reuters, 12 nov: https://www.reuters.com/world/setback-google-eu-court-adviser-backs-17-billion-antitrust-fine-2026-11-12/
+- Tribunalens dom 18 sep 2024, T-334/19: https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?num=T-334%2F19
