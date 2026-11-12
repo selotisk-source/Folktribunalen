@@ -159,7 +159,7 @@ https://maps.greenpeace.org/maps/gpde/hormuz-strait-2026/
 **OBEROENDE BEKRÄFTELSE – The Guardian, 12 november 2026:**  
 https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems
 
-Greenpeace uppger att satellitövervakning identifierat mer än 500 tillfällen eller områden med oljeutsläpp sedan 28 februari 2026. Den kumulativa summeringen av de dagliga kartlagda ytavtrycken anges till omkring 20 000 km². Det är inte ett enda sammanhängande utsläppsområde och ska inte beskrivas som en sådan areal.
+Greenpeace uppger att satellitövervakning identifierat mer än 500 möjliga utsläppstillfällen sedan 28 februari 2026. Den kumulativa summeringen av de dagliga kartlagda ytavtrycken anges till omkring 20 000 km². Det är inte ett enda sammanhängande utsläppsområde och ska inte beskrivas som en sådan areal.
 
 Greenpeace skiljer mellan större utsläpp som kopplats till fartygsangrepp och andra utsläpp som observerats nära tidpunkten för angrepp men vars ursprung inte har kunnat fastställas. Satellitbilderna kan indikera ytfilm och spridning men fastställer inte ensamma utsläppsvolym, ansvarig aktör eller full ekologisk skada. Fältprovtagning är begränsad av säkerhetsläget.
 
