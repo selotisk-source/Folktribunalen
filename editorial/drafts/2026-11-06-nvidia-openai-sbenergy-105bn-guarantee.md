@@ -773,3 +773,46 @@ Källa: SEC Exhibit 99.1, balans- och kassaflödesuppgifter: https://www.sec.gov
 **Primary sources:**  
 - SEC Form 8-K: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm  
 - NVIDIA CEO transition release: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx
+
+
+## Ny primärkälla 13 november 2026 – CoreWeave Q3: skuld, långa leasingåtaganden och kundkoncentration
+
+**Rapportperiod:** kvartalet som avslutades 30 september 2026.  
+**SEC-inlämning:** Form 10-Q inlämnad 12 november 2026; SEC accepterade inlämningen 12 november kl. 07:20:41.  
+**Berörda spår:** F – NVIDIA, AI-finansiering och säkerheter; B – AI-datacenter.
+
+Detta är en separat finansieringskedja i AI-molnsektorn. CoreWeaves 10-Q visar inte att NVIDIA garanterar CoreWeaves skulder eller att CoreWeaves förpliktelser är NVIDIA:s skulder. CoreWeave är här ett jämförelsefall för hur GPU-moln bygger kapacitet med lån, kundåtaganden och långfristiga datahallshyror.
+
+### Vad 10-Q visar
+
+- **PRIMÄRKÄLLA:** CoreWeave redovisar total skuldsättning om **47,5 md USD** per 30 september och **5,7 md USD i outnyttjad kreditkapacitet** under revolverande och delayed-draw-faciliteter. Outnyttjad kredit är inte kassa.
+- **PRIMÄRKÄLLA:** Redovisade operativa leasingskulder uppgår till **18,7 md USD**. Därutöver hade bolaget undertecknat leasingavtal som ännu inte hade börjat löpa, med uppskattade framtida odiskonterade betalningar om **47,4 md USD**. Dessa avtal gäller främst datacenter, utrustning och kontorsbyggnader, ska börja löpa 2026–2029 och har uppskattade löptider på 7–17 år. De 47,4 miljarderna är inte en redan redovisad leasingskuld och ska inte adderas till balansräkningens nuvarande skulder som om de redan vore förfallna.
+- **PRIMÄRKÄLLA:** Resterande prestationsåtaganden (RPO) var **132,3 md USD**. Bolaget väntar sig att 36 procent ska redovisas under de första 24 månaderna, 38 procent under månaderna 25–48 och återstoden under månaderna 49–86. RPO omfattar både fakturerade och ofakturerade åtaganden. CoreWeave räknar samtidigt av uppskattad rörlig ersättning, bland annat möjliga servicekrediter vid bristande tillgänglighet, intäkter som kan skjutas upp vid leveransförseningar och kapacitet som bolaget har rätt att sälja vidare. RPO är därför inte liktydigt med garanterad kontantintäkt.
+- **PRIMÄRKÄLLA:** Två anonymiserade kunder stod för **54 procent av kvartalets intäkter** (30 respektive 24 procent). Under årets första nio månader stod samma redovisningskategorier för 59 procent. Bolaget uppger att 98 procent av intäkterna kom från kundåtaganden. Kunderna A och B får inte identifieras genom spekulation; 10-Q namnger inte dessa kunder i koncentrationstabellen.
+- **PRIMÄRKÄLLA:** **1,9 md USD** av ingående uppskjutna intäkter omklassificerades under kvartalet till kundskulder när kontrakt blev uppsägningsbara/cancellable. Det betyder inte att 1,9 md USD i kontrakt bevisligen har sagts upp. Det är en redovisningsmässig förändring som kräver uppföljning av vilka villkor och kontrakt som omfattas.
+- **PRIMÄRKÄLLA:** CoreWeave hade åtagit sig upp till **1,9 md USD** i finansiering till vissa icke-konsoliderade VIE-bolag för datacenterutveckling; **859 mn USD** var finansierade per 30 september. Bolaget säger att det inte var primär förmånstagare och därför inte konsoliderade dessa VIE:er. Maximal exponering anges till 1,9 md USD.
+- **PRIMÄRKÄLLA:** Bolaget hade köpt surety bonds om **275 mn USD** för att säkra sina skyldigheter mot en elleverantör under fyra år. **154 mn USD** hade satts i en spärrad säkerhetstrust till förmån för borgensgivarna. Dessa kan kräva ytterligare säkerhet och ta medel ur trusten för täckta förluster.
+- **PRIMÄRKÄLLA:** Försenade terminslån om **17,6 md USD** beskrivs som säkrade i tillgångar som hör till inbetalda kundkontrakt och pantsatta avtalskassaflöden, i regel från motparter med investment-grade-kreditvärdighet. DDTL 4.0 är i huvudsak non-recourse med sedvanliga undantag; övriga delayed-draw-faciliteter har moderbolagsgarantier enligt bolagets beskrivning.
+- **PRIMÄRKÄLLA:** CoreWeave uppger uttryckligen att bolaget för närvarande inte har kreditförsäkring som skyddar mot kundernas kreditrisk.
+
+### Finansieringskedjan och den redaktionella betydelsen
+
+CoreWeaves modell binder samman kundernas framtida betalningar, finansiering mot avtalskassaflöden, hårdvaru- och programvarufinansiering samt långa datahallshyror. Om en stor kund inte fullgör sina åtaganden kan bolaget samtidigt stå med kapacitet, utrustning, byggåtaganden och hyresbetalningar som inte längre täcks av motsvarande intäkter. Bolaget beskriver själv denna motpartsrisk i 10-Q.
+
+Detta är **inte i sig belägg för betalningsinställelse, insolvens eller att kunderna har lämnat avtalen**. Det är belägg för en mycket kapitalintensiv struktur med koncentrerade kunder, stora långfristiga leasingåtaganden och flera typer av säkerheter och kreditfaciliteter. Analysen måste hålla isär redovisad skuld, outnyttjad kredit, RPO, uppskjutna intäkter, uppsägningsbara kontrakt och ännu ej påbörjade leasingavtal.
+
+### Öppna frågor
+
+1. Vilka juridiska kunder motsvarar de anonymiserade kundkategorierna A och B? 10-Q ger inte underlag för att namnge dem.
+2. Vilka konkreta kontrakt blev uppsägningsbara under kvartalet och vilka villkor utlöser kundskulden?
+3. Vilka av de 47,4 md USD i ännu ej påbörjade leasingavtal får faktisk byggstart, elanslutning och driftsatt kapacitet?
+4. Hur stor del av de 17,6 md USD i delayed-draw-finansiering är knuten till respektive kund och anläggning?
+5. Hur förändras säkerhetskraven för elleverantörens surety bonds när nya anläggningar tas i drift?
+
+**Källstatus:** Endast den primära SEC-inlämningen har använts för de exakta finansiella beloppen. Ingen oberoende källa har i denna kontroll bekräftat de detaljerade notuppgifterna separat.
+
+**Primärkällor:**
+- SEC Filing Detail, Form 10-Q, inlämnad 12 november 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/0001769628-26-000465-index.htm
+- CoreWeave Form 10-Q, kvartalet avslutat 30 september 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm
+
+**Redaktionell avgränsning:** Detta är ett kompletterande jämförelsefall inom AI-infrastrukturens kreditkedja. Det får inte beskrivas som en NVIDIA-garanti, NVIDIA-skuld eller som bevis för att CoreWeave har fallerat.
