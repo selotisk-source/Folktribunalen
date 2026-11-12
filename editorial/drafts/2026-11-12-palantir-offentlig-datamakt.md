@@ -166,6 +166,31 @@ Den avgörande frågan är inte om Palantir redan har tagit över NHS. Den är o
 - **INTE FASTSTÄLLT:** att samtliga sju polisstyrkor som den gemensamma upphandlingsfunktionen arbetar för omfattas av BCH-avtalet. TBIJ beskriver tre styrkor; det fullständiga avropsavtalet behövs för att fastställa omfattningen.
 - **INTE FASTSTÄLLT:** att Dame Cressida Dicks rådgivarroll inneburit lobbying eller otillbörlig påverkan. Hon förnekar lobbying; ersättningens storlek och fullständiga uppdragsvillkor har inte identifierats.
 
+## Källuppdatering 12 november 2026 – NHS England tar bort trust-listan
+
+**Publiceringsdatum:** The Guardian, 12 november 2026 kl. 11.00 GMT.  
+**Händelse:** NHS Englands webbplats uppges ha ändrats efter Guardian/Medacts FOI-granskning.
+
+**OBEROENDE RAPPORTERING:** The Guardian rapporterar att NHS England tagit bort den detaljerade webbsida/lista som angav att 137 sjukhustruster “realising benefits” från FDP. Detta skedde efter att 29 av de 137 trusterna enligt FOI-svaren uppgett att plattformen inte var live eller att de inte använde alla eller de flesta applikationerna. Guardian säger att en mindre detaljerad sida nu återstår med ett generellt påstående om att tidiga användare redan ser resultat.
+
+**Viktig källgräns:** NHS England svarade inte på Guardians begäran om kommentar. Någon offentlig rättelse från NHS England, formell återkallelse av de 137 nyttopåståendena eller förklaring till webbplatsändringen har inte identifierats. Händelsen ska därför beskrivas som en webbplatsändring rapporterad av Guardian, inte som ett formellt myndighetsbeslut eller en fullständig tillbakadragning av alla nyttomått.
+
+**Nämnare och definitioner får inte blandas ihop:**
+- 137 är antalet truster som NHS England listade som “realising benefits”.
+- House of Commons Library redovisade 142 av 202 truster i “live operational use” i augusti 2026 och 170 med undertecknat MoU.
+- Dessa mått beskriver olika kategorier och tidpunkter. De är inte direkt jämförbara och ska inte presenteras som en enkel matematisk motsägelse.
+- Guardian rapporterar att OSR nu undersöker NHS-påståenden om systemets användning. Någon separat ny OSR-publicering som bekräftar detta nya ärende har inte lokaliserats. OSR:s tidigare publicerade granskning av hur NHS kommunicerade nyttomått är en separat handling.
+
+**Förlängningsfrågan:** Guardian återger att ministrar väger en förlängning av kontraktet till 2029. Det är fortsatt medierapportering. I Health and Social Care Committees förhör den 4 november beskrev regeringen avtalsöversynen som pågående; någon formell avtalsändring eller offentlig regeringsbekräftelse har inte identifierats.
+
+**Redaktionell betydelse:** När NHS tar bort den detaljerade listan efter att lokala trust-svar ifrågasatt nyttopåståendena blir transparensen i själva effektredovisningen en del av sakfrågan. Det ändrar inte i sig de juridiska dataansvarsrollerna, och det bevisar inte att FDP saknar nytta. Det skärper däremot kravet på en öppen trust-för-trust-redovisning som skiljer mellan MoU, teknisk anslutning, faktisk applikationsanvändning och oberoende belagd vårdnytta.
+
+**Källor:**
+- The Guardian, 12 november 2026: https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools
+- House of Commons Library, 29 oktober 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-12264/
+- Health and Social Care Committee, muntlig bevisning 4 november 2026: https://committees.parliament.uk/oralevidence/18242/html
+- OSR, 22 juli 2026: https://osr.statisticsauthority.gov.uk/news/nhs-england-federated-data-platform-fdp-presentation-and-communication-of-information-and-performance-metrics/
+
 ## Öppna frågor före publicering
 
 1. Hämta det fullständiga FDP-avtalet, förlängningsoptioner, ändringar, exitbilagor och den aktuella migreringsplanen.
