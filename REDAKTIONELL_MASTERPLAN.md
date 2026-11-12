@@ -1100,3 +1100,36 @@ Reuters rapporterar 12 november, med hänvisning till en tjänsteman, att Frankr
 Fullständig cykeljournal: [Breaking Watch 12 november 13:52](editorial/research/2026-11-12-breaking-watch-1352.md). Den levande täckningsmatrisen har uppdaterats.
 
 **Publiceringsordningen ligger fast:** 1 Hormuz, 2 Gripen över Polen, 3 USA:s kongress, 4 Palantir Q3, 5 AI-infrastrukturens kreditkedja. PR #56 läggs sist som ett nytt N-spår och flyttar inte någon artikel före de fem befintliga prioriteringarna. Ingen artikel har mergats, godkänts, publicerats eller markerats LIVE.
+
+
+## Breaking Watch – 12 november 2026, 15:14 EET
+
+### Nya redaktionella fynd
+
+1. **A – Palantir/NHS:** The Guardian rapporterar att NHS England tagit bort den detaljerade listan över 137 truster som angavs “realising benefits” efter FOI-svar från 29 truster som ifrågasatte live-/användningsstatus. Ingen formell NHS-rättelse eller förklaring har identifierats. Skilj 137 “benefiting” från House Librarys 142 “live operational use” i augusti och 170 MoU.
+2. **B – Datacenter:** Europeiska kampanjdagar 6–7 november; arrangörerna uppger över 100 grupper i 15 länder och cirka 90 aktiviteter. Amsterdam: 150–200 gripanden enligt polisuppgift återgiven av AT5 och AP. Direktaktionen på byggplatsen ska skiljas från den bredare koalitionens demonstrationer.
+3. **C – Synkronicitet:** Frontiers-studie med matchat N=242 tillagd. Den mäter självrapporterad synkronicitetsmedvetenhet och meningsdetektion, inte objektiv acausalitet.
+4. **D – Sofia:** Samuil-kvarlevor placerades i Sankt Sofia den 3 oktober. BTA:s forskarpresskonferens 8 oktober redovisar preliminär antropologi av materialet i sarkofag Gamma; DNA/radiokoldatering/isotoper återstår. Attributeringen är inte DNA-verifierad.
+5. **J – Thiel:** First Things-essä 15 juli och Politicos rapportering om Nashville-föreläsningar 8 oktober har lagts till, tillsammans med teologisk kritik i First Things novemberbrev.
+6. **K – Cladonia:** P4 Jämtland rapporterar om kommunens möte med Cladonia-företrädare 10 november. Kommunledningens återgivning är inte ett bindande bolagslöfte; lagfarter och originalavtal saknas fortfarande.
+7. **N – Ofcom/Meta:** Confirmation Decision utfärdat 9 november, publicerat 12 november; fem överträdelser av informationskrav och £450 000 i sanktion. Inte GDPR.
+8. **P – Kongressen:** Meeks/Amo/Kamlager-Dove-brevet till Commerce den 9 november tillagt; det är tillsynsbegäran, inte exportbeslut.
+9. **Q – Saab/Danmark:** Order på SEK 350m för live-träningssystem, leveranser 2026–2028. Inte Gripen-order.
+
+### Faktiska filuppdateringar
+- PR #13 – europeisk datacenterprotest och Amsterdam.
+- PR #28 – Thiel, Nashville och teologisk källkritik.
+- PR #38 – empirisk synkronicitetsstudie.
+- PR #47 – House Democrats-brevet.
+- PR #55 – NHS-listan och 29 trust-svaren.
+- PR #16 – A–S-matris och researchjournal.
+
+### Artikelkö och publiceringsstatus
+Den tidigare prioriteringsordningen ligger fast: **Hormuz → Gripen över Polen → USA:s kongress → Palantir Q3 → AI-infrastrukturens kreditkedja.** De nya uppdateringarna ändrar inte ordningen. Ingen artikel har mergats, publicerats eller markerats LIVE i denna cykel. Draft-statusen ska bestå tills chefredaktörens uttryckliga godkännande och separat publiceringskontroll.
+
+### Nästa kontrollpunkter
+- 17 november: NVIDIA Q3 FY2027 och styrelsens/ledningens kommentarer.
+- 18 november: den av House-ordförandena begärda slutna briefingen med Jensen Huang – kontrollera om den faktiskt genomförs.
+- December 2026: formellt NHS-beslut om FDP-avtalets fortsättning/exit.
+- Löpande: OSR:s eventuella uppföljning, trust-för-trust-data, Lantmäteriets lagfarter, UKMTO/IMO:s fartygsidentifikationer och nya kommunala/arkeologiska primärhandlingar.
+
