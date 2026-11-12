@@ -124,7 +124,7 @@ Ingen ny offentligt dokumenterad donation, katalogisering, digitaliseringsreleas
 Källor:
 - https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology
 - https://www.gov.uk/government/publications/police-use-of-facial-recognition/police-use-of-facial-recognition-a-guide-accessible-version
-- https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-risk-wrongful-arrests-ethnic-minorities-police-watchdog-warns
+- https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns
 
 ### O. Hormuz, sjöfart och energiflöden
 
