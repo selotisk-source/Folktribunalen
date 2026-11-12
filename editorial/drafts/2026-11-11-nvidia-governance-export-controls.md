@@ -222,7 +222,7 @@ Reuters skriver uttryckligen att de inte kunde verifiera påståendet att den be
 
 **Marknadsreaktion – rapporterad, tidsbunden:** Reuters rapporterade den 12 november att NVIDIA-aktien föll omkring 7 procent i förhandeln och att Nasdaq 100-terminerna var ned 0,79 procent. Detta är marknadsreaktion på rapporterad ledningsrisk, inte bevis för att ett ledningsbyte kommer att ske eller att AI-efterfrågan har fallit.
 
-**OBEROENDE PARTSRÖST – Siemens, 12 november kl. 09:14 UTC:** Siemens vd Roland Busch sade till Reuters att samarbetet med NVIDIA fortsätter oavsett vad NVIDIA beslutar om Huang. Busch beskrev relationen som ett samarbete mellan bolag och team, inte beroende av en enda individ. Detta är en relevant kund-/partnerbedömning, inte en garanti för att alla avtal eller projekt blir opåverkade.
+**OBEROENDE PARTSRÖST – Siemens, 12 november:** Siemens vd Roland Busch sade till Reuters att samarbetet med NVIDIA fortsätter oavsett vad NVIDIA beslutar om Huang. Busch beskrev relationen som ett samarbete mellan bolag och team, inte beroende av en enda individ. Detta är en relevant kund-/partnerbedömning, inte en garanti för att alla avtal eller projekt blir opåverkade.
 
 **Motuppgift från Taiwan – medierapporterad myndighetsuppgift:** Guardian återgav den 12 november att Mainland Affairs Council-ministern Chiu Chui-cheng sagt att Alice Huang rest till Taiwan åtta gånger under 2024–2025 med normal affärsbesöksstatus och utan särskilda flaggor i dåvarande inresehantering. Någon direkt utskrift från myndigheten eller parlamentariskt protokoll har inte hittats i denna kontroll. Uppgiften motsäger inte i sig att amerikanska myndigheter kan ha gjort en separat underrättelsebedömning; den visar endast vad Taiwan enligt den återgivna uppgiften hade registrerat vid inresorna.
 
@@ -265,7 +265,7 @@ Källor:
 
 ### Källuppdatering 12 november 2026 – asiatisk leverantörskedja och remote access
 
-**Publiceringsdatum:** Reuters 12 november kl. 08:25 UTC.
+**Publiceringsdatum:** Reuters 12 november.
 
 **OBEROENDE RAPPORTERING:** Reuters rapporterar att leverantörer i Taiwan och Sydkorea förbereder scenarier för ett möjligt ledningsbyte i NVIDIA. En anonym taiwanesisk leverantör säger att en efterträdare kanske inte skulle driva samma aggressiva kapacitetsbokningar som Huang. Analytiker beskriver samtidigt en möjlig inbromsning i nya ekosysteminvesteringar, men en annan marknadsaktör bedömer att kortsiktig påverkan kan bli begränsad eftersom kommande chipgenerationer redan är designade och i produktion och kundernas 2027-planer inte nödvändigtvis ändras av ett vd-byte.
 
