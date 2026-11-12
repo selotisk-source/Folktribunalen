@@ -70,3 +70,9 @@ En hållbar ordning behöver åtminstone innehålla:
 - Home Office/National Physical Laboratory, *Summary: accuracy and equitability evaluation of the retrospective facial recognition algorithm*: https://www.gov.uk/government/publications/facial-recognition-technology-tests-national-physical-laboratory/summary-accuracy-and-equitability-evaluation-of-cognitec-facevacs-dbscan-id-v55
 
 **Publiceringsvillkor:** Hämta och kontrollera HMICFRS-originalrapporten, verifiera samtliga kvantitativa påståenden och begär kommentar från HMICFRS, Home Office och berörda polisstyrkor. Ingen publicering före uttryckligt chefredaktörsgodkännande.
+
+## Källkontroll 12 november 2026 – HMICFRS-rapportens original
+
+HMICFRS meddelade den 12 november att dess tematiska granskning av retrospektiv ansiktsigenkänning publicerats och omfattar 16 rekommendationer. Den fullständiga rapportlänken via HMICFRS kortlänk (https://orlo.uk/HbK4I) gav åtkomstfel i denna kontrollmiljö. Därför är rapportens exakta formuleringar och rekommendationernas ordalydelse ännu inte kontrollerade direkt mot PDF/HTML-originalet.
+
+**Källstatus:** HMICFRS:s egen publiceringsnotis är primär för att rapporten publicerats och att den innehåller 16 rekommendationer; [The Guardian](https://www.theguardian.com/uk-news/2026/nov/12/police-facial-recognition-use-criticised-in-new-watchdog-report) och [Police Professional](https://www.policeprofessional.com/news/inspectors-raise-concerns-over-police-use-of-retrospective-facial-recognition/) är sekundära för de sakliga slutsatser som tillskrivs rapporten. Utkastet ska inte framställa varje sekundärt återgivet fynd som direkt verifierat förrän originalrapporten har hämtats. Home Offices offentliga dialog och lagförslag från 4 november är förslag, inte gällande lag.
