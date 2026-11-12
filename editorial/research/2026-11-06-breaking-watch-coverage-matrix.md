@@ -1020,3 +1020,33 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 **Källreservationer:** Le Monde bekräftar en medieuppgift om 300 hektar men är inte ett fastighetsregister. UKMTO:s PDF:er är primärkällor men identifierar inte fartygen. UNIFIL:s uttalande identifierar inte skytten. Strategisk CRMA-status är inte tillstånd eller finansiering. Posivas driftlicens tillåter inte start före STUK:s föreskrivna inspektion.
 
 **Arbetsflöde:** PR #53 och PR #32 uppdaterade i befintliga draftgrenar. Inga nya artikel-PR:ar skapades; inga PR:ar mergades; ingen artikel blev LIVE.
+
+
+
+## Kontrollcykel 12 november 2026, 11:06 EET
+
+**19/19 huvudspår A–S screenade.** Nya substantiella utvecklingsområden: B (Stortinget, Dokument 8:9 S), E/S (Finlands lagar 1024/1026 och GTK/RAKKA), F (Oracle 288 md USD framtida datacenterleasing och CoreWeave Q3), O (IRGC:s obekräftade tvåtankersuppgift och Greenpeace/Guardian-miljöspår), R (RWE/KKR:s finansiella stängning för Vanguard). Fullt underlag: `editorial/research/2026-11-12-breaking-watch-1106.md`.
+
+| Spår | Senaste kontroll | Primärkällor i denna cykel | Nytt dokument / belägg | Öppna frågor | Status |
+|---|---|---|---|---|---|
+| A | 12 nov 11:06 | Palantir SEC/upphandlingsspår, befintligt PR #55 | Inget nytt kontrakt utöver befintligt BCH-award | Direktupphandlingsoriginal och dataansvar | Fortsatt bevakning |
+| B | 12 nov 11:06 | Stortinget Doc 8:9 S, ärendesida och höring | Formellt SV-förslag; höringsfrist 23 nov | Regeringens lagtext, kommittéutlåtande | Nytt belägg |
+| C | 12 nov 11:06 | Forskningsscreening | Ingen ny reproducerbar primärstudie | Replikation och protokollets testdesign | Ingen ny notis |
+| D | 12 nov 11:06 | NAIM/Sofia-arkivscreening | Ingen ny arkeologisk primärhandling | Samuilföremålens katalog/proveniens | Ingen ny notis |
+| E | 12 nov 11:06 | Finlex 1024/1026; GTK RAKKA | Lagpaket publicerat 11 nov, i kraft 15 nov | Artikel 27-täckning och operatörsbedömningar | Nytt belägg |
+| F | 12 nov 11:06 | Oracle 10-Q; CoreWeave 8-K/99.1 | Oracle 288 md USD framtida leasing; CoreWeave Q3 | CoreWeave 10-Q, förskott, faktisk effekt | Nytt belägg |
+| G | 12 nov 11:06 | UNIFIL/UN och kyrkliga källor | Ingen ny kyrkspecifik primärhandling | Mandatövergång och civila följder | Ingen ny notis |
+| H | 12 nov 11:06 | Stadsvise kulturarvssökningar | Inget nytt beslut identifierat | Lokala byggnadsarkiv | Ingen ny notis |
+| I | 12 nov 11:06 | SGU/GTK/markrättslig screening | Ingen ny separat mark-/hästhandling | Rättigheter, skog och historiska kartor | Ingen ny notis |
+| J | 12 nov 11:06 | Folkloristik/runologi/Thiel-sökning | Inget nytt primärbelägg | Daterade vittnesmål och källkontext | Ingen ny notis |
+| K | 12 nov 11:06 | Fastighets-/bolags- och mediescreening | Le Monde är sekundär återgivning; inga nya lagfarter | Fastighetsbeteckningar och ägarkedja | Öppen kontroll |
+| L | 12 nov 11:06 | RAÄ/länsstyrelse/kommunarkivssökning | Ingen ny handling identifierad | Brand- och restaureringsakter | Ingen ny notis |
+| M | 12 nov 11:06 | Athosbiblioteks-/katalogscreening | Ingen ny offentlig katalogpost | Proveniens och digitaliseringsstatus | Ingen ny notis |
+| N | 12 nov 11:06 | eu-LISA/lag-/domstolsscreening | Inget nytt rättsligt avgörande | EES-process och dataskydd | Ingen ny notis |
+| O | 12 nov 11:06 | UKMTO 201-26/202-26; Reuters | Ny IRGC-uppgift, ej oberoende bekräftad; Greenpeace/Guardian | Fartygsidentitet, Oman, satellit och provtagning | Nytt belägg |
+| P | 12 nov 11:06 | Congressional Record/House vote screen | Ingen ny primärhandling utöver 10 nov-votering | Kommitté- och lagtextstatus | Ingen ny notis |
+| Q | 12 nov 11:06 | FMV/Saab, befintligt PR #12 | Inget nytt Gripenbeslut i denna cykel | Leveranser och exportvillkor | Fortsatt bevakning |
+| R | 12 nov 11:06 | RWE, UK Government; Reuters | RWE/KKR finansiell stängning, 2,8 GW, £12 md | Faktisk dragning, NWF additionalitet, byggstart | Nytt belägg |
+| S | 12 nov 11:06 | Finlex/GTK/CRMA/Posiva | GTK:s formella uppdrag och RAKKA-koppling | Databasens täckning; Onkalo/STUK | Nytt belägg |
+
+**Arbetsflöde:** PR #14, #31, #34 och #53 uppdaterade; PR #49 innehåller redan RWE/KKR; PR #16:s journal och matris uppdateras i denna cykel. Inga PR:er mergade eller publicerade.
