@@ -14,7 +14,7 @@
 - **Databas:** `folktribunalen-db`, status `available`, kostnadsfri instans i Frankfurt med utgångsdatum 4 december 2026. `ipAllowList=[]`; en ny read-only `SELECT 1` nekas eftersom databasen blockerar alla externa anslutningar. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP i Networking som vägar framåt. Ingen öppen `0.0.0.0/0`-regel används.
 - **Publiceringsspärr:** databasbaserad webbkö och adminpublicering är blockerade av den tomma IP-allowlisten. Ingen artikelpost har skrivits till databasen i denna körning.
 - **Aktuell artikelkö:** huvudspår 1 ligger i PR #55 som komplett draft. PR #33 är stängd som supersederad. PR #7 är det separata Palantir Q3-/molnåtagandespåret. PR #42 är ett separat kortare GP-data-lobbyspår.
-- **Fader Samir Daou:** PR #36 mergades till `main` den 11 november som en fil under `editorial/drafts`. Den är ett redaktionellt utkast, inte en publicerad artikel; den finns inte i den aktuella statiska `src/app.js`-versionen.
+- **Fader Samir Daou:** PR #36 mergades till `main` den 11 november. Render-live-versionens bundle (`f52a144...`) innehåller artikelkortet och artikeltexten med sluggen `samir-daou-jbeil`, markerad `PUBLICERAD 11 NOVEMBER 2026`. Publik länk: https://folktribunalen.onrender.com/#/artikel/samir-daou-jbeil. Den är en separat regional/rättslig artikel, inte huvudartikeln om Geagea, Gemayel, Syrien och kyrkan.
 
 ## Aktiva huvudspår
 
@@ -26,7 +26,7 @@
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 behandlar Samuil/Prespa, gravkontext och symboler. Huvudartikeln måste också samla musei-/utställningsmaterial och byggnadsarkeologi. Samuils ursprungliga gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | Huvudutkast i PR #34; kompletterande Hautalampi/Eurobattery-case i PR #51. Behöver skilja CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
 | 6 | **NVIDIA – när aktier blir säkerhet för lån** | NVIDIA som säkerhet: var går gränsen mellan aktiepant och GPU-finansiering? | Finansgranskning | PR #47 behandlar bolagsstyrning/exportkontroller; PR #14 och #23 behandlar AI-finansiering och kreditkedjor. Den specifika dokumenterade kedjan där NVIDIA-aktier ställs som säkerhet saknas fortfarande. Blanda inte aktiepant med GPU-/serverfinansiering. |
-| 7 | **Det stora och det lilla fängelset** | Libanons kristna mellan två fängelser: Geagea, Gemayel, Syrien och kyrkan | Historisk/politisk granskning | PR #22 behandlar UNIFIL och södra Libanon; PR #39 behandlar presidentämbetets arkiv. PR #36 om mordet på Fader Samir Daou är en separat rätts-/regiongranskning som ligger som draft på `main`, inte huvudartikeln. Den sammanhängande historiska artikeln om Samir Geagea, Gemayel-familjen, Syriens närvaro och kyrkans roll återstår. |
+| 7 | **Det stora och det lilla fängelset** | Libanons kristna mellan två fängelser: Geagea, Gemayel, Syrien och kyrkan | Historisk/politisk granskning | PR #22 behandlar UNIFIL och södra Libanon; PR #39 behandlar presidentämbetets arkiv. PR #36 om mordet på Fader Samir Daou är publicerad i den statiska live-versionen som en separat rätts-/regiongranskning, inte huvudartikeln. Den sammanhängande historiska artikeln om Samir Geagea, Gemayel-familjen, Syriens närvaro och kyrkans roll återstår. |
 | 8 | **Europa: Kyrkorna som överlevde imperierna** | Kyrkorna som överlevde imperierna: Wiesbaden, Warszawa och Prag | Kulturhistorisk serie | Inget komplett huvudutkast. Byggnadsakter, restaureringsdokument och församlingarnas primärhistorik måste samlas separat för varje stad; Sofia och Varna möjliga fortsättningar. |
 | 9 | **Fennoskandien – urberget, skogen och hästen** | Fennoskandien: urberg, skog och häst som landskapets infrastruktur | Kulturhistorisk/ekonomisk essä | Delcase finns i PR #4 och #32 (Storsjö kapell/mark), PR #37 (Rottensjön) och PR #43 (Northvolt/EdgeConneX). Ingen bred huvudartikel ännu; geologi, skogsbruk, markrätt, arkeologi och hästkultur måste hållas samman med separata källserier.
 
@@ -86,7 +86,7 @@
 - **PR #33:** äldre Palantir/NHS-version stängd som supersederad av PR #55.
 - **PR #7:** separat aktuellt nyhetsspår om Palantirs Q3, molnåtagande, kundfordringar och offentliga kontrakt. Draft.
 - **PR #42:** separat granskningsutkast om Palantirs kontakter kring GP-journaler. Draft; håll lobbying åtskild från faktisk dataintegration.
-- **PR #36:** Fader Samir Daou-artikeln är mergad till `main` under `editorial/drafts`. Den är ett utkast, inte en LIVE-artikel.
+- **PR #36:** Fader Samir Daou-artikeln är mergad till `main` och finns i Render-live-versionens bundle `f52a144...` med publiceringsdatum 11 november 2026. Route: `#/artikel/samir-daou-jbeil`. Den är separat från huvudspår 7:s historiska artikel.
 - **PR #10:** USA:s kongress och maktförskjutningen. Draft.
 - **PR #16:** Breaking Watch-täckningsmatris uppdaterad 12 november. Draft.
 - **PR #38:** Synkronicitetsprotokollet. Draft.
@@ -180,5 +180,5 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - Render Postgres `folktribunalen-db` är `available`, men `ipAllowList=[]`; en ny `SELECT 1` nekades med beskedet att alla externa anslutningar blockeras. Gratisinstansen löper ut 4 december 2026.
 - Redaktionell backend kör fortfarande deployment från 4 november, commit `6a835783553565f239864a9da7160d9f79f692b2`.
 - PR #55 är öppen, draft och rapporteras som `mergeable_state=clean`; den innehåller huvudspår 1:s kompletta granskningsutkast. PR #33 har stängts som supersederad. PR #7 har tydliggjorts som det separata Q3-/molnåtagandespåret.
-- PR #36:s Fader Samir Daou-text är mergad som redaktionellt utkast under `editorial/drafts`; den är inte införd som publicerad artikel i den statiska webbplatsen.
+- PR #36:s Fader Samir Daou-text finns i Render-live-versionens bundle med artikelkort, artikeltext och publiceringsdatum 11 november 2026. Den är publicerad som separat regional/rättslig artikel; den ersätter inte huvudspår 7:s historiska granskning.
 - Inga artiklar publicerades i denna uppdatering. Nästa redaktionella steg är chefredaktörens granskning av PR #55.
