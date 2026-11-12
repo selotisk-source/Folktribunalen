@@ -1,7 +1,7 @@
 # NVIDIA under granskning – styrelseutredning, exportkontroller och den politiska risken kring Jensen Huang
 
 **Artikeltyp:** Företagsstyrning · exportkontroll · AI-chip · nationell säkerhet  
-**Faktaläge:** 11 november 2026, 06.48 Europe/Sofia  
+**Faktaläge:** 12 november 2026, 13.52 Europe/Sofia  
 **Berörda huvudspår:** F – NVIDIA, AI-finansiering och säkerheter · P – USA:s kongress och institutionell makt · N – Från skrift till Storebror
 
 *Efter rapportering om att NVIDIA:s vd Jensen Huang kan ha varit måltavla för en utländsk underrättelseoperation har bolagets styrelse inlett en oberoende utredning. Samtidigt kräver senatorer från båda partierna en skärpt granskning av exportlicenserna till Kina. En republikansk senator vill att Huang lämnar vd-posten. Men den centrala sakfrågan är ännu inte besvarad: finns det belägg för att bolagshemligheter, exportkontrollinformation eller nationellt skyddsvärda uppgifter faktiskt har röjts? I det offentliga materialet som hittills identifierats finns inget sådant fastställt belägg.*
@@ -24,6 +24,8 @@ Huang har i ett meddelande till anställda erkänt att han varit otrogen och bet
 New York Times rapporterade, med hänvisning till amerikanska underrättelsekällor, att en person i en affärsrelation med Huang misstänktes ha samlat in information för Peking. Personen har kopplats i medierapporteringen till Singaporebaserade Megaspeed, ett företag i NVIDIA:s kundkrets.
 
 AP och Reuters har återgett rapporteringen. De offentliga källor som hittills identifierats innehåller däremot inte någon avhemligad underrättelsebedömning, åtalshandling, domstolsprövning eller offentlig myndighetsrapport som fastställer att personen agerat för kinesisk underrättelsetjänst. Kinesiska utrikesdepartementet har avfärdat anklagelserna som grundlösa.
+
+**Viktig officiell motuppgift – Singapore, 30 oktober 2026 (sidan uppdaterad 9 november):** Singapore Police Force publicerade en formell rättelse av hur WSJ hade återgett uppgifter om Singapore. Regeringen skriver att varken Singapore Government eller dess tjänstemän hade sagt att Alice Huang misstänktes vara kinesisk underrättelsekälla och att **inga sådana undersökningar hade genomförts beträffande Alice Huang**. Samma svar skiljer uttryckligen ut att undersökningar av **Megaspeed** fortfarande pågår. Detta motsäger WSJ:s attribution av misstanken till singaporianska myndighetskällor; det avgör inte om amerikanska myndigheter har gjort en separat underrättelsebedömning.
 
 **OBEROENDE RAPPORTERING:**  
 - Associated Press, 8 november 2026: https://apnews.com/article/68839e7ca6ba2b121529f7e475e501d6  
@@ -277,3 +279,45 @@ Källor:
 
 Källa:
 - Reuters, 12 november 2026: https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12/
+
+
+## Primär källuppdatering – Singapore och Megaspeed, 12 november 2026, 13:52 EET
+
+### Singapore skiljer mellan Alice Huang och bolagsutredningen
+
+**PRIMÄRKÄLLA – Singapore Police Force / Ministry of Home Affairs, 30 oktober 2026; sidan senast uppdaterad 9 november:** Regeringens klargörande anger att varken regeringen eller dess tjänstemän hade lämnat de uppgifter som WSJ tillskrev dem om Alice Huang och att inga sådana undersökningar genomförts beträffande henne. I samma publicerade svar bekräftar myndigheten att utredningen av Megaspeed pågår, men säger att den inte kan kommentera ytterligare.
+
+Singapore anger också att landet inte tillämpar andra staters ensidiga exportkontroller som sina egna. Samtidigt säger regeringen att bolag verksamma i Singapore förväntas beakta andra länders regler, inklusive exportkontroller, i internationell verksamhet och att Singapore agerar mot brott mot landets egna lagar, bedrägeri och ohederliga förfaranden.
+
+**Redaktionell följd:** Påståendet att Singapore skulle ha utrett Alice Huang ska inte återges som ett faktum. Den officiella singaporianska ståndpunkten gäller uttryckligen vad Singapore Government och dess tjänstemän sagt och vilka undersökningar Singapore genomfört. Den besvarar inte frågan om amerikanska myndigheter har en separat underrättelsebedömning.
+
+### Megaspeed säger att bolaget samarbetar med BIS
+
+**PARTSUPPGIFT – Megaspeed, 12 november 2026:** På sin officiella webbplats publicerade bolaget ett uttalande undertecknat av Tan Yong Pong, James, Chairman & CEO för Megaspeed International Pte. Ltd. Bolaget säger att det har samarbetat med inspektioner från U.S. Department of Commerce, Bureau of Industry and Security (BIS). Det uppger även att en ledande amerikansk advokatbyrå har anlitats för att leda en omfattande inventering av bolagets GPU:er och oberoende kontrollera dess exportkontrollrutiner.
+
+Uttalandet redovisar **inte** inventeringens resultat, antal eller identitet på GPU:er, slutanvändare, leveransdestinationer, omfattningen av BIS-inspektionerna eller någon myndighetsbedömning av efterlevnaden. Det är bolagets egen redogörelse för samarbete och en pågående kontroll – inte ett oberoende intyg om att exportkontrollreglerna har följts.
+
+**OBEROENDE BEKRÄFTELSE:** AP återger den 12 november att Megaspeed sagt att det samarbetar med amerikanska utredningar och anlitat en amerikansk advokatbyrå. AP:s rapportering ger stöd för att uttalandet offentliggjorts, men inte för att inventeringen är färdig eller att myndigheterna godkänt resultatet.
+
+### Finansiell registeruppgift – ännu endast ett kontrollspår
+
+**OBEROENDE RAPPORTERING / EJ PRIMÄRKONTROLLERAD:** Lianhe Zaobao och The Business Times hänvisar till Singapore ACRA-uppgifter om att Megaspeeds tillgångar ökade från cirka 32,9 miljoner USD 2023 till cirka 2,976 miljarder USD 2024, samtidigt som intäkterna uppgick till cirka 294,3 miljoner USD och skulderna till cirka 2,986 miljarder USD. De återger också en förlust efter skatt på cirka 20 miljoner USD och revisionsberättelser utan anmärkning för 2022–2024.
+
+De underliggande ACRA-registrerade årsredovisningarna har inte hämtats direkt i denna kontroll. Beloppen ska därför behandlas som en prioriterad registerkontroll, inte som färdig primärverifiering. Nästa steg är att hämta bolagets fullständiga registrerade årsredovisningar, UEN, koncernstruktur och uppgifter om Swiftdata samt att kontrollera vilken juridisk person som faktiskt äger GPU-tillgångarna.
+
+### Uppdaterad bevismatris
+
+- **PRIMÄRKÄLLA:** Singapore Government/Ministry of Home Affairs förnekar att Singapore utrett Alice Huang; bekräftar separat att Megaspeed-utredningen pågår.
+- **PARTSUPPGIFT:** Megaspeed uppger att BIS-inspektioner har genomförts och att en extern advokatbyrå ska leda en GPU-inventering och efterlevnadskontroll.
+- **OBEROENDE BEKRÄFTELSE:** AP återger Megaspeeds uttalande; Reuters har tidigare beskrivit bolagets ägar- och affärsstruktur.
+- **OBEKRÄFTAD:** att inventeringen har slutförts, att BIS har godkänt bolagets rutiner, att chip har avletts till en viss slutanvändare eller att någon person har lämnat ut skyddad NVIDIA-information.
+- **ÖPPET:** ACRA:s originalhandlingar, UEN och ägarkedja, BIS-inspektionernas omfattning, eventuellt amerikanskt brottsutredningsunderlag och resultatet av GPU-inventeringen.
+
+**Källor:**
+- Singapore Police Force / Ministry of Home Affairs, 30 oktober 2026: https://www.police.gov.sg/media-hub/news/2026/20261030_clarification_statement_on_wall_street_journals_article
+- Megaspeed, Official Statement, 12 november 2026: https://www.megaspeed.ai/index.html
+- Associated Press, 12 november 2026: https://apnews.com/article/5403f152a601cf82ce939f1d24fffa0f
+- Reuters, bolagsbakgrund 10 november 2026: https://www.reuters.com/world/china/what-we-know-about-megaspeed-singapore-based-customer-nvidia-2026-11-10/
+- Lianhe Zaobao, ACRA-baserade uppgifter 12 november 2026: https://www.zaobao.com.sg/en/finance/singapore/megaspeed-linked-jensen-huangs-alleged-affair-partner-sees-assets-surge-90-fold-year
+
+**Redaktionell korrigering:** Den tidigare formuleringen om Singapore ska läsas tillsammans med regeringens uttryckliga rättelse. Det finns två separata frågor: en rapporterad amerikansk underrättelsebedömning, som inte har offentliggjorts i primärhandling, och Singapores egen bolagsutredning, som myndigheten bekräftar endast beträffande Megaspeed.
