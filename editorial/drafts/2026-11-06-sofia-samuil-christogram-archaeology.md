@@ -206,3 +206,23 @@ Den redaktionella formuleringen ska därför fortsatt vara “kvarlevor som till
 **Öppet:** full antropologisk rapport, provkedja, metodbeskrivning och eventuella DNA-/isotopresultat. Fyndåret anges fortsatt som “under 1960-talet” tills fältdagbok och originalrapport från Moutsopoulos har granskats.
 
 **Status:** källkritisk precisering till befintligt granskningsutkast. Inte godkänt eller publicerat.
+
+
+## Källuppdatering 12 november 2026 – återförandet av de grekiska kyrkoskatterna
+
+**Händelsedatum:** 8 november 2026. **Publiceringsdatum:** 8 november 2026.
+
+**PRIMÄRKÄLLA – Greklands premiärministers kansli:** Vid sitt besök i klostret Timios Prodromos i Serres uppgav premiärministern att föremål som fördes bort 1917 hade återvänt till klostret. En separat officiell redogörelse från samma dag bekräftar att andra återlämnade föremål överlämnades till kyrkans klenodkammare ”Psychis Akos” och placerades i montrar vid Serres metropolitankyrka/eklesiastiska museum.
+
+Detta besvarar en del av den öppna frågan efter utställningsperiodens slut den 5 november: fysisk återföring till minst två mottagande institutioner är nu offentligt bekräftad. Protokollet den 3 oktober omfattar 48 föremål avsedda för Timios Prodromos, Panagia Eikosifoinissa och Serres metropolitsäte. De två redogörelserna den 8 november ger inte en föremålsvis inventarielista och bekräftar inte att samtliga 48 redan levererats till alla tre mottagare.
+
+**OBEROENDE BEKRÄFTELSE:** Den grekiska premiärministerns två separata redogörelser är oberoende av Bulgariens regeringskommunikation men är fortfarande officiella partsuppgifter om den grekiska överlämningen. Någon fullständig, gemensamt signerad mottagningsinventering har inte identifierats.
+
+**Kvar öppet:** mottagningsbevis för Panagia Eikosifoinissa; fullständig föremålslista med ursprunglig proveniens, transportdatum och ansvarig förvaringsinstitution; om samtliga 48 föremål har överlämnats.
+
+Källor:
+- Greklands premiärministers kansli, 8 november 2026, Timios Prodromos: https://www.primeminister.gr/2026/11/08/39691
+- Greklands premiärministers kansli, 8 november 2026, Serres och klenodkammaren: https://www.primeminister.gr/2026/11/08/39688
+- Greklands premiärministers kansli, 3 oktober 2026, överlämningsprotokollet och 48 föremål: https://www.primeminister.gr/en/2026/10/03/39469
+
+**Redaktionell följd:** Uppdatera formuleringen från ”ingen offentlig bekräftelse efter 5 november” till ”officiell återföring till minst två mottagare bekräftad 8 november; fullständig leverans av samtliga 48 föremål återstår att inventera”. Samuils kvarlevor ska fortsatt beskrivas som historiskt/arkeologiskt tillskrivna Samuil, inte DNA-verifierade.
