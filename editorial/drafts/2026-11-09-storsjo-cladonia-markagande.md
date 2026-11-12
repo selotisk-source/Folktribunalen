@@ -304,3 +304,27 @@ https://berg.se/download/18.74b303f21a1a1a9bcb31a1f/1793747745560/Kallelse%20f%C
 Cladonia/Storsjö finns inte som formellt ärende på den publicerade KS-dagordningen. Det mediala rapporterade mötet med kommunföreträdare och bolagets representant ska därför beskrivas som en separat kontakt, inte som ett beslut av kommunstyrelsen. Något formellt beslut om markanvändning, datacenter eller mineralutvinning har inte identifierats i denna kontroll.
 
 **Nästa primärkontroll:** Lantmäteriets lagfarts- och fastighetsutdrag, Bolagsverkets aktuella ägar-/styrelseuppgifter, eventuella skriftliga bolagsbesked samt kommunens eventuella mötesanteckningar. Medieåtergivningar av muntliga besked är partsuppgifter, inte bindande avtal.
+
+
+## Fördjupning 12 november – jakt, renbete, allmänhetens tillträde och myndighetsbeslut
+
+**PARTSUPPGIFT – Cladonias skriftliga svar till SVT, 7 november:**  
+https://www.svt.se/nyheter/lokalt/jamtland/efter-45-ar-forsvann-ratten-att-jaga-nar-alex-karp-kopte-skog-i-harjedalen
+
+Cladonia uppger att Allemansrätten, samebyarnas rätt till renbete, Länsstyrelsens fågelskyddsbeslut, inskrivna ledningsrätter och servitut samt avtal med skoterklubbar och fiskevårdsområdesföreningen ska fortsätta enligt sina villkor. Bolaget säger att en del jakträtter ska behållas och att lokala jägare ska erbjudas jakträtter efter översyn och dialog. Det uppger också att ingen avverkning planeras vintern 2026/27, att en ny skogsbruksplan tas fram, att contortatall på sikt ska ersättas med inhemska trädslag och att naturligt uppvuxen skog ska lämnas orörd. Befintliga stugor och vägar uppges rustas av lokala företag.
+
+**OBEROENDE BEKRÄFTELSE – lokal jägare, SVT 7 november:** samma rapport beskriver att fem jaktlag fick brev från SCA under våren om att jakträtten skulle upphöra vid försäljningen. Ett lokalt jaktlag fick jaga på ungefär halva tidigare marken och andra lag fick helt inställd jakt. Detta är ett direkt vittnesmål, inte en fullständig inventering av alla jaktupplåtelser.
+
+**Juridisk skillnad:** Allemansrätten innebär inte i sig jakt- eller fiskerätt. Bolagets allmänna löfte om att “ordna jakträtter” är inte ett undertecknat jaktavtal. På samma sätt är bolagets uppgift om samebyarnas renbetesrätt inte en ersättning för samråd eller för kontroll av faktiska nyttjanderätter.
+
+**Primärkontroller som återstår:** den nya skogsbruksplanen; Skogsstyrelsens avverkningsanmälningar; jaktupplåtelser och arrenden; fiskevårdsområdets avtal; samebyns dokumenterade samråd; Lantmäteriets inskrivna servitut/ledningsrätter; samt eventuella kommunala/länsstyrelsebeslut om väg- och byggnadsarbeten.
+
+### Myndighetstidslinje för huvudaffären
+
+- **10 augusti 2026:** enligt SVT lämnades anmälan om utländsk direktinvestering till ISP.
+- **27 augusti 2026:** ISP beslutade att lämna anmälan utan åtgärd, med motiveringen att det inte fanns anledning att anta att investeringen kunde inverka skadligt på svensk säkerhet, allmän ordning eller allmän säkerhet. SVT publicerade beslutets innehåll efter överklagande den 12 oktober. Detta är ett direkt återgivet myndighetsbeslut, men själva beslutets fullständiga PDF/diarienummer har inte hämtats.
+- **9 september 2026:** Länsstyrelsen beviljade förvärvstillstånd enligt jordförvärvslagen. SVT anger att skälen var att säljare och köpare var två juridiska personer, att ägarbalansen därför inte rubbades och att ingen intresseanmälan från annan köpare kom in under tre veckors annonsering. Själva beslutet och diarienumret saknas fortfarande i denna research.
+
+**Källor:** SVT:s ISP-beslutssammanställning 12 oktober https://www.svt.se/nyheter/lokalt/jamtland/isp-om-palantir-vdns-kop-i-harjedalen-inte-skadligt-for-sveriges-sakerhet och Länsstyrelsens tillståndsrapportering https://www.svt.se/nyheter/lokalt/jamtland/darfor-sa-lansstyrelsen-ja-till-palantir-vdns-skogskop-i-harjedalen.
+
+**Redaktionell slutsats:** myndighetsbesluten avser tillstånd enligt två olika regelverk och innebär inte att myndigheterna har godkänt en viss framtida skogsbruksplan, jaktordning, datacenteretablering eller mineralutvinning. Håll isär tillståndet att genomföra förvärvet från villkoren för framtida markanvändning.
