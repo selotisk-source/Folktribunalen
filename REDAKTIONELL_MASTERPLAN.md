@@ -1181,3 +1181,26 @@ Forskningsloggen för denna cykel finns i [2026-11-12-breaking-watch-2119.md](ed
 **Övriga spår C–E, G–J, L–M, P, R–S:** screenade; ingen ny händelse med tillräckligt primärunderlag passerade publiceringströskeln i denna cykel. Samtliga fortsätter i bevakningen.
 
 **Arbetsflöde:** PR #16, #55, #47, #57, #58, #53 och #4 är fortsatt OPEN/DRAFT. Inget godkännande, merge eller LIVE-publicering har skett i denna cykel.
+
+
+## Breaking Watch – 12 november 2026, 22:31 EET
+
+### Nya och uppdaterade granskningsärenden
+
+- **PR #59 – DRAFT:** Norrsundet: sex blykylda SMR, samråd och tillståndskedjan. Samrådet avslutas 13 november 2026. Utkastet skiljer mellan anläggningsplan, kommunalt veto, SSM-tillstånd, miljötillstånd och bygglov. [Öppna PR #59](https://github.com/selotisk-source/Folktribunalen/pull/59).
+- **PR #8:** uppdaterad med Greklands officiella bekräftelser 8 november om återföring av 1917-föremål till minst två institutioner; fullständig inventering av 48 objekt kvarstår.
+- **PR #31:** uppdaterad med atNorth/Enersense 130 kV-ledningar och Calentix spillvärmeprojekt; utvecklingsavtal skiljs från värmeköpsavtal och drift.
+- **PR #43:** uppdaterad med Skellefteå kommuns dnr 2026-4321 för teknikhus/transformatorstationer på Ackumulatorn 3. Sökanden framgår inte av den offentliga sammanfattningen; koppling till EdgeConneX är inte fastställd.
+- **PR #53:** uppdaterad med UAE:s återöppnade stränder, GEM NO.2, CAROLINE BEZENGI och IMO:s sannolika datumskrivfel.
+- **PR #55:** uppdaterad med AI Act/AI Omnibus-tidslinjen: artikel 50 och övergångsfrist 2 december 2026; Annex III-högriskregler 2 december 2027; reglerade produkter 2 augusti 2028.
+- **PR #16:** täckningsmatris och daterad researchjournal uppdaterade.
+
+### Nästa kontrollpunkter
+
+- **13 november 2026:** sista dag för samråd om Blykallas Norrsundet-plan.
+- **17 november 2026:** NVIDIA Q3 FY2027 – granska uppdaterad 10-Q, kundkoncentration, garantiåtaganden och finansieringsavtal.
+- **30 november 2026:** Skogsstyrelsens uppdrag om föreskrifter/vägledning för samråd.
+- **2 december 2026:** AI Act:s övergångsfrist för äldre systems märkning/detektion enligt artikel 50(2).
+- **31 december 2026:** Länsstyrelsen Gävleborgs förslag till anläggningsplan för Norrsundet ska lämnas till regeringen.
+
+**Publiceringsstatus:** Samtliga berörda PR:ar är öppna DRAFT. Ingen merge, publicering eller LIVE-kontroll har utförts i denna cykel. Den etablerade artikelordningen Hormuz → Gripen över Polen → USA:s kongress → Palantir Q3 → AI-infrastrukturens kreditkedja är oförändrad; PR #59 ligger som senare R-spår och flyttar inte före prioriteringarna.
