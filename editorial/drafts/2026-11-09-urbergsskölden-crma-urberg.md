@@ -292,3 +292,48 @@ Källor:
 - Eurobattery Minerals, ansökan 15 januari 2026: https://investors.eurobatteryminerals.com/en/press-releases/eurobattery-minerals-submits-crma-strategic-project-applications-for-san-juan-and-hautalampi/
 - Eurobattery Minerals, kompletterande miljödokument 24 augusti 2026: https://investors.eurobatteryminerals.com/pressmeddelanden/eurobattery-minerals-lamnar-in-kompletterande-dokumentation-for-miljotillstandsansokan-for-hautalampi/
 - Europeiska revisionsrätten, Special Report 04/2026: https://www.eca.europa.eu/ECAPublications/SR-2026-04/SR-2026-04_EN.pdf
+
+
+
+## Källuppdatering 12 november 2026, 11:06 EET – Finlands slutliga CRMA-lagpaket och RAKKA
+
+### Nationella lagar: slutligt datum 15 november
+
+**PRIMÄRKÄLLA – Finlands författningssamling/Finlex:** president Alexander Stubb stadfäste lagpaketet den **6 november 2026**. Lagarna publicerades **11 november 2026** och träder i kraft **15 november 2026**. GTK:s pressmeddelande den 13 augusti beskrev ett planerat ikraftträdande den 1 november; den slutliga lagen anger alltså 15 november och ersätter den tidigare prognosen.
+
+- **1024/2026** genomför nationella bestämmelser om fullgörande och tillsyn av vissa CRMA-skyldigheter. Arbets- och näringsministeriet ansvarar för det nationella programmet enligt CRMA artikel 26 och för rapportering till kommissionen.
+- **1026/2026** ändrar lagen om GTK och ger Geologiska forskningscentralen ansvar för att utarbeta det nationella prospekteringsprogrammet enligt CRMA artikel 19.1 samt upprätta databasen enligt artikel 27.4 och samla in de uppgifter som databasen kräver. Programmet ska ses över minst vart femte år.
+- **1025/2026** kopplar marknadskontrollen av berörda produktkrav till det nya nationella regelverket.
+
+Det nationella prospekteringsprogrammet hade enligt GTK redan överlämnats till kommissionen hösten 2025. Den nya lagen formaliserar GTK:s ansvar; den betyder inte att prospekteringsprogrammet startar först den 15 november.
+
+### Viktig tidslinje i CRMA artikel 27
+
+Korskontroll mot EU:s officiella rättelse 2024/90330 är nödvändig eftersom den ursprungliga förordningstexten hade felaktiga datum i vissa punkter:
+
+- **24 november 2025:** medlemsstaternas databas över stängda och övergivna utvinningsavfallsanläggningar skulle vara etablerad enligt artikel 27.6. Rättelsen 2024/90330 ändrade datumet från 24 november 2026 till 24 november 2025.
+- **24 november 2025:** medlemsstaternas genomgång av tillståndsakter för stängda anläggningar enligt artikel 27.7(a).
+- **24 maj 2026:** representativ geokemisk provtagning vid anläggningar där tillgänglig information kan indikera ekonomiskt återvinningsbara kritiska råvaror, artikel 27.7(b).
+- **24 november 2026:** verksamhetsutövare vid utvinningsavfallsanläggningar ska lämna in den preliminära ekonomiska bedömningen enligt artikel 27.1–3. Detta är en annan skyldighet än medlemsstatens databas.
+- **24 mars 2027:** mer detaljerad provtagning och kemisk/mineralogisk karakterisering vid utvalda anläggningar, artikel 27.7(c).
+- **24 maj 2027:** all information ska vara införd i den offentligt tillgängliga digitala databasen, artikel 27.6.
+
+**Redaktionell kontrollfråga:** den slutliga finska lagen träder i kraft 15 november 2026, medan den korrigerade EU-fristen för att etablera databasen och gå igenom tillståndsakter var 24 november 2025. GTK hade emellertid redan publicerat ett offentligt kartlager i juni 2026. Det går därför inte att dra slutsatsen att Finland saknade all databas eller att ett överträdelseförfarande föreligger. Nästa kontroll är att jämföra den offentliga RAKKA-databasens täckning och datamängd med artikel 27.4, samt söka eventuell tidigare nationell rapportering till kommissionen.
+
+### Vad RAKKA visar – och inte visar
+
+**PRIMÄRKÄLLA – GTK, 17 juni 2026:** GTK lade in uppgifter om utvinningsavfall och geografiska lägen i sin offentliga mineralförekomstdatabas. Den nya RAKKA-vyn och kartlagren är offentligt tillgängliga. GTK uppger att uppgifterna bygger på publicerade rapporter och andra offentliga källor och att myndigheten ansvarar för att uppdatera dem.
+
+**PRIMÄRKÄLLA – GTK, 4 juni 2026:** en studie av åtta centrala anrikningssandområden och två sidobergsområden bedömde att potentialen för ekonomiskt lönsam utvinning av kritiska råvaror i de undersökta stängda avfallsområdena i huvudsak var begränsad. Orijärvi visade vissa tekniskt möjliga ombehandlingsresultat, men materialmängden och ekonomin begränsar potentialen. Studien omfattar tio utvalda områden och får inte generaliseras till samtliga finska gruvavfallsområden.
+
+**Redaktionell slutsats:** RAKKA är ett viktigt offentligt kart- och informationslager, men en registrerad avfallsplats är inte en mineralreserv. GTK:s urval visar också att cirkulär råvarupotential måste prövas med geokemi, volym, processutbyte, miljövillkor och ekonomi – inte bara med kartläggning.
+
+Källor:
+- Finlex, lag 1024/2026, publicerad 11 november: https://data.finlex.fi/sv/lagstiftning/forfattningssamling/2026/1024
+- Finlex, lag 1026/2026, publicerad 11 november: https://www.finlex.fi/en/legislation/collection/2026/1026
+- Finlex, lag 1025/2026: https://www.finlex.fi/en/legislation/collection/2026/1025
+- EU:s officiella rättelse 2024/90330: https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32024R1252R%2801%29
+- GTK, offentlig RAKKA/mineralförekomstdatabas, 17 juni 2026: https://www.gtk.fi/ajankohtaista/gtkn-mineraaliesiintymatietokanta-uudistui-kaivannaisjatteet-nyt-kartalla/
+- GTK, studie om stängda avfallsområden, 4 juni 2026: https://www.gtk.fi/ajankohtaista/tutkimus-suomen-suljettujen-kaivannaisjatealueiden-hyodyntamispotentiaali-on-rajallinen/
+
+**Nästa kontrollpunkter:** kontrollera RAKKA:s täckning mot CRMA artikel 27.4; begär nationell rapportering om 2025/2026-milstolpar; följ operatörernas preliminära bedömningar till 24 november 2026; och granska hur GTK prioriterar provtagning fram till 24 mars 2027.
