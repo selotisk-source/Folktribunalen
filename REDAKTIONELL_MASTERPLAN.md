@@ -1056,3 +1056,6 @@ Kanonisk journal: editorial/research/2026-11-12-breaking-watch-1220.md. Täcknin
 
 ### F/P – ytterligare kontroll 12 november 2026
 Axios/Reuters-rapporteringen om att Trump ska ha godkänt en ny åtgärd mot misstänkt chipdiversion den 5 november, men att Commerce/Lutnick därefter fördröjt verkställigheten, har lagts till PR #47 och 12:20-journalen. Commerce-talesperson förnekar enligt Axios att Bessent konfronterade Lutnick; Reuters bekräftar publiceringen av Axios-uppgifterna, inte mötesförloppet. Senate Banking Committee publicerade Warren/Banks-uttalande 9 november. House-ordförandena begärde 5 november stängd briefing med Huang den 18 november. Warren/Coons records-preservation request är återgiven av Reuters 12 november; direktbrev/PDF har inte hittats. Ingen offentlig BIS-order, Federal Register-regel eller Megaspeed Entity List-post identifierades. F/P handlar nu om verkställighet och tillsyn, inte bara personrisk.
+
+
+F-komplettering: Reuters 12 november beskriver leverantörskedjans exponering i Taiwan och Sydkorea samt kinesiska AI-bolags sökande efter utländsk GPU-åtkomst inför möjlig amerikansk fjärråtkomstreglering. Utkastet behandlar nu även kapacitetsbokning, HBM/minne och skillnaden mellan redan producerande generationer och framtida ekosysteminvesteringar.
