@@ -15,6 +15,8 @@
 
 **4 november – parlamentariskt förhör:** Hälsoutskottets protokoll visar att ordföranden beskrev avtalet som löpande till slutet av mars 2027 och sade uttryckligen att det inte är en break clause i betydelsen ett förtida avbrytande mitt i avtalsperioden. Beslutet gäller om NHS ska utnyttja förlängningsoptionen. Hälsoministern sade att kontraktsöversynen pågick och ville inte föregripa processen. Detta korrigerar kampanjers förenklade beskrivning av en fri uppsägningsrätt 2027.
 
+**2 november – Q3-resultat och SEC 10-Q:** Q3-intäkterna var USD 2,313 md (+96 % år/år). Kommersiella intäkter var USD 1,168 md och myndighetsintäkter USD 1,146 md; kommersiellt passerade myndigheter för första gången på koncernnivå. RPO var USD 4,9 md; cirka 44 % väntas redovisas under kommande 12 månader och 37 % under de följande 13–36 månaderna. SEC 10-Q redovisar också ett ändrat tredjepartsavtal för molntjänster med minst USD 5,6 md i inköpsåtaganden över tio avtalsår till 29 februari 2036, med årliga minimibelopp USD 268–979m. Leverantören namnges inte. Detta är ett långsiktigt inköpsåtagande, inte en låneskuld.
+
 **6 november – ny poliskontraktspost:** Contracts Finder-notisen för BCH Palantir Foundry Platform anger £10,093,202 exkl. moms, tilldelat 9 oktober, fem år till 8 oktober 2031. Värdet är uttryckligen aggregerat för Bedfordshire, Cambridgeshire och Hertfordshire; Cambridgeshire är ledande upphandlande myndighet. Notisen beskriver Foundry. En del pressrapportering beskriver däremot Nectar. Produkterna får inte blandas ihop utan att avtalsbilagor och respektive styrkas systembeskrivningar kontrolleras.
 
 **Öppna frågor:** exakt vilken applikation som används av vilken styrka; datakällor och åtkomstroller; om det finns underleverantörer; revisionsrätt; portabilitet och kostnad för att flytta applikationer; formellt beslut om NHS-förlängning; om den borttagna NHS-sidan återpubliceras med reviderad metod.
@@ -24,6 +26,8 @@ Källor:
 - https://osr.statisticsauthority.gov.uk/news/nhs-england-federated-data-platform-fdp-presentation-and-communication-of-information-and-performance-metrics/
 - https://committees.parliament.uk/oralevidence/18242/html/
 - https://www.contractsfinder.service.gov.uk/Notice/d7a7acf6-a793-427d-a674-ee989e704974-920813
+- Palantir Q3 SEC 10-Q: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+- Palantir Q3 result coverage: https://www.reuters.com/technology/palantir-tops-third-quarter-revenue-estimates-strong-ai-software-demand-2026-11-02/
 
 ### B. Europas AI-datacenter och digitala industri
 
