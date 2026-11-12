@@ -607,3 +607,33 @@ Supply- och kapacitetsåtagandena hade enligt bolaget ökat från **119 md USD**
 **Redaktionell slutsats:** tre risklager måste hållas åtskilda: (1) inköps- och kapacitetsåtaganden som kan bli dyra om efterfrågan uteblir, (2) leaser och AI-cloud-avtal som ännu inte har börjat löpa, samt (3) garantier som kan utlösas först vid vissa hyresgästmislighållanden. Den totala risken kan vara betydande, men den får inte beskrivas som en enda skuldpost på 366, 422 eller 474 md USD.
 
 Källa: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
+
+
+## Källuppdatering 12 november 2026 – VIE-exponering och sekundärmarknad för datacenterlån
+
+### NVIDIA:s investeringar i infrastrukturfinansiärer
+
+**PRIMÄRKÄLLA – NVIDIA Form 10-Q, period till och med 26 juli 2026:** NVIDIA redovisar **3,3 miljarder USD** i investeringar i infrastrukturfinansiärer, redovisade enligt kapitalandelsmetoden. De investeringar som klassificeras som *variable interest entities* (VIE) hade en maximal förlustrisk på **4,7 miljarder USD**, inklusive redovisade värden och framtida bindande åtaganden. NVIDIA uppger att bolaget inte är primär förmånstagare och därför inte konsoliderar dessa VIE:er.
+
+Detta är en separat riskkanal från residualvärdesgarantin på 105 miljarder USD. Beloppen får **inte** adderas till garantiramens maximala bruttoexponering och får inte beskrivas som en skuld på 4,7 miljarder USD. Formuleringen avser maximal förlustrisk i equity-method-investeringar och framtida åtaganden. Rapporten namnger inte de berörda infrastrukturfinansiärerna eller enskilda projektbolagen.
+
+### ING erbjuder en portfölj av datacenterlån till försäljning
+
+**OBEROENDE RAPPORTERING – Reuters, publicerad 6 november 2026:** Reuters återger en Bloomberg-uppgift, baserad på personer med insyn, om att nederländska ING erbjuder en portfölj på cirka **500 miljoner USD** i datacenterlån. Portföljen uppges omfatta omkring tolv lån, däribland ett lån på **25 miljoner USD** kopplat till en datacenteranläggning i New Mexico som ingår i Stargate-satsningen, samt lån knutna till operatörerna Vantage Data Centers och CyrusOne. Bud med ett minsta belopp på 10 miljoner USD uppges förfalla den **19 november 2026**. ING avböjde att kommentera Reuters förfrågan.
+
+**Viktig avgränsning:** en portföljförsäljning är inte i sig ett betalningsinställelsebesked, en nedskrivning eller bevis på att låntagarna har problem. Reuters redovisar inte försäljningspris, säkerhetsstruktur, belåningsgrad, lånevillkor, betalningsstatus eller varför ING säljer. New Mexico-lånet är dessutom en annan projektgeografi än SB Energys PORTS-projekt i Ohio och får inte blandas ihop med NVIDIA:s 105-miljardersgaranti.
+
+### Redaktionell slutsats
+
+Två olika företeelser ska följas parallellt: NVIDIA:s direkta investeringar och villkorade garantier, samt bankernas handel med redan utgivna datacenterlån. Tillsammans visar de hur AI-infrastruktur finansieras genom flera lager av eget kapital, projektbolag, leasing, garantier och låneportföljer. De visar däremot inte att en kreditkris eller ett betalningsproblem redan har inträffat.
+
+**Nästa kontrollpunkter:** om ING:s budprocess slutförs den 19 november, om pris eller säkerhetsvillkor blir offentliga, vilka VIE-motparter NVIDIA:s kommande rapporter identifierar, samt om några garantier faktiskt tas i anspråk.
+
+**Källor**
+- NVIDIA, Form 10-Q, kvartalet avslutat 26 juli 2026: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
+- Reuters, 6 november 2026, återger Bloomberg-rapporten om ING:s låneportfölj: https://www.reuters.com/business/finance/ing-puts-500-million-data-center-loans-up-for-sale-bloomberg-news-reports-2026-11-06/
+
+**Faktastatus**
+- **PRIMÄRKÄLLA:** 3,3 miljarder USD i equity-method-investeringar och 4,7 miljarder USD i maximal förlustrisk för VIE-investeringarna.
+- **OBEROENDE RAPPORTERING:** ING:s erbjudande om en låneportfölj på cirka 500 miljoner USD; uppgiften bygger på Bloomberg-källor och är inte bekräftad av ING.
+- **OBEKRÄFTAD:** försäljningspris, rabatt, låntagarnas betalningsstatus och eventuell koppling mellan enskilda lån och NVIDIA:s garantier.
