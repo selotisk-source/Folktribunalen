@@ -338,3 +338,20 @@ Detta är en begäran om information och en politisk uppmaning från ledamöter;
 - Lianhe Zaobao, ACRA-baserade uppgifter 12 november 2026: https://www.zaobao.com.sg/en/finance/singapore/megaspeed-linked-jensen-huangs-alleged-affair-partner-sees-assets-surge-90-fold-year
 
 **Redaktionell korrigering:** Den tidigare formuleringen om Singapore ska läsas tillsammans med regeringens uttryckliga rättelse. Det finns två separata frågor: en rapporterad amerikansk underrättelsebedömning, som inte har offentliggjorts i primärhandling, och Singapores egen bolagsutredning, som myndigheten bekräftar endast beträffande Megaspeed.
+
+## Källuppdatering 12 november 2026 – Jensen Huang lämnar vd-posten
+
+### Händelse och tidslinje
+**Publiceringsdatum:** 12 november 2026. **Ikraftträdande:** omedelbart enligt NVIDIA:s pressmeddelande. NVIDIA meddelar att Jensen Huang lämnar posterna som president, vd och styrelseledamot. Finanschefen Colette Kress blir interimistisk vd och behåller samtidigt CFO-rollen. Harvey C. Jones utses till styrelseordförande; styrelsen säger att den inleder en permanent sökprocess med både interna och externa kandidater. Q3-resultatet för räkenskapsåret 2027 ligger kvar den 17 november.
+
+**PRIMÄRKÄLLA:** [NVIDIA:s officiella pressmeddelande, 12 november](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition). **OBEROENDE BEKRÄFTELSE:** [Reuters, 12 november](https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/) och [Associated Press, 12 november](https://apnews.com/article/5403f152a601cf82ce939f1d24fffa0f).
+
+### Vad som är känt – och inte känt
+NVIDIA:s officiella pressmeddelande anger inget skäl till avgången. Avgången offentliggörs samtidigt som styrelsens oberoende utredning av uppgifter om Huang och Megaspeed-kopplade exportkontrollfrågor pågår. Styrelsens uttalande den 8 november sade att den då inte hade skäl att tro att företagshemligheter eller nationell säkerhet hade komprometterats; det var styrelsens preliminära partsbedömning, inte en offentlig slutrapport. De oberoende styrelseledamöterna meddelade den 10 november att de anlitat Joon H. Kim och Wachtell, Lipton, Rosen & Katz.
+
+**OBEKRÄFTAD:** Att avgången skulle vara ett erkännande av spioneri, exportbrott eller informationsläckage. NVIDIA:s pressmeddelande anger inte orsaken. AP:s rapportering om Singaporeutredningen visar inte att Alice Huang dömts för spioneri; Singaporemyndigheterna uppgav att underlaget inte räckte för att fastställa brott. Uppgifter om misstänkt spionage ska därför fortsatt beskrivas som anklagelser, inte som fastställda fakta.
+
+NVIDIA säger att verksamheten, kundåtagandena och produktplanen fortsätter utan avbrott. Det är **PARTSUPPGIFT**, inte en oberoende kontroll av alla kontrakts- och finansieringskedjor. Ingen offentlig uppgift i det granskade materialet visar att befintliga kundavtal, garantier, leverantörsåtaganden eller kreditfaciliteter har sagts upp eller ändrats.
+
+### Betydelse för AI-finansieringen
+Ledningsskiftet ändrar riskbilden för styrning, kontinuitet och motpartskontroll, men ska inte bokföras som ett avtalsbrott eller en finansieringshändelse utan dokumentation. Den tillfälliga dubbla rollen som vd/CFO förtjänar särskild uppföljning. Nästa kontrollpunkter är Q3-rapporten den 17 november, styrelsens fortsatta utredning och eventuella formella kongressförhör. Reuters rapporterar att Huang kan komma att höras före Thanksgiving med hänvisning till CNBC; någon formell kallelse eller fastställd förhörstid har inte identifierats i denna kontroll.
