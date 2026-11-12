@@ -151,7 +151,7 @@ Källor:
 
 **PARTSUPPGIFT – Saab/Vangest-avtal återgivet av Lusa:** Saab och den portugisiska industrigruppen Vangest har ingått ett långsiktigt partnerskap. Den första fasen gäller industrialisering av åtta komplexa komponenter till Gripen E/F vid Vangests anläggningar i Marinha Grande, norr om Lissabon. Saab uppger att samarbetet ska stärka Gripens internationella tillverkningsnätverk och skapa kvalificerade arbetstillfällen i regionen.
 
-**OBEROENDE BEKRÄFTELSE – begränsad:** Agência Lusa publicerade uppgifterna den 11 november kl. 15:12; Observador återger Lusa-texten och Euronews rapporterar samma dag med hänvisning till Saabs uttalande. Det är flera redaktionella återgivningar av samma företagsbesked, inte oberoende bevis på att serieproduktion redan har startat.
+**OBEROENDE BEKRÄFTELSE – begränsad:** Agência Lusa publicerade uppgifterna den 11 november kl. 15:12; Observador återger Lusa-texten och Euronews rapporterar samma dag med hänvisning till Saabs uttalande. ECO:s rapportering den 23 april och 26 juli visar dessutom att Vangest redan ingick i Saabs portugisiska leverantörsnätverk och arbetade med Gripenrelaterade komponenter. Det nya beskedet preciserar en första fas med åtta komplexa komponenter; det är inte en helt ny leverantörsrelation och inte oberoende bevis på att den nya industrialiseringsfasen redan nått serieproduktion.
 
 **Vad som inte är offentliggjort:** avtalets värde, investeringens storlek, produktionsstart, produktionsvolymer, antal arbetstillfällen och vilka åtta komponenterna är. De tekniska komponentidentiteterna ska inte gissas.
 
@@ -159,7 +159,9 @@ Källor:
 
 **Källor:**  
 - Agência Lusa via Observador, 11 november 2026: https://observador.pt/2026/11/11/saab-e-portuguesa-vangest-com-parceria-para-produzir-componentes-para-cacas-gripen/  
-- Euronews, 11 november 2026: https://www.euronews.com/2026/11/11/a-portuguese-group-will-manufacture-components-for-swedish-saab-fighter-jets  
+- Euronews, 11 november 2026: https://www.euronews.com/2026/11/11/a-portuguese-group-will-manufacture-components-for-swedish-saab-fighter-jets
+- ECO, 26 juli 2026, Vangest arbetar redan med Saab/Gripen: https://eco.sapo.pt/reportagem/na-marinha-grande-ha-uma-empresa-que-produz-para-os-grifos-da-saab/
+- ECO, 23 april 2026, Saab namnger Vangest bland portugisiska leverantörer: https://eco.sapo.pt/2026/04/23/portugal-ja-esta-a-participar-na-construcao-do-caca-gripen-avanca-a-saab/  
 - Saab newsroom, senaste pressmeddelanden (ingen separat Vangest-release identifierad i den hämtade listan): https://www.saab.com/newsroom/press-releases
 
 **Öppna frågor före publicering:**  
