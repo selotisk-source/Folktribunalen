@@ -950,3 +950,35 @@ Ny fullcykelnotering för A–S: se [researchnoteringen 11 november 16:15](2026-
 **Viktigaste tillägg sedan föregående kontroll:** Palantirs Q3 10-Q visar att kommersiella intäkter för första gången i den aktuella kvartalsjämförelsen översteg myndighetsintäkterna, samtidigt som bolaget redovisar minst 5,6 md USD i molnhostingåtaganden till februari 2036. NVIDIA:s 10-Q redovisar 366 md USD i framtida åtaganden, separata 56 md USD i AI-cloud-/tredjepartsleaseåtaganden och 108,5 md USD i maximala garantier; dessa poster är inte en enda skuld. EU:s CRMA-lista omfattar fem finska projekt, Viscaria i Sverige och Aurubis Pirdop i Bulgarien. Onkalo har fått driftlicens men inväntar STUK:s driftsättningskontroll. EuroHPC:s nya anbudslänkar är nu publicerade; Lot 2 stänger 3 december 2026 och Lot 1 den 4 februari 2027. Senatens BAAJA går vidare genom en substitute amendment till H.R.2347; 62–21-rösten den 10 november var en motion to proceed, inte slutligt lagantagande. Jämtmassivet vid Enafors är ett tidigt batterilagerprojekt med olöst skillnad mellan 150 och 195 MW.
 
 **Status:** A, B, D, E, F, O, P, Q, R och S har substantiella uppdateringar eller nya primärdokument. C, G, K, N har viktiga kontrollnoteringar/öppna frågor. H, I, J, L och M passerade inte publiceringströskeln för en ny notis i denna cykel.
+
+---
+
+## Delta – 12 november 2026, 02:10 EET
+
+Alla 19 huvudspår A–S screenades. Fyra substantiella uppdateringar passerade rapporttröskeln i denna cykel: **O Hormuz**, **Q Gripen/Vangest**, **K Cladonia/Storsjö** och **G Libanon/IPC**. B, A, E, F, P, R och S jämfördes med befintliga primärdokument och granskningsutkast; ingen ny dokumenthändelse som ändrar den tidigare sakstatusen identifierades. C, D, H, I, J, L, M och N fick kontrollnotering utan ny publiceringströskelhändelse.
+
+| Spår | Senaste kontroll | Primärkällor / dokument | Nytt i denna cykel | Öppna frågor / nästa kontroll |
+|---|---|---|---|---|
+| A | 12 nov screening; SEC-baseline 3 nov | Palantir Form 10-Q och tidigare USAspending/Army-underlag | Ingen ny kontraktstilldelning; befintlig Q3- och molncommitmentanalys kvarstår | Nya award-poster, FDP-avtal, dataägande, exit och faktisk användning |
+| B | 12 nov screening; primärbesked 9–10 nov | Statnett och norska regeringen | Ingen ny nät-/tillståndsändring sedan PR #31 | Licensutkast, övergångsregler, RME-krav och projektundantag |
+| C | 12 nov screening; PR #38 | Biosemiotics 21 sep; Neuroscience of Consciousness 19 okt; Frontiers 6 nov | Ingen ny empirisk studie; samtliga befintliga bidrag är teori/översikt | Förregistrering, replikation och basfrekvenskontroller |
+| D | 12 nov screening; tidigare ceremoni 3 okt | NAIM/Sofia och tidigare officiella återförandekällor | Ingen ny utgrävnings- eller kataloghandling | Originalutgrävningsrapport, antropologi, DNA/isotoper och föremålskatalog |
+| E | 12 nov screening; PR #34 | EU C(2026)8051, SGU/Bergsstaten/GTK | Ingen ny beviljad koncession; tidigare CRMA- och ansökningslista kvarstår | Tillstånd, finansiering, miljöprövning och produktion |
+| F | 12 nov screening; PR #14/#47 | NVIDIA Form 10-Q 26 aug 2026 | Ingen ny Q3-filings eller ny finansieringsstängning identifierad | Garantidragningar, leasingstarter, skuld och nästa SEC-rapport |
+| G | 12 nov; IPC publicerad 5 nov | IPC Lebanon acute food insecurity analysis | 1,05m i fas 3+ och 52 000 i fas 4; 1,15m/97 000 projicerade mars–juli 2027. Ingen konfessionell uppdelning | Geografisk detaljdata, återvändande, lokal mat- och serviceåtkomst |
+| H | 12 nov screening | Tidigare kyrko-/kommunarkiv i fem städer | Ingen ny primär restaurerings- eller ägarhandling | Församlingsprotokoll och kommunala byggnadsakter |
+| I | 12 nov screening | Tidigare SGU/GTK, skogs- och hästkulturunderlag | Ingen ny verifierad mark- eller kulturmiljöhandling | Avverkning, rennäring, markägande och historiska kartor |
+| J | 12 nov screening | Tidigare folkloristik, hydrologi, runologi och Thiel-källor | Ingen ny dokumenterad observation eller biologisk studie | Originalvittnesmål, hydrologi, runologisk forskning och fullständiga intervjutranskript |
+| K | 12 nov; möte 10 nov | SVT 10 nov; Nya Allehanda/TT 11 nov; kommunal återgivning | Kommunledningen återger rekreationssyfte och inga presenterade datacenter-/mineralplaner; kontraktets rapporterade syfte anger skogsbruk | Originalkontrakt, bolagets skriftliga ståndpunkt, kommunanteckningar, lagfarter, jakt/servitut |
+| L | 12 nov screening | RAÄ/länsstyrelse/kyrkoarkivsspår | Ingen ny restaurerings- eller brandhandling | Inventarier, brandhistorik, byggnadsarkeologi |
+| M | 12 nov screening | Offentliga Athos-kataloger och forskningsprojekt | Ingen ny donation eller provenienspost | Katalogisering, digitalisering och dokumenterad bokväg |
+| N | 12 nov screening | EU AI Act/IMY/EDPB och tidigare domar | Ingen ny dom eller upphandling över tröskeln | Tillsynsbeslut, biometriska system och myndighetsupphandlingar |
+| O | 12 nov; händelser 10–11 nov | ADNOC 10 nov; UKMTO 201/202-notiser; Reuters 11 nov | Tankerincident nordost om Lima; ADNOC-fartyg skadat i UAE-vatten; ny UKMTO 202 Suspicious Activity med TBC; Reuters rapporterar angrepp mot navigationssystem på Didamar | Original-PDF, fartygsidentitet/IMO, skadebedömning, omanskt besked och eventuell koppling mellan incidenter |
+| P | 12 nov screening | Senate/House officiella loggar i befintliga utkast | Ingen ny plenipassage eller utskottsåtgärd identifierad | Nästa BAAJA/H.R.2347-steg, hearing och roll call |
+| Q | 12 nov; händelse 11 nov | Saab-uttalande återgivet av Lusa/Observador; Euronews | Vangest ska initialt industrialisera åtta komplexa Gripen E/F-komponenter i Marinha Grande; inget portugisiskt flygplansköp | Kontraktsvärde, produktionsstart, komponentlista, volym och Portugals F-16-upphandling |
+| R | 12 nov screening; PR #49/#52 | RWE, KKR, Siemens Energy och tidigare energibolagsrapporter | Ingen ny finansiell stängning utöver befintliga utkast | Låntagare, garantier, FID, MW/MWh, nätanslutning och leverans |
+| S | 12 nov screening; PR #34 | EU CRMA, GTK/SGU, Posiva/STUK | Ingen ny licens-/driftsättningshändelse | Finsk lag, STUK:s slutinspektion och projektvisa tillstånd |
+
+**Källreservationer:** UKMTO 201-26 och 202-26:s fullständiga PDF:er hämtades inte direkt; incidentdetaljerna är sekundära transkriptioner av numrerade UKMTO-produkter. ADNOC:s besked är bolagets primäruttalande; WAM återger samma besked och räknas inte som separat teknisk verifiering. Didamar-uppgiften bygger på tre källor till Reuters; faktisk förstörelse av navigationssystem är inte självständigt fastställd. Cladonia-uppgifterna om mötets besked är kommunledningens återgivning, inte ett bindande bolagslöfte. IPC-data saknar konfessionell uppdelning.
+
+**Arbetsflöde:** PR #12, #22 och #32 har uppdaterats i sina befintliga granskningsgrenar. Ett nytt separat Hormuz-granskningsutkast har skapats. PR #16:s researchjournal har uppdaterats. Inga PR:ar har mergats och ingen LIVE-publicering har utförts.
