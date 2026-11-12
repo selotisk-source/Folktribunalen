@@ -27,7 +27,7 @@
 
 **Händelsedatum:** Östersunds-Postens uppgift avser 16 oktober 2026.  
 **Publiceringsdatum:** Le Monde, 12 november 2026.  
-**OBEROENDE BEKRÄFTELSE:** Le Monde rapporterar att Cladonia Skog AB förvärvade ytterligare cirka 300 hektar i regionen den 16 oktober och beskriver bolaget som bildat i augusti med Alex Karp som ensam aktieägare: https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html
+**OBEROENDE MEDIEÅTERGIVNING – inte självständig registerverifiering:** Le Monde rapporterar att Cladonia Skog AB förvärvade ytterligare cirka 300 hektar i regionen den 16 oktober och beskriver bolaget som bildat i augusti med Alex Karp som ensam aktieägare: https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html
 
 - Uppgiften bygger på Le Mondes återgivning av Östersunds-Posten. Fastighetsvärldens tidigare rapporterade 300-hektarsaffär och köpeskilling om cirka 5 miljoner kronor får nu en ytterligare oberoende publicering.
 - **JURIDISK ÅTSKILLNAD:** den rapporterade köparen är Cladonia Skog AB; Karp ska inte beskrivas som personlig köpare av varje fastighet. Ägaruppgiften i Le Monde ersätter inte ett direkt Bolagsverket-utdrag.
@@ -75,7 +75,7 @@
 
 - **Befintlig prioriteringsordning oförändrad:** 1 Hormuz; 2 Gripen över Polen; 3 USA:s kongress; 4 Palantir Q3; 5 AI-infrastrukturens kreditkedja.
 - PR #53 uppdaterad med UKMTO-original-PDF:er.
-- PR #32 uppdaterad med Le Monde som oberoende bekräftelse av den separata 300-hektarsaffären.
+- PR #32 uppdaterad med Le Monde som ytterligare medieåtergivning av ÖP:s 300-hektarsuppgift; ingen registerbekräftelse.
 - Övriga relevanta utkast (#7, #10, #12, #14, #22, #24, #31, #34, #43, #49, #52, #55) återanvänds; inga dubblettartiklar skapades.
 - **Ingen PR mergad, ingen artikel godkänd och ingen LIVE-publicering utförd.** Databasbaserad webbkö är fortsatt skild från GitHub-gransknings-PR:erna.
 
