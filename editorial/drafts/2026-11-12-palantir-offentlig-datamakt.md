@@ -203,3 +203,19 @@ Den avgörande frågan är inte om Palantir redan har tagit över NHS. Den är o
 8. Begär direkt bemötande från NHS England, Palantir, DHSC, BMA och National Data Guardian.
 
 **Redaktionell status:** Komplett granskningsutkast för huvudspår 1, uppdaterat 12 november 2026. Innehåller ingress, sammanhängande huvudtext, primärkällor, oberoende rapportering, bildförslag, faktakontroll och öppna frågor. Utkastet skiljer lobbykontakt från faktisk dataintegration och medierapportering från formellt regeringsbeslut. Inte godkänt för publicering, inte publicerat och inte LIVE.
+
+
+## EU:s AI Act – aktuell tidslinje efter AI Omnibus
+
+**PRIMÄRKÄLLA – Europeiska kommissionen, aktuell tidslinje:** AI Act gäller sedan 1 augusti 2024 och vissa förbud, GPAI-regler och transparenskrav har varit tillämpliga sedan 2 augusti 2026. Den så kallade AI Omnibus nådde politisk överenskommelse i maj 2026 och trädde i kraft den 27 juli 2026. Därmed gäller de centrala skyldigheterna för högrisk-AI i Annex III – däribland användningsområden inom biometrik, kritisk infrastruktur, migration, asyl och gränskontroll – först från **2 december 2027**. Högrisk-AI inbyggd i reglerade produkter följer från **2 augusti 2028**.
+
+**Närmaste datum:** För AI-system som redan fanns på marknaden före 2 augusti 2026 finns en begränsad övergångsperiod för märkning och maskinläsbar detektion av AI-genererat innehåll enligt artikel 50(2), till **2 december 2026**. Förbuden mot generering/manipulation av icke-samtyckt intimt material och material med sexuella övergrepp mot barn börjar också gälla 2 december 2026.
+
+**Redaktionell betydelse:** Artikeln får inte beskriva högriskreglerna för biometrik, migration eller offentlig infrastruktur som fullt tillämpliga redan i november 2026. De allmänna transparenskraven och redan gällande förbuden är en separat rättslig kategori. Den senareläggning som AI Omnibus infört är central för tidslinjen kring offentliga AI-system och leverantörer som Palantir.
+
+Källor:
+- EU-kommissionen, enforcement timeline: https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
+- EU-kommissionen, AI Act framework and AI Omnibus: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+- EU-kommissionen, artikel 50 och övergångsperiod: https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act
+
+**Öppet:** nationell svensk tillsynsmyndighetsfördelning, faktisk tillsynsaktivitet, vägledning för offentliga upphandlare och om enskilda leverantörer har begärt undantag eller övergångsbeslut.
