@@ -183,3 +183,21 @@ Greenpeace skiljer mellan större utsläpp som kopplats till fartygsangrepp och 
 
 Källa:
 - Reuters, 12 november 2026, om IRGC:s uppgift: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
+
+### Källuppdatering 12 november 2026, 12:20 EET – IMO:s kumulativa bekräftade incidenttal
+
+**PRIMÄRKÄLLA – International Maritime Organization:** IMO:s sida “Middle East – Highlighted (Confirmed) incidents” anger uttryckligen **134 bekräftade incidenter per den 11 november 2026** och **25 dödsfall bland sjöfolk**. Rubriken och sidtexten omfattar både Hormuzsundet och Mellanösternregionen; 134 får därför inte beskrivas som 134 incidenter enbart i själva sundet. Den namngivna listans senaste poster är daterade 7 november (TARIF, NAVIG8 MACALLISTER och HUDA). Listan visar inte de två supertankers som IRGC påstår skadades kvällen den 11 november.
+
+**PARTSUPPGIFT – IRGC, Reuters 12 november kl. 08:05 UTC:** Irans revolutionsgardes flotta uppgav att två supertankers hade satts ur funktion efter explosioner när de använde en “obehörig rutt” i Hormuzsundet onsdagen den 11 november. Iranska statliga medier beskrev senare explosionerna som minträffar och visade vad de sade var videomaterial.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters bekräftar att IRGC lämnade uppgiften och att statliga medier publicerade den återgivna beskrivningen. Reuters har inte därmed oberoende bekräftat två skadade fartyg, minträffar, fartygsidentiteter eller ansvarig aktör. IMO:s kumulativa siffra är en oberoende officiell lägesbild för regionen men styrker inte just dessa två påstådda händelser.
+
+**Korskontroll mot UKMTO:** UKMTO:s offentliga produktlista visar fortsatt 201-26 (10 november) och 202-26 (11 november) som de senaste individuella produkterna som identifierats i denna kontroll. 201-26 gäller en rapporterad projektilträff mot en tanker 19 nautiska mil nordost om Lima, Oman. 202-26 gäller en rapport om misstänkt aktivitet mot en tanker, med händelsetid TBC. Ingen av produkterna namnger de två fartyg som IRGC beskriver. Det finns därför ingen säker matchning mellan IRGC-uppgiften och UKMTO 201-26/202-26.
+
+**Redaktionell slutsats:** 134/25 är den starkaste nya verifierbara totalsiffran. Tvåtankersuppgiften förblir en partsuppgift. Håll kumulativ incidentstatistik, individuella UKMTO-produkter och IRGC:s påstående i separata beviskedjor.
+
+Källor:
+- IMO, uppdaterad statistik per 11 november 2026: https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx
+- Reuters, 12 november 2026, IRGC:s uppgift: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
+- UKMTO:s produktlista: https://www.ukmto.org/ukmto-products/advisories
+- UKMTO Recent Incidents: https://www.ukmto.org/recent-incidents
