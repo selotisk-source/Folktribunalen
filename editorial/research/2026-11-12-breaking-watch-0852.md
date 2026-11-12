@@ -70,7 +70,7 @@ IMO upprepar 130+ verifierade attacker och minst 25 omkomna sjömän, men det ny
 **Publiceringsdatum:** P4 Jämtland, 12 november 2026 kl. 05.56.  
 **OBEROENDE BEKRÄFTELSE:** https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
 
-P4 rapporterar att cirka 30 000 personer skrivit under ett upprop mot markaffären och att Bergs kommun har ett första möte med företrädare för Cladonia. Skiftets kampanjsida visar vid kontroll 33 174 underskrifter på kampanjsidan och 33 361 på plattformens översiktssida. Skillnaden visar att räknaren är dynamisk och inte synkroniserad mellan vyerna. Säkraste formulering är därför “över 33 000 enligt Skiftets egna räknare”, inte ett exakt reviderat tal.
+P4:s korta textpublicering rapporterar cirka 30 000 underskrifter och beskriver kontakten med Cladonia som ett första möte, men anger inte tydligt mötets exakta datum eller något slutligt resultat. SVT och lokal rapportering har beskrivit en separat kontakt den 10 november; Bergs kommuns formella KS-kallelse den dagen saknar Cladonia som ärende. Mötet ska därför inte beskrivas som ett kommunstyrelsebeslut. Skiftets kampanjsida visar vid kontroll 33 174 underskrifter på kampanjsidan och 33 361 på plattformens översiktssida. Skillnaden visar att räknaren är dynamisk och inte synkroniserad mellan vyerna. Säkraste formulering är därför “över 33 000 enligt Skiftets egna räknare”, inte ett exakt reviderat tal.
 
 **PARTSUPPGIFT – kampanjplattform:** https://kampanjer.skiftet.org/campaigns/palantir-ut-ur-harjedalen  
 Kampanjtexten är opinionsbildning och ska inte användas som bevis för ägande, bolagsavsikter eller påstådd myndighetsanvändning. Endast räknaren används som plattformsdata.
