@@ -1034,7 +1034,7 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 | C | 12 nov 11:06 | Forskningsscreening | Ingen ny reproducerbar primärstudie | Replikation och protokollets testdesign | Ingen ny notis |
 | D | 12 nov 11:06 | NAIM/Sofia-arkivscreening | Ingen ny arkeologisk primärhandling | Samuilföremålens katalog/proveniens | Ingen ny notis |
 | E | 12 nov 11:06 | Finlex 1024/1026; GTK RAKKA | Lagpaket publicerat 11 nov, i kraft 15 nov | Artikel 27-täckning och operatörsbedömningar | Nytt belägg |
-| F | 12 nov 11:06 | Oracle 10-Q; CoreWeave 8-K/99.1 | Oracle 288 md USD framtida leasing; CoreWeave Q3 | CoreWeave 10-Q, förskott, faktisk effekt | Nytt belägg |
+| F | 12 nov 11:06 | Oracle 10-Q; CoreWeave 8-K/99.1; NVIDIA Schedule 13G/A | Oracle 288 md USD framtida leasing; CoreWeave Q3; NVIDIA 11,5% av CoreWeave Class A | CoreWeave Q3 10-Q; 14,5 vs 9,441 md USD capex-definition; förskott och faktisk effekt | Nytt belägg |
 | G | 12 nov 11:06 | UNIFIL/UN och kyrkliga källor | Ingen ny kyrkspecifik primärhandling | Mandatövergång och civila följder | Ingen ny notis |
 | H | 12 nov 11:06 | Stadsvise kulturarvssökningar | Inget nytt beslut identifierat | Lokala byggnadsarkiv | Ingen ny notis |
 | I | 12 nov 11:06 | SGU/GTK/markrättslig screening | Ingen ny separat mark-/hästhandling | Rättigheter, skog och historiska kartor | Ingen ny notis |
