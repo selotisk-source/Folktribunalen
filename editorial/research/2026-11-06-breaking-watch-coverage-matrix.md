@@ -1050,3 +1050,34 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 | S | 12 nov 11:06 | Finlex/GTK/CRMA/Posiva | GTK:s formella uppdrag och RAKKA-koppling | Databasens täckning; Onkalo/STUK | Nytt belägg |
 
 **Arbetsflöde:** PR #14, #31, #34 och #53 uppdaterade; PR #49 innehåller redan RWE/KKR; PR #16:s journal och matris uppdateras i denna cykel. Inga PR:er mergade eller publicerade.
+
+
+## Kontrollcykel 12 november 2026, 12:20 EET
+
+**19/19 huvudspår A–S screenade.** Full journal: 2026-11-12-breaking-watch-1220.md. Materiella deltan i F, G, N, O och Q; nytt bolagsunderlag i R. K fick sekundära återberättelser utan nya registerhandlingar.
+
+| Spår | Senaste kontroll | Primärkällor/underlag kontrollerade | Nytt dokument / belägg | Öppna frågor | Status |
+|---|---|---|---|---|---|
+| A | 12 nov 12:20 | Palantir SEC/IR, NHS/FDP, upphandlingar | Inget nytt kontrakt eller myndighetsbeslut | FDP-bilagor, dataansvar, direktupphandling | Fortsatt bevakning |
+| B | 12 nov 12:20 | Statnett, norska regeringen, EuroHPC | Inget nytt formellt beslut efter 11:06 | Koncessionsförslag, nätkö, kommunala tillstånd | Fortsatt bevakning |
+| C | 12 nov 12:20 | Biosemiotics/McCoss, befintlig forskningsdossier | Ingen ny reproducerbar empirisk studie | Förregistrering, basfrekvenser, blindad kodning | Teoretiskt |
+| D | 12 nov 12:20 | NAIM, Sofia kommun, musei-/arkeologisökning | Ingen ny primärhandling | Samuilföremålens katalog/proveniens | Ingen ny notis |
+| E | 12 nov 12:20 | Finlex, GTK/RAKKA, SGU, CRMA | Inget nytt tillståndsbeslut | Operatörsbedömningar, resursklassning | Fortsatt bevakning |
+| F | 12 nov 12:20 | NVIDIA IR/Board Statement, SEC; WSJ, Reuters, AP, Guardian; Siemens vd | Rapporterad styrelsediskussion och marknadsreaktion | Formellt beslut, 8-K, utredning, exportkontroll | Nytt belägg; PR #47 |
+| G | 12 nov 12:20 | UNIFIL/UN News, resolution 2790, G7/EU | UNIFIL:s fältbild, återvändande och civil infrastruktur | Efterföljande internationell närvaro, byspecifika belägg | Nytt belägg; PR #22 |
+| H | 12 nov 12:20 | Stadsvise kulturarvs- och församlingskällor | Inget nytt beslut | Byggnadsarkiv och kyrkoarkiv | Ingen ny notis |
+| I | 12 nov 12:20 | SGU/GTK, skogs-/markrättslig screening | Inget nytt beslut | Rättigheter, historiska kartor, fornminnen | Ingen ny notis |
+| J | 12 nov 12:20 | Folkloristik, runologi, Thiel-dossier | Inget nytt primärvittnesmål | Daterade vittnesmål och citatkontext | Ingen ny notis |
+| K | 12 nov 12:20 | Fastighets-/bolagssökning, lokala medieuppgifter | Nya sekundära återberättelser, inga registerbelägg | Lagfarter, fastighetsbeteckningar, servitut | Öppen kontroll |
+| L | 12 nov 12:20 | RAÄ, länsstyrelse och kommunarkiv | Ingen ny handling | Brand- och restaureringsakter | Ingen ny notis |
+| M | 12 nov 12:20 | Offentliga Athoskataloger | Ingen ny katalogpost | Proveniens, digitalisering | Ingen ny notis |
+| N | 12 nov 12:20 | EU-kommissionens Bosnia Report 2026 | Fragmenterad eID-tillsyn, IDDEEA och signaturprocess | Slutligt domstolsavgörande, nationell lag | Nytt primärdokument |
+| O | 12 nov 12:20 | IMO, UKMTO 201/202, Reuters | 134 regionala bekräftade incidenter, 25 dödsfall; IRGC-uppgift obekräftad | Fartygsidentiteter, skadebesiktning, miljö | Nytt belägg; PR #53 |
+| P | 12 nov 12:20 | House Clerk, Congressional Record, utskottsdokument | Ingen ny bindande lag eller omröstning | Utskottssteg och lagtext | Ingen ny notis |
+| Q | 12 nov 12:20 | Norges försvarsmakt, NORDEFCO-kalender, Reuters | JEF Northern Navies Framework signerat 11 nov; separat rapporterad nordisk avsikt | Avtalstext, implementering, juridisk status | Nytt belägg |
+| R | 12 nov 12:20 | Siemens FY2026-resultat, RWE/KKR-befintliga dokument | Preliminära Siemens-resultat och Smart Infrastructure-prognos | Orderkonvertering, capex, datacenterandel | Nytt bolagsbelägg |
+| S | 12 nov 12:20 | GTK/RAKKA, SGU, CRMA, Posiva/STUK | Ingen ny drift- eller tillståndsmilstolpe | STUK-inspektion, CRMA-rapportering | Fortsatt bevakning |
+
+**Källreservationer:** WSJ/Reuters-uppgiften om NVIDIA:s styrelse är medierapportering, inte styrelseprotokoll. IMO:s 134 incidenter omfattar Hormuz och Mellanöstern, inte enbart sundet. IRGC:s tvåtankersuppgift är inte oberoende bekräftad. UNIFIL:s humanitära siffror saknar konfessionell uppdelning. JEF-ramverket är undertecknat; ett gemensamt nordiskt försvarsavtal är endast rapporterad politisk avsikt. Siemens-resultaten är preliminära.
+
+**Arbetsflöde:** PR #47, #53 och #22 uppdaterade. Inga nya artikel-PR:ar skapade, inga merges, ingen LIVE-publicering.
