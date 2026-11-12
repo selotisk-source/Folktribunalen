@@ -381,3 +381,21 @@ Mary Peltolas kampanj begärde att Alaska skulle lämna ut en lista med namn och
 **Betydelse:** tvisten rör insyn i vilka röster som underkänts och på vilka grunder, samtidigt som den sista senatsplatsen ännu är osäker. Den ändrar inte i sig den preliminära nationella senatsfördelningen; Alaska ska fortsatt redovisas som oavgjord tills delstatens certifiering.
 
 **Öppna frågor:** fullständig ordertext, om kampanjen överklagar, om staten lämnar ut befintliga register i annat format efter certifiering och hur många röster som återstår att granska.
+
+## 13 November 2026 – NVIDIA transition, Singapore's statement and the briefing request
+
+The institutional record changed after the House committees' 5 November request:
+
+- **PRIMÄRKÄLLA:** NVIDIA's SEC Form 8-K filed 12 November says the board accepted Jensen Huang's resignation on 11 November, effective immediately. Colette Kress became interim CEO while retaining the CFO role; Harvey C. Jones became board chair. The filing does not state a reason.
+- **PRIMÄRKÄLLA:** The House Foreign Affairs, China Select and Intelligence committee chairs requested a joint closed-door briefing with Huang on 18 November, with a reply or alternative date requested by 11 November. No public response, alternative date, cancellation or replacement witness has been located. The letter is a request, not a subpoena or public hearing.
+- **PRIMÄRKÄLLA:** Singapore's Ministry of Home Affairs said on 12 November that Alice Huang was not investigated for espionage. Singapore's investigation concerns possible domestic false declarations in server purchases; it found insufficient evidence in February 2026 to establish that she committed the investigated offences, but issued a stern warning and barred her from re-entering after finding she knowingly gave inaccurate information about her role. The investigation into Megaspeed and six other individuals continues.
+- **PARTSUPPGIFT:** The House committees' 5 November press release called Alice Huang a publicly reported PRC intelligence asset. That characterization is a committee position based on public reporting, not a judicial finding and not the conclusion of Singapore's investigation.
+- **OBEROENDE BEKRÄFTELSE:** Reuters reports Speaker Mike Johnson saying Congress is developing consensus on tighter chip-export restrictions to China. This is political positioning, not enacted legislation or a published BIS rule.
+
+The requested 18 November briefing now has an open status question because the requested witness has left NVIDIA's executive and board roles. Do not state that the briefing is cancelled or that Huang is compelled to attend unless a new official notice or subpoena appears.
+
+**Primary sources:**  
+- SEC Form 8-K: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm  
+- Singapore MHA: https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/  
+- House committee request: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset  
+- Reuters: https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/
