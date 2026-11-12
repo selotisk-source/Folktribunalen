@@ -5,9 +5,9 @@
 ## Materiella deltan
 
 ### A – Palantir, offentlig makt och algoritmisk styrning
-- **PRIMÄRKÄLLA/upphandlingsdata:** Cambridgeshire Police and Crime Commissioner tilldelade Palantir Technologies UK ett femårigt Foundry-avtal om £10 093 202 den 9 oktober; award-notisen publicerades 6 november. Tillgänglig speglad upphandlingspost anger call-off från ramavtal. Den ursprungliga Contracts Finder-notisen, DPIA, databehandlingsbilagor, underleverantörer och exitvillkor återstår att hämta.
+- **PRIMÄRKÄLLA/upphandlingsdata:** Cambridgeshire Police and Crime Commissioner tilldelade Palantir Technologies UK ett femårigt Foundry-avtal om £10 093 202 den 9 oktober; award-notisen publicerades 6 november. Den officiella Contracts Finder-notisens URL har identifierats, men direkt hämtning gav HTTP 403 i kontrollmiljön. Tre upphandlingsspeglar återger samma notice-ID och samma Contracts Finder-källa; de är därför inte tre oberoende bekräftelser. Originalnotis, DPIA, databehandlingsbilagor, underleverantörer och exitvillkor återstår att hämta.
 - **PARTSUPPGIFT + OBEROENDE BEKRÄFTELSE:** Helsing lanserade Clarity den 11 november. Helsing beskriver plattformen som europeiskt utvecklad och kontrollerad; Reuters bekräftar lanseringen men anger att bolaget inte uppgett om kunder redan använder produkten eller när den tas i operativ drift. Ingen likvärdig operativ status med Palantir Maven ska påstås.
-- Källor: https://helsing.ai/newsroom/helsing-unveils-clarity-a-sovereign-software-platform-for-military-intelligence ; https://www.reuters.com/technology/helsing-enters-market-battlefield-software-built-combat-data-2026-11-11/ ; https://www.govmarket.uk/news/cambridgeshire-police-commissioner-awards-palantir-10-1m-data-platform-deal-74e372
+- Källor: https://helsing.ai/newsroom/helsing-unveils-clarity-a-sovereign-software-platform-for-military-intelligence ; https://www.reuters.com/technology/helsing-enters-market-battlefield-software-built-combat-data-2026-11-11/ ; https://www.govmarket.uk/news/cambridgeshire-police-commissioner-awards-palantir-10-1m-data-platform-deal-74e372 ; https://www.contractsfinder.service.gov.uk/Notice/d7a7acf6-a793-427d-a674-ee989e704974
 - **Nästa kontroll:** originalupphandling, DPIA, kontraktsbilagor, dataägande, modellrevision, användarstyrkor och exit-/raderingsklausuler.
 
 ### B – Europas AI-datacenter och digitala industri
