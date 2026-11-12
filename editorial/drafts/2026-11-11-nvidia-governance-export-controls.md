@@ -295,7 +295,9 @@ Singapore anger också att landet inte tillämpar andra staters ensidiga exportk
 
 **PARTSUPPGIFT – Megaspeed, 12 november 2026:** På sin officiella webbplats publicerade bolaget ett uttalande undertecknat av Tan Yong Pong, James, Chairman & CEO för Megaspeed International Pte. Ltd. Bolaget säger att det har samarbetat med inspektioner från U.S. Department of Commerce, Bureau of Industry and Security (BIS). Det uppger även att en ledande amerikansk advokatbyrå har anlitats för att leda en omfattande inventering av bolagets GPU:er och oberoende kontrollera dess exportkontrollrutiner.
 
-Uttalandet redovisar **inte** inventeringens resultat, antal eller identitet på GPU:er, slutanvändare, leveransdestinationer, omfattningen av BIS-inspektionerna eller någon myndighetsbedömning av efterlevnaden. Det är bolagets egen redogörelse för samarbete och en pågående kontroll – inte ett oberoende intyg om att exportkontrollreglerna har följts.
+Uttalandet redovisar **inte** inventeringens resultat, antal eller identitet på GPU:er, slutanvändare, leveransdestinationer, omfattningen av BIS-inspektionerna eller någon myndighetsbedömning av efterlevnaden.
+
+**Juridisk person – öppen registerfråga:** Webbplatsens sidfot identifierar operatören som **PT Megaspeed International Indonesia**, medan compliance-uttalandet är undertecknat av **Megaspeed International Pte. Ltd.** med Singapore som kontaktadress. De två namnen får inte behandlas som samma juridiska person utan Bolags-/ACRA-underlag. Nästa kontroll är respektive registreringsnummer (UEN/indonesiskt bolagsnummer), ägarrelation, domänägare och vilken enhet som innehar GPU:erna och exportlicenserna. Det är bolagets egen redogörelse för samarbete och en pågående kontroll – inte ett oberoende intyg om att exportkontrollreglerna har följts.
 
 **OBEROENDE BEKRÄFTELSE:** AP återger den 12 november att Megaspeed sagt att det samarbetar med amerikanska utredningar och anlitat en amerikansk advokatbyrå. AP:s rapportering ger stöd för att uttalandet offentliggjorts, men inte för att inventeringen är färdig eller att myndigheterna godkänt resultatet.
 
