@@ -282,3 +282,13 @@ Källor:
 - Stortinget, Dokument 8:9 S (2026–2027), förslag daterat 5 oktober 2026: https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-009s/
 - Stortinget, ärendesida: https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200427
 - Stortinget, aktiv höring: https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/horing/?h=10006024
+
+## Källuppdatering 12 november 2026 – Siemens AG:s preliminära Q4-resultat
+
+Siemens AG publicerade preliminära Q4- och helårssiffror den 12 november. Koncernens Q4-order steg 58 procent till rekordhöga 34,8 miljarder euro; intäkterna ökade 10 procent till 23,7 miljarder euro och book-to-bill var 1,47. [Officiellt pressmeddelande](https://press.siemens.com/global/en/pressrelease/earnings-release-and-financial-results-q4-fy-2026).
+
+Den officiella Q4-presentationen visar att Smart Infrastructure hade Q4-order på 8,7 miljarder euro (+39 procent), med stora kontraktsvinster från datacenterkunder. USA-order inom Smart Infrastructure ökade 70 procent och Europa exklusive Tyskland 24 procent. Siemens anger att datacenter nu är dess näst största vertikal, motsvarande 20 procent av vertikalernas intäktsexponering, och att datacenterorder växte tresiffrigt under FY2026. Smart Infrastructure hade en total orderstock på 25,1 miljarder euro; den siffran är **inte** en separat datacenterorderstock. [Officiell presentation, 12 november](https://assets.new.siemens.com/siemens/assets/api/uuid:9ae98ef3-c21e-4485-906c-6d4264960796/4-and-Full-Year-FY-2026-Presentation.pdf).
+
+**Källstatus:** PRIMÄRKÄLLA – Siemens pressmeddelande och presentation. Siemens anger att helårssiffrorna är preliminära. Detta är en leverantörssignal om beställningar och marknadsexponering, inte bevis på att motsvarande datacenter har byggts, fått nätanslutning eller tagits i drift. Det går inte att härleda norsk efterfrågan direkt ur Siemens globala orderdata.
+
+**Analytisk koppling:** Norge har enligt Statnett 800 MW datacenteranslutning, 4 200 MW reserverad kapacitet, 9 100 MW i kö och ytterligare 18 000 MW förfrågningar. Siemens-data visar att leverantörsledet redan ser stark efterfrågan; det löser inte nätkapacitetsfrågan och bör inte förväxlas med faktisk effektförbrukning.
