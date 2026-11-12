@@ -1062,3 +1062,6 @@ F-komplettering: Reuters 12 november beskriver leverantörskedjans exponering i 
 
 
 N-komplettering: 12 november 2026 – AG Kokotts yttrande i C-826/24 P (Google AdSense) stöder enligt Reuters kommissionens överklagande av tribunalens 2024-upphävande av böterna på €1,49 md. CJEU:s kalender bekräftar att yttrandet var schemalagt 12 nov; det är icke-bindande och fulltexten hade ännu inte lokaliserats i InfoCuria. Nästa kontroll: publicering av yttrandet och kommande slutlig dom.
+
+
+Q-komplettering: Reuters 12 november kl. 09:44 UTC preciserar att den rapporterade nordiska avsikten handlar om att minska juridiska och praktiska hinder för gränsöverskridande förflyttning av militär personal och materiel. Detta är ett mål för harmonisering, inte en undertecknad traktat. Knyt artikelspåret till militär mobilitet och nationell beslutanderätt.
