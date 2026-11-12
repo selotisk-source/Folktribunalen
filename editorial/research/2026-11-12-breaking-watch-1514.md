@@ -138,13 +138,13 @@ Källor:
 
 **PRIMÄRKÄLLA:** Peter Thiel och Sam Wolfe publicerade *The Pope and the Antichrist* i First Things den 15 juli 2026. Texten är Thiels och Wolfes egen politisk-teologiska tolkning, inte kyrklig lära.
 
-**OBEROENDE RAPPORTERING OM PRIMÄRMATERIAL:** Politico rapporterade 8 oktober om inspelningar från Thiels slutna Nashville-föreläsningar den 28 september och 5 oktober. Fullständiga öppna ljudfiler har inte lokaliserats i denna kontroll. Fortune återgav samma Politico-material och är därför inte en oberoende verifiering av inspelningarna.
+**OBEROENDE RAPPORTERING OM PRIMÄRMATERIAL:** Politico rapporterade 8 oktober (arkiverad kopia) om inspelningar från Thiels slutna Nashville-föreläsningar den 28 september och 5 oktober. Fullständiga öppna ljudfiler har inte lokaliserats i denna kontroll. Fortune återgav samma Politico-material och är därför inte en oberoende verifiering av inspelningarna.
 
 First Things novemberbrev innehåller namngiven teologisk kritik av Thiel/Wolfes läsning av Benedictus XVI, Hans Küng och Weltethos. Artikeln måste skilja mellan Thiels privata tolkning, Politicos återgivning och bredare kristen tradition.
 
 Källor:
 - https://firstthings.com/the-pope-and-the-antichrist/
-- https://www.politico.com/news/2026/10/08/peter-thiel-antichrist-lectures-obama-pope-leo-00612345
+- https://archive.ph/8oXvJ
 - https://firstthings.com/letters-november-2026/
 
 ## K – Cladonia/Storsjö
