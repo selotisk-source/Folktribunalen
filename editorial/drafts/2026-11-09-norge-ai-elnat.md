@@ -292,3 +292,25 @@ Den officiella Q4-presentationen visar att Smart Infrastructure hade Q4-order p�
 **Källstatus:** PRIMÄRKÄLLA – Siemens pressmeddelande och presentation. Siemens anger att helårssiffrorna är preliminära. Detta är en leverantörssignal om beställningar och marknadsexponering, inte bevis på att motsvarande datacenter har byggts, fått nätanslutning eller tagits i drift. Det går inte att härleda norsk efterfrågan direkt ur Siemens globala orderdata.
 
 **Analytisk koppling:** Norge har enligt Statnett 800 MW datacenteranslutning, 4 200 MW reserverad kapacitet, 9 100 MW i kö och ytterligare 18 000 MW förfrågningar. Siemens-data visar att leverantörsledet redan ser stark efterfrågan; det löser inte nätkapacitetsfrågan och bör inte förväxlas med faktisk effektförbrukning.
+
+
+
+## Fördjupad leverantörs- och leveranskontroll 12 november 2026
+
+Siemens AG:s preliminära Q4-resultat innehåller nu en mer specifik datapunkt än den globala orderökningen: under analytikersamtalet uppgav CFO Veronika Bienert att datacenterverksamhetens FY2026-intäkter ökade med **över 60 %**, att datacenterorderstocken översteg **7 md euro**, att cirka **70 %** av denna orderstock väntas omvandlas till intäkter under FY2027 och resterande cirka **30 %** under FY2028. Enligt CFO:n kan datacenterintäkterna växa med mer än 40 % under FY2027 om leveransen följer plan. Detta är en ledningsuppgift i samtalstranskriptet; den separata officiella Q4-releasen är uttryckligen preliminär och redovisar koncernens totala orderstock, inte en separat datacenterstock.
+
+**PRIMÄRKÄLLA:** Siemens officiella preliminära Q4-release, 12 november: https://press.siemens.com/global/en/pressrelease/earnings-release-and-financial-results-q4-fy-2026. Den anger Q4-order på 34,77 md euro (+58 %), intäkter 23,68 md euro (+11 %) och industrivinst 3,89 md euro (+22 %); Siemens markerar alla siffror som preliminära.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 12 november, bekräftar rekordorder, datacenterorder som fördubblats under kvartalet och en datacenterorderstock över 7 md euro: https://www.reuters.com/business/siemens-posts-q4-profit-above-forecasts-raises-mid-term-guidance-2026-11-12/. CFO:ns 70/30-konvertering och 40-procentsutsikt återges i samtalstranskriptet: https://www.investing.com/news/transcripts/earnings-call-transcript-siemens-posts-record-orders-in-q4-2026-as-growth-quickens-93CH-5020775.
+
+**Viktig avgränsning:** Orderstock och orderintag är inte samma sak som färdigbyggd datacenterkapacitet, nätanslutning eller faktisk effektförbrukning. Siemens siffror är globala och kan inte användas som belägg för norsk efterfrågan i sig.
+
+### Jämförande leveransrisk – Nebius, inte ett norskt projekt
+
+Nebius Q3-rapportering den 12 november ger ett konkret exempel på glappet mellan kontrakterad kapacitet och driftsatt effekt. Bolaget flyttade återstående Microsoft-kapacitet i New Jersey till Q2 2027 efter att en tredjepartsplats började avveckla tillfällig elproduktion inför permanent kraft. Samtidigt anger Nebius mer än 4 GW kontrakterad effekt och ett mål om 5 GW vid utgången av 2026. De talen är kontrakterad effekt, inte ett mått på redan driftsatta megawatt. Bolaget pekar även ut Lappeenranta och en andra Mäntsälä-anläggning i Finland bland planerade egna sajter för 2027; det är bolagets tidsplan, inte ett myndighetsbeslut om färdig anslutning.
+
+**PRIMÄRKÄLLA:** Nebius Form 6-K och aktieägarbrev: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-2.htm.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 12 november: https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-strong-ai-demand-2026-11-12/.
+
+Denna jämförelse används endast för att visa att leveransförseningar kan uppstå mellan kontrakt, temporär el, permanent nätanslutning och intäktsstart. Den säger inget direkt om norska Statnett-köer eller enskilda norska projekt.
