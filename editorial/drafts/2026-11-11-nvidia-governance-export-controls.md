@@ -289,6 +289,8 @@ Källa:
 
 Singapore anger också att landet inte tillämpar andra staters ensidiga exportkontroller som sina egna. Samtidigt säger regeringen att bolag verksamma i Singapore förväntas beakta andra länders regler, inklusive exportkontroller, i internationell verksamhet och att Singapore agerar mot brott mot landets egna lagar, bedrägeri och ohederliga förfaranden.
 
+SPF:s svar nämner också att fyra personer och fyra bolag åtalats i Singapore mellan februari 2025 och juli 2026 för bedrägeri mot leverantörer av servrar. Uttalandet namnger inte dessa parter och kopplar dem inte till Megaspeed. De separata åtalen får därför inte tillskrivas Megaspeed utan ytterligare domstols- eller bolagsunderlag.
+
 **Redaktionell följd:** Påståendet att Singapore skulle ha utrett Alice Huang ska inte återges som ett faktum. Den officiella singaporianska ståndpunkten gäller uttryckligen vad Singapore Government och dess tjänstemän sagt och vilka undersökningar Singapore genomfört. Den besvarar inte frågan om amerikanska myndigheter har en separat underrättelsebedömning.
 
 ### Megaspeed säger att bolaget samarbetar med BIS
