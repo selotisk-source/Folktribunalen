@@ -1008,3 +1008,8 @@ Denna cykel har uppdaterat befintliga granskningsutkast:
 - PR #22 – Libanon/UNIFIL: G7:s säkerhetsarkitektur och EUSM Lebanon:s mandat/startvillkor.
 
 Alla tre PR är fortsatt DRAFT. Ingen merge och ingen LIVE-publicering har utförts. Övriga spår har kontrollerats mot föregående researchjournal; befintliga utkast har återanvänts där ingen ny substantiell utveckling tillkommit.
+
+
+### O – Hormuz: oktobertrafik återhämtas samtidigt som attackerna når topp
+
+Reuters 10–11 november rapporterar 31 lastade LNG-tankfartyg ut genom Hormuz i oktober (23 Qatar, 8 UAE), samtidigt som Washington Institute räknade 37 kommersiella fartyg träffade under månaden. IMO anger 130+ verifierade attacker och minst 25 döda, men dess pressida har ett uppenbart skrivfel i konfliktstartens årtal (“2016” i stället för 2026); detta redovisas uttryckligen i PR #53 och researchjournalen. Ökad trafik får inte likställas med normaliserad säkerhet. PR #53 uppdaterat; DRAFT.
