@@ -687,3 +687,24 @@ Två olika företeelser ska följas parallellt: NVIDIA:s direkta investeringar o
 ### Källförtydligande – CoreWeaves leasing och skuldflöden
 
 SEC Exhibit 99.1:s balansräkning visar dessutom **18,697 md USD i operationella leasingskulder** och **649 m USD i finansiella leasingskulder** vid 30 september 2026. Dessa ska redovisas separat från de cirka 46,873 md USD i recourse och non-recourse debt; de är inte inkluderade i den skuldsumman. Q3-kassaflödet visar **10,301 md USD i skuldemissionsintäkter** och **2,344 md USD i amorteringar/återbetalningar**. Total liabilities var 87,456 md USD. Detta förstärker behovet av att skilja bankskuld, leasingskulder, uppskjutna intäkter och övriga åtaganden i finansieringskartan.
+
+
+
+### Ägarrelation och capex-definition – korskontroll mot SEC
+
+**PRIMÄRKÄLLA – NVIDIA Schedule 13G/A, accepterad av SEC 26 januari 2026:** NVIDIA redovisade ett innehav om **47 213 353 aktier, motsvarande 11,5 procent av CoreWeaves Class A-aktier** per händelsedatum 23 januari 2026. Filingens certifiering anger att aktierna inte innehas i syfte att ändra eller påverka kontrollen över CoreWeave. Senare medieuppgifter om 12,8 procent har inte kunnat stämmas av mot denna SEC-uppgift; använd 11,5 procent som den senast direkt dokumenterade procentsatsen och ange datumet.
+
+**OBEROENDE RAPPORTERING:** Reuters rapporterade 26 januari att NVIDIA investerade cirka **2 md USD** i CoreWeave. Reuters återgav också CoreWeaves uppgift att kapitalet inte skulle användas för att köpa NVIDIA-processorer. Detta är en aktieinvestering i en stor kund/partner, inte i sig ett lån eller bevis på att GPU-köp finansierats cirkulärt. Den strukturella exponeringen är ändå tydlig: NVIDIA är leverantör och betydande aktieägare i en GPU-molnaktör vars intäkter och tillgångsbas är starkt beroende av NVIDIA-plattformen.
+
+**Capex – två mått som ännu inte är avstämda:** SEC Exhibit 99.1:s kassaflödesrapport visar **9,441 md USD i kontanta köp av materiella anläggningstillgångar** under Q3. På resultatkonferensen uppgav ledningen att “CapEx” uppgick till **14,5 md USD**. Skillnaden är cirka 5,1 md USD. Måtten ska inte slås ihop eller kallas motsägelsefulla innan fullständiga Q3 10-Q-noter och bolagets capex-definition har stämts av; skillnaden kan avse icke-kontanta/leasefinansierade eller periodiserade investeringar, men det är ännu inte fastställt.
+
+Balansräkningen visar samtidigt **56,778 md USD i materiella anläggningstillgångar**, **18,922 md USD i nyttjanderättstillgångar för operationella leasingavtal**, **18,697 md USD i operationella leasingskulder**, **649 m USD i finansiella leasingskulder**, samt cirka **10,002 md USD i uppskjutna intäkter** (kundförskott). Ledningen väntar därutöver cirka 9 md USD i ytterligare kundförskott och depositioner under de kommande tre månaderna. Den framtida siffran är en prognos, inte redan mottagna medel.
+
+**Öppen fråga om restvärde och ägande:** SEC-bilagan visar både materiella tillgångar och leasingrelaterade nyttjanderättstillgångar men specificerar inte i den korta resultatbilagan vilka enskilda GPU-/serverflottor som ägs, leasas eller finansieras genom OEM-arrangemang, eller vem som bär restvärdesrisken per kontrakt. Fullständig Q3 10-Q och leasing-/säkerhetsnoter krävs.
+
+Källor:
+- NVIDIA Schedule 13G/A, 26 januari 2026: https://www.sec.gov/Archives/edgar/data/1769628/000104581026000008/xslSCHEDULE_13G_X01/primary_doc.xml
+- SEC filing index: https://www.sec.gov/Archives/edgar/data/1769628/000104581026000008/0001045810-26-000008-index.htm
+- Reuters, 26 januari 2026: https://www.reuters.com/technology/nvidia-invests-2-billion-coreweave-expands-partnership-2026-01-26/
+- CoreWeave SEC Exhibit 99.1, 10 november 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm
+- CoreWeave Q3 earnings call transcript, capex definition: https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-q3-2026-earnings-031911891.html
