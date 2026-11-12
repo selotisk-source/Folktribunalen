@@ -1098,3 +1098,6 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 
 
 **B/R-komplettering 12 nov:** Siemens 11 nov produktlansering av rostfri direkt-till-chip-vätskekylventil för AI-datacenter (ingen offentlig ordervolym); Siemens 9 nov sexårigt Gridscale X-kontrakt med Kärnten Netz för digital tvilling, trängselprognoser och flexibilitetshantering (inget offentliggjort kontraktsvärde eller MW-resultat). Primära bolagsuppgifter, ingen oberoende driftsbekräftelse.
+
+
+**N-komplettering:** CJEU-förhandlingar 12 nov i C-744/25 P (Meta) och C-745/25 P (TikTok) om rättslig grund för AMAR-metoden vid beräkning av DSA-tillsynsavgifter. Kalendern är primärkälla; inget avgörande identifierat.
