@@ -1163,3 +1163,21 @@ Den befintliga ordningen ligger fast: **Hormuz → Gripen över Polen → USA:s 
 Render-tjänsterna är driftsatta, men CMS-databasen kunde inte nås: Postgres-anslutningen avvisades eftersom IP-allowlisten är tom. Direkt öppning av de publika webbadresserna gav internt fel i kontrollmiljön. Ingen CMS-post eller publiceringsstatus har ändrats eller påståtts.
 
 Kanonisk journal: editorial/research/2026-11-12-breaking-watch-2008.md. Täckningsmatris: editorial/research/2026-11-06-breaking-watch-coverage-matrix.md.
+
+
+## Senaste cykel – 12 november 2026 kl. 21:19
+
+Forskningsloggen för denna cykel finns i [2026-11-12-breaking-watch-2119.md](editorial/research/2026-11-12-breaking-watch-2119.md).
+
+**Nya eller nybekräftade spår:**
+- **A:** NHS England-listan med 137 trusts rapporteras nedtagen efter FOI-kontroll av 29 trusts. OSR:s primärredogörelse från 22 juli skiljer mellan användningsräkning och före/efter-mått och slår fast att kausal effekt inte kan utläsas ur jämförelserna.
+- **B:** Norge–Storbritannien undertecknade en Letter of Intent om AI-samarbete den 12 november; Norge arbetar samtidigt med en koncessionsordning för datacenter.
+- **F:** NVIDIA:s Form 8-K, accession 0001045810-26-000082, bekräftar Jensen Huangs avgång, Colette Kress som interim-CEO och Harvey C. Jones som styrelseordförande. Ingen orsak anges i 8-K eller bolagsmeddelandet.
+- **K:** Bergs kommun träffade Cladonia den 10 november; SR rapporterade mötet 11–12 november. Inget nytt bindande avtal eller lagfartsunderlag identifierat.
+- **N:** HMICFRS offentliggjorde 16 rekommendationer om retrospektiv ansiktsigenkänning; full rapportlänk behöver hämtas och kontrolleras.
+- **O:** UKMTO 203-26 och 204-26 listar två separata tankerattacker den 10 respektive 11 november. Fartygsidentiteterna är inte fastställda i den öppna sammanfattningen.
+- **Q:** nytt JEF Northern Navies Framework, brittisk anskaffning av tre minröjningsmoderfartyg samt nordiskt arbete med en ny NORDEFCO-försvarsavtalsram.
+
+**Övriga spår C–E, G–J, L–M, P, R–S:** screenade; ingen ny händelse med tillräckligt primärunderlag passerade publiceringströskeln i denna cykel. Samtliga fortsätter i bevakningen.
+
+**Arbetsflöde:** PR #16, #55, #47, #57, #58, #53 och #4 är fortsatt OPEN/DRAFT. Inget godkännande, merge eller LIVE-publicering har skett i denna cykel.
