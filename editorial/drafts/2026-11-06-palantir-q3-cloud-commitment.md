@@ -1,470 +1,196 @@
-# Palantir passerar en gräns – kommersiella USA-intäkter går om staten, men molnberoendet löper till 2036
+# Palantir i offentligheten – vem kontrollerar data, arbetsflöden och beslutsmakt?
 
-**Artikeltyp:** Granskning · offentlig makt · AI-infrastruktur · bolagsfinansiering  
-**Faktaläge:** 6 november 2026  
-**Berörda spår:** Palantir och offentlig makt · NVIDIA och AI-finansiering · Europas AI-datacenter · från skrift till Storebror
+**Artikeltyp:** Granskning · offentlig makt · hälsodata · polis · försvar · bolagsstyrning  
+**Faktaläge:** 12 november 2026  
+**Huvudspår:** Palantir och den offentliga makten  
+**Korsreferenser:** Europas AI-infrastruktur · NVIDIA och AI-finansiering · Från skrift till storebror
 
-*Palantirs amerikanska kommersiella intäkter översteg för första gången de amerikanska myndighetsintäkterna under tredje kvartalet 2026. Samtidigt visar bolagets SEC-rapport ett åtagande på minst 5,6 miljarder dollar till en extern molnleverantör över tio avtalsår. Det är två sidor av samma förändring: Palantir växer snabbt på företagsmarknaden, men dess mjukvara och leveransförmåga är knuten till en lång och ännu anonymiserad molnleverantörsrelation.*
+*Palantir växer snabbt och har blivit leverantör till flera av de institutioner som samlar in, analyserar och använder offentlig information. I Storbritannien står regeringen inför ett beslut om NHS:s dataplattform, samtidigt som dokumenterade meddelanden visar att bolaget ville diskutera en utvidgning till GP-journaler. Ett nytt polisavtal, en tidigare polischef som betald rådgivare och nomineringen av Palantirs säkerhetschef till chef för USA:s cybersäkerhetsmyndighet visar hur långt bolagets relationer till staten sträcker sig. Men den centrala frågan är inte om Palantir äger alla data eller fattar alla beslut. Den är vem som bestämmer ändamål, åtkomst, kontroll, granskning och möjligheten att lämna plattformen.*
 
-## Den kommersiella sidan går om – men staten växer fortfarande
+## Ett växande bolag – med staten kvar som kärnkund
 
-Palantir redovisade den 2 november 2026 intäkter på cirka **2,31 miljarder dollar** för tredje kvartalet, en ökning med 96 procent jämfört med samma kvartal föregående år.
+Palantir Technologies redovisade 2,313 miljarder dollar i omsättning under tredje kvartalet 2026, en ökning med 96 procent jämfört med samma kvartal 2025. Bolagets SEC-rapport visar att den globala kommersiella verksamheten under kvartalet stod för 1,168 miljarder dollar och myndighetsverksamheten för 1,146 miljarder. Kommersiella intäkter var därmed något större under just detta kvartal.
 
-I USA uppgick de kommersiella intäkterna till **984 miljoner dollar**, en ökning med 148 procent. De amerikanska myndighetsintäkterna var **953 miljoner dollar**, upp 96 procent. Enligt bolagets egen Q3-presentation var detta första gången de amerikanska kommersiella intäkterna översteg de amerikanska myndighetsintäkterna.
+Den bilden får inte förväxlas med att Palantir har blivit oberoende av offentliga kunder. För årets första nio månader redovisade bolaget 2,994 miljarder dollar i myndighetsintäkter mot 2,887 miljarder i kommersiella intäkter. Den offentliga sektorn stod alltså fortfarande för en knapp majoritet av intäkterna under perioden. Båda segmenten växte kraftigt.
 
-Skillnaden är liten i absoluta tal – 31 miljoner dollar – men den är strategiskt betydelsefull. Palantir har länge förknippats med försvar, underrättelse och offentlig förvaltning. Nu visar bolagets rapportering att den amerikanska kommersiella marknaden har blivit minst lika stor.
+SEC-rapporten redovisar dessutom 4,9 miljarder dollar i återstående prestationsåtaganden, RPO. Palantir väntar sig att redovisa omkring 44 procent under de följande tolv månaderna och ytterligare 37 procent under månaderna 13–36. RPO är inte kontanter och inte en ovillkorlig garanti för framtida intäkter. Bolaget anger att många kundavtal kan sägas upp med mindre än tolv månaders varsel; den uppsägningsbara delen ingår inte i RPO.
 
-Det betyder inte att den offentliga sektorn blivit oviktig. Myndighetsintäkterna ökade fortfarande med 96 procent på årsbasis. Det är därför missvisande att beskriva utvecklingen som att Palantir lämnar staten bakom sig. Snarare växer två marknader parallellt.
+En annan siffra säger något om leverantörskedjan. I mars 2026 ändrade Palantir ett avtal om tredjepartsbaserade molntjänster. Enligt not 7 i Form 10-Q har bolaget därmed åtagit sig att köpa molntjänster för minst 5,6 miljarder dollar över tio avtalsår till och med den 29 februari 2036. De årliga minimiåtagandena varierar mellan 268 och 979 miljoner dollar. SEC-noten namnger inte leverantören.
 
-## 5,6 miljarder dollar till en anonymiserad molnleverantör
+Detta är ett långsiktigt inköpsåtagande, inte en omedelbart förfallen skuld och inte belägg för att leverantören är AWS, Google eller Microsoft. Men det gör den externa infrastrukturen till en strategisk del av Palantirs leveransförmåga. En offentlig kund som köper en plattform köper därför inte bara programvara; den blir också beroende av en kedja av molnkapacitet, underleverantörer, säkerhetsvillkor och exitmöjligheter.
 
-Palantirs Form 10-Q till SEC innehåller en betydligt mer långsiktig uppgift. I mars 2026 ändrade bolaget ett av sina avtal med en extern molntjänstleverantör. Enligt not 7 har Palantir därmed åtagit sig att spendera minst **5,6 miljarder dollar** över tio avtalsår, fram till den 29 februari 2036.
+Palantir redovisade samtidigt att en anonymiserad kund, Customer I, stod för 27 procent av kundfordringarna den 30 september. Det är en koncentration av utestående fordringar – inte 27 procent av intäkterna. Ingen enskild kund stod för mer än tio procent av periodens intäkter. Kundens identitet och fordringarnas åldersfördelning framgår inte av rapporten.
 
-Avtalet innehåller årliga minimiåtaganden på mellan **268 miljoner och 979 miljoner dollar**. SEC-handlingen identifierar inte leverantören i den aktuella noten.
+## Vem kontrollerar själva bolaget?
 
-Detta är en **PRIMÄRKÄLLA**: uppgiften kommer från Palantirs egen kvartalsrapport. Men den är inte en redovisad skuld på 5,6 miljarder dollar som förfaller i dag. Den är ett långsiktigt inköpsåtagande för molntjänster. Det är viktigt att hålla isär framtida minimiutgifter, redovisad skuld och faktiskt utnyttjad kredit.
+Palantirs Form 10-Q beskriver också en bolagsstyrningsstruktur som koncentrerar röstmakt till grundarna och deras närstående. Bolaget pekar särskilt ut Stephen Cohen, Alexander Karp och Peter Thiel samt deras närstående genom en flerklassig aktiestruktur, ett Founder Voting Trust Agreement och ett Founder Voting Agreement.
 
-Palantir redovisade per den 30 september 2026 inga utestående lånesaldon under sin revolverande kreditfacilitet på 500 miljoner dollar. Den tillgängliga faciliteten var outnyttjad. Bolaget redovisade samtidigt återstående prestationsåtaganden på 4,9 miljarder dollar, varav cirka 44 procent väntades redovisas som intäkt under de följande tolv månaderna.
+Bolaget skriver att grundarna genom dessa arrangemang kan utöva effektiv kontroll över frågor som läggs fram för aktieägarna, bland annat styrelseval och större bolagstransaktioner. Avtalet innebär att aktierna i Class F och vissa aktier som omfattas av röstningsavtalet röstas enligt instruktion från en majoritet av de grundare som omfattas av avtalet.
 
-## Leverantörsberoendet blir en styrningsfråga
+Detta ska beskrivas korrekt: SEC-handlingen visar koncentrerad grundarkontroll, men den visar inte att en enskild grundare ensam bestämmer varje bolagsbeslut. Det är en fråga om bolagsstyrning och investerarmakt. Den blir relevant för offentlig sektor eftersom myndigheter som köper in kritisk infrastruktur måste förstå vem som ytterst kan påverka leverantörens långsiktiga strategi och styrning.
 
-När en mjukvaruleverantör bygger sin produkt på extern molninfrastruktur uppstår flera frågor som inte besvaras av intäktstillväxten:
+## NHS: en plattform, flera datakontroller och ett beslut före mars 2027
 
-- Vem är molnleverantören och vilka underleverantörer ingår i kedjan?
-- Vilka regioner och datacenter används för myndighetskunder respektive kommersiella kunder?
-- Vilka avtalsvillkor gäller vid driftstörning, säkerhetsincident eller leverantörsbyte?
-- Hur kan en offentlig kund flytta sina data och arbetsflöden om avtalet med Palantir upphör?
-- Vilka delar av systemet kan granskas av kunden, en tillsynsmyndighet eller en oberoende revisor?
-- Hur fördelas ansvar för modellfel, felaktig datakoppling och beslut som fattas med stöd av analysresultat?
+NHS England tilldelade i november 2023 ett konsortium lett av Palantir Technologies UK kontraktet för Federated Data Platform, FDP. Konsortiet omfattar även Accenture, PwC, NECS och Carnall Farrar. Det sammanlagda kontraktsvärdet kan uppgå till 330 miljoner pund över högst sju år.
 
-Palantirs egna produkter – Foundry, Gotham och AIP – marknadsförs som plattformar för att sammanföra data, modeller och operativa arbetsflöden. Men bolagets kvartalsrapport visar inte i sig hur varje myndighet använder systemen eller hur många beslut som faktiskt fattas automatiskt.
+FDP är inte beskrivet som en enda central databas som samlar alla patientjournaler på ett ställe. House of Commons Library beskriver plattformen som ett lager ovanpå befintliga system. Varje deltagande NHS-trust och Integrated Care Board har en egen instans och är datakontrollant för sin instans; NHS England driver en nationell instans. När lokala organisationer delar uppgifter med den nationella instansen ska direkt identifierande information, exempelvis namn och NHS-nummer, tas bort.
 
-Den frågan måste undersökas i separata kontrakt, konsekvensbedömningar, upphandlingsdokument, revisioner och tillsynsbeslut. Intäktsdata kan visa hur snabbt verksamheten växer, men inte vem som har sista ordet i ett myndighetsbeslut.
+Det är en viktig skillnad mellan att leverantören tillhandahåller programvaran och att leverantören äger eller själv bestämmer över patientuppgifterna. I ett skriftligt parlamentsbesked den 25 juni 2026 uppgav regeringen att Palantir Technologies UK Ltd är personuppgiftsbiträde för NHS England, som är personuppgiftsansvarig för den nationella avtalsrelationen. Svaret säger också att olika Foundry-tenants är separata miljöer, att interoperabilitet mellan olika tenants är avstängd som standard och att ingen NHS FDP-produkt använder Gotham.
 
-## Vad siffrorna säger – och vad de inte säger
+Detta är regeringens redovisning av avtals- och systemskydden – inte en oberoende teknisk revision av varje instans. Samma svar säger att data bara får behandlas för avtalade hälso- och vårdändamål, att överföring till andra system kräver uttryckligt godkännande från NHS England och att en framtida begäran om att lägga till en ny datakategori måste genomgå informationsstyrning och en laglighetsbedömning.
 
-Palantir redovisade 1 090 kunder per den 30 september 2026, jämfört med 911 ett år tidigare. De 20 största kunderna stod i genomsnitt för 146 miljoner dollar i intäkter under den senaste tolvmånadersperioden, en ökning med 76 procent från föregående år.
+Den ursprungliga skriftliga ministerförklaringen från 21 november 2023 slog fast att ingen ny data skulle samlas in och att GP-data inte skulle ingå i den nationella plattformen. Den sade också att leverantören inte skulle kontrollera NHS-data eller använda dem för egna ändamål. Dessa löften utgör en viktig del av den offentliga kontraktsramen.
 
-Det visar en växande kundbas och större affärer med de största kunderna. Men det visar inte hur intäkterna fördelas mellan enskilda myndigheter, försvarsgrenar, polisorganisationer, sjukvårdssystem eller privata företag.
+Avtalet började löpa i mars 2024. Den första avtalsperioden är tre år och löper till mars 2027. Därefter finns förlängningsoptioner som kan föra den sammanlagda löptiden upp till sju år. House of Commons Library skrev den 29 oktober 2026 att regeringen måste ta ställning före december om den ska förlänga avtalet efter den första perioden.
 
-Bolaget uppger också att många kundavtal normalt löper mellan ett och fem år och att flera innehåller möjligheter för kunden att säga upp avtalet i förtid med mindre än tolv månaders varsel. Därför ska återstående prestationsåtaganden inte förväxlas med garanterad intäkt utan risk.
+I förhöret med Health and Social Care Committee den 4 november sade hälsominister Yvette Cooper att kontraktsöversynen fortfarande pågick och att hon inte ville föregripa processen. Hon sade att regeringen hade detaljerade planer för olika utfall, inklusive exit. När ledamoten Ben Coleman frågade om avtalet hade en break clause korrigerade han själv terminologin: den första perioden löper ut i mars och frågan är om regeringen ska förlänga; det är inte en vanlig förtida uppsägningsklausul.
 
-## Den offentliga makten måste granskas i varje kontrakt
+The Times rapporterade den 6 november att ministrar hade beslutat att behålla avtalet genom en tvåårig förlängning och därefter förbereda en ny upphandling. Vid faktakontrollen den 12 november hade ingen formell offentlig avtalsändring eller regeringsbekräftelse av förlängningen identifierats. Den uppgiften ska därför fortsatt beskrivas som medierapportering. Parlamentets offentliga underlag den 4 november beskrev fortfarande översynen som pågående.
 
-Den centrala redaktionella frågan är inte om Palantir växer snabbt. Det gör bolaget enligt sin egen rapportering. Frågan är hur den kommersiella och offentliga tillväxten omsätts i faktisk makt över data och arbetsflöden.
+## Nyttan: anslutning är inte samma sak som användning eller bevisad effekt
 
-För varje nytt myndighetskontrakt behöver redaktionen följa:
+NHS England redovisar att 142 av 202 relevanta NHS-truster var i live operational use på FDP i augusti 2026, och att 170 hade undertecknat ett samförståndsavtal om att ansluta sig. House of Commons Library anger samtidigt att 35 av 36 Integrated Care Boards hade skrivit under ett sådant avtal och var i live operational use.
 
-1. **Beslutsrätt:** Vem fattar det slutliga beslutet – myndighetens tjänsteman eller ett automatiserat arbetsflöde?
-2. **Datakontroll:** Vem äger data, vem får återanvända dem och vilka underleverantörer får åtkomst?
-3. **Granskning:** Kan myndigheten granska modeller, datakällor, loggar och ändringar i systemet?
-4. **Överklagande:** Hur kan en enskild person få ett beslut prövat om analysen har påverkat myndighetens handläggning?
-5. **Inlåsning:** Hur lång tid och vilka kostnader krävs för att byta leverantör när data, processer och personalrutiner byggts in i plattformen?
+En annan mätning har blivit omstridd. The Guardian rapporterade den 2 november, efter mer än hundra informationsförfrågningar, att 29 av de 137 truster som NHS England listat som att de “realising benefits” uppgav att plattformen inte var live eller att de inte använde dess appar. Flera truster beskrev att de ännu inte hade gått live eller saknade en tidsplan för införande.
 
-Q3-rapporten ger en ny ekonomisk bild av bolaget. Den ersätter inte den kontraktsvisa granskningen av hur offentlig makt faktiskt utövas.
+NHS England invände att dess redovisning av nytta kan omfatta mer än klinisk användning. En trust kan exempelvis ha infrastruktur på plats för dataöverföring eller använda en begränsad administrativ funktion utan att personalen använder de kliniska applikationerna i det dagliga arbetet. Guardian beskrev också Torbay and South Devon som ett exempel där NHS England räknade en organisation som live för dataöverföring trots att den inte använde FDP operativt.
 
+Därför måste fyra olika nivåer hållas isär: att en organisation har tecknat ett anslutningsavtal, att en teknisk instans är live, att personal faktiskt använder en applikation i arbetet och att användningen har orsakat en mätbar förbättring för patienter. De är inte utbytbara mått.
 
+NHS England har hänvisat till 117 539 fler operationer vid truster som använder FDP. Office for Statistics Regulation, OSR, konstaterade den 22 juli att flera av de redovisade nyttomåtten bygger på före- och efterjämförelser. Eftersom andra variabler inte har kontrollerats kan sådana jämförelser inte visa orsak och verkan. OSR välkomnade att NHS lade till denna reservation och krävde tydligare märkning av sådana mått i offentlig kommunikation.
 
-## TITAN: en konkret produktionsorder till armén
+OSR noterade även att de publicerade fallstudierna är skrivna av organisationer som använder FDP och inte är författade eller verifierade av NHS England. En separat analys från Health Foundation av applikationen OPTICA fann inga mätbara förbättringar i utskrivningsutfall bland de truster som analyserades; OSR återgav detta resultat i sin korrespondens i augusti. Underlaget är inte en fullständig offentlig effektutvärdering, och det ska inte framställas som ett slutgiltigt bevis för att FDP saknar nytta.
 
-Palantirs Q3-presentation beskriver TITAN som på väg från prototyp till produktion. Den amerikanska arméns programkontor publicerade redan den 1 september 2026 ett primärmeddelande om övergången. Per den 31 augusti hade armén lagt två leveransorder med ett sammanlagt värde på **192 miljoner dollar**: **127 miljoner dollar till Palantir** och **65 miljoner dollar till Anduril**. Beställningarna avser åtta första produktionssystem, fyra TITAN Advanced och fyra TITAN Basic, med leverans över de följande 18 månaderna.
+Den oberoende nationella utvärdering som NHS England beställt från Imperial College Projects väntas enligt House of Commons Library publiceras efter beslutet om avtalsförlängning. Det skapar en tydlig ordningsfråga: regeringen ska fatta ett viktigt avtalsbeslut innan den fullständiga oberoende utvärderingen har publicerats.
 
-Detta är ett konkret produktionsbeslut och ska skiljas från den bredare Army Enterprise Service Agreement som kan ge armén möjlighet att köpa upp till 10 miljarder dollar i programvara och tjänster över tio år. Det senare är ett avtalsmaximum och innebär inte att hela beloppet måste spenderas.
+## GP-journalerna: dokumenterad lobbying, inte dokumenterad överföring
 
-TITAN knyter ihop sensordata från rymd-, luft- och markbaserade system för att skapa underrättelse- och målinformation. Det gör mänsklig beslutsrätt, spårbarhet, felhantering och möjligheten att granska systemets rekommendationer till centrala frågor. Arméns produktionsbeslut visar att programmet går vidare; det bevisar inte i sig hur varje operativ användare kommer att använda systemets rekommendationer eller hur stor effekt det får i fält.
+The Guardian publicerade den 9 november en granskning baserad på WhatsApp-meddelanden som Foxglove fått ut genom en begäran enligt Freedom of Information Act och delat med tidningen. Meddelandena sträcker sig från juli 2025 till mars 2026 och tycks visa kontakt mellan Palantirs brittiske chef Louis Mosley och den dåvarande hälsoministern Zubir Ahmed.
 
-## Två nya infrastrukturpartnerskap – men inte nya myndighetskontrakt
+I februari 2026 argumenterade Palantirs brittiska ledning för att primärvårdsdata och sjukhusdata borde kopplas samman och beskrev Foundry som lämplig för uppgiften. Det är en dokumenterad lobby- och policykontakt. Den är särskilt relevant eftersom regeringen 2023 uttryckligen hade sagt att GP-data inte skulle ingå i den nationella FDP-plattformen.
 
-Palantir har under hösten också presenterat två partnerskap som påverkar hur bolagets plattform kan nå offentliga och reglerade kunder.
+Palantir svarade till Guardian att datadelning kan förbättra NHS, att vårdorganisationerna behåller lokal kontroll över sina data och att det är regeringen som beslutar hur programvaran ska rullas ut. Department of Health and Social Care avböjde att kommentera.
 
-Den 8 september 2026 utsåg Palantir nederländska Nebius till sin föredragna partner för så kallad sovereign AI-infrastruktur för kommersiella kunder. Palantir uppger att Nebius beräkningskapacitet och inferensgränssnitt efter en integrationsperiod ska kunna nås innanför Palantirs företagsperimeter. Det är ett strategiskt partnerskap och en leveransmodell – inte ett offentliggjort kontrakt med en namngiven myndighet. Begreppet ”suverän” är bolagens egen beskrivning och måste prövas mot faktisk jurisdiktion, datalokalitet, underleverantörer och åtkomstvillkor.
+Den parlamentariska skriftliga frågan den 25 juni 2026 ger en viktig juridisk avgränsning: om en framtida produkt skulle begära att inkludera denna datatyp måste NHS Englands informationsstyrningsprocess genomföras, inklusive en grundlig bedömning av om behandlingen är laglig. Den ger inte stöd för att GP-journaler redan har lagts till i FDP.
 
-Den 19 oktober 2026 meddelade Palantir och Knox Systems ett partnerskap för att påskynda leverans av programvara till kunder i federala molnmiljöer med FedRAMP- och IL5-krav. Knox uppgav att bolaget redan betjänar över 100 AI- och företagsapplikationer i federala miljöer. Även detta är ett distributions- och infrastrukturpartnerskap, inte ett nytt myndighetsbeslut eller ett bevis på att en viss myndighet har köpt Palantirs system genom Knox.
+Det finns alltså belägg för att bolaget ville diskutera en utvidgning. Det finns inte i det granskade materialet belägg för att GP-journaler faktiskt har förts in i den nationella plattformen, att ett sådant beslut har fattats eller att NHS England har godkänt en sådan överföring.
 
-Dessa partnerskap är relevanta för leverantörskedjan, men de identifierar inte automatiskt den externa molnleverantör som nämns i SEC-rapportens åtagande på 5,6 miljarder dollar. Någon sådan koppling har inte belagts.
+## Polisen: ett nytt avtal i östra England och en omprövning i London
+
+Den 6 november publicerades en upphandlingsnotis för **BCH Palantir Foundry Platform**. Den anger ett avtalsvärde på 10 093 202 pund exklusive moms, ett tilldelningsdatum den 8 oktober 2026 och en femårig period till oktober 2031. Det är ett avrop från ett ramavtal, inte en ny öppen upphandling. Den angivna köparen är Police and Crime Commissioner for Cambridgeshire.
+
+The Bureau of Investigative Journalism rapporterade den 10 november att avtalet är avsett för polisstyrkorna i Bedfordshire, Cambridgeshire och Hertfordshire och följer på ett tidigare pilotprojekt kallat Project Nectar. Den offentliga upphandlingssammanfattningen beskriver en plattform för att integrera, länka och analysera data från flera polisiära system. Den visar inte i sig att systemet fattar automatiserade beslut eller att alla sju polisstyrkor som den gemensamma upphandlingsfunktionen arbetar för omfattas av avtalet.
+
+Det fullständiga avropsavtalet, dess dataskyddskonsekvensbedömning, datakategorier, åtkomstroller, lagringstider, underleverantörer och exitvillkor har inte kunnat granskas i det material som finns tillgängligt för denna artikel. Det är avgörande dokument för att bedöma vad den nya plattformen faktiskt får göra.
+
+I London har en annan upphandling fått ett annat förlopp. Mayor’s Office for Policing and Crime, MOPAC, och Palantir nådde i oktober en förlikning efter en rättslig tvist om den planerade Unified Operational Analytics-upphandlingen för Metropolitan Police. I sitt offentliga uttalande den 14 oktober sade MOPAC att båda parter drog tillbaka sina anklagelser i processen.
+
+MOPAC klargjorde samtidigt att beslutet i maj 2026 att inte gå vidare med den ursprungliga tilldelningen inte grundades på Palantirs värderingar eller etik, utan på den lagstadgade prövningen av upphandling, styrning, överkomlighet och value for money. En ny upphandling pågår och Palantir är välkommet att delta på samma villkor som andra leverantörer. Det vore därför fel att beskriva Londonbeslutet som ett formellt förbud mot Palantir.
+
+## Den offentliga sektorns rekryteringsvägar
+
+The Bureau of Investigative Journalism rapporterade den 10 november att tidigare Metropolitan Police Commissioner Dame Cressida Dick har varit betald rådgivare åt Palantir sedan september 2025. Palantir bekräftade för tidningen rådgivarrollen och sade att hon ger råd om hur bolagets produkter kan förbättra offentlig service. Dick sade att hennes uppdrag är begränsat till sådana råd och förnekade att hon har lobbat för Palantir eller introducerat bolaget till sina kontakter.
+
+Detta är relevant för granskningen av relationer mellan offentlig sektor och leverantörer, men det är inte i sig bevis för otillbörlig påverkan. Det offentligt tillgängliga materialet i denna kontroll fastställer inte ersättningens storlek, rådgivaravtalets fullständiga villkor eller om några särskilda jävs- eller karensregler aktualiserats.
+
+En parallell fråga har uppstått i USA. Vita huset nominerade den 9 november Palantirs Chief Information Security Officer Michael LoSapio till chef för Cybersecurity and Infrastructure Security Agency, CISA, inom Department of Homeland Security. Senatens Committee on Homeland Security and Governmental Affairs registrerade den 9 november att nomineringen mottagits och hänvisats till utskottet. Han är nominerad, inte bekräftad eller installerad som direktör.
+
+CISA ansvarar för skyddet av civila nätverk och kritisk infrastruktur mot cyberhot. En kandidat som kommer direkt från en stor teknikleverantör väcker legitima frågor om ekonomiska intressen, jävsregler, recusal, tidigare kundrelationer och myndighetens oberoende. Nomineringen bevisar inte att en intressekonflikt föreligger, och den innebär inte att CISA har tilldelat Palantir ett nytt kontrakt. Den gör däremot offentlig redovisning av etik- och jävsarrangemang särskilt viktig inför senatens prövning.
+
+## Militär användning: TITAN går till produktion
+
+Den amerikanska armén meddelade den 1 september 2026 att programmet Tactical Intelligence Targeting Access Node, TITAN, går från prototypfas till produktion. Två leveransorder uppgick tillsammans till 192 miljoner dollar: 127 miljoner till Palantir och 65 miljoner till Anduril. De omfattar åtta första produktionssystem, fyra TITAN Advanced och fyra TITAN Basic, med planerad leverans över 18 månader.
+
+Armén beskriver TITAN som en AI-aktiverad mobil underrättelseplattform som samlar in och analyserar information från flera sensorer och kan skapa automatiserade målnomineringar. DefenseScoop rapporterade att arméns företrädare beskrev analytikern som den som kan godkänna eller avvisa mål som systemet rekommenderar innan de skickas vidare till förband som kan bekämpa dem.
+
+Detta är en konkret militär användning av Palantirs mjukvara i en sensor-till-besluts- och målnomineringskedja. Det är däremot inte belägg för att TITAN självständigt väljer och avfyrar vapen. Någon offentlig oberoende testmatris med felutfall, operativ tillförlitlighet och detaljerad användningsstatistik har inte identifierats i denna kontroll.
+
+## Var ligger den offentliga makten?
+
+Palantirs växande roll bör inte reduceras till en fråga om ett amerikanskt bolag som “äger” offentliga data. Den dokumenterade avtalsmodellen för NHS säger att NHS är personuppgiftsansvarigt och Palantir personuppgiftsbiträde. Lokala NHS-organisationer har egna instanser och egna kontrollansvar. Myndigheterna bestämmer ändamålen och ska godkänna åtkomst och användning.
+
+Men formell datakontroll besvarar inte hela frågan. En myndighet kan vara juridisk ägare till data och samtidigt bli tekniskt och organisatoriskt beroende av en leverantörs datamodeller, applikationer, integrationer, arbetsflöden, personalutbildning och molnkapacitet. Om det blir dyrt eller riskfyllt att byta plattform kan den offentliga beställaren i praktiken få mindre handlingsutrymme än avtalet antyder.
+
+Det är därför granskningen måste följa hela kedjan:
+
+1. **Ändamål:** Vem beslutar vilka offentliga data som får kopplas samman och för vilka syften?
+2. **Åtkomst:** Vilka anställda, underleverantörer och tekniska administratörer kan se eller behandla uppgifter?
+3. **Beslut:** Vilka rekommendationer genereras av systemet, och vem fattar det slutliga myndighets- eller militärbeslutet?
+4. **Bevisad nytta:** Kan påstådda förbättringar mätas oberoende, med tydliga baslinjer och kontroller för andra faktorer?
+5. **Granskning:** Kan en myndighet eller extern revisor följa datakällor, ändringar, åtkomstloggar och modellernas begränsningar?
+6. **Utträde:** Kan data, applikationer och arbetsflöden flyttas till en annan leverantör utan att den offentliga verksamheten bryter samman?
+
+Palantir har rätt att framhålla att dess plattformar kan ge bättre samordning, snabbare analys och effektivare arbetsflöden. De fördelarna måste prövas på samma sätt som andra leverantörers påståenden. Ett offentligt kontrakt är inte ett demokratiskt mandat att utvidga användningen av data. Ett företags tekniska förmåga är inte heller i sig ett bevis på att myndighetens kontroll har försvunnit.
+
+Den avgörande prövningen är om staten kan visa att den fortfarande bestämmer över ändamål, åtkomst, granskning och utträde – även efter att leverantörens system blivit en del av vardagens infrastruktur.
 
 ## Slutsats
 
-Palantirs tredje kvartal visar ett tydligt skifte i den amerikanska intäktsmixen: kommersiella kunder har för första gången passerat myndighetskunderna, samtidigt som båda marknaderna växer mycket snabbt.
+Palantirs Q3-rapport visar ett bolag med snabb tillväxt, stora offentliga och kommersiella kundrelationer och ett långsiktigt beroende av extern molninfrastruktur. I Storbritannien har bolagets plattform blivit en del av NHS:s digitala struktur och en växande del av polisens dataanalys. Samtidigt visar de dokumenterade GP-kontakterna hur en leverantör kan försöka påverka systemets framtida räckvidd utan att ett formellt databeslut ännu har fattats.
 
-Samma kvartalsrapport visar ett minst 5,6 miljarder dollar stort molnåtagande över tio avtalsår. Leverantören namnges inte i den aktuella noten. Det gör inte avtalet misstänkt i sig, men det gör leverantörsberoendet till en central fråga för både investerare och offentliga kunder.
+De offentliga dokumenten visar också att kontrollen inte är enkelriktad: NHS har rollen som personuppgiftsansvarig, lokala organisationer har egna instanser, MOPAC har kunnat stoppa en upphandling på grund av styrning och värde för pengarna, och militärens målrekommendationer har enligt offentlig redovisning en mänsklig godkännandepunkt. Dessa motbilder är lika viktiga som kritiken.
 
-Den fortsatta granskningen måste därför gå från kvartalssiffror till kontrakt: vem levererar infrastrukturen, vem kontrollerar data, vem kan granska modellerna och hur kan en myndighet lämna systemet utan att förlora sin operativa förmåga?
+Den verkliga frågan är därför inte om Palantir redan har tagit över staten. Den är om offentliga institutioner har tillräcklig insyn, kompetens, avtalsmakt och teknisk portabilitet för att kunna styra de system de köper – och lämna dem när de inte längre tjänar allmänheten.
 
 ---
 
-## Källor
-
-**Primärkällor**
-- Palantir, Q3 2026 Business Update, publicerad i samband med rapporten den 2 november 2026: https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf
-- Palantir Technologies Inc., Form 10-Q för kvartalet som avslutades 30 september 2026, SEC. Särskilt not 7 om inköpsåtaganden och molntjänster samt avsnittet om återstående prestationsåtaganden: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-- Palantir och Nebius, *Palantir and Nebius Partner to Deliver a Complete Sovereign AI Stack to Palantir Customers*, 8 september 2026: https://investors.palantir.com/news-details/2026/Palantir-and-Nebius-Partner-to-Deliver-a-Complete-Sovereign-A
-- Palantir och Knox Systems, *Knox and Palantir Partner to Further Accelerate Delivery of Software through Largest Federal Cloud*, 19 oktober 2026: https://investors.palantir.com/news-details/2026/Knox-and-Palantir-Partner-to-Further-Accelerate-Delivery-of-Software-through-Largest-Federal-Cloud/
-- U.S. Army Capability Program Executive – Intelligence and Spectrum Warfare, *Army Announces Move to Production for TITAN*, 1 september 2026: https://cpeisw.army.mil/2026/09/01/army-announces-move-to-production-for-titan/
-- Reuters, *US Army pools contracts into up to $10 billion Palantir deal*, 31 juli 2025: https://www.reuters.com/business/us-army-pools-contracts-into-up-10-billion-palantir-deal-2025-07-31/
-
-**Oberoende kontroll**
-- SEC/EDGAR är den offentliga regulatoriska inlämningen av bolagets kvartalsrapport. Den bekräftar bolagets redovisade åtaganden, men är inte en oberoende revision av varje bakomliggande molnleverans eller kundkontrakt.
-
-## Faktastatus och öppna frågor
-
-- **PRIMÄRKÄLLA:** Palantirs Q3-presentation anger intäkterna i USA och att kommersiella intäkter för första gången översteg myndighetsintäkterna.
-- **PRIMÄRKÄLLA:** SEC Form 10-Q anger ett minimiåtagande på 5,6 miljarder dollar över tio avtalsår till februari 2036 och årliga minimiåtaganden på 268–979 miljoner dollar.
-- **PRIMÄRKÄLLA:** SEC-rapporten anger att Palantir inte hade någon utestående skuld under sin revolverande kreditfacilitet per den 30 september 2026.
-- **OBEKRÄFTAD:** Identiteten på den externa molnleverantören i det redovisade 5,6-miljardersavtalet.
-- **INTE BELAGT:** Att 5,6 miljarder dollar är en omedelbar skuld eller att den namngivna leverantören är AWS, Google eller Microsoft.
-- **INTE BELAGT:** Att Q3-intäkterna i sig visar hur myndigheter fattar beslut eller hur ofta Palantirs system används automatiskt.
-- **ÖPPET:** Hämta kontrakts- och upphandlingsunderlag för större myndighetskunder; kartlägg underleverantörer och datalokalitet; begär konsekvensbedömningar, revisioner och avtalsvillkor för utträde.
-
-## Tillägg 6 november: fordringskoncentration – utan motsvarande intäktskoncentration
-
-Palantirs Form 10-Q ger ytterligare en viktig uppgift om motpartsrisken. Per den 30 september 2026 uppgick kundfordringarna till 1,883 miljarder dollar. Den anonymiserade kunden **Customer I** stod för **27 procent** av kundfordringarna; samma kund stod för 25 procent vid utgången av 2025. Ingen annan kund stod för mer än 10 procent av kundfordringarna. Samtidigt uppger Palantir att ingen kund stod för mer än 10 procent av periodens intäkter.
-
-Detta är en fordringskoncentration, inte bevis för att kunden svarar för 27 procent av intäkterna eller att kunden har betalningsproblem. Kunden namnges inte. Uppgiften bör följas mot kommande kvartalsrapporter och eventuell förändring i kundfordringarnas ålder och kassaflöde.
-
-**PRIMÄRKÄLLA:** Palantir Form 10-Q, noten *Concentrations of Credit Risk*, raderna om Customer I.  
-https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-
-### Segmentbilden är nästan jämn – kommersiellt är nu något större
-
-I samma 10-Q redovisas Q3-intäkter på **1,168 miljarder dollar kommersiellt** och **1,146 miljarder dollar statligt**. Tillväxten mot Q3 2025 var 113 procent kommersiellt respektive 81 procent statligt. Separat redovisar bolaget **984 miljoner dollar i amerikanska kommersiella intäkter** mot **953 miljoner dollar från amerikanska myndighetskunder**.
-
-Det är två olika jämförelser: totalsegmenten kommersiellt/statligt och den geografiska jämförelsen USA kommersiellt/USA myndigheter. De ska inte blandas ihop. Den kommersiella ledningen är liten i totalsegmenten, men tillväxttakten är högre.
-
-**PRIMÄRKÄLLA:** SEC Form 10-Q, Q3 2026, revenue by segment and geographic information.  
-https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-
-**ÖPPET:** Customer I:s identitet, fordringarnas åldersfördelning, betalningstid och om koncentrationen minskar i Q4. Ingen slutsats om myndighetsanvändning kan dras enbart ur intäkts- eller fordringsdata.
-
-**Status:** Utkast för chefredaktörens granskning. Inte publicerat.
-
-## SEC-kontroll 7 november 2026 – RPO, kundfordringar och geografisk exponering
-
-Palantirs Form 10-Q för kvartalet som slutade den 30 september 2026 ger tre viktiga kompletteringar till Q3-bilden.
-
-### Återstående prestationsåtaganden
-
-**PRIMÄRKÄLLA:** Palantir redovisar remaining performance obligations om **4,9 miljarder dollar** per den 30 september. Bolaget väntar sig att redovisa cirka **44 procent** som intäkt under de följande 12 månaderna och ytterligare **37 procent** under månaderna 13–36. Resterande del ligger senare.
-
-SEC-noten definierar detta som icke upparbetade intäkter från icke uppsägningsbara kontrakterade åtaganden. Bolaget har valt att inte redovisa RPO för kontrakt med ursprungliga löptider om högst 12 månader. Avbokningsbara kontrakterade intäkter och kunddepositioner ingår inte. RPO är därför inte kontanter, inte redan redovisad omsättning och inte en skuld.
-
-### Fordringskoncentration
-
-Per den 30 september uppgick kundfordringarna till **1,9 miljarder dollar**, jämfört med 1,0 miljard vid utgången av 2025. En anonymiserad kund, benämnd **Customer I**, stod för **27 procent** av kundfordringarna, jämfört med 25 procent vid utgången av 2025. Det motsvarar ungefär en halv miljard dollar vid den rapporterade balansdagen.
-
-Detta är en koncentration i kundfordringar. Det visar inte att samma kund står för 27 procent av intäkterna, att kunden har betalningsproblem eller vilken juridisk person kunden är. SEC-rapporten namnger inte Customer I.
-
-### Geografisk exponering
-
-Under de nio första månaderna 2026 kom **81 procent** av Palantirs intäkter från kunder i USA och 19 procent från kunder utanför USA. Detta är en niomånaderssiffra, inte en separat Q3-andel. Bolaget skriver självt att en fortsatt hög eller ökande USA-andel kan göra verksamheten mer exponerad för framtida negativa förhållanden i USA.
-
-### Molnåtagandet – fortsatt åtskillnad från skuld
-
-Samma 10-Q bekräftar ett minimiåtagande om minst **5,6 miljarder dollar** till en extern molntjänstleverantör under tio avtalsår till och med den 29 februari 2036, med årliga minimibelopp på 268–979 miljoner dollar. Rapporten säger att tidigare betalningsåtaganden enligt avtalet avslutades när ändringen undertecknades i mars 2026. Detta är ett framtida inköpsåtagande för molntjänster, inte ett lån eller en redan redovisad skuld.
-
-**PRIMÄRKÄLLA:** Palantir Form 10-Q, kvartal avslutat 30 september 2026, särskilt noterna om kundfordringar, remaining performance obligations och purchase commitments: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-
-**ÖPPET:** Customer I:s identitet, fordringarnas åldersfördelning och betalningsstatus, molnleverantörens identitet om den kan fastställas genom separata dokument samt hur stor del av RPO som omvandlas till faktiska intäkter under kommande kvartal.
-
-
-## Redaktionsuppdatering – 7 november 2026 kl. 16.37 Europe/Sofia
-
-### NHS-avtalet: medieuppgifter om förlängning står mot det senaste offentliga beslutsunderlaget
-
-**PRIMÄRKÄLLA – Health and Social Care Committee, 4 november:** Hälsominister Yvette Cooper sade att den avtalsenliga genomgången fortfarande pågick och att hon inte ville föregripa processen. Hon bekräftade att regeringen har detaljerade planer för olika utfall. NHS Englands vd Sir Jim Mackey sade att det finns en avtalsbestämmelse som ska få leverantören att dela underlag bakom nyttopåståenden, men att den enligt hans förståelse är svår att genomdriva avtalsrättsligt. Han väntar sig att Palantir ska låta NHS granska nyttopåståenden innan de publiceras.
-
-**OBEROENDE RAPPORTERING – 6 november:** The Times rapporterade att ministrarna beslutat att behålla avtalet genom en tvåårig förlängning och därefter upphandla en brittisk ersättare. The Guardian återgav samma dag en FT-uppgift om en planerad förlängning. Någon formell regeringsbekräftelse, ändringsnotis eller nytt tilldelningsbeslut har inte identifierats i denna kontroll. Artikeln ska därför skilja mellan rapporterad ministerplan och offentlig, bindande avtalsåtgärd.
-
-### Ny regulatorisk källkontroll av NHS:s nyttopåståenden
-
-**PRIMÄRKÄLLA – Office for Statistics Regulation, 22 juli:** NHS Englands före/efter-jämförelser visar förändringar efter införandet av FDP, men NHS kan inte dra slutsatser om orsak och verkan eftersom andra variabler inte har kontrollerats. OSR välkomnade tydligare metodredovisning och uppgav att NHS beställt en oberoende akademisk utvärdering från Imperial College.
-
-**OBEROENDE BEKRÄFTELSE – Health Foundation/OSR, 10 augusti:** Health Foundation fann inga mätbara förbättringar i utskrivningsutfall bland de OPTICA-användande vårdgivare som de analyserade. OSR redovisar samtidigt att Health Foundations kohort omfattade alla patienter, medan NHS:s analys var avgränsad till patienter med vårdtid över sju dagar. Resultaten är därför inte direkt jämförbara utan metodgenomgång.
-
-**OBEROENDE RAPPORTERING – The Register, 3 november:** Medact uppger att 29 NHS Trusts som NHS England listar som mottagare av FDP-fördelar i FOI-svar sagt att de inte använde plattformen. NHS England svarar att 137 Trusts har rapporterat fördelar. Detta är en dokumenterad tvist om vilka Trusts som räknas som användare/förmånstagare, inte ett bevis för att samtliga 29 svar är identiska.
-
-### Ett brittiskt polisförsök avslutades utan nytt köp
-
-**OBEROENDE BEKRÄFTELSE – BBC/Financial Times, september–oktober:** East Midlands Special Operations Unit (EMSOU), som samordnar arbete över fem polisstyrkor, beslutade att inte gå vidare med ett nytt avtal efter en tvåårig pilot av Palantir Foundry. Piloten startade i oktober 2024 och använde data från Leicestershire Police. EMSOU hänvisade till avslutat Home Office-stöd och bedömning av framtida finansiering och nytta. Enheten begärde att Palantir skulle visa att kopplingar till polisens system brutits och att data raderats. Någon offentlig bekräftelse på slutförd radering har inte identifierats.
-
-### Nytt brittiskt polisavtal – tilldelat 8 oktober, publicerat 6 november
-
-En ny upphandlingspost visar att Cambridgeshire Constabulary tilldelat Palantir Technologies UK Ltd ett femårigt avtal med värdet **£10 093 202** för “BCH Palantir Foundry Platform”. Avtalet löper enligt den publicerade notisen från **8 oktober 2026 till 8 oktober 2031** och är ett **call-off från ett befintligt ramavtal**, inte en ny öppen konkurrensutsättning. Beskrivningen anger en övergripande data-integrations- och analysförmåga för säker inhämtning, länkning och analys av data från flera system inom polisverksamheten.
-
-**Källstatus:** notisen publicerades 6 november på en upphandlingsspegel som anger Contracts Finder som originalkälla. Den direkta Contracts Finder-länken gav 403 i denna kontroll; värde, datum, leverantör och avtalsbeskrivning återges därför som **OBEROENDE MEDIERAPPORTERING / speglad upphandlingspost**, inte som en direkt hämtad primärhandling. Ingen uppgift i notisen visar i sig vilka datakällor som faktiskt kopplats in, hur ofta plattformen används eller hur modell-/analysresultat granskas.
-
-**Nästa primärkontroll:** begär själva call-off-avtalet, ramavtalets villkor, databehandlingsavtal, DPIA, informationssäkerhetsbilagor, ändringshistorik, underleverantörer och revisions-/exitklausuler. Det är dessa dokument som kan besvara vem som är personuppgiftsansvarig, vem som får granska, hur data återlämnas och hur leverantörsberoendet kan brytas.
-
-**Källa:** Tenfell, “BCH Palantir Foundry Platform”, publicerad 6 november 2026, med Contracts Finder som angiven originalkälla: https://tenfell.com/explore/notices/1145980/bch-palantir-foundry-platform
-
-### Redaktionell slutsats
-
-Kontraktets fortsättning är inte samma fråga som bevisad nytta, och en lyckad pilot är inte samma sak som ett permanent köp. Nästa granskning ska jämföra avtalsoptioner, övergångsplan, faktisk Trust-användning, oberoende effektutvärdering och dokumenterad radering efter EMSOU-piloten.
-
-**Källor:**
-- Parlamentariskt vittnesmål 4 november: https://committees.parliament.uk/oralevidence/18242/html
-- OSR 22 juli: https://osr.statisticsauthority.gov.uk/news/nhs-england-federated-data-platform-fdp-presentation-and-communication-of-information-and-performance-metrics/
-- OSR/Health Foundation 10 augusti: https://osr.statisticsauthority.gov.uk/correspondence/ed-humpherson-to-jennifer-dixon-health-foundation-analysis-of-the-impact-of-the-optimised-patient-tracking-and-intelligent-choices-application/
-- The Register 3 november: https://www.theregister.com/2026/11/03/nhs_counts_palantir_benefits_at_trusts_that_say_theyre_not_using_it/
-- The Times 6 november: https://www.thetimes.com/uk/healthcare/article/palantir-nhs-contract-f7mcmrm0b
-- BBC om EMSOU-piloten: https://tech.yahoo.com/articles/police-unit-pulls-plug-palantir-081128800.html
-- Financial Times om EMSOU-piloten: https://www.ft.com/content/a1e0707a-326a-4c7c-a608-d73abab32d82
-
-**Publiceringsstatus:** Fortsatt draft. Inte mergat och inte publicerat.
-
-
-## Primärkontroll av NHS:s egna nyttosiffror – 7 november 2026 kl. 17.02
-
-NHS Englands officiella FDP-dashboard, uppdaterad 12 juni 2026, anger:
-- 139 Trusts var live på plattformen vid utgången av maj.
-- 137 Trusts rapporterade någon form av fördel.
-- 170 Trusts hade undertecknat en avsiktsförklaring (MoU).
-- Inpatient Care Coordination Solution redovisade 111 589 kumulativa ytterligare patienter som genomgått procedurer jämfört med tidigare period utan FDP, fram till slutet av mars 2026.
-- OPTICA användes av 25 Trusts; NHS redovisade en 13,58-procentig minskning av genomsnittliga fördröjningsdagar för patienter som varit inlagda mer än sju dagar.
-
-NHS-sidan säger uttryckligen att dessa OPTICA-resultat är observerade före/efter-jämförelser och att NHS inte kan dra slutsatser om orsak och verkan eftersom andra variabler inte har kontrollerats. Detta är en central metodbegränsning och ska finnas med i varje återgivning av procentsiffran.
-
-**Jämförelse med bolagets påstående:** Palantir har i offentlig kommunikation använt siffran omkring 117 000 ytterligare operationer. NHS:s egen dashboard anger 111 589 ytterligare patienter som genomgått procedurer till och med mars 2026. Det är olika formuleringar och kan avse olika uppdateringsdatum eller mått; de ska inte presenteras som identiska utan metod- och periodkontroll.
-
-The Guardian rapporterade den 2 november att 29 Trusts som NHS England räknat som mottagare av FDP-fördelar i FOI-svar uppgett att plattformen inte användes eller användes i liten omfattning. Det är en oberoende journalistisk sammanställning av FOI-svar, inte en ny officiell NHS-siffra. Den står i kontrast till NHS:s aggregerade rapportering och gör det nödvändigt att skilja mellan att vara live, ha en tenant, använda en viss app och faktiskt realisera en mätbar fördel.
-
-**Primärkälla:** NHS England dashboard, uppdaterad 12 juni 2026: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/impact/fdp-uptake-and-benefits/
-**Oberoende rapportering:** The Guardian, 2 november 2026: https://www.theguardian.com/technology/2026/nov/02/palantir-ai-tech-unused-or-little-used-by-29-nhs-trusts-said-to-be-benefiting-from-it
-
-
-
-## SEC-tillägg 9 november: molnhostingens kostnadssida
-
-Palantirs Q3-10-Q ger en kompletterande bild av vad molnberoendet kostar i den löpande verksamheten. Kostnaden för sålda tjänster ökade med **176 miljoner dollar (85 procent)** under kvartalet jämfört med samma kvartal 2025. Av ökningen hänförde bolaget **135 miljoner dollar** till tredjeparts molnhosting, 21 miljoner till aktiebaserad ersättning och 14 miljoner till hårdvara och andra direkta kostnader; en minskning på 9 miljoner i underleverantörs- och fältservicekostnader motverkade delar av ökningen.
-
-För årets första nio månader ökade kostnaden för sålda tjänster med 323 miljoner dollar, varav 263 miljoner hänfördes till tredjeparts molnhosting. Samtidigt steg bruttomarginalen till 83 procent från 82 procent i Q3 och till 85 procent från 81 procent för niomånadersperioden. Det finns alltså stöd för att molnkostnaden växer kraftigt i absoluta tal, men inte för att den redan pressar bruttomarginalen i den redovisade perioden.
-
-Beloppen är **ökningar i kostnad för sålda tjänster**, inte Palantirs totala molnnota. 10-Q beskriver även hostingkostnader inom forskning och utveckling samt försäljning/marknadsföring. Dessa poster ska inte summeras utan att deras exakta avgränsning kontrolleras.
-
-**Källstatus: PRIMÄRKÄLLA** – Palantir Form 10-Q, avsnitt *Cost of Revenue*, publicerad 3 november 2026. **ÖPPET:** fördelningen mellan externa molnleverantörer, kundkonton och regioner är inte redovisad i denna kostnadsnot.
-
-Källa: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-
-
-## NHS-avtalet: regeringen uppges välja en förlängning – men beslutet är ännu inte formellt
-
-**Publiceringsdatum:** 6 november 2026 för den nya medierapporteringen; 29 oktober 2026 för House of Commons Librarys faktasammanställning; 2 november 2026 för Guardian:s FOI-granskning.
-
-Den 6 november rapporterade Guardian, med hänvisning till Financial Times, att ministrarna planerar att förlänga Palantirs £330m Federated Data Platform-avtal i stället för att använda den första break-optionen. Samtidigt ska en ny upphandling för en brittisk leverantör förberedas, med målet att kunna ersätta Palantir om ungefär två år. Guardian uppger att regeringens granskning bedömt ett omedelbart utträde som alltför störande för NHS:s verksamhet.
-
-**Källstatus:** **OBEROENDE MEDIERAPPORTERING – ännu inte formellt bekräftad av regeringen.** Guardian återger FT:s rapport. Något publicerat ministerbeslut, ny upphandlingsannons eller undertecknat förlängningsbeslut har inte identifierats i denna kontroll. Det får därför inte skrivas som att regeringen redan formellt har förlängt avtalet.
-
-### Avtalsramen enligt parlamentets faktasammanställning
-
-House of Commons Library publicerade 29 oktober en briefing som anger att NHS England i november 2023 tilldelade kontraktet till ett konsortium lett av Palantir Technologies UK Ltd, med Accenture, PwC, NECS och Carnall Farrar. Avtalet började i mars 2024, med en initial treårsperiod och optionsmöjlighet upp till sju år totalt. Den första möjligheten att avstå från förlängning brukar kallas break clause; NHS England uppgav i utskottsförhör att leverantören behövde informeras i december 2026 om avtalet inte skulle förlängas efter mars 2027.
-
-Parlamentets briefing anger också att en oberoende utvärdering från Imperial College Projects väntas publiceras först efter att beslutet om förlängning fattats. National Audit Office väntas rapportera om NHS:s integration av patientdata under vintern 2026/27. Detta skapar en central granskningsfråga: kommer förlängningsbeslutet att fattas innan den oberoende utvärderingen finns tillgänglig?
-
-### Faktisk användning: “live” är inte samma sak som klinisk användning
-
-House of Commons Library anger att 142 av 202 NHS-trusts var i live operational use i augusti 2026 och att 170 hade undertecknat ett memorandum of understanding. Guardian:s FOI-granskning den 2 november identifierade samtidigt 29 trusts som NHS England offentligt listade som “realising benefits”, men som i svar på FOI-förfrågningar sade att systemet inte var live eller att de inte använde dess applikationer.
-
-Dessa siffror har olika datum och kategorier. De bevisar inte att 29 av 142 trusts är helt inaktiva. De visar däremot att följande statusar måste hållas isär:
-- tekniskt ansluten eller tenant etablerad,
-- registrerad som live,
-- aktiv användning av en viss FDP-app,
-- klinisk användning i patientflöden,
-- dokumenterad och mätbar verksamhetsnytta.
-
-Guardian:s FOI-material är oberoende journalistisk rapportering, inte en komplett officiell NHS-revision. NHS England har svarat att vissa trusts kan använda begränsade delar av plattformen för back-office-analys och kostnadsrapportering.
-
-### Nyttopåståenden saknar fastställd kausalitet
-
-NHS England har tidigare hänvisat till 117 539 fler operationer och minskade utskrivningsförseningar. Health and Social Care Committee återgav den 9 juli NHS Englands förtydligande att före-/efterjämförelserna inte kontrollerade för andra variabler och att myndigheten därför inte kunde dra slutsatser om orsak och verkan. Office for Statistics Regulation har enligt Guardian den 2 november tagit frågan vidare inom sin casework-funktion.
-
-Det är därmed inte korrekt att säga att Palantirs system bevisligen orsakade 117 539 fler operationer. Det korrekta är att NHS England redovisat en före-/efterförändring, samtidigt som myndigheten medgett att kausal effekt inte kan fastställas med den använda metoden.
-
-### Varför detta spelar roll
-
-Det framväxande mönstret är en kombination av tekniskt leverantörsberoende och en politisk exitkostnad. Om regeringen förlänger avtalet därför att ett omedelbart byte anses operativt riskfyllt, men samtidigt vill bygga en brittisk ersättare, blir den centrala frågan hur mycket kontroll, dataåtkomst, know-how och immateriella rättigheter NHS faktiskt kan ta med sig vid en framtida övergång.
-
-### Öppna frågor före publicering
-
-1. Finns det ett formellt ministerbeslut om förlängning, eller är det fortfarande en plan enligt FT/Guardian?
-2. När kommer den nya upphandlingen att annonseras, och vilka krav ställs på brittisk leverantör, datalagring, exit och interoperabilitet?
-3. Vilka rättigheter till programvara, konfigurationer, dataexport, dokumentation och kunskapsöverföring finns i det signerade avtalet?
-4. Hur definierar NHS England “live”, “realising benefits” och aktiv klinisk användning i sin aktuella rapportering?
-5. När publicerar Imperial College Projects sin oberoende utvärdering, och varför ska den enligt Commons Library komma efter förlängningsbeslutet?
-6. Vad blir resultatet av OSR:s casework om FDP:s effektpåståenden?
-
-Källor:
-- House of Commons Library, 29 oktober 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-12264/
-- Guardian, 6 november 2026, återger FT:s uppgift om förlängning och brittisk ersättare: https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news?page=with:block-6aedef458f082a3892f69965
-- Guardian, 2 november 2026, FOI-granskning av 29 trusts: https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts
-- Health and Social Care Committee, 9 juli 2026: https://committees.parliament.uk/committee/81/health-and-social-care-committee/news/214760/drop-palantirs-federated-data-platform-and-look-for-alternative-mps-tell-health-minister/
-
-
-
-## Källuppdatering 10 november 2026 – GP-data, NHS:s faktiska gränser och MOPAC
-
-**Händelsedatum och publiceringsdatum:** WhatsApp-korrespondensen löper juli 2025–mars 2026; den centrala lobbykontakten om GP-data skedde i februari 2026. The Guardian publicerade sin FOI-granskning 9 november 2026 kl. 17.58 GMT.
-
-**OBEROENDE BEKRÄFTELSE / FOI-UNDERLAG:** Guardian redovisar meddelanden mellan Palantirs brittiske chef Louis Mosley och dåvarande hälsoministern Zubir Ahmed. Dokumenten begärdes ut enligt Freedom of Information Act av Foxglove och delades med Guardian. De visar att Palantir argumenterade för att koppla samman primärvårds- och sjukhusdata och uppmanade ministern att föregripa politiskt motstånd. De ursprungliga FOI-bilagorna har inte hämtats direkt i denna kontroll; citat och innehåll ska därför tills vidare hänföras till Guardians granskning av de utlämnade handlingarna.
-
-**PRIMÄRKÄLLA – NHS England, FAQ och Information Governance Framework:** NHS skiljer mellan den nationella och de lokala instanserna. NHS England anger att det inte finns GP-dataset i den nationella instansen. Viss information som ursprungligen kommer från GP-register, exempelvis vaccinationsuppgifter i vissa produkter, kan förekomma nationellt först efter avidentifiering/pseudonymisering. Lokala NHS Trusts och ICB:er kan däremot lägga in GP-dataset som de lagligen innehar i sina lokala instanser när lämpliga data sharing agreements finns. Detta är inte bevis för att identifierbara GP-register har flyttats till den nationella instansen; det visar att lokala integrationer är möjliga inom den publicerade arkitekturen.
-
-**PRIMÄRKÄLLA – Health and Social Care Committee, muntlig bevisning 4 november:** Yvette Cooper sade att kontraktsöversynen fortfarande pågick och att hon inte ville föregripa beslutet. **OBEROENDE RAPPORTERING:** Guardian återger Financial Times uppgift om att regeringen överväger en förlängning och samtidigt en brittisk ersättare. Något slutligt förlängningsbeslut eller undertecknat nytt avtal har inte identifierats.
-
-**PRIMÄRKÄLLA – MOPAC, MD3560, undertecknat 9 oktober 2026:** Sadiq Khan godkände en förlikning av Palantirs rättsliga krav mot MOPAC efter att Deputy Mayor for Policing and Crime vägrat samtycke till att MPS skulle tilldela Palantir kontraktet för Unified Operational Analytics. MOPAC accepterar inte Palantirs påståenden. Båda sidor ska dra tillbaka sina krav; ingen kompensation, ersättning för juridiska kostnader eller annan betalning ska utgå. Förlikningen är inte ett kontraktstilldelningsbeslut och innebär inte att den tidigare vägran upphävts.
-
-**Betydelse:** Den avgörande gränsen är inte bara om GP-data förekommer, utan i vilken instans, med vilken identifierbarhetsnivå, under vilken controller, vilket ändamål och vilket data sharing agreement. Lobbykontakt, lokal integration och nationell databehandling får inte slås ihop till ett enda påstående.
-
-**Källor:**
-- Guardian, 9 november 2026: https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records
-- NHS England, FDP FAQs: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/fdp-faqs/
-- NHS England, Categories of personal data: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/security-privacy/nhs-fdp-information-governance-framework/categories-of-personal-data/
-- Health and Social Care Committee, 4 november 2026: https://committees.parliament.uk/oralevidence/18242/html/
-- MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
-
-**Öppet före publicering:** hämta originalbilagorna till FOI-begäran; fastställ exakt lokal data controller och DSA för varje GP-pilot; kontrollera om ministeriets översyn lett till ett formellt beslut; kontrollera om MOPAC:s förlikningsavtal och offentliga uttalande publicerats i sin slutliga lydelse.
-
-
-## Fördjupning 10 november 2026 – kontraktsmekanik, exit och nytt anbud
-
-**PRIMÄRKÄLLA – Health and Social Care Committee, muntlig bevisning 4 november 2026, frågor 235–250:** Ben Coleman korrigerade uttryckligen beskrivningen av NHS-avtalet: den aktuella åtagandeperioden löper till slutet av mars och regeringen prövar om den ska förlängas; han sade att detta inte är en “break clause”. NHS Englands FAQ beskriver samtidigt avtalsstrukturen som ett initialt treårigt åtagande, därefter möjliga förlängningar med två år och sedan två ytterligare ettårsperioder. Den maximala sjuårsperioden får därför inte beskrivas som sju års ovillkorligt åtagande.
-
-Yvette Cooper sade att kontraktsöversynen var halvvägs och skulle slutföras under hösten. Hon ville inte redovisa slutsatser före den formella processen. Hon bekräftade att det finns detaljerade planer för olika utfall, inklusive exit, men redovisade inte innehåll, tidplan eller en oberoende migreringsrevision. Sir Jim Mackey sade att NHS skulle skriva till Palantir och begära att bolaget delar och låter NHS granska sina påståenden om uppnådda nyttor före publicering. Han uppgav samtidigt att det finns en avtalsbestämmelse, men att den verkar svår att göra rättsligt bindande.
-
-Ben Coleman tog upp att 29 trustar som NHS England räknat som “benefiting” enligt FOI-svar uppgett att FDP inte är live eller att de inte använder apparna. Cooper bemötte inte den konkreta trustlistan utan hänvisade till den pågående översynen. Hon sade att hon sett betydande nyttor, men ville inte redovisa kostnads-/nyttoanalysen. Detta är en dokumenterad parlamentarisk motsättning, inte i sig ett bevis för att samtliga 29 trustar saknar all användning.
-
-**PRIMÄRKÄLLA – MOPAC:s offentliga uttalande 14 oktober 2026:** förlikningen avslutade tvisten, men MOPAC förtydligade samtidigt att beslutet i maj att inte godkänna den dåvarande UOA-tilldelningen grundades på dess lagstadgade granskning av process, styrning, överkomlighet och value for money – inte på en policy mot Palantir eller på bolagets värderingar. MOPAC uppgav att en ny upphandling pågår tillsammans med MPS och att Palantir är välkommet att lämna anbud på samma villkor som andra leverantörer. Den ursprungliga tilldelningen blev alltså inte godkänd; en ny konkurrensutsatt process är nästa steg.
-
-**Betydelse:** NHS-frågan handlar nu om den verkliga optionstrappan, om en exitplan som går att genomföra utan att vårdappar och dataflöden bryts, och om leverantörens resultatpåståenden kan kontrolleras av beställaren. I London är den centrala skiljelinjen inte längre om Palantir är utestängt, utan om en ny UOA-upphandling kan visa konkurrens, behov, kostnad och styrbarhet.
-
-**Källor:**
-- Health and Social Care Committee, 4 november 2026, oral evidence, frågor 235–250: https://committees.parliament.uk/oralevidence/18242/html/
-- NHS England, FDP FAQs, uppdaterad 14 april 2026: https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/fdp-faqs/
-- MOPAC, *Statement: MOPAC and Palantir*, 14 oktober 2026: https://www.london.gov.uk/statement-mopac-and-palantir
-- MOPAC, MD3560, 9 oktober 2026: https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac/mopac-governance-and-decision-making/mopac-decisions/md3560-settlement-litigation
-
-**Öppet:** offentliggör kontraktets fullständiga optionstrappa och exitbilaga; kontrollera om höstens översyn faktiskt slutförts; begär listan över de 29 trustarna och jämför produktnivå, lokal instans och faktisk klinisk användning; granska Sir Jim Mackeys utlovade brev och den rättsliga styrkan i bestämmelsen om nyttopåståenden.
-
-
-## Källuppdatering 10 november 2026 – CISA, brittiskt polisavtal och rådgivarroller
-
-### Palantirs CISO nominerad till chef för CISA
-
-**Händelsedatum:** 9 november 2026. **Senatens diariedatum:** 9 november 2026.
-
-**PRIMÄRKÄLLA:** USA:s senats lista över civila nomineringar i utskott anger PN1426, Department of Homeland Security: Michael LoSapio, of New Jersey, to be Director of the Cybersecurity and Infrastructure Security Agency. Han är alltså nominerad men inte bekräftad. https://www.senate.gov/legislative/nom_cmtec.htm
-
-**OBEROENDE BEKRÄFTELSE:** Defense One anger att LoSapio varit Palantirs CISO sedan september 2024. https://www.defenseone.com/business/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417144/
-
-CISA ansvarar för civil cybersäkerhet och samverkan med bland annat operatörer av el, vatten och telekommunikation. Nomineringen skapar en tydlig tillsyns- och etikfråga eftersom kandidaten kommer från en leverantör som säljer analys- och dataplattformar till myndigheter. Den bevisar inte i sig jäv eller intressekonflikt. Följ ekonomisk redovisning, etikavtal, recusal och senatens eventuella förhör.
-
-### Femårigt Foundry-avtal i östra England
-
-**Tilldelningsdatum:** 9 oktober 2026. **Award notice publicerad:** 6 november 2026.
-
-Contracts Finder-posten identifierar köparen som Police and Crime Commissioner for Cambridgeshire, leverantören Palantir Technologies UK Ltd, avtalsvärdet £10,093,202 ex VAT och perioden till 8 oktober 2031. Originalnotisen är identifierad men gick inte att läsa i denna körning; uppgifterna har därför jämförts mot två index som återger Contracts Finder-data.
-
-**OBEROENDE GRANSKNING:** The Bureau of Investigative Journalism uppger att avtalet ska användas av Bedfordshire, Cambridgeshire och Hertfordshire Police. Plattformens angivna funktion är integration, länkning och analys av data från flera polisiära system. Det offentliga award-sammandraget bevisar inte automatiserade polisbeslut.
-
-- Contracts Finder: https://www.contractsfinder.service.gov.uk/Notice/d7a7acf6-a793-427d-a674-ee989e704974-920813
-- TBIJ, 10 november 2026: https://www.thebureauinvestigates.com/stories/2026-11-10/revealed-palantir-employing-cressida-dick-as-paid-adviser
-
-### Dame Cressida Dick som betald rådgivare
-
-TBIJ rapporterar den 10 november att tidigare Metropolitan Police Commissioner Dame Cressida Dick varit betald rådgivare till Palantir sedan september 2025. Palantirs talesperson bekräftar rådgivarrollen. Dick säger att hennes uppdrag är begränsat till råd om hur produkter kan förbättra offentlig service och förnekar att hon någonsin lobbat eller förespråkat Palantir inför någon organisation eller person, eller introducerat bolaget till sina kontakter.
-
-**Källstatus:** OBEROENDE GRANSKNING med bekräftelse av själva rådgivarrollen från bolaget och Dick enligt TBIJ. Ett offentligt primärdokument om ersättning, uppdragsvillkor och eventuella etikrestriktioner har inte identifierats. Artikeln får inte insinuera lobbying som fastslaget faktum.
-
-### Londonförlikningen – rättslig status
-
-MOPAC:s offentliga uttalande den 14 oktober säger att High Court-processen lösts och att båda parter dragit tillbaka anklagelserna i sina inlagor. MOPAC förtydligar att beslutet i maj att inte ingå UOA-avtal inte grundades på Palantirs värderingar eller etik, utan på lagstadgad prövning av upphandling, styrning, överkomlighet och value for money. Palantir får delta i den nya upphandlingen på samma villkor som andra leverantörer. Det ursprungliga avtalet blev inte tilldelat genom förlikningen.
-
-**PRIMÄRKÄLLA:** https://www.london.gov.uk/statement-mopac-and-palantir
-
-**Öppna kontrollfrågor:** fullständig BCH-avtalstext, DPIA och datakällor; vilka tre poliskårer som faktiskt använder plattformen och på vilka rättsliga grunder; Cressida Dicks rådgivaravtal/ersättningsredovisning; LoSapios etikavtal och senatens prövning; den nya MPS UOA-upphandlingens krav, kostnad och exitplan.
-
-
-## Militär användning: TITAN går från prototyp till första produktionsbatch
-
-**Händelsedatum:** 31 augusti 2026. **Publiceringsdatum för arméns besked:** 1 september 2026. **Ny kontroll:** 11 november 2026.
-
-**PRIMÄRKÄLLA – U.S. Army CPE Intelligence and Spectrum Warfare:** Armén uppgav att programmet flyttats till produktion genom två leveransorder på sammanlagt 192 miljoner dollar. Palantir tilldelades 127 miljoner dollar och Anduril 65 miljoner dollar. Beställningen omfattar åtta system – fyra TITAN Advanced och fyra TITAN Basic – med leveransplan över 18 månader. Armén behåller dessutom nio prototypenheter för operativ användning. Palantir leder den övergripande produktionen; L3Harris, Sierra Nevada Corporation, Strategic Technology Consulting och World Wide Technology bidrar med delsystem och teknik. Anduril har en separat hårdvaru- och integrationsroll.
-
-**OBEROENDE BEKRÄFTELSE – DefenseScoop, 1 september 2026:** Reportaget återger arméns besked och intervjuuppgifter om hur systemet används. En armérepresentant beskriver analytikern som den som godkänner eller avslår mål som nomineras vidare till eldstöd. Detta stöder en distinktion mellan automatiserad målidentifiering/-nominering och ett självständigt vapenbeslut.
-
-**Källstatus och avgränsning:** Armén beskriver TITAN som AI-aktiverad och säger att automatiserade målnomineringar kan korta tiden från sensor till verkansförband. Det är inte belägg för att systemet självständigt väljer och avfyrar vapen. Offentlig oberoende testmatris, felutfall, certifieringsunderlag och detaljerad operativ användningsrapport har inte identifierats.
-
-**Varför det spelar roll:** Detta är ett konkret exempel på att Palantirs programvara ingår i en militär sensor-till-besluts- och målnomineringskedja, inte bara i generell dataanalys. Det ger en mer precis artikelvinkel om var mänsklig beslutsmakt ligger och vilka delar som automatiseras.
-
-Källor:
-- U.S. Army CPE ISW, 1 september 2026: https://cpeisw.army.mil/2026/09/01/army-announces-move-to-production-for-titan/
-- DefenseScoop, 1 september 2026: https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/
-- Palantirs Q3 2026 Business Update, publicerad 2 november 2026: https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf
-
-**Redaktionell notering:** TITAN-ordern är inte en ny händelse i november. Nytt i denna kontroll är att arméns primärbesked och den oberoende beskrivningen av analytikerns godkännanderoll har förts in som källunderlag i Palantir-utkastet.
-
-## Källuppdatering 11 november 2026 – CISA-nomineringen och räckvidden för BCH-avtalet
-
-**Händelse 9 november; offentlig nominering samma dag.** Vita huset skickade Michael LoSapios nominering till posten som direktör för Cybersecurity and Infrastructure Security Agency (CISA) till senaten. LoSapio är Palantirs Chief Information Security Officer. Han är nominerad, inte bekräftad; Nick Andersen är fortsatt tillförordnad direktör. CISA har enligt Reuters saknat en senatsbekräftad direktör i nära 22 månader och myndighetens personalstyrka har minskat med ungefär en tredjedel sedan 2025. Det senare är Reuters rapportering, inte en ny myndighetsrevision i denna kontroll.
-
-**PRIMÄRKÄLLA:** Vita husets nomineringar till senaten, 9 november 2026: https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-54a2/
-
-**OBEROENDE BEKRÄFTELSE:** Reuters, 9 november: https://www.reuters.com/world/white-house-nominates-palantirs-losapio-lead-homeland-securitys-cyber-agency-2026-11-09/  
-CyberScoop, 10 november: https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/
-
-Den inkommande demokratiska ledningen för kongressens säkerhetsutskott har redan uttryckt frågor om Palantirs arbete åt DHS och ICE. Det är politisk och parlamentarisk granskning, inte ett konstaterande att LoSapio är olämplig eller att en rättslig intressekonflikt redan föreligger. Före en eventuell bekräftelse behöver senaten få klarhet i hans ekonomiska innehav, avyttringar, jävs- och recusalplan, eventuella återanställningsarrangemang samt om CISA själv har direkta Palantir-avtal eller endast berörs av Palantirs arbete i andra DHS-delar. Något offentligt etiskt utlåtande eller en färdig recusalplan har inte identifierats i denna kontroll.
-
-**Viktig avgränsning:** Det finns inte belägg här för att CISA-nomineringen innebär att Palantir får ett nytt kontrakt eller att CISA använder Palantirs plattform i ett visst operativt beslut. Frågan gäller tills vidare styrning, oberoende och offentlig kontroll.
-
-### Förtydligande om BCH-avtalet
-
-Upphandlingsuppgiften gäller ett femårigt Foundry-avtal med ett rapporterat värde om £10 093 202. Köparen är Police and Crime Commissioner for Cambridgeshire; avtalet är ett call-off från ramavtal. Beteckningen “BCH” avser Bedfordshire, Cambridgeshire och Hertfordshire. Att den kommersiella upphandlingsfunktionen arbetar för sju polisstyrkor visar inte i sig att alla sju är användare av just detta avtal. PublicTechnology rapporterar att de tre BCH-styrkorna och möjligen Eastern Region Special Operations Unit omfattas; ERSOU-delen måste kontrolleras mot call-off-avtalets fullständiga scope.
-
-**Källstatus:** upphandlingsposten har identifierats, men den direkta Contracts Finder-sidan kunde inte läsas ut i denna körning. Signerat call-off-avtal, DPIA, databehandlingsbilagor, datakategorier, lagringstid, underleverantörer och exitvillkor saknas fortfarande. Publiceringsdatum för upphandlingsnotisen (6 november) ska hållas isär från tilldelningsdatumet (8 oktober).
-
-**Öppet NHS-spår:** någon offentlig myndighetshandling som bekräftar den rapporterade tvååriga förlängningen av FDP-avtalet har fortfarande inte identifierats. Den ska fortsatt beskrivas som medierapportering, inte som fattat beslut.
-
-**Status:** nytt CISA-avsnitt tillagt i befintligt granskningsutkast. Ingen merge eller publicering.
-
-
-## Källuppdatering 11 november 2026 – lång molnförpliktelse och fler myndighetsbeställningar
-
-### Minst 5,6 md USD till en tredje parts molninfrastruktur
-
-**PRIMÄRKÄLLA – Palantir Form 10-Q, publicerad 3 november 2026:** i mars 2026 ändrade Palantir ett avtal om tredjeparts molnhosting. Bolaget har åtagit sig att spendera minst **5,6 md USD** över tio avtalsår till och med **29 februari 2036**. Årliga minimibelopp varierar mellan **268 mn och 979 mn USD**. Leverantören namnges inte i noten. Tidigare betalningsåtaganden enligt det ändrade avtalet upphörde när ändringen skrevs under.
-
-**Redaktionell betydelse:** Palantirs plattformar är inte bara en fråga om myndighetskontrakt och algoritmer. De är också beroende av långvarig extern molnkapacitet. Den ekonomiska frågan är vem som kontrollerar hostingmiljön, hur data kan flyttas, vilka exitkostnader som gäller och vad som händer om kapacitet, pris eller leverantörsvillkor förändras. 5,6 md USD är ett minimiåtagande över tid, inte en omedelbar skuld eller en betalning till en myndighet.
-
-### Nya offentliga award-poster – tre olika myndighetsmiljöer
-
-**PRIMÄRKÄLLA – U.S. Army, 17 september 2026:** ett kontrakt på cirka **48,1 mn USD** tilldelades Palantir för modernisering av ammunition management. Armén beskriver en tolvmånaders basperiod med fem optionsår och en avsikt att ersätta nio äldre system. Detta är en kontraktstilldelning; den visar inte att migrering, driftsättning eller operativ effekt redan är uppnådd.
-
-**PRIMÄRKÄLLA – USAspending, 29 september 2026:** HHS/National Clinical Cohort Collaborative (N3C) tilldelade en beställning på cirka **9,7 mn USD** för en Trusted Research Environment. Detta är ett hälsodata-/forskningsspår, inte belägg för kliniska beslut som fattas av Palantir.
-
-**PRIMÄRKÄLLA – USAspending, 28 september 2026:** CISA inom DHS har en separat SaaS-beställning på cirka **32,1 mn USD**. Den ska inte sammanblandas med ICE:s migrationsärenden eller med andra DHS-kontrakt. De kontrollerade award-posterna visade inga utbetalningar vid kontrolltillfället; ett obligationsbelopp eller en tilldelning är inte bevis för att ett system är driftsatt eller att personuppgifter redan behandlas i produktion.
-
-**Källstatus:** USAspending-posterna är primära federala award-register. Fullständiga statement of work, DPIA, datakällor, användarlistor, databehandlingsvillkor och driftbevis har inte lokaliserats i denna kontroll. Oberoende bekräftelse av faktisk användning saknas därför.
-
-Källor:
-- Palantir Form 10-Q, 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-- U.S. Army ammunition management award, 17 september 2026: https://www.army.mil/article/295461/u_s_army_awards_contract_to_modernize_ammunition_management
-- HHS/N3C award record: https://www.usaspending.gov/award/CONT_AWD_7571TE26F66007_7571_75P00122A00010_7570
-- DHS/CISA award record: https://www.usaspending.gov/award/CONT_AWD_70RCSJ26FC0000028_7001_70RTAC26A00000001_7001
-
-**Öppna frågor:** leverantörsnamn och exitvillkor i det ändrade molnavtalet; fullständigt Army statement of work; HHS N3C:s datakategorier, åtkomstroller och forskningsvillkor; CISA-avtalets omfattning, användare och utbetalningsstatus. Ingen av dessa award-poster bevisar att Palantir fattar myndighetsbeslut i egen rätt.
-
-### SEC-fördjupning 11 november 2026 – segmentmix, fordringskoncentration och molnåtagande
-
-**PRIMÄRKÄLLA – Form 10-Q, rapportperiod till 30 september 2026, inlämnad 3 november:**
-
-- Tredje kvartalet: government revenue **1,1455 md USD**; commercial revenue **1,1679 md USD**. Kommersiella intäkter passerade därmed myndighetsintäkterna med cirka 22,3 mn USD under just detta kvartal.
-- Januari–september: government revenue **2,9940 md USD** mot commercial revenue **2,8875 md USD**. För de första nio månaderna kom alltså fortfarande **51 procent** av intäkterna från offentlig sektor och 49 procent från kommersiella kunder.
-- **81 procent** av intäkterna under januari–september kom från kunder i USA, 19 procent från kunder utanför USA.
-- Kund I svarade för **27 procent av kundfordringarna** per 30 september (25 procent vid utgången av 2025). Ingen enskild kund stod samtidigt för mer än 10 procent av periodens intäkter. Kundidentiteten anges inte.
-
-**Finansierings-/leverantörsberoende:** bolaget uppger att det i mars 2026 ändrade ett tredjepartsavtal för molntjänster. Avtalet innebär minst **5,6 md USD** i köpåtaganden under tio avtalsår till och med 29 februari 2036, med årliga minimibelopp mellan 268 och 979 mn USD. Detta är ett långsiktigt inköpsåtagande för molntjänster – inte redovisad skuld, inte kundintäkt och inte ett bevis för att hela beloppet redan betalats.
-
-**Redaktionell betydelse:** kvartalets kommersiella övertag får inte användas för att beskriva Palantir som frikopplat från offentlig sektor. Nio månaders mix visar fortsatt en knapp majoritet myndighetsintäkter och stark USA-koncentration. Samtidigt visar 27-procentsandelen av kundfordringarna en fordringskoncentration som inte syns i intäktsmixen. Den stora molncommitmenten gör också leverantörs- och kapacitetsberoendet konkret.
-
-Källa: Palantir Technologies, Form 10-Q, 3 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
-
-**Remaining performance obligations per 30 september 2026:** **4,9 md USD**, varav bolaget väntar sig att redovisa cirka 44 procent som intäkt under de följande 12 månaderna och 37 procent under månad 13–36. Palantir definierar detta som icke uppsägningsbar kontrakterad intäkt som ännu inte redovisats. Bolaget uppger samtidigt att många kundavtal kan sägas upp för bekvämlighet med mindre än tolv månaders varsel; sådana uppsägningsbara belopp räknas inte in i RPO. RPO är därför ett snävare mått än total deal value och ska inte blandas ihop med kassaflöde eller säkrad intäkt.
+## Primärkällor
+
+1. **Palantir Technologies, Form 10-Q**, kvartalet avslutat 30 september 2026, inlämnad 3 november 2026. Innehåller segmentintäkter, kundfordringar, molnåtagandet, kreditfaciliteten och grundarnas röstningsstruktur: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm
+2. **UK Parliament, Health and Social Care Committee**, muntlig bevisning om Department for Health and Social Care, 4 november 2026, särskilt frågor 235–250: https://committees.parliament.uk/oralevidence/18242/html
+3. **House of Commons Library**, *What’s happening with the NHS Federated Data Platform?*, 29 oktober 2026: https://commonslibrary.parliament.uk/research-briefings/cbp-12264/
+4. **UK Parliament**, skriftligt ministeruttalande om FDP och GP-data, 21 november 2023: https://questions-statements.parliament.uk/written-statements/detail/2023-11-21/hlws54
+5. **UK Parliament**, skriftligt svar om NHS FDP, Foundry-tenants, datakontroll och framtida datakategorier, besvarat 25 juni 2026: https://questions-statements.parliament.uk/written-questions/detail/2026-06-11/9247
+6. **Office for Statistics Regulation**, granskning av NHS Englands presentation av FDP-nyttor och prestationsmått, 22 juli 2026: https://osr.statisticsauthority.gov.uk/news/nhs-england-federated-data-platform-fdp-presentation-and-communication-of-information-and-performance-metrics/
+7. **MOPAC / Mayor of London**, offentligt uttalande om förlikningen och den nya UOA-upphandlingen, 14 oktober 2026: https://www.london.gov.uk/statement-mopac-and-palantir
+8. **Contracts Finder**, BCH Palantir Foundry Platform, tilldelningsnotis publicerad 6 november 2026: https://www.contractsfinder.service.gov.uk/Notice/d7a7acf6-a793-427d-a674-ee989e704974-920813
+9. **U.S. Army Capability Program Executive – Intelligence and Spectrum Warfare**, *Army Announces Move to Production for TITAN*, 1 september 2026: https://cpeisw.army.mil/2026/09/01/army-announces-move-to-production-for-titan/
+10. **U.S. Senate Committee on Homeland Security and Governmental Affairs**, nomineringar, Michael LoSapio registrerad 9 november 2026: https://www.hsgac.senate.gov/legislation/nominations/
+
+## Oberoende rapportering och kompletterande källor
+
+1. **The Guardian**, 2 november 2026, FOI-granskningen av 29 NHS-truster som uppgav att FDP inte var live eller att de inte använde apparna: https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts
+2. **The Guardian**, 9 november 2026, granskningen av Palantirs kontakter med dåvarande hälsoministern om GP-journaler: https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records
+3. **The Bureau of Investigative Journalism**, 10 november 2026, om Dame Cressida Dick som betald rådgivare och det nya polisavtalet: https://www.thebureauinvestigates.com/stories/2026-11-10/revealed-palantir-employing-cressida-dick-as-paid-adviser
+4. **Reuters**, 9 november 2026, om Michael LoSapios nominering till CISA: https://www.reuters.com/world/white-house-nominates-palantirs-losapio-lead-homeland-securitys-cyber-agency-2026-11-09/
+5. **DefenseScoop**, 1 september 2026, om TITAN:s produktionsorder och analytikerns roll vid godkännande av målnomineringar: https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/
+6. **The Times**, 6 november 2026, rapportering om en möjlig tvåårig förlängning av NHS-kontraktet: https://www.thetimes.com/uk/healthcare/article/palantir-nhs-contract-f7mcmrm0b
+7. **Reuters**, 2 november 2026, Palantirs Q3-resultat och efterfrågan på AI-programvara: https://www.reuters.com/technology/palantir-tops-third-quarter-revenue-estimates-strong-ai-software-demand-2026-11-02/
+
+## Bildförslag
+
+**Huvudbild:** En redaktionellt producerad, neutral illustration av den offentliga datakedjan: NHS-trustar, polis och försvar som separata institutioner; en gemensam analysplattform i mitten; molninfrastruktur och underleverantörer som ett eget lager. Visa tydligt att dataansvar och beslutsrätt ligger hos olika aktörer. Använd inga verkliga patientuppgifter, inga påhittade skärmbilder och ingen bild som antyder att Palantir har direkt tillgång till samtliga offentliga databaser.
+
+**Kompletterande bild:** Utsidan av brittiska parlamentet eller en bild från Health and Social Care Committee, med korrekt bildlicens och bildtext som anger datum och sammanhang.
+
+## Faktakontroll
+
+- **BEKRÄFTAT I SEC:** Q3-omsättning 2,313 md USD; global kommersiell intäkt 1,168 md USD; myndighetsintäkt 1,146 md USD; nio månaders myndighetsintäkt 2,994 md USD mot 2,887 md USD kommersiellt.
+- **BEKRÄFTAT I SEC:** minst 5,6 md USD i inköpsåtagande för tredjepartsbaserad molnhosting över tio avtalsår till februari 2036. Leverantören namnges inte i noten. Beloppet är inte en omedelbar skuld.
+- **BEKRÄFTAT I SEC:** Customer I stod för 27 procent av kundfordringarna, inte 27 procent av intäkterna. Ingen kund stod för mer än 10 procent av periodens intäkter.
+- **BEKRÄFTAT I SEC:** bolagets flerklassiga aktiestruktur och grundarnas röstningsavtal koncentrerar röstmakt till grundarna och deras närstående. Formulera inte detta som att en enda grundare ensam kontrollerar bolaget.
+- **BEKRÄFTAT I OFFENTLIGA NHS-/PARLAMENTSHANDLINGAR:** NHS England är personuppgiftsansvarig för den nationella avtalsrelationen och Palantir personuppgiftsbiträde. Lokala truster och ICB:er har egna instanser och egna kontrollansvar. Regeringen säger att olika tenants är separata och att överföring kräver uttryckligt godkännande.
+- **BEKRÄFTAT I 2023 års ministeruttalande:** GP-data skulle inte ingå i den nationella FDP-plattformen. Detta är den offentligt angivna kontrakts- och policypositionen vid tilldelningen.
+- **BEKRÄFTAT AV GUARDIANS DOKUMENTBASERADE GRANSKNING:** meddelanden visar att Palantirs brittiska ledning ville diskutera att koppla samman primärvårds- och sjukhusdata. De visar inte att GP-journaler faktiskt har integrerats.
+- **BEKRÄFTAT AV OSR:** före- och efterjämförelser utan kontroll för andra variabler visar inte orsak och verkan. NHS:s egna nyttomått måste beskrivas med denna reservation.
+- **BEKRÄFTAT I PARLAMENTETS OFFENTLIGA REGISTER:** CISA-nomineringen av Michael LoSapio har hänvisats till senatens utskott. Han är inte bekräftad genom detta besked.
+- **BEKRÄFTAT AV ARMÉN:** TITAN har gått till produktionsfas med order på totalt 192 mn USD. Armén anger automatiserade målnomineringar; DefenseScoop beskriver en mänsklig analytiker som godkännare. Inget här belägger ett självständigt autonomt vapenbeslut.
+- **INTE FASTSTÄLLT:** att The Times rapporterade tvåårig förlängning är ännu inte samma sak som en offentlig, bindande avtalsändring. Ingen sådan handling har identifierats per 12 november.
+- **INTE FASTSTÄLLT:** att samtliga sju polisstyrkor som omfattas av den gemensamma upphandlingsfunktionen är användare av BCH-avtalet. TBIJ beskriver tre styrkor; det fullständiga avropsavtalet behövs för att fastställa omfattningen.
+- **INTE FASTSTÄLLT:** att Cressida Dicks rådgivarroll inneburit lobbying eller otillbörlig påverkan. Hon förnekar lobbying; ersättning och fullständiga uppdragsvillkor är inte redovisade i det granskade materialet.
+- **INTE FASTSTÄLLT:** att CISA-nomineringen innebär en intressekonflikt eller ett nytt Palantir-kontrakt med CISA.
+
+## Öppna frågor före publicering
+
+1. Hämta det fullständiga FDP-avtalet, optionsschemat, ändringar, exitbilagor och den aktuella migreringsplanen.
+2. Begär den slutliga kontraktsöversynen, regeringens beslut och eventuella formella avtalsändringar.
+3. Få ut de fullständiga FOI-handlingarna om GP-data och jämför med NHS Englands informationsstyrningsbeslut.
+4. Begär den aktuella listan över truster som är anslutna, live, använder appar operativt respektive redovisar verifierade kliniska effekter.
+5. Begär den oberoende Imperial College-utvärderingen och metodunderlagen för NHS:s nyttopåståenden när de blir offentliga.
+6. Hämta fullständigt BCH-avropsavtal, DPIA, databehandlingsbilagor, underleverantörslista, åtkomstroller och exitvillkor.
+7. Begär Palantirs och Dame Cressida Dicks rådgivaravtal eller offentlig redovisning av ersättning och eventuella jävsarrangemang.
+8. Följ Michael LoSapios senatsförhör, ekonomiska redovisning, etikavtal och recusalplan.
+9. Begär oberoende test- och användningsunderlag för TITAN: felutfall, operativ begränsning, mänskliga godkännandesteg och revisionsspår.
+10. Försök identifiera den externa molnleverantören bakom 5,6 md USD-åtagandet genom ytterligare offentliga avtals- eller leverantörsdokument. Dra ingen slutsats utifrån partnerskap med Nebius eller andra molnbolag utan direkt belägg.
+
+**Redaktionell status:** Komplett sammanhållet granskningsutkast uppdaterat 12 november 2026. Ligger i chefredaktörens godkännandekö som PR #7. Inte godkänt för publicering, inte mergat och inte LIVE.
