@@ -102,7 +102,7 @@ I den meningen blir Thiels Antikrist inte en journalistisk etikett att sätta p�
 
 ### Nashville-föreläsningarna
 
-**OBEROENDE RAPPORTERING OM PRIMÄRMATERIAL – POLITICO, 8 oktober 2026:** Politico uppger att redaktionen fått inspelningar från Thiels slutna föreläsningar i Nashville den 28 september och 5 oktober. Enligt Politicos återgivning kritiserade Thiel Barack Obama och påve Leo XIV för att använda oro kring AI för att vinna politiskt stöd. Han kopplade motstånd mot AI-utveckling och reglering till sin egen tolkning av Antikrist och en framtida världsordning.
+**OBEROENDE RAPPORTERING OM PRIMÄRMATERIAL – POLITICO, 8 oktober 2026 (arkiverad kopia):** Politico uppger att redaktionen fått inspelningar från Thiels slutna föreläsningar i Nashville den 28 september och 5 oktober. Enligt Politicos återgivning kritiserade Thiel Barack Obama och påve Leo XIV för att använda oro kring AI för att vinna politiskt stöd. Han kopplade motstånd mot AI-utveckling och reglering till sin egen tolkning av Antikrist och en framtida världsordning.
 
 Inspelningarna har inte publicerats som fullständiga öppna ljudfiler i det material som kontrollerats här. De specifika uttalandena ska därför tillskrivas Politicos rapportering om inspelningarna, inte presenteras som en självständigt avlyssnad fullständig föreläsning. Fortune återgav samma rapportering den 15 oktober men är inte en oberoende bekräftelse av ljudmaterialet.
 
@@ -114,7 +114,7 @@ Inspelningarna har inte publicerats som fullständiga öppna ljudfiler i det mat
 
 **Källor:**
 - Peter Thiel och Sam Wolfe, *The Pope and the Antichrist*, First Things, 15 juli 2026: https://firstthings.com/the-pope-and-the-antichrist/
-- Calder McHugh, POLITICO, 8 oktober 2026: https://www.politico.com/news/2026/10/08/peter-thiel-antichrist-lectures-obama-pope-leo-00612345
+- Calder McHugh, POLITICO, 8 oktober 2026: https://archive.ph/8oXvJ
 - Fortune, 15 oktober 2026: https://fortune.com/2026/10/15/peter-thiel-antichrist-lectures-obama-pope-leo-ai-regulation/
 - First Things, *Letters—November 2026*: https://firstthings.com/letters-november-2026/
 
