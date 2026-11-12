@@ -29,6 +29,8 @@
 - **Rättslig/territoriell avgränsning:** Singapore tillämpar inte ensidiga utländska exportkontroller som sina egna, men säger att bolag verksamma i landet ska beakta andra länders exportkontroller i internationell verksamhet och att landet agerar mot brott mot Singapore-lag.
 - **Megaspeed-besked:** 12 november 2026.
 - **PARTSUPPGIFT:** Megaspeed säger att bolaget samarbetat med BIS-inspektioner och anlitat en ledande amerikansk advokatbyrå för en omfattande GPU-inventering och oberoende kontroll av exportkontrollrutiner. Inga resultat, GPU-identiteter, slutanvändare eller myndighetsgodkännanden publiceras.
+
+**Juridisk person – öppen registerfråga:** Megaspeed.AI:s sidfot anger PT Megaspeed International Indonesia, medan compliance-uttalandet är undertecknat av Megaspeed International Pte. Ltd. Registreringsnummer, ägarrelation och vilken enhet som äger GPU:erna behöver fastställas. SPF nämner separata serverleverantörsbedrägerier där fyra personer och fyra bolag åtalats 2025–2026, men namnger inte parterna och kopplar dem inte till Megaspeed.
 - **OBEROENDE BEKRÄFTELSE:** AP återger bolagets uttalande 12 november.
 - **OBEKRÄFTAD:** att inventeringen är slutförd, att BIS godkänt bolagets rutiner eller att chipavledning till viss slutanvändare är bevisad.
 - **Finansiell lead:** Lianhe Zaobao/The Business Times återger ACRA-baserade siffror om Megaspeeds tillgångar, intäkter och skulder 2023–2024. Originalutdrag ur ACRA har inte hämtats; siffrorna ska inte användas som primärverifierade förrän årsredovisningarna kontrollerats.
