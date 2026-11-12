@@ -98,3 +98,41 @@ Den offentliga informationen räcker ännu inte för att fastställa att alla ra
 - Emirates News Agency/WAM, 10 november 2026, återgivning av ADNOC-beskedet: https://www.wam.ae/en/article/c36ot7v-adnoc-logistics-services-vessel-sustained-damage
 
 **Status:** nytt granskningsutkast. Ingen publicering, merge eller LIVE-ändring.
+
+
+## Källuppdatering 12 november 2026 – trafikåterhämtning samtidigt som attackerna ökar
+
+**Händelseperiod:** oktober 2026 och de första tio dagarna i november.  
+**Publiceringsdatum:** Reuters publicerade trafikuppgifterna den 10 november och den samlade analysen den 11 november 2026.
+
+### LNG-transiterna ökar
+
+**OBEROENDE BEKRÄFTELSE – Reuters med S&P Global Energy- och Kpler-data:** 31 lastade LNG-tankfartyg lämnade Hormuz under oktober, jämfört med 23 i september. Av oktobers 31 fartyg hade 23 lastat vid Ras Laffan i Qatar och åtta vid Das Island i Förenade Arabemiraten. Reuters återger S&P Global Energys bedömning att UAE:s LNG-transiter åter nått nivåer före kriget, medan Qatars trafik ligger strax över 30 procent av nivån före kriget. Kpler registrerade 42 LNG-laster i oktober, upp från 27 i september; det är lastningar och ska inte förväxlas med antalet fartyg som faktiskt passerade sundet.
+
+Reuters noterar även två omlastningar fartyg-till-fartyg utanför Sohar i Oman. De ska följas som separata lastkedjor och inte räknas som ytterligare genomfarter genom Hormuz.
+
+### Attackfrekvensen ligger samtidigt på krigshögsta
+
+**OBEROENDE BEKRÄFTELSE – Reuters, 11 november:** Washington Institute for Near East Policy räknade 37 kommersiella fartyg som träffats under oktober, vilket Reuters beskriver som krigets värsta månad för fartygsattacker. Reuters rapporterar också att högre charterrater – över 1 miljon USD per dag – bidrar till att redare fortsätter lasta i Gulfen trots riskerna. Reuters egen genomgång av IMO-data angav att elva supertankers hade skadats fram till den 23 oktober.
+
+**PRIMÄRKÄLLA – IMO, publicerad 11 november:** IMO:s generalsekreterare uppger att organisationen har verifierat mer än 130 attacker mot internationellt handlande kommersiella fartyg och att minst 25 sjömän har omkommit. IMO-sidans publicerade text anger datumet “28 February 2016”. Det är en uppenbar datumavvikelse mot den dokumenterade konfliktstarten den 28 februari 2026 och IMO:s tidigare uttalanden. Datumfelet ska redovisas, inte tyst rättas. Reuters återger separat IMO:s sammanställning som 130 incidenter, huvudsakligen attacker, med minst 25 döda. “Incidenter” och “attacker” är inte automatiskt identiska mått.
+
+### Miljökonsekvens – Gem No.2
+
+Reuters rapporterar att oljeläckage från den skadade tankern Gem No.2 har lett till att stränder stängts i norra Förenade Arabemiraten. Reuters-verifierat bildmaterial placerade oljefilmen cirka två kilometer från Naqa'a-anläggningens intag för avsaltning. Någon stängning av anläggningen hade inte meddelats vid publicering. Detta är en riskuppgift, inte belägg för att dricksvattenproduktionen har slagits ut.
+
+### Redaktionell slutsats
+
+Oktober visar en dubbel rörelse: LNG-transiterna återhämtas, men attackerna mot kommersiell sjöfart ökar samtidigt. Ökad trafik ska därför inte beskrivas som normaliserad säkerhet. Högre fraktrater kan locka fler fartyg genom ett område där riskerna för besättning, skrov, last och kustmiljö fortfarande är höga.
+
+**Nästa kontrollpunkter:** UKMTO:s originalrapporter och IMO:s incidentregister; omantiska myndighetsbesked om navigations- och miljöincidenter; fartygsidentitet, ägare, operatör, flagg och last där dessa är offentligt belagda; uppdaterade S&P Global Energy/Kpler-transiter för november; samt eventuell stängning eller påverkan på Naqa'a-anläggningen.
+
+**Källor**
+- Reuters, 10 november 2026, LNG-transiter: https://www.reuters.com/business/energy/hormuz-lng-traffic-hits-highest-october-since-iran-war-began-2026-11-10/
+- Reuters, 11 november 2026, trafik och attacker: https://www.reuters.com/world/middle-east/hormuz-traffic-is-up-so-are-attacks-2026-11-11/
+- IMO, 11 november 2026, generalsekreterarens uttalande: https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-calls-for-enforcement-of-maritime-rules.aspx
+
+**Faktastatus**
+- **OBEROENDE BEKRÄFTELSE:** 31 LNG-fartyg i oktober och 37 fartyg träffade enligt Reuters återgivning av S&P Global Energy/Kpler respektive Washington Institute.
+- **PRIMÄRKÄLLA:** IMO:s uppgift om 130+ verifierade attacker och minst 25 omkomna; källsidans datum för konfliktstart innehåller ett uppenbart skrivfel.
+- **OBEKRÄFTAD:** att ökad LNG-trafik innebär att sjöfartssäkerheten har normaliserats; att oljeläckaget påverkat dricksvattenproduktionen.
