@@ -361,3 +361,23 @@ Källor:
 - Senator Dave McCormick, S. 3519: https://www.mccormick.senate.gov/about/legislation/?leg_page=3&leg_type=sponsored
 
 **Nästa kontroll:** Senate Banking Committee:s kalender och markup, Commerce/BIS-regler om fjärråtkomst, eventuella nya lagförslag i NDAA samt offentliga licens- och efterlevnadsbesked. Ingen slutlig lagstiftning eller exportöverträdelse påstås.
+
+
+
+## Källuppdatering 12 november 2026 – Alaska: domstolen avvisar krav på särskild lista över underkända poströster
+
+**HÄNDELSEDATUM:** domstolsbeslutet meddelades 11 november 2026. **PUBLICERINGSDATUM:** Alaska Beacon och Alaska News publicerade sina referat 11 november.
+
+Mary Peltolas kampanj begärde att Alaska skulle lämna ut en lista med namn och avslagskoder för väljare vars poströster underkänts. Alaska Superior Court avslog begäran om att staten skulle skapa och lämna ut en särskild rapport mitt under rösträkningen. Den viktiga juridiska avgränsningen är att beslutet enligt de tillgängliga referaten gäller skyldigheten att ta fram en ny rapport ur databasen; det ska inte beskrivas som ett generellt domstolsavgörande om att alla underliggande väljaruppgifter är hemliga.
+
+**PRIMÄRKÄLLA:** domstolens order är länkad som mål **3AN-26-10304CI**, order1.pdf: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10304CI/order1.pdf. PDF-filen svarade inte i denna kontrollmiljö; den fullständiga domskälsformuleringen måste därför läsas innan artikeln gör en mer långtgående juridisk tolkning.
+
+**OBEROENDE BEKRÄFTELSE:**
+- Alaska Beacon, 11 november: https://alaskabeacon.com/2026/11/11/judge-dismisses-petition-by-peltola-campaign-seeking-names-of-rejected-absentee-voters/.
+- Alaska News/AP, 11 november: https://alaskanews.com/c/alaska-news/judge-rules-alaska-neednt-show-peltolas-campaign-rejected-absentee-ballots-mid-count.
+
+**Valstatus:** efter att ytterligare 5 618 valsedlar räknats på onsdagen uppgavs Peltola ha 48,73 % och Dan Sullivan 47,13 %. Detta är ett preliminärt räkneresultat, inte certifierat slutresultat. Statens officiella sammanställning finns här: https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf. Alaska Beacon uppger att granskningsnämnderna har till 18 november och att certifiering väntas 25 november; underkända väljare ska därefter underrättas.
+
+**Betydelse:** tvisten rör insyn i vilka röster som underkänts och på vilka grunder, samtidigt som den sista senatsplatsen ännu är osäker. Den ändrar inte i sig den preliminära nationella senatsfördelningen; Alaska ska fortsatt redovisas som oavgjord tills delstatens certifiering.
+
+**Öppna frågor:** fullständig ordertext, om kampanjen överklagar, om staten lämnar ut befintliga register i annat format efter certifiering och hur många röster som återstår att granska.
