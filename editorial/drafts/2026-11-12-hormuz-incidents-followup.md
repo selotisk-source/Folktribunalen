@@ -252,3 +252,13 @@ Reuters rapporterade att den Liberiaflaggade oljetankern MT Dominica Prosperity 
 **OBEROENDE VETENSKAPLIG KONTROLL – begränsad:** UNU-INWEH:s satellitanalys från augusti identifierade två separata slickar: cirka 300 km² utanför Hallaniyatöarna i Oman och cirka 100 km² nära Qeshm/Hengam i Iran. Det bekräftar att stora oljeutsläpp i området kan dokumenteras oberoende med satellitdata, men det verifierar **inte** Greenpeaces sammanlagda 500 detektioner eller deras källattribuering: https://geilab.unu.edu/satellite-observations-reveal-extent-of-major-oil-slicks-near-iran-and-oman/.
 
 **Nästa kontroll:** hämta JMIC:s underliggande fartygsnotiser och eventuella uppdateringar för 201–204; kontrollera IMO-nummer, flaggstat, last, ägare och försäkring; begär direkt Saudi Ministry of Energy-uttalande om 9 november; jämför Houthi-anspråkets tidsstämpel med den saudiska händelsen; sök efter oberoende satellit-/SAR-data och kustmyndigheters miljöprovtagning. Ingen aktörsattribution eller miljöskadans fulla omfattning fastställs i nuläget.
+
+### Transitflöde och köbildning – JMIC 113
+
+JMIC:s 12-novembernotering anger **135 USA-assisterade/faciliterade kommersiella transiter under 96 timmar**. Separat AIS-baserad marknadsspårning som JMIC återger visar endast låga ensiffriga till låga tvåsiffriga dagliga passager som inte ingår i den amerikanska facilitationen. JMIC anger samtidigt **211 kommersiella fartyg stationära** vid större ankarplatser öster om sundet. Dessa mått kommer från olika populationer och ska inte adderas som om de vore samma trafikserie. De visar däremot att en del av trafiken rör sig genom särskilda eskort-/faciliteringsarrangemang medan en stor flotta väntar.
+
+**Avgränsning:** siffrorna är en tidsstämplad lägesbild från JMIC, inte en permanent dagsnivå. De ska jämföras med historiska normalflöden endast om AIS-metod, geografiskt område och fartygsurval matchas.
+
+### East–West Pipeline – flödesbetydelse
+
+Reuters anger att Saudiarabien under den nuvarande Hormuzstörningen leder omkring **4 miljoner fat råolja per dag** genom East–West Pipeline till Yanbu, cirka **4 % av global tillförsel**. Detta är Reuters marknads-/flödesuppgift, inte ett separat publicerat saudiskt flödesbeslut. Den begränsade pipelineincidenten 9 november och det senare Houthi-anspråket blir därför viktiga att följa, men ingen faktisk volymförlust har belagts i det material som granskats.
