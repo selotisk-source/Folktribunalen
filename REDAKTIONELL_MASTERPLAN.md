@@ -1012,7 +1012,7 @@ Alla tre PR är fortsatt DRAFT. Ingen merge och ingen LIVE-publicering har utfö
 
 ### O – Hormuz: oktobertrafik återhämtas samtidigt som attackerna når topp
 
-Reuters 10–11 november rapporterar 31 lastade LNG-tankfartyg ut genom Hormuz i oktober (23 Qatar, 8 UAE), samtidigt som Washington Institute räknade 37 kommersiella fartyg träffade under månaden. IMO anger 130+ verifierade attacker och minst 25 döda, men dess pressida har ett uppenbart skrivfel i konfliktstartens årtal (“2016” i stället för 2026); detta redovisas uttryckligen i PR #53 och researchjournalen. Ökad trafik får inte likställas med normaliserad säkerhet. PR #53 uppdaterat; DRAFT.
+Reuters 10–11 november rapporterar 31 lastade LNG-tankfartyg ut genom Hormuz i oktober (23 Qatar, 8 UAE), samtidigt som Washington Institute räknade 37 kommersiella fartyg träffade under månaden. IMO anger 130+ verifierade attacker och minst 25 döda; direktkontroll av IMO:s uttalande 11 november och rådets meddelande 6 november visar att båda anger konfliktstart 28 februari 2026. Ökad trafik får inte likställas med normaliserad säkerhet. PR #53 uppdaterat; DRAFT.
 
 
 ---
@@ -1191,7 +1191,7 @@ Forskningsloggen för denna cykel finns i [2026-11-12-breaking-watch-2119.md](ed
 - **PR #8:** uppdaterad med Greklands officiella bekräftelser 8 november om återföring av 1917-föremål till minst två institutioner; fullständig inventering av 48 objekt kvarstår.
 - **PR #31:** uppdaterad med atNorth/Enersense 130 kV-ledningar och Calentix spillvärmeprojekt; utvecklingsavtal skiljs från värmeköpsavtal och drift.
 - **PR #43:** uppdaterad med Skellefteå kommuns dnr 2026-4321 för teknikhus/transformatorstationer på Ackumulatorn 3. Sökanden framgår inte av den offentliga sammanfattningen; koppling till EdgeConneX är inte fastställd.
-- **PR #53:** uppdaterad med UAE:s återöppnade stränder, GEM NO.2, CAROLINE BEZENGI och IMO:s sannolika datumskrivfel.
+- **PR #53:** uppdaterad med UAE:s återöppnade stränder, GEM NO.2, CAROLINE BEZENGI och direktkontrollerad IMO-statistik; ingen datumavvikelse.
 - **PR #55:** uppdaterad med AI Act/AI Omnibus-tidslinjen: artikel 50 och övergångsfrist 2 december 2026; Annex III-högriskregler 2 december 2027; reglerade produkter 2 augusti 2028.
 - **PR #16:** täckningsmatris och daterad researchjournal uppdaterade.
 
