@@ -143,3 +143,29 @@ Saabs pressmeddelande: https://www.saab.com/newsroom/press-releases/2026/saab-un
 Källor:
 - Ukrainas presidentkansli, 30 juni 2026: https://www.president.gov.ua/news/ukrayina-ta-shveciya-uklali-ugodu-pro-zakupivlyu-16-vinishuv-105157
 - Saab, Q3 results 2026, 23 oktober: https://www.saab.com/newsroom/press-releases/2026/saab-q3-results-2026positioned-to-capture-growing-demand
+
+
+### Källuppdatering 11 november 2026 – Vangest industrialiserar åtta Gripen-komponenter i Portugal
+
+**Händelsedatum och publiceringsdatum:** 11 november 2026.
+
+**PARTSUPPGIFT – Saab/Vangest-avtal återgivet av Lusa:** Saab och den portugisiska industrigruppen Vangest har ingått ett långsiktigt partnerskap. Den första fasen gäller industrialisering av åtta komplexa komponenter till Gripen E/F vid Vangests anläggningar i Marinha Grande, norr om Lissabon. Saab uppger att samarbetet ska stärka Gripens internationella tillverkningsnätverk och skapa kvalificerade arbetstillfällen i regionen.
+
+**OBEROENDE BEKRÄFTELSE – begränsad:** Agência Lusa publicerade uppgifterna den 11 november kl. 15:12; Observador återger Lusa-texten och Euronews rapporterar samma dag med hänvisning till Saabs uttalande. Det är flera redaktionella återgivningar av samma företagsbesked, inte oberoende bevis på att serieproduktion redan har startat.
+
+**Vad som inte är offentliggjort:** avtalets värde, investeringens storlek, produktionsstart, produktionsvolymer, antal arbetstillfällen och vilka åtta komponenterna är. De tekniska komponentidentiteterna ska inte gissas.
+
+**Upphandlingsmässig avgränsning:** Portugal förbereder en ersättare till F-16-flottan. Gripen E är ett av alternativen, tillsammans med F-35, Eurofighter Typhoon och Rafale. Vangest-partnerskapet är inte ett portugisiskt flygplansköp, inte ett tilldelningsbeslut och inte ett bevis på att Gripen valts. Saab säger att ett framtida portugisiskt val skulle kunna öppna för ett djupare industriellt samarbete.
+
+**Källor:**  
+- Agência Lusa via Observador, 11 november 2026: https://observador.pt/2026/11/11/saab-e-portuguesa-vangest-com-parceria-para-produzir-componentes-para-cacas-gripen/  
+- Euronews, 11 november 2026: https://www.euronews.com/2026/11/11/a-portuguese-group-will-manufacture-components-for-swedish-saab-fighter-jets  
+- Saab newsroom, senaste pressmeddelanden (ingen separat Vangest-release identifierad i den hämtade listan): https://www.saab.com/newsroom/press-releases
+
+**Öppna frågor före publicering:**  
+1. Hämta det undertecknade avtalet eller ett skriftligt Saab/Vangest-faktablad med omfattning och startdatum.  
+2. Kontrollera vilka processer Vangest ska utföra och om arbetet är prototyp-, förserie- eller serietillverkning.  
+3. Begär investeringsvärde, kapacitetsvolym och sysselsättningsprognos.  
+4. Följ Portugals formella F-16-ersättningsprocess och skilj industrisamarbete från flygplansupphandling.
+
+**Redaktionell slutsats:** Detta är ett nytt steg i Gripens internationella leverantörsnätverk och i Saabs industriella närvaro i Portugal – inte en ny exportorder.
