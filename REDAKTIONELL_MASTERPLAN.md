@@ -1080,7 +1080,7 @@ Samtliga 19 huvudspår A–S har delta-screenats mot journalen 12:20. Nya substa
 
 ### Faktiska arbetsflödesuppdateringar
 
-- **PR #47 – NVIDIA/Megaspeed:** uppdaterad med Singapore Government/MHA:s officiella rättelse (ingen Singapore-utredning av Alice Huang; Megaspeed-utredningen pågår), Megaspeeds eget uttalande 12 november om BIS-inspektioner och extern GPU-inventering samt en ACRA-finansiell lead som ännu inte har primärkontrollerats.
+- **PR #47 – NVIDIA/Megaspeed:** uppdaterad med Singapore Government/MHA:s officiella rättelse (ingen Singapore-utredning av Alice Huang; Megaspeed-utredningen pågår), Megaspeeds eget uttalande 12 november om BIS-inspektioner och extern GPU-inventering samt en ACRA-finansiell lead som ännu inte har primärkontrollerats. Megaspeed.AI:s sidfot anger PT Megaspeed International Indonesia medan uttalandet är signerat av Megaspeed International Pte. Ltd.; juridisk koppling, registreringsnummer och GPU-ägande är öppna registerfrågor.
 - **PR #14 – AI-infrastrukturens kreditkedja:** kompletterad med en avgränsad korsreferens till Anthropics S-1/A-2. Anthropics 900,9 md USD i köp- och leasingåtaganden och den villkorade privata placeringen på 26 md USD hålls åtskilda från NVIDIA:s garantier, Nscales TCV och faktisk utbetalning.
 - **PR #56 – Meta/Ofcom:** nytt granskningsutkast om Ofcoms Confirmation Decision, utfärdad 9 november och publicerad 12 november. Fem överträdelser av section 135 Communications Act 2003, £450 000 i sanktion, med viktiga avgränsningar om settlement, ingen identifierad ekonomisk vinst och ingen ändring av den slutliga preliminära marknadsbedömningen.
 - **PR #40 – Anthropic IPO:** redan innehåller S-1/A-2 och full avstämning av 900,9 md USD; ingen dubblettuppdatering gjordes.
