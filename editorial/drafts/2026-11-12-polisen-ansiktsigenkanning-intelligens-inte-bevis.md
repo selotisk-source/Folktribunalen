@@ -19,6 +19,10 @@ En RFR-sökning kan ge en lista med möjliga kandidater. Den kan hjälpa en utre
 
 Det är därför allvarligt om en matchning behandlas som ett identifieringsbesked. En algoritmisk likhetspoäng kan inte ersätta en dokumenterad beviskedja. Den mänskliga kontrollen är inte en formalitet efter maskinens beslut; den är en nödvändig del av själva identifieringen.
 
+Det är viktigt att skilja mellan avsaknad av regler och bristande efterlevnad. Home Offices egen faktasida från december 2025 säger redan att en retrospektiv matchning endast är en del av underrättelseinformationen och att både en särskilt utbildad operatör och den ansvariga utredaren ska granska möjliga träffar. Om inspektörernas iakttagelser stämmer handlar problemet därför inte bara om att lagstiftningen är ofullständig, utan också om att befintliga operativa skydd inte alltid fungerar i praktiken.
+
+Home Office har också publicerat en oberoende NPL-utvärdering av RFR-algoritmen. Den beskrev vissa begränsade förhållanden där vissa demografiska grupper oftare kunde förekomma bland felaktiga kandidater. Samtidigt uppgav myndigheten att systemet hittade en korrekt match i 99 procent av sökningarna när en korrekt bild fanns i registret, vid de inställningar polisen använde. Det måttet är inte detsamma som att 99 procent av alla föreslagna träffar är korrekta. Den skillnaden måste hållas tydlig i all rapportering om träffsäkerhet.
+
 ### Registerkvaliteten är en del av rättssäkerheten
 
 Granskningen uppges också ha funnit brister i hanteringen av bilder som skulle ha gallrats. Om felaktigt kvarhållna eller felmärkta bilder ligger kvar i referensmaterialet påverkas inte bara en enskild sökning. Felet kan fortplantas till nya utredningar, skapa återkommande falska kandidater och bli svårt att upptäcka när senare handläggare litar på tidigare registreringar.
@@ -51,7 +55,8 @@ En hållbar ordning behöver åtminstone innehålla:
 - **OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 12 november om HMICFRS-granskningens fynd, inklusive risken att RFR-resultat behandlas som bevis och problem med gallrade bilder.
 - **OBEROENDE BEKRÄFTELSE / partsnära:** Liberty sammanfattade granskningen 12 november och efterlyste lagstadgade skydd. Liberty är en rättighetsorganisation med tydligt intresse i frågan.
 - **PRIMÄRKÄLLA:** Home Office, 4 november 2026, *Stronger laws for police using facial recognition technology*. Detta är regeringens aviserade reform, inte antagen lag.
-- **PRIMÄRKÄLLA:** GOV.UK:s guide *Police use of facial recognition* skiljer mellan retrospektiv, operatörsinitierad och live-ansiktsigenkänning samt beskriver nuvarande manuella kontrollsteg.
+- **PRIMÄRKÄLLA:** GOV.UK:s guide *Police use of facial recognition* skiljer mellan retrospektiv, operatörsinitierad och live-ansiktsigenkänning samt beskriver nuvarande manuella kontrollsteg och regeln att RFR-resultat endast är underrättelseinformation.
+- **PRIMÄRKÄLLA:** Home Offices sammanfattning av NPL:s oberoende testning redovisar både begränsade demografiska skillnader och 99-procentsmåttet för att hitta en befintlig korrekt match; måttet får inte beskrivas som generell precision eller andel korrekta träffar.
 - **ÖPPEN PRIMÄRKÄLLA:** HMICFRS:s fullständiga rapport/landningssida har inte kunnat hämtas direkt i denna kontroll. Den måste läggas till och läsas innan utkastet kan godkännas för publicering.
 - **ÖPPET:** vilka styrkor och vilken nationell myndighet som ingick, exakta felutfall per grupp, antal felaktiga utredningsåtgärder, registergallringens omfattning, algoritmversioner och rekommendationernas ordalydelse.
 - **AVGRÄNSNING:** Utkastet påstår inte att varje RFR-sökning är felaktig, att ett visst antal personer felaktigt gripits eller att live-ansiktsigenkänning och RFR har samma rättsliga/tekniska riskprofil.
@@ -62,5 +67,6 @@ En hållbar ordning behöver åtminstone innehålla:
 - Liberty, 12 november 2026: https://www.libertyhumanrights.org.uk/issue/retrospective-facial-recognition-report-shows-urgent-need-for-legislative-safeguards/
 - Home Office, 4 november 2026: https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology
 - GOV.UK, *Police use of facial recognition*: https://www.gov.uk/government/publications/police-use-of-facial-recognition/police-use-of-facial-recognition-a-guide-accessible-version
+- Home Office/National Physical Laboratory, *Summary: accuracy and equitability evaluation of the retrospective facial recognition algorithm*: https://www.gov.uk/government/publications/facial-recognition-technology-tests-national-physical-laboratory/summary-accuracy-and-equitability-evaluation-of-cognitec-facevacs-dbscan-id-v55
 
 **Publiceringsvillkor:** Hämta och kontrollera HMICFRS-originalrapporten, verifiera samtliga kvantitativa påståenden och begär kommentar från HMICFRS, Home Office och berörda polisstyrkor. Ingen publicering före uttryckligt chefredaktörsgodkännande.
