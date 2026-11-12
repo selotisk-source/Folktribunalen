@@ -1037,3 +1037,18 @@ Full A–S-screening genomförd och dokumenterad i [researchjournalen 10:05](edi
 - Kanonisk cykeljournal: `editorial/research/2026-11-12-breaking-watch-1106.md`.
 - Täckningsmatris: uppdaterad i samma redaktionella gren.
 - PR #14, #31, #34 och #53 uppdaterade. PR #49 om RWE/KKR fanns redan i kö. Inga merge- eller publiceringsåtgärder.
+
+
+## Breaking Watch – kontrollcykel 12 november 2026, 12:20 EET
+
+Samtliga 19 huvudspår A–S screenade mot journalen 11:06. Nya betydande belägg i F, G, N, O och Q; nytt bolagsunderlag i R. K-spåret fick nya sekundära återberättelser men inga nya registerhandlingar.
+
+- **F / PR #47:** WSJ och Reuters rapporterar att NVIDIA:s styrelse diskuterat Huangs framtid efter tidigare utredningsbesked. Ingen offentlig styrelseresolution eller ny bolagsbekräftelse identifierad. Siemens vd säger att samarbetet med NVIDIA fortsätter oavsett Huang. Uppgifter om privata relationer är inte bevis för spioneri eller informationsöverföring.
+- **G / PR #22:** UN Peacekeeping 11 november redovisar UNIFIL:s fältbild, återvändande nära en miljon, cirka 304 500 fortsatt fördrivna och skador på el-, vatten- och väginfrastruktur. Mandatets slut 31 december 2026 och planerad start för uttag i januari 2027 kvarstår; ingen efterföljande ordning är beslutad.
+- **N:** EU-kommissionens Bosnia and Herzegovina Report 2026, publicerad 4 november, dokumenterar utebliven nationell eID-lag, rekommendationen om en tillsynsmyndighet, Republika Srpskas separata tillsynsstruktur och domstolens tillfälliga suspension av personuppgiftsmyndighetens förbud mot IDDEEA:s kvalificerade e-signaturer. Ny artikelkandidat, ingen PR startad.
+- **O / PR #53:** IMO anger 134 bekräftade incidenter i Hormuz/Mellanöstern per 11 november och 25 dödsfall bland sjöfolk. IRGC:s uppgift om två supertankers 11 november är fortsatt en partsuppgift; ingen fartygsmatchning mot UKMTO 201/202.
+- **Q:** Norges försvarsmakt meddelar att JEF:s tio länder undertecknat Northern Navies Framework 11 november. Reuters rapporterar separat en politisk avsikt att arbeta mot ett gemensamt nordiskt försvarsavtal; ingen sådan traktattext eller signering har identifierats. Ny artikelkandidat, befintlig Gripen-ordning bevaras.
+- **R:** Siemens publicerade preliminära FY2026-resultat 12 november: orderintag €108,2 md, omsättning €83,4 md, fritt kassaflöde €12,1 md och digital affär €10,9 md. Smart Infrastructure prognostiseras växa 11–13 procent i FY2027; orderintag är inte levererad utrustning.
+- **K:** Dagens Barometer (AI-assisterad) och Sejfer återger kommunmötet; ingen ny lagfart, fastighetsbeteckning eller bolagsregisterhandling har tillkommit. PR #32 ändras inte.
+
+Kanonisk journal: editorial/research/2026-11-12-breaking-watch-1220.md. Täckningsmatrisen har ny A–S-rad per spår. PR #47, #53 och #22 uppdaterade i respektive granskningsgrenar. Ingen merge, ingen LIVE-publicering. Prioriteringsordningen Hormuz → Gripen över Polen → USA:s kongress → Palantir Q3 → AI-infrastrukturens kreditkedja ligger fast.
