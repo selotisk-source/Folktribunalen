@@ -127,12 +127,14 @@ Källor:
 
 **10 november – ORLEN:** bolaget meddelade i regulatoriskt meddelande nr 39/2026 att det sagt upp ett av två långtidsavtal med QatarEnergy på grund av fortsatt force majeure och uteblivna leveranser. Avtalet gällde 1 miljon ton LNG per år, cirka 15,3 TWh, oljeindexerad prissättning och uppskattat 2026-värde cirka EUR 570 miljoner. Avtalet består juridiskt i 60 dagar efter uppsägningen; det andra QatarEnergy-avtalet, gasindexerat och upp till 1 miljon ton per år till 2034, fortsätter. ORLEN säger att försörjningstryggheten inte påverkas; detta är bolagets partsuppgift och ska prövas mot faktiska alternativa volymer och lager.
 
-IMO rapporterade den 11 november över 130 attacker på handelsfartyg i regionen och minst 25 dödade sjöfolk sedan den 28 februari 2026. Separata IRGC-uppgifter om två tankfartyg som skulle ha satts ur spel är inte oberoende bekräftade. UKMTO:s separata rapport om en brand/attack nära Ras Al Khaimah ska inte blandas ihop med IRGC-påståendet.
+IMO:s incidentlista anger 134 bekräftade incidenter i Hormuz och det bredare Mellanösternområdet samt 25 dödade sjöfolk per den 11 november. IMO:s separata pressuttalande samma dag anger över 130 attacker på internationellt handlande handelsfartyg i Hormuz. Separata IRGC-uppgifter om två tankfartyg som skulle ha satts ur spel är inte oberoende bekräftade. UKMTO:s separata rapport om ett fartyg som träffades cirka 14 nautiska mil nordväst om Ras Al Khaimah den 11 november – maskinrumsbrand, besättning evakuerad, inga rapporterade skador eller utsläpp – ska inte blandas ihop med IRGC-påståendet.
 
 Källor:
 - https://www.orlen.pl/en/investor-relations/reports-and-publications/regulatory-announcements/2026/03/Regulatory-announcement-no-39-2026
 - https://www.reuters.com/business/energy/polands-orlen-ends-long-term-qatarenergy-lng-contract-over-delivery-failure-2026-11-10/
-- https://www.imo.org/en/mediacentre/pressbriefings/pages/strait-of-hormuz-update-11-november-2026.aspx
+- https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-calls-for-enforcement-of-maritime-rules.aspx
+- IMO:s bekräftade incidentlista 11 nov: https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx
+- Reuters om Ras Al Khaimah-incidenten: https://www.reuters.com/world/middle-east/vessel-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-2026-11-12/
 
 ### P. USA:s kongress och institutionella makt
 
