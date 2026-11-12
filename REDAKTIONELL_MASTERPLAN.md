@@ -1059,3 +1059,6 @@ Axios/Reuters-rapporteringen om att Trump ska ha godkänt en ny åtgärd mot mis
 
 
 F-komplettering: Reuters 12 november beskriver leverantörskedjans exponering i Taiwan och Sydkorea samt kinesiska AI-bolags sökande efter utländsk GPU-åtkomst inför möjlig amerikansk fjärråtkomstreglering. Utkastet behandlar nu även kapacitetsbokning, HBM/minne och skillnaden mellan redan producerande generationer och framtida ekosysteminvesteringar.
+
+
+N-komplettering: 12 november 2026 – AG Kokotts yttrande i C-826/24 P (Google AdSense) stöder enligt Reuters kommissionens överklagande av tribunalens 2024-upphävande av böterna på €1,49 md. CJEU:s kalender bekräftar att yttrandet var schemalagt 12 nov; det är icke-bindande och fulltexten hade ännu inte lokaliserats i InfoCuria. Nästa kontroll: publicering av yttrandet och kommande slutlig dom.
