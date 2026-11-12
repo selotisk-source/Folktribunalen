@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Breaking Watch: täckningsmatris
 
 **Ursprunglig kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
-**Senaste delta-screening:** 12 november 2026, 19:10 Europe/Sofia
+**Senaste delta-screening:** 12 november 2026, 20:08 Europe/Sofia
 **Omfattning:** A–S, 19 huvudspår  
 **Metod:** riktad kontroll av nya händelser, myndighets- och bolagsdokument, primärmaterial samt oberoende rapportering. Statusen skiljer mellan ny händelse, ny dokumentuppgift och äldre kontrollpunkt.
 
@@ -1178,3 +1178,30 @@ Samtliga huvudspår A–S screenade mot föregående journal 12:20. Substantiell
 
 ### Arbetsflöde
 Uppdaterade befintliga utkast: PR #53 (Hormuz), #47 (NVIDIA governance), #14 (AI-finansiering), #31 (Norge/datacenter), #34 (Urbergsskölden), #38 (Synkronicitet), #28 (Thiel), #57 (ansiktsigenkänning). PR #10 innehåller redan Colom/55-sätesuppgiften; PR #32 innehåller redan Bergs-mötet; PR #52 innehåller redan Siemens Energy FY2026. Inga PR:ar mergades, ingen artikel publicerades och ingen LIVE-kontroll genomfördes.
+
+
+## Delta-screening 12 november 2026, 20:08 EET
+
+| Spår | Nytt i denna cykel | Källstatus | Nästa kontrollpunkt |
+|---|---|---|---|
+| A | Ingen ny Palantir-affär; Nebius 6-K upprepar partnerskapet från 8 september. | PRIMÄRKÄLLA för Nebius-uppgiften; inget nytt Palantir-beslut. | Palantir Q3/10-Q och myndighetskontrakt. |
+| B | Siemens preliminära Q4 visar global datacenterorderstock över 7 md euro enligt CFO-samtal; Nebius flyttar tredjepartskapacitet till H1 2027. | Siemens-release primär; 7 md euro/70-30 är management statement i samtalstranskript; Reuters oberoende. Nebius 6-K primär. | Driftsatta MW, nätanslutning och orderkonvertering. |
+| C | Fulltext av Kotler–Mannino–Friston–Kelso hämtad; review, inte experimentellt bevis. | PRIMÄRKÄLLA: OUP/PubMed/PMC. | Oberoende replikation och förregistrerade tester. |
+| D | Ingen ny arkeologisk rapport. | Ingen ny primärhandling identifierad. | Sarkofag Gamma och laboratorieresultat. |
+| E | Ingen ny koncessions-/tillstånds- eller CRMA-investering som passerar tröskeln. | SGU/GTK/CRMA-delta kontrollerad. | Permitstatus och projektvisa finansieringsbeslut. |
+| F | Nebius Q3: 980,8 m USD intäkter, 7,3 md capex, 14,19 md skuld, 9,41 md deferred revenue; 75–85 % av 2027 capex väntas finansieras med förskott/asset-backed. | PRIMÄRKÄLLA: SEC 6-K; Reuters oberoende om prognos och försening. | Drawdowns, säkerheter, kundförskott och levererad effekt. |
+| G | Ingen ny verifierad kyrko-/kulturarvshändelse. | Ingen ny primärhandling. | UNIFIL/OCHA och kyrkoarkiv. |
+| H | Ingen ny restaurerings-/ägandehandling. | Ingen ny primärhandling. | Stadsspecifika kulturarvsregister. |
+| I | Ingen ny mark-/skogs-/hästkulturhandling. | Ingen ny primärhandling. | SGU/RAÄ, skog och rättigheter. |
+| J | Ingen ny Thiel-primärtext eller folkloristisk handling. | Ingen ny primärhandling. | Fullständiga transkript och arkiv. |
+| K | Ingen ny lagfart eller fastighetsbeteckning; sekundär WUA-text ger inte registerbelägg. | Registerstatus oförändrad. | Lantmäteriet, Bolagsverket, JO/ISP. |
+| L | Ingen ny kapellhandling. | Ingen ny primärhandling. | RAÄ, länsstyrelse och pastorat. |
+| M | Ingen ny Athos-katalog eller donationspost. | Ingen ny primärhandling. | Offentliga bibliotekskataloger. |
+| N | HMICFRS:s RFR-granskning publicerad med 16 rekommendationer; full rapportlänk fortfarande blockerad. | HMICFRS-notis primär; Police Professional/Guardian sekundära. | Hämta originalrapport och kontrollera rekommendationerna. |
+| O | JMIC 113: 181 incidenter sedan 1 mars och fyra nya 201–204; tre fartyg namngivna. Pipelineuppgift och satellitbaserad spillanalys tillkom. | UKMTO/JMIC primär; Reuters/Guardian oberoende; spilltotalen ej oberoende reviderad. | IMO-nummer, Saudi-uttalande, SAR och miljöprov. |
+| P | Alaska-domstolen avslog krav på särskild rapport om underkända poströster; Peltola 48,73 %, Sullivan 47,13 % i preliminär räkning. | Domstolsorder länkad men ej hämtad; Alaska Beacon/AP oberoende. | Full order, överklagande och certifiering. |
+| Q | UK åtar sig tre norska standardfartyg för obemannad minröjning, första leverans 2031; separat från JEF-ramverket. | PRIMÄRKÄLLA: UK MoD, Royal Navy och Forsvaret; Nordic Defence Sector/UKDJ oberoende. | MCPF-kontrakt, P1118-byggtender och JEF-text. |
+| R | Siemens AG preliminär Q4 och datacenterorderstock; Saudi East–West Pipeline korskopplas från O. | PRIMÄRKÄLLA/management statements; Reuters oberoende. | Slutlig Siemensrapport och pipelinebekräftelse. |
+| S | Ingen ny CRMA/GTK/Onkalo/STUK-händelse. | Ingen ny primärhandling. | STUK-inspektion, GTK RAKKA och Bergsstaten. |
+
+**Arbetsflöde:** PR #14, #31, #10, #38, #53 och #57 uppdaterade; PR #58 skapad som senare Q-kandidat. Ingen merge eller publicering. Full journal: [2026-11-12-breaking-watch-2008.md](2026-11-12-breaking-watch-2008.md).
