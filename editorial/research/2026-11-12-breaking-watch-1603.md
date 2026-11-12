@@ -48,7 +48,7 @@ Ingen ny arkeologisk rapport eller utgrävningspublicering hittades i denna cyke
 
 ### E. Strategiska råvaror och mineraler
 
-EU-kommissionen godkände den 9 oktober 46 nya strategiska projekt under CRMA i 16 medlemsstater. Totalt anger kommissionen nu 106 projekt med strategisk status. Statusen kan underlätta tillståndsprocesser och finansieringskontakter men är inte i sig ett gruvtillstånd, en mineralreserv, ett investeringsbeslut eller EU-finansiering. Viscaria och projekt i Finland ingår i den nya vågen. Viscarias Q3-rapport den 5 november beskriver fortsatt arbete med finansieringsprocessen; lånefinansiering på upp till cirka SEK 3,9 miljarder är inte samma sak som slutligt kreditavtal eller utbetalt kapital.
+EU-kommissionen godkände den 9 oktober 46 nya strategiska projekt under CRMA i 16 medlemsstater. Det ger 93 projekt inom EU (47 i den första EU-vågen plus 46 nya); därutöver finns 13 strategiska projekt i tredjeländer. Summan 106 avser alltså EU-projekt och tredjelandsprojekt tillsammans, inte 106 projekt inom EU. Statusen kan underlätta tillståndsprocesser och finansieringskontakter men är inte i sig ett gruvtillstånd, en mineralreserv, ett investeringsbeslut eller EU-finansiering. Viscaria och projekt i Finland ingår i den nya vågen. Viscarias Q3-rapport den 5 november beskriver fortsatt arbete med finansieringsprocessen; lånefinansiering på upp till cirka SEK 3,9 miljarder är inte samma sak som slutligt kreditavtal eller utbetalt kapital.
 
 Källor:
 - https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
