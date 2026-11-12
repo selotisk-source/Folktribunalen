@@ -1,7 +1,7 @@
 # VEM FÅR ELEKTRICITETEN? NORGE SÄTTER GRÄNSER FÖR AI-INDUSTRINS NÄTANSLUTNING
 
 **Artikeltyp:** Energi- och industrigranskning · digital infrastruktur · offentlig politik  
-**Faktaläge:** 11 november 2026, 22:53 EET  
+**Faktaläge:** 12 november 2026, 07:15 EET  
 **Publiceringsstatus:** Redaktionellt utkast – inte godkänt för publicering  
 **Geografiskt fokus:** Norge, med europeiska konsekvenser
 
@@ -245,3 +245,21 @@ Källor:
 - https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
 - https://www.gov.uk/government/publications/data-centre-covenant
 - https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations
+
+## Källuppdatering 12 november 2026, 07:15 EET – återbruk av nedlagda kärnkraftverk som datacenterplatser
+
+**Händelsedatum:** 11 november 2026. **Publiceringsdatum:** 11 november 2026.
+
+E.ON:s finanschef Nadia Jakobi sade vid bolagets presentation av niomånadersresultatet att E.ON undersöker om tidigare kärnkraftverksplatser i Tyskland kan återanvändas för datacenter. Hon framhöll att vissa platser kan ha attraktiv industrimark och befintlig nätinfrastruktur, särskilt stora nätanslutningar. Jakobi sade att E.ON tar ett första steg tillsammans med NVIDIA för att bedöma genomförbarheten.
+
+**Källstatus:** **PARTSUPPGIFT** för E.ON:s och NVIDIA:s genomförbarhetsarbete, återgiven i Reuters rapportering från presentationen. **OBEROENDE BEKRÄFTELSE** av att uttalandet gjordes: Reuters, 11 november. **PRIMÄRKÄLLA** för E.ON:s finansiella läge: bolagets niomånadersmeddelande, publicerat 11 november, redovisar 7,1 miljarder euro i justerad EBITDA, 2,2 miljarder euro i justerat nettoresultat och 5,2 miljarder euro i investeringar under årets första nio månader; 4,2 miljarder euro av investeringarna låg i nätverksamheten. Bolaget bekräftade sin helårsprognos.
+
+Detta är **inte** ett beslutat datacenterprojekt. Inga specifika kärnkraftverk, effektvolymer, kunder, markavtal, investeringsbudgetar, nätanslutningsavtal, miljöbeslut eller byggtidplaner offentliggjordes i det rapporterade uttalandet. E.ON:s bolagsinvesteringar i elnät är inte finansiering av ett sådant datacenterprojekt. En befintlig anslutning kan minska en del av anslutningsarbetet men bevisar inte att kapaciteten är ledig, att överföringsnätet klarar den nya lasten eller att nedmontering och miljökrav är lösta.
+
+**Betydelse för Norge och Europa:** detta är ett jämförelsefall till Statnetts norska kapacitetspaus. En möjlig strategi är att återanvända industrimark och tidigare nätanslutningar i stället för att bygga helt nya anslutningspunkter. Men utan platsvisa data om nätkapacitet och driftsäkerhet går det inte att säga att den modellen kan kopieras till Norge eller att den löser den europeiska effektbristen.
+
+**Nästa kontrollpunkt:** E.ON/PreussenElektras ursprungliga samarbetsbesked med NVIDIA, eventuella platsvisa förstudier, avvecklingsstatus och fastighetsbeslut, nätägarens kapacitetsbedömning samt eventuella tillståndsansökningar. Håll denna feasibility review åtskild från ett investeringsbeslut eller en bindande datacenterbeställning.
+
+Källor:
+- Reuters, 11 november 2026: https://www.reuters.com/business/energy/eon-reviews-former-german-nuclear-sites-data-centres-2026-11-11/
+- E.ON, niomånadersresultat och pressmeddelanden 2026: https://www.eon.com/en/about-us/media/press-release/2026.html
