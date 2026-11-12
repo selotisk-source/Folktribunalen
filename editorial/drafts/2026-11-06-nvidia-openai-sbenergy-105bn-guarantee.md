@@ -708,3 +708,16 @@ Källor:
 - Reuters, 26 januari 2026: https://www.reuters.com/technology/nvidia-invests-2-billion-coreweave-expands-partnership-2026-01-26/
 - CoreWeave SEC Exhibit 99.1, 10 november 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm
 - CoreWeave Q3 earnings call transcript, capex definition: https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-q3-2026-earnings-031911891.html
+
+
+### Anthropic S-1/A-2 – separat kapital- och åtagandeben i samma AI-kedja
+
+**PRIMÄRKÄLLA – SEC, 10 november 2026:** Anthropics Amendment No. 2 till Form S-1 redovisar cirka **900,9 md USD** i samlade köp- och leasingåtaganden för compute och infrastruktur. Cirka **451,6 md USD** väntas belasta före 31 december 2030 och cirka **70,7 md USD** under de tolv månaderna efter 30 september 2026. Beloppen omfattar flera typer av köpåtaganden, kortfristiga avtal och leasing, även leasing som ännu inte börjat löpa. De ska inte beskrivas som en omedelbar skuld eller som redan utbetalt kapital. Prospektet anger också att delar omfattas av villkor eller uppsägningsrätt.
+
+Samma prospekt anger en **villkorad privat placering på 26 md USD** i icke-röstberättigade Class N-aktier, som ska stänga först efter att IPO:n genomförts och vissa villkor uppfyllts. NVIDIA och Google har vardera åtagit sig cirka 10 md USD, AMD 2,5 md USD, Broadcom, Micron och Microsoft vardera 1 md USD samt TSMC Partners cirka 0,5 md USD. NVIDIA:s placering är en aktieinvestering i Anthropic – **inte** en garanti för Anthropics 900,9 md USD i köp- och leasingåtaganden.
+
+**Korskoppling till PR #40:** Den separata Anthropic-artikeln gör den fullständiga avstämningen av 900,9 md USD, villkorade belopp, leasing som ännu inte startat, finansieringsramar och IPO-villkor. Denna artikel använder uppgifterna endast för att visa hur leverantörs-, kund- och investerarrelationer möts i samma AI-ekosystem.
+
+**Redaktionell avgränsning:** Anthropic-placeringen får inte läggas till NVIDIA:s 105 md USD-garantier eller Nscales TCV som om det vore samma kapitalflöde. Placering, leasing, garanti, kontraktsvärde och faktisk utbetalning är olika ekonomiska kategorier.
+
+Källa: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
