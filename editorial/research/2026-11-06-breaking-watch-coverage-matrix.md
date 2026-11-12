@@ -1089,3 +1089,6 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 
 
 **F – komplettering 12 nov 12:20:** Reuters leverantörsrapport 12 nov beskriver Taiwan-/Sydkorea-leverantörers scenarier vid möjligt vd-byte, regional aktiereaktion och kinesiska AI-bolags oro för kommande amerikanska fjärråtkomstkontroller. Motargument: kortsiktiga chipvolymer och 2027-kundplaner kan vara mindre beroende av vd än framtida ekosysteminvesteringar. Källa: Reuters 12 nov.
+
+
+**N-komplettering 12 nov 12:20:** CJEU:s kalender anger AG Kokotts yttrande i Commission v Google and Alphabet (Google AdSense), C-826/24 P, 12 nov. Reuters rapporterar att yttrandet stöder kommissionens överklagande av tribunalens upphävande av €1,49 md böter. Icke-bindande; slutlig dom återstår. Fulltexten var inte lokaliserad i InfoCuria vid kontrollen.
