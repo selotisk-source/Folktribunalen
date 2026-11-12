@@ -92,7 +92,7 @@ Resultaten visar liknande nivåer av rapporterad synkronicitetsmedvetenhet och m
 Källor:
 - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1609435/full
 - https://link.springer.com/article/10.1007/s12304-026-09663-z
-- https://academic.oup.com/nc/article/2026/1/niag063/8943654
+- https://doi.org/10.1093/nc/niag063
 
 ## D – Sofia – staden under staden
 
