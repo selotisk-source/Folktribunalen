@@ -314,3 +314,19 @@ Nebius Q3-rapportering den 12 november ger ett konkret exempel på glappet mella
 **OBEROENDE BEKRÄFTELSE:** Reuters, 12 november: https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-strong-ai-demand-2026-11-12/.
 
 Denna jämförelse används endast för att visa att leveransförseningar kan uppstå mellan kontrakt, temporär el, permanent nätanslutning och intäktsstart. Den säger inget direkt om norska Statnett-köer eller enskilda norska projekt.
+
+## Svensk jämförelse 12 november 2026 – atNorth, nätförstärkning och spillvärme
+
+**PRIMÄRKÄLLA – Enersense, 3 november 2026:** Enersense tecknade två kraftledningskontrakt med E.ON Energidistribution till ett sammanlagt värde av cirka **15 miljoner euro**. Det ena avser två nya 130 kV-luftledningar, vardera cirka 2,5 km, mellan Hamre och Nässe i Sollefteå kommun. Arbetet ska stödja den regionala nätinfrastrukturen för atNorths planerade **300 MW** datacentercampus vid Hamre Industrial Park. Den delen ska enligt Enersense färdigställas i mars 2029. Det andra kontraktet avser upprustning av en befintlig ledning mellan Hoting och Flybäcken i Jämtland och ska hållas åtskilt från datacenterprojektet.
+
+**PARTSUPPGIFT / projektutvecklaruppgift – Calentix, aktuell status november 2026:** atNorth och Calentix har tecknat ett projektutvecklingsavtal för återvinning av spillvärme från atNorth SWE04 i Långsele. Calentix anger att projektet befinner sig i kommersiella förhandlingar (steg 5 av 8). Första fasen planeras återvinna 1,6 MW värme till Långseles fjärrvärmenät; en möjlig utbyggnad till omkring 20 MW är en framtida potential, inte ett avtalat leveransutfall. Värmeavtal siktar på 2027, investeringsbeslut följer därefter och första värmeleverans är målsatt till Q2 2029.
+
+**Oberoende kontroll:** Enersense är kontraktspart och primärkälla för ledningsordern. Calentix är projektutvecklare och primärkälla för sin egen projektstatus. Någon oberoende bekräftelse på byggstart, faktisk nätkapacitet, driftsatt värmeåtervinning eller bindande värmeköpsavtal har inte identifierats.
+
+**Analytisk betydelse:** Den svenska jämförelsen visar att datacenterutbyggnad kräver konkreta nätinvesteringar långt före full drift. Den visar också skillnaden mellan (1) ett tecknat bygg-/nätinfrastrukturkontrakt, (2) ett utvecklingsavtal för spillvärme och (3) ett ännu ej undertecknat värmeköpsavtal/investeringsbeslut. 300 MW är planerad anläggningskapacitet, inte bevis på redan ansluten eller förbrukad effekt.
+
+Källor:
+- Enersense, 3 november 2026: https://enersense.com/mfn-news-tag/mfn/
+- Calentix, SWE04/Långsele, status november 2026: https://calentix.com/en/projects/atnorth-swe04-langsele
+
+**Nästa kontroll:** E.ON:s nätbeslut och anslutningsvillkor, bygglov/startbesked, atNorths faktiska effektreservation, Calentix värmeköpsavtal 2027 och investeringsbeslut.
