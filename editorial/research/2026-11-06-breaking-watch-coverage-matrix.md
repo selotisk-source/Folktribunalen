@@ -1031,7 +1031,7 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 |---|---|---|---|---|---|
 | A | 12 nov 11:06 | Palantir SEC/upphandlingsspår, befintligt PR #55 | Inget nytt kontrakt utöver befintligt BCH-award | Direktupphandlingsoriginal och dataansvar | Fortsatt bevakning |
 | B | 12 nov 11:06 | Stortinget Doc 8:9 S, ärendesida och höring | Formellt SV-förslag; höringsfrist 23 nov | Regeringens lagtext, kommittéutlåtande | Nytt belägg |
-| C | 12 nov 11:06 | Forskningsscreening | Ingen ny reproducerbar primärstudie | Replikation och protokollets testdesign | Ingen ny notis |
+| C | 12 nov 11:06 | McCoss, Biosemiotics, 21 sep; befintligt PR #38 | Kvalitativ salience-alignment-modell; ingen empirisk validering | Förregistrerad testdesign, basfrekvenser och blindad kodning | Teoretisk fördjupning, ingen empirisk nyhet |
 | D | 12 nov 11:06 | NAIM/Sofia-arkivscreening | Ingen ny arkeologisk primärhandling | Samuilföremålens katalog/proveniens | Ingen ny notis |
 | E | 12 nov 11:06 | Finlex 1024/1026; GTK RAKKA | Lagpaket publicerat 11 nov, i kraft 15 nov | Artikel 27-täckning och operatörsbedömningar | Nytt belägg |
 | F | 12 nov 11:06 | Oracle 10-Q; CoreWeave 8-K/99.1; NVIDIA Schedule 13G/A | Oracle 288 md USD framtida leasing; CoreWeave Q3; NVIDIA 11,5% av CoreWeave Class A | CoreWeave Q3 10-Q; 14,5 vs 9,441 md USD capex-definition; förskott och faktisk effekt | Nytt belägg |
