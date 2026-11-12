@@ -197,3 +197,7 @@ Källor:
 - CJEU:s officiella kalender: https://curia.europa.eu/site/jcms/d2_5117/en/jcms/d2_5481/en/jcms/d2_5117/de/jcms/d2_5117/lv/jcms/d2_5117/bg/
 - Reuters, 12 nov: https://www.reuters.com/world/setback-google-eu-court-adviser-backs-17-billion-antitrust-fine-2026-11-12/
 - Tribunalens dom 18 sep 2024, T-334/19: https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?num=T-334%2F19
+
+
+**Q – precisering från Reuters, 12 november kl. 09:44 UTC:** Tore Sandvik beskrev fem nordiska länders avsikt att arbeta mot ett gemensamt försvarsavtal. Den konkreta flaskhals han pekade ut är skillnader i lagar och regler som försvårar gränsöverskridande förflyttning av personal och materiel. Det är alltså en avsikt att harmonisera praktiska och rättsliga hinder, inte en redan undertecknad gemensam försvarstraktat. Den frågan bör kopplas till militär mobilitet, järnväg/väg, tull- och tillståndsregler samt nationell beslutanderätt, utan att publicera känsliga operativa rutter.
+Källa: Reuters, 12 nov 09:44 UTC: https://www.reuters.com/business/aerospace-defense/nordic-countries-work-towards-common-defence-deal-norway-says-2026-11-12/
