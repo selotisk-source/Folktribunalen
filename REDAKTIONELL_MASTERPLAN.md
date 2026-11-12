@@ -1068,3 +1068,6 @@ Q-komplettering: Reuters 12 november kl. 09:44 UTC preciserar att den rapportera
 
 
 B/R-komplettering: Siemens presenterade 11 november en rostfri direkt-till-chip-vätskekylventil för AI-datacenter; detta är en produktlansering, inte bekräftade kundorder. Den 9 november tecknade Siemens ett sexårigt Gridscale X-kontrakt med Kärnten Netz för digital tvilling av elnätet, trängselprognoser och flexibilitetshantering. Kontraktsvärde och realiserad MW-volym är inte offentliggjorda. Båda uppgifterna har lagts till i 12:20-journalen som primära bolagsuppgifter.
+
+
+N-komplettering: CJEU:s kalender visar även förhandlingar 12 november i Commission v Meta Platforms Ireland (C-744/25 P) och Commission v TikTok Technology (C-745/25 P) om rättslig grund för metoden att beräkna DSA:s tillsynsavgifter. Detta är en processuell milstolpe, inte ett avgörande. Följ domstolens senare dom och om metoden måste anges i delegerad akt.
