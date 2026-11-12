@@ -637,3 +637,47 @@ Två olika företeelser ska följas parallellt: NVIDIA:s direkta investeringar o
 - **PRIMÄRKÄLLA:** 3,3 miljarder USD i equity-method-investeringar och 4,7 miljarder USD i maximal förlustrisk för VIE-investeringarna.
 - **OBEROENDE RAPPORTERING:** ING:s erbjudande om en låneportfölj på cirka 500 miljoner USD; uppgiften bygger på Bloomberg-källor och är inte bekräftad av ING.
 - **OBEKRÄFTAD:** försäljningspris, rabatt, låntagarnas betalningsstatus och eventuell koppling mellan enskilda lån och NVIDIA:s garantier.
+
+
+
+## Källuppdatering 12 november 2026, 11:06 EET – Oracle och CoreWeave: åtaganden, skuld och kundfinansiering
+
+### Oracle: 288 md USD i framtida datacenterleaser
+
+**PRIMÄRKÄLLA – Oracle Form 10-Q, inlämnad 11 september 2026, period avslutad 31 augusti 2026.**
+
+- Oracle redovisar **288 md USD i ytterligare leasingåtaganden**, i huvudsak kopplade till datacenter. De väntas i allmänhet börja löpa mellan Q2 FY2027 och FY2029, med löptider på **15–19 år**. Per 31 augusti var dessa åtaganden inte upptagna i balansräkningen eller i tabellen över befintliga leasingförfall.
+- Redan redovisade leasingskulder var **34,621 md USD** för operationella leasingavtal och **9,185 md USD** för finansiella leasingavtal. Dessa ska hållas åtskilda från de 288 md USD i ännu ej startade åtaganden.
+- Oracle redovisade dessutom **34,150 md USD** i ovillkorliga inköps- och andra åtaganden med löptider om minst ett år, huvudsakligen för långsiktiga leveransarrangemang för molninfrastrukturkomponenter och kraft till datacenter.
+- Resterande prestationsåtaganden (RPO) var **664 md USD**. Oracle anger att cirka 13 procent väntas redovisas som intäkter inom 12 månader, 37 procent under månaderna 13–36 och 34 procent under månaderna 37–60; resten därefter. RPO är inte kontanter, omedelbar omsättning eller en garanti för att alla projekt levereras enligt plan.
+- Oracle tog emot **11,4 md USD** i kundförskott med en betydande finansieringskomponent under kvartalet. Bolaget uppger också att vissa långfristiga kundbetalningsplaner finansieras och att fordringar normalt säljs utan regress till finansinstitut inom 90 dagar; 652 m USD i sådana fordringar såldes under kvartalet.
+- Som kassaflödeskontext redovisade Oracle 28,5 md USD i investeringar i anläggningstillgångar och 23,1 md USD i operativt kassaflöde under kvartalet. Bolaget tog samtidigt in 19,9 md USD genom sitt ATM-aktieprogram. Detta visar flera finansieringskanaler; det bevisar inte att samtliga framtida leasingåtaganden redan är finansierade eller utbetalda.
+
+**Redaktionell slutsats:** Oracles 288 md USD är framtida, ännu ej startade leasingåtaganden – inte befintlig bokförd skuld. De ska inte summeras okritiskt med RPO, ovillkorliga inköp eller redan redovisade leasingskulder. Den centrala granskningsfrågan är hur mycket av den planerade kapaciteten som stöds av bindande kundåtaganden, hur mycket som kräver ytterligare kapital och vilka motparter som bär bygg-, el- och restvärdesrisk.
+
+### CoreWeave: Q3 visar snabb expansion med hög ränte- och investeringsbelastning
+
+**PRIMÄRKÄLLA – SEC Form 8-K och Exhibit 99.1, 10 november 2026; räkenskapskvartalet avslutades 30 september 2026.** Resultatbilagan är en bolagsrelease som bifogats 8-K; 8-K anger att den inte ska behandlas som “filed” för Section 18-ansvar. Någon Q3 Form 10-Q hade inte identifierats i EDGAR vid denna kontroll.
+
+- Intäkter: **3,661 md USD**; rörelseresultat: **207 m USD**; nettoförlust: **709 m USD**; nettoräntekostnad: **846 m USD**.
+- Balansräkningen i SEC-bilagan visar **41,600 md USD i recourse debt** och **5,273 md USD i non-recourse debt**, sammanlagt cirka **46,873 md USD** vid kvartalsslutet. Detta är beräknat från bolagets två skuldkategorier; det är inte samma sak som alla leasing- och andra åtaganden.
+- Bolagets revenue backlog var cirka **132,5 md USD**. CoreWeave definierar måttet som RPO plus andra belopp som bolaget uppskattar ska bli intäkter enligt kundkontrakt, med förbehåll för leverans och tillgänglighet. Det är därför inte liktydigt med ovillkorlig fordran eller kontanter.
+- Aktiv effekt var över **1,7 GW**, medan kontrakterad effekt var över **4,6 GW**. Skillnaden är inte i sig ett bevis på försening, men visar att kontrakterad kapacitet inte ska beskrivas som redan driftsatt.
+- Kvartalets investeringar i materiella anläggningstillgångar var **9,441 md USD**, medan operativt kassaflöde var **1,975 md USD**.
+- CoreWeave uppgav att bolaget tagit in cirka **4,2 md USD** genom konvertibla seniora obligationer, stängt en **2,6 md USD DDTL 5.5 Facility** avsedd att stödja kortare kundkontrakt och öppnat ett ATM-program för upp till 35 miljoner A-aktier.
+- Ledningen sade att bolaget väntar sig cirka **9 md USD i kundförskott och depositioner under de följande tre månaderna**. Detta är en framåtblickande förväntan, inte pengar som redan mottagits vid rapportdatumet.
+- Bolagets helårsprognos för 2026 är **37–39 md USD i capex** och **1,05–1,15 md USD i räntekostnad under Q4**.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 10 november om skulden på cirka 46,9 md USD, backlog på 132,5 md USD, capex och förväntade kundförskott. MarketWatch rapporterade 11 november om den nya finansieringsmixen och marknadens reaktion. Bolagets prognoser och backlogdefinition förblir PARTSUPPGIFTER.
+
+**Redaktionell slutsats:** CoreWeaves expansion finansieras genom en kombination av skuld, konvertibler, kreditfaciliteter, kundkontrakt, kundförskott och löpande kassaflöde. Den viktigaste risken är inte att backlog automatiskt blir skuld, utan att leverans av aktiv effekt, kundernas betalningar, räntor och investeringsbehov måste samordnas. En stor kontrakterad backlog kan samexistera med hög finansierings- och genomföranderisk.
+
+### Källor och nästa kontroll
+- Oracle SEC Form 10-Q, 11 september 2026: https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm
+- CoreWeave SEC Form 8-K, 10 november 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/0001769628-26-000461-index.htm
+- CoreWeave Exhibit 99.1: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm
+- Reuters, 10 november 2026: https://www.reuters.com/business/coreweave-beats-quarterly-revenue-estimates-ai-demand-defies-growing-doubts-2026-11-10/
+- MarketWatch, 11 november 2026: https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525
+- NVIDIA, resultatkonferens Q3 FY2027 planerad 17 november 2026: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx
+
+**Nästa kontrollpunkter:** CoreWeaves fullständiga Q3 10-Q och skuldnoter; om de förväntade 9 md USD i kundförskott faktiskt inflyter; hur mycket av DDTL-faciliteten som dragits; faktisk aktiv effekt vid årsskiftet; NVIDIAs Q3-rapport 17 november; och Oracles nästa rapportering om leasingåtaganden, finansierade kundfordringar och datacenterleveranser.
