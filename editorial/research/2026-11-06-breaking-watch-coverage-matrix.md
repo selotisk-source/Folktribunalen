@@ -1092,3 +1092,6 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 
 
 **N-komplettering 12 nov 12:20:** CJEU:s kalender anger AG Kokotts yttrande i Commission v Google and Alphabet (Google AdSense), C-826/24 P, 12 nov. Reuters rapporterar att yttrandet stöder kommissionens överklagande av tribunalens upphävande av €1,49 md böter. Icke-bindande; slutlig dom återstår. Fulltexten var inte lokaliserad i InfoCuria vid kontrollen.
+
+
+**Q-komplettering:** Reuters 12 nov 09:44 UTC anger att den nordiska avsikten fokuserar på att harmonisera lagar/regler som hindrar gränsöverskridande förflyttning av trupper och materiel. Det är en avsikt, inte ett undertecknat avtal.
