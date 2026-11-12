@@ -69,6 +69,31 @@ Operatören ska enligt förslaget rapportera ägare, plats, syfte, kapacitet, ti
 
 Skillnaden är viktig. Finland föreslår en samlad lägesbild över investeringar och resursbehov. Nederländerna visar samtidigt hur äldre tillstånd och äldre nätavtal kan skapa långvariga rättigheter även när den politiska synen på datacenter förändras.
 
+## Källuppdatering 12 november 2026 – Amsterdam i en bredare europeisk mobilisering
+
+**Händelsedatum:** 6–7 november 2026.  
+**Publiceringsdatum:** Euronews 5 november; AP och The Guardian 6 november; Le Monde 9 november.
+
+De europeiska protestdagarna ska skiljas från den separata direktaktionen vid Microsoft/Pure DC:s byggplats i Amsterdam.
+
+- **PARTSUPPGIFT – kampanjens egen redovisning:** Stop Dirty Data Centres publicerade ett program för aktionsdagarna 6–7 november med möten, marscher, teach-ins och lokala protester i flera länder. Euronews beskrev före aktionerna en koalition med över 100 grupper i 15 länder. Le Monde rapporterade den 9 november att koalitionen räknade omkring 90 aktiviteter. Detta är arrangörernas omfattningsuppgifter, inte en oberoende folkräkning av deltagare eller genomförda evenemang.
+- **OBEROENDE BEKRÄFTELSE – Amsterdam, 6 november:** AT5 återgav polisens uppgift om uppskattningsvis 150–200 gripna misstänkta för olaga intrång efter att demonstranter tagit sig in på byggområdet i Sloterdijk. AP rapporterade samma intervall och bekräftade att gripandena gällde misstänkt trespass. The Guardian beskrev direktaktionen som genomförd av gruppen Geef Tegengas.
+- **Viktig åtskillnad:** den offentliga kampanjens arrangörer vid Plimsollweg var bland andra Fossielvrij och De Goede Zaak. Den mer konfrontativa inträngningen på byggplatsen genomfördes av Geef Tegengas. Datacenter Dynamics uppgav att gruppen inte var en erkänd medlem av Stop Dirty Data Centres-koalitionen. Händelserna sammanföll geografiskt och tidsmässigt men får inte beskrivas som en och samma organiserade aktion.
+- **PARTSUPPGIFT – polisens händelsebeskrivning:** polisen uppgav enligt AT5 att demonstranter brutit sig in efter att ha fått en anvisad demonstrationsplats utanför byggområdet och en uppmaning att lämna. AT5 rapporterade även att polisen uppgav skadegörelse och misstänkt stöld av föremål. Protestörer uppgav att polis använde tårgas; det påståendet har inte verifierats genom en separat offentlig polisrapport i denna kontroll.
+- **OBEROENDE BEKRÄFTELSE – Le Monde, 9 november:** cirka 2 000 personer demonstrerade i Zaragoza enligt tidningens rapportering. Det ger ett exempel på att motståndet inte enbart gäller Amsterdam, men uppgiften ska inte generaliseras till alla europeiska orter.
+
+**Betydelse:** Protesterna för in frågor om nätkapacitet, vatten, markanvändning, lokalt samråd och demokratiskt inflytande i datacenterpolitiken. De visar ett växande organiserat motstånd, men denna kontroll har inte identifierat något nationellt moratorium eller något tillstånd som återkallats till följd av protesterna.
+
+**Öppna frågor:** bygglovs- och miljöakten för Amsterdamprojektet; den faktiska nätanslutningen och effektprofilen; vatten- och reservkraftsvillkor; polisens fullständiga händelserapport; vilka av kampanjens annonserade aktiviteter som faktiskt genomfördes; och om lokala myndigheter ändrat samråds- eller tillståndsvillkor.
+
+**Källor:**
+- Stop Dirty Data Centres, arrangörernas program 6–7 november: https://stopdirtydatacentres.eu/en/
+- AT5, 6 november 2026, polisens uppskattning 150–200 gripna: https://www.at5.nl/artikelen/240894/protest-datacenter-amsterdam-politie-treedt-op
+- AP, 6 november 2026: https://apnews.com/article/b4f3f9f368697bb37416bcb4fabdd67c
+- The Guardian, 6 november 2026: https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam
+- Le Monde, 9 november 2026: https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
+- Datacenter Dynamics, 6 november 2026: https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/
+
 ## Vad vi vet – och vad som återstår
 
 **PRIMÄRKÄLLA:** Nederländska parlamentets svar den 2 april 2026 redovisar 99 MW, tre torn, tillståndstidslinjen, full Microsoft-kapacitet, nätavtalets äldre status och avsaknaden av rapporteringskrav om datainnehåll.
