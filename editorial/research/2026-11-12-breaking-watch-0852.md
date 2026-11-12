@@ -102,7 +102,11 @@ Detta är förlängningar av undersökningstillstånd, inte nya fynd, mineralres
 
 **H.R.3978 – Nuclear REFUEL Act:** antogs i representanthuset med 397–2. Den rapporterade versionen från 5 november ändrar Atomic Energy Act:s definition av “production facility” för att undanta utrustning som kan återbearbeta använt kärnbränsle utan att separera plutonium från andra transuraner. Officiell text från Government Publishing Office: https://www.govinfo.gov/content/pkg/BILLS-119hr3978rh/html/BILLS-119hr3978rh.htm
 
-**H.R.9612 – American Enrichment Deployment Act:** antogs i representanthuset med 394–3. Den tillåter att byggnation av en urananrikningsanläggning påbörjas på egen risk innan slutlig NRC-licens, men bevarar NRC:s rätt att avslå licensen, NEPA:s tillämplighet, rätten till hearing och inspektionsbefogenheterna. Det är ett lagförslag som passerat representanthuset, inte gällande lag. Senatens behandling krävs.
+**Senatsspår:** den relaterade senatspropositionen S.2082 godkändes av EPW-utskottet 16–3 den 29 oktober 2025 och placerades på senatens lagstiftningskalender den 7 november 2026. H.R.3978 mottogs i senaten den 10 november och placerades på kalendern som Calendar No. 695. Ingen senatsomröstning om H.R.3978 har identifierats. Källor: https://www.epw.senate.gov/public/index.cfm/2025/10/epw-business-meeting_9 och https://www.husted.senate.gov/legislation/legislative-record/?leg_page=5
+
+**H.R.9612 – American Enrichment Deployment Act:** antogs i representanthuset med 394–3. Den tillåter att byggnation av en urananrikningsanläggning påbörjas på egen risk innan slutlig NRC-licens, men bevarar NRC:s rätt att avslå licensen, NEPA:s tillämplighet, rätten till hearing och inspektionsbefogenheterna. Det är ett lagförslag som passerat representanthuset, inte gällande lag. H.R.9612 mottogs i senaten den 10 november och hänvisades till EPW-utskottet.
+
+**Viktig textskillnad:** senaten har redan antagit den relaterade propositionen S.5249, MORE American Fuel Act, den 30 september 2026. H.R.9612 och S.5249 är separata lagtexter; de ska inte beskrivas som samma proposition. S.5249:s senatsbehandling bekräftas i senatens officiella sammanfattning: https://www.democrats.senate.gov/2026/09/30/wrap-up-for-wednesday-september-30-2026. H.R.9612:s egen status som mottagen och hänvisad till EPW den 10 november framgår av lagstiftningshistoriken: https://legislate.dev/bills/119/hr-9612. H.R.9612 är ännu inte lag.
 
 **Redaktionell betydelse:** två olika delar av kärnbränslecykeln påverkas – återbearbetning av använt bränsle respektive uppförande av anrikningsanläggningar. De får inte beskrivas som ett enda lagpaket eller som redan genomförda reformer.
 
@@ -133,12 +137,12 @@ EuroHPC:s officiella sida anger:
 | H Kyrkor i fem städer | Kontrollerat | Inget nytt officiellt restaurerings-, ägar- eller byggnadsbeslut. |
 | I Fennoskandien | Kontrollerat | Inget nytt primärdokument om markanvändning, hästavel eller fornminnen över notiströskeln. |
 | J Storsjöodjuret | Kontrollerat | Inget nytt historiskt vittnesmål eller geologiskt belägg. |
-| K Cladonia/Storsjö | Kontrollerat | P4 30 000 upprop; Skiftet-räknare över 33 000 men olika sidtal. KS-agenda saknar formellt Cladonia-ärende. |
+| K Cladonia/Storsjö | Kontrollerat | P4 30 000 upprop; Skiftet-räknare över 33 000 men olika sidtal. Le Monde och SVT ger olika bild av 300 ha/fastighetsförvärv; lagfart krävs. KS-agenda saknar formellt Cladonia-ärende. |
 | L Skaga kapell | Kontrollerat | Inget nytt RAÄ-/länsstyrelsebeslut eller restaureringsdokument. |
 | M Athos | Kontrollerat | Inget nytt offentligt katalog- eller proveniensdokument. |
 | N Skrift till Storebror | Kontrollerat | EES-processen och tidigare digital-ID-ärenden kvarstår; inget nytt domstolsbeslut. |
 | O Hormuz | Kontrollerat | Greenpeace satellitkartläggning >500 utsläppstillfällen; IMO:s 11 nov uppmaning om falsk flagg/dolda IMO-nummer. |
-| P USA:s kongress | Kontrollerat | H.R.3978 och H.R.9612 passerade House 9 nov; senatsbehandling återstår. Hegseth-referral och valresultat redan dokumenterade. |
+| P USA:s kongress | Kontrollerat | H.R.3978 och H.R.9612 passerade House 9 nov; relaterade senatsförslag S.2082 och S.5249 har egna separata statusar. Hegseth-referral och valresultat redan dokumenterade. |
 | Q Gripen/Europa | Kontrollerat | Saab-order och AI-agentprov redan dokumenterade; ingen ny Gripen-flygplansorder identifierad. |
 | R Strategisk energi | Kontrollerat | Två kärnbränsleförslag passerade House; ingen ny svensk energi-/Northvolt-transaktion över notiströskeln. |
 | S Urbergsskölden | Kontrollerat | Ingen ny GTK/CRMA/Onkalo-händelse över notiströskeln; koppling till E:s svenska tillståndsflöde. |
@@ -151,5 +155,5 @@ EuroHPC:s officiella sida anger:
 4. Bergsstaten: hämta de sex fullständiga förlängningsbesluten och jämför arbetsplaner, mineralangivelser och kommun-/länsstyrelseyttranden.
 5. Cladonia: Lantmäteriets lagfarter, fastighetsbeteckningar och Bolagsverkets ägar-/styrelseutdrag; skilj bolagsuppgifter från medieuppgifter.
 6. Hormuz: följ Greenpeace-kartans metodversion, kuststaters miljöundersökningar och identifierbara fartygs-/lastkedjor.
-7. H.R.3978 och H.R.9612: senatens utskottsbehandling och eventuella CRS/NRC-analyser.
+7. H.R.3978/S.2082 och H.R.9612/S.5249: jämför de separata texterna, senatens kalenderstatus och eventuella CRS/NRC-analyser.
 
