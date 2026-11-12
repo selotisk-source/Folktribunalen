@@ -146,3 +146,117 @@ Samtliga 19 huvudspår A–S har screenats. Den tydligaste nya utvecklingen är 
 - **PR #61:** nytt DRAFT om SOU 2026:58 och dagens markpolitik, placerat efter befintlig prioriteringsordning.
 
 **Ingen PR har mergats. Ingen artikel är LIVE. Webbplatsens databasbaserade godkännandekö och aktuell Render-deployment har inte kontrollerats i denna cykel.**
+
+
+
+## Ny primärkälla 13 november 2026 – CoreWeave Q3: skuld, långa leasingåtaganden och kundkoncentration
+
+**Rapportperiod:** kvartalet som avslutades 30 september 2026.  
+**SEC-inlämning:** Form 10-Q inlämnad 12 november 2026; SEC accepterade inlämningen 12 november kl. 07:20:41.  
+**Berörda spår:** F – NVIDIA, AI-finansiering och säkerheter; B – AI-datacenter.
+
+Detta är en separat finansieringskedja i AI-molnsektorn. CoreWeaves 10-Q visar inte att NVIDIA garanterar CoreWeaves skulder eller att CoreWeaves förpliktelser är NVIDIA:s skulder. CoreWeave är här ett jämförelsefall för hur GPU-moln bygger kapacitet med lån, kundåtaganden och långfristiga datahallshyror.
+
+### Vad 10-Q visar
+
+- **PRIMÄRKÄLLA:** CoreWeave redovisar total skuldsättning om **47,5 md USD** per 30 september och **5,7 md USD i outnyttjad kreditkapacitet** under revolverande och delayed-draw-faciliteter. Outnyttjad kredit är inte kassa.
+- **PRIMÄRKÄLLA:** Redovisade operativa leasingskulder uppgår till **18,7 md USD**. Därutöver hade bolaget undertecknat leasingavtal som ännu inte hade börjat löpa, med uppskattade framtida odiskonterade betalningar om **47,4 md USD**. Dessa avtal gäller främst datacenter, utrustning och kontorsbyggnader, ska börja löpa 2026–2029 och har uppskattade löptider på 7–17 år. De 47,4 miljarderna är inte en redan redovisad leasingskuld och ska inte adderas till balansräkningens nuvarande skulder som om de redan vore förfallna.
+- **PRIMÄRKÄLLA:** Resterande prestationsåtaganden (RPO) var **132,3 md USD**. Bolaget väntar sig att 36 procent ska redovisas under de första 24 månaderna, 38 procent under månaderna 25–48 och återstoden under månaderna 49–86. RPO omfattar både fakturerade och ofakturerade åtaganden. CoreWeave räknar samtidigt av uppskattad rörlig ersättning, bland annat möjliga servicekrediter vid bristande tillgänglighet, intäkter som kan skjutas upp vid leveransförseningar och kapacitet som bolaget har rätt att sälja vidare. RPO är därför inte liktydigt med garanterad kontantintäkt.
+- **PRIMÄRKÄLLA:** Två anonymiserade kunder stod för **54 procent av kvartalets intäkter** (30 respektive 24 procent). Under årets första nio månader stod samma redovisningskategorier för 59 procent. Bolaget uppger att 98 procent av intäkterna kom från kundåtaganden. Kunderna A och B får inte identifieras genom spekulation; 10-Q namnger inte dessa kunder i koncentrationstabellen.
+- **PRIMÄRKÄLLA:** **1,9 md USD** av ingående uppskjutna intäkter omklassificerades under kvartalet till kundskulder när kontrakt blev uppsägningsbara/cancellable. Det betyder inte att 1,9 md USD i kontrakt bevisligen har sagts upp. Det är en redovisningsmässig förändring som kräver uppföljning av vilka villkor och kontrakt som omfattas.
+- **PRIMÄRKÄLLA:** CoreWeave hade åtagit sig upp till **1,9 md USD** i finansiering till vissa icke-konsoliderade VIE-bolag för datacenterutveckling; **859 mn USD** var finansierade per 30 september. Bolaget säger att det inte var primär förmånstagare och därför inte konsoliderade dessa VIE:er. Maximal exponering anges till 1,9 md USD.
+- **PRIMÄRKÄLLA:** Bolaget hade köpt surety bonds om **275 mn USD** för att säkra sina skyldigheter mot en elleverantör under fyra år. **154 mn USD** hade satts i en spärrad säkerhetstrust till förmån för borgensgivarna. Dessa kan kräva ytterligare säkerhet och ta medel ur trusten för täckta förluster.
+- **PRIMÄRKÄLLA:** Försenade terminslån om **17,6 md USD** beskrivs som säkrade i tillgångar som hör till inbetalda kundkontrakt och pantsatta avtalskassaflöden, i regel från motparter med investment-grade-kreditvärdighet. DDTL 4.0 är i huvudsak non-recourse med sedvanliga undantag; övriga delayed-draw-faciliteter har moderbolagsgarantier enligt bolagets beskrivning.
+- **PRIMÄRKÄLLA:** CoreWeave uppger uttryckligen att bolaget för närvarande inte har kreditförsäkring som skyddar mot kundernas kreditrisk.
+
+### Finansieringskedjan och den redaktionella betydelsen
+
+CoreWeaves modell binder samman kundernas framtida betalningar, finansiering mot avtalskassaflöden, hårdvaru- och programvarufinansiering samt långa datahallshyror. Om en stor kund inte fullgör sina åtaganden kan bolaget samtidigt stå med kapacitet, utrustning, byggåtaganden och hyresbetalningar som inte längre täcks av motsvarande intäkter. Bolaget beskriver själv denna motpartsrisk i 10-Q.
+
+Detta är **inte i sig belägg för betalningsinställelse, insolvens eller att kunderna har lämnat avtalen**. Det är belägg för en mycket kapitalintensiv struktur med koncentrerade kunder, stora långfristiga leasingåtaganden och flera typer av säkerheter och kreditfaciliteter. Analysen måste hålla isär redovisad skuld, outnyttjad kredit, RPO, uppskjutna intäkter, uppsägningsbara kontrakt och ännu ej påbörjade leasingavtal.
+
+### Öppna frågor
+
+1. Vilka juridiska kunder motsvarar de anonymiserade kundkategorierna A och B? 10-Q ger inte underlag för att namnge dem.
+2. Vilka konkreta kontrakt blev uppsägningsbara under kvartalet och vilka villkor utlöser kundskulden?
+3. Vilka av de 47,4 md USD i ännu ej påbörjade leasingavtal får faktisk byggstart, elanslutning och driftsatt kapacitet?
+4. Hur stor del av de 17,6 md USD i delayed-draw-finansiering är knuten till respektive kund och anläggning?
+5. Hur förändras säkerhetskraven för elleverantörens surety bonds när nya anläggningar tas i drift?
+
+**Källstatus:** Endast den primära SEC-inlämningen har använts för de exakta finansiella beloppen. Ingen oberoende källa har i denna kontroll bekräftat de detaljerade notuppgifterna separat.
+
+**Primärkällor:**
+- SEC Filing Detail, Form 10-Q, inlämnad 12 november 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/0001769628-26-000465-index.htm
+- CoreWeave Form 10-Q, kvartalet avslutat 30 september 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm
+
+**Redaktionell avgränsning:** Detta är ett kompletterande jämförelsefall inom AI-infrastrukturens kreditkedja. Det får inte beskrivas som en NVIDIA-garanti, NVIDIA-skuld eller som bevis för att CoreWeave har fallerat.
+
+
+
+## Ny primärkälla 13 november 2026 – två nya undersökningstillstånd från Bergsstaten
+
+**Beslutsdatum:** 12 november 2026.  
+**Publiceringsdatum för kungörelserna:** 12 november 2026.  
+**Berörda spår:** E – strategiska råvaror; S – Urbergsskölden.
+
+### Gränsberget nr 102 – 77 880 hektar
+
+**PRIMÄRKÄLLA:** Bergsstaten beviljade den 12 november 2026 1478078 BC Ltd undersökningstillstånd för Gränsberget nr 102. Området omfattar **77 880,03 hektar** i Falu, Säters, Hedemora, Hofors och Sandvikens kommuner. Tillståndet gäller från 12 november 2026 till 12 november 2029. Ansökan kom in 5 juni 2026.
+
+Ansökan angav guld, koppar, kobolt, berggrundsjärn, molybden, nickel, silver, zink och bly. Eftersom sökanden inte begränsade ansökan beviljades tillståndet för samtliga koncessionsmineral i den aktuella lagbestämmelsen. Bergsstaten anger att bolagets planerade första steg är att sammanställa historiska data och offentlig information, därefter regional moränprovtagning och geofysiska mätningar, med eventuella borrmål som ett senare steg.
+
+Länsstyrelser och kommuner har i beslutsunderlaget lyft naturreservat, Natura 2000, våtmarker, nyckelbiotoper, rödlistade arter, vattenintressen, kulturmiljöer och friluftsliv. Dessa intressen är inte ett bevis på att prospektering redan har skett eller att en fyndighet är ekonomiskt utvinningsbar.
+
+### Lindesby nr 1004 – Boliden
+
+**PRIMÄRKÄLLA:** Bergsstaten beviljade Boliden Mineral AB undersökningstillstånd för Lindesby nr 1004, **5 523,51 hektar** i Hällefors, Nora och Lindesbergs kommuner. Tillståndet gäller 12 november 2026–12 november 2029. Ansökan kom in 4 augusti 2026.
+
+Ansökan angav zink, bly, koppar, silver och guld. Även här omfattar det beviljade tillståndet samtliga koncessionsmineral enligt den aktuella bestämmelsen eftersom ansökan inte begränsades.
+
+Beslutet innehåller ett särskilt villkor för åtgärder som kan påverka totalförsvars- och beredskapsintressen. För sådana åtgärder krävs en gällande arbetsplan; Försvarsmakten och Fortifikationsverket ska behandlas som sakägare i berörda arbetsplaner. Den offentliga beslutshandlingen ger stöd för att redovisa villkoret på denna övergripande nivå, men inga koordinater eller detaljer om skyddade anläggningar återges här.
+
+### Vad tillstånden betyder – och inte betyder
+
+- Ett undersökningstillstånd ger ensamrätt att undersöka ett område under en bestämd period. Det är **inte** en bearbetningskoncession, ett miljötillstånd, ett bygglov, en mineralreserv eller ett beslut om gruvdrift.
+- Undersökningsarbete kräver en gällande arbetsplan, delgivning till berörda rättighetshavare och föreskriven säkerhet innan arbeten startar. Andra tillstånd kan behövas enligt miljöbalken och annan lagstiftning.
+- Bergsstaten skriver i Gränsbergetbeslutet att någon avvägning mellan motstående intressen inte görs i själva prövningen av undersökningstillståndet. Det betyder inte att natur-, kultur- eller sakägarintressen saknar rättsligt skydd; de hanteras i senare arbetsplaner och tillståndsprövningar.
+- Sista dag att överklaga båda besluten är **17 december 2026**.
+
+### Källstatus och öppna frågor
+
+**PRIMÄRKÄLLA:** Bergsstatens kungörelser och fullständiga besluts-PDF:er.  
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende nyhetsrapportering om just dessa två beslut identifierades i denna kontroll.  
+**ÖPPET:** 1478078 BC Ltd:s verkliga huvudman och finansiering, eventuella överlåtelser, kommande arbetsplaner, säkerhetsbelopp, lokala yttranden och om någon överklagar före 17 december. Ingen fyndighet, resurs eller reserv har fastställts genom besluten.
+
+**Primärkällor:**
+- Bergsstaten, Gränsberget nr 102, kungörelse 12 november 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/undersokningstillstand-for-gransberget-nr-102/
+- Beslut Gränsberget nr 102: https://resource.sgu.se/bergsstaten/gransberget-nr-102-bes.pdf
+- Bergsstaten, Lindesby nr 1004, kungörelse 12 november 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/undersokningstillstand-for-lindesby-nr-1004/
+- Beslut Lindesby nr 1004: https://resource.sgu.se/bergsstaten/lindesby-nr-1004-bes.pdf
+
+
+
+### R – Jämtmassivet i Enafors: nytt batterilagerförslag, ännu inte investeringsbeslut
+
+**Händelsedatum:** 11 november 2026.  
+**Publiceringsdatum:** SVT Jämtland, 11 november 2026 kl. 05.30.
+
+**PARTSUPPGIFT via oberoende rapportering:** Sunna Group planerar enligt bolagets vd ett batterilager i ett nedlagt grustag i Enafors i Åre kommun. SVT anger en beräknad investering omkring 1 md SEK, planerad effekt 150 MW och målsättning om investeringsbeslut i slutet av 2028 samt möjlig färdigställning 2029–2030. Bolaget beskriver arbitragehandel och nätstabilisering som syften.
+
+**Statusgräns:** Företaget har inlett kontakt med Åre kommun inför en framtida bygglovsansökan. Jämtkraft utreder möjlig nätanslutning och ett samrådsunderlag ska skickas till länsstyrelsen. Inget bygglov, nätanslutningsbeslut, slutligt investeringsbeslut eller driftsatt batterilager har identifierats.
+
+**Enhetskontroll:** 150 MW är effekt, inte energikapacitet. SVT:s primärrapportering anger ingen MWh-kapacitet. En sekundär återpublicering anger 300 MWh, men den siffran saknar i denna kontroll en direkt primärkälla och används därför inte som fastställd kapacitet.
+
+**Källstatus:** PARTSUPPGIFT återgiven av SVT; ingen kommunal ansökan, Jämtkrafts nätbesked eller länsstyrelsens samrådshandling har ännu hämtats. Bevakas som ett tidigt projekt, inte som finansierad eller tillståndsgiven infrastruktur.
+
+Källa: https://www.svt.se/nyheter/lokalt/jamtland/miljardinvestering-i-batterilager-i-jamtlandsfjallen
+
+
+
+## Redaktionellt arbetsflöde – teknisk statuskontroll 13 november 2026, 01:07 EET
+
+- **GitHub:** PR #14 (AI-infrastrukturens kreditkedja), PR #34 (Urbergsskölden) och PR #60 (intern Breaking Watch-journal) har uppdaterats på sina respektive granskningsgrenar. Samtliga förblir öppna DRAFT. Ingen merge, ingen publicering och ingen ändring på huvudgrenen.
+- **Render webbtjänst:** folktribunalen-editorial finns i Frankfurt, är inte suspenderad och Render markerar senaste deployment från 4 november 2026 kl. 21:22 UTC som live. Ingen health-check-path är konfigurerad. Detta är deployment-status, inte ett end-to-end-test av API eller redaktionellt flöde.
+- **Render Postgres:** folktribunalen-db är markerad available, men dess IP-allowlist är tom. SQL-frågan från den anslutna Render-integrationen avvisades därför med beskedet att inga IP-allowlist-poster är konfigurerade. Databasen ligger på Free-plan och Render anger expiresAt 2026-12-04T21:18:55Z.
+- **API-behörighet:** repositoryns server.js visar att /api/articles och /api/submissions kräver autentiserad redaktörssession och databasanslutning. Någon autentiserad redaktörssession finns inte i denna körning. /api/health och /api/setup-status kunde inte hämtas via webbläsarverktyget.
+- **Faktisk köstatus:** de nya forskningsuppgifterna ligger i de öppna GitHub-granskningsärendena #14, #34 och #60. Ingen ny post har skrivits till den databasbaserade CMS-kön. För att kunna kontrollera och uppdatera CMS-kön krävs fungerande DB-åtkomst (IP-allowlist) och en giltig redaktörssession. Databasens planerade utgång 4 december behöver hanteras separat före dess.
