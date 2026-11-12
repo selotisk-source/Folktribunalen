@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 12 november 2026, 10.05 Europe/Sofia  
+**Version:** 12 november 2026, 13.52 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
@@ -1071,3 +1071,32 @@ B/R-komplettering: Siemens presenterade 11 november en rostfri direkt-till-chip-
 
 
 N-komplettering: CJEU:s kalender visar även förhandlingar 12 november i Commission v Meta Platforms Ireland (C-744/25 P) och Commission v TikTok Technology (C-745/25 P) om rättslig grund för metoden att beräkna DSA:s tillsynsavgifter. Detta är en processuell milstolpe, inte ett avgörande. Följ domstolens senare dom och om metoden måste anges i delegerad akt.
+
+
+
+## Breaking Watch – 12 november 2026, 13:52 EET
+
+Samtliga 19 huvudspår A–S har delta-screenats mot journalen 12:20. Nya substantiella primärhandlingar i F och N; en ny försvars-AI-uppgift i Q är ännu endast medierapporterad.
+
+### Faktiska arbetsflödesuppdateringar
+
+- **PR #47 – NVIDIA/Megaspeed:** uppdaterad med Singapore Government/MHA:s officiella rättelse (ingen Singapore-utredning av Alice Huang; Megaspeed-utredningen pågår), Megaspeeds eget uttalande 12 november om BIS-inspektioner och extern GPU-inventering samt en ACRA-finansiell lead som ännu inte har primärkontrollerats.
+- **PR #14 – AI-infrastrukturens kreditkedja:** kompletterad med en avgränsad korsreferens till Anthropics S-1/A-2. Anthropics 900,9 md USD i köp- och leasingåtaganden och den villkorade privata placeringen på 26 md USD hålls åtskilda från NVIDIA:s garantier, Nscales TCV och faktisk utbetalning.
+- **PR #56 – Meta/Ofcom:** nytt granskningsutkast om Ofcoms Confirmation Decision, utfärdad 9 november och publicerad 12 november. Fem överträdelser av section 135 Communications Act 2003, £450 000 i sanktion, med viktiga avgränsningar om settlement, ingen identifierad ekonomisk vinst och ingen ändring av den slutliga preliminära marknadsbedömningen.
+- **PR #40 – Anthropic IPO:** redan innehåller S-1/A-2 och full avstämning av 900,9 md USD; ingen dubblettuppdatering gjordes.
+- **PR #53 – Hormuz:** inga nya identifieringar eller oberoende skadebesiktningar sedan föregående cykel; miljöspåret finns redan i utkastet.
+
+### Nytt Q-spår – Frankrikes internationella försvars-AI-center
+
+Reuters rapporterar 12 november, med hänvisning till en tjänsteman, att Frankrike vill inrätta ett internationellt centrum för försvars-AI med öppning sommaren 2027 och hoppas på NATO-erkännande. Finansiering och medlemskap är inte färdigställda. Ingen offentlig inrättandehandling eller budgetpost har hittats. Uppgiften är därför PARTSUPPGIFT/OBEKRÄFTAD och har inte lyfts till ett fullständigt artikelutkast.
+
+### Täckning A–S
+
+- **Nytt med primärkälla:** F och N.
+- **Nytt men ej primärbekräftat:** Q.
+- **Tidigare betydande material som redan finns i öppna utkast:** F/B (Anthropic S-1/A-2), O (UKMTO och miljöspår).
+- **Ingen ny primärhandling som ändrar status:** A, B, C, D, E, G, H, I, J, K, L, M, P, R och S.
+
+Fullständig cykeljournal: [Breaking Watch 12 november 13:52](editorial/research/2026-11-12-breaking-watch-1352.md). Den levande täckningsmatrisen har uppdaterats.
+
+**Publiceringsordningen ligger fast:** 1 Hormuz, 2 Gripen över Polen, 3 USA:s kongress, 4 Palantir Q3, 5 AI-infrastrukturens kreditkedja. PR #56 läggs sist som ett nytt N-spår och flyttar inte någon artikel före de fem befintliga prioriteringarna. Ingen artikel har mergats, godkänts, publicerats eller markerats LIVE.
