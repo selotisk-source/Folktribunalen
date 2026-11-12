@@ -79,8 +79,17 @@ Kampanjtexten är opinionsbildning och ska inte användas som bevis för ägande
 
 Det mediala rapporterade mötet med Cladonia ska därför beskrivas som en separat kontakt mellan kommunföreträdare och bolagets representant, inte som ett beslut i kommunstyrelsen. Inget formellt kommunalt beslut om markanvändning har identifierats.
 
-**OBEROENDE BEKRÄFTELSE – Le Monde, 12 november 2026:** https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html  
-Le Monde återger den tidigare rapporterade affären om ytterligare 300 hektar som Cladonia Skog AB enligt Östersunds-Posten köpte 16 oktober. Det är ny internationell rapportering, inte ett nytt fastighetsförvärv eller en ny lagfartsbekräftelse.
+**OBEROENDE BEKRÄFTELSE – SVT Sápmi, 12 november 2026 kl. 05.30:** https://www.svt.se/nyheter/sapmi/kraik-om-techmiljardarens-markkop-ett-valdigt-stort-omrade
+SVT intervjuar Anders Kråik, renskötare i Handölsdalens sameby. Han säger att området används för renskötsel och att samebyns centrala fråga är hur marken kommer att användas och om renbete kan fortsätta. Detta är ett direkt vittnesmål från en berörd renskötare, inte ett formellt beslut från samebyns styrelse.
+
+**OBEROENDE BEKRÄFTELSE – SVT:s huvudrapportering:** https://www.svt.se/nyheter/lokalt/jamtland/techmiljardar-koper-skog-i-storsjo-kapell-i-bergs-kommun
+SVT anger att SCA sålde cirka 15 000 hektar för 240 miljoner kronor och återger Cladonias partsuppgift om varsamt skogsbruk samt att datacenterplaner saknar grund. SVT uppger också att Scandinavian Trust satte upp Cladonia Skog AB och att Alex Karp varit huvudman sedan mitten av augusti. Detta är medieuppgifter, inte ett aktuellt registerutdrag.
+
+**300 hektar – oberoende medieuppgifter:** Jaktjournalen 20 oktober rapporterar ytterligare två fastigheter om cirka 300 hektar och ett pris på fem miljoner kronor, med hänvisning till Östersunds-Posten: https://www.jaktjournalen.se/nyheter/15-000-hektar-raecker-inte-miljardaeren-koeper-mer-mark/1573001. Le Monde återger samma uppgift 12 november: https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html. Uppgiften är rapporterad av flera medier, men inget lagfartsutdrag eller primärt köpeunderlag har hämtats. Den ska beskrivas som OBEROENDE BEKRÄFTELSE av medieuppgiften, inte som PRIMÄRKÄLLA.
+
+**Pris- och ägarfrågor:** SVT anger 240 miljoner kronor för huvudaffären enligt SCA, medan flera andra medier anger 235 miljoner kronor. Skillnaden kan vara avrundning eller olika underlag; köpehandling krävs. Le Monde beskriver Karp som ensam ägare, men inget aktuellt Bolagsverksutdrag har hämtats.
+
+**ISP/Länsstyrelsen:** SVT:s professorintervju 11 november uppger att Länsstyrelsen granskat förvärvet enligt jordförvärvslagen och gett klartecken samt att ISP bedömt att affären inte påverkar svensk säkerhet negativt och därför inte inlett en FDI-granskning: https://www.svt.se/nyheter/lokalt/jamtland/professorn-om-karps-markkop-i-harjedalen-en-droppe-i-havet-jamfort-med-svenskt-skogsagande-i-baltikum. Detta är sekundärrapportering av myndighetsåtgärder; ISP:s diarienummer, beslut och Länsstyrelsens beslut har inte hämtats. Begär ut akterna innan det beskrivs som myndighetsbeslut med fullständiga skäl.
 
 **Öppet:** Lantmäteriets lagfarts-/fastighetsutdrag, Bolagsverkets aktuella ägar- och styrelseuppgifter samt skriftligt bolagsbesked saknas i denna kontroll. Alex Karp personligen, Cladonia Skog AB och eventuella andra juridiska personer ska hållas isär. Kommunens återgivning av bolagets uppgifter om rekreation/skidåkning är ett partsuttalande, inte ett bindande markanvändningsavtal.
 
