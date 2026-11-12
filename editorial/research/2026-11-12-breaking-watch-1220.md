@@ -201,3 +201,16 @@ Källor:
 
 **Q – precisering från Reuters, 12 november kl. 09:44 UTC:** Tore Sandvik beskrev fem nordiska länders avsikt att arbeta mot ett gemensamt försvarsavtal. Den konkreta flaskhals han pekade ut är skillnader i lagar och regler som försvårar gränsöverskridande förflyttning av personal och materiel. Det är alltså en avsikt att harmonisera praktiska och rättsliga hinder, inte en redan undertecknad gemensam försvarstraktat. Den frågan bör kopplas till militär mobilitet, järnväg/väg, tull- och tillståndsregler samt nationell beslutanderätt, utan att publicera känsliga operativa rutter.
 Källa: Reuters, 12 nov 09:44 UTC: https://www.reuters.com/business/aerospace-defense/nordic-countries-work-towards-common-defence-deal-norway-says-2026-11-12/
+
+
+#### B/R. Siemens – två konkreta infrastruktursignaler utöver FY2026-resultatet
+
+**11 november 2026 – PRIMÄRKÄLLA:** Siemens presenterade en ny rostfri ventil för direkt-till-chip-vätskekylning i AI-datacenter och HPC-miljöer. Bolaget säger att den möter striktare materialkrav från ledande chipstillverkare och hyperscalers och integrerar styrning, flödes-/temperaturmätning och övervakning. Detta är en produktlansering; ingen ordervolym, installerad kapacitet eller kundlista har offentliggjorts i pressmeddelandet.
+
+**9 november 2026 – PRIMÄRKÄLLA:** Siemens meddelade ett sexårigt mjukvarukontrakt med Kärnten Netz GmbH i Österrike för Gridscale X, inklusive LV Insights, LV Management och Flexibility Manager. Systemet ska skapa en digital tvilling ned till lågspänningsnätet, förutse trängsel och stödja aktivering av flexibilitetsresurser. Siemens/KNG anger att solcellskapaciteten i Kärnten väntas nästan fördubblas till 2030; detta är bolagets prognos. Kontraktsvärde, specificerad MW-kapacitet och faktisk flexibilitetsvolym redovisas inte i pressmeddelandet.
+
+**Betydelse:** den första signalen gäller kylkedjan för högdensitets-AI; den andra gäller nätets digitala förmåga att hantera distribuerad produktion och flexibilitet. De visar två skilda delar av samma infrastrukturproblem, men bevisar inte att en viss datacenteranläggning har beställt utrustningen eller att KNG redan realiserat en viss kapacitetsökning.
+
+Källor:
+- Siemens, 11 nov: https://press.siemens.com/global/en/pressrelease/siemens-new-stainless-steel-valve-expands-liquid-cooling-offering-ai-data-centers
+- Siemens, 9 nov: https://press.siemens.com/global/en/pressrelease/siemens-wins-contract-digitize-and-increase-grid-capacity-austrias-karnten-netz-gmbh
