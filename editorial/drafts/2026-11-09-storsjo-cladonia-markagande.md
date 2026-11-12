@@ -277,7 +277,7 @@ SVT intervjuar Anders Kråik, renskötare i Handölsdalens sameby. Han säger at
 **OBEROENDE BEKRÄFTELSE – SVT:s huvudrapportering, uppdaterad 3 november:**  
 https://www.svt.se/nyheter/lokalt/jamtland/techmiljardar-koper-skog-i-storsjo-kapell-i-bergs-kommun
 
-SVT anger att SCA sålde cirka 15 000 hektar för 240 miljoner kronor enligt SCA och återger Cladonias partsuppgift om varsamt skogsbruk samt att datacenterplaner saknar grund. SVT uppger att Scandinavian Trust satte upp Cladonia Skog AB och att Alex Karp varit huvudman sedan mitten av augusti. Detta är medieuppgifter, inte ett aktuellt Bolagsverksutdrag.
+SVT anger att SCA sålde cirka 15 000 hektar för 240 miljoner kronor enligt SCA. SVT uppger att Scandinavian Trust satte upp Cladonia Skog AB och att Alex Karp varit huvudman sedan mitten av augusti. Uttalandet om varsamt skogsbruk och att datacenterplaner saknar grund kommer i SVT:s rapport från en företrädare för Scandinavian Trust via mejl, inte uttryckligen från Cladonias styrelse. Detta är medieuppgifter och partsuttalanden, inte ett aktuellt Bolagsverksutdrag eller bindande markanvändningsavtal.
 
 **300 hektar – oberoende medieuppgifter:** Jaktjournalen 20 oktober rapporterar ytterligare två fastigheter om cirka 300 hektar och ett pris på fem miljoner kronor, med hänvisning till Östersunds-Posten:  
 https://www.jaktjournalen.se/nyheter/15-000-hektar-raecker-inte-miljardaeren-koeper-mer-mark/1573001
