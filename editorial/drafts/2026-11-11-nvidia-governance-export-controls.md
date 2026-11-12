@@ -236,3 +236,29 @@ Källor:
 - Reuters, 12 november 2026, Siemens vd: https://www.reuters.com/world/asia-pacific/siemens-ceo-says-cooperation-with-nvidia-will-no-be-affected-by-leadership-2026-11-12/
 - Guardian live, 12 november 2026: https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest
 - NVIDIA Board Statement, 8 november 2026: https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx
+
+### Ytterligare källuppdatering 12 november 2026 – exportkontroll, interagency-konflikt och kongressens bevarandeorder
+
+**Händelsedatum:** Situation Room/Oval Office-mötet som Axios beskriver ska ha ägt rum 5 november; Trump ska enligt Axios ha godkänt åtgärd samma dag. **Publiceringsdatum:** Axios och Reuters publicerade 11 november; Reuters publicerade även senatorernas records-preservation-uppgift 12 november.
+
+**PARTSUPPGIFT / UNDERSÖKANDE MEDIERAPPORTERING:** Axios uppger att sex högt uppsatta källor beskrivit hur president Trump den 5 november godkände en ny åtgärd mot företag som misstänks ha avlett NVIDIA-chip till Kina, men att handelsminister Howard Lutnick därefter fördröjt genomförandet. Axios beskriver en diskussion i Situation Room med Scott Bessent, Pete Hegseth, Jamieson Greer och Marco Rubio, följd av ett Oval Office-samtal där Trump enligt källorna rådgjorde med Elon Musk. Artikeln säger att åtgärden ännu inte hade genomförts när den publicerades.
+
+**OBEROENDE RAPPORTERING:** Reuters återgav Axios-uppgifterna 11 november och bekräftade därmed att anklagelserna publicerats, inte att mötesförloppet eller Lutnicks avsikt är oberoende fastställda. Reuters anger att Vita huset och Lutnicks talesperson inte omedelbart svarade. Axios anger att Commerce Department-talespersonen förnekade att Bessent konfronterat Lutnick och inte kommenterade övriga anklagelser.
+
+**PRIMÄRKÄLLA – kongressens officiella hållning:** Senate Banking Committee publicerade 9 november ett uttalande från Elizabeth Warren och Jim Banks (D/R) som kräver att Commerce agerar mot exportkontrolluckor och hänvisar till rapporterade godkännanden för hundratusentals avancerade AI-chip till Kina. Detta är en primärkälla för senatorernas politiska ståndpunkt; antalet godkända chip och påståendet om mottagare med militär anknytning är senatorernas återgivning och ska inte beskrivas som verifierad Commerce-statistik.
+
+**PRIMÄRKÄLLA – House-begäran:** House Foreign Affairs, Select Committee on China och House Intelligence-ordförandena Mast, Moolenaar och Crawford skickade 5 november en officiell begäran till Huang om en gemensam stängd briefing den 18 november. Svar eller alternativ tid begärdes senast 11 november. Det är en begäran om briefing, inte en stämning eller ett redan genomfört förhör.
+
+**OBEROENDE RAPPORTERING – Warren/Coons:** Reuters rapporterade 12 november att senatorerna Elizabeth Warren och Chris Coons skickat en bevarandebegäran till Lutnick, Rubio och Vita husets stabschef Stephen Miller om dokument och kommunikation kring chipexporter och den rapporterade underrättelseoperationen. De begärde också en kongressbriefing. Den undertecknade skrivelsen/PDF:en har inte lokaliserats direkt i denna kontroll; därför klassas innehållet som Reuters återgivning av ett primärdokument, inte som direkt kontrollerad primärkälla.
+
+**Genomförandestatus:** Reuters rapporterar att USA inte publicerat några tillägg till Entity List sedan oktober 2025. Ingen offentlig Federal Register-regel, BIS-order eller identifierad Entity List-post för Megaspeed hittades i denna kontroll. Detta visar inte att inga konfidentiella eller andra tillsynsåtgärder pågår; det visar att den rapporterade åtgärden inte har kunnat kopplas till en offentlig verkställighetsåtgärd.
+
+**Redaktionell betydelse:** Frågan är nu större än en persons styrelseposition. Den gäller om den verkställande makten kan genomföra exportkontroller som presidenten uppges ha godkänt, hur Commerce/State/Defense/Treasury samordnar end-user enforcement, och om kongressens bevarande- och briefingkrav leder till faktisk tillsyn. Håll isär beslut att agera, faktisk Entity List-ändring, licensindragning, beslag, brottsutredning och offentlig kongressbegäran.
+
+Källor:
+- Axios, 11 nov: https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls
+- Reuters, 11 nov: https://www.reuters.com/world/china/lutnick-stalled-trump-crackdown-diversion-nvidia-chips-china-axios-reports-2026-11-11/
+- Senate Banking Committee, 9 nov: https://www.banking.senate.gov/newsroom/minority/warren-banks-statement-on-nvidias-continued-export-of-advanced-ai-chips-following-reports-of-foreign-intelligence-operation
+- House Foreign Affairs Committee, 5 nov: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
+- Reuters, 12 nov, Warren/Coons: https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/
+- BIS public news index: https://www.bis.gov/news-updates
