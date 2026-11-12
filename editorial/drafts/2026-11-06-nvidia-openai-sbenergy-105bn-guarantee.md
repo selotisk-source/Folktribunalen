@@ -721,3 +721,9 @@ Samma prospekt anger en **villkorad privat placering på 26 md USD** i icke-rös
 **Redaktionell avgränsning:** Anthropic-placeringen får inte läggas till NVIDIA:s 105 md USD-garantier eller Nscales TCV som om det vore samma kapitalflöde. Placering, leasing, garanti, kontraktsvärde och faktisk utbetalning är olika ekonomiska kategorier.
 
 Källa: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+
+## Källuppdatering 12 november 2026 – NVIDIA:s ledningsskifte
+
+NVIDIA:s officiella pressmeddelande den 12 november bekräftar att Jensen Huang lämnar president-, vd- och styrelseledamotsrollerna med omedelbar verkan. Colette Kress blir interimistisk vd och behåller CFO-rollen; Harvey C. Jones blir styrelseordförande. [NVIDIA:s pressmeddelande](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition). Reuters och AP rapporterar oberoende om skiftet.
+
+**Finansiell avgränsning:** Inget i pressmeddelandet ändrar eller annullerar de tidigare redovisade AI-molnavtalen, kapacitetsåtagandena eller garantierna. Ledningsskiftet är en styrnings- och kontinuitetsrisk att bevaka, inte i sig en ny skuld, garanti, default eller uppsägning. NVIDIA uppger att kundåtaganden och produktplaner fortsätter utan avbrott; detta är en partsuppgift. Nästa kontrollpunkt är Q3-resultatet den 17 november och eventuella nya upplysningar om garantier, leverantörsåtaganden, finansiering eller ledningskontroll.
