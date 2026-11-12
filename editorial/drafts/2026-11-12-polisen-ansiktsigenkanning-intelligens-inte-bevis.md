@@ -76,3 +76,17 @@ En hållbar ordning behöver åtminstone innehålla:
 HMICFRS meddelade den 12 november att dess tematiska granskning av retrospektiv ansiktsigenkänning publicerats och omfattar 16 rekommendationer. Den fullständiga rapportlänken via HMICFRS kortlänk (https://orlo.uk/HbK4I) gav åtkomstfel i denna kontrollmiljö. Därför är rapportens exakta formuleringar och rekommendationernas ordalydelse ännu inte kontrollerade direkt mot PDF/HTML-originalet.
 
 **Källstatus:** HMICFRS:s egen publiceringsnotis är primär för att rapporten publicerats och att den innehåller 16 rekommendationer; [The Guardian](https://www.theguardian.com/uk-news/2026/nov/12/police-facial-recognition-use-criticised-in-new-watchdog-report) och [Police Professional](https://www.policeprofessional.com/news/inspectors-raise-concerns-over-police-use-of-retrospective-facial-recognition/) är sekundära för de sakliga slutsatser som tillskrivs rapporten. Utkastet ska inte framställa varje sekundärt återgivet fynd som direkt verifierat förrän originalrapporten har hämtats. Home Offices offentliga dialog och lagförslag från 4 november är förslag, inte gällande lag.
+
+
+
+## Källuppdatering 12 november 2026, 20:08 EET – HMICFRS:s 16 rekommendationer och oberoende återgivning
+
+HMICFRS:s officiella konto meddelade 12 november att den nya granskningen av **retrospective facial recognition (RFR)** innehåller **16 rekommendationer** för bättre skydd, konsekvens och tillsyn. Inspektionen gäller retrospektiv sökning i befintliga bilder, inte live facial recognition. Den fullständiga rapportlänken som HMICFRS publicerade via kortlänk, https://orlo.uk/HbK4I, kunde inte hämtas i denna kontrollmiljö; rapportens ordalydelse är därför ännu inte direkt kontrollerad mot original-PDF/HTML.
+
+**OBEROENDE BEKRÄFTELSE – Police Professional, 12 november:** https://policeprofessional.com/news/oversight-of-retrospective-facial-recognition-must-be-improved-says-hmicfrs/. Artikeln återger att HMICFRS funnit stora skillnader i styrning mellan polisstyrkor, ojämn utbildning, att vissa potentiella matchningar inte alltid följts upp med tillräcklig kompletterande utredning samt att vissa custody images som borde ha raderats fortfarande fanns tillgängliga för sökning. Den anger även 16 rekommendationer om nationell/lokal styrning, nationella standarder, konsekvent användning, tillsyn och utbildning.
+
+**OBEROENDE BEKRÄFTELSE – The Guardian, 12 november:** https://www.theguardian.com/uk-news/2026/nov/12/police-facial-recognition-use-criticised-in-new-watchdog-report. Guardian rapporterar om risker för felaktiga matchningar och diskriminerande utfall, men dessa risker måste hållas åtskilda från varje enskild utredning och från live-system.
+
+**Källstatus:** HMICFRS:s publiceringsnotis är primär för att rapporten publicerats och omfattar 16 rekommendationer. Police Professional och Guardian är sekundära för rapportens sakliga slutsatser. Det fullständiga originalet måste hämtas innan vi citerar exakta rekommendationstexter eller använder detaljerade kvantitativa påståenden.
+
+**Öppna frågor:** vilken nationell standard föreslås, vilka rekommendationer kräver lagstiftning respektive operativ vägledning, vilka myndigheter ansvarar för custody-image retention, och hur ska en matchning dokumenteras som underrättelse snarare än bevis? Begär kommentar från HMICFRS, Home Office, NPCC och berörda polisstyrkor.
