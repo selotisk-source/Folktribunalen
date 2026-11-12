@@ -48,11 +48,15 @@ Ingen ny arkeologisk rapport eller utgrävningspublicering hittades i denna cyke
 
 ### E. Strategiska råvaror och mineraler
 
-EU-kommissionen godkände den 9 oktober 46 nya strategiska projekt under CRMA i 16 medlemsstater. Det ger 93 projekt inom EU (47 i den första EU-vågen plus 46 nya); därutöver finns 13 strategiska projekt i tredjeländer. Summan 106 avser alltså EU-projekt och tredjelandsprojekt tillsammans, inte 106 projekt inom EU. Statusen kan underlätta tillståndsprocesser och finansieringskontakter men är inte i sig ett gruvtillstånd, en mineralreserv, ett investeringsbeslut eller EU-finansiering. Viscaria och projekt i Finland ingår i den nya vågen. Viscarias Q3-rapport den 5 november beskriver fortsatt arbete med finansieringsprocessen; lånefinansiering på upp till cirka SEK 3,9 miljarder är inte samma sak som slutligt kreditavtal eller utbetalt kapital.
+EU-kommissionen godkände den 9 oktober 46 nya strategiska projekt under CRMA i 16 medlemsstater. Det ger 93 projekt inom EU (47 i den första EU-vågen plus 46 nya); därutöver finns 13 strategiska projekt i tredjeländer. Summan 106 avser alltså EU-projekt och tredjelandsprojekt tillsammans, inte 106 projekt inom EU. Statusen kan underlätta tillståndsprocesser och finansieringskontakter men är inte i sig ett gruvtillstånd, en mineralreserv, ett investeringsbeslut eller EU-finansiering. Viscaria och flera projekt i Finland ingår i den nya vågen.
+
+Viscaria uppgav den 29 oktober att projektfinansieringen för återstarten av gruvan i Kiruna fortfarande genomgår teknisk, ESG-, kommersiell, juridisk och finansiell due diligence. Huvudarrangörer är ING och Société Générale; fyra till sex europeiska banker väntas ansluta, tillsammans med exportkreditinstituten Euler Hermes och Finnvera. Bolaget väntar sig kreditbeslut från huvudbankerna omkring årsskiftet och att finansieringsprocessen kan slutföras inom 90 dagar. Detta är bolagets tidsplan, inte ett undertecknat eller utbetalt lån. Q3-rapporten den 5 november redovisade SEK 1,471 miljarder i kassa per 30 september, noll nettoomsättning och en kvartalsförlust efter skatt på SEK 21 miljoner.
 
 Källor:
 - https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en
 - https://www.reuters.com/business/aerospace-defense/european-commission-picks-46-new-strategic-critical-mineral-projects-2026-10-09/
+- Viscaria, finansieringsuppdatering 29 oktober: https://mfn.se/a/viscaria/viscaria-provides-update-on-project-financing-process.iframe
+- Viscaria, Q3-rapport 5 november: https://mfn.se/a/viscaria/interim-report-july-september-2026.iframe
 
 ### F. NVIDIA, AI-finansiering och säkerheter
 
