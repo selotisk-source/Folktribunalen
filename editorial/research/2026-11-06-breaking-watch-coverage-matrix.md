@@ -1232,3 +1232,20 @@ Uppdaterade befintliga utkast: PR #53 (Hormuz), #47 (NVIDIA governance), #14 (AI
 | S | 12 nov | GTK RAKKA/gruvavfall, SGU, Bergsstaten, Posiva screenade | Ingen ny CRMA-/Onkalo-handling som passerar tröskeln | CRMA-genomförande, gruvavfallsdata, civil underjordisk lagring |
 
 **Publicering:** inga artiklar godkända, mergade eller LIVE i denna cykel. Fullständig källnotering: [2026-11-12-breaking-watch-2119.md](2026-11-12-breaking-watch-2119.md).
+
+
+## Delta-screening – 12 november 2026, 22:31 EET
+
+A–S har delta-screenats mot snapshot 21:19. Nya substantiella underlag i **B, D, N, O och R**. Övriga spår gav ingen ny dokumenterad utveckling som ändrar föregående status.
+
+- **B / PR #31:** Enersense 3 nov tecknade två E.ON-kontrakt om ca €15m; två 130 kV-ledningar mellan Hamre och Nässe ska stödja atNorths planerade 300 MW-campus vid Hamre, färdigställande mars 2029. Calentix anger projektutvecklingsavtal för 1,6 MW första värmefas, möjlig 20 MW expansion, HPA mål 2027 och investeringsbeslut därefter. Allt före drift; värmeleverans målsatt Q2 2029. Enersense och Calentix är primärkällor för sina egna avtal/statusar; ingen oberoende driftsbekräftelse.
+- **D / PR #8:** Greklands premiärministers kansli bekräftar 8 nov att föremål från 1917 återvänt till Timios Prodromos och att andra föremål placerats i Serres klenodkammare. Minst två mottagare är därmed offentligt bekräftade; full inventering och Panagia Eikosifoinissas mottagningsbevis saknas.
+- **N / PR #55:** EU-kommissionens aktuella AI Act-tidslinje: artikel 50 gäller sedan 2 aug 2026; begränsad övergång för äldre systems märkning/detektion till 2 dec 2026; Annex III-högriskregler 2 dec 2027; högrisk i reglerade produkter 2 aug 2028. AI Omnibus trädde i kraft 27 juli 2026. Detta är en rättslig tidslinje, inte ett nytt enskilt tillsynsbeslut.
+- **O / PR #53:** UAE:s myndigheter meddelade 12 nov återöppning av Sharjahs stränder och sju platser i Ras Al Khaimah efter GEM NO.2-utsläppet. Återöppning är inte full ekologisk återhämtning. Oman MTCIT identifierade augustigrundstötningen vid Al Qibliyah som CAROLINE BEZENGI; novemberuppgifter om fortsatt hantering är inte en ny grundstötning. IMO:s 11 nov-sida har sannolikt skrivfelet 2016; IMO-rådets 6 nov-meddelande anger 2026.
+- **R / PR #59:** Blykallas ansökan gäller sex blykylda SMR, ca 330 MWe, 40 ha i Norrsundet och mellanlager för kärnavfall. Samrådet 9 okt–13 nov avslutas 13 nov; planförslag till regeringen senast 31 dec. Gävle kommun har vetorätt i anläggningsplanen. Planen är inte ett kärntekniskt tillstånd, miljötillstånd eller bygglov. Nytt DRAFT PR #59 skapat.
+- **A/F/P/Q/E/S:** Palantir Q3/5,6 md USD molnåtagande, NVIDIA-ledningsskiftet/garantistrukturen, BAAJA-proceduren, Saab AI-agentuppgiften, CRMA-listan och Onkalo-tillståndet fanns redan i respektive utkast/journal; ingen ny avtals-/driftmilstolpe i denna delta.
+- **C/G/H/I/J/K/L/M:** inga nya primärhandlingar som ändrar föregående status. I-spåret behåller kontrollpunkterna Skogsstyrelsens uppdrag 30 nov och EUDR 30 dec. K saknar fortfarande ny direkt lagfarts-/ISP-handling.
+
+**Arbetsflöde:** PR #8, #31, #43, #53 och #55 uppdaterade; PR #59 skapad som DRAFT; PR #16 matris/journal uppdaterad. Ingen merge, publicering eller LIVE-kontroll.
+
+Fullständig journal: [2026-11-12-breaking-watch-2231.md](2026-11-12-breaking-watch-2231.md).
