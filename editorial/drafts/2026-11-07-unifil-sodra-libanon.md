@@ -248,3 +248,19 @@ Den redaktionella slutsatsen är därför begränsad: EU har skapat ett nytt tre
 - **PRIMÄRKÄLLA:** UNIFIL:s mandat upphör 31 december 2026; ordnad tillbakadragning ska därefter ske inom ett år.
 - **OBEKRÄFTAD:** datum för EUSM:s operativa start, bemanning, budget och faktisk närvaro söder om Litani.
 - **HYPOTES:** EUSM kan bli en del av den framtida säkerhetsarkitekturen, men kan inte utan ytterligare beslut beskrivas som en ersättningsstyrka för UNIFIL.
+
+### Källuppdatering 12 november 2026 – UNIFIL:s fältbild och civil återkomst
+
+**Publiceringsdatum:** 11 november 2026. **Händelser som återges:** den löpande situationen i södra Libanon samt beskjutningen av patrullen nära Wadi Jilu den 10 november.
+
+**PRIMÄRKÄLLA – UN Peacekeeping/UNIFIL:** I en intervju från Naqoura beskrev UNIFIL:s talesperson Kandice Ardiel fortsatta dagliga israeliska överträdelser som missionen observerar i södra Libanon, däribland byggande av militära positioner och vägar, militära operationer, rivningar, luftangrepp och artillerield. Artikeln återger även Wadi Jilu-händelsen: en rutinpatrull besköts, fredsbevararna besvarade elden och beskjutningen upphörde; inga skador rapporterades. Detta är UNIFIL:s egen fältbeskrivning, inte en oberoende teknisk rekonstruktion av varje enskild händelse.
+
+**Civila konsekvenser – UN-uppgifter:** UNIFIL/UN News anger att antalet internflyktingar som återvänt hem ökat med 13 procent sedan september till nära en miljon, medan omkring 304 500 personer fortfarande är fördrivna utanför sina ursprungsområden. UNIFIL beskriver omfattande skador på elnät, vattenförsörjning och vägar i flera byar. Uppgifterna är regionala och innehåller ingen konfessionell uppdelning; de får inte användas för att uppskatta hur många kristna som återvänt eller är kvar på flykt.
+
+**Mandatövergång:** UNIFIL etablerades 1978. Säkerhetsrådets beslut innebär att mandatet upphör den 31 december 2026 och att förberedelser för tillbakadragandet väntas börja i januari 2027. UNIFIL:s talesperson säger att säkerhetsrådet överväger alternativ, men att inget har beslutats. Detta förstärker den redan dokumenterade frågan om säkerhetsvakuum och lokal ekonomi: missionen ger även arbetstillfällen och ekonomiskt stöd till samhällen i söder.
+
+**Artikelkonsekvens:** Fördjupa texten från enbart militär övergång till tre parallella konsekvenser: lokal säkerhet och rapportering, återuppbyggnad av civil infrastruktur samt förlust av arbetstillfällen och lokal ekonomisk efterfrågan. Håll kyrkor och kristna samhällen som ett separat undersökningsspår tills det finns byspecifika, konfessionellt relevanta belägg.
+
+Källa:
+- UN Peacekeeping, 11 november 2026: https://peacekeeping.un.org/en/news/lebanon-after-48-years-patrolling-the-blue-line-un-peacekeepers-prepare-exit
+- Säkerhetsrådets mandatbeslut, 28 augusti 2025: https://peacekeeping.un.org/en/node/130645
