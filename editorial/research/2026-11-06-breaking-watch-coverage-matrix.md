@@ -1,6 +1,7 @@
 # FOLKTRIBUNALEN – Breaking Watch: täckningsmatris
 
-**Kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
+**Ursprunglig kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
+**Senaste delta-screening:** 12 november 2026, 13.52 Europe/Sofia  
 **Omfattning:** A–S, 19 huvudspår  
 **Metod:** riktad kontroll av nya händelser, myndighets- och bolagsdokument, primärmaterial samt oberoende rapportering. Statusen skiljer mellan ny händelse, ny dokumentuppgift och äldre kontrollpunkt.
 
@@ -1101,3 +1102,17 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 
 
 **N-komplettering:** CJEU-förhandlingar 12 nov i C-744/25 P (Meta) och C-745/25 P (TikTok) om rättslig grund för AMAR-metoden vid beräkning av DSA-tillsynsavgifter. Kalendern är primärkälla; inget avgörande identifierat.
+
+
+## Delta-screening – 12 november 2026, 13:52 EET
+
+Samtliga huvudspår A–S screenade mot föregående journal 12:20. Substantiella nya primärhandlingar i F och N; ny men ännu ej primärbekräftad försvars-AI-uppgift i Q. Övriga spår gav ingen ny händelse som passerade rapporteringströskeln.
+
+- **F / PR #47:** Singapore Government/MHA:s officiella rättelse (30 okt, sidan uppdaterad 9 nov) säger att varken regeringen eller dess tjänstemän lämnat uppgiften om Alice Huang som underrättelsekälla och att inga sådana undersökningar genomförts beträffande henne; samtidigt bekräftas att utredningen av Megaspeed pågår. Megaspeed publicerade 12 nov ett eget uttalande om BIS-inspektioner och en extern GPU-inventering. Resultat saknas. Detta är en viktig källkorrigering, inte ett bevis på att amerikanska myndigheter saknar en separat underrättelsebedömning.
+- **N / PR #56:** Ofcoms Confirmation Decision, utfärdad 9 nov och publicerad 12 nov, fastställer fem överträdelser av section 135 Communications Act 2003 i Metas svar om WhatsApp Business och A2P-SMS. £450 000 i sanktion efter 25 procents settlement-rabatt. Ofcom anger att ingen ekonomisk vinst identifierats och att felen inte ändrade slutliga preliminära resultat/avslutet av marknadsöversynen, men kunde ha påverkat analysen och krävde omfattande extra arbete.
+- **Q:** Reuters rapporterar 12 nov att Frankrike planerar ett internationellt centrum för försvars-AI med öppning sommaren 2027 och hoppas på NATO-erkännande. Finansiering och medlemskap är inte färdigställda; ingen offentlig inrättandehandling eller budgetpost hittades. Behandlas som PARTSUPPGIFT/OBEKRÄFTAD tills primärhandling finns.
+- **F/B / PR #40:** Anthropics SEC S-1/A-2 från 10 nov är redan fullständigt behandlad i PR #40. Ingen ny amendment, effektivitet eller IPO-stängning identifierad i denna cykel. 900,9 md USD är samlade köp- och leasingåtaganden, inte omedelbar skuld; 26 md USD privat placering är villkorad av IPO-stängning.
+- **O / PR #53:** Greenpeace-/satellitspåret och UKMTO 201-26/202-26 fanns redan i föregående journal/utkast. Ingen ny oberoende fartygsidentifiering eller skadebesiktning tillkom.
+- **A, B, C, D, E, G, H, I, J, K, L, M, P, R, S:** riktad delta-screening gav inga nya primärhandlingar eller registerbeslut som ändrar föregående status. K-spåret har fortsatt sekundära medieuppgifter men inga nya lagfarter/fastighetsbeteckningar i direkt registermaterial.
+
+**Arbetsflöde:** PR #47 och #14 uppdaterade; PR #56 skapat som DRAFT; PR #40 oförändrat eftersom S-1/A-2 redan finns i utkastet; PR #53 oförändrat. Ingen merge, publicering eller LIVE-kontroll.
