@@ -355,3 +355,37 @@ NVIDIA säger att verksamheten, kundåtagandena och produktplanen fortsätter ut
 
 ### Betydelse för AI-finansieringen
 Ledningsskiftet ändrar riskbilden för styrning, kontinuitet och motpartskontroll, men ska inte bokföras som ett avtalsbrott eller en finansieringshändelse utan dokumentation. Den tillfälliga dubbla rollen som vd/CFO förtjänar särskild uppföljning. Nästa kontrollpunkter är Q3-rapporten den 17 november, styrelsens fortsatta utredning och eventuella formella kongressförhör. Reuters rapporterar att Huang kan komma att höras före Thanksgiving med hänvisning till CNBC; någon formell kallelse eller fastställd förhörstid har inte identifierats i denna kontroll.
+
+
+## 13 November 2026 – SEC 8-K and Singapore MHA primary clarification
+
+### Board action and leadership transition
+
+- **PRIMÄRKÄLLA:** NVIDIA Form 8-K, accession 0001045810-26-000082, filed 12 November 2026. It states that the board accepted Jen-Hsun Huang's resignation on 11 November, effective immediately. Colette M. Kress was appointed interim CEO and continues as EVP/CFO. Harvey C. Jones was appointed chair of the board on 11 November. The filing gives no reason for Huang's resignation.
+- **PRIMÄRKÄLLA:** NVIDIA's 12 November release confirms that a permanent CEO search has begun and that Q3 FY2027 results remain scheduled for 17 November at 1:20 p.m. Pacific, followed by the earnings call at 2 p.m. Pacific.
+- **OBEROENDE BEKRÄFTELSE:** Reuters and AP report the same transition. Media-reported allegations about personal relationships or intelligence links are not stated as the reason in the 8-K or company release.
+
+### Singapore's official account – distinguish espionage claims from the domestic investigation
+
+- **PRIMÄRKÄLLA:** Singapore's Ministry of Home Affairs statement of 12 November says Alice Huang (Huang Le) was not investigated for espionage. Singapore's independent investigation began in February 2025 and concerned possible domestic offences, including potentially false declarations involving server purchases.
+- MHA says that in February 2026, after consultation with the Attorney-General's Chambers, police found insufficient evidence to establish that Alice Huang had committed the investigated offences. Police assessed that she had knowingly provided inaccurate information about her role in Megaspeed, issued a stern warning and barred her from re-entering Singapore.
+- The investigation into Megaspeed and six other individuals remains ongoing. MHA says the investigation was not initiated at the request of any foreign government.
+- MHA says a U.S. Bureau of Industry and Security voluntary post-shipment verification took place at Megaspeed on 24 June 2025. Singapore says it later sought assistance from U.S. DOJ/FBI but received limited information or assistance. This is Singapore's official account; it does not resolve the U.S. intelligence assessment or the separate U.S. export-control inquiry.
+
+### Congressional request
+
+- **PRIMÄRKÄLLA:** House Foreign Affairs, China Select and Intelligence committee chairs' 5 November release requested a joint closed-door briefing with Huang on 18 November and asked him to accept or propose another date by 11 November.
+- The request is not a subpoena, public hearing or finding of wrongdoing. The response date has passed; no public acceptance, alternative date, cancellation or replacement witness has been identified in this check.
+- Reuters reports that Speaker Mike Johnson said Congress is developing consensus on tighter chip-export restrictions to China. This is a political statement, not a new rule or enacted law.
+
+### Editorial treatment
+
+The article must keep four separate propositions separate: (1) NVIDIA's board action, which is established by the 8-K; (2) U.S. lawmakers' characterization of Alice Huang, which is a political/oversight position; (3) Singapore's domestic investigation, which expressly was not an espionage investigation; and (4) any actual export-control violation, which has not been established by the sources above.
+
+**Primary sources:**  
+- SEC Form 8-K: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm  
+- NVIDIA release: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx  
+- Singapore MHA: https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/  
+- House Foreign Affairs Committee: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset  
+- Reuters: https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/  
+- AP: https://apnews.com/article/017d4af2ad194ec2981d661663da9f9b
