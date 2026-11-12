@@ -83,3 +83,21 @@ Den 119:e kongressen fortsätter till 3 januari 2027. Den demokratiska majoritet
 - **PR #22:** uppdaterat med G7-deklarationen och EUSM:s mandat-/startvillkor; DRAFT.
 - **PR #16:** denna researchjournal och täckningsmatris tillförs granskningsgrenen.
 - **Ingen merge och ingen publicering LIVE har utförts.**
+
+
+## O. Hormuz – ny balans mellan trafik och attackrisk
+
+**Publiceringsdatum:** Reuters 10–11 november 2026; IMO 11 november.  
+**Händelseperiod:** oktober 2026 och första tio dagarna i november.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters återger S&P Global Energy-data om 31 lastade LNG-tankfartyg som lämnade Hormuz i oktober, upp från 23 i september. 23 av fartygen hade lastat i Qatar och åtta i UAE. S&P Global Energy bedömer att UAE:s transitnivåer åter nått förkrigsnivåer medan Qatar ligger strax över 30 procent. Kpler räknade 42 LNG-laster i oktober mot 27 i september; lastningar och genomfarter är skilda mått.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters 11 november återger Washington Institute for Near East Policy: 37 kommersiella fartyg träffades under oktober, den värsta månaden hittills i konflikten. Reuters uppger att charterrater över 1 md USD per dag bidrar till att redare fortsätter lasta trots riskerna. Reuters egen genomgång av IMO-data pekade på elva skadade supertankers fram till 23 oktober.
+
+**PRIMÄRKÄLLA:** IMO:s uttalande 11 november anger 130+ verifierade attacker och minst 25 döda sjömän. Den publicerade IMO-sidan anger felaktigt konfliktstarten som 28 februari 2016; det står i konflikt med 2026 års händelseförlopp och tidigare IMO-uttalanden. Reuters återger IMO:s samlade statistik som 130 incidenter, huvudsakligen attacker. Incidenter och attacker ska inte behandlas som identiska mått.
+
+**Miljörisk:** Reuters rapporterar att oljeläckage från Gem No.2 stängt stränder i norra UAE och att verifierat bildmaterial placerade oljefilmen cirka 2 km från Naqa'a-anläggningens avsaltningsintag. Ingen stängning av anläggningen hade meddelats vid publicering.
+
+**Redaktionell slutsats:** högre LNG-trafik betyder inte normaliserad säkerhet. Oktober visar att kommersiell trafik och attackrisk kan öka samtidigt.
+
+**Redaktionell åtgärd:** PR #53 uppdaterat med trafik-, attack- och miljökontext; fortfarande DRAFT.
