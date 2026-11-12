@@ -260,3 +260,25 @@ Källa: https://www.svt.se/nyheter/lokalt/jamtland/miljardinvestering-i-batteril
 - **Render Postgres:** folktribunalen-db är markerad available, men dess IP-allowlist är tom. SQL-frågan från den anslutna Render-integrationen avvisades därför med beskedet att inga IP-allowlist-poster är konfigurerade. Databasen ligger på Free-plan och Render anger expiresAt 2026-12-04T21:18:55Z.
 - **API-behörighet:** repositoryns server.js visar att /api/articles och /api/submissions kräver autentiserad redaktörssession och databasanslutning. Någon autentiserad redaktörssession finns inte i denna körning. /api/health och /api/setup-status kunde inte hämtas via webbläsarverktyget.
 - **Faktisk köstatus:** de nya forskningsuppgifterna ligger i de öppna GitHub-granskningsärendena #14, #34 och #60. Ingen ny post har skrivits till den databasbaserade CMS-kön. För att kunna kontrollera och uppdatera CMS-kön krävs fungerande DB-åtkomst (IP-allowlist) och en giltig redaktörssession. Databasens planerade utgång 4 december behöver hanteras separat före dess.
+
+
+### G – Mordet på den maronitiske prästen Samir Daou: arrestering bekräftad, motiv fortfarande öppet
+
+**Händelsedatum:** Daou försvann 28 oktober 2026; hans kropp hittades 29 oktober.  
+**Arrestering:** 30 oktober 2026.  
+**Publiceringsdatum för källorna:** L'Orient Today 29–30 oktober; Fides/Vatican News 4 november.
+
+- **OBEROENDE BEKRÄFTELSE:** L'Orient Today rapporterar att maronitiske prästen Samir Mikhael Daou, som tjänstgjorde i Hsoun och Ferhet i Jbeil-distriktet, hittades död i Ain Jrain den 29 oktober efter att ha varit oanträffbar sedan föregående eftermiddag. L'Orient återger uppgifter från Jbeils parlamentsledamot och LBCI om fyndplatsen och den inledda utredningen.
+- **PRIMÄRKÄLLA återgiven av L'Orient/Naharnet:** Libanons Internal Security Forces meddelade 30 oktober att en misstänkt gripits och att utredningen fortsätter under behörig domstols tillsyn. ISF offentliggjorde inte den misstänktes identitet eller motiv.
+- **PARTSUPPGIFT/medierapportering:** Fides och Vatican News rapporterade 4 november att den misstänkte skulle vara en 22-årig syrisk säsongsarbetare och att han enligt medierapporter erkänt. Detta framgår inte av den offentligt återgivna ISF-kommunikén och är inte en domstolsfastställd uppgift.
+- **Kyrklig reaktion:** Maronitiske patriarken Bechara Boutros al-Rai fördömde mordet och krävde rättslig utredning och rättvisa. Detta är ett primärt kyrkligt uttalande om sorgen och kravet på rättslig klarhet, inte bevis för motivet.
+- **Viktig avgränsning:** Inget offentligt myndighetsbesked har fastställt ett religiöst eller sekteristiskt motiv. Stöld och den misstänktes arbetsrelation med prästen förekommer i medierapporteringen men är inte fastställda domstolsfakta. Händelsen ska därför inte beskrivas som ett bevisat angrepp på kristna som grupp eller som en del av den regionala konflikten.
+
+**Artikelvinkel att hålla öppen:** *Mordet på fader Samir Daou – vad den libanesiska polisen faktiskt har bekräftat, kyrkans krav på rättvisa och de uppgifter som ännu saknar domstolsprövning.* Publicering bör invänta mer av den offentliga rättsprocessen eller ett tydligt nytt myndighetsbesked.
+
+**Källor:**
+- L'Orient Today, 29 oktober 2026: https://today.lorientlejour.com/article/1552604/priest-samir-daou-found-murdered-after-going-missing.html
+- L'Orient Today, 30 oktober 2026: https://today.lorientlejour.com/article/1552743/assassination-of-priest-samir-daou-isf-arrest-a-suspect.html
+- Naharnet, 30 oktober 2026: https://cdn.naharnet.com/stories/en/323449-isf-arrests-suspect-in-murder-of-jbeil-district-priest
+- Fides, 4 november 2026: https://www.fides.org/fr/news/78378-ASIE_LIBAN_Un_pretre_maronite_a_ete_tue
+- Vatican News, 4 november 2026: https://www.vaticannews.va/de/kirche/news/2026-11/beirut-mord-an-maronitischen-priester.html
