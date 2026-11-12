@@ -1081,3 +1081,8 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 **Källreservationer:** WSJ/Reuters-uppgiften om NVIDIA:s styrelse är medierapportering, inte styrelseprotokoll. IMO:s 134 incidenter omfattar Hormuz och Mellanöstern, inte enbart sundet. IRGC:s tvåtankersuppgift är inte oberoende bekräftad. UNIFIL:s humanitära siffror saknar konfessionell uppdelning. JEF-ramverket är undertecknat; ett gemensamt nordiskt försvarsavtal är endast rapporterad politisk avsikt. Siemens-resultaten är preliminära.
 
 **Arbetsflöde:** PR #47, #53 och #22 uppdaterade. Inga nya artikel-PR:ar skapade, inga merges, ingen LIVE-publicering.
+
+
+### Tillägg till F/P – 12 november 2026, 12:20 EET
+- **F:** Axios 11 nov uppger att Trump godkände ny anti-diversion-åtgärd 5 nov men att Commerce/Lutnick fördröjt genomförandet; Reuters återger Axios men bekräftar inte mötesförloppet. Commerce-talesperson förnekar konfrontationen. Senate Banking Committee publicerade Warren/Banks-uttalande 9 nov. Reuters rapporterade Warren/Coons records-preservation request 12 nov; direktbrev ej lokaliserat. Ingen offentlig BIS/Federal Register-åtgärd eller Megaspeed-listning identifierad.
+- **P:** House Foreign Affairs/China/Intelligence-ordförandena begärde 5 nov gemensam stängd briefing med Huang 18 nov. Warren/Coons har enligt Reuters begärt dokumentbevarande och kongressbriefing. Inga stämningar eller nya antagna lagar har identifierats i detta spår.
