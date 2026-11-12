@@ -206,3 +206,45 @@ IPC anger att läget berör alla befolkningsgrupper i Libanon, men att prevalens
 Källa: https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1165475/
 
 **Nästa kontroll:** hämta rapportens geografiska tabeller för distrikt/guvernement och jämför med offentliga uppgifter om fördrivning, återvändande, marknadstillgång och kommunala tjänster. Redovisa endast lokal nivå där underlaget faktiskt medger det.
+
+
+## Källuppdatering 12 november 2026 – G7:s säkerhetsarkitektur och EU:s nya stöduppdrag
+
+### G7: krav på en hållbar säkerhetsordning efter UNIFIL
+
+**Mötesdatum:** G7:s utrikesministrar möttes i Paris den 9–10 november 2026.  
+**Publiceringsdatum:** den gemensamma deklarationen publicerades den 11 november.
+
+**PRIMÄRKÄLLA – Frankrikes G7-ordförandeskap:** ministrarna konstaterar att UNIFIL:s mandat löper ut vid årets slut och efterlyser en robust, trovärdig och långsiktig säkerhetsarkitektur till stöd för de libanesiska väpnade styrkorna (LAF), i linje med säkerhetsrådets resolution 1701. Deklarationen stöder också EU:s nya stöduppdrag i Libanon. G7-texten innehåller däremot ingen färdig plan för en internationell ersättningsstyrka, inget beslut om en ny fredsbevarande operation och inga offentliggjorda styrketal eller geografiska ansvarsområden.
+
+G7 upprepar dessutom att icke-statliga väpnade grupper, särskilt Hizbollah, ska avväpnas och att Israel och Libanon bör göra framsteg med pilotzoner för verifierbar avväpning och israelisk omgruppering parallellt med LAF:s utplacering. Detta är en gemensam politisk ståndpunkt, inte ett nytt bindande avtal mellan parterna.
+
+### EUSM Lebanon: juridiskt etablerad, men ännu inte operativt lanserad
+
+**Beslutsdatum:** 12 oktober 2026.  
+**PRIMÄRKÄLLA – Europeiska unionens råd:** rådet antog beslut om att etablera EU Support Mission in Lebanon (EUSM Lebanon) inom den gemensamma säkerhets- och försvarspolitiken. Uppdraget har ett initialt mandat på tre år och två pelare:
+
+- en militär pelare som ska ge rådgivning och utbildning till LAF, bland annat för gräns- och sjösäkerhet, övervakning, underrättelsearbete och bekämpning av smuggling;
+- en civil pelare som ska stödja Internal Security Forces (ISF), bland annat inom cyberbrott, smuggling och hamnsäkerhet.
+
+Rådets pressmeddelande säger uttryckligen att operativ planering fortsätter och att ett separat rådsbeslut ska fattas när planeringen är klar. Att uppdraget har etablerats juridiskt betyder alltså inte att personal redan har placerats ut eller att verksamheten har startat.
+
+**Geografisk avgränsning i beslutstexten:** uppdraget ska inledningsvis verka norr om Litani. Verksamhet söder om Litani förutsätter att nödvändiga politiska och säkerhetsmässiga villkor är uppfyllda och att den libanesiska regeringen samtycker. Detta är centralt för bedömningen av om uppdraget kan bidra till säkerheten i södra Libanon.
+
+### Vad detta betyder för kristna samhällen i söder
+
+EUSM Lebanon är ett institutionellt stöd till LAF och ISF, inte ett konfessionellt skyddsuppdrag och inte en automatisk ersättning för UNIFIL. Det finns ännu inget offentligt underlag som visar hur uppdraget ska skydda enskilda byar, kyrkor, kloster eller återvändande civila söder om Litani. Den frågan måste följas genom konkreta beslut om geografiskt mandat, utplacering, samordning med LAF, lokala säkerhetsarrangemang och dokumenterade återvändanden.
+
+Den redaktionella slutsatsen är därför begränsad: EU har skapat ett nytt treårigt säkerhetsstöd, och G7 har politiskt krävt en trovärdig ordning efter UNIFIL. Men någon färdig, operativ ersättningsarkitektur är ännu inte offentliggjord.
+
+**Källor**
+- G7:s gemensamma deklaration, publicerad 11 november 2026: https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/declaration-conjointe-a-l-issue-de-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris
+- Europeiska unionens råd, 12 oktober 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/
+- Rådets beslut (CFSP) 2026/2296, textåtergivning: https://legalize.dev/eu/law/32026D2296
+- FN:s säkerhetsråds resolution 2790 (2025), mandatets slutdatum och ordnad tillbakadragning: https://peacekeeping.un.org/en/node/130538
+
+**Faktastatus**
+- **PRIMÄRKÄLLA:** G7:s politiska deklaration 11 november och rådets beslut 12 oktober om EUSM Lebanon.
+- **PRIMÄRKÄLLA:** UNIFIL:s mandat upphör 31 december 2026; ordnad tillbakadragning ska därefter ske inom ett år.
+- **OBEKRÄFTAD:** datum för EUSM:s operativa start, bemanning, budget och faktisk närvaro söder om Litani.
+- **HYPOTES:** EUSM kan bli en del av den framtida säkerhetsarkitekturen, men kan inte utan ytterligare beslut beskrivas som en ersättningsstyrka för UNIFIL.
