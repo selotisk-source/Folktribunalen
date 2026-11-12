@@ -264,7 +264,7 @@ JMIC:s 12-novembernotering anger **135 USA-assisterade/faciliterade kommersiella
 Reuters anger att Saudiarabien under den nuvarande Hormuzstörningen leder omkring **4 miljoner fat råolja per dag** genom East–West Pipeline till Yanbu, cirka **4 % av global tillförsel**. Detta är Reuters marknads-/flödesuppgift, inte ett separat publicerat saudiskt flödesbeslut. Den begränsade pipelineincidenten 9 november och det senare Houthi-anspråket blir därför viktiga att följa, men ingen faktisk volymförlust har belagts i det material som granskats.
 
 
-### Miljö- och räddningsuppföljning 12 november 2026 – GEM NO.2, Caroline Bezengi och IMO:s datumavvikelse
+### Miljö- och räddningsuppföljning 12 november 2026 – GEM NO.2, Caroline Bezengi och IMO:s incidentstatistik
 
 **PRIMÄRKÄLLA – Sharjah Government Media Bureau, 12 november 2026:** Sharjah meddelade att stränderna återöppnas efter att föroreningen från ett tankfartygssläpp har begränsats och miljöbedömningar/övervakning genomförts. Separat meddelade Ras Al Khaimahs Public Services Department att sju stränder och kustplatser öppnats igen. Detta är myndighetsbeslut om allmänhetens tillträde, inte en fullständig vetenskaplig slutsats om återhämtning i hela ekosystemet.
 
@@ -274,7 +274,7 @@ Reuters anger att Saudiarabien under den nuvarande Hormuzstörningen leder omkri
 
 **Separat Oman-spår – PRIMÄRKÄLLA:** Omans transportministerium identifierade den sedan augusti strandade tankern vid Al Qibliyah som **CAROLINE BEZENGI**. Myndigheten beskrev en slagsida på cirka 17 grader, grunt och stenigt vatten, svåra väderförhållanden och att överföring av lasten först kan ske när arbetsmiljö, stabilitet, utrustning och sjömätningar medger det. En rapport den 12 november om myndigheternas fortsatta arbete ska därför inte beskrivas som en ny grundstötning utan som fortsatt hantering av augustiincidenten.
 
-**Källkritisk korrigering – IMO:** IMO:s incidentnotering den 11 november innehåller formuleringen ”since 28 February 2016”. IMO-rådets primärmeddelande den 6 november anger däremot uttryckligen **28 February 2026** som startdatum för den nuvarande incidentperioden och redovisar över 130 verifierade attacker samt 25 dödade sjömän. Årtalet 2016 i den senare noteringen behandlas som ett sannolikt skrivfel, inte som en alternativ tidslinje. IMO:s 130 verifierade incidenter och JMIC:s högre regionala incidenttal är olika urval och ska inte adderas.
+**Källkontroll – IMO:** Direktläsning av IMO:s generalsekreteraruttalande den 11 november visar uttryckligen **28 February 2026**. IMO-rådets meddelande den 6 november anger samma startdatum, över 130 verifierade attacker och 25 dödade sjömän. Det finns alltså ingen datumavvikelse mellan dessa två primärkällor. IMO:s 130 verifierade attacker och JMIC:s högre regionala incidenttal är olika urval och ska inte adderas.
 
 Källor:
 - Sharjah Government Media Bureau, 12 november: https://cm.sharjah24.ae/en/Articles/2026/11/12/KMR10
