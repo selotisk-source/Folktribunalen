@@ -35,12 +35,15 @@ Källor:
 
 **BloombergNEF:** den nya analysen uppskattar 181 GW annonserad/föreslagen gaseldad kraftkapacitet kopplad till datacenterprojekt i USA, Storbritannien och övriga Europa; över 90 procent ligger i USA. BNEF anger ett scenario på cirka 2 354 TWh datacenterförbrukning 2035. Detta är ett projekt- och scenarioestimat, inte byggd eller driftsatt kapacitet och inte en prognos om att alla projekt realiseras.
 
+**Norge, Statnett 9 november:** Statnett införde en tillfällig paus för nya nätkapacitetsreservationer till datacenter samt vissa nya och redan inkomna ansökningar om tekniskt godkännande. Pausen väntas upphöra senast 1 augusti 2027. Statnett redovisade 800 MW redan anslutet, 4 200 MW reserverat, 9 100 MW i kapacitetskön och ytterligare 18 000 MW i förfrågningar – jämfört med en nationell toppeffekt strax över 25 000 MW. Detta är olika mognadsstadier, inte faktisk förbrukning eller byggd kapacitet. Regeringen aviserade samtidigt en licensordning för befintliga och framtida datacenter, med prioritet för samhällsnytta, beredskap och digital säkerhet; kryptoutvinning ska inte betraktas som samhällsnyttig verksamhet. Detta är aviserad reglering, inte antagen lag.
+
 **Norge, Statnett 12 november:** Statnett har lämnat en redogörelse till RME om kapacitet i NO3. Planerade nätinvesteringar kan enligt Statnett möjliggöra upp till cirka 60 procents ökning av förbrukningen, men varken dessa eller de ytterligare nätåtgärder som analyserats räcker för alla mogna förfrågningar. Statnett säger att ökad lokal kraftproduktion är det enda enskilda åtgärdsslag som kan täcka samtliga mogna planer. Dagens kapacitetskö och bedömningsprocess ändras inte. Detta är ett konkret exempel på skillnaden mellan nätkapacitet (MW) och tillgänglig energi (MWh).
 
 Källor:
 - https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en?prefLang=sv
 - https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
-- https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/anmoder-rme-om-a-lukke-avvik-i-omrade-midt/
+- https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
+- Statnett NO3-redogörelse 12 november: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/anmoder-rme-om-a-lukke-avvik-i-omrade-midt/
 
 ### C. Synkronicitetsprotokollet
 
