@@ -126,3 +126,11 @@ Inspelningarna har inte publicerats som fullständiga öppna ljudfiler i det mat
 5. Håll bolagsgranskningen av Palantir separat från tolkningen av Thiels religiösa idéer.
 
 **Redaktionell status:** Utkast för chefredaktörens granskning. Inga slutsatser om att en verklig person eller institution är Antikrist. Ingen publicering.
+
+## Källnotering 12 november 2026 – läckta föreläsningar och offentliga texter hålls isär
+
+*The Verge* publicerade den 20 oktober 2026 en analys av fyra inspelade föreläsningar om Antikrist som redaktionen uppger sig ha fått tillgång till och transkriberat. Det är **OBEROENDE BEKRÄFTELSE/SEKUNDÄR RAPPORTERING** om privat framförda föreläsningar, inte en officiell fullständig transkription från Thiel. Artikeln återger bland annat att Thiel uttryckligen säger att Greta Thunberg inte är Antikrist, utan möjligen en ”type or a shadow” av en frestande antikristlig gestalt. Det citatet måste återges i sitt sammanhang; rubriker som påstår att Thiel identifierade henne som Antikrist är missvisande. [The Verge, 20 oktober 2026](https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis).
+
+Den offentliga förstahandskällan är Thiels egen essä [“The Pope and the Antichrist” i First Things, 15 juli 2026](https://www.firstthings.com/article/2026/07/the-pope-and-the-antichrist). Den ska hållas åtskild från de läckta föreläsningarna. Fortune/Politico har separat rapporterat om föreläsningar i Nashville den 28 september och 5 oktober; det är inte klarlagt om dessa inspelningar ingår i samma fyrdelade inspelningsmaterial som The Verge analyserade.
+
+**Analytisk avgränsning:** I The Verge-materialet används Antikrist som politisk-teologisk kategori i en kritik av AI-säkerhetsreglering och institutioner för finansiell övervakning, skatteavtal och sanktioner. Det är Thiels ideologiska tolkning, inte ett empiriskt belägg för en faktisk eskatologisk aktör. Utkastet ska citera offentliga texter som primärkälla och märka inspelningarna som sekundärt återgivna privata föreläsningar.
