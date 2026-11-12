@@ -113,7 +113,8 @@ Financial Times om den rapporterade Entity List-fördröjningen: https://www.ft.
 - **8 november 2026:** NVIDIA:s styrelse tillkännager oberoende utredning.
 - **9 november 2026:** Banks/Warren publicerar gemensamt exportkontrolluttalande; Kistenmacher-stämningen lämnas in som Document 1.
 - **10 november 2026:** NVIDIA:s oberoende styrelseledamöter namnger Joon H. Kim och Wachtell Lipton som externa utredare; Cramer kräver att Huang avgår; ny rapportering om chipvolymer och Commerce/DOJ-kedjan.
-- **11 november 2026:** sista dag enligt House-brevet för Huang att acceptera 18 november eller föreslå alternativt datum. Ingen offentlig respons har hittats per 06.48 EET.
+- **11 november 2026:** sista dag enligt House-brevet för Huang att acceptera 18 november eller föreslå alternativt datum. Ingen offentlig respons har hittats i de kontrollerade källorna.
+- **12 november 2026:** Reuters rapporterar att styrelsen möttes sent på onsdagen för att diskutera Huangs framtid, men publicerar inget beslut eller styrelseprotokoll. En separat Reuters-granskning rapporterar att kinesiska AI-bolag söker eller överväger att säkra NVIDIA-baserad molnkapacitet utanför Kina och att gråmarknadshandlare lagrar chip; detta bygger på anonyma källor och namnger inga avtal eller köpare.
 - **17 november 2026:** NVIDIA:s planerade Q3-resultat.
 - **18 november 2026:** begärt slutet briefingmöte med de tre House-utskotten; ännu inte bekräftat att det blir av.
 
@@ -186,3 +187,29 @@ Källor:
 - Följ NVIDIA:s Q3 FY2027-rapport och eventuella 8-K-upplysningar den 17 november.
 
 **Status:** DRAFT – för chefredaktörens granskning. Inte godkänt, inte mergat, inte publicerat och inte LIVE.
+
+
+## Källuppdatering 12 november 2026 – fjärråtkomst till GPU-kapacitet blir den konkreta exportkontrollfrågan
+
+**OBEROENDE RAPPORTERING – Reuters, 12 november kl. 05.31 UTC:** Reuters uppger med hänvisning till tre personer med insyn att kinesiska AI-företag försöker hyra NVIDIA-baserad beräkningskapacitet i datacenter utanför Kina. En större kinesisk molnleverantör ska internt ha diskuterat att säkra kapacitet, medan mindre AI-laboratorier ska ha kontaktat operatörer i Sydostasien. Reuters rapporterar även att handlare på gråmarknaden börjat lagra avancerade NVIDIA-chip. Källorna är anonyma; inga företag, kapacitetsvolymer, bindande avtal eller faktiska leveranser identifieras. Detta är en rapporterad marknadsreaktion, inte verifierad exportkontrollöverträdelse eller bevis för att NVIDIA sålt direkt till kinesiska kunder.
+
+Reuters skriver uttryckligen att de inte kunde verifiera påståendet att den berörda affärskontakten var en kinesisk underrättelsetillgång; Kina har förnekat anklagelsen. Denna del ska hållas separat från den rapporterade efterfrågan på utländsk molnkapacitet.
+
+**OBEROENDE RAPPORTERING – Reuters, 12 november kl. 05.37 UTC:** Reuters Morning Bid uppger att NVIDIA:s styrelse möttes sent på onsdagen för att diskutera Huangs framtid, med hänvisning till en källa. Artikeln redovisar inte något styrelsebeslut, protokoll eller offentlig bolagsbekräftelse. Rubriken “Jensen hangs on” är inte i sig belägg för att styrelsen fattat ett beslut om att behålla eller avsätta honom.
+
+### Remote Access Security Act – exakt lagstiftningsstatus
+
+- **PRIMÄRKÄLLA – U.S. House Clerk:** H.R. 2683, Remote Access Security Act, passerade representanthuset den 12 januari 2026 med 369–22 (Roll Call 13).
+- **PRIMÄRKÄLLA – GovInfo:** den 13 januari 2026 mottogs lagförslaget i senaten, lästes två gånger och hänvisades till Senate Committee on Banking, Housing, and Urban Affairs. Det är inte antagen lag.
+- **PRIMÄRKÄLLA – Senator McCormicks lagstiftningsregister:** S. 3519, också benämnt Remote Access Security Act, introducerades den 5 augusti 2026 och hänvisades till samma senatsutskott. Ingen senare utskottsrapport eller senatsomröstning har identifierats i denna kontroll.
+- **Betydelse:** förslaget riktar sig mot fjärråtkomst via nätverk eller molntjänster till exportkontrollerad teknik som fysiskt befinner sig utanför användarens land. Det är direkt relevant för Reuters rapportering om kinesiska bolag som söker GPU-kapacitet i utländska datacenter. H.R. 2683 har passerat House men varken det eller S. 3519 är lag.
+
+**Källor**
+- Reuters, 12 november 2026, kinesiska AI-företags efterfrågan på utländsk NVIDIA-kapacitet: https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/
+- Reuters, 12 november 2026, styrelsens möte om Huang: https://www.reuters.com/business/retail-consumer/global-markets-view-europe-2026-11-12/
+- U.S. House Clerk, Roll Call 13, 12 januari 2026: https://clerk.house.gov/Votes/202613
+- GovInfo, H.R. 2683, Referred in Senate, 13 januari 2026: https://www.govinfo.gov/app/details/BILLS-119hr2683rfs
+- Senator Dave McCormick, lagstiftningsregister, S. 3519, 5 augusti 2026: https://www.mccormick.senate.gov/about/legislation/?leg_page=3&leg_type=sponsored
+
+**Nästa kontroll:** Senate Banking Committee:s hearing- och markup-kalender för H.R. 2683/S. 3519; Commerce/BIS-regler om fjärråtkomst; faktiska avtal och geografisk placering för hyrd GPU-kapacitet; NVIDIA:s och molnoperatörernas slutanvändarkontroller.
+
