@@ -996,3 +996,15 @@ Ny fullcykelkontroll A–S tillagd i `editorial/research/2026-11-11-breaking-wat
 - UKMTO/IMO:s fortsatta verifiering av Didamar och fartygsincidenter.
 - EuroHPC:s uppdaterade AI-gigafactory-deadlines (3 december 2026, Lot 2; 4 februari 2027, Lot 1); äldre Futurium-datum 12 november får inte återanvändas.
 - För övriga spår D, G, H, I, J, L och M: inga nya publika primärdokument som passerar notiströskeln identifierades i denna sökcykel. Dessa kontroller är en källsökning/screening, inte en ersättning för full arkiv- och diariegenomgång.
+
+
+## Breaking Watch – 12 november 2026, 04:08 EET
+
+Ny researchjournal och A–S-täckningsmatris: \`editorial/research/2026-11-12-breaking-watch-0408.md\`.
+
+Denna cykel har uppdaterat befintliga granskningsutkast:
+- PR #10 – USA:s kongress: Scott Coloms seger ger Demokraterna 55 projicerade senatsplatser; Alaska återstår.
+- PR #14 – AI-finansiering: NVIDIA:s VIE-exponering och ING:s försäljning av datacenterlån.
+- PR #22 – Libanon/UNIFIL: G7:s säkerhetsarkitektur och EUSM Lebanon:s mandat/startvillkor.
+
+Alla tre PR är fortsatt DRAFT. Ingen merge och ingen LIVE-publicering har utförts. Övriga spår har kontrollerats mot föregående researchjournal; befintliga utkast har återanvänts där ingen ny substantiell utveckling tillkommit.
