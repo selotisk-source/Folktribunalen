@@ -213,3 +213,26 @@ Reuters skriver uttryckligen att de inte kunde verifiera påståendet att den be
 
 **Nästa kontroll:** Senate Banking Committee:s hearing- och markup-kalender för H.R. 2683/S. 3519; Commerce/BIS-regler om fjärråtkomst; faktiska avtal och geografisk placering för hyrd GPU-kapacitet; NVIDIA:s och molnoperatörernas slutanvändarkontroller.
 
+
+### Breaking update 12 November 2026, 12:20 EET – styrelserisk och marknadsreaktion
+
+**OBEROENDE RAPPORTERING – publicerad 12 november:** The Wall Street Journal rapporterade att NVIDIA:s styrelse förbereder ett möjligt avsättande av Jensen Huang och planerade att mötas redan onsdagen den 11 november för att avgöra hans framtid, med hänvisning till personer med insyn. Reuters rapporterade den 12 november att styrelsen möttes sent på onsdagen för att diskutera frågan. Guardian återgav Reuters uppgift och redovisade senare uppdateringar om marknadsreaktionen. Detta är flera mediepubliceringar, men de offentliga uppgifterna bygger på anonyma källor och utgör inte ett styrelseprotokoll eller ett formellt beslut.
+
+**PRIMÄRKÄLLA – oförändrat tidigare besked:** NVIDIA:s styrelseuttalande den 8 november sade att en oberoende utredning inletts, att styrelsen inte hade skäl att tro att nationell säkerhet eller företagshemligheter komprometterats och att styrelsen hade förtroende för Huang. Något nytt offentligt styrelsebeslut eller nytt bolagsuttalande som ersätter detta har inte identifierats i denna kontroll. Uttalandet är fyra dagar äldre än de nya medieuppgifterna och ska inte framställas som utredningens slutsats.
+
+**Marknadsreaktion – rapporterad, tidsbunden:** Reuters rapporterade den 12 november att NVIDIA-aktien föll omkring 7 procent i förhandeln och att Nasdaq 100-terminerna var ned 0,79 procent. Detta är marknadsreaktion på rapporterad ledningsrisk, inte bevis för att ett ledningsbyte kommer att ske eller att AI-efterfrågan har fallit.
+
+**OBEROENDE PARTSRÖST – Siemens, 12 november kl. 09:14 UTC:** Siemens vd Roland Busch sade till Reuters att samarbetet med NVIDIA fortsätter oavsett vad NVIDIA beslutar om Huang. Busch beskrev relationen som ett samarbete mellan bolag och team, inte beroende av en enda individ. Detta är en relevant kund-/partnerbedömning, inte en garanti för att alla avtal eller projekt blir opåverkade.
+
+**Motuppgift från Taiwan – medierapporterad myndighetsuppgift:** Guardian återgav den 12 november att Mainland Affairs Council-ministern Chiu Chui-cheng sagt att Alice Huang rest till Taiwan åtta gånger under 2024–2025 med normal affärsbesöksstatus och utan särskilda flaggor i dåvarande inresehantering. Någon direkt utskrift från myndigheten eller parlamentariskt protokoll har inte hittats i denna kontroll. Uppgiften motsäger inte i sig att amerikanska myndigheter kan ha gjort en separat underrättelsebedömning; den visar endast vad Taiwan enligt den återgivna uppgiften hade registrerat vid inresorna.
+
+**Viktig bevisgräns:** rapporterna om en andra relation med en NVIDIA-anställd är separata från underrättelseanklagelsen. Varken en privat relation eller ett påstått förhållande är i sig bevis för spioneri, exportkontrollbrott eller informationsöverföring. Inget offentligt åtal, domstolsavgörande, avhemligad underrättelsebedömning eller teknisk incidentrapport som fastställer att NVIDIA:s hemligheter röjts har identifierats.
+
+**Artikelkonsekvens:** Utkastet kan nu behandla frågan som en akut styrelse- och successionsrisk, men rubrik och ingress måste fortsatt skilja mellan WSJ/Reuters uppgifter, NVIDIA:s tidigare officiella förtroendebesked och vad som faktiskt är fastställt. Nästa kontroll: styrelsebeslut/protokoll, eventuell 8-K, utredningens mandat och slutsatser, House-briefing 18 november samt kommande NVIDIA-resultat 17 november.
+
+Källor:
+- WSJ, 12 november 2026: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
+- Reuters, 12 november 2026: https://www.reuters.com/business/retail-consumer/global-markets-view-europe-2026-11-12/
+- Reuters, 12 november 2026, Siemens vd: https://www.reuters.com/world/asia-pacific/siemens-ceo-says-cooperation-with-nvidia-will-no-be-affected-by-leadership-2026-11-12/
+- Guardian live, 12 november 2026: https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest
+- NVIDIA Board Statement, 8 november 2026: https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx
