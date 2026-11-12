@@ -40,7 +40,7 @@ Källor:
 
 ### C. Synkronicitetsprotokollet
 
-Två relevanta publikationer under 2026 erbjuder teoretiska ramar kring meningsfulla sammanträffanden, saliens, metastabila hjärntillstånd och biosemiotisk tolkning. De ger inte empiriskt stöd för en extern, icke-kausal mekanism. Fortsatt protokollarbete bör skilja mellan förregistrerade testbara hypoteser, selektionsbias, efterhandskonstruktion och upplevelserapporter. Ingen ny reproducerad kausal effekt identifierad i denna cykel.
+Ingen ny reproducerad empirisk studie med robust kausalt resultat identifierades i denna cykel. Teoretiska arbeten om saliens, metastabila hjärntillstånd och biosemiotisk tolkning kan användas som hypotesgeneratorer, men de visar inte att sammanträffanden orsakas av en extern eller icke-kausal mekanism. Fortsatt protokollarbete bör skilja mellan förregistrerade test, selektionsbias, efterhandskonstruktion och upplevelserapporter.
 
 ### D. Sofia – staden under staden
 
@@ -128,7 +128,7 @@ Källor:
 
 ### P. USA:s kongress och institutionella makt
 
-Senaten röstade 73–25 för cloture/motionen som öppnar för behandling av H.R.2347 som lagstiftningsfordon för tillståndsreform. Detta är ett processbeslut om att ta upp ärendet, inte att lagförslaget har passerat. Valprognoser efter mellanårsvalet pekar på demokratisk kontroll över båda kamrarna från januari 2027, men vissa mandat är fortfarande oavgjorda och resultaten är ännu inte slutligt certifierade. Den nuvarande kongressen fortsätter fram till den nya kongressens tillträde.
+Senaten röstade 73–25 den 9 november för cloture på motionen att gå vidare till H.R.2347 och 62–21 den 10 november för själva motionen att gå vidare. Den 11 november lämnades nya cloture-yrkanden på ett ersättningsförslag och på lagförslaget. H.R.2347 används som lagstiftningsfordon för tillståndsreform; inget av dessa processbeslut innebär att den materiella reformen har passerat eller blivit lag. Reuters rapporterar efter Mississippi-utfallet en projicerad demokratisk fördel på 55–44 i senaten med en plats oavgjord och 254–168 i representanthuset med 13 distrikt oavgjorda. Detta är medieprojektioner, inte slutlig certifiering. Den nya majoriteten tillträder först den 3 januari 2027; den nuvarande kongressen fortsätter under lame-duck-perioden.
 
 ### Q. Svenska Gripen och Europas säkerhet
 
