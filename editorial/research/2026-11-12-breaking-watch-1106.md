@@ -90,3 +90,11 @@ Fem utvecklingsområden gav nya eller väsentligt fördjupade belägg i denna cy
 - Reuters, RWE/KKR, 11 november: https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/
 - Reuters, IRGC-uppgiften, 12 november: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
 - Guardian/Greenpeace, 12 november: https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems
+
+
+
+## Källprecision inom samma kontrollcykel
+
+- **CoreWeave:** SEC 8-K Exhibit 99.1 visar också 18,697 md USD i operationella leasingskulder och 649 m USD i finansiella leasingskulder. Dessa är separata från 46,873 md USD recourse/non-recourse debt. Q3-kassaflödet visar 10,301 md USD i skuldemissionsintäkter och 2,344 md USD i återbetalningar. Leasingskulder ska inte bakas in i skuldsumman utan tydlig kategorisering.
+- **Hormuz-miljö:** Guardian anger uttryckligen “more than 500 instances of oil spills” från Greenpeace satellitövervakning, inklusive utsläpp där ursprunget inte kunnat fastställas. Redaktionsformuleringen har därför preciserats till **över 500 möjliga utsläppstillfällen**. 20 000 km² är summan av de dagliga kartlagda ytavtrycken, inte en enda sammanhängande yta.
+- **Vanguard:** RWE:s pressmeddelande säger equity close och financial close; den brittiska regeringens pressmeddelande säger “final investment commitment”. RWE använder inte uttryckligen termen FID i pressmeddelandet. PR #49 skiljer därför mellan finansiell stängning och ett formellt FID-beslut, som fortfarande kräver tydlig dokumentation.
