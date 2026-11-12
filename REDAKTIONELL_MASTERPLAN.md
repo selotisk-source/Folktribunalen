@@ -1065,3 +1065,6 @@ N-komplettering: 12 november 2026 – AG Kokotts yttrande i C-826/24 P (Google A
 
 
 Q-komplettering: Reuters 12 november kl. 09:44 UTC preciserar att den rapporterade nordiska avsikten handlar om att minska juridiska och praktiska hinder för gränsöverskridande förflyttning av militär personal och materiel. Detta är ett mål för harmonisering, inte en undertecknad traktat. Knyt artikelspåret till militär mobilitet och nationell beslutanderätt.
+
+
+B/R-komplettering: Siemens presenterade 11 november en rostfri direkt-till-chip-vätskekylventil för AI-datacenter; detta är en produktlansering, inte bekräftade kundorder. Den 9 november tecknade Siemens ett sexårigt Gridscale X-kontrakt med Kärnten Netz för digital tvilling av elnätet, trängselprognoser och flexibilitetshantering. Kontraktsvärde och realiserad MW-volym är inte offentliggjorda. Båda uppgifterna har lagts till i 12:20-journalen som primära bolagsuppgifter.
