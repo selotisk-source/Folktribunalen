@@ -284,3 +284,39 @@ Källor:
 - IMO Council, 6 november: https://www.imo.org/en/MediaCentre/PressBriefings/pages/Extraordinary-Council-36.aspx
 
 **Öppet:** fullständiga miljöprovresultat, sediment-/vattenprov, återöppningskriteriernas mätvärden, slutlig skadebesiktning för GEM NO.2 och CAROLINE BEZENGI:s faktiska lastöverföring.
+
+
+## 13 November 2026 – UKMTO #203 and #204: separate incidents, one identified vessel
+
+### 5. Arabian Gulf tanker incident – UKMTO #203
+
+**Incident date:** 10 November 2026.  
+**UKMTO publication/update date:** 10 November 2026.
+
+- **PRIMÄRKÄLLA – UKMTO Recent Incidents / Warning 203-26:** a tanker travelling eastbound in the Arabian Gulf was struck by an unknown projectile. UKMTO says multiple casualties were taken ashore for medical assistance and the remaining crew were safe and accounted for. At the time of the notice, no damage assessment or environmental-impact assessment was available.
+- **Open:** UKMTO's public notice does not name the vessel, give an IMO number, identify the flag, owner, operator, cargo or exact coordinates. The number of casualties is not stated in the public summary.
+- **OBEKRÄFTAD:** no public evidence in this check matches #203 to MT Fujairah Energy, NCC Fajr or any other named vessel. Do not infer identity from date proximity alone.
+
+### 6. Ras Al Khaimah tanker incident – UKMTO #204
+
+**Incident date:** 11 November 2026, 18:00 UTC.  
+**UKMTO publication date:** 11 November 2026; Reuters report: 12 November 2026, 13:43 UTC.
+
+- **PRIMÄRKÄLLA – UKMTO Warning 204-26:** a tanker 14 nautical miles northwest of Ra's al Khaymah, UAE, was struck by an unknown projectile in the engine room. UKMTO reported no casualties and said all crew had been evacuated safely; firefighting was under way.
+- **OBEROENDE BEKRÄFTELSE – Reuters:** Reuters identifies the vessel as Liberia-flagged **MT DOMINICA PROSPERITY**. It reports 22 crew, including 19 Indian nationals, all safely evacuated, and cites India's shipping minister for the evacuation. Reuters reports that the vessel was owned by South Korea's Haut Brion 56 Ltd and operated by Sinokor Maritime, citing MARISKS. Ambrey said the vessel was struck at the stern while leaving the Strait of Hormuz.
+- **Open:** Reuters and UKMTO agree on the broad incident location and engine-room/fire/evacuation sequence, but the public sources do not establish the projectile's origin, the responsible actor, the cargo, or a final damage/environmental assessment. Ownership/operator details are secondary reporting attributed to MARISKS, not direct registry extracts.
+
+### Do not merge #203 and #204
+
+UKMTO #203 reports multiple casualties in the Arabian Gulf on 10 November; #204 reports no casualties and a full evacuation near Ras Al Khaimah on 11 November. They are separate incidents with different incident dates, areas and casualty descriptions. The fact that Reuters identifies #204 as MT DOMINICA PROSPERITY does not identify #203.
+
+### Separate Iranian claim
+
+Reuters separately reported on 12 November that Iran's military claimed four oil tankers had been hit by explosions/mines on Wednesday and Thursday. Reuters could not independently verify the claim. It must remain **PARTSUPPGIFT** and must not be mapped onto UKMTO #201–204 without vessel identity, IMO number, time and position matching.
+
+**Primary and independent sources:**
+- UKMTO Recent Incidents (201–204): https://www.ukmto.org/recent-incidents
+- Reuters, MT DOMINICA PROSPERITY, 12 November: https://www.reuters.com/world/middle-east/vessel-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-2026-11-12/
+- Reuters, Iranian military claim, 12 November: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
+
+**DRAFT – ej godkänt, ej mergat, ej publicerat.**
