@@ -762,3 +762,14 @@ Nebius uppger också att tidigare ARR-vägledning om 7–9 md USD i december fly
 Bland de egna sajter som enligt bolaget ska börja leverera kapacitet 2027 nämns Missouri, Lappeenranta, en andra Mäntsälä-anläggning och Alabama; tillsammans anges de representera över 3 GW vid full skala under 3–3,5 år. Bolaget uppger att första NVIDIA Vera Rubin-system redan integreras och att Nebius är första AI-moln att använda NVIDIA Groq 3 LPX. Dessa är partsuppgifter om produktintegration och framtida kapacitet, inte oberoende driftsverifiering.
 
 Källa: SEC Exhibit 99.1, balans- och kassaflödesuppgifter: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm. Aktieägarbrev, kapacitet och ARR-guidning: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-2.htm.
+
+## 13 November 2026 – governance update before Q3 FY2027 results
+
+- **PRIMÄRKÄLLA:** NVIDIA's SEC Form 8-K filed 12 November states that the board accepted Jensen Huang's resignation on 11 November, effective immediately. Colette M. Kress was appointed interim CEO and continues as EVP/CFO; Harvey C. Jones became board chair. The filing gives no reason and does not amend the guarantees, AI-cloud agreements, lease support or supply commitments discussed above.
+- **PRIMÄRKÄLLA:** NVIDIA says its Q3 FY2027 results remain scheduled for 17 November 2026 at 1:20 p.m. Pacific, with the earnings call at 2 p.m. Pacific. Kress will therefore be both interim CEO and CFO at the first scheduled results communication after the transition.
+- **OBEROENDE BEKRÄFTELSE:** Reuters and AP confirm the leadership change. Allegations about the circumstances of Huang's departure must not be treated as the reason for the resignation unless NVIDIA or a later primary record says so.
+- **Governance question:** Kress has led NVIDIA's finance organization since 2013. Her interim dual role makes the next disclosure especially important for the board's oversight of customer advances, AI-cloud agreements, the SB Energy guarantee, other guarantees and the distinction between committed capital and cash already deployed. This is a monitoring question, not evidence that the existing arrangements have changed.
+
+**Primary sources:**  
+- SEC Form 8-K: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm  
+- NVIDIA CEO transition release: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx
