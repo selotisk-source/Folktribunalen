@@ -188,3 +188,21 @@ Maronitpatriarken Beshara Rai sade söndagen 8 november att han mottagit brevet 
 **Öppet:** Libanons regerings utredning, eventuell identifiering av skytten, platsens exakta händelseförlopp och om incidenten påverkar patrullering eller lokala rörelser. Inga slutsatser dras om ansvarig aktör innan utredningsmaterial finns.
 
 **Status:** ny incident införd i granskningsutkastet. Inte mergat, inte publicerat.
+
+
+## Källuppdatering 12 november 2026 – IPC:s nya lägesbild för livsmedelssäkerhet
+
+**Rapportens publiceringsdatum:** 5 november 2026.  
+**Giltighetsperiod:** 1 september 2026–31 juli 2027.
+
+**PRIMÄRKÄLLA – Integrated Food Security Phase Classification (IPC):** omkring **1,05 miljoner människor**, 21 procent av den analyserade befolkningen, bedöms befinna sig i akut livsmedelsosäkerhet på IPC fas 3 eller högre under september 2026–februari 2027. Av dessa bedöms cirka **52 000** vara i Emergency, fas 4. För mars–juli 2027 projicerar IPC cirka **1,15 miljoner** i fas 3 eller högre, varav **97 000** i fas 4.
+
+IPC anger att läget berör alla befolkningsgrupper i Libanon, men att prevalens och svårighetsgrad varierar. Flyktingar och nyligen fördrivna libaneser hör till de mest utsatta. Rapporten kopplar utvecklingen till de kumulativa effekterna av två konflikter på mindre än två år, en skör ekonomi och stigande levnadskostnader.
+
+**Avgränsning:** IPC-materialet ger inte en konfessionell uppdelning. Siffrorna får därför inte användas för att påstå att kristna byar, maroniter eller någon annan religiös grupp har en viss andel av livsmedelsosäkerheten. Uppgifterna ger nationell humanitär kontext för civil motståndskraft, återvändande och fördrivning, men ersätter inte kommunvisa data eller lokala vittnesmål.
+
+**OBEROENDE KORSKONTROLL:** någon separat, oberoende nationell uppskattning med samma IPC-metod och tidsperiod identifierades inte i denna kontroll. IPC:s klassificering är den primära källan; WFP/FAO-partnerskapets medverkan ska inte räknas som en fristående dubbelmätning.
+
+Källa: https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1165475/
+
+**Nästa kontroll:** hämta rapportens geografiska tabeller för distrikt/guvernement och jämför med offentliga uppgifter om fördrivning, återvändande, marknadstillgång och kommunala tjänster. Redovisa endast lokal nivå där underlaget faktiskt medger det.
