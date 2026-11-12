@@ -182,4 +182,4 @@ Greenpeace skiljer mellan större utsläpp som kopplats till fartygsangrepp och 
 **Nästa kontrollpunkter:** UKMTO:s nya originalprodukter; Oman och flaggstaternas myndighetsbesked; fartygsidentiteter och IMO-nummer; satellitbilder med tidsstämplar; och oberoende miljöprovtagning där sådan blir tillgänglig.
 
 Källa:
-- Reuters, 12 november 2026, om IRGC:s uppgift: https://www.reuters.com/world/middle-east/iran-revolutionary-guards-say-two-oil-tankers-disabled-explosions-hormuz-2026-11-12/
+- Reuters, 12 november 2026, om IRGC:s uppgift: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
