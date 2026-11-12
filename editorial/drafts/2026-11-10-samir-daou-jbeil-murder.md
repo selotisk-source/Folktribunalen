@@ -3,7 +3,7 @@
 **Artikeltyp:** Regional granskning · Libanons kristna historia · rättsprocess  
 **Händelsedatum:** 28–30 oktober 2026  
 **Senaste källdatum:** 4 november 2026  
-**Status:** Redaktionellt utkast – inte publicerat
+**Status:** Publicerad 11 november 2026 i den statiska webbplatsens live-version. Public route: https://folktribunalen.onrender.com/#/artikel/samir-daou-jbeil
 
 *Fader Samir Mikhael Daou försvann den 28 oktober och hittades mördad dagen därpå i Ain Jrain i Jbeil-distriktet. Libanons interna säkerhetsstyrkor meddelade den 30 oktober att en misstänkt hade gripits. Kyrkans ledare har krävt en fullständig utredning och samtidigt uppmanat allmänheten att inte sprida rykten. Något motiv har inte offentliggjorts.*
 
@@ -84,7 +84,7 @@ Maronitiska stiftet i Jbeil uppmanade den 29 oktober allmänheten att inte sprid
 - **Ain Jrain:** Daous hemby och platsen där han hittades död.
 - **Hsoun, Ferhet och Ain el-Delbeh:** församlingar som nämns i rapporteringen och stiftets uttalande; den exakta tjänsteförteckningen behöver kontrolleras.
 
-## Vad som ännu är oklart
+## Öppna frågor och uppföljning
 
 1. Vilket motiv utredningen pekar mot.
 2. Vilka bevis som ligger till grund för gripandet och om en bekännelse finns i ett dokumenterat förhör.
@@ -100,6 +100,18 @@ Maronitiska stiftet i Jbeil uppmanade den 29 oktober allmänheten att inte sprid
 Mordet på Fader Samir Daou är ett dokumenterat brott och ett hårt slag mot hans familj och de församlingar han tjänade. Den offentliga utredningen har hittills bekräftat att en misstänkt gripits, men den har inte offentliggjort motivet eller ett fullständigt bevisunderlag.
 
 FOLKTRIBUNALEN ska följa rättsprocessen, bevara skillnaden mellan myndighetsuppgifter och medierapportering och samtidigt dokumentera de ekonomiska och demografiska villkor som präglar Libanons kristna bergsförsamlingar. Det går att visa solidaritet med en sörjande kyrka utan att tillskriva mordet ett motiv som utredningen ännu inte har fastställt.
+
+## Bildförslag
+
+Använd en neutral, licensierad bild av Jbeil/Biblos eller ett exteriört motiv från den maronitiska kyrkomiljön i distriktet. Undvik att använda en bild av den avlidne utan familjens eller kyrkans uttryckliga tillstånd. Ingen bild får antyda ett motiv eller en gärningsperson som inte är fastställd.
+
+## Faktakontroll
+
+- Mordet och gripandet stöds av flera rapporter och ett offentligt ISF-besked.
+- Uppgifter om misstänktas identitet, nationalitet och bekännelse återges som medieuppgifter och är inte domstolsfastställda fakta.
+- Motiv har inte offentliggjorts i de källor som granskats.
+- Efterreaktioner mot syriska flyktingar redovisas separat från utredningen; kollektiv skuld eller juridisk uppvigling påstås inte utan belägg.
+- ACHR:s uppgift om 839 gripanden är en summering av rapporterade gripanden enligt arméuttalanden och ska inte beskrivas som 839 unika personer.
 
 ## Källor
 
@@ -118,4 +130,4 @@ FOLKTRIBUNALEN ska följa rättsprocessen, bevara skillnaden mellan myndighetsup
 - Syrian Observatory for Human Rights, 2 november 2026, uppmaning att inte skuldbelägga syriska flyktingar kollektivt: https://www.syriahr.com/en/387663/
 - Access Center for Human Rights (ACHR), månadsrapport för oktober, publicerad 9 november 2026. 839 är summerade rapporterade gripanden enligt arméuttalanden, inte nödvändigtvis unika personer; rapporten dokumenterar också en incident med fientlig retorik efter mordet och säger att den inte fastställer juridisk uppvigling: https://achrights.org/en/2026/11/09/16652/
 
-**Faktastatus:** Mordet och gripandet stöds av flera rapporter och ett offentligt ISF-besked. Uppgifter om misstänktas identitet, nationalitet och bekännelse kommer från medieåtergivningar och Fides hänvisning till lokal press; de är inte presenterade som domstolsfastställda fakta. Motiv saknar offentlig bekräftelse. Inte publicerat.
+**Faktastatus:** Mordet och gripandet stöds av flera rapporter och ett offentligt ISF-besked. Uppgifter om misstänktas identitet, nationalitet och bekännelse kommer från medieåtergivningar och Fides hänvisning till lokal press; de är inte presenterade som domstolsfastställda fakta. Motiv saknar offentlig bekräftelse. Publicerad 11 november 2026; den live-deployerade bundle-versionen innehåller artikelkort och artikeltext med sluggen `samir-daou-jbeil`.
