@@ -335,9 +335,9 @@ Cladonia uppger att Allemansrätten, samebyarnas rätt till renbete, Länsstyrel
 **Publiceringsdatum:** Le Monde, 12 november 2026.  
 **Händelsedatum:** Le Monde hänvisar till Östersunds-Postens publicering den 16 oktober 2026.
 
-**OBEROENDE BEKRÄFTELSE:** Le Monde rapporterar att Cladonia Skog AB förvärvade ytterligare cirka 300 hektar i regionen den 16 oktober. Artikeln identifierar bolaget som bildat i augusti med Alex Karp som ensam aktieägare. Det stärker Fastighetsvärldens/Östersunds-Postens tidigare uppgift om Berg Storsjö 18:3 och 18:5 (cirka 300 hektar; cirka 5 miljoner kronor), men ersätter inte lagfarts- eller köpehandlingar.
+**OBEROENDE MEDIEÅTERGIVNING – inte självständig registerverifiering:** Le Monde rapporterar att Cladonia Skog AB förvärvade ytterligare cirka 300 hektar i regionen den 16 oktober. Artikeln identifierar bolaget som bildat i augusti med Alex Karp som ensam aktieägare. Det ger en andra publicering av Östersunds-Postens uppgift om Berg Storsjö 18:3 och 18:5 (cirka 300 hektar; cirka 5 miljoner kronor), men är inte en oberoende registerkontroll och ersätter inte lagfarts- eller köpehandlingar.
 
-**Juridisk åtskillnad:** Den rapporterade köparen är Cladonia Skog AB. Karp ska beskrivas som bolagets rapporterade ägare/huvudman, inte som den person som själv undertecknat eller genomfört varje fastighetsåtgärd. Le Monde är en oberoende publicering som återger Östersunds-Postens uppgift; den är inte en egen registerutdragning.
+**Juridisk åtskillnad:** Den rapporterade köparen är Cladonia Skog AB. Karp ska beskrivas som bolagets rapporterade ägare/huvudman, inte som den person som själv undertecknat eller genomfört varje fastighetsåtgärd. Le Monde är en andra redaktionell publicering som återger Östersunds-Postens uppgift; den är inte en självständig dokumentkontroll eller egen registerutdragning.
 
 **Motsägelse och avgränsning:** SVT:s tidigare rapportering om att flera fastigheter ingick i ett samlat SCA-förvärv måste hållas isär från den separata 300-hektarsaffär som Le Monde och Östersunds-Posten beskriver. Det går inte att fastställa ett slutligt sammanlagt hektartal enbart genom att addera medieuppgifter. Rapportera därför tills vidare 15 000 hektar i den stora SCA-affären och en separat rapporterad tilläggsaffär om cirka 300 hektar, med uttryckligt förbehåll för fastighetsregisterkontroll.
 
