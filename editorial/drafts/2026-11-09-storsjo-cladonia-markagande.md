@@ -220,3 +220,29 @@ Sveriges Radio P4 Jämtland publicerade samma kväll en separat kort rapport och
 - Sveriges Radio P4 Jämtland, 10 november 2026: https://next.sr.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell
 
 **Öppet:** Hämta kommunens kallelse, deltagarlista, minnesanteckningar och eventuella skriftliga besked från Cladonia. Kontrollera videons fullständiga ordalydelse innan något motiv tillskrivs bolaget eller Alex Karp personligen.
+
+
+## Källuppdatering 11 november 2026 – kommunens återgivning efter mötet
+
+**Händelsedatum:** 10 november 2026.  
+**Publiceringsdatum:** 11 november 2026.
+
+**OBEROENDE RAPPORTERING / KOMMUNALA UPPGIFTER:** Nya Allehanda återger den 11 november kommundirektör Anders Wennerbergs och kommunstyrelseordförande Therese Kärngards beskrivning av mötet med en företrädare för Cladonia. Wennerberg säger att kommunen inte fick några stora nyheter och återger att företrädaren inte presenterade planer på datacenter eller mineralutvinning; enligt honom betonades i stället bevarande av skogen och möjlig förädling. Kärngard uppger att Cladonia beskrev markköpet som rekreationsinriktat och att Alex Karp bland annat vill åka skidor där.
+
+**PARTSUPPGIFT / ej bindande bolagsbesked:** Detta är kommunledningens återgivning av ett samtal med bolagets företrädare. Någon undertecknad bolagsförbindelse, ändrad skogsbruksplan, bindande markanvändningsrestriktion eller tillståndshandling som utesluter datacenter/mineralutvinning har inte visats i den rapportering som granskats. Uppgiften ska inte tillskrivas Alex Karp personligen som ett verifierat beslut; bolagets formella ståndpunkt behöver inhämtas direkt.
+
+**Viktig dokumentfråga:** Nya Allehanda uppger samtidigt att Tidningen Härjedalen har tagit del av köpekontraktet och att det anger syftet som att äga och förvalta skogsfastigheten samt bedriva skogsbruk. Det är en medieåtergivning av en handling, inte ett originalkontrakt som redaktionen har hämtat. Skogsbruk och rekreation behöver inte vara oförenliga, men kontraktets exakta lydelse, eventuella bilagor och villkor måste kontrolleras innan bolagets framtida markanvändning beskrivs.
+
+**OBEROENDE KÄLLA / rapportering:**  
+- Nya Allehanda, 11 november 2026: https://nyaallehanda.se/ekonomi/bergs-kommun-efter-motet-om-karps-skogskop-inga-stora-planer  
+- TT/Nyheter24, 11 november 2026: https://nyheter24.se/nyheter/ekonomi/naringsliv/1529893-kommunen-om-miljardarens-markkop-han-ska-aka-skidor  
+- SVT, 10 november 2026, mötet i Svenstavik: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen
+
+**Öppet före publicering:**  
+1. Hämta originalkontraktet med bilagor och kontrollera den exakta syftesformuleringen.  
+2. Begär Cladonias skriftliga redogörelse för rekreation, skogsbruk, bevarande och eventuella framtida anläggningar.  
+3. Begär kommunens minnesanteckningar, deltagarlista och eventuell skriftlig uppföljning.  
+4. Kontrollera om bolagets uppgifter har omsatts i skogsbruksplan, avverkningsbeslut, jaktupplåtelser eller andra bindande avtal.  
+5. Fortsätt skilja mellan Alex Karp, Cladonia Skog AB, SCA och eventuella andra juridiska personer.
+
+**Redaktionell slutsats:** Mötet tillför en kommunalt återgiven avsiktsbild, inte en juridiskt bindande garanti. Artikeln ska ställa den återgivna rekreationsinriktningen bredvid kontraktets rapporterade skogsbruksändamål och därefter söka originalhandlingarna.
