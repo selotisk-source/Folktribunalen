@@ -146,3 +146,11 @@ Studien använde ett matchat urval om **242 deltagare** från ultraortodoxa och 
 - Håll algoritmisk serendipitet, subjektiv mening och påstådd acausalitet som tre separata analysnivåer.
 
 **Rekommenderad artikelvinkel:** Synkronicitet kan undersökas utan att förväxla meningsfull erfarenhet med bevisad orsak. Den digitala återkopplingsslingan är en konkret, testbar mekanism – inte en slutgiltig förklaring till varje sammanträffande.
+
+## Forskningsnotering 12 november 2026 – ”algorithmic synchronicity” i AI-tjänster
+
+En artikel av Phan Khanh Duy med flera, först publicerad online den 7 april 2026 och därefter i *Journal of Consumer Behaviour* 25(4), juli 2026, introducerar begreppen *algorithmic synchronicity* och *perceived relational reciprocity* i AI-baserad detaljhandel. Studien beskriver upplevd rytmisk samordning och emotionell återkoppling mellan användare och AI-system. Den bygger enligt abstraktet på tre delstudier: ett 2×2-experiment med PLS-SEM (n=326), NLP-analys av över 260 000 recensioner samt expertintervjuer triangulerade med tvååriga paneldata. Författarna rapporterar samband mellan upplevd rytmisk samordning, förtroende och lojalitetsavsikt; effekterna varierar mellan kontexter.
+
+**PRIMÄRKÄLLA:** [Wiley, DOI 10.1002/cb.70152](https://onlinelibrary.wiley.com/doi/abs/10.1002/cb.70152). Data uppges vara tillgängliga från korresponderande författare på rimlig begäran, inte som öppet dataset.
+
+**Avgränsning:** Detta är en marknadsförings- och HCI-konstruktion om människors upplevelse av AI-interaktion. Den visar inte att externa händelser orsakas av, förutsägs av eller står i kausalt samband med en användares tankar. Den kan däremot hjälpa protokollet att mäta upplevd tidsmässig samordning separat från faktisk händelsefrekvens, med förregistrerade kriterier, blind kodning och jämförelser mot slumpade tidsstämplar. Ingen oberoende replikation har identifierats i denna kontroll.
