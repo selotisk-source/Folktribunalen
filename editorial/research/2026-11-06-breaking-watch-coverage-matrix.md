@@ -1249,3 +1249,27 @@ A–S har delta-screenats mot snapshot 21:19. Nya substantiella underlag i **B, 
 **Arbetsflöde:** PR #8, #31, #43, #53 och #55 uppdaterade; PR #59 skapad som DRAFT; PR #16 matris/journal uppdaterad. Ingen merge, publicering eller LIVE-kontroll.
 
 Fullständig journal: [2026-11-12-breaking-watch-2231.md](2026-11-12-breaking-watch-2231.md).
+
+
+## Daterad uppdatering – 13 november 2026, 00:28 EET
+
+### Nya och ändrade kontrollpunkter
+
+| Spår | 13 november – status | Primärkälla / oberoende belägg | Nästa kontroll |
+|---|---|---|---|
+| **F – NVIDIA** | Styrelsen accepterade Jensen Huangs avgång 11 november; SEC 8-K inlämnad 12 november. Colette Kress interim-vd och kvar som CFO; Harvey C. Jones styrelseordförande. | **PRIMÄRKÄLLA:** SEC 8-K och NVIDIA-release. **OBEROENDE:** Reuters/AP. | Q3-resultat 17 november; Kress kommentar om garantier, AI-cloud agreements och kundförskott. |
+| **P – Kongressen** | House-brevet begärde Huang-briefing 18 november, svar senast 11 november. Ingen offentlig acceptans, ny tid eller inställelse identifierad. Singapore MHA säger att Alice Huang inte utreddes för spioneri. | **PRIMÄRKÄLLA:** House-kommittéernas brev, Singapore MHA, SEC 8-K. **OBEROENDE:** Reuters/AP. | Kontrollera briefingstatus och eventuella nya utskottsbrev; skilj begäran från subpoena/utfrågning. |
+| **O – Hormuz** | UKMTO #201–204 är fyra separata incidenter 10–11 november. #203 har flera skadade; #204 gäller MT DOMINICA PROSPERITY enligt Reuters, 22 evakuerade. | **PRIMÄRKÄLLA:** UKMTO Recent Incidents. **OBEROENDE:** Reuters. | Fartygs-/IMO-matchning, skaderapporter, last, ägare, operatör, AIS och försäkring. Ingen gärningsperson fastställd. |
+| **K – Cladonia** | SVT bekräftar mötet 10 november mellan Bergs kommunalråd och jurist för Cladonia. Le Monde återger 12 november en separat 300-hektarsuppgift via ÖP. | **OBEROENDE:** SVT/Le Monde. **ÖPPET:** direkta lagfarter, köpehandlingar och kommunprotokoll. | Hämta Lantmäteriet, Bolagsverket, Länsstyrelsens originalbeslut och kommunens protokoll. |
+| **R – Norrsundet** | Samråd om anläggningsplan för sex blykylda SMR, cirka 330 MWe, stänger 13 november. | **PRIMÄRKÄLLA:** Länsstyrelsen Gävleborg. | Samrådssammanställning och förslag till anläggningsplan senast 31 december; inget bygg-/drifttillstånd ännu. |
+| **I – Fennoskandien** | SOU 2026:58 läst mot 71 uppmaningar, mandatbegränsningar och Jämtlands historiska skattefjäll/lappbyar. | **PRIMÄRKÄLLA:** Riksdagen/SOU. **OBEROENDE:** Institutet för mänskliga rättigheter, Guardian, Justice Info. | Regeringens remiss/beredning, Sametingets svar, budget och genomförande. PR #61 är senare DRAFT. |
+| **B – Norge** | Statnett-stoppet och regeringens aviserade koncessionsordning fortsatt gällande; inga nya ändringar identifierade. | **PRIMÄRKÄLLA:** Statnett/regeringen. **OBEROENDE:** Reuters. | RME:s funktionskrav, remiss och regionala undantag. |
+| **E/S – CRMA/Urbergsskölden** | 46 nya EU-strategiska projekt i listan 9 oktober; inget nytt tillstånd eller produktionsbeslut identifierat. | **PRIMÄRKÄLLA:** EU-kommissionens projektlista/Publications Office. | Kontrollera nationella tillstånd, finansiering, byggstart och faktisk produktion. |
+
+### Oförändrade spår
+
+A, C, D, G, H, J, L, M, N, Q har screenats. Inget nytt offentligt primärdokument över notiströskeln identifierades i denna cykel. Detaljer och öppna frågor finns i den separata arbetsloggen 13 november.
+
+### Köstatus
+
+PR #47, #10, #14 och #53 har kompletterats med nya primärhandlingar/uppdateringar. PR #61 är ett senare granskningsutkast om SOU 2026:58. Ingen prioriteringsordning har ändrats. Ingen PR har mergats och ingen artikel är LIVE.
