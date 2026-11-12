@@ -149,3 +149,25 @@ Källor:
 - PR #22 uppdaterat med UNIFIL:s fältbild och civila konsekvenser.
 - PR #16:s researchjournal, levande täckningsmatris och masterplan uppdaterade.
 - Ingen ny artikel-PR skapad, ingen merge, ingen publicering och ingen LIVE-kontroll. Samtliga berörda ärenden är fortsatt öppna granskningsutkast.
+
+
+#### F/P. NVIDIA-exporter – rapporterad fördröjning av exportkontroll och kongressens records request
+
+**Händelsedatum:** Axios uppger att Trump godkände en ny åtgärd den 5 november; Situation Room-mötet ska ha hållits samma dag. **Publiceringsdatum:** Axios/Reuters 11 november; Reuters om Warren/Coons 12 november.
+
+- **PARTSUPPGIFT / Axios:** Sex högt uppsatta källor uppges ha beskrivit hur Trump den 5 november godkände en ny åtgärd mot företag misstänkta för att avleda NVIDIA-chip till Kina, men att handelsminister Howard Lutnick därefter fördröjt genomförandet. Axios beskriver ett möte med Bessent, Hegseth, Greer och Rubio samt ett senare Oval Office-samtal där Trump enligt källorna rådgjorde med Elon Musk.
+- **OBEROENDE RAPPORTERING:** Reuters återgav Axios den 11 november men bekräftade inte själv mötesförloppet. Commerce Department-talespersonen förnekade enligt Axios att Bessent konfronterat Lutnick och avstod från att kommentera övriga anklagelser. Vita huset och Lutnicks talesperson svarade inte omedelbart på Reuters.
+- **PRIMÄRKÄLLA – Senate Banking Committee, 9 november:** Elizabeth Warren och Jim Banks publicerade ett gemensamt D/R-uttalande som efterlyser hårdare exportkontroll och hänvisar till rapporterade godkännanden för hundratusentals avancerade AI-chip till Kina. Detta är primärkälla för deras ståndpunkt, inte verifierad Commerce-statistik.
+- **PRIMÄRKÄLLA – House, 5 november:** ordförandena Mast, Moolenaar och Crawford begärde en gemensam stängd briefing med Jensen Huang den 18 november; Huang ombads acceptera eller föreslå alternativ senast 11 november. Det är en briefingbegäran, inte en stämning.
+- **OBEROENDE RAPPORTERING – Warren/Coons:** Reuters rapporterade 12 november att senatorerna begärt att Commerce, State och Vita huset bevarar dokument om chipexporter och den rapporterade underrättelseoperationen, samt begärt en kongressbriefing. Direkt undertecknad skrivelse/PDF lokaliserades inte i denna kontroll.
+- **Verkställighetskontroll:** Reuters anger att inga nya Entity List-tillägg publicerats sedan oktober 2025. Ingen offentlig BIS-order, Federal Register-regel eller Megaspeed-post identifierades i denna kontroll. Det utesluter inte konfidentiella åtgärder.
+- **Betydelse:** spåret kopplar ihop bolagsstyrning, exportlicenser, interagency-konflikt och kongressens tillsyn. Beslut, implementering, Entity List, licensindragning och straffrättslig åtgärd är olika steg.
+- **Öppet:** svar på records request, briefingens genomförande 18 november, eventuell BIS-åtgärd, Entity List-status, licensvolymer, faktisk export och slutanvändare.
+
+Källor:
+- Axios: https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls
+- Reuters, 11 nov: https://www.reuters.com/world/china/lutnick-stalled-trump-crackdown-diversion-nvidia-chips-china-axios-reports-2026-11-11/
+- Senate Banking Committee: https://www.banking.senate.gov/newsroom/minority/warren-banks-statement-on-nvidias-continued-export-of-advanced-ai-chips-following-reports-of-foreign-intelligence-operation
+- House Foreign Affairs: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
+- Reuters, 12 nov: https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/
+- BIS: https://www.bis.gov/news-updates
