@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Breaking Watch: täckningsmatris
 
 **Ursprunglig kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
-**Senaste delta-screening:** 12 november 2026, 13.52 Europe/Sofia  
+**Senaste delta-screening:** 12 november 2026, 19:10 Europe/Sofia
 **Omfattning:** A–S, 19 huvudspår  
 **Metod:** riktad kontroll av nya händelser, myndighets- och bolagsdokument, primärmaterial samt oberoende rapportering. Statusen skiljer mellan ny händelse, ny dokumentuppgift och äldre kontrollpunkt.
 
@@ -1151,3 +1151,30 @@ Samtliga huvudspår A–S screenade mot föregående journal 12:20. Substantiell
 - PR #16: denna matris och en separat researchjournal har uppdaterats.
 
 **Publicering:** Ingen artikel har mergats eller publicerats i denna cykel. Samtliga berörda artikelärenden förblir granskningsutkast.
+
+## Delta-screening 12 november 2026, 19:10 EET
+
+| Spår | Senaste kontroll och nytt underlag | Källstatus | Öppen fråga / nästa kontrollpunkt |
+|---|---|---|---|
+| A – Palantir | Q3-rapporten och 10-Q finns redan i utkastet; cloud-hosting-åtagandet på 5,6 md USD är ett flerårigt inköpsåtagande, inte omedelbar skuld. Inget nytt offentligt myndighetskontrakt verifierat i denna cykel. | PRIMÄRKÄLLA: SEC 10-Q. | Identifiera molnleverantör endast genom avtals-/notupplysning; följ faktisk myndighetsanvändning och upphandlingar. |
+| B – AI-datacenter | Norge/Statnett 9 nov: 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö, ytterligare 18 000 MW förfrågningar; tillfälligt stopp för nya reservationer senast till 1 aug 2027. Siemens AG 12 nov: preliminärt Q4, datacenter näst största vertikal och tresiffrig ordertillväxt FY26. | PRIMÄRKÄLLA: Regjeringen, Statnett, Siemens pressmeddelande och presentation. | Följ norsk tillståndsordning, RME:s godkännande av funktionskrav och vilka projekt som faktiskt får nätanslutning. |
+| C – Synkronicitet | Wiley-artikel 7 apr/July 2026 om upplevd ”algorithmic synchronicity” i AI-retail; tre studier, n=326, 260 000 recensioner och tvååriga paneldata. | PRIMÄRKÄLLA: Wiley-artikel. | Data endast på begäran; ingen oberoende replikation hittad. Konstruktionen mäter upplevelse, inte acausalitet. |
+| D – Sofia | Samuil-relaterat återförande och återbegravning 3 okt finns i befintligt utkast; ingen ny arkeologisk/forensisk rapport i denna cykel. | PRIMÄRKÄLLA/OBEROENDE BEKRÄFTELSE finns i tidigare journal. | Skilj fortsatt mellan historisk attribution, antropologiskt material från flera sarkofager och eventuell ny DNA-analys. |
+| E – Råvaror | EU-kommissionen godkände 46 nya CRMA-projekt 9 okt; 106 projekt totalt. Fem finska projekt och Viscaria i Sverige finns i bilagan. | PRIMÄRKÄLLA: C(2026)8051 och annex. | Strategisk status är inte gruvtillstånd, FID eller produktion; följ varje projekt separat. |
+| F – NVIDIA/finansiering | NVIDIA meddelade 12 nov att Jensen Huang lämnar omedelbart; Colette Kress blir interim-vd och behåller CFO-rollen; Harvey C. Jones blir ordförande. | PRIMÄRKÄLLA: NVIDIA newsroom; OBEROENDE BEKRÄFTELSE: Reuters/AP. | Inget skäl anges officiellt; styrelseutredningen är inte offentligt avslutad. Kontrollera 17 nov Q3-rapport och eventuella avtals-/garantiförändringar. |
+| G – Libanon | Ingen ny oberoende och primärkällestödd händelse passerade tröskeln i denna cykel. | Öppet bevakningsspår. | Fortsätt kontrollera UNIFIL/OCHA, kyrkliga samfund och lokala kulturarvsbeslut; särskilj partsuppgifter från verifierade civila konsekvenser. |
+| H – Kyrkor genom imperier | Ingen ny restaurerings-, ägande- eller myndighetsåtgärd identifierad i denna cykel för Wiesbaden, Warszawa, Prag, Sofia eller Varna. | Öppet bevakningsspår. | Fortsätt stad-för-stad med kyrkoarkiv och kulturarvsregister. |
+| I – Fennoskandien | Ingen ny offentlig mark-, skogsbruks-, rennärings- eller hästkulturåtgärd passerade tröskeln. | Öppet bevakningsspår. | Fortsätt jämföra historiska kartor, geologi, avverkningsanmälningar och rättighetsbeslut. |
+| J – Storsjöodjuret/Thiel | The Verge 20 okt analyserade fyra inspelade privata föreläsningar; Thiels egen First Things-essä 15 juli är primärkälla. | OBEROENDE BEKRÄFTELSE för läckta inspelningar; PRIMÄRKÄLLA för essän. | Håll privat föreläsning skild från offentlig text; identifiera inte Greta Thunberg som Antikrist – The Verge återger att Thiel uttryckligen förnekar detta. |
+| K – Cladonia/Storsjö | Bergs kommuns möte 10 nov och bolagets uppgifter finns redan i PR #32; ingen ny lagfarts-/fastighetsregistermatchning i denna cykel. | PARTSUPPGIFT och sekundär rapportering; registerkontroll återstår. | Hämta fastighetsbeteckningar och lagfarter innan areal eller ägarrelationer uppdateras. |
+| L – Skaga kapell | Ingen ny RAÄ-/länsstyrelse-/kyrkoarkivhandling identifierad. | Öppet bevakningsspår. | Fortsätt med byggnadsarkeologi, brand- och restaureringshistorik. |
+| M – Böckernas väg till Athos | Ingen ny offentligt dokumenterad donation, katalogisering eller digitalisering identifierad. | Öppet bevakningsspår. | Följ offentliga klosterkataloger och proveniensprojekt; publicera inte begränsade uppgifter. |
+| N – Skrift till Storebror | HMICFRS publicerade 12 nov en granskning av retrospektiv ansiktsigenkänning med 16 rekommendationer; full rapportlänk gav åtkomstfel. Home Offices dialog/förslag 4 nov är inte lag. | HMICFRS-publiceringsnotis primär; sakuppgifter i Guardian/Police Professional sekundära tills originalrapporten hämtas. | Hämta HMICFRS-PDF; följ svensk IMY-tillsyn och AI Act-implementering. |
+| O – Hormuz | Tre fartygsidentiteter rapporterade för 10–11 nov: Fujairah Energy, NCC Fajr och Dominica Prosperity. Matchning mot UKMTO 201-26/202-26 och ADNOC-notis är inte fullständigt fastställd. | Ministeruttalanden, Reuters, UKMTO och IMO; flera matchningar fortfarande OBEKRÄFTADE. | Få IMO-nummer, UKMTO-positioner och eventuella förorenings-/skaderapporter; tillskriv inte ansvar utan belägg. |
+| P – USA:s kongress | AP kallade Mississippi-loppet 11 nov, vilket ger Demokraterna en projicerad 55:e senatsplats; Alaska återstår. 73–25-voteringen 9 nov var en procedurfråga om att gå vidare med energipaketet, inte slutligt antagande. | OBEROENDE BEKRÄFTELSE: AP; PRIMÄRKÄLLA: Senatens procedurhandlingar. | Slutlig certifiering och exakt marginal; den nya kongressen tillträder 3 jan 2027. |
+| Q – Gripen/europeisk säkerhet | Ingen ny Gripen E/F-order eller leverans verifierad i denna cykel; befintlig beställningsbaslinje kvarstår. | Tidigare PRIMÄRKÄLLOR och bolagsmeddelanden. | Skilj beställning, avsiktsförklaring, leverans och operativ förmåga. |
+| R – Energi/större bolag | Siemens Energy publicerade FY2026-resultat 11 nov: orderstock 164 md euro, orderintag 68,1 md, omsättning 44,2 md, nettovinst 4,129 md och FCF före skatt 8,799 md; mål 20–22 % marginal 2030. Bolaget pekar ut datacenter som efterfrågedrivare. | PRIMÄRKÄLLA: Siemens Energy. Siemens AG:s preliminära Q4-resultat 12 nov är separat bolag och separat orderbok. | Skilj orderstock från intäkt/kassaflöde och framåtblickande mål från utfall. Följ Northvolt-områden separat. |
+| S – Urbergsskölden/infrastruktur | Onkalo fick drifttillstånd 22 okt till utgången av 2070, max 6 500 tU, ca 3 300 kapslar; STUK-inspektion krävs före driftstart. CRMA-listan har fem finska projekt och Viscaria i Sverige. | PRIMÄRKÄLLA: Finlands regering och EU-kommissionen; OBEROENDE BEKRÄFTELSE: Nagra. | Onkalo är slutförvar för använt kärnbränsle, inte energilager. Följ STUK:s startinspektion och långsiktig förvaltningsmodell. |
+
+### Arbetsflöde
+Uppdaterade befintliga utkast: PR #53 (Hormuz), #47 (NVIDIA governance), #14 (AI-finansiering), #31 (Norge/datacenter), #34 (Urbergsskölden), #38 (Synkronicitet), #28 (Thiel), #57 (ansiktsigenkänning). PR #10 innehåller redan Colom/55-sätesuppgiften; PR #32 innehåller redan Bergs-mötet; PR #52 innehåller redan Siemens Energy FY2026. Inga PR:ar mergades, ingen artikel publicerades och ingen LIVE-kontroll genomfördes.
