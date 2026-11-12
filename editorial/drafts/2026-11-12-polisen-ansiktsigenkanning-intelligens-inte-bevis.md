@@ -63,7 +63,7 @@ En hållbar ordning behöver åtminstone innehålla:
 
 ## Källor
 
-- The Guardian, 12 november 2026: https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-risk-wrongful-arrests-ethnic-minorities-police-watchdog-warns
+- The Guardian, 12 november 2026: https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns
 - Liberty, 12 november 2026: https://www.libertyhumanrights.org.uk/issue/retrospective-facial-recognition-report-shows-urgent-need-for-legislative-safeguards/
 - Home Office, 4 november 2026: https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology
 - GOV.UK, *Police use of facial recognition*: https://www.gov.uk/government/publications/police-use-of-facial-recognition/police-use-of-facial-recognition-a-guide-accessible-version
