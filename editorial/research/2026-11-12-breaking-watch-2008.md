@@ -204,3 +204,10 @@ Render visar de berörda tjänsterna som driftsatta, men innehållsverifiering m
 7. **K/S/E:** fortsätt med fastighetsregister, SGU/GTK, CRMA-projektakter och STUK:s Onkalo-kontroller.
 
 **Redaktionell regel:** alla nya texter är utkast. Ingen publicering utan chefredaktörens uttryckliga godkännande och efterföljande faktisk LIVE-kontroll.
+
+
+### O-komplettering – trafikflöde och pipelinevolym
+
+JMIC Advisory Note 113 anger 135 USA-assisterade/faciliterade kommersiella transiter under 96 timmar. Separat AIS-baserad marknadsspårning visar låga ensiffriga till låga tvåsiffriga dagliga passager utanför denna facilitation. Samtidigt var 211 kommersiella fartyg stationära vid större ankarplatser öster om sundet. Dessa mätserier kommer från olika populationer och ska inte summeras; de visar däremot en tydlig köbildning och att en del trafik sker under särskilda faciliteringsarrangemang.
+
+Reuters anger att East–West Pipeline för närvarande används för att leda omkring 4 miljoner fat råolja per dag till Yanbu, cirka 4 % av global tillförsel. Det är en Reuters-uppgift om flöde, inte en separat publicerad saudisk flödesorder. Ingen volymförlust kopplad till händelsen 9 november har belagts.
