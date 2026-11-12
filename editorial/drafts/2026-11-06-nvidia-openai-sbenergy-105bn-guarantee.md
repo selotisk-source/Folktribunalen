@@ -727,3 +727,28 @@ Källa: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthr
 NVIDIA:s officiella pressmeddelande den 12 november bekräftar att Jensen Huang lämnar president-, vd- och styrelseledamotsrollerna med omedelbar verkan. Colette Kress blir interimistisk vd och behåller CFO-rollen; Harvey C. Jones blir styrelseordförande. [NVIDIA:s pressmeddelande](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition). Reuters och AP rapporterar oberoende om skiftet.
 
 **Finansiell avgränsning:** Inget i pressmeddelandet ändrar eller annullerar de tidigare redovisade AI-molnavtalen, kapacitetsåtagandena eller garantierna. Ledningsskiftet är en styrnings- och kontinuitetsrisk att bevaka, inte i sig en ny skuld, garanti, default eller uppsägning. NVIDIA uppger att kundåtaganden och produktplaner fortsätter utan avbrott; detta är en partsuppgift. Nästa kontrollpunkt är Q3-resultatet den 17 november och eventuella nya upplysningar om garantier, leverantörsåtaganden, finansiering eller ledningskontroll.
+
+
+
+## Källuppdatering 12 november 2026 – Nebius Q3: kapacitetsförseningar och finansieringsmix
+
+**PRIMÄRKÄLLA – SEC Form 6-K, inlämnad 12 november 2026:** Nebius redovisade Q3-intäkter på **980,8 m USD** (+571 % år/år), justerad EBITDA **465,8 m USD** (icke-GAAP), capex cirka **7,3 md USD** och kassa **7,4 md USD** vid kvartalets slut. Bolaget redovisade även **325 m USD i icke återkommande intäkter** från en första fas av sin asset-light-modell. RPO uppgick till **38,7 md USD**. Q3-intäkterna ska därför inte likställas med enbart återkommande molnintäkter.
+
+**Kapacitet och leveransrisk:** Nebius säger att vissa tredjeparts-colocationfaser flyttats till första halvåret 2027. I New Jersey väntas mer än hälften av Microsoft-kontrakterad kapacitet levereras före årsskiftet; återstående delar är nu planerade till **Q2 2027**. Bolaget anger att DataOne började avveckla tillfällig elproduktion inför övergång till permanent kraft, vilket ändrade tidplanen. Bloom-bränsleceller är enligt Nebius redan i drift och byggs ut. Bolaget uppger att de berörda kundkontrakten ligger kvar. Detta är bolagets förklaring; faktisk leverans och driftsättning återstår att kontrollera.
+
+**Finansieringskedjan:** Nebius räknar med capex på cirka **27 md USD 2026** och **40–45 md USD 2027**. Bolaget uppskattar att förskottsbetalningar från kunder och asset-backed financing mot befintliga investment-grade-kontrakt ska täcka **75–85 %** av 2027 års investeringar. Förskottsbetalningar väntas enligt bolaget uppgå till cirka **10 md USD 2026** och **17–20 md USD 2027**. Detta är en prognos och en avsedd finansieringsmix – inte redan utbetalt kapital eller en ovillkorad kreditram.
+
+Faktiska finansieringsposter som bolaget redovisar separat är bland annat en **775 m USD** GPU-/kontraktsbaserad facility som stängdes i juli (SOFR + 2,50 %), **5,75 md USD** konvertibla skuldebrev emitterade i augusti, cirka **1 md USD** netto från ett ATM-program under Q3 samt en **3,5 md USD** senior secured facility med Citi som meddelades i oktober. Dessa får inte summeras med framtida kundförskott som om allt vore samma skuldslag.
+
+**Redovisningsmässig avgränsning:** SEC-rapporten visar cirka **14,19 md USD** i räntebärande skuld, cirka **9,41 md USD** i deferred revenue och cirka **1,77 md USD** i långfristiga operating-lease liabilities. Deferred revenue är en kontraktsförpliktelse att leverera framtida tjänster, inte bankskuld. RPO på 38,7 md USD är återstående kontrakterat prestationsåtagande, inte kontanter eller en garanti för full framtida intjäning. Lease liabilities ska hållas isär från finansiell skuld.
+
+**OBEROENDE BEKRÄFTELSE:** [Reuters, 12 november 2026](https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-strong-ai-demand-2026-11-12/) rapporterar den sänkta 2026-prognosen, förskjutna tredjepartskapaciteter och marknadsreaktionen. Reuters anger att aktien föll omkring 16 % under dagen. Bolaget säger samtidigt att egna anläggningar ligger enligt plan eller före plan; det är en partsuppgift, inte oberoende driftsverifiering.
+
+**Källor:**
+- SEC Form 6-K: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_6k.htm
+- Aktieägarbrev, Exhibit 99.2: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-2.htm
+- Q3-pressmeddelande, Exhibit 99.1: https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm
+
+**Korskoppling A/F:** Nebius upprepar att Palantir utsett bolaget till preferred AI cloud partner för sovereign AI. Det partnerskapet offentliggjordes redan 8 september 2026 och är inte en ny affär i denna cykel. Palantirs eget tillkännagivande: https://www.palantir.com/newsroom/press-releases/nebius-and-palantir-announce-partnership-to-advance-sovereign-ai-infrastructure/.
+
+**Artikelvinkel:** AI-infrastrukturens finansiella rörsystem – kundförskott, asset-backed debt, konvertibler och elanslutning. Den centrala frågan är skillnaden mellan kontrakterad effekt, faktiskt driftsatt kapacitet och intäkter som kan redovisas.
