@@ -262,3 +262,18 @@ Källor:
 - House Foreign Affairs Committee, 5 nov: https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset
 - Reuters, 12 nov, Warren/Coons: https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/
 - BIS public news index: https://www.bis.gov/news-updates
+
+### Källuppdatering 12 november 2026 – asiatisk leverantörskedja och remote access
+
+**Publiceringsdatum:** Reuters 12 november kl. 08:25 UTC.
+
+**OBEROENDE RAPPORTERING:** Reuters rapporterar att leverantörer i Taiwan och Sydkorea förbereder scenarier för ett möjligt ledningsbyte i NVIDIA. En anonym taiwanesisk leverantör säger att en efterträdare kanske inte skulle driva samma aggressiva kapacitetsbokningar som Huang. Analytiker beskriver samtidigt en möjlig inbromsning i nya ekosysteminvesteringar, men en annan marknadsaktör bedömer att kortsiktig påverkan kan bli begränsad eftersom kommande chipgenerationer redan är designade och i produktion och kundernas 2027-planer inte nödvändigtvis ändras av ett vd-byte.
+
+**Marknadsdata – Reuters vid publicering:** TSMC-aktien var ned omkring 2 procent, SK Hynix 1,6 procent och Samsung Electronics upp 0,8 procent. Detta är en ögonblicksbild från den asiatiska handeln, inte en långsiktig värdering av leverantörerna.
+
+**Ny fjärde riskkanal:** Reuters uppger också att kinesiska AI-bolag söker säkra tillgång till NVIDIA-chip via utländska vägar, eftersom de oroar sig för att Washington ska skärpa restriktioner mot fjärråtkomst till avancerade processorer. Detta är rapportering om företagens beteende och oro, inte ett bekräftat nytt amerikanskt förbud.
+
+**Artikelkonsekvens:** Lägg till en leverantörskedje- och kapacitetsdel i utkastet: Taiwan (TSMC och systemintegration), Sydkorea (HBM/minne), moln- och datacenterkunder samt remote-access-kontroll. Håll isär kortsiktigt produktionsflöde, framtida capex, ledningsrisk och juridiska exportrestriktioner.
+
+Källa:
+- Reuters, 12 november 2026: https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12/
