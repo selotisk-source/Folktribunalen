@@ -262,3 +262,25 @@ JMIC:s 12-novembernotering anger **135 USA-assisterade/faciliterade kommersiella
 ### East–West Pipeline – flödesbetydelse
 
 Reuters anger att Saudiarabien under den nuvarande Hormuzstörningen leder omkring **4 miljoner fat råolja per dag** genom East–West Pipeline till Yanbu, cirka **4 % av global tillförsel**. Detta är Reuters marknads-/flödesuppgift, inte ett separat publicerat saudiskt flödesbeslut. Den begränsade pipelineincidenten 9 november och det senare Houthi-anspråket blir därför viktiga att följa, men ingen faktisk volymförlust har belagts i det material som granskats.
+
+
+### Miljö- och räddningsuppföljning 12 november 2026 – GEM NO.2, Caroline Bezengi och IMO:s datumavvikelse
+
+**PRIMÄRKÄLLA – Sharjah Government Media Bureau, 12 november 2026:** Sharjah meddelade att stränderna återöppnas efter att föroreningen från ett tankfartygssläpp har begränsats och miljöbedömningar/övervakning genomförts. Separat meddelade Ras Al Khaimahs Public Services Department att sju stränder och kustplatser öppnats igen. Detta är myndighetsbeslut om allmänhetens tillträde, inte en fullständig vetenskaplig slutsats om återhämtning i hela ekosystemet.
+
+**PRIMÄRKÄLLA – UAE Ministry of Energy and Infrastructure via WAM, 30 oktober:** läckaget från tankfartyget **GEM NO.2** uppgavs vara stoppat vid källan och föroreningen koncentrerad utanför Umm Al Quwain, med utbredning mot Ras Al Khaimah, Ajman och Sharjah. Myndigheterna beskrev fortsatt mekanisk uppsamling, övervakning och miljöåtgärder. Det gör återöppningen den 12 november till en uppföljning av en tidigare incident, inte ett nytt oljeutsläpp.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade om incidenten och myndigheternas miljöåtgärder; den fullständiga miljöprovtagningen och långsiktiga ekologiska effekten har inte publicerats i det material som kontrollerats.
+
+**Separat Oman-spår – PRIMÄRKÄLLA:** Omans transportministerium identifierade den sedan augusti strandade tankern vid Al Qibliyah som **CAROLINE BEZENGI**. Myndigheten beskrev en slagsida på cirka 17 grader, grunt och stenigt vatten, svåra väderförhållanden och att överföring av lasten först kan ske när arbetsmiljö, stabilitet, utrustning och sjömätningar medger det. En rapport den 12 november om myndigheternas fortsatta arbete ska därför inte beskrivas som en ny grundstötning utan som fortsatt hantering av augustiincidenten.
+
+**Källkritisk korrigering – IMO:** IMO:s incidentnotering den 11 november innehåller formuleringen ”since 28 February 2016”. IMO-rådets primärmeddelande den 6 november anger däremot uttryckligen **28 February 2026** som startdatum för den nuvarande incidentperioden och redovisar över 130 verifierade attacker samt 25 dödade sjömän. Årtalet 2016 i den senare noteringen behandlas som ett sannolikt skrivfel, inte som en alternativ tidslinje. IMO:s 130 verifierade incidenter och JMIC:s högre regionala incidenttal är olika urval och ska inte adderas.
+
+Källor:
+- Sharjah Government Media Bureau, 12 november: https://cm.sharjah24.ae/en/Articles/2026/11/12/KMR10
+- Ras Al Khaimah, sju återöppnade stränder, 12 november: https://sharjah24.ae/en/Articles/2026/11/12/Ma5
+- UAE Ministry of Energy and Infrastructure/WAM, GEM NO.2, 30 oktober: https://www.wam.ae/en/article/c3051mm-oil-spill-from-gem-no-tanker-contained
+- Oman MTCIT, CAROLINE BEZENGI, 23 augusti: https://www.mtcit.gov.om/media-4/news-announcements-11/news-85/ministry-of-transport-continues-efforts-to-contain-oil-spill-from-caroline-bezengi-1471
+- IMO Council, 6 november: https://www.imo.org/en/MediaCentre/PressBriefings/pages/Extraordinary-Council-36.aspx
+
+**Öppet:** fullständiga miljöprovresultat, sediment-/vattenprov, återöppningskriteriernas mätvärden, slutlig skadebesiktning för GEM NO.2 och CAROLINE BEZENGI:s faktiska lastöverföring.
