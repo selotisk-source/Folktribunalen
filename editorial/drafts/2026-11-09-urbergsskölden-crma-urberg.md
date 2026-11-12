@@ -337,3 +337,18 @@ Källor:
 - GTK, studie om stängda avfallsområden, 4 juni 2026: https://www.gtk.fi/ajankohtaista/tutkimus-suomen-suljettujen-kaivannaisjatealueiden-hyodyntamispotentiaali-on-rajallinen/
 
 **Nästa kontrollpunkter:** kontrollera RAKKA:s täckning mot CRMA artikel 27.4; begär nationell rapportering om 2025/2026-milstolpar; följ operatörernas preliminära bedömningar till 24 november 2026; och granska hur GTK prioriterar provtagning fram till 24 mars 2027.
+
+## Källuppdatering 12 november 2026 – Onkalos licensvillkor i detalj
+
+**Händelsedatum:** 22 oktober 2026. **Publiceringsdatum:** 22 oktober 2026. Finlands regering beviljade Posiva Oy drifttillstånd för inkapslingsanläggningen och slutförvaret vid Olkiluoto till och med utgången av 2070. Tillståndet omfattar högst 6 500 ton uran (tU) använt kärnbränsle från Olkiluoto och Lovisa, motsvarande cirka 3 300 kapslar. När verksamheten är fullt etablerad är taket 60 kapslar per år. Slutförvarsdriften beräknas fortsätta in på 2120-talet; efter förslutning övergår ansvaret för bränslet till staten enligt kärnenergilagen.
+
+**PRIMÄRKÄLLA:** [Finlands regering, 22 oktober 2026](https://valtioneuvosto.fi/en/-/1410877/government-grants-operating-licence-for-posiva-s-spent-nuclear-fuel-encapsulation-and-final-disposal-facility?languageId=en_US). **OBEROENDE BEKRÄFTELSE:** [Nagra](https://www.nagra.ch/news/weltpremiere-erstes-tiefenlager-der-welt-darf-den-betrieb-aufnehmen) och [JETRO](https://www.jetro.go.jp/biznews/2026/10/7b8f4d1f4c2a.html) beskriver beslutet som världens första drifttillstånd för ett geologiskt slutförvar för använt kärnbränsle.
+
+**Avgörande avgränsning:** Drifttillståndet betyder inte att slutförvaringen har startat. STUK måste göra en separat inspektion enligt §20 i kärnenergilagen innan Posiva får ta anläggningen i drift. Posiva ska dessutom lämna en periodisk säkerhetsbedömning och uppdaterad långtidssäkerhetsredovisning till STUK inom tio år. Posivas ägare TVO och Fortum ansvarar för att tillräckliga ekonomiska förutsättningar finns. Något bekräftat startdatum har inte publicerats.
+
+Onkalo är ett slutförvar för använt kärnbränsle, inte ett energilager och inte ett exempel på Cavecore för kraftlagring. Det kan däremot användas som ett jämförelsefall för långsiktig civil underjordisk förvaltning, ansvarskedjor och statligt övertagande efter förslutning.
+
+### CRMA – nordisk projektlista
+Kommissionen godkände den 9 oktober 2026 sin andra EU-lista med 46 strategiska projekt; totalt anges nu 106 strategiska projekt under CRMA. I den nya bilagan finns fem projekt i Finland – CoNiKo/Kokkola, Hautalampi, Arctial, Sokli och Suhanko – samt Viscaria Copper Project i Sverige. [Kommissionens urvalssida](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma/selected-projects_en) och [beslutsbilagan](https://single-market-economy.ec.europa.eu/document/download/efabd887-9c12-4a3d-910e-8433c0f63a81_en?filename=C_2026_8051_F1_ANNEX_EN_V3_P1_5091583.PDF).
+
+Strategisk projektstatus är inte ett gruvtillstånd, miljögodkännande, byggstart, slutligt investeringsbeslut eller bevis på kommersiell produktion. Varje projekt måste följas separat genom tillstånd, finansiering, byggnation och faktisk produktion.
