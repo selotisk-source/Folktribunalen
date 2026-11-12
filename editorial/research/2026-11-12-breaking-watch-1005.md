@@ -41,7 +41,7 @@
 
 **Händelsedatum och publiceringsdatum:** 10 november 2026.  
 **PRIMÄRKÄLLA:** UNIFIL uppger att en rutinpatrull nära Wadi Jilu besköts med omkring ett dussin skott. Patrullen besvarade elden efter att ha identifierat ett mynningsblänk; skytten upphörde. Ingen fredsbevarare skadades. UNIFIL identifierade inte skytten och uppmanade Libanons regering att utreda: https://unifil.unmissions.org/en/press-releases/unifil-statement-10-november-2026  
-**OBEROENDE BEKRÄFTELSE:** AFP:s rapportering via Al Jazeera återger samma händelse.  
+**OBEROENDE MEDIERAPPORTERING – inte självständig verifiering av skytten:** AFP:s rapportering via Al Jazeera återger UNIFIL:s uttalande. Den tillför ingen oberoende identifiering av skytten eller kontroll av skottlossningens förlopp.  
 **ÖPPET:** skyttens identitet, motiv och utredningsresultat. Händelsen visar ett fortsatt riskläge inför UNIFIL:s mandatavslut den 31 december 2026, men säger i sig inget om en specifik kristen by eller kyrka. Ingen ny kyrkspecifik skade- eller fördrivningsuppgift passerade tröskeln denna cykel.
 
 ## 2. Bekräftade statuspunkter i befintliga granskningsspår
