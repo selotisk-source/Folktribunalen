@@ -7,7 +7,7 @@
 
 ## Ingress
 
-Norge har länge lockat datacenterföretag med vattenkraft, relativt låga elpriser och tillgång till förnybar energi. Den 9 november 2026 tog utvecklingen en ny riktning: Statnett pausade nya reservationer av nätkapacitet för datacenter, samtidigt som regeringen aviserade en framtida konsessionsordning för både befintliga och nya anläggningar. Bakgrunden är en anslutningskö som på papperet omfattar långt mer effekt än vad Norge normalt förbrukar. Men siffrorna beskriver olika steg i projektkedjan – inte färdigbyggda datacenter. Den centrala politiska frågan är nu vilka digitala verksamheter som ska få tillgång till elnätet, på vilka villkor och vem som ska bära kostnaden.
+Norge har länge lockat datacenterföretag med vattenkraft, relativt låga elpriser och tillgång till förnybar energi. Den 9–10 november 2026 tog utvecklingen en ny riktning: Statnett pausade nya reservationer av nätkapacitet för datacenter den 9 november, och regeringen aviserade en framtida konsessionsordning den 10 november för både befintliga och nya anläggningar. Bakgrunden är en anslutningskö som på papperet omfattar långt mer effekt än vad Norge normalt förbrukar. Men siffrorna beskriver olika steg i projektkedjan – inte färdigbyggda datacenter. Den centrala politiska frågan är nu vilka digitala verksamheter som ska få tillgång till elnätet, på vilka villkor och vem som ska bära kostnaden.
 
 ## Ett ovanligt ingripande i anslutningskön
 
@@ -38,7 +38,7 @@ Siffrorna får inte summeras och beskrivas som installerad eller beslutad datace
 
 ## Regeringen vill välja vilka datacenter som ska prioriteras
 
-I ett separat pressmeddelande den 9 november meddelade Digitaliserings- og forvaltningsdepartementet och Energidepartementet att regeringen vill utreda och införa en konsessionsordning för etablering och drift av datacenter. Den aviserade ordningen är tänkt att omfatta både befintliga och framtida anläggningar, med övergångsregler för redan etablerad verksamhet.
+I ett separat pressmeddelande den 10 november meddelade Digitaliserings- og forvaltningsdepartementet och Energidepartementet att regeringen vill utreda och införa en konsessionsordning för etablering och drift av datacenter. Den aviserade ordningen är tänkt att omfatta både befintliga och framtida anläggningar, med övergångsregler för redan etablerad verksamhet.
 
 Regeringen pekar på digital säkerhet, beredskap och behovet av beräkningskapacitet i Norge, Norden och Europa. Verksamheter som stöder försvar, polis, räddningstjänst, sjukvård, mobilnät och finansiella tjänster lyfts fram som samhällsviktiga exempel. Datacenter som används för kryptoutvinning ska enligt regeringens besked inte betraktas som samhällsnyttiga.
 
@@ -88,7 +88,7 @@ Den politiska betydelsen ligger inte i att protesterna skulle ha orsakat Statnet
 
 ## Redaktionell bedömning
 
-Den 9 november markerar inte att Norge stänger dörren för AI-industrin. Det markerar att staten och systemoperatören vill få större kontroll över ordningsföljden, de tekniska villkoren och samhällsnyttan innan ytterligare stora laster kopplas in.
+Besluten den 9–10 november markerar inte att Norge stänger dörren för AI-industrin. Det markerar att staten och systemoperatören vill få större kontroll över ordningsföljden, de tekniska villkoren och samhällsnyttan innan ytterligare stora laster kopplas in.
 
 Det verkliga testet blir hur den kommande konsessionsordningen utformas. Om kriterierna blir transparenta och teknikneutrala kan Norge skapa bättre förutsägbarhet för både samhällskritiska och kommersiella projekt. Om de blir otydliga riskerar investeringsbeslut, finansiering och redan ingångna avtal att hamna i osäkerhet.
 
@@ -97,7 +97,7 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 ## Primärkällor
 
 1. Statnett, “Midlertidige tiltak for fortsatt forsvarlig systemdrift”, publicerad 9 november 2026 kl. 08.45: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
-2. Norges regering, “Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge”, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+2. Norges regering, “Government seeks controlled growth of data centres in Norway”, 10 november 2026: https://www.regjeringen.no/en/whats-new/government-seeks-controlled-growth-of-data-centres-in-norway/id3192054/
 3. Stortinget, skriftlig fråga Dokument nr. 15:568 (2026–2027), inlämnad 9 november 2026: https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130177
 4. Stortinget, skriftlig fråga Dokument nr. 15:474 (2026–2027), inlämnad 3 november och skickad 4 november 2026: https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130053
 5. Stortinget, Representantforslag 34 LS (2026–2027): https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-034ls/
@@ -131,7 +131,7 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 
 ## Nordisk jämförelse: tre olika verktyg, inte ett gemensamt förbud
 
-**Ny primärkälla – Norge, 9 november 2026:** Regeringen meddelar att den vill utreda och införa en koncessionsordning för befintliga och framtida datacenter. Huvudprinciperna ska återkomma senare; detta är ännu inte en antagen lag eller ett färdigt tillståndssystem. Regeringen säger att kryptodrift inte ska räknas som samhällsnyttig, att digital säkerhet och beredskap ska vägas in, att stora nya laster ska bidra mer till nät- och systemkostnader och att industrin ska diskutera kommersiella bidrag till ny kraftproduktion. Statnett har separat pausat nya nätkapacitetsreservationer för datacenter till senast 1 augusti 2027. Statnetts egna siffror är 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i ytterligare förfrågningar. Det är olika projektstadier och får inte summeras som installerad drift.
+**Ny primärkälla – Norge, 10 november 2026:** Regeringen meddelar att den vill utreda och införa en koncessionsordning för befintliga och framtida datacenter. Huvudprinciperna ska återkomma senare; detta är ännu inte en antagen lag eller ett färdigt tillståndssystem. Regeringen säger att kryptodrift inte ska räknas som samhällsnyttig, att digital säkerhet och beredskap ska vägas in, att stora nya laster ska bidra mer till nät- och systemkostnader och att industrin ska diskutera kommersiella bidrag till ny kraftproduktion. Statnett har separat pausat nya nätkapacitetsreservationer för datacenter till senast 1 augusti 2027. Statnetts egna siffror är 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i ytterligare förfrågningar. Det är olika projektstadier och får inte summeras som installerad drift.
 
 **Ny primärkälla – Finland, 29–30 oktober 2026:** Regeringen överlämnade HE 282/2026 om ett nationellt datacenterregister. Förslaget omfattar anläggningar med minst 0,5 MW installerad IT-effekt. Operatören ska rapportera ägare, plats, användning, kapacitet, tidplan, el- och vattenanvändning. NESA ska föra registret och publicera kvartalsvisa översikter; första offentliga översikten planeras senast 30 september 2027. Föreslaget ikraftträdande är 1 april 2027. Viktig begränsning: registreringen är inte ett drifttillstånd och får enligt förslaget inte användas för att godkänna eller avslå ett enskilt projekt. Det är alltså ett informations- och beredskapsinstrument, inte ett byggstopp.
 
@@ -141,7 +141,7 @@ Den viktigaste frågan är därför inte bara hur många megawatt datacenter Nor
 
 ### Källor och kontrollstatus
 
-- **PRIMÄRKÄLLA:** Norges regering, 9 november 2026: https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/
+- **PRIMÄRKÄLLA:** Norges regering, 10 november 2026: https://www.regjeringen.no/en/whats-new/government-seeks-controlled-growth-of-data-centres-in-norway/id3192054/
 - **PRIMÄRKÄLLA:** Statnett, 9 november 2026: https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
 - **PRIMÄRKÄLLA:** Finlands regering, 29 oktober 2026: https://valtioneuvosto.fi/en/-/1410877/government-proposes-new-data-centre-register-to-improve-situational-awareness
 - **PRIMÄRKÄLLA:** Eduskunta, HE 282/2026 vp: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-60520
@@ -233,7 +233,7 @@ I ett villkorat scenario där alla annonserade amerikanska gasprojekt byggs och 
 
 **Betydelse för Norge:** Statnetts paus och regeringens aviserade koncessionsordning kan styra om investeringar mot nätförstärkning, flexibel anslutning och ny ren produktion – eller skapa incitament för lokal fossil reservkraft. BNEF:s 181 GW är huvudsakligen amerikansk och får inte presenteras som en europeisk eller norsk projektpipeline. Den ger däremot ett internationellt jämförelsematerial för frågan om tillfällig reservkraft riskerar att bli långvarig basproduktion.
 
-**Öppna frågor:** om norsk koncessionsordning kommer att kräva bindande additionalitet i ren elproduktion, flexibel last, kostnadsbidrag till nätet, tidsgränser för fossil reservkraft och offentlig redovisning av faktisk drift. Ingen av dessa villkor är fastställd i de norska beskeden den 9 november.
+**Öppna frågor:** om norsk koncessionsordning kommer att kräva bindande additionalitet i ren elproduktion, flexibel last, kostnadsbidrag till nätet, tidsgränser för fossil reservkraft och offentlig redovisning av faktisk drift. Ingen av dessa villkor är fastställd i de norska beskeden den 9–10 november.
 
 **Källstatus**
 - **PRIMÄRKÄLLA:** BloombergNEF, 11 november 2026, *Data Center Power Demand Is Set to Surge, Raising New Climate Challenges*.
