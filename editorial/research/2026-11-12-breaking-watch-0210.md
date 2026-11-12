@@ -11,7 +11,7 @@
 **UKMTO 201-26**
 - **Händelsedatum:** 10 november 2026, 13:38 UTC.
 - **Publiceringsdatum:** UKMTO-produkt 10 november; sekundär transkription publicerad 11 november.
-- **Källstatus:** UKMTO:s notislista är primär publiceringskanal. Full PDF hämtades inte direkt; uppgifterna om en tanker träffad av okänd projektil 19 nautiska mil nordost om Lima, Oman, besättning säker och ingen rapporterad miljöpåverkan kommer från detaljerad sekundär transkription. Klassificering ATTACK, källrad Master.
+- **Källstatus:** UKMTO:s Warnings-sida beskriver produktklassificeringarna men den individuella listan renderades inte i hämtad sidtext; Recent Incidents visade 0 rapporter. Full PDF hämtades inte direkt. Uppgifterna om tanker träffad av okänd projektil 19 nautiska mil nordost om Lima, Oman, besättning säker och ingen rapporterad miljöpåverkan kommer från detaljerad sekundär PDF-transkription. Klassificering ATTACK, källrad Master.
 - **Oklart:** fartyg, IMO, flagg, last, skadans omfattning, ansvarig aktör och slutlig skadebedömning.
 
 **ADNOC Logistics & Services**
@@ -23,7 +23,7 @@
 **UKMTO 202-26**
 - **Publiceringsdatum:** 11 november 2026.
 - **Händelsedatum/tid:** TBC.
-- **Källstatus:** PRIMÄRKÄLLA – UKMTO:s produktlista visar en ny 202-26-notis. Sekundär PDF-transkription anger SUSPICIOUS ACTIVITY, incident med en tanker i Strait of Hormuz, källa Military authorities, besättning/skada/miljöpåverkan okända.
+- **Källstatus:** UKMTO:s Warnings-sida definierar produktfamiljen men den individuella listan renderades inte i hämtad sidtext; Recent Incidents visade 0 rapporter. Sekundär PDF-transkription återger en numrerad 202-26-produkt: SUSPICIOUS ACTIVITY, incident med tanker i Strait of Hormuz, källa Military authorities, besättning/skada/miljöpåverkan okända. Original-PDF hämtades inte direkt.
 - **Oklart:** om händelsen är ett separat skrov eller om den kan kopplas till en annan rapport. Den får inte beskrivas som en bekräftad projektilträff, minexplosion eller brand.
 
 **Didamar, Oman**
@@ -45,7 +45,7 @@ Källor:
 ### Q. Gripen – Vangest i Portugal går in i den internationella komponentkedjan
 
 - **Händelsedatum/publiceringsdatum:** 11 november 2026.
-- **PARTSUPPGIFT:** Saab och Vangest har enligt Saabs uttalande, återgivet av Agência Lusa, ingått ett långsiktigt partnerskap. Första fasen gäller industrialisering av åtta komplexa komponenter för Gripen E/F vid Vangests anläggning i Marinha Grande, Portugal.
+- **PARTSUPPGIFT:** Saab och Vangest har enligt Saabs uttalande, återgivet av Agência Lusa, ingått ett långsiktigt partnerskap. Första fasen gäller industrialisering av åtta komplexa komponenter för Gripen E/F vid Vangests anläggning i Marinha Grande, Portugal. ECO rapporterade redan 23 april och 26 juli att Vangest ingick i Saabs portugisiska leverantörsnätverk; nyheten preciserar alltså omfattningen av en befintlig relation.
 - **OBEROENDE BEKRÄFTELSE – begränsad:** Lusa/Observador och Euronews rapporterar samma företagsbesked. Detta bekräftar att avtalet offentliggjorts, inte att serietillverkning startat.
 - **Oklart:** värde, produktionsstart, volym, komponentidentiteter och antal jobb. Portugal har ännu inte valt ersättare till F-16; Gripen är ett av flera alternativ. Partnerskapet är inte en flygplansorder.
 - **Redaktionell åtgärd:** befintligt Gripen-utkast PR #12 kompletterat med tydlig skillnad mellan leverantörspartnerskap och portugisisk upphandling.
@@ -53,6 +53,8 @@ Källor:
 Källor:
 - Agência Lusa via Observador, 11 november: https://observador.pt/2026/11/11/saab-e-portuguesa-vangest-com-parceria-para-produzir-componentes-para-cacas-gripen/
 - Euronews, 11 november: https://www.euronews.com/2026/11/11/a-portuguese-group-will-manufacture-components-for-swedish-saab-fighter-jets
+- ECO, 26 juli 2026: https://eco.sapo.pt/reportagem/na-marinha-grande-ha-uma-empresa-que-produz-para-os-grifos-da-saab/
+- ECO, 23 april 2026: https://eco.sapo.pt/2026/04/23/portugal-ja-esta-a-participar-na-construcao-do-caca-gripen-avanca-a-saab/
 
 ### K. Cladonia/Storsjö – kommunen återger rekreationssyfte; kontraktets ordalydelse måste hämtas
 
