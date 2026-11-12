@@ -1142,3 +1142,24 @@ Den fullständiga daterade A–S-matrisen finns i `editorial/research/2026-11-06
 **Källprinciper:** Officiella pressmeddelanden och myndighetsbeslut är primärkällor för att ett beslut eller en partsuppgift har publicerats; oberoende rapportering används för korskontroll. Obekräftade fartygsmatchningar i Hormuz hålls åtskilda. NVIDIA:s avgång har inget officiellt angivet skäl. HMICFRS:s fullständiga rapport kunde inte hämtas i denna kontrollmiljö. Onkalo har drifttillstånd men får inte starta innan STUK:s separata inspektion.
 
 **Arbetsflöde:** Befintliga öppna draft-PR:ar uppdateras; inga PR:ar mergas och inget publiceras automatiskt. Prioritetsordningen i godkännandekön ändras inte.
+
+## Breaking Watch – 12 november 2026, 20:08 EET
+
+Samtliga huvudspår A–S har delta-screenats mot journalen 19:10. Substantiella deltan denna cykel: Nebius Q3/SEC 6-K och kapacitetsförseningar (B/F/R); JMIC Advisory Note 113 med fyra nya incidenter och tre identifierade fartyg, Saudi East–West Pipeline och satellitkartlagda möjliga oljeutsläpp (O/R); Alaska-domstolens beslut om rapport över underkända poströster (P); HMICFRS:s granskning av retrospektiv ansiktsigenkänning med 16 rekommendationer (N); brittiskt anskaffningsåtagande om tre norska minröjningsstödfartyg samt JEF/Northern Navies (Q). Fulltexten av Kotler–Mannino–Friston–Kelso hämtades och den tidigare öppna fulltextfrågan i C stängdes, utan att detta ändrar evidensnivån.
+
+### Faktiska draftuppdateringar
+- PR #14: Nebius Q3, SEC-finansiering, deferred revenue, debt, förskott och kapacitetsförseningar.
+- PR #31: Siemens datacenterorderstock och Nebius som avgränsat jämförelsefall.
+- PR #10: Alaska-domstolens beslut och preliminär rösträkning.
+- PR #38: fulltexten av den neurodynamiska review-artikeln och dess metodologiska begränsningar.
+- PR #53: JMIC 113, fartygsidentiteter, pipeline och satellitbaserade spilluppgifter.
+- PR #57: HMICFRS:s 16 rekommendationer och fortsatt blockerad originalrapport.
+- PR #58: nytt separat utkast om JEF Northern Navies och brittisk-norsk minröjningsanskaffning; placerat efter befintliga prioriteringar.
+
+### Prioritering och publicering
+Den befintliga ordningen ligger fast: **Hormuz → Gripen över Polen → USA:s kongress → Palantir Q3 → AI-infrastrukturens kreditkedja.** PR #58 är en senare kandidat och flyttar inte någon artikel före dessa fem. Ingen PR har mergats; ingen artikel har publicerats eller markerats LIVE.
+
+### CMS-/databasstatus
+Render-tjänsterna är driftsatta, men CMS-databasen kunde inte nås: Postgres-anslutningen avvisades eftersom IP-allowlisten är tom. Direkt öppning av de publika webbadresserna gav internt fel i kontrollmiljön. Ingen CMS-post eller publiceringsstatus har ändrats eller påståtts.
+
+Kanonisk journal: editorial/research/2026-11-12-breaking-watch-2008.md. Täckningsmatris: editorial/research/2026-11-06-breaking-watch-coverage-matrix.md.
