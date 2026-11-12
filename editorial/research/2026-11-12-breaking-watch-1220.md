@@ -214,3 +214,20 @@ Källa: Reuters, 12 nov 09:44 UTC: https://www.reuters.com/business/aerospace-de
 Källor:
 - Siemens, 11 nov: https://press.siemens.com/global/en/pressrelease/siemens-new-stainless-steel-valve-expands-liquid-cooling-offering-ai-data-centers
 - Siemens, 9 nov: https://press.siemens.com/global/en/pressrelease/siemens-wins-contract-digitize-and-increase-grid-capacity-austrias-karnten-netz-gmbh
+
+
+#### N. DSA-tillsyn – CJEU hör Meta och TikTok om avgiftsmetoden
+
+**Händelsedatum:** 12 november 2026 kl. 09:30 enligt domstolens kalender. **Status vid kontrollen:** förhandling planerad/genomförs; inget avgörande publicerat.
+
+**PRIMÄRKÄLLA:** EU-domstolens kalender anger förhandling i Commission v Meta Platforms Ireland (C-744/25 P) och Commission v TikTok Technology (C-745/25 P). Kommissionen överklagar tribunalens domar från 10 september 2025 som upphävde genomförandebeslut om plattformarnas DSA-tillsynsavgifter för 2023.
+
+**Frågan:** om beräkningsmetoden för genomsnittligt antal månatliga aktiva mottagare (AMAR), som ligger till grund för tillsynsavgiften enligt DSA, måste fastställas i en delegerad akt och inte kan införas genom en genomförandeakt. Det handlar om rättslig grund, transparens och hur tillsynsmyndigheten finansierar sin kontroll av mycket stora plattformar.
+
+**Källstatus:** kalendern bekräftar att förhandlingarna är utsatta till 12 november. Ingen dom eller slutlig rättslig bedömning har identifierats. Detta är en processuell händelse, inte ett avgörande om Meta eller TikTok har brutit mot DSA.
+
+**Artikelspår:** separat N-artikelidé om hur DSA:s tillsynsavgifter beräknas, vilka data som används och vilken rättslig kontroll plattformarna har över avgiftsunderlaget.
+
+Källa:
+- CJEU:s officiella kalender, 12 november: https://curia.europa.eu/site/jcms/d2_5117/en/jcms/d2_5481/en/jcms/d2_5117/de/jcms/d2_5117/lv/jcms/d2_5117/bg/
+- Målen C-744/25 P och C-745/25 P anges i kalendern under förhandlingar 12 november.
