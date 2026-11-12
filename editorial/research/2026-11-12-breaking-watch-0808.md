@@ -96,6 +96,7 @@
 ### P – USA:s kongress och institutionella makt
 - **PRIMÄRKÄLLA:** Senatens schema för 12 november, publicerat 11 november, anger att den planerade omröstningen omkring kl. 13.00 gäller cloture på nomineringen av Gregory Carl Cook till distriktsdomare, inte BAAJA.
 - För BAAJA/H.R. 2347 har cloture lämnats in på Thune–Capito substitute amendment #6883 och underliggande lagstiftningsfordon. Ändringsfrister löper 12 november. Senatens Vote 258 (10 november) var 62–21 för motion to proceed; det är inte slutlig passage.
+- **P/F – Remote Access Security Act:** H.R. 2683 passerade House 369–22 i januari och ligger i Senate Banking Committee sedan 13 januari; S. 3519 introducerades 5 augusti och hänvisades till samma utskott. Inget av förslagen är lag. Reuters 12 november om kinesiska AI-bolag som söker utländsk GPU-molnkapacitet gör frågan konkret, men uppgifterna bygger på anonyma källor och identifierar inga bindande avtal.
 - **Nästa kontroll:** cloture, amendment tree, slutlig Senate vote, House concurrence och certifierade valresultat. Skilj prognoser från certifiering och nuvarande kongress från den som tillträder 3 januari 2027.
 - Källa: https://www.democrats.senate.gov/2026/11/11/schedule-for-thursday-november-12-2026 ; https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm
 
@@ -127,7 +128,7 @@
 | C | Fördjupad | Två nya teoretiska modeller; ingen empirisk validering | Preregistrerade tester och replikationer |
 | D | Fördjupad | Ingen ny arkeologisk delta; Samuils återbegravning fortsatt dokumenterad | Originalrapport och mätprotokoll |
 | E | Fördjupad | GTK PLUS/Betolar forskningsprojekt | Resultat, tillstånd, kommersialisering |
-| F | Fördjupad | NVIDIA:s oberoende styrelseutredning och kongresspress | Styrelsebeslut, originalbrev, SEC/docket |
+| F | Fördjupad | NVIDIA:s styrelseutredning; Reuters om utländsk GPU-molnåtkomst; RASA-status | Styrelsebeslut, originalbrev, SEC/docket, faktisk GPU-hyra |
 | G | Screening | Inget nytt primärdokument | UN/OCHA, patriarkat, kommunala beslut |
 | H | Fördjupad | Varna-katedralens fasadmontering; parlamentariskt ministersvaret 1 oktober | Hämta svarspdf och NINKN-/tillsynsakt |
 | I | Screening | Inget nytt skogs-/rättighetsbeslut | SGU/GTK, Skogsstyrelsen, historiska kartor |
@@ -137,7 +138,7 @@
 | M | Screening | Inget nytt offentligt katalogsläpp | Athos kataloger/digitalisering |
 | N | Fördjupad | EES-talan i Estland; systemet samtidigt i drift | Målnummer, stämningsansökan, svaromål |
 | O | Fördjupad | IMO 134/25; Didamar rapporterat men skada obekräftad | UKMTO original, omansk myndighet |
-| P | Fördjupad | BAAJA:s procedurstatus 12 nov | Cloture, amendments, slutlig passage |
+| P | Fördjupad | BAAJA:s procedurstatus; RASA H.R.2683/S.3519 i senatsutskott | Cloture, amendments, RASA-markup och slutlig passage |
 | Q | Fördjupad | Saab AI-agentuppgift; Helsing Clarity | Oberoende test, operativ status, export |
 | R | Fördjupad | RWE–KKR financial close £12 md | Säkerheter, låntagare, FID, byggstart |
 | S | Fördjupad | GTK PLUS som forskningsspår | CRMA, RAKKA, Onkalo/STUK |
