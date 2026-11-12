@@ -118,3 +118,14 @@ Utkastet kräver chefredaktörens uttryckliga godkännande. Innan publicering sk
 **Öppet:** faktisk cellvolym, kvalitetsgodkännande, kundnamn, leveransavtal, avkastning/yield, bemanning och när kommersiell produktion kan visas i data.
 
 Källa: Energivärlden, “Northvolt och Europas batterifabriker”, publicerad 7 oktober och uppdaterad 13 oktober 2026: https://www.energivarlden.se/artikel/europa-kraftsamlar-for-att-ta-taten-i-batteriracet/
+
+
+## Kommunal tillståndsnotis 12 november 2026 – Ackumulatorn 3 och dnr 2026-4321
+
+**PRIMÄRKÄLLA – Skellefteå kommun, kungörelse 21 oktober 2026:** Kommunen publicerade en ansökan om bygglov för teknikhus och transformatorstationer på fastigheten **Ackumulatorn 3**, diarienummer **2026-4321**, med synpunktsfrist 5 november. Detta är en ny dokumenterad kommunal tillståndsprocess på den fastighet som förekommer i datacenterbevakningen.
+
+**Viktig avgränsning:** Den offentliga sammanfattningen identifierar inte sökanden och fastställer inte att ansökan tillhör EdgeConneX. Den får därför inte tillskrivas EdgeConneX förrän sökandens namn och fullständig akt har hämtats ur kommunens diarium. Ingen slutlig bygglovs- eller startbeskedsstatus har identifierats i denna kontroll.
+
+**Källstatus:** PRIMÄRKÄLLA för att ansökan finns och avser teknikhus/transformatorstationer på Ackumulatorn 3; OBEKRÄFTAD koppling till EdgeConneX.
+
+**Nästa kontroll:** begär ut hela akten 2026-4321, inklusive sökande, situationsplan, teknisk beskrivning, remissvar, beslut och eventuella överklaganden. Matcha först därefter mot EdgeConneX-projektet och fastighetsöverlåtelsen.
