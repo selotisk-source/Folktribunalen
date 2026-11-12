@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och levande status
 
-**Version:** 11 november 2026, 06.48 Europe/Sofia  
+**Version:** 12 november 2026, 10.05 Europe/Sofia  
 **Chefredaktör:** användaren  
 **Grundregel:** En artikel i taget. Research → komplett utkast → faktakontroll → redigering → separat godkännande. Efter godkännande publiceras artikeln via redaktionssystemet och kontrolleras LIVE innan nästa artikel påbörjas. Ingen automatisk publicering.
 
@@ -1013,3 +1013,17 @@ Alla tre PR är fortsatt DRAFT. Ingen merge och ingen LIVE-publicering har utfö
 ### O – Hormuz: oktobertrafik återhämtas samtidigt som attackerna når topp
 
 Reuters 10–11 november rapporterar 31 lastade LNG-tankfartyg ut genom Hormuz i oktober (23 Qatar, 8 UAE), samtidigt som Washington Institute räknade 37 kommersiella fartyg träffade under månaden. IMO anger 130+ verifierade attacker och minst 25 döda, men dess pressida har ett uppenbart skrivfel i konfliktstartens årtal (“2016” i stället för 2026); detta redovisas uttryckligen i PR #53 och researchjournalen. Ökad trafik får inte likställas med normaliserad säkerhet. PR #53 uppdaterat; DRAFT.
+
+
+---
+
+## Breaking Watch – 12 november 2026, 10:05 EET
+
+Full A–S-screening genomförd och dokumenterad i [researchjournalen 10:05](editorial/research/2026-11-12-breaking-watch-1005.md) samt i den levande täckningsmatrisen.
+
+**Materiella ändringar i befintliga granskningsspår:**
+- PR #53 – Hormuz: UKMTO-original-PDF:erna 201-26 och 202-26 hämtade direkt; bevisstatus och öppna frågor korrigerade.
+- PR #32 – Cladonia/Storsjö: Le Monde 12 november tillagt som oberoende bekräftelse av den rapporterade separata 300-hektarsaffären; bolaget hålls isär från Karp personligen och registerfrågor kvarstår.
+- PR #22 – Libanon: UNIFIL:s Wadi Jilu-uttalande 10 november återkontrollerat; händelsen och den oidentifierade skytten hålls isär från kyrkspecifika uppgifter.
+
+**Prioriteringsordningen ligger fast:** 1 Hormuz, 2 Gripen över Polen, 3 USA:s kongress, 4 Palantir Q3, 5 AI-infrastrukturens kreditkedja. Ingen artikel har mergats, godkänts eller publicerats. Databasbaserad webbkö är fortfarande skild från GitHub-gransknings-PR:erna.
