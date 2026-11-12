@@ -94,6 +94,30 @@ I den meningen blir Thiels Antikrist inte en journalistisk etikett att sätta p�
 ### Sekundär rapportering – används med tydlig attribution
 - Fortune, 15 oktober 2026, om Politicos inspelningar från Thiels föreläsningar i Nashville den 28 september och 5 oktober. Artikeln är sekundär rapportering av inspelningar som inte ingår i det primära intervjumaterialet ovan: https://fortune.com/2026/10/15/peter-thiel-antichrist-lectures-obama-pope-leo-ai-regulation/
 
+## Källuppdatering 12 november 2026 – Thiels offentliga text och Nashville-föreläsningarna
+
+### Thiels egen publicerade argumentation
+
+**PRIMÄRKÄLLA – Peter Thiel och Sam Wolfe, First Things, 15 juli 2026:** I essän *The Pope and the Antichrist* redovisar Thiel sin egen läsning av Joseph Ratzingers/Benedictus XVI:s eskatologi, Joachim av Fiore, Bonaventura och Hans Küngs idé om ett Weltethos. Texten är en offentlig författarposition, inte ett kyrkligt dokument eller en redogörelse för katolsk eller ortodox lära. Den bör läsas som Thiels egen politisk-teologiska tolkning.
+
+### Nashville-föreläsningarna
+
+**OBEROENDE RAPPORTERING OM PRIMÄRMATERIAL – POLITICO, 8 oktober 2026:** Politico uppger att redaktionen fått inspelningar från Thiels slutna föreläsningar i Nashville den 28 september och 5 oktober. Enligt Politicos återgivning kritiserade Thiel Barack Obama och påve Leo XIV för att använda oro kring AI för att vinna politiskt stöd. Han kopplade motstånd mot AI-utveckling och reglering till sin egen tolkning av Antikrist och en framtida världsordning.
+
+Inspelningarna har inte publicerats som fullständiga öppna ljudfiler i det material som kontrollerats här. De specifika uttalandena ska därför tillskrivas Politicos rapportering om inspelningarna, inte presenteras som en självständigt avlyssnad fullständig föreläsning. Fortune återgav samma rapportering den 15 oktober men är inte en oberoende bekräftelse av ljudmaterialet.
+
+### Teologisk motläsning
+
+**OBEROENDE TEOLOGISK KRITIK – First Things, brevsektionen för november 2026:** Ephraim Radner och Daniel B. Gallagher invänder mot hur Thiel och Wolfe använder Benedictus XVI, Hans Küng och idén om ett världsetos. De menar bland annat att essän läser in mer i Benedictus texter än vad källorna säkert bär. Detta är kvalificerad teologisk kritik från namngivna skribenter, inte ett officiellt ställningstagande från Heliga stolen.
+
+**Redaktionell följd:** Artikeln ska skilja mellan (1) Thiels egna publicerade resonemang, (2) Politicos återgivning av inspelade föreläsningar, (3) oberoende teologisk kritik och (4) historisk kristen eskatologi. Thiels användning av begreppet Antikrist får inte tillskrivas kristendomen som helhet. Inget i dessa texter visar i sig att hans privata teologi styr Palantirs produkter, avtal eller operativa beslut.
+
+**Källor:**
+- Peter Thiel och Sam Wolfe, *The Pope and the Antichrist*, First Things, 15 juli 2026: https://firstthings.com/the-pope-and-the-antichrist/
+- Calder McHugh, POLITICO, 8 oktober 2026: https://www.politico.com/news/2026/10/08/peter-thiel-antichrist-lectures-obama-pope-leo-00612345
+- Fortune, 15 oktober 2026: https://fortune.com/2026/10/15/peter-thiel-antichrist-lectures-obama-pope-leo-ai-regulation/
+- First Things, *Letters—November 2026*: https://firstthings.com/letters-november-2026/
+
 ## Öppna frågor före publicering
 1. Hämta och kontrollera ljudet till The Builders-avsnittet mot det automatiska transkriptet, särskilt avsnittet 24:00–31:00.
 2. Hämta originalinspelningarna eller fullständiga transkript från Nashville-föreläsningarna innan deras formuleringar citeras.
