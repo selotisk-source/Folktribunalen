@@ -1205,3 +1205,30 @@ Uppdaterade befintliga utkast: PR #53 (Hormuz), #47 (NVIDIA governance), #14 (AI
 | S | Ingen ny CRMA/GTK/Onkalo/STUK-händelse. | Ingen ny primärhandling. | STUK-inspektion, GTK RAKKA och Bergsstaten. |
 
 **Arbetsflöde:** PR #14, #31, #10, #38, #53 och #57 uppdaterade; PR #58 skapad som senare Q-kandidat. Ingen merge eller publicering. Full journal: [2026-11-12-breaking-watch-2008.md](2026-11-12-breaking-watch-2008.md).
+
+
+## Snapshot – 12 november 2026, 21:19 EET
+
+| Spår | Senaste kontroll i cykeln | Primärkällor / dokument | Nytt dokument eller händelse | Öppna frågor / nästa kontroll |
+|---|---|---|---|---|
+| A | 12 nov | OSR 22 jul; NHS FDP-sida; Guardian/Medact FOI | NHS-listan med 137 trusts rapporteras nedtagen efter att 29 trusts ifrågasatt live-/användningsstatus | Korrigerad trustlista, Imperial-utvärdering, eventuell ny OSR-handling |
+| B | 12 nov | Norsk regering; UK–Norway Letter of Intent | AI-samarbete om compute, säkerhet och försvar; norsk koncessionsplan för datacenter | MoU, licensprinciper, nätkapacitet och faktisk finansiering |
+| C | 12 nov | Aktuell forskningsscreening | Ingen ny reproducerbar evidens som ändrar protokollets status | Förregistrering, öppna dataset, replikation |
+| D | 12 nov | Bulgariska kultur-/arkeologiska källor screenade | Ingen ny relevant utgrävnings-/kulturarvshandling identifierad | Sankt Sofia, Serdica, Samuils gravföremål och proveniens |
+| E | 12 nov | GTK, SGU, Bergsstaten screenade | Ingen ny resursklass-/koncessions-/miljöhandling som passerar tröskeln | Resurs vs reserv, tillstånd och kommersiell drift |
+| F | 12 nov | NVIDIA Form 8-K 0001045810-26-000082; bolagsmeddelande; Reuters/AP | Jensen Huang avgick; Kress interim-CEO/CFO; Jones styrelseordförande | Orsak anges inte; utredningens mandat, efterträdare, Q3 17 nov |
+| G | 12 nov | UNIFIL, libanesiska och kyrkliga källor screenade | Ingen ny oberoende verifierad händelse i denna cykel | Civila konsekvenser, kyrkobyggnader, mark och rättsfall |
+| H | 12 nov | Kulturarvs- och kyrkoregister screenade | Ingen ny restaurerings-/ägandehandling identifierad | Separata stadsvisa tidslinjer och församlingsarkiv |
+| I | 12 nov | SGU/GTK, skogs- och rättighetskällor screenade | Ingen ny offentlig mark-/skog-/hästdokumentation | Historiska kartor, rennäring, avverkning, hästavel |
+| J | 12 nov | Folkloristik, runologi, hydrologi, offentliga uttalanden screenade | Ingen ny biologisk eller hydrologisk evidens | Frösöstenen, vittnesmål, Thiel-källor; symbolisk jämförelse separat |
+| K | 12 nov | Bergs kommun; Sveriges Radio | Cladonia-möte 10 nov, rapporterat 11–12 nov; kommunstyrelseordföranden beskriver samtalet positivt | Mötesanteckningar, fastighetsbeteckningar, lagfart, servitut och nyttjanderätter |
+| L | 12 nov | RAÄ, länsstyrelse och kyrkoarkiv screenade | Ingen ny restaurerings-/arkeologihandling identifierad | Datering, brand/återuppbyggnad, inventarier och ägande |
+| M | 12 nov | Athos-/bibliotekskataloger screenade | Ingen ny offentlig donation, katalogisering eller digitalisering | Proveniens, tryckerier, bokvägar och öppna kataloger |
+| N | 12 nov | HMICFRS officiellt rapportmeddelande; Guardian, Police Professional, Liberty | 16 rekommendationer om retrospektiv ansiktsigenkänning | Hämta full rapport; följ upp custody images, träffkontroll och lagförslag |
+| O | 12 nov | UKMTO Recent Incidents 203/204; IMO-lista 11 nov | Två separata attacker, händelsedatum 10 och 11 nov; fartyg inte namngivna i UKMTO-sammanfattningen | Fartygsidentitet, ansvar, last/skada, IMO:s uppdaterade totalsiffra |
+| P | 12 nov | Senate floor log; House Clerk | Proceduruppdatering, ingen ny antagen lag identifierad | Faktiska omröstningar, utskottsförhör och lagstiftningsstatus |
+| Q | 12 nov | Norsk regering/NORDEFCO; UK MoD; JEF | JEF Northern Navies Framework, tre brittiska minröjningsmoderfartyg, nytt arbete med nordisk försvarsavtalsram | Kontrakt, varv, leveranser, avtalstext; Gripen-order hålls separat |
+| R | 12 nov | Energi-/bolagskällor screenade | Ingen separat ny större bolagshändelse; Norge-data ligger under B | VPP, nät, lagring, Northvolt-återbruk och kassaflöden |
+| S | 12 nov | GTK RAKKA/gruvavfall, SGU, Bergsstaten, Posiva screenade | Ingen ny CRMA-/Onkalo-handling som passerar tröskeln | CRMA-genomförande, gruvavfallsdata, civil underjordisk lagring |
+
+**Publicering:** inga artiklar godkända, mergade eller LIVE i denna cykel. Fullständig källnotering: [2026-11-12-breaking-watch-2119.md](2026-11-12-breaking-watch-2119.md).
