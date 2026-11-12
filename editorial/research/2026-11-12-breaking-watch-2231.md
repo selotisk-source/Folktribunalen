@@ -73,7 +73,7 @@ Källor:
 
 **PRIMÄRKÄLLA – Oman MTCIT, 23 augusti:** Den sedan augusti strandade tankern vid Al Qibliyah identifieras som **CAROLINE BEZENGI**. Myndigheten beskriver cirka 17 graders slagsida, grunt och stenigt vatten, svåra väderförhållanden och att lastöverföring kräver ytterligare säkring, utrustning och sjömätning. En rapport om fortsatt hantering i november ska inte beskrivas som en ny grundstötning.
 
-**IMO-datumavvikelse:** IMO:s incidentnotering 11 november anger ”since 28 February 2016”. IMO-rådets primärmeddelande 6 november anger 28 februari **2026** som startdatum för den nuvarande incidentperioden och över 130 verifierade attacker samt 25 dödade sjömän. Årtalet 2016 behandlas som ett sannolikt skrivfel. IMO:s 130 och JMIC:s regionala högre incidenttal är olika urval och ska inte adderas.
+**IMO-källkontroll:** Direktläsning av IMO:s generalsekreteraruttalande 11 november visar ”since 28 February 2026”; IMO-rådets primärmeddelande 6 november anger samma startdatum. Ingen datumavvikelse föreligger. IMO:s över 130 verifierade attacker och JMIC:s regionala högre incidenttal är olika urval och ska inte adderas.
 
 Källor:
 - Sharjah, 12 november: https://cm.sharjah24.ae/en/Articles/2026/11/12/KMR10
@@ -113,7 +113,7 @@ Källor:
 | L – Skaga kapell | Ingen ny RAÄ-/länsstyrelse-/kyrkoarkivhandling. | Restaureringsbeslut, brand- och återuppbyggnadsdokument. |
 | M – Athos | Ingen ny katalogpost eller donation i denna delta; MOmA-digitaliseringen är redan baslinje. | Offentliga kataloger, proveniens och projektleveranser. |
 | N – Skrift till Storebror | Ny juridisk tidslinjekontroll: artikel 50 2 dec 2026; högrisk Annex III 2 dec 2027; produktregler 2 aug 2028. | Nationell tillsyn, faktisk efterlevnad och wallet-utrullning. |
-| O – Hormuz | Nytt: Sharjah/RAK återöppnar stränder; Omanfartyget identifierat som Caroline Bezengi; IMO 2016/2026-typo flaggad. | Miljöprov, fartygsbesiktning, UKMTO/IMO och försäkring. |
+| O – Hormuz | Nytt: Sharjah/RAK återöppnar stränder; Omanfartyget identifierat som Caroline Bezengi; IMO:s 11 nov-uttalande och 6 nov-rådsmeddelande anger båda 28 feb 2026. | Miljöprov, fartygsbesiktning, UKMTO/IMO och försäkring. |
 | P – USA:s kongress | Valprognos och BAAJA-procedur redan i PR #10; ingen slutlig passage av energipaketet. | Certifiering, utskottsordföranden efter 3 jan, slutlig lagtext. |
 | Q – Gripen/europeisk säkerhet | Saab AI-agentuppgift är bolags-/medierapporterad och redan i PR #12; inget oberoende testprotokoll. | Testdata, certifiering, beställningar och leveranser. |
 | R – Strategisk energi | Nytt: Blykallas Norrsundet-samråd stänger 13 nov; atNorth/Enersense tillför nät- och värmeprojekt. | Samrådsyttranden 13 nov, anläggningsplan senast 31 dec, FID och nätavtal. |
@@ -123,7 +123,7 @@ Källor:
 
 - **PR #59 skapad som DRAFT:** Norrsundet – sex blykylda SMR, samråd och tillståndskedjan. Ingen merge/publicering.
 - **PR #8 uppdaterad:** 8 november-bekräftelserna om återföring av kyrkliga föremål till Timios Prodromos och Serres klenodkammare.
-- **PR #53 uppdaterad:** UAE:s återöppnade stränder, GEM NO.2, CAROLINE BEZENGI och IMO:s datumavvikelse.
+- **PR #53 uppdaterad:** UAE:s återöppnade stränder, GEM NO.2, CAROLINE BEZENGI och direktkontrollerad IMO-statistik; ingen datumavvikelse.
 - **PR #31 uppdaterad:** atNorth/Enersense 130 kV-ledningar och Calentix spillvärmeprojekt.
 - **PR #43 uppdaterad:** Skellefteå dnr 2026-4321; sökanden är inte identifierad i den offentliga sammanfattningen och koppling till EdgeConneX är obekräftad.
 - **PR #55 uppdaterad:** AI Act/AI Omnibus tidslinje för transparens och högriskregler.
