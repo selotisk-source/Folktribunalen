@@ -16,7 +16,7 @@ På två dygn har fyra skilda rapportkedjor fört in nya uppgifter om sjöfart o
 
 **OBEROENDE BEKRÄFTELSE / sekundär återgivning av primärnotis:** UKMTO Warning 201-26 klassificeras som ATTACK. Den återgivna notisen anger att en tanker enligt befälhavaren träffades av en okänd projektil cirka 19 nautiska mil nordost om Lima, Oman. Besättningen uppgavs vara säker och ingen miljöpåverkan rapporterades vid första rapporteringen. Befälhavaren skulle göra en skadebedömning vid första ljus.
 
-UKMTO:s Warnings-sida beskriver varningarnas officiella klassificeringar, men den individuella produktlistan ligger i en inbäddad vy som inte återgavs i den hämtade sidtexten. Sidan Recent Incidents visade 0 rapporter vid kontrollen. Den fullständiga PDF-filen för 201-26 kunde inte hämtas direkt; uppgifterna ovan kommer därför från en detaljerad sekundär transkription av den numrerade PDF-produkten hos en maritim branschkälla. Tankerns namn, IMO-nummer, flagg, last, skadans omfattning och ansvarig aktör är inte fastställda i det underlag som hämtats.
+**PRIMÄRKÄLLA – UKMTO Warning 201-26, original-PDF hämtad direkt 12 november:** https://www.ukmto.org/-/media/ukmto/products/20261110-ukmto_warning_201_26.pdf?rev=f047f3d39cdd4b40b9eb0c7f74f7ed22. PDF:en bekräftar incidentdatum 10 november 2026 kl. 13:38 UTC, källa “Master”, tanker träffad av okänd projektil 19 nautiska mil nordost om Lima, Oman, besättning säker, ingen miljöpåverkan rapporterad och skadebedömning planerad vid första ljus. Den bekräftar **inte** fartygsnamn, IMO-nummer, flagg, last, gärningsperson eller resultatet av skadebedömningen. **OBEROENDE BEKRÄFTELSE:** ingen oberoende offentlig källa som identifierar tankern eller redovisar en avslutad skadebesiktning har hittats i denna kontroll; sekundära maritima återgivningar överensstämmer med PDF:ens begränsade uppgifter.
 
 ### 2. Ett ADNOC-fartyg skadat i UAE:s territorialvatten
 
@@ -33,7 +33,7 @@ UKMTO:s Warnings-sida beskriver varningarnas officiella klassificeringar, men de
 **Händelsedatum och tid:** TBC i den återgivna produkten.
 
 **PRIMÄRKÄLLA – UKMTO:s produktdefinition:** Warnings-sidan beskriver att UKMTO-varningar omfattar bland annat Attack, Boarding och Hijack, men den individuella produktlistan renderades inte i den hämtade texten. Sidan Recent Incidents visade 0 rapporter vid kontrollen.  
-**SEKUNDÄR PDF-TRANSKRIPTION:** en maritim branschkälla återger en numrerad UKMTO-produkt 202-26, rubricerad SUSPICIOUS ACTIVITY, om en incident med en tanker i Strait of Hormuz. Original-PDF-filen hämtades inte direkt i denna kontroll. Källraden anges som Military authorities. Besättningens status, skada och miljöpåverkan anges som okända; händelsedatum och klockslag står som TBC.
+**PRIMÄRKÄLLA – UKMTO Warning 202-26, original-PDF hämtad direkt 12 november:** https://www.ukmto.org/-/media/ukmto/products/20261111-ukmto_warning_202_26.pdf?rev=c16d26ad15904f0fb70edc01e13ca9a8. PDF:en rubricerar rapporten SUSPICIOUS ACTIVITY, anger publiceringsdatum 11 november, incidentdatum och tid TBC, källa “Military authorities” och endast att en incident med en tanker rapporterats i Strait of Hormuz. Besättningens status, skada och miljöpåverkan var okända när produkten utfärdades. Den anger inte att fartyget träffats av en mina eller projektil, att brand uppstått, eller att detta är samma fartyg som i Irans separata påstående. **OBEROENDE BEKRÄFTELSE:** inget offentligt fartygsnamn, skadebesked eller oberoende bekräftelse av orsak har hittats.
 
 Detta är inte samma klassificering som 201-26: 201-26 är en ATTACK-notis med befälhavaren som källa och en rapporterad projektilträff nordost om Lima. 202-26 är en senare Suspicious Activity-notis med militär myndighetskälla, osäker händelsetid och okänd status. Produkten namnger inte fartyg, IMO-nummer, flagg, last, metod eller angripare. Den får inte beskrivas som en bekräftad projektilträff, minexplosion eller brand.
 
@@ -68,15 +68,15 @@ Den offentliga informationen räcker ännu inte för att fastställa att alla ra
 
 | Datum | Händelse | Källstatus |
 |---|---|---|
-| 10 nov, 13:38 UTC | UKMTO 201-26: tanker rapporteras träffad nordost om Lima | UKMTO-notis återgiven i sekundär PDF-transkription |
+| 10 nov, 13:38 UTC | UKMTO 201-26: tanker rapporteras träffad nordost om Lima | UKMTO:s original-PDF, källa “Master”; oberoende fartygsidentitet saknas |
 | 10 nov, eftermiddag | ADNOC bekräftar skada på ett fartyg i UAE:s territorialvatten | Bolagets primäruttalande |
 | 10 nov, exakt tid okänd | Iran uppges ha angripit navigationssystem på Didamar | Tre källor till Reuters; teknisk skada ej självständigt fastställd |
-| 11 nov | UKMTO 202-26 publiceras som Suspicious Activity, incidenttid TBC | UKMTO-produktlista och sekundär PDF-transkription |
+| 11 nov | UKMTO 202-26 publiceras som Suspicious Activity; incidentdatum/tid TBC | UKMTO:s original-PDF, källa “Military authorities”; fartyg och orsak okända |
 | 11 nov, 17:52 UTC | Reuters publicerar Didamar-rapporten | Oberoende redaktionell rapportering |
 
 ## Öppna frågor före publicering
 
-1. Hämta original-PDF för UKMTO 201-26 och 202-26 och kontrollera varje fält mot den sekundära transkriptionen.
+1. Följ upp om UKMTO publicerar reviderade PDF:er, fartygsidentitet eller uppdaterad skadebedömning för 201-26 respektive fastställt händelsedatum/tid för 202-26.
 2. Identifiera tankern i 201-26 genom offentliga fartygs- och hamnuppgifter; publicera inte en identitet som enbart bygger på spekulation.
 3. Begär ADNOC:s fartygsnamn, IMO-nummer, skaderapport och uppdatering om besättning/last.
 4. Kontrollera om 201-26, 202-26 och ADNOC-beskedet avser samma eller olika fartyg. Utan identitets- och positionsmatchning lämnas frågan öppen.
@@ -93,8 +93,10 @@ Den offentliga informationen räcker ännu inte för att fastställa att alla ra
 
 **Oberoende rapportering och transkriptioner**
 - Reuters, 11 november 2026, Didamar: https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/
-- UKMTO 201-26, sekundär PDF-transkription: https://regulasshipping.com/blog/ukmto-201-26-records-a-tanker-projectile-hit-19-nm-northeast-of-lima/
-- UKMTO 202-26, sekundär PDF-transkription: https://regulasshipping.com/blog/ukmto-202-26-records-a-tanker-incident-in-the-strait-of-hormuz/
+- UKMTO 201-26, **primärkälla/original-PDF:** https://www.ukmto.org/-/media/ukmto/products/20261110-ukmto_warning_201_26.pdf?rev=f047f3d39cdd4b40b9eb0c7f74f7ed22
+- UKMTO 201-26, sekundär transkription: https://regulasshipping.com/blog/ukmto-201-26-records-a-tanker-projectile-hit-19-nm-northeast-of-lima/
+- UKMTO 202-26, **primärkälla/original-PDF:** https://www.ukmto.org/-/media/ukmto/products/20261111-ukmto_warning_202_26.pdf?rev=c16d26ad15904f0fb70edc01e13ca9a8
+- UKMTO 202-26, sekundär transkription: https://regulasshipping.com/blog/ukmto-202-26-records-a-tanker-incident-in-the-strait-of-hormuz/
 - Emirates News Agency/WAM, 10 november 2026, återgivning av ADNOC-beskedet: https://www.wam.ae/en/article/c36ot7v-adnoc-logistics-services-vessel-sustained-damage
 
 **Status:** nytt granskningsutkast. Ingen publicering, merge eller LIVE-ändring.
