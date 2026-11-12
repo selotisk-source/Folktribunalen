@@ -1133,3 +1133,12 @@ Den tidigare prioriteringsordningen ligger fast: **Hormuz → Gripen över Polen
 - December 2026: formellt NHS-beslut om FDP-avtalets fortsättning/exit.
 - Löpande: OSR:s eventuella uppföljning, trust-för-trust-data, Lantmäteriets lagfarter, UKMTO/IMO:s fartygsidentifikationer och nya kommunala/arkeologiska primärhandlingar.
 
+## Breaking Watch – 12 november 2026, 19:10 EET
+
+Full A–S-kontroll genomförd. Substantiella deltan i denna cykel: NVIDIA:s bekräftade vd-skifte; nya fartygsidentiteter och öppna matchningar i Hormuz; Norges paus för nya datacenterreservationer och Siemens AG:s preliminära Q4-efterfrågesignal; Siemens Energy FY2026; EU:s andra CRMA-lista och Onkalos exakta licensvillkor; Wiley-forskning om upplevd algoritmisk synkronicitet; The Verge:s analys av privata Thiel-föreläsningar; HMICFRS:s nya granskning av retrospektiv ansiktsigenkänning; AP:s Colom-call som ger Demokraterna en projicerad 55:e senatsplats.
+
+Den fullständiga daterade A–S-matrisen finns i `editorial/research/2026-11-06-breaking-watch-coverage-matrix.md`; den fullständiga käll- och händelseloggningen finns i `editorial/research/2026-11-12-breaking-watch-1910.md`.
+
+**Källprinciper:** Officiella pressmeddelanden och myndighetsbeslut är primärkällor för att ett beslut eller en partsuppgift har publicerats; oberoende rapportering används för korskontroll. Obekräftade fartygsmatchningar i Hormuz hålls åtskilda. NVIDIA:s avgång har inget officiellt angivet skäl. HMICFRS:s fullständiga rapport kunde inte hämtas i denna kontrollmiljö. Onkalo har drifttillstånd men får inte starta innan STUK:s separata inspektion.
+
+**Arbetsflöde:** Befintliga öppna draft-PR:ar uppdateras; inga PR:ar mergas och inget publiceras automatiskt. Prioritetsordningen i godkännandekön ändras inte.
