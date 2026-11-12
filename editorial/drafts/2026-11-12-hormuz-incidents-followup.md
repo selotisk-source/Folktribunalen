@@ -1,7 +1,7 @@
 # Hormuz: fyra rapporter – fyra olika bevislägen
 
 **Redaktionell status:** granskningsutkast för chefredaktörens godkännande  
-**Faktaläge:** 12 november 2026, 02:10 EET  
+**Faktaläge:** 12 november 2026, 08:52 EET  
 **Huvudspår:** O – Hormuz, sjöfart och energiflöden  
 **Publiceringsstatus:** inte publicerat
 
@@ -115,7 +115,7 @@ Reuters noterar även två omlastningar fartyg-till-fartyg utanför Sohar i Oman
 
 **OBEROENDE BEKRÄFTELSE – Reuters, 11 november:** Washington Institute for Near East Policy räknade 37 kommersiella fartyg som träffats under oktober, vilket Reuters beskriver som krigets värsta månad för fartygsattacker. Reuters rapporterar också att högre charterrater – över 1 miljon USD per dag – bidrar till att redare fortsätter lasta i Gulfen trots riskerna. Reuters egen genomgång av IMO-data angav att elva supertankers hade skadats fram till den 23 oktober.
 
-**PRIMÄRKÄLLA – IMO, publicerad 11 november:** IMO:s generalsekreterare uppger att organisationen har verifierat mer än 130 attacker mot internationellt handlande kommersiella fartyg och att minst 25 sjömän har omkommit. IMO-sidans publicerade text anger datumet “28 February 2016”. Det är en uppenbar datumavvikelse mot den dokumenterade konfliktstarten den 28 februari 2026 och IMO:s tidigare uttalanden. Datumfelet ska redovisas, inte tyst rättas. Reuters återger separat IMO:s sammanställning som 130 incidenter, huvudsakligen attacker, med minst 25 döda. “Incidenter” och “attacker” är inte automatiskt identiska mått.
+**PRIMÄRKÄLLA – IMO, publicerad 11 november:** IMO:s generalsekreterare uppger att organisationen har verifierat mer än 130 attacker mot internationellt handlande kommersiella fartyg och att minst 25 sjömän har omkommit. Vid kontroll 12 november 2026 anger den aktuella IMO-sidan uttryckligen “28 February 2026”. Ett tidigare indexerat textutdrag visade 2016, men den aktuella primärsidan gör det inte. Datumfelet ska därför inte längre återges som en kvarstående avvikelse. Reuters återger separat IMO:s sammanställning som 130 incidenter, huvudsakligen attacker, med minst 25 döda. “Incidenter” och “attacker” är inte automatiskt identiska mått.
 
 ### Miljökonsekvens – Gem No.2
 
@@ -136,3 +136,31 @@ Oktober visar en dubbel rörelse: LNG-transiterna återhämtas, men attackerna m
 - **OBEROENDE BEKRÄFTELSE:** 31 LNG-fartyg i oktober och 37 fartyg träffade enligt Reuters återgivning av S&P Global Energy/Kpler respektive Washington Institute.
 - **PRIMÄRKÄLLA:** IMO:s uppgift om 130+ verifierade attacker och minst 25 omkomna; källsidans datum för konfliktstart innehåller ett uppenbart skrivfel.
 - **OBEKRÄFTAD:** att ökad LNG-trafik innebär att sjöfartssäkerheten har normaliserats; att oljeläckaget påverkat dricksvattenproduktionen.
+
+
+## Uppdatering 12 november 2026, 08:52 EET – IMO:s tillsynsvarning och satellitkartlagda oljeutsläpp
+
+### IMO: dolda identiteter och falsk flagg
+
+**PRIMÄRKÄLLA – IMO:s generalsekreterare, 11 november 2026:**  
+https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-calls-for-enforcement-of-maritime-rules.aspx
+
+IMO upprepar att organisationen verifierat mer än 130 attacker mot internationellt handlande kommersiella fartyg sedan konfliktens början och att minst 25 sjömän har omkommit. Det nya i uttalandet är den uttryckliga varningen om fartyg som döljer sina IMO-nummer och fartyg som transiterar under falsk flagg eller med bedräglig registrering. IMO uppmanar flagg-, hamn- och kuststater att använda sina befogenheter enligt gällande internationella regler, däribland SOLAS.
+
+**Bevisgräns:** uttalandet är en tillsyns- och efterlevnadsvarning. Det bevisar inte att varje fartyg med avvikande AIS- eller registreringsuppgifter är sanktionerat, kapat eller kopplat till en viss stat. 130+ och 25 är samma övergripande konfliktmått som IMO tidigare offentliggjort; den nya informationen gäller främst identitets- och flaggkontroll.
+
+### Greenpeace: mer än 500 satellitdetekterade utsläppstillfällen
+
+**PARTSUPPGIFT – Greenpeace satellitkartläggning:**  
+https://maps.greenpeace.org/maps/gpde/hormuz-strait-2026/
+
+**OBEROENDE BEKRÄFTELSE – The Guardian, 12 november 2026:**  
+https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems
+
+Greenpeace uppger att satellitövervakning identifierat mer än 500 tillfällen eller områden med oljeutsläpp sedan 28 februari 2026. Den kumulativa summeringen av de dagliga kartlagda ytavtrycken anges till omkring 20 000 km². Det är inte ett enda sammanhängande utsläppsområde och ska inte beskrivas som en sådan areal.
+
+Greenpeace skiljer mellan större utsläpp som kopplats till fartygsangrepp och andra utsläpp som observerats nära tidpunkten för angrepp men vars ursprung inte har kunnat fastställas. Satellitbilderna kan indikera ytfilm och spridning men fastställer inte ensamma utsläppsvolym, ansvarig aktör eller full ekologisk skada. Fältprovtagning är begränsad av säkerhetsläget.
+
+**Redaktionell konsekvens:** miljöspåret ska behandlas separat från fartygsincidenternas skadebedömning. Koppla inte varje satellitfläck till ett specifikt angrepp utan fartygs-, last-, tids- och kuststatsbelägg. Lägg till påverkan på mangrove, korallrev, fiske och avsaltning som undersökningsfrågor, inte som redan kvantifierade skador.
+
+**Nytt artikelunderlag:** ett eget avsnitt i Hormuz-granskningen om miljökonsekvenserna, med tydlig skillnad mellan satellitdetektion, verifierad utsläppskälla, uppskattad volym och dokumenterad ekologisk skada.
