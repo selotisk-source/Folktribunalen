@@ -98,3 +98,12 @@ Fem utvecklingsområden gav nya eller väsentligt fördjupade belägg i denna cy
 - **CoreWeave:** SEC 8-K Exhibit 99.1 visar också 18,697 md USD i operationella leasingskulder och 649 m USD i finansiella leasingskulder. Dessa är separata från 46,873 md USD recourse/non-recourse debt. Q3-kassaflödet visar 10,301 md USD i skuldemissionsintäkter och 2,344 md USD i återbetalningar. Leasingskulder ska inte bakas in i skuldsumman utan tydlig kategorisering.
 - **Hormuz-miljö:** Guardian anger uttryckligen “more than 500 instances of oil spills” från Greenpeace satellitövervakning, inklusive utsläpp där ursprunget inte kunnat fastställas. Redaktionsformuleringen har därför preciserats till **över 500 möjliga utsläppstillfällen**. 20 000 km² är summan av de dagliga kartlagda ytavtrycken, inte en enda sammanhängande yta.
 - **Vanguard:** RWE:s pressmeddelande säger equity close och financial close; den brittiska regeringens pressmeddelande säger “final investment commitment”. RWE använder inte uttryckligen termen FID i pressmeddelandet. PR #49 skiljer därför mellan finansiell stängning och ett formellt FID-beslut, som fortfarande kräver tydlig dokumentation.
+
+
+
+### Ytterligare källprecision – NVIDIA/CoreWeave-ägarrelation och capex
+
+- **PRIMÄRKÄLLA:** NVIDIA:s Schedule 13G/A accepterad 26 januari 2026 redovisar 47 213 353 CoreWeave Class A-aktier, **11,5 procent** av klassen per 23 januari. Filingens certifiering säger att innehavet inte syftar till att påverka kontroll. Medieuppgift om 12,8 procent har inte stämts av mot SEC-filingens klassdefinition; använd 11,5 procent med datum och klass.
+- **OBEROENDE RAPPORTERING:** Reuters rapporterade 26 januari att NVIDIA investerade cirka 2 md USD i CoreWeave och att CoreWeave sade att pengarna inte skulle användas för att köpa NVIDIA-processorer. Detta är ägar-/leverantörsexponering, inte bevis på cirkulär GPU-finansiering.
+- **Capex-definition:** CoreWeaves SEC 8-K-bilaga visar 9,441 md USD i kontanta köp av materiella anläggningstillgångar Q3; ledningen sade på resultatkonferensen att capex var 14,5 md USD. Skillnaden är ännu inte avstämd mot fullständig Q3 10-Q. Redovisa båda måtten med respektive definition.
+- Balansräkningen visar 18,697 md USD i operationella leasingskulder, 649 m USD i finansiella leasingskulder, 56,778 md USD i materiella anläggningstillgångar, 18,922 md USD i nyttjanderättstillgångar och cirka 10,002 md USD i uppskjutna intäkter. Vem som äger respektive GPU-flotta och vem som bär restvärdesrisken kräver Q3 10-Q:s fullständiga leasing-/säkerhetsnoter.
