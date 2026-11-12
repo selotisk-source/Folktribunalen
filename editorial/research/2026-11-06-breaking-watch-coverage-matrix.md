@@ -1086,3 +1086,6 @@ Alla 19 huvudspår A–S screenades mot föregående journal 08:52. Två evidens
 ### Tillägg till F/P – 12 november 2026, 12:20 EET
 - **F:** Axios 11 nov uppger att Trump godkände ny anti-diversion-åtgärd 5 nov men att Commerce/Lutnick fördröjt genomförandet; Reuters återger Axios men bekräftar inte mötesförloppet. Commerce-talesperson förnekar konfrontationen. Senate Banking Committee publicerade Warren/Banks-uttalande 9 nov. Reuters rapporterade Warren/Coons records-preservation request 12 nov; direktbrev ej lokaliserat. Ingen offentlig BIS/Federal Register-åtgärd eller Megaspeed-listning identifierad.
 - **P:** House Foreign Affairs/China/Intelligence-ordförandena begärde 5 nov gemensam stängd briefing med Huang 18 nov. Warren/Coons har enligt Reuters begärt dokumentbevarande och kongressbriefing. Inga stämningar eller nya antagna lagar har identifierats i detta spår.
+
+
+**F – komplettering 12 nov 12:20:** Reuters leverantörsrapport 12 nov beskriver Taiwan-/Sydkorea-leverantörers scenarier vid möjligt vd-byte, regional aktiereaktion och kinesiska AI-bolags oro för kommande amerikanska fjärråtkomstkontroller. Motargument: kortsiktiga chipvolymer och 2027-kundplaner kan vara mindre beroende av vd än framtida ekosysteminvesteringar. Källa: Reuters 12 nov.
