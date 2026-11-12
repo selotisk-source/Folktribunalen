@@ -221,3 +221,34 @@ Reuters rapporterade att den Liberiaflaggade oljetankern MT Dominica Prosperity 
 - **OBEKRÄFTAD:** Vem som avfyrade projektilerna, om NCC Fajr är UKMTO 202-26, om Fujairah Energy är ADNOC-fartyget, och om Dominica Prosperity är samma händelse som någon anonymiserad UKMTO-notis.
 - **IMO:** IMO:s incidentöversikt anger 134 bekräftade incidenter i Hormuzsundet och den bredare Mellanösternregionen samt 25 dödade sjömän. Den individuella listans senaste daterade händelse är 7 november; det är därför inte klarlagt om händelserna 10–11 november ingår i totalsiffran. De ska inte läggas till totalsiffran på egen hand. [IMO:s incidentöversikt](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx).
 - **PARTSUPPGIFT/OBEKRÄFTAD:** IRGC:s påstående om två tankfartyg som skulle ha träffat minor saknar namngivna fartyg och oberoende bekräftelse. Det ska inte kopplas till NCC Fajr eller Dominica Prosperity utan en verifierbar fartygs- och positionsmatchning.
+
+
+
+## Källuppdatering 12 november 2026, 20:08 EET – fyra nya UKMTO-incidenter, pipeline och miljöskada
+
+### JMIC Advisory Note 113: fyra incidenter sedan föregående rapport
+
+**PRIMÄRKÄLLA:** UKMTO/JMIC Advisory Note 113, daterad 12 november 2026, samt UKMTO:s dynamiska incidentlista: https://www.ukmto.org/recent-incidents. JMIC anger **181 bekräftade fartygsincidenter sedan 1 mars 2026** och fyra nya incidenter sedan föregående rapport. De fyra är inte alla i själva Hormuzsundet:
+
+- **UKMTO 201-26:** 10 november, 13:38 UTC, cirka 19 nautiska mil nordost om Lima/Oman. Ett oidentifierat tankfartyg rapporterade en explosion i närheten; besättningen uppgavs vara säker och ingen miljöskada rapporterades. Fartygets identitet är fortfarande öppen.
+- **UKMTO 202-26:** 11 november omkring 02:00 UTC, norr om Khasab/Oman. JMIC kopplar incidenten till tankfartyget **NCC Fajr** med hänvisning till uppgift från Indiens sjöfartsminister. UKMTO publicerade senare Update 001 och klassificerade händelsen som attack; samtliga i besättningen uppgavs vara säkra. UKMTO:s senare uppdatering lämnade tid och datum som TBC, medan JMIC:s senare sammanställning anger 11 november omkring 02:00 UTC.
+- **UKMTO 203-26:** 10 november. **Fujairah Energy** träffades enligt JMIC av en oidentifierad projektil under färd österut i Arabiska viken. Flera personer uppges ha förts i land för vård; övrig besättning var säker. Skadornas omfattning och miljöpåverkan är inte fastställda i rapporten.
+- **UKMTO 204-26:** 11 november, 18:00 UTC, cirka 14 nautiska mil nordväst om Ras Al Khaimah. **Dominica Prosperity** träffades i maskinrummet; besättningen evakuerades och inga personskador rapporterades. Reuters rapporterar oberoende om branden och evakueringen.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 12 november, bekräftar Dominica Prosperity-incidenten och återger brittiska maritima myndigheters uppgifter: https://www.reuters.com/world/middle-east/vessel-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-2026-11-12/. Indiens sjöfartsminister har separat namngivit NCC Fajr och Fujairah Energy; medieåtergivning av ministerposterna är bekräftelse på att uttalandena gjorts, inte oberoende teknisk bekräftelse av projektiltyp eller avsändare.
+
+**Räkneavgränsning:** JMIC:s 181 och IMO:s 134 bekräftade/högt prioriterade incidenter per 11 november är inte direkt jämförbara mått. Källorna använder olika listor, geografisk omfattning och urval. De ska inte adderas eller presenteras som en enda gemensam total utan metodavstämning. JMIC anger också 211 kommersiella fartyg stationära vid större ankarplatser öster om sundet; uppgiften visar köbildning men är en ögonblicksbild. Dess transitmått för USA-assisterade passager och oberoende AIS-synliga passager kommer från olika populationer och får inte summeras okritiskt.
+
+### Saudiarabiens East–West Pipeline: bekräftad begränsad skada, separat Houthi-anspråk
+
+**PRIMÄRKÄLLA VIA JMIC:** JMIC återger att Saudiarabiens energiministerium den 10 november uppgav att East–West Pipeline träffats den 9 november. En begränsad brand ska ha släckts; inga personskador eller dödsfall rapporterades och driften uppgavs vara opåverkad. Den direkta ministertexten har inte hämtats separat i denna cykel.
+
+**PARTSUPPGIFT / OBEKRÄFTAD:** Reuters rapporterade 12 november att Houthirörelsen gjort anspråk på en attack mot en pumpstation och en oljeanläggning i Yanbu. Reuters uppgav att rörelsen inte angav när angreppet skedde och att Saudiarabien inte omedelbart kommenterat just detta anspråk: https://www.reuters.com/world/middle-east/yemens-houthis-claim-attack-saudi-arabias-oil-facilities-2026-11-12/. Det går därför inte att fastslå att Houthi-anspråket avser samma händelse som den saudiska uppgiften om 9 november. De två uppgifterna ska hållas isär tills datum, anläggning och skadebild kan matchas.
+
+### Miljöspåret: satellitkartlagda oljeutsläpp
+
+**PARTSUPPGIFT / OBEROENDE RAPPORTERING:** The Guardian rapporterade 12 november att Greenpeace kartlagt över **500 möjliga oljeutsläpp/slick-detektioner** i regionen och summerat dagliga kartlagda ytor till cirka **20 000 km²**: https://www.theguardian.com/environment/2026/nov/12/satellite-data-reveal-scale-of-oil-spills-in-the-strait-of-hormuz. Detta är inte en enda sammanhängande utsläppsyta eller nödvändigtvis 20 000 km² unikt havsområde. En del detektioner kopplas till kända incidenter, andra saknar säker källattribuering. Greenpeace-kartan är länkad i Guardian-artikeln; den bakomliggande fullständiga dataposten har inte kunnat exporteras eller oberoende revideras i denna kontroll.
+
+**OBEROENDE VETENSKAPLIG KONTROLL – begränsad:** UNU-INWEH:s satellitanalys från augusti identifierade två separata slickar: cirka 300 km² utanför Hallaniyatöarna i Oman och cirka 100 km² nära Qeshm/Hengam i Iran. Det bekräftar att stora oljeutsläpp i området kan dokumenteras oberoende med satellitdata, men det verifierar **inte** Greenpeaces sammanlagda 500 detektioner eller deras källattribuering: https://geilab.unu.edu/satellite-observations-reveal-extent-of-major-oil-slicks-near-iran-and-oman/.
+
+**Nästa kontroll:** hämta JMIC:s underliggande fartygsnotiser och eventuella uppdateringar för 201–204; kontrollera IMO-nummer, flaggstat, last, ägare och försäkring; begär direkt Saudi Ministry of Energy-uttalande om 9 november; jämför Houthi-anspråkets tidsstämpel med den saudiska händelsen; sök efter oberoende satellit-/SAR-data och kustmyndigheters miljöprovtagning. Ingen aktörsattribution eller miljöskadans fulla omfattning fastställs i nuläget.
