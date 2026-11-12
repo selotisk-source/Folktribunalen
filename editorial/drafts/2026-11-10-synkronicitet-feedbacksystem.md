@@ -154,3 +154,20 @@ En artikel av Phan Khanh Duy med flera, först publicerad online den 7 april 202
 **PRIMÄRKÄLLA:** [Wiley, DOI 10.1002/cb.70152](https://onlinelibrary.wiley.com/doi/abs/10.1002/cb.70152). Data uppges vara tillgängliga från korresponderande författare på rimlig begäran, inte som öppet dataset.
 
 **Avgränsning:** Detta är en marknadsförings- och HCI-konstruktion om människors upplevelse av AI-interaktion. Den visar inte att externa händelser orsakas av, förutsägs av eller står i kausalt samband med en användares tankar. Den kan däremot hjälpa protokollet att mäta upplevd tidsmässig samordning separat från faktisk händelsefrekvens, med förregistrerade kriterier, blind kodning och jämförelser mot slumpade tidsstämplar. Ingen oberoende replikation har identifierats i denna kontroll.
+
+
+
+## Forskningsuppdatering 12 november 2026 – fulltext av Kotler–Mannino–Friston–Kelso
+
+Den fullständiga artikeln är nu åtkomlig via PubMed Central: **Steven Kotler, Michael Mannino, Karl Friston och Scott Kelso, “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”**, Neuroscience of Consciousness 2026(1), niag063, publicerad 19 oktober 2026, DOI **10.1093/nc/niag063**.
+
+**PRIMÄRKÄLLOR:**
+- Oxford Academic: https://academic.oup.com/nc/article/2026/1/niag063/8943654.
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42899235/.
+- Fulltext: https://pmc.ncbi.nlm.nih.gov/articles/PMC13679752/.
+
+Artikeln är en review/teoretisk syntes. Författarna föreslår att purpose, synchronicity och flow kan förstås som olika tidsmässiga uttryck för metastabil koherens i hjärnans attraktorsystem. De föreslår empiriska prediktioner kopplade till bland annat sharp-wave ripples, P300b-aktivitet och nätverkskoherens.
+
+**Källkritisk avgränsning:** Artikeln definierar synkronicitet som den subjektiva upplevelsen av en meningsfull sammanträffandehändelse som saknar kausal förklaring. Den visar inte att externa händelser står i en objektiv acausal relation, och den redovisar inte ett experiment som bevisar att en persons tanke orsakar eller förutsäger en yttre händelse. Prediktionerna är forskningsförslag som behöver operativiseras, förregistreras och prövas oberoende.
+
+**Status på tidigare öppen fråga:** fulltexten är hämtad och den teoretiska argumentationen kan nu granskas direkt. Oberoende empirisk replikation av just modellens synkronicitetsprediktioner har inte identifierats i denna kontroll.
