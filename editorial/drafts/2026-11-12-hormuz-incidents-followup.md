@@ -166,3 +166,20 @@ Greenpeace skiljer mellan större utsläpp som kopplats till fartygsangrepp och 
 **Redaktionell konsekvens:** miljöspåret ska behandlas separat från fartygsincidenternas skadebedömning. Koppla inte varje satellitfläck till ett specifikt angrepp utan fartygs-, last-, tids- och kuststatsbelägg. Lägg till påverkan på mangrove, korallrev, fiske och avsaltning som undersökningsfrågor, inte som redan kvantifierade skador.
 
 **Nytt artikelunderlag:** ett eget avsnitt i Hormuz-granskningen om miljökonsekvenserna, med tydlig skillnad mellan satellitdetektion, verifierad utsläppskälla, uppskattad volym och dokumenterad ekologisk skada.
+
+
+
+## Källuppdatering 12 november 2026, 11:06 EET – ny iransk partsuppgift om två tankfartyg
+
+**PARTSUPPGIFT – IRGC, återgiven av Reuters 12 november:** Irans revolutionsgarde uppgav att två supertankers hade satts ur funktion av explosioner under onsdagskvällen **11 november**. Reuters publicerade uppgiften 12 november. I den rapportering som kontrollerats saknas fartygsnamn, IMO-nummer, flagg, ägare, operatör, last och tillräckliga positionsuppgifter för identifiering.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters bekräftar att uttalandet framfördes och återger iransk statlig rapportering. Detta är inte oberoende bekräftelse av att två fartyg faktiskt skadades, av explosionernas orsak eller av vem som låg bakom dem.
+
+**Viktig avgränsning:** uppgiften får inte kopplas till UKMTO 201-26 eller 202-26 utan matchning av tid, position och fartyg. 201-26 gäller en rapport om okänd projektil 10 november 19 nautiska mil nordost om Lima, Oman. 202-26 gäller en separat rapport om misstänkt aktivitet mot en tanker den 11 november, med händelsedatum/tid angivna som TBC. Ingen av UKMTO-notiserna identifierar fartyg eller bekräftar två explosioner.
+
+**Miljöspåret:** Greenpeace-kartan och Guardian-rapporteringen om mer än 500 satellitdetekterade utsläppstillfällen och cirka 20 000 km² kumulativt summerade dagliga ytavtryck finns redan i den föregående källuppdateringen i denna fil. Måttet får inte beskrivas som ett enda sammanhängande oljeutsläpp eller som uppmätt oljevolym. Orsakssamband mellan varje satellitdetektion och ett specifikt fartygsangrepp är inte fastställda.
+
+**Nästa kontrollpunkter:** UKMTO:s nya originalprodukter; Oman och flaggstaternas myndighetsbesked; fartygsidentiteter och IMO-nummer; satellitbilder med tidsstämplar; och oberoende miljöprovtagning där sådan blir tillgänglig.
+
+Källa:
+- Reuters, 12 november 2026, om IRGC:s uppgift: https://www.reuters.com/world/middle-east/iran-revolutionary-guards-say-two-oil-tankers-disabled-explosions-hormuz-2026-11-12/
