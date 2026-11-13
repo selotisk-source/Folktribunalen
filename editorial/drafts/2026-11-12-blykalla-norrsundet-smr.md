@@ -66,3 +66,17 @@ Artikeln bör förklara skillnaden mellan anläggningsplan, kommunalt veto, kär
 - **PRIMÄRKÄLLA:** Lag (2026:585) om regeringens godkännande av kärntekniska anläggningar: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2026585-om-regeringens-godkannande-av_sfs-2026-585/
 
 **Nästa kontroll:** samrådets inkomna yttranden, Länsstyrelsens sammanställning, Gävle kommuns tillstyrkan eller avstyrkan, regeringens beslut om anläggningsplan senast efter förslaget i december samt separata tillståndsansökningar hos SSM och mark- och miljödomstolen.
+
+
+## Breaking Watch update – 13 November 2026, 18:55 EET
+
+**PRIMÄRKÄLLA – Länsstyrelsen Gävleborg:** 13 November is the final day for written comments on the proposed site plan and environmental impact assessment. The deadline is today; this update does not assume that the authority has already closed intake or published a summary. The county board's page still states that no adopted site plan exists for Norrsundet.
+
+**PRIMÄRKÄLLA – Gävle kommun:** The municipality has scheduled public dialogue sessions on 20 November (10:00–12:00 and 16:00–18:00) and an online survey. The municipality explicitly says these meetings and the survey are separate from Länsstyrelsen's formal consultation, do not constitute a vote, and that responses to the municipal survey do not count as formal comments in the state consultation. Do not combine the two processes or count municipal survey responses as formal consultation submissions.
+
+**Next milestones:** obtain the formal consultation submissions and Länsstyrelsen's summary; monitor the municipality's 20 November dialogue report; monitor the county board's proposal to the Government by 31 December 2026. The project remains an application/planning process, not an approved nuclear facility, construction permit or operating plant.
+
+**Sources:**  
+- Länsstyrelsen Gävleborg, samrådsinbjudan, published 13 October and updated 28 October: https://www.lansstyrelsen.se/gavleborg/om-oss/nyheter-och-press/nyheter/nyheter---gavleborg/2026-10-13-lansstyrelsen-bjuder-in-till-samrad-om-ny-karnkraft-i-norrsundet.html  
+- Gävle kommun, public dialogue 20 November: https://www.gavle.se/evenemang/medborgardialog-smaskalig-karnkraft-2/  
+- Regeringen, assignment for site plan, 28 May: https://www.regeringen.se/pressmeddelanden/2026/05/uppdrag-om-anlaggningsplan-for-ny-karnkraft/
