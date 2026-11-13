@@ -385,7 +385,7 @@ Ingen databasändring eller publicering har genomförts. GitHub-granskningsutkas
 MHA:s primärbesked 12 november säger att SPF och Attorney-General’s Chambers begärde amerikansk hjälp att få Supermicro att samarbeta vid möte 7 juli 2025. SPF upprepade begäran till DOJ och FBI flera gånger från september 2025 och Singapore uppger att man trots detta fått begränsad information eller hjälp. Den ursprungliga Singaporeutredningen startade självständigt i februari 2025; BIS:s frivilliga verifiering 24 juni 2025 var första gången Singapore blev medvetet om USA:s intresse. Detta skiljer den självständiga utredningen från senare begäranden om utländskt samarbete. Detta skiljer den självständiga inhemska utredningen från senare begäranden om utländskt samarbete och gör Washington Posts rapport om begränsat stöd förenlig med MHA:s egen redogörelse.
 
 
-### O – ny miljödimension: Greenpeace/Kpler och vetenskaplig riskmodell
+### O – ny miljödimension: Greenpeace och vetenskaplig riskmodell
 
 Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga slick-detektioner sedan 28 februari; Arab News anger 540. The Guardian anger cirka 20 000 km² som kumulativ summa av dagliga kartlagda fotavtryck. Det är inte 500/540 markverifierade utsläpp och inte 20 000 km² unik yta eller oljevolym. Den råa detektionsfilen har inte reproducerats i denna kontroll.
 
