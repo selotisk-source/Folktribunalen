@@ -448,3 +448,31 @@ Källor:
 - [Viscaria – Update on project financing process, 29 October 2026](https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/)
 
 **Oberoende korskontroll:** oberoende branschrapportering har uppmärksammat de finska projekten och Viscarias strategiska status. De juridiska besluten och projektklassificeringarna följs dock i första hand mot kommissionens bilaga och Finlex.
+
+
+## Nytt beslut 12 november 2026 – fyra undersökningstillstånd till Geomorphic AI Sweden AB
+
+Bergsstaten medgav den 12 november 2026 (dnr BS 204-1373-2026) att Adelheid Holdings LLC får överlåta undersökningstillstånden Njuggträskliden, Koberget, Njuorram och Seitevare i Jokkmokks, Norsjö och Lycksele kommuner till Geomorphic AI Sweden AB. Beslutet är ett **medgivande till överlåtelse**, inte bevis för att överlåtelsen redan har genomförts; Bergsstaten anger att den genomförda överlåtelsen därefter ska anmälas.
+
+### Vad bolaget uppger – och vad beslutet faktiskt säger
+
+I ansökan uppger Geomorphic att bolaget har geologisk expertis, kapitalmarknadskunskap, tekniska resurser och finansiering samt egenutvecklad AI för att integrera geologiska data och rangordna prospekteringsmål. Bolaget beskriver ett tredelat program: digitalisering och kvalitetsgranskning av historiska borr-, geofysik- och geokemidata med 3D-modeller; icke-invasiva geofysiska undersökningar och geokemisk provtagning; därefter eventuell provborrning av de högst rankade målen. Detta är **PARTSUPPGIFTER** om teknik, finansiering och avsikter. Beslutet innehåller ingen oberoende prestandautvärdering av AI-modellen och ingen ny resurs- eller reservberäkning.
+
+### Naturvärden, rättigheter och nästa tillstånd
+
+Länsstyrelsen Norrbotten uppger i yttrandet, återgivet i Bergsstatens beslut, att tillstånden berör naturreservaten Kvikkjokk-Kabla fjällurskog, Ultevis fjällurskog och Jielkkä Rijmagåbbå, vilka även är Natura 2000-områden. Delar av Ultevis har särskilda reservatsföreskrifter; borrning, sprängning, grävning och schaktning kan kräva särskilt tillstånd eller dispens. Länsstyrelsen pekar också på områden med höga naturvärden och att delar av Seitevare ligger inom riksintresse för obrutet fjäll. Sametinget hänvisar i beslutet till tidigare yttranden; detta ska inte beskrivas som ett nytt samtycke.
+
+Bergsstaten erinrar om att undersökningsarbete kräver en gällande arbetsplan som delges berörda fastighetsägare och rättighetshavare, föreskriven säkerhet för skador och eventuella ytterligare tillstånd enligt miljöbalken och terrängkörningslagen. Inom skyddade områden kan särskilda medgivanden krävas. Beslutet kan överklagas inom tre veckor från den dag berörd part fick del av det.
+
+**Källstatus:** Bergsstatens kungörelse och besluts-PDF är **PRIMÄRKÄLLA**. Länsstyrelsernas och Sametingets yttranden ingår i beslutsakten. Ingen oberoende nyhetsrapportering om just överlåtelsemedgivandet identifierades i denna kontroll.
+
+**Öppna frågor:** genomförd överlåtelseanmälan; Geomorphics bolagsägande och finansiering i Bolagsverket; tidigare arbetsplaner och ansvar för historiska arbeten; nya arbetsplaner, säkerhetsbelopp, miljöprövning, sakägar- och samebykontakter samt eventuella överklaganden.
+
+**Artikelvinkel:** AI-stödd prospektering i norra Sverige möter naturreservat, Natura 2000, renskötsel och rättsliga krav. Det är inte en bekräftad mineralfyndighet eller gruvstart.
+
+Källor:
+- Bergsstaten, kungörelse 12 november: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/overlatelse-av-undersokningstillstand/
+- Fullständigt beslut BS 204-1373-2026: https://resource.sgu.se/bergsstaten/overlatelse-adelheid-holdings.pdf
+
+
+**Utkaststatus:** fortsatt DRAFT; ingen merge eller publicering.
