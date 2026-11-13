@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 13 november 2026, 03.36 Europe/Sofia  
+**Version:** 13 november 2026 – efter publicering av huvudspår 1 och sammanställning av huvudspår 2  
 **Arbetsregel:** En artikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö. Ingen automatisk publicering. Endast chefredaktörens uttryckliga godkännande får föra en artikel till LIVE. Statusavsnitten högst upp är aktuella; arbetsloggar längre ned bevaras som historik.
 
 ## Publicerings- och systemstatus
@@ -14,15 +14,15 @@
 - **Redaktionell backend:** senaste live deployment är fortfarande 4 november 2026, commit `6a835783553565f239864a9da7160d9f79f692b2`. Admin/API-flödet är inte testat end-to-end.
 - **Databas:** `folktribunalen-db`, status `available`, kostnadsfri instans i Frankfurt med utgångsdatum 4 december 2026. `ipAllowList=[]`; en ny read-only `SELECT 1` nekas eftersom databasen blockerar alla externa anslutningar. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP i Networking som vägar framåt. Ingen öppen `0.0.0.0/0`-regel används.
 - **Publiceringsspärr:** databasbaserad webbkö och adminpublicering är blockerade av den tomma IP-allowlisten. Ingen artikelpost har skrivits till databasen i denna körning.
-- **Aktuell artikelkö:** huvudspår 1, PR #55, är chefredaktörsgodkänt, mergat och publicerat LIVE. PR #33 är stängd som supersederad. PR #7 är det separata Palantir Q3-/molnåtagandespåret. PR #42 är ett separat GP-data-lobbyspår.
+- **Aktuell artikelkö:** huvudspår 1, PR #55, är chefredaktörsgodkänt, mergat och publicerat LIVE. Huvudspår 2 har nu ett sammanhållet komplett granskningsutkast i PR #64, fortfarande Draft och väntar på chefredaktörens separata godkännande. PR #13, #17, #24, #25, #31, #40 och #43 bevaras som tidigare delutkast/källunderlag; de har inte mergats eller publicerats genom PR #64. PR #33 är stängd som supersederad. PR #7 och #42 är separata Palantir-spår.
 - **Fader Samir Daou:** PR #36 mergades till `main` den 11 november. Render-live-versionens bundle (`f52a144...`) innehåller artikelkortet och artikeltexten med sluggen `samir-daou-jbeil`, markerad `PUBLICERAD 11 NOVEMBER 2026`. Publik länk: https://folktribunalen.onrender.com/#/artikel/samir-daou-jbeil. Den är en separat regional/rättslig artikel, inte huvudartikeln om Geagea, Gemayel, Syrien och kyrkan.
 
 ## Aktiva huvudspår
 
-| Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status 12 nov 2026 |
+| Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status 13 nov 2026 |
 |---|---|---|---|---|
 | 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE 13 nov 2026.** PR #55 mergad till `main`; publik artikelväg kontrollerad och källor öppnas. PR #33 stängd som supersederad. PR #42 är ett separat GP-dataartikelspår; PR #7 är Q3-/molnåtagandespåret. |
-| 2 | **Vem bygger Europas AI-datacenter?** | Europas AI-infrastruktur: vem finansierar, äger och kontrollerar den? | Granskning | Flera delartiklar: Amsterdam/PR #13, politisk risk/PR #17, BRAIN++ Sofia/PR #24, Bull–Schwarz/PR #25, Norge/nätanslutning/PR #31, Anthropic/compute/PR #40 och Skellefteå/PR #43. Ingen sammanhållen huvudartikel ännu. Skilj europeiska projekt från amerikanska jämförelsefall. |
+| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **Komplett sammanhållet utkast i PR #64**, 13 nov 2026. Draft för chefredaktörens granskning; inte godkänt, inte mergat och inte publicerat. Samlar Amsterdam, Norge, Finland, Lanarkshire, Sofia/BRAIN++, Skellefteå/EdgeConneX samt Bull/Schwarz Digits. Äldre PR #13, #17, #24, #25, #31, #40 och #43 bevaras som delutkast/källunderlag och har inte auto-mergeats. Skilj anslutning, IT-last, reserverad effekt, kö och faktisk förbrukning. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | Komplett första granskningsutkast i PR #38. Kräver metodavsnitt med reproducerbara observationer, alternativa hypoteser, felkällor och tydliga gränser mellan sammanträffande och kausalitet. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 behandlar Samuil/Prespa, gravkontext och symboler. Huvudartikeln måste också samla musei-/utställningsmaterial och byggnadsarkeologi. Samuils ursprungliga gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | Huvudutkast i PR #34; kompletterande Hautalampi/Eurobattery-case i PR #51. Behöver skilja CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
@@ -65,9 +65,9 @@
 
 1. **Huvudspår 1 – Palantir och den offentliga makten:** chefredaktören godkände 13 november 2026. PR #55 är mergad till `main`; artikeln är publicerad LIVE och den publika route:n är kontrollerad. PR #33 är stängd som supersederad.
 2. Publiceringskontroll av huvudspår 1 är klar. Den statiska publika webbplatsen använder nu innehållet i `src/app.js`; databas/adminflödet är fortfarande separat och inte testat end-to-end.
-3. **Huvudspår 2 – Europas AI-datacenter** är nu nästa artikel i ordningen.
-4. Därefter följer huvudspåren i den ordning chefredaktören angav: **3 Synkronicitetsprotokollet, 4 Sofia, 5 strategiska råvaror, 6 NVIDIA, 7 Libanon, 8 kyrkorna som överlevde imperierna, 9 Fennoskandien.**
-5. Hormuz förblir separat prioritet 6 i nyhetskön. Den godkända fullversionen väntar på Render-deployment och faktisk LIVE-kontroll; den får inte användas för att hoppa över huvudspår 1–5.
+3. **Huvudspår 2 – Europas AI-datacenter** har ett komplett sammanhållet första utkast i PR #64. Det väntar på chefredaktörens granskning. Ingen publicering och ingen LIVE-ändring har gjorts för spår 2.
+4. Nästa huvudspår efter att huvudspår 2 har godkänts, publicerats och kontrollerats LIVE är **3 Synkronicitetsprotokollet**. Därefter följer 4 Sofia, 5 strategiska råvaror, 6 NVIDIA, 7 Libanon, 8 kyrkorna som överlevde imperierna och 9 Fennoskandien.
+5. Hormuz förblir separat prioritet 6 i nyhetskön och ska hållas åtskilt från den nio-spåriga huvudordningen.
 6. Aktuella nyhetsspår och separata serier bevakas och får egna artikelposter, men produktion och publicering sker fortfarande en artikel åt gången.
 
 ## Redaktionell standard
@@ -194,3 +194,15 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - Publicerad route: https://folktribunalen.onrender.com/#/artikel/palantir-offentlig-makt. Kontroll den 13 november: HTTP 200; korrekt rubrik och ingress; NHS-kontraktsuppgiften; huvudtexten; listan över primärkällor; oberoende källor; uppdateringen 12 november.
 - PR #55:s GitHub-status är merged/closed. Den publicerade versionen ligger i `src/app.js`; redaktionell mastertext finns kvar i `editorial/drafts/2026-11-12-palantir-offentlig-datamakt.md` som käll- och versionsunderlag.
 - Nästa huvudartikel enligt beslutad ordning är **nr 2 – Europas AI-datacenter**. Inget annat huvudspår ska gå före.
+
+
+## Redaktionslogg – huvudspår 2, 13 november 2026
+
+- Efter att huvudspår 1 (PR #55) publicerats LIVE har relevanta AI-infrastrukturdelutkast granskats och sammanställts till ett eget huvudutkast.
+- **PR #64:** https://github.com/selotisk-source/Folktribunalen/pull/64
+- **Kanonisk sammanhållen text:** `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`
+- Innehåll: ACER/IEA:s systembakgrund; Amsterdam/Plimsollweg; Norges anslutningskö och licensplan; Finlands LVV-åtgärd vid Muhos och Kajaani; DataVita/Lanarkshire och National Wealth Funds garanti; BRAIN++/Discoverer++ i Sofia; EdgeConneX/Skellefteå; samt Bull/Schwarz Digits.
+- Faktakontrollen skiljer mellan prognos, installerad kapacitet, anslutning, reserverad kapacitet, kö, anslutningsförfrågan och faktisk elförbrukning. Den norska tabellen summeras inte. 1 GW i Skellefteå behandlas som potentiell framtida campuskapacitet. Discoverer++-upphandlingens värde behandlas inte som ett extra projekt utöver BRAIN++-budgeten. DataVitas garanti beskrivs inte som kontantbidrag.
+- **Status:** PR #64 är öppen, mergebar och markerad Draft. Huvudspår 2 har inte publicerats eller lagts in på den publika webbplatsen.
+- PR #13, #17, #24, #25, #31, #40 och #43 ligger kvar som källunderlag/delutkast. PR #40:s globala Anthropic-computegranskning hålls separat från den europeiska huvudartikeln där den inte behövs.
+- **Nästa tillåtna steg:** chefredaktörens granskning och separat godkännande av PR #64. Först därefter kan publicering och LIVE-kontroll genomföras. Huvudspår 3 får inte påbörjas före det.
