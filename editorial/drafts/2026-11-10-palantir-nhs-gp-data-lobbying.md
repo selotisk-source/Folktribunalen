@@ -168,3 +168,49 @@ Detta är en dokumenterad avvikelse mellan tidigare DPIA och faktisk NDIT-drift.
 **Nationell GP-avgränsning:** NHS England meddelade den 21 november 2023 att GP-data inte skulle ingå i den nationella plattformen. Check and Challenge Group-minutes den 15 december 2023 klargör samtidigt att lokala ICB-versioner kan använda GP-data om det finns en lokal data sharing agreement. Den kombinationen är central för att förstå skillnaden mellan nationell tenant och lokala FDP-instanser.
 
 **PRIMÄRKÄLLOR:** [NHS England announcement, 21 November 2023](https://www.england.nhs.uk/2023/11/new-nhs-software-to-improve-care-for-millions-of-patients/) · [NHS England Check and Challenge Group minutes, 15 December 2023](https://www.england.nhs.uk/long-read/fdp-check-and-challenge-group-minutes-15-december-2023/)
+
+
+---
+
+## Uppföljning 12–13 november 2026: användningsmått, borttagen trustlista och statistikgranskning
+
+### Händelsen
+
+**Publiceringsdatum:** 12 november 2026.  
+**Underliggande händelsedatum:** NHS England tog ned den detaljerade trust-för-trust-listan efter att FOI-svar visat avvikelser mellan den publicerade statusen och vad vissa lokala organisationer sade om sin användning.
+
+**OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 12 november att NHS England tagit ned den detaljerade webblista som angav att 137 sjukhustruster var “live” och “realising benefits” från Federated Data Platform (FDP). Granskningen byggde på över 100 FOI-begäranden som Medact skickat till sjukhustruster och integrerade vårdorganisationer. 29 organisationer på listan uppgav att systemet inte var live eller att de inte använde alla eller de flesta av dess verktyg. The Guardian uppger att Office for Statistics Regulation granskar NHS-påståendena.
+
+### Viktig precisering
+
+**PRIMÄRKÄLLA:** NHS Englands kvarvarande uppgiftssida om FDP:s upptag och nytta anger fortfarande 137 organisationer som rapporterande fördelar i den senast publicerade sammanställningen, daterad 12 juni 2026. NHS Englands definition omfattar inte enbart kliniska applikationer: även analys- och datainlämningsverktyg för administrativa funktioner kan räknas.
+
+Det innebär att den nya uppgiften inte ska formuleras som att 29 organisationer bevisligen saknar all teknisk anslutning eller att NHS har återkallat hela siffran 137. Den dokumenterade tvisten gäller skillnaden mellan:
+- tekniskt “live” eller dataöverföring,
+- faktisk användning av specifika applikationer,
+- klinisk användning i patientflöden,
+- och mätbar nytta för vården.
+
+### Koppling till GP-datafrågan
+
+Detta är ett separat bevislager från de FOI-baserade WhatsApp-meddelandena som publicerades 9 november. Meddelandena visar att Palantir argumenterade för att utvidga användningen till GP-data. De visar inte att GP-journaler därefter lades in i den nationella FDP-instansen. Den lokala Cheshire & Merseyside-piloten måste fortsatt behandlas separat från den nationella plattformen.
+
+### Redaktionell konsekvens
+
+Den uppdaterade artikeln ska därför inte dra slutsatsen att:
+1. samtliga 29 organisationer saknar varje form av FDP-anslutning,
+2. GP-data redan har lagts till i den nationella plattformen,
+3. eller att Palantir ensamt kontrollerar NHS-data.
+
+Den ska i stället granska hur NHS definierar “live” och “benefit”, vilka applikationer som faktiskt används, vilka resultat som är kausalt belagda och vem som kontrollerar åtkomst, loggning och vidarebehandling.
+
+### Källor
+
+- **OBEROENDE BEKRÄFTELSE:** [The Guardian, 12 november 2026 – NHS England deletes “misleading” claim 137 trusts benefiting from Palantir AI tools](https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools)
+- **PRIMÄRKÄLLA:** [NHS England – FDP uptake and benefits](https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/impact/fdp-uptake-and-benefits/) (senast publicerade sammanställning 12 juni 2026; definitionen omfattar även administrativa analys- och datainlämningsverktyg)
+- **PRIMÄRKÄLLA:** [UK Parliament, skriftligt regeringsbesked 21 november 2023 – GP data will not be part of the national platform](https://questions-statements.parliament.uk/written-statements/detail/2023-11-21/hlws54)
+- **OBEROENDE BEKRÄFTELSE:** [The Guardian, 9 november 2026 – Palantir lobbying over GP records](https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records)
+
+**Kvar att hämta:** Medacts kompletta FOI-svar och metodunderlag; OSR:s egen ärendeanteckning eller beslut; NHS Englands interna definition av “benefit”; den borttagna listans arkiverade version; samt aktuell användnings- och applikationsdata från de 29 berörda organisationerna.
+
+**Faktastatus:** PRIMÄRKÄLLA = NHS Englands kvarvarande definition och parlamentets ursprungliga avgränsning; OBEROENDE BEKRÄFTELSE = Guardian/Medact FOI-granskningen; PARTSUPPGIFT = Palantirs och NHS Englands beskrivningar av plattformens nytta; OBEKRÄFTAD = att GP-data har lagts in i den nationella FDP-instansen eller att den borttagna listan i sig visar noll teknisk användning hos samtliga 29 organisationer.
