@@ -401,3 +401,7 @@ Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga sli
 
 
 **House-briefingens status:** Reuters återgav 12 november att Brian Mast väntade sig att Huang skulle vittna inför kongressen inom en vecka efter samtal mellan utskottsanställda och NVIDIA-representanter. Detta är inte en formell bekräftelse av den tidigare begärda slutna briefingen den 18 november; den exakta formen och tiden är fortsatt öppna.
+
+
+### 13 november 2026, 07:07 EET – Nscale-finansiering och A–S-delta
+Ny journal: [2026-11-13-breaking-watch-0707.md](https://github.com/selotisk-source/Folktribunalen/blob/research/breaking-watch-2026-11-12/editorial/research/2026-11-13-breaking-watch-0707.md). Financial Times publicerade en ny rapport om Nscales finansieringsbehov för 2027. SEC S-1/A från 12 november har korskontrollerats rad för rad: uppskattad total skuld 5,516 md USD och kassa 3,576 md USD per 30 september; uppskattad niomånaders nettoförlust 1,692 md USD; inget bindande finansieringsåtagande för Anthropic-avtalens nödvändiga finansiering per prospektdatum; ytterligare finansiering krävs för prognostiserade 2027-åtaganden. PR #14 och PR #64 har kompletterats i sina befintliga granskningsgrenar. Nscale/NVIDIA-delen omkring 16 november är fortfarande väntad, inte stängd. Övriga A–S har delta-screenats; inga andra nya materiella dokument identifierades i denna cykel. Inga merges eller LIVE-publiceringar.
