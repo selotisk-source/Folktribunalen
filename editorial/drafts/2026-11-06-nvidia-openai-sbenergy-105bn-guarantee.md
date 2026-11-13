@@ -875,3 +875,20 @@ Källa: [CoreWeave Form 10-Q, 30 september 2026](https://www.sec.gov/Archives/ed
 **OBEROENDE BEKRÄFTELSE, Reuters 11 mars 2026:** NVIDIA investerade **2 miljarder USD** i Nebius och köpte aktier till 94,94 USD styck, motsvarande cirka **8,3 procents ägarandel** enligt Reuters. Det är en dokumenterad ägarkoppling mellan GPU-leverantören och AI-molnleverantören. Den ska däremot inte beskrivas som en garanti för Nebius skulder, leasing eller 2027 års capex. Ingen sådan garanti har identifierats i de källor som granskats.
 
 Källa: [Reuters – Nvidia to invest $2 billion in neocloud Nebius, 11 March 2026](https://www.reuters.com/technology/nvidia-invest-2-billion-ai-cloud-firm-nebius-2026-03-11/)
+
+
+## Källuppdatering 13 november 2026 – Nscales nio månaders preliminära siffror
+
+**Händelsedatum:** 12 november 2026. **Publicering:** Reuters 12 november kl. 18:19 EST (23:19 UTC; 13 november 01:19 EET).
+
+Reuters rapporterar att Nscale på torsdagen ändrade sitt IPO-underlag och redovisade preliminära siffror för de nio månaderna till 30 september: **307,5 miljoner USD i intäkter**, jämfört med **21,3 miljoner USD** samma period 2025 (+1 344 procent), samt **1,7 miljarder USD i nettoförlust**, jämfört med 433,3 miljoner USD föregående år. Erbjudandets prisintervall och antal aktier offentliggjordes inte i Reutersrapporten.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters återger uppgifterna från den ändrade IPO-inlämningen.  
+**PRIMÄRKÄLLA – ej återfunnen i denna kontroll:** Den ursprungliga offentliga S-1:an från 18 september har kontrollerats direkt hos SEC, men den rapporterade ändringen från 12 november och dess accession-/dokumentnummer kunde inte hämtas ur EDGAR i denna kontroll. De nya nio månaders siffrorna ska därför tills vidare attribueras till Reuters återgivning av prospektändringen, inte presenteras som direkt kontrollerade SEC-tal.
+
+**Varför det spelar roll:** Den snabba intäktstillväxten måste läsas tillsammans med den större nettoförlusten, kapacitetsutbyggnadens kapitalbehov och skillnaden mellan aktiv intäktsgenererande kapacitet, kontrakterad men ännu ej driftsatt kapacitet, TCV och RPO. TCV/backlog är inte likvida medel eller redan intjänad omsättning. Nettoförlusten är inte liktydig med operativt kassautflöde; resultatets sammansättning och kassaflödesnoterna i den nya inlämningen måste hämtas innan någon slutsats om likviditetsrisk dras.
+
+**Öppna frågor:** exakt S-1/A-accession och fullständig SEC-text; intäkts-/kostnadsuppdelning för Q3; kassaflöde och likviditet per 30 september; kundkoncentration; hur mycket av kontrakterad kapacitet som var aktiv; om noteringen faktiskt skjuts upp till 2027. Reuters återger Telegraphs uppgift om ett möjligt uppskov men säger att Reuters inte kunde verifiera den.
+
+Källa: [Reuters via StreetInsider, 12 November 2026](https://www.streetinsider.com/Reuters/Nscale%2Bexpects%2B14-fold%2Brevenue%2Bsurge%2Bin%2Bamended%2BIPO%2Bfiling/27338026.html).  
+Tidigare primärkälla: [Nscale Form S-1, SEC, 18 September 2026](https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm).
