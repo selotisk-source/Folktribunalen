@@ -892,3 +892,70 @@ Reuters rapporterar att Nscale på torsdagen ändrade sitt IPO-underlag och redo
 
 Källa: [Reuters via StreetInsider, 12 November 2026](https://www.streetinsider.com/Reuters/Nscale%2Bexpects%2B14-fold%2Brevenue%2Bsurge%2Bin%2Bamended%2BIPO%2Bfiling/27338026.html).  
 Tidigare primärkälla: [Nscale Form S-1, SEC, 18 September 2026](https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm).
+
+## Primärkälla 13 november 2026 kl. 04:43 EET – Nscale S-1/A: finansieringskedjan blir synlig
+
+**Händelsedatum:** 12 november 2026, då Nscale lämnade in Amendment No. 1 till Form S-1.  
+**Primärkälla:** SEC, accession 0001193125-26-458722: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm  
+**Oberoende bekräftelse:** Reuters rapporterade samma dag om de preliminära nio månaders siffrorna: https://www.streetinsider.com/Reuters/Nscale%2Bexpects%2B14-fold%2Brevenue%2Bsurge%2Bin%2Bamended%2BIPO%2Bfiling/27338026.html
+
+### Preliminära resultat – inte reviderade och inte kassaflöde
+
+**PRIMÄRKÄLLA:** Nscale redovisar preliminära, oreviderade uppskattningar för de nio månaderna till 30 september 2026:
+- Intäkter: **307,5 mn USD**, mot 21,3 mn USD samma period 2025.
+- Rörelseförlust: **837,5 mn USD**, mot 67,6 mn USD.
+- Nettoförlust: **1 691,9 mn USD**, mot 433,3 mn USD.
+- Justerad EBITDA: **minus 289,5 mn USD**, mot minus 22,2 mn USD.
+
+Nscale säger uttryckligen att bokslutsprocessen inte är färdig, att uppskattningarna kan ändras väsentligt och att KPMG inte har granskat, reviderat, sammanställt eller utfört granskningsåtgärder på dessa preliminära nio månaders siffror. Nettoförlusten får inte likställas med operativt kassautflöde.
+
+### Kontraktsvärde, faktisk drift och kundförskott
+
+**PRIMÄRKÄLLA:** Prospektet anger cirka **6,4 md USD i aktivt TCV** och **105,8 md USD i aktivt och kontrakterat TCV** under långfristiga take-or-pay-avtal. Bolaget anger att dessa avtal motsvarar cirka **461 000 GPU:er som är aktiva eller kontrakterade**. TCV är kontraktsvärde över avtalstid, inte redovisad intäkt, kassa eller bevis på att all kapacitet är driftsatt.
+
+Nscale uppger att det viktade genomsnittliga kundförskottet motsvarar cirka **20 procent av TCV**. Det är en bolagsuppgift om avtalsstrukturen; den ska inte omräknas till ett påstående om att ett visst kontantbelopp redan har betalats in.
+
+**PRIMÄRKÄLLA:** RPO för ASC 606-tjänsteavtal var **56,4 md USD per 30 juni 2026**, inklusive 7,1 md USD från den redovisade betydande finansieringskomponenten i kundförskott. Nscale väntar sig att redovisa dessa RPO under sju år. RPO omfattar inte alla leasingarrangemang och är inte samma mått som TCV.
+
+### NVIDIA:s fyra skilda roller i Nscale-relationen
+
+1. **Kund:** Ett master cloud services agreement från juli 2025 ger NVIDIA reserverad GPU-klusterkapacitet från Nscale i Island, Storbritannien och Norge. Avtalets sammanlagda värde anges till **1,2 md USD**, med initiala tjänsteperioder på 12–48 månader.
+2. **Investerare:** NVIDIA:s SAFE på **300 mn USD** konverterades i Series C till 16 346 160 preferensaktier. NVIDIA tecknade dessutom Series C-4-aktier för **477,4 mn USD**.
+3. **Hyresgarantigivare:** I samband med ett net lease-avtal för en anläggning i Ward County, Texas, garanterade NVIDIA upp till **860,34 mn USD** av Nscales betalningsförpliktelser under de första fem åren. Nscale redovisar **470 mn USD** i spärrade medel som säkerhet/recourse för NVIDIA. Garantin gäller den specificerade lease-strukturen, inte Nscales samtliga skulder.
+4. **Konvertibelfinansiär:** Ett avtal om sammanlagt **3,36 md USD** består av 2,36 md USD i osäkrade konvertibla låneinstrument till flera investerare, däribland NVIDIA, samt ytterligare **1,0 md USD** i en separat NVIDIA-del. Den senare väntades stänga omkring **16 november 2026** och kunde enligt prospektet, beroende på tidpunkten för registreringens ikraftträdande, ges ut som konvertibla skuldebrev eller icke-röstberättigade aktier. Den delen ska inte beskrivas som stängd per prospektdatum.
+
+Dessa roller ska redovisas separat. De visar en tät leverantörs-, kund-, ägar- och garantirelation, men utgör inte i sig belägg för otillåten cirkulär finansiering eller att NVIDIA garanterar Nscales hela verksamhet.
+
+### Anthropic, framtida kapacitet och avtalsvillkor
+
+**PRIMÄRKÄLLA:** Nscale anger GPU-tjänsteavtal med Anthropic med sammanlagda betalningar på upp till **44,6 md USD** för infrastruktur vid Monarch Compute Campus. Prospektet anger samtidigt att Anthropic den 29 september utnyttjade en rätt att förhandla om ytterligare compute vid Building 2. Parterna hade därefter 60 dagar, med möjlighet till gemensam förlängning, att förhandla i god tro; om inget avtal nås upphör deras skyldigheter avseende Building 2. En rätt avseende Building 3 kan utövas först efter att Building 2-avtalet undertecknats. Hela beloppet 44,6 md USD får därför inte framställas som redan intjänad intäkt eller som ovillkorligt säkrad finansiering.
+
+Nscale beskriver också Monarch som en cirka 2 250 acres stor sajt i West Virginia med en första planerad bruttoeffekt på 2 GW, motsvarande 1,37 GW IT-last, till första halvåret 2028 och en långsiktig plan om cirka 8 GW bruttoeffekt till 2031. Detta är bolagets plan och inte oberoende verifierad driftsatt effekt.
+
+### Ytterligare finansieringslager
+
+**PRIMÄRKÄLLA:** Nscale redovisar 40 fullt undertecknade betalningsscheman under DFS Framework Agreements med cirka **2,54 md USD i initial hyra** och cirka 34,8 mn USD i sammanlagda finansieringskostnader. Detta är utrustningsleasingens initiala hyresbetalningar, inte automatiskt en omedelbar låneskuld.
+
+Bolaget uppger mer än **13,4 md USD i samlat eget och lånat kapital**, varav cirka 6,7 md USD i eget kapital, mer än 5,7 md USD i projektfinansiering och en revolverande kreditfacilitet på 900 mn USD. Commitment, tillgänglig kredit och faktiskt draget kapital ska följas var för sig.
+
+### Risk- och redovisningsnot
+
+**PRIMÄRKÄLLA:** Nscale uppger att största kunden stod för **52 procent av intäkterna under första halvåret 2026**, jämfört med 73 procent under 2025 och i stort sett hela intäkten 2024. Bolaget beskriver också att finansieringsbehovet för kontrakterad kapacitet initialt väckte betydande tvivel om fortsatt drift eftersom prognosen var beroende av ännu inte bindande skuld- och aktiefinansiering. Ledningen bedömer att möjligheten att senarelägga, minska eller avbryta investeringar sannolikt skulle ge tillräcklig likviditet för att hantera tvivlet. Detta är en redovisad riskbedömning med bolagets motåtgärd, inte ett konstaterande om insolvens.
+
+### Redaktionell slutsats och öppna frågor
+
+**Artikelvinkel:** *Nscale: 105,8 miljarder dollar i kontraktsvärde – men en finansieringskedja där NVIDIA samtidigt är kund, investerare och garantigivare.*
+
+**Vad som är nytt:** Den ändrade SEC-inlämningen gör det möjligt att kontrollera Reuters tidigare återgivna nio månaders siffror direkt och visar mer av den juridiska strukturen mellan Nscale, NVIDIA, Anthropic, Aker och finansieringsparter.
+
+**Vad som ännu är oklart:**
+- Om NVIDIA-delens ytterligare 1 md USD stänger omkring 16 november och i vilken form.
+- Hur stor del av TCV och de 461 000 GPU:erna som faktiskt är aktiv, installerad och fakturerbar.
+- Hur mycket kundförskott som faktiskt mottagits i kontanter, jämfört med viktad avtalsprocent.
+- Slutliga, granskade nio månaders resultat och kassaflöde.
+- Vilka villkor som gäller för varje del av Anthropic-avtalen och när kapaciteten kan tas i drift.
+- Hur mycket av projektfinansieringsramarna som faktiskt är draget.
+
+**Källklassificering:** SEC-prospektet = **PRIMÄRKÄLLA**; Reuters/StreetInsider = **OBEROENDE BEKRÄFTELSE** av att ändringen rapporterats; Nscale:s framtida kapacitets-, TCV- och betalningsprognoser = **PARTSUPPGIFTER**; påståenden om cirkulär finansiering eller systemrisk = **HYPOTES** som kräver separat belägg.
+
+**Status:** Tillägg till befintligt granskningsutkast. Fortsatt DRAFT; inte godkänt, inte mergat och inte publicerat.
