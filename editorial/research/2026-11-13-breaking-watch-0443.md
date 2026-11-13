@@ -84,3 +84,64 @@ Oxford University Press-artikeln “Strange attractors: purpose, synchronicity, 
 - PR #60: denna daterade interna journal.
 - Ingen artikel har mergats, godkänts eller publicerats i denna kontrollcykel.
 - Den publika sajten kunde inte läsas via den tillgängliga webbläsarhämtningen; tidigare LIVE-logg för Palantir upprepas därför inte som en ny kontroll.
+
+
+## Addendum – kontrollcykel 13 november 2026, 05:35 EET
+
+### F/P – primärbrev från House-kommittéerna, 12 november
+House Foreign Affairs Committee publicerade sin **andra begäran** till Jensen Huang/NVIDIA. Tre undertecknade brev anger: Huang ska infinna sig till sluten, transkriberad intervju 1 december; NVIDIA:s chefsjurist Tim Teter 2 december; Commerce Under Secretary Jeffrey Kessler är inbjuden till hearing 3 december kl. 10.00 EST. Huang och Teter ska skriftligen acceptera senast 20.00 EST 13 november; breven anger subpoena om de inte gör det. Detta är en dokumenterad eskalering från den första briefingbegäran 5 november. Det är inte belägg för att subpoena redan utfärdats.
+
+Primärkällor: [House pressmeddelande](https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-send-second-request-to-jensen-huang-and-nvidia-to-brief-congress-on-the-chinese-intelligence-asset), [Huang-brevet](https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.12.26-chairmen-letter-to-mr-jensen-huang.pdf), [Teter-brevet](https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.12.26-chairmen-letter-to-nvidia-gc.pdf), [Kessler-inbjudan](https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.12.26-invitation-to-u-s-kessler.pdf). Reuters rapporterar separat Tim Scotts begäran om vittnesmål från Huang och Lutnick; originalbreven har inte hämtats. Warren/Coons dokumentbevarandebegäran 11 november är separat och har svarstid 17 november.
+
+### B – protester och EU:s datacenterregler
+Le Monde publicerade 9 november en rapport om protester 6–7 november i omkring 15 europeiska länder. Uppgiften om 90 evenemang kommer från arrangörskoalitionen Stop Dirty Data Centres; den är inte en myndighetsverifierad totalsiffra. Le Monde rapporterar cirka 2 000 deltagare i Zaragoza och 150–200 frihetsberövanden enligt nederländsk polis efter en aktion vid Microsofts Sloterdijk-byggarbetsplats. EU-kommissionen lanserade 21 september ett gemensamt rating-/märkningssystem för datacenter över 500 kW och en konsultation om minimistandarder till 14 december 2026; ett lagförslag väntas Q2 2027. Ratingförslaget är ännu under granskning och minimistandarderna är inte gällande lag.
+
+Källor: [Le Monde](https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html), [EU-kommissionen](https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en).
+
+### N – Home Office-enkät om retrospektiv ansiktsigenkänning
+Home Office publicerade 12 november en primärundersökning av PND facial-search-användare: 6 012 identifierade användare gjorde över 300 000 sökningar under feb 2025–jan 2026; 779 frivilliga giltiga svar motsvarade cirka 13 procent av användarpopulationen. 34 procent svarade fel eller var osäkra på om en match uppfyller beviskravet för identifiering – detta mäter användarförståelse, inte algoritmens felmatchningsfrekvens. 51 procent hade senast fått utbildning för mer än ett år sedan; 14 procent mindes ingen utbildning någonsin. 53 procent uppfattade demografiska prestandaskillnader i åtminstone viss grad; det är självrapporterad uppfattning, inte en objektiv fairness-mätning. HMICFRS:s separata inspektion uppges ha 16 rekommendationer; originalpubliceringen gav 403 i denna kontroll.
+
+Primärkälla: [Home Office, 12 november](https://www.gov.uk/government/publications/police-user-insights-on-retrospective-facial-recognition-2026/police-user-insights-on-retrospective-facial-recognition-2026). Sekundär bekräftelse av HMICFRS-resultaten: [Police Professional, 12 november](https://policeprofessional.com/news/oversight-of-retrospective-facial-recognition-must-be-improved-says-hmicfrs/).
+
+### E/S – SGU/Bergsstaten, ansökta områden
+SGU:s öppna mineralrättighets-API och Bergsstatens notiser visar ansökta områden som publicerades/notifierades 10 november: Kiltivaara nr 1001 (Boliden, cirka 9 334 ha; guld/koppar/molybden/silver; ansökt 2 juli), Sorseleskogen nr 777 (Blanchet, cirka 325 ha; guld; ansökt 11 juli), Svansele nr 1 (Mineral Prospektering i Sverige AB, cirka 118 ha; guld/koppar/zink; ansökt 13 juli) och Lomtjarn nr 1 (cirka 826 ha; bly/guld/koppar/silver/zink; sökande saknas i API-fältet; ansökt 28 juli). Status är **Ansökt**, inte beviljat tillstånd eller mineralreserv. GTK:s publicering 13 augusti beskrev en föreslagen lagändring med avsedd ikraftträdandedag 1 november; gällande Finlex-text har inte identifierats i denna kontroll.
+
+Primärkällor: [SGU API](https://api.sgu.se/oppnadata/mineralrattigheter/ogc/features/v1/collections/ut-metaller-industrimineral-ansokta/items?f=text%2Fhtml%26limit=50%26startIndex=50), [Bergsstaten – Kiltivaara](https://www.sgu.se/bergsstaten/om-bergsstaten/nyheter/2026/november/kartor-till-underrattelse-kiltivaara-nr-1001/), [GTK – föreslagen lagändring](https://www.gtk.fi/ajankohtaista/geologian-tutkimuskeskukselle-saadetaan-eun-kriittisten-raaka-aineiden-asetuksen-mukaisia-tehtavia/).
+
+### G – Libanon, parlamentariskt AI-ministerieförslag
+Libanons gemensamma utskott diskuterade 9 november ett lagförslag om ett Ministry of Technology and Artificial Intelligence. Parlamentet kallade till plenarsammanträde 12 november, men kontrollerat material visar inte att förslaget antogs. Det är ett förslag, inte gällande lag, och inte en kyrkospecifik händelse. [Parlamentets notis](https://www.lp.gov.lb/ContentRecordDetails?Id=37112).
+
+### O – Hormuz och alternativa flöden
+- Houthierna hävdade 12 november att de angripit Saudiarabiens East-West-pipeline/pumpstation, Yanbu-anläggning och Aramco-byggnad i Riyadh; tidpunkt och skador saknas. Koalitionen uppgav att två drönare avlysts. Inget pipelineavbrott verifierat. [Reuters](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-pumping-station-saudi-arabias-east-west-oil-2026-11-12/).
+- Irans revolutionsgarde hävdade 13 november att man riktat in sig på en amerikansk radarresurs i Bahrain. USA/Bahrain hade inte kommenterat; oberoende bekräftelse saknas. Inga känsliga platsdetaljer återges. [Reuters](https://www.reuters.com/world/middle-east/irans-guards-say-they-targeted-us-early-warning-radar-bahrain-2026-11-13/).
+- Reuters rapporterade 12 november att stränder i Ras Al Khaimah och Sharjah återöppnats efter att oljeutsläpp begränsats; Umm Al Quwain hade fortsatt stängda stränder. Direkt lokal myndighetsnotis saknas. [Reuters](https://www.reuters.com/world/middle-east/uaes-ras-al-khaimah-sharjah-reopen-several-beaches-after-tanker-oil-spill-2026-11-12/).
+- Omans NEMC behandlade 12 november grundstött tanker och last; fartygsidentiteten angavs inte. Caroline Bezengi är endast en hypotes. [Oman Observer/ONA](https://www.omanobserver.com/article/1199589/oman/emergency-committee-discusses-oil-tanker-grounding).
+
+### R – Norrsundet, rättslig status
+Länsstyrelsen Gävleborg anger att någon anläggningsplan ännu inte finns. Blykallas ansökan gäller sex blykylda SMR, cirka 330 MWe och cirka 40 ha på Gävle Norrsundet 15:28. Samrådet löper 9 oktober–13 november; Länsstyrelsen ska lämna förslag till regeringen senast 31 december. Gävle kommun måste tillstyrka. Ett godkänt planbeslut är inte bygg- eller drifttillstånd; separata prövningar återstår. [Länsstyrelsen](https://www.lansstyrelsen.se/gavleborg/samhalle/ny-karnkraft.html).
+
+### K – Cladonia, kommunal dagordning
+Bergs kommuns kallelse 10 november innehåller ingen formell Cladonia-punkt. Den visar endast vad som fanns på den publicerade dagordningen och utesluter inte separat/informellt möte. Lagfarter och bolagskopplingar är fortsatt öppna. [Kallelse PDF](https://berg.se/download/18.74b303f21a1a1a9bcb31a1f/1793747745560/Kallelse%20f%C3%B6rstasida%20kommunstyrelsen%2010%20november%202026.pdf).
+
+### Kontrollstatus A–S
+A Palantir – ingen ny materiell uppgift; PR #55 mergad.  
+B AI-datacenter – protestvåg och EU-paket tillförda i PR #64.  
+C Synkronicitet – ingen ny reproducerad evidens.  
+D Sofia – ingen ny primär arkeologisk rapport.  
+E Mineraler – fyra ansökta områden i SGU/Bergsstatens öppna data.  
+F NVIDIA – House-breven och senatsbegäran.  
+G Libanon – AI-ministerieförslag i utskott; inget antagande belagt.  
+H Kyrkor – ingen ny handling.  
+I Fennoskandien – ingen ny primärpublikation.  
+J Storsjöodjuret – ingen ny primär observation.  
+K Cladonia – ingen formell KS-punkt; registerfrågor öppna.  
+L Skaga – ingen ny handling.  
+M Athos – ingen ny offentlig katalog-/donationspost.  
+N Storebror – Home Office-enkät; HMICFRS-original 403.  
+O Hormuz – partsuppgifter och miljöuppföljning, åtskilda beviskedjor.  
+P Kongressen – daterade House-brev och svarstid.  
+Q Gripen – ingen ny order/leverans.  
+R Energi – Norrsundets planstatus preciserad.  
+S Urbergsskölden – GTK-lagändringens faktiska ikraftträdande ej fastställt.
+
+**Arbetsflöde:** PR #47 och PR #64:s kanoniska utkast uppdateras; PR #53 och PR #57 får källkommentarer; PR #16:s matris får daterat tillägg. Ingen artikel mergas eller publiceras.
