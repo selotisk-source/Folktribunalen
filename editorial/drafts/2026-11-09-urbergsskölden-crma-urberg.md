@@ -489,3 +489,20 @@ Källor:
 **Tidsfrist:** EU-förordning 2024/1252 artikel 27.3 anger den 24 november 2026 för berörda operatörers preliminära ekonomiska bedömningsstudier. Detta är en direkt EU-frist; de finska lagarna anger nationell ansvarsfördelning och hur studien ska lämnas till behörig tillståndsmyndighet. Kravet är inte bevis för att avfallet är ekonomiskt utvinnbart.
 
 **Källor:** Finlex 1024/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1024 ; 1026/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1026 ; 1027/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1027 ; 1028/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1028 ; EU-förordning 2024/1252, https://eur-lex.europa.eu/eli/reg/2024/1252/oj/eng .
+
+
+## 13 November 2026 – LKAB får markanvisning i östra Malmberget
+
+**PRIMÄRKÄLLA – Bergsstaten, beslut 11 november 2026, publicerat 13 november 2026; dnr BS 23-727-2023:** Bergmästaren beviljade LKAB:s ansökan om markanvisning till förmån för de befintliga bearbetningskoncessionerna Malmberget K nr 1–5 i Gällivare kommun. Den anvisade ytan är 37,44 hektar i östra Malmberget, mellan Kaptensgropen och Malmsta. Beslutet anger att marken behöver tas i anspråk på grund av risk för ras och sättningar till följd av gruvbrytningen. Tillträde får ske omedelbart; överklagandefristen löper till 9 december 2026.
+
+**Vad beslutet innebär – och inte innebär:** Detta är en markanvisning kopplad till fem redan gällande bearbetningskoncessioner. Det är inte en ny undersökningsrätt, en ny bearbetningskoncession eller ett nytt fristående gruvprojekt. Beslutet gäller markanvändning för gruvanknuten verksamhet och säkerhetsåtgärder i ett område som redan påverkas av markdeformationer. Bergsstaten anger att marken inom området redan tillhör LKAB; beslutet ska därför inte beskrivas som ett nytt markförvärv.
+
+**Tidslinje och lokala intressen:** Ansökan kom in 29 augusti 2023. Gällivare kommun motsatte sig ansökan 24 augusti 2024, varefter ärendet vilandeförklarades i mars 2025 i väntan på planändringar. Kommunen antog därefter nya detaljplaner för gruvindustri och uppgav 24 augusti 2026 att planmässiga hinder inte längre förelåg. Beslutsakten redovisar överenskommelser med Baste sameby och Skanova. Konsultation erbjöds 2024 till berörd sameby, Sametinget och Svenska Samernas Riksförbund; samtliga avstod från formell konsultation i just denna förrättning. Två närboende lämnade yttranden 2024 om störningar från gruvdriften och att deras bostäder inte lösts in. Bergsstaten bedömde att markanvisningen möjliggör säkerhetsåtgärder och inte motverkar detaljplanernas syfte.
+
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende nyhetsrapportering om just beslutet identifierades vid denna kontroll. Beslutet och dess sakägar-/myndighetsredogörelse är primärunderlaget.
+
+**Betydelse:** Malmberget visar hur gruvans markpåverkan successivt omvandlar bostads- och parkmark till gruvindustri och säkerhetszoner. Den centrala granskningsfrågan är hur markanvisning, detaljplan, ersättning, renskötsel och faktisk avspärrning samordnas – inte om ett nytt fynd eller en ny gruva har godkänts.
+
+**Nästa kontrollpunkt:** eventuella överklaganden senast 9 december; genomförandet av markanvisningen; säkerhets- och avspärrningsåtgärder; eventuella senare detaljplane- eller ersättningsbeslut; Baste samebys och berörda fastighetsägares dokumenterade villkor.
+
+**Källa:** Bergsstaten, kungörelse 13 nov 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/markanvisning-i-malmberget/ ; beslut PDF: https://resource.sgu.se/bergsstaten/malmberget-k-nr-1-5-bes.pdf .
