@@ -1301,3 +1301,30 @@ PR #47, #10, #14 och #53 har kompletterats med nya primärhandlingar/uppdatering
 | S. Urbergsskölden | Finland publicerade lagarna 1024/2026, 1025/2026 och 1026/2026, med ikraftträdande 15 november. GTK får nya uppgifter. | Följ genomförandeföreskrifter, GTK:s databas/program och de fem finska CRMA-projekten. |
 
 **Arbetsprincip i denna cykel:** nya notiser har prioriterats där primärdokument eller oberoende rapportering ändrat kunskapsläget. Övriga spår har fått en kort statuskontroll utan att äldre uppgifter återpublicerats.
+
+
+## Delta-screening – 13 november 2026, 05:35 EET
+
+| Spår | Senaste kontroll | Nytt dokument/fynd | Status och nästa kontroll |
+|---|---|---|---|
+| A Palantir | 13 nov | NHS/FDP-spåret oförändrat sedan senaste kontroll; PR #55 är mergad. | Ingen ny materiell uppgift. Följ OSR, trust-faktisk användning och kontraktsvillkor. |
+| B AI-datacenter | 13 nov | Le Monde 9 nov: protester 6–7 nov i cirka 15 länder; arrangörerna räknar 90 evenemang. EU-kommissionens ratingpaket 21 sep och konsultation till 14 dec. | Utkast PR #64 uppdateras. Verifiera lokala polis-/kommunhandlingar och projektens faktiska el/vatten. |
+| C Synkronicitet | 13 nov | Ingen ny reproducerad empirisk studie över tröskeln; OUP-modellen ligger redan i PR #38. | Fortsätt replikations- och metodkontroll. |
+| D Sofia | 13 nov | Ingen ny primär arkeologisk rapport om Samuils sarkofag eller Sankt Sofia identifierad. | Öppet: originaldokumentation, proveniens och föremålsinventarier. |
+| E Mineraler | 13 nov | SGU/Bergsstatens öppna API visar nya/notifierade ansökningar: Kiltivaara nr 1001 (Boliden, 9 334 ha; Au-Cu-Mo-Ag), Sorseleskogen nr 777 (Blanchet, 325 ha; Au), Svansele nr 1 (Mineral Prospektering i Sverige AB, 118 ha; Au-Cu-Zn), Lomtjarn nr 1 (826 ha; Pb-Au-Cu-Ag-Zn; innehavare ej angiven i API). Ansökningsdatum juli 2026; SGU-notis 10 nov. | PRIMÄRKÄLLA: SGU:s öppna mineralrättighets-API och Bergsstatens notis. Alla är status Ansökt, inte beviljade tillstånd eller mineralreserver. Hämta diarier, arbetsplaner och sakägar-/samebyunderlag. |
+| F NVIDIA/finansiering | 13 nov | House-kommittéernas andra begäran 12 nov med intervjudatum 1–2 dec och subpoena-varning; Tim Scott begär vittnesmål enligt Reuters. | PR #47 kompletteras med tre primära House-brev. Inga subpoenas utfärdade i kontrollerat material. |
+| G Libanon | 13 nov | Parlamentets gemensamma utskott diskuterade 9 nov lagförslag om ett teknik- och AI-ministerium; plenarsammanträde kallat till 12 nov. | PRIMÄRKÄLLA: parlamentets webbplats. Förslag, inte antagen lag. Hämta protokoll och utfall från 12 nov; ingen ny kyrkospecifik åtgärd identifierad. |
+| H Kyrkor | 13 nov | Ingen ny kyrko-/kommun-/kulturarvshandling över tröskeln. | Fortsätt femstadstidslinjerna och församlingsarkiv. |
+| I Fennoskandien | 13 nov | Ingen ny samlad geologi-/skogs-/hästhistorisk primärpublikation över tröskeln. | Fortsätt SGU/GTK, historiska kartor, samebyar och markanvändning. |
+| J Storsjöodjuret | 13 nov | Ingen ny daterad primär observation eller hydrologisk mätserie. | Håll folkloristik och biologiska hypoteser åtskilda. |
+| K Cladonia | 13 nov | Bergs KS-kallelse 10 nov saknar Cladonia som formell dagordningspunkt. | Detta utesluter inte separat/informellt möte. Lagfarter och bolagskopplingar fortfarande öppna. |
+| L Skaga kapell | 13 nov | Ingen ny RAÄ-/länsstyrelse-/kyrkoarkivhandling. | Fortsätt byggnadsarkeologi och brand-/restaureringskronologi. |
+| M Athos | 13 nov | Ingen ny verifierad donation eller offentlig katalogpost. | Fortsätt offentliga kataloger/proveniens; inga privata uppgifter. |
+| N Storebror | 13 nov | Home Office publicerade 12 nov användarundersökning om PND facial search; 779 svar av 6 012 användare. | PR #57 kompletteras. 34% avser användarnas förståelse av bevisvärde, inte algoritmfel. HMICFRS-originalet gav 403. |
+| O Hormuz | 13 nov | Houthi-påstående om East-West-pipeline; IRGC-påstående om Bahrain; UAE-stränder återöppnade enligt Reuters; NEMC följde grundstött tanker. | Källstatus varierar: partsuppgifter, Reuters och ONA. Inget obekräftat påstående får omvandlas till bekräftad skada. |
+| P USA:s kongress | 13 nov | House-brev 12 nov: Huang 1 dec, Teter 2 dec, Kessler-hearing 3 dec; svarstid 13 nov 20.00 EST. | Primärbrev inhämtade. Kontrollera svar/subpoena efter 03.00 EET 14 nov. |
+| Q Gripen | 13 nov | Ingen ny order, leverans eller exportbeslut identifierat. | Fortsätt Saab/FMV och exportländernas primärkällor. |
+| R Strategisk energi | 13 nov | Länsstyrelsens Norrsundetsida klargör att anläggningsplan saknas; samråd 9 okt–13 nov; förslag till regeringen senast 31 dec. | Sex blykylda SMR, ca 330 MWe, ca 40 ha. Kommunalt tillstyrkande krävs; planbeslut är inte bygg-/drifttillstånd. |
+| S Urbergsskölden | 13 nov | GTK:s 13 aug-besked säger att lagändring föreslogs med avsedd ikraftträdandedag 1 nov; gällande Finlex-text har inte identifierats i denna kontroll. | Verifiera faktisk lag i Finlex innan ikraftträdande påstås. Knyt SGU-ansökningarna till mineral-/markrättighetsanalysen. |
+
+**Arbetsflöde:** PR #47 och PR #64 uppdateras i respektive draftgren; PR #57 och PR #53 får källkommentarer; PR #16:s matris och PR #60:s journal får denna kontrollcykels tillägg. Ingen artikel mergas eller publiceras i denna cykel.
