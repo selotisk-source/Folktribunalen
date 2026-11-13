@@ -1,7 +1,7 @@
 # NVIDIA under granskning – styrelseutredning, exportkontroller och den politiska risken kring Jensen Huang
 
 **Artikeltyp:** Företagsstyrning · exportkontroll · AI-chip · nationell säkerhet  
-**Faktaläge:** 12 november 2026, 13.52 Europe/Sofia  
+**Faktaläge:** 13 november 2026, 01:59 EET
 **Berörda huvudspår:** F – NVIDIA, AI-finansiering och säkerheter · P – USA:s kongress och institutionell makt · N – Från skrift till Storebror
 
 *Efter rapportering om att NVIDIA:s vd Jensen Huang kan ha varit måltavla för en utländsk underrättelseoperation har bolagets styrelse inlett en oberoende utredning. Samtidigt kräver senatorer från båda partierna en skärpt granskning av exportlicenserna till Kina. En republikansk senator vill att Huang lämnar vd-posten. Men den centrala sakfrågan är ännu inte besvarad: finns det belägg för att bolagshemligheter, exportkontrollinformation eller nationellt skyddsvärda uppgifter faktiskt har röjts? I det offentliga materialet som hittills identifierats finns inget sådant fastställt belägg.*
@@ -394,3 +394,48 @@ The article must keep four separate propositions separate: (1) NVIDIA's board ac
 ### Singapore MHA – additional procedural detail, 13 November
 
 MHA's 12 November statement also says that Supermicro provided limited cooperation in the Singapore inquiry. Singapore's police and Attorney-General's Chambers raised the issue with U.S. authorities on 7 July 2025 and repeatedly sought assistance from DOJ/FBI from September 2025 onward; MHA says the information and assistance received remained limited. This is Singapore's account of cross-border investigative cooperation. It is not a finding that Supermicro committed an offence, and it does not establish that NVIDIA or Huang participated in any unlawful export.
+
+
+
+## Uppdatering 13 november 2026 – SEC-formulering, kongressbrev och Singapores primärbesked
+
+### Jensen Huang: händelsedatum och juridisk formulering
+
+**Händelsedatum:** 11 november 2026, då NVIDIA:s styrelse accepterade avgången.  
+**Publicerings-/inlämningsdatum:** 12 november 2026.
+
+**PRIMÄRKÄLLA – SEC Form 8-K:** bolagets filing anger att Jensen Huang hade avgått som president, CEO och styrelseledamot med omedelbar verkan. Filingens juridiska formulering är **resigned**. Den anger ingen orsak och avgör inte offentligt om han själv tog initiativet eller om styrelsen bad honom lämna.
+
+Colette Kress utsågs till interim CEO och fortsätter samtidigt som CFO. Harvey C. Jones utsågs till styrelsens första ordförande. Bolaget säger att verksamhet, kundåtaganden och produktplan ska fortsätta utan avbrott; detta är bolagets egen försäkran.
+
+**PRIMÄRKÄLLA – House Select Committee on China, 12 november:** ordförande John Moolenaar beskrev avgången som en “firing”. Det är hans politiska karakterisering. Den ska hållas åtskild från SEC-filingen, som registrerar en resignation och inte anger vem som initierade den.
+
+### Kongressens två parallella spår
+
+**PRIMÄRKÄLLA – House, 5 november:** ordförandena John Moolenaar, Brian Mast och Rick Crawford begärde en gemensam sluten briefing med Huang den **18 november**. Brevet bad honom acceptera eller föreslå alternativ tillgänglighet senast **11 november**. Den tidsfristen har passerat. Ingen offentlig kommittéuppdatering som bekräftar att just den planerade briefingen fortfarande äger rum har identifierats i denna kontroll. Medieuppgifter den 12 november om att Huang kan komma att vittna före Thanksgiving är inte i sig en officiell bekräftelse av briefingen den 18 november.
+
+**PRIMÄRKÄLLA – Senaten, 11 november:** Elizabeth Warren och Chris Coons skickade en skrivelse till handelsministern, utrikesministern och Vita husets stabschef. De begärde att handlingar och kommunikation om NVIDIA:s avancerade chipexporter till Kina och den rapporterade underrättelseoperationen bevaras, att skriftlig bekräftelse lämnas senast **17 november**, samt att senatorerna får en briefing. Detta är en begäran om bevarande och information, inte en offentliggjord stämning eller domstolsorder.
+
+### Singapore – MHA:s besked 12 november begränsar vad som kan påstås om Alice Huang
+
+**PRIMÄRKÄLLA – Ministry of Home Affairs, 12 november 2026:**
+- Singapore Police Force och Singapore Customs inledde i februari 2025 en självständig utredning av Megaspeed och flera andra bolag/personer om misstänkta falska deklarationer vid serverköp och relaterade inhemska brott.
+- MHA säger att utredningen inte grundades på en begäran från något annat land.
+- Alice Huang, även kallad Huang Le, var bosatt i Hongkong, inte baserad i Singapore och **utreddes inte för spioneri**.
+- Den 24 juni 2025 genomförde USA:s BIS en frivillig Post-Shipment Verification hos Megaspeed. MHA säger att detta var första gången Singapore fick kännedom om USA:s intresse för Megaspeed och Huang.
+- I februari 2026 bedömde polisen, efter samråd med Attorney-General’s Chambers, att bevisningen inte räckte för att fastställa att Huang begått de misstänkta deklarationsbrotten.
+- Polisen bedömde däremot att hon lämnat information som hon visste var felaktig för att tona ned sin roll i Megaspeed. Hon fick en skarp varning, förbjöds att återvända till Singapore och fick tillbaka sitt pass den 26 februari 2026.
+- Utredningen av Megaspeed och sex andra personer pågår. MHA säger att ingen av de sex varit i Singapore sedan utredningen inleddes.
+
+**OBEROENDE BEKRÄFTELSE:** The Straits Times och Reuters rapporterade samma dag om MHA-beskedet. Reuters rapporterade separat att Megaspeed anlitat en amerikansk advokatbyrå för att inventera sina GPU:er och granska exportkontrollrutinerna; detta är bolagets egen uppgift.
+
+**Redaktionell avgränsning:** MHA:s utredning av möjliga falska deklarationer är inte ett fynd om kinesiskt spioneri. Det finns inte i MHA-beskedet någon slutsats om att Huang spionerat, att Jensen Huang känt till spioneri eller att NVIDIA:s företagshemligheter faktiskt röjts. NVIDIA:s styrelseutredning är en separat process.
+
+Källor:
+- [NVIDIA Form 8-K, 12 November 2026](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)
+- [House Select Committee on China – Moolenaar statement, 12 November](https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-statement-on-jensen-huang-s-resignation-from-nvidia)
+- [House Select Committee on China – request for briefing, 5 November](https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-mast-and-crawford-seek-briefing-from-jensen-huang-on-ties-to-chinese-intelligence-asset)
+- [Senate Banking Committee – Warren/Coons records-preservation letter, 11 November](https://www.banking.senate.gov/newsroom/minority/senators-warren-and-coons-direct-lutnick-rubio-and-miller-to-preserve-nvidia-records-following-reports-of-foreign-intelligence-operation-targeting-ceo-jensen-huang)
+- [Singapore MHA – investigations into Alice Huang and Megaspeed, 12 November](https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/)
+- [The Straits Times – MHA investigation outcome, 12 November](https://www.straitstimes.com/singapore/police-probe-into-alice-huang-found-insufficient-evidence-of-offences-relating-to-megaspeed-mha)
+- [Reuters – Megaspeed export-control review, 12 November](https://www.reuters.com/world/china/nvidia-customer-megaspeed-says-it-cooperated-with-us-inspections-takes-export-2026-11-12/)
