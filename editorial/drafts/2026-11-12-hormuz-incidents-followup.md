@@ -163,6 +163,24 @@ Greenpeace uppger att satellitövervakning identifierat mer än 500 möjliga uts
 
 Greenpeace skiljer mellan större utsläpp som kopplats till fartygsangrepp och andra utsläpp som observerats nära tidpunkten för angrepp men vars ursprung inte har kunnat fastställas. Satellitbilderna kan indikera ytfilm och spridning men fastställer inte ensamma utsläppsvolym, ansvarig aktör eller full ekologisk skada. Fältprovtagning är begränsad av säkerhetsläget.
 
+### Separat vetenskaplig sårbarhetsmodell – 19 procent av viken
+
+**PRIMÄRKÄLLA – vetenskaplig artikel:** Nylan Ramnauth, Alexis Culot, Thomas Dobbelaere, Essam Heggy och Emmanuel Hanert, “Oil Spill Vulnerability in the Arabian/Persian Gulf Threatens Regional Water Security and Global Energy Supply”, *Earth’s Future*, först publicerad **8 november 2026**, DOI 10.1029/2026EF008477.
+
+Studien kombinerar bakåtriktade oljespridningssimuleringar för **2016–2022** med sjötrafikdata. Författarna uppskattar att cirka **19 procent av Persiska vikens yta** ligger i en högriskzon där ett utsläpp kan nå viktig vatten- eller energiinfrastruktur på mindre än tre dagar. Två större riskzoner identifieras: en sydvästlig korridor mellan Saudiarabien, Qatar, Bahrain och Förenade Arabemiraten samt en nordöstlig zon längs UAE:s kust. Nordvästliga Shamal-vindar kan driva förorening mot sydöstra viken, särskilt UAE och Qatar.
+
+**Avgränsning:** detta är en regional sårbarhetsmodell baserad på historiska data 2016–2022, inte en rekonstruktion av 2026 års enskilda utsläpp och inte en bekräftelse av Greenpeace-kartans 500/540 detektioner. Data och kod har arkiverats öppet på Zenodo.
+
+**Oberoende korskontroll:** The Guardian och Arab News rapporterar om Greenpeace-kartan, men båda återger samma NGO-analys och är därför inte två oberoende mätningar. Ramnauth et al. är en separat modellstudie, inte en validering av varje satellitdetektion.
+
+Källor:
+- [Greenpeace – interactive map: Environmental threats around the Strait of Hormuz](https://maps.greenpeace.org/maps/gpde/hormuz-strait-2026/)
+- [Greenpeace Germany – Caroline Bezengi satellite analysis, 6 October 2026](https://www.greenpeace.de/ueber-uns/investigative-recherche/strasse-von-hormus-oeltanker-bedrohen-oekosystem)
+- [The Guardian – oil slicks seen from space, 12 November 2026](https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems)
+- [Arab News – 540 oil-slick detections, 13 November 2026](https://www.arabnews.com/node/2623400/middle-east)
+- [Ramnauth et al., Earth’s Future, 8 November 2026](https://doi.org/10.1029/2026EF008477)
+- [Open model data and code on Zenodo](https://doi.org/10.5281/zenodo.18979126)
+
 **Redaktionell konsekvens:** miljöspåret ska behandlas separat från fartygsincidenternas skadebedömning. Koppla inte varje satellitfläck till ett specifikt angrepp utan fartygs-, last-, tids- och kuststatsbelägg. Lägg till påverkan på mangrove, korallrev, fiske och avsaltning som undersökningsfrågor, inte som redan kvantifierade skador.
 
 **Nytt artikelunderlag:** ett eget avsnitt i Hormuz-granskningen om miljökonsekvenserna, med tydlig skillnad mellan satellitdetektion, verifierad utsläppskälla, uppskattad volym och dokumenterad ekologisk skada.
@@ -266,7 +284,7 @@ Reuters anger att Saudiarabien under den nuvarande Hormuzstörningen leder omkri
 
 ### Miljö- och räddningsuppföljning 12 november 2026 – GEM NO.2, Caroline Bezengi och IMO:s incidentstatistik
 
-**PRIMÄRKÄLLA – Sharjah Government Media Bureau, 12 november 2026:** Sharjah meddelade att stränderna återöppnas efter att föroreningen från ett tankfartygssläpp har begränsats och miljöbedömningar/övervakning genomförts. Separat meddelade Ras Al Khaimahs Public Services Department att sju stränder och kustplatser öppnats igen. Detta är myndighetsbeslut om allmänhetens tillträde, inte en fullständig vetenskaplig slutsats om återhämtning i hela ekosystemet.
+**PRIMÄRKÄLLA – Sharjah Government Media Bureau, 12 november 2026, återgiven av Sharjah24:** Sharjah meddelade att flera stränder återöppnats efter sanering och miljöbedömning. **OBEROENDE BEKRÄFTELSE – Reuters och The National, 12 november:** Ras Al Khaimah hade återöppnat sju namngivna stränder och Sharjah flera stränder. The National uppgav samtidigt att stränderna i Umm Al Quwain fortfarande var stängda. Separat stängdes Al Luluyah Beach i Khor Fakkan den 9 november efter en ny oljefläck; orsaken har inte offentliggjorts. Den östra kustincidenten får inte kopplas till GEM NO.2 utan belägg. Återöppning är ett beslut om tillträde, inte en fullständig vetenskaplig slutsats om långsiktig ekologisk återhämtning.
 
 **PRIMÄRKÄLLA – UAE Ministry of Energy and Infrastructure via WAM, 30 oktober:** läckaget från tankfartyget **GEM NO.2** uppgavs vara stoppat vid källan och föroreningen koncentrerad utanför Umm Al Quwain, med utbredning mot Ras Al Khaimah, Ajman och Sharjah. Myndigheterna beskrev fortsatt mekanisk uppsamling, övervakning och miljöåtgärder. Det gör återöppningen den 12 november till en uppföljning av en tidigare incident, inte ett nytt oljeutsläpp.
 
@@ -365,40 +383,3 @@ Källor:
 - [Reuters – Four tankers struck by explosions in Strait of Hormuz, Iran says, 12 November](https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/)
 - [Reuters – Oman monitors grounded tanker, 12 November](https://www.reuters.com/world/middle-east/oman-monitors-handling-oil-tanker-run-aground-off-its-coast-2026-11-12/)
 - [Oman Observer / Oman News Agency – Emergency committee discusses tanker grounding, 12 November](https://www.omanobserver.om/article/1199589/oman/emergency-committee-discusses-oil-tanker-grounding)
-
-
-## Miljöskalan – satellitdetektioner och sårbarhetsmodell
-
-### Greenpeace/Kpler-kartan: 500+ möjliga oljefläckar
-
-**PARTSUPPGIFT / NGO-analys, publicerad 12–13 november 2026:** Greenpeace har publicerat en interaktiv satellitkarta som identifierar fler än **500 möjliga oljefläckar** i Persiska viken, Hormuzsundet och närliggande vatten sedan kriget började den 28 februari. The Guardian anger en sammanlagd karta över dagliga fotavtryck på cirka **20 000 km²**; Arab News anger **540 slick detections**.
-
-**Metodisk avgränsning:** detta är inte belägg för 500 eller 540 separat markverifierade oljeutsläpp. Det är satellitbaserade detektioner/indikatorer, där ursprung och ansvar inte är fastställda för varje fläck. De cirka 20 000 km² är en kumulativ summering av dagliga kartlagda fotavtryck, inte nödvändigtvis 20 000 km² unik vattenyta som samtidigt varit förorenad och inte ett mått på oljevolym. Den råa detektionsfilen har inte laddats ned och reproducerats i denna kontroll.
-
-### Ny vetenskaplig studie: 19 procent av viken i högriskzon
-
-**PRIMÄRKÄLLA – vetenskaplig artikel:** Nylan Ramnauth, Alexis Culot, Thomas Dobbelaere, Essam Heggy och Emmanuel Hanert, “Oil Spill Vulnerability in the Arabian/Persian Gulf Threatens Regional Water Security and Global Energy Supply”, *Earth’s Future*, först publicerad **8 november 2026**, DOI 10.1029/2026EF008477.
-
-Studien kombinerar bakåtriktade oljespridningssimuleringar för **2016–2022** med sjötrafikdata. Författarna uppskattar att cirka **19 procent av Persiska vikens yta** ligger i ett högriskområde där ett utsläpp kan nå viktig vatten- eller energiinfrastruktur på mindre än tre dagar. Två större riskzoner identifieras: en sydvästlig korridor mellan Saudiarabien, Qatar, Bahrain och Förenade Arabemiraten samt en nordöstlig zon längs UAE:s kust. Nordvästliga Shamal-vindar kan driva förorening mot sydöstra viken, särskilt UAE och Qatar.
-
-**Viktig avgränsning:** modellen är en regional sårbarhetsanalys byggd på data från 2016–2022. Den är inte en rekonstruktion av de enskilda utsläppen under 2026 års konflikt och bekräftar inte Greenpeace-kartans 500/540 detektioner. Studien gör däremot vattenavsaltning och energiexport till en tydlig del av riskbilden. Data och kod har arkiverats öppet på Zenodo.
-
-**Oberoende korskontroll:** The Guardian och Arab News rapporterar om Greenpeace-kartan, men båda återger samma NGO-analys och utgör därför inte två oberoende mätningar. Ramnauth et al. är en separat vetenskaplig modellstudie, inte en validering av varje aktuell satellitdetektion.
-
-### Aktuell kuststatus – 12 november
-
-- **Ras Al Khaimah:** sju namngivna offentliga/resortstränder öppnades den 11–12 november; fler skulle öppnas efter kontroll.
-- **Sharjah:** flera stränder återöppnades den 12 november efter miljöbedömningar och sanering.
-- **Umm Al Quwain:** stränderna var fortfarande stängda enligt The National den 12 november.
-- **Khor Fakkan:** Al Luluyah Beach stängdes den 9 november efter en separat oljefläck; orsak okänd.
-- Reuters rapporterade den 12 november att inga avsaltningsanläggningar hade rapporterat driftstopp på grund av det aktuella utsläppet.
-
-Källor:
-- [Greenpeace – interactive satellite map of oil slicks in the Gulf](https://www.greenpeace.org/international/story/???)
-- [The Guardian – Oil slicks seen from space, 12 November 2026](https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems)
-- [Arab News – Greenpeace reports 540 oil slicks, 13 November 2026](https://www.arabnews.com/node/2623400/middle-east)
-- [Ramnauth et al., Earth's Future, 8 November 2026](https://doi.org/10.1029/2026EF008477)
-- [Open model data and code on Zenodo](https://doi.org/10.5281/zenodo.18979126)
-- [Reuters – UAE's Ras Al Khaimah and Sharjah reopen several beaches, 12 November](https://www.reuters.com/world/middle-east/uaes-ras-al-khaimah-sharjah-reopen-several-beaches-after-tanker-oil-spill-2026-11-12/)
-- [The National – Sharjah reopens beaches, Umm Al Quwain remains closed, 12 November](https://www.thenationalnews.com/news/uae/2026/11/12/sharjah-reopens-beaches-to-public-after-oil-spill-clean-up/)
-- [Reuters – Al Luluyah Beach closure in Khor Fakkan, 9 November](https://www.reuters.com/world/middle-east/uae-city-khor-fakkan-shuts-beach-after-detecting-oil-spill-2026-11-09/)
