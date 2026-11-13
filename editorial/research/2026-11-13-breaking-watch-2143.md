@@ -100,3 +100,7 @@ Källa: https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-d
 - PR #65 är fortsatt DRAFT; inget nytt godkännande eller merge.
 - PR #47, #53 och #32 innehåller redan de aktuella deltan som återkontrollerats.
 - Ingen artikel mergades eller publicerades LIVE i denna cykel.
+
+
+### Ytterligare deltauppdatering – Jones Act, 13 november 2026, 21:08 EET
+Reuters rapporterade 19:08 UTC att Vita huset bekräftat en ny 90-dagars förlängning av Jones Act-waivern. Den tidigare case-by-case-prövningen av enskilda utländskflaggade resor består. Vita huset uppger att undantaget sedan mars möjliggjort ytterligare 90 miljoner fat petroleum mellan amerikanska hamnar; siffrorna är myndighetsuppgifter återgivna av Reuters och inte oberoende reviderade. Händelsen korskopplas till O/P/R som amerikansk inrikeslogistik, inte som bevis för återöppnad Hormuztrafik. Undertecknat instrument/CBP-bulletin och exakt ikraftträdande har inte hämtats. PR #53 uppdaterad.
