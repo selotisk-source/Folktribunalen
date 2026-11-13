@@ -19,7 +19,7 @@
 
 **Viktiga avgränsningar:** DSA:n bekräftar pilot med GP-praktiker men inte antalet fem. Den publicerade signatursidan har tomma partnerfält. DSA/DPIA beskriver Graphnet/System C, AGEMCSU och MLCSU i CIPHA-flödet; LAH privacy notice anger Palantir som plattformsprocessor och AGEMCSU för lokala flöden. Exakta dataflöden, DPA Annex II och tekniska åtkomsträttigheter behöver klarläggas. Dokumenten visar inte att GP-data har lagts i den nationella FDP-instansen och bevisar inte att Palantir haft åtkomst till identifierbara GP-journaler i den lokala piloten.
 
-**Källstatus:** DSA/DPIA/privacy notices = PRIMÄRKÄLLA; FT:s fem-praktikuppgift = OBEROENDE BEKRÄFTELSE; orsakssamband mellan lobbykontakten i februari och lokal pilot = HYPOTES.
+**Källstatus:** DSA/DPIA/privacy notices = PRIMÄRKÄLLA; FT:s fem-praktikuppgift = OBEROENDE BEKRÄFTELSE; orsakssamband mellan lobbykontakten i februari och lokal pilot = HYPOTES. Separat nationell fråga: NDG:s uppdatering 28 juli säger att vissa externa leverantörsanställda kan få åtkomst till identifierbara uppgifter i NDIT för tekniska ändamål under NHS:s instruktion; detta är inte bevis om den lokala GP-piloten. Källa: https://www.gov.uk/government/news/national-data-guardian-statement-on-nhs-federated-data-platform-data-access-in-response-to-the-not-with-my-nhs-data-campaign.
 
 ### N – Retrospektiv ansiktsigenkänning
 
