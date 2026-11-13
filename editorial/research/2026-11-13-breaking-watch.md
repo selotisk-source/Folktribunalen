@@ -378,3 +378,8 @@ Ingen databasändring eller publicering har genomförts. GitHub-granskningsutkas
 
 **B/F – NVIDIA/Nebius:** Reuters uppgav den 11 mars 2026 att NVIDIA investerat 2 md USD i Nebius för cirka 8,3 procents ägarandel. Det är en ägarkoppling, inte belägg för att NVIDIA garanterar Nebius skulder eller capex.  
 **P/G – USA/Singapore:** Washington Post rapporterade den 12 november, med anonyma myndighetskällor, att Singapore upprepade gånger begärt amerikansk hjälp i Megaspeed-utredningen och fått begränsat stöd. MHA:s offentliga tidslinje säger att Singapore först blev medvetet om USA:s intresse genom en BIS-verifiering den 24 juni 2025. Begärandenas datum och innehåll är inte offentliga i den dokumentation som hittats; uppgiften hålls därför som sekundär rapportering, inte fastställd myndighetsuppgift.
+
+
+### Korrigering/fördjupning – MHA bekräftar begränsat amerikanskt bistånd
+
+MHA:s primärbesked 12 november säger att SPF och Attorney-General’s Chambers begärde amerikansk hjälp att få Supermicro att samarbeta vid möte 7 juli 2025. SPF upprepade begäran till DOJ och FBI flera gånger från september 2025 och Singapore uppger att man trots detta fått begränsad information eller hjälp. Den ursprungliga Singaporeutredningen startade självständigt i februari 2025; BIS:s frivilliga verifiering 24 juni 2025 var första gången Singapore blev medvetet om USA:s intresse. Detta skiljer den självständiga inhemska utredningen från senare begäranden om utländskt samarbete och gör Washington Posts rapport om begränsat stöd förenlig med MHA:s egen redogörelse.
