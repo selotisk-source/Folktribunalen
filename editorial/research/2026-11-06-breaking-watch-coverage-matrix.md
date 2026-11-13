@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Breaking Watch: täckningsmatris
 
 **Ursprunglig kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
-**Senaste delta-screening:** 12 november 2026, 20:08 Europe/Sofia
+**Senaste delta-screening:** 13 november 2026, 01:59 Europe/Sofia
 **Omfattning:** A–S, 19 huvudspår  
 **Metod:** riktad kontroll av nya händelser, myndighets- och bolagsdokument, primärmaterial samt oberoende rapportering. Statusen skiljer mellan ny händelse, ny dokumentuppgift och äldre kontrollpunkt.
 
@@ -1273,3 +1273,31 @@ A, C, D, G, H, J, L, M, N, Q har screenats. Inget nytt offentligt primärdokumen
 ### Köstatus
 
 PR #47, #10, #14 och #53 har kompletterats med nya primärhandlingar/uppdateringar. PR #61 är ett senare granskningsutkast om SOU 2026:58. Ingen prioriteringsordning har ändrats. Ingen PR har mergats och ingen artikel är LIVE.
+
+
+
+## Delta-screening 13 november 2026, 01:59 Europe/Sofia
+
+| Spår | Nytt i denna cykel | Källstatus och nästa kontroll |
+|---|---|---|
+| A. Palantir | Ingen ny primär kontraktstilldelning identifierad. NHS/137-trust-frågan ligger kvar i befintligt granskningsutkast. | Fortsätt mot NHS England, upphandlingsakter och kontraktsbilagor; skilj marknadsförd användning från dokumenterad drift. |
+| B. Europas AI-datacenter | Nebius rapporterade förskjutning av viss tredjepartskapacitet till H1 2027, samtidigt som capex-planen för 2027 höjs till 40–45 md USD. | SEC 6-K är primär för Q3; kapacitetsförskjutningen är bolagsuppgift återgiven av Reuters. Följ faktisk nätanslutning, byggstatus och levererad MW. |
+| C. Synkronicitet | Den teoretiska artikeln om strange attractors är redan införd i PR #38; inget nytt experiment eller reproducerbart kausalitetsbelägg identifierades. | Behåll skillnaden mellan subjektiv meningsfullhet, neurodynamisk modell och extern kausalitet. |
+| D. Sofia | Ingen ny primär arkeologisk rapport eller myndighetsorder identifierad. | Fortsätt NAIM, Sofia Museum, kulturministeriet och byggnadsarkeologiska rapporter. |
+| E. Strategiska råvaror | CRMA-listans 46 nya projekt har nu kartlagts per land och projekttyp; Finland har fem, Sverige ett, Bulgarien ett och Estland ett. | Kommissionens bilaga är primär. Följ varje projekt separat för tillstånd, finansiering, offtake och byggstart. |
+| F. NVIDIA/AI-finansiering | CoreWeaves Q3 10-Q ger mer detaljer om skuld, ej påbörjade leasingavtal, kundkoncentration och internkontroll. Nebius har publicerat Q3 6-K och 2027 års finansieringsplan. | CoreWeave och Nebius: primär SEC-information; managementmål är partsuppgifter. Ingen slutsats om omedelbar insolvens. |
+| G. Libanon | UNIFIL:s 9 november-briefing återgavs av Anadolu; UNIFIL publicerade separat ett uttalande om skott mot patrull nära Wadi Jilu den 10 november. | Wadi Jilu: primär UNIFIL-uppgift. 360 artilleribanor/six flyganfall: sekundär återgivning av FN-talesperson; sök efter fullständigt briefingtranskript. |
+| H. Kyrkor som överlevt imperierna | Ingen ny betydande restaureringsorder, ägarförändring eller arkeologisk rapport. | Fortsätt församlingsarkiv och kommunala byggnadsakter i de fem städerna. |
+| I. Fennoskandien | Ingen ny primär skogsbruks-, rennärings- eller hästkulturhandling över notiströskeln. | Fortsätt SOU 2026:58, SFS 2026:1504 och lokala markanvändningsbeslut. |
+| J. Storsjöodjuret | Ingen ny primär observation, hydrologisk rapport eller runologisk publikation. | Fortsätt historiska vittnesmål och Frösöstenens källkritiska genomgång. |
+| K. Cladonia/Storsjö | Kommunmötet 10 november och bolagets uppgifter om rekreation finns redan i PR #32. Ingen ny lagfart eller bindande markanvändningsklausul identifierad. | Håll bolagets muntliga uppgifter åtskilda från avtal, fastighetsregister och myndighetsbeslut. |
+| L. Skaga kapell | Ingen ny restaureringshandling eller byggnadsarkeologisk rapport. | Fortsätt RAÄ, länsstyrelse, pastorat och historiska fotografier. |
+| M. Athos | Ingen ny offentlig katalogisering eller dokumenterad donation. | Fortsätt bibliotekskataloger och proveniensspår; inga privata klosteruppgifter. |
+| N. Från skrift till Storebror | Ingen ny dom eller bindande EU-rättsakt identifierad i denna cykel. | Fortsätt AI Act, eIDAS, biometriska upphandlingar och dataskyddstillsyn. |
+| O. Hormuz | Iran hävdar att fyra tankers träffats 11–12 november; Reuters kunde inte verifiera. Separat UKMTO-rapporterad projektilträff på MT Dominica Prosperity 11 november. Oman följde upp ett grundstött fartyg vid Al Qibliyah den 12 november. | Håll de iranska påståendena, Dominica Prosperity och Oman-ärendet åtskilda. Caroline Bezengi-kopplingen är ännu en hypotes. |
+| P. USA:s kongress | Senatens Warren/Coons-brev 11 november begär registerbevarande och skriftlig bekräftelse senast 17 november. House Select Committee on China kallade Huang-avgången “firing”, medan SEC-filing anger resignation. | Senatsbrevet är en begäran, inte subpoena. Följ House-briefingens status 18 november och exportkontrollförslag i NDAA. |
+| Q. Gripen/europeisk säkerhet | Ingen ny Gripen-order, leverans eller operativ förmågeuppgift identifierad. | Fortsätt Saab, FMV, Försvarsmakten och exportmyndigheternas primärdokument. |
+| R. Strategisk energi | Nebius uppger att viss tredjepartskapacitet förskjuts till H1 2027. Blykallas Norrsundet-samråd har sista dag 13 november; inget slutligt samrådsunderlag identifierat ännu. | Kontrollera inkomna yttranden efter samrådsperioden; skilj projektförslag från tillstånd och investeringsbeslut. |
+| S. Urbergsskölden | Finland publicerade lagarna 1024/2026, 1025/2026 och 1026/2026, med ikraftträdande 15 november. GTK får nya uppgifter. | Följ genomförandeföreskrifter, GTK:s databas/program och de fem finska CRMA-projekten. |
+
+**Arbetsprincip i denna cykel:** nya notiser har prioriterats där primärdokument eller oberoende rapportering ändrat kunskapsläget. Övriga spår har fått en kort statuskontroll utan att äldre uppgifter återpublicerats.
