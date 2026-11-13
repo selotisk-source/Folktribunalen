@@ -1,7 +1,7 @@
 # Hormuz: fler fartygsincidenter – separata beviskedjor
 
 **Redaktionell status:** granskningsutkast för chefredaktörens godkännande  
-**Faktaläge:** 12 november 2026, 08:52 EET  
+**Faktaläge:** 13 november 2026, 01:59 EET
 **Huvudspår:** O – Hormuz, sjöfart och energiflöden  
 **Publiceringsstatus:** inte publicerat
 
@@ -272,7 +272,7 @@ Reuters anger att Saudiarabien under den nuvarande Hormuzstörningen leder omkri
 
 **OBEROENDE BEKRÄFTELSE:** Reuters rapporterade om incidenten och myndigheternas miljöåtgärder; den fullständiga miljöprovtagningen och långsiktiga ekologiska effekten har inte publicerats i det material som kontrollerats.
 
-**Separat Oman-spår – PRIMÄRKÄLLA:** Omans transportministerium identifierade den sedan augusti strandade tankern vid Al Qibliyah som **CAROLINE BEZENGI**. Myndigheten beskrev en slagsida på cirka 17 grader, grunt och stenigt vatten, svåra väderförhållanden och att överföring av lasten först kan ske när arbetsmiljö, stabilitet, utrustning och sjömätningar medger det. En rapport den 12 november om myndigheternas fortsatta arbete ska därför inte beskrivas som en ny grundstötning utan som fortsatt hantering av augustiincidenten.
+**Separat Oman-spår – PRIMÄRKÄLLA:** Omans transportministerium identifierade den sedan augusti strandade tankern vid Al Qibliyah som **CAROLINE BEZENGI**. Myndigheten beskrev en slagsida på cirka 17 grader, grunt och stenigt vatten, svåra väderförhållanden och att överföring av lasten först kan ske när arbetsmiljö, stabilitet, utrustning och sjömätningar medger det. Den 12 november rapporterade Oman News Agency att beredskapskommittén behandlat fortsatt hantering av ett grundstött fartyg vid Al Qibliyah. MTCIT identifierade i augusti Caroline Bezengi i området kring Hallaniyatöarna. Platsangivelsen talar för att det kan vara samma ärende, men 12-novemberrapporten namnger inte fartyget och hänvisar inte uttryckligen till augustiincidenten. Kopplingen ska därför klassificeras som HYPOTES tills Oman bekräftar den.
 
 **Källkontroll – IMO:** Direktläsning av IMO:s generalsekreteraruttalande den 11 november visar uttryckligen **28 February 2026**. IMO-rådets meddelande den 6 november anger samma startdatum, över 130 verifierade attacker och 25 dödade sjömän. Det finns alltså ingen datumavvikelse mellan dessa två primärkällor. IMO:s 130 verifierade attacker och JMIC:s högre regionala incidenttal är olika urval och ska inte adderas.
 
@@ -320,3 +320,48 @@ Reuters separately reported on 12 November that Iran's military claimed four oil
 - Reuters, Iranian military claim, 12 November: https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/
 
 **DRAFT – ej godkänt, ej mergat, ej publicerat.**
+
+
+
+## Uppdatering 13 november 2026 – iranska tankerpåståenden, separat UKMTO-incident och Oman
+
+### Fyra tankers: iranska uppgifter, ännu inte oberoende bekräftade
+
+**Händelsedatum enligt iranska uppgifter:** 11–12 november 2026.  
+**Publicering:** Reuters, 12 november 2026.
+
+**PARTSUPPGIFT / OBEKRÄFTAD:** Iranska Revolutionsgardets flotta uppgav att två supertankers skadades av explosioner på onsdagen den 11 november. Irans armé uppgav senare att ytterligare två tankers träffat minor på torsdagen den 12 november och fattat eld. Reuters kunde inte självständigt verifiera uppgifterna. Inga fartygsnamn, IMO-nummer, flaggstater, ägare eller operatörer har offentliggjorts i den rapporteringen.
+
+### MT Dominica Prosperity – hålls separat från de fyra iranska påståendena
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade den 12 november att den Liberiaflaggade **MT Dominica Prosperity** träffades av en oidentifierad projektil den 11 november cirka 14 nautiska mil nordväst om Ras Al Khaimah när fartyget lämnade Hormuzsundet. En brand uppstod i maskinrummet. Indiens sjöfartsminister uppgav att samtliga 22 besättningsmedlemmar evakuerades, däribland 19 indiska medborgare. Reuters återgav MARISKS uppgift om registrerad ägare Haut Brion 56 Ltd och operatör Sinokor Maritime.
+
+**OBEKRÄFTAD koppling:** Det finns ännu inget belägg för att Dominica Prosperity är ett av de fyra fartyg som Iran hänvisar till. Incidenterna ska inte slås ihop eller dubbelräknas utan fartygsidentitet och tidsmässig matchning.
+
+### Oman – ny uppföljning 12 november, men tankeridentiteten är fortsatt öppen
+
+**PRIMÄRKÄLLA / ONA via Oman Observer, 12 november:** Omans nationella beredskapskommitté sammanträdde om fortsatt hantering av ett tankfartyg som grundstött utanför Al Qibliyah Island och om arbetet med lasten. Mötet behandlade även incidenter i territorialvattnen utanför Musandam och övervakning av eventuell miljöförorening. Rapporten namnger inte fartyget och anger inte när eller hur det grundstötte.
+
+Omans transportministerium identifierade i augusti **Caroline Bezengi** som ett fartyg med läckage nära Hallaniyatöarna, där Al Qibliyah ingår. Den geografiska överlappningen gör det möjligt att det rör sig om samma ärende, men 12-novemberrapporten hänvisar inte uttryckligen till Caroline Bezengi. Kopplingen ska därför klassificeras som **HYPOTES**, inte som fastställd fartygsidentitet.
+
+### Miljöuppföljning i Förenade Arabemiraten
+
+**PRIMÄRKÄLLA:** Sharjahs och Ras Al Khaimahs myndigheter meddelade den 12 november att berörda stränder åter öppnades efter åtgärder mot utsläppet från **GEM NO.2**, som skadades i en separat incident den 30 oktober. Detta är ett beslut om återöppning och en myndighetsuppgift om genomförda åtgärder, inte en fullständig oberoende bedömning av långsiktig ekologisk återhämtning.
+
+### Incidentnivå och öppna frågor
+
+Reuters hänvisade den 12 november till Washington Institute for Near East Policy för uppgiften att minst tio fartyg träffats under de första tio dagarna i november och att oktober hade 37 attacker. Detta är en sekundärt återgiven incidentdatabas, inte en självständigt omräknad FOLKTRIBUNALEN-statistik.
+
+Öppet:
+- identitet och IMO-nummer för de fyra fartyg som Iran säger träffats;
+- om något av dem sammanfaller med en UKMTO-rapporterad incident;
+- projektiltyp, avsändare och skadeomfattning för Dominica Prosperity;
+- om 12-novembermötet i Oman avser Caroline Bezengi eller ett annat fartyg;
+- offentlig miljöprovtagning och dokumenterade utsläppsvolymer.
+
+Ingen UKMTO-rapport 205 har identifierats i denna kontroll fram till 13 november 2026 kl. 01:59 EET.
+
+Källor:
+- [Reuters – Four tankers struck by explosions in Strait of Hormuz, Iran says, 12 November](https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/)
+- [Reuters – Oman monitors grounded tanker, 12 November](https://www.reuters.com/world/middle-east/oman-monitors-handling-oil-tanker-run-aground-off-its-coast-2026-11-12/)
+- [Oman Observer / Oman News Agency – Emergency committee discusses tanker grounding, 12 November](https://www.omanobserver.om/article/1199589/oman/emergency-committee-discusses-oil-tanker-grounding)
