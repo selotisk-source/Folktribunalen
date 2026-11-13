@@ -540,3 +540,8 @@ Detta är en kompletterande kontroll efter den tidigare journalposten. Huvudordn
 - **OBEROENDE BEKRÄFTELSE:** AP och Reuters beskriver golvdebatten som BAAJA, ett brett tillstånds- och energiinfrastrukturpaket med bestämmelser om att stora datacenter ska bära större del av nätkostnaderna. Denna koppling är väl rapporterad, men den formella roll-call-raden ensam bevisar inte innehållet i den slutliga ersättningstexten.
 - **Status:** procedurmässigt framflyttat för fortsatt behandling; inte slutligt antaget av senaten, inte godkänt av representanthuset och inte lag. Nästa primärkontroll är ersättningsändringen, Congressional Record och eventuell slutlig passage.
 - Källor: [Senatens roll call 257](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm), [roll call 258](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm), [AP, 10 november](https://apnews.com/article/c6290598e26a7b01622e5c4eec571516), [Reuters, 9 november](https://www.reuters.com/legal/litigation/democratic-us-senators-see-hope-permitting-bill-ahead-key-senate-vote-2026-11-09/).
+
+
+## 13 november 2026, 17:05 EET
+
+Ny delrapport: [Breaking Watch 17:05 EET](./2026-11-13-breaking-watch-1705.md). De viktigaste nya kontrollpunkterna är IEA:s novemberrapport och Irak–Syrien-rutten under O, EuroHPC:s ändrade lot-deadlines under B, SR:s nya Cladonia-uppföljning under K samt nya House-brev under P. Uppdaterade befintliga utkast: PR #10, #32, #53 och #64. Inga PR har mergats eller publicerats.
