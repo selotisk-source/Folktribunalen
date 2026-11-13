@@ -499,3 +499,22 @@ Senator Jack Reed, högste demokrat i Senate Armed Services Committee, vill att 
 Källa: [Reuters, US Democratic senator wants assessment of whether Nvidia is 'too big to fail', 12 November 2026](https://www.reuters.com/business/finance/us-democratic-senator-wants-assessment-whether-nvidia-is-too-big-fail-2026-11-12/).
 
 **Redaktionell konsekvens:** Lägg till en separat systemriskfråga i finansieringsgranskningen: kartlägg verifierade kreditgivare, garantier, säkerheter, leasingägare, kundförskott och pensionsfonds-/bankexponering. Summera inte hypotetiska motpartsförluster som om de vore en gemensam exponering.
+
+### 13 november 2026 – House-kommittéerna skärper kraven på NVIDIA och sätter datum
+
+**Händelsedatum:** 12 november 2026. **Publiceringsdatum:** House Foreign Affairs Committee 12 november; Reuters 13 november 00:15 UTC.
+
+**PRIMÄRKÄLLA:** House Foreign Affairs Committee publicerade den 12 november ett pressmeddelande om en *second request* från ordförandena Brian Mast, John Moolenaar och Rick Crawford, med tre undertecknade brev:
+- [Brev till Jensen Huang, 12 november](https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.12.26-chairmen-letter-to-mr-jensen-huang.pdf): begär sluten, transkriberad intervju den 1 december 2026. Skriftlig acceptans skulle lämnas senast kl. 20.00 EST den 13 november; annars anger brevet att subpoena kommer att utfärdas.
+- [Brev till NVIDIA:s chefsjurist Tim Teter, 12 november](https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.12.26-chairmen-letter-to-nvidia-gc.pdf): motsvarande intervju den 2 december; samma svarstid och subpoena-varning.
+- [Inbjudan till handelsdepartementets undersekreterare Jeffrey Kessler](https://foreignaffairs.house.gov/sites/evo-subsites/republicans-foreignaffairs.house.gov/files/evo-media-document/11.12.26-invitation-to-u-s-kessler.pdf): utfrågning den 3 december kl. 10.00 EST om chip-smuggling, användning av avancerade AI-chip av motståndares militärer, påstådd privat påverkan på exportkontroll och Megaspeed.
+
+House-kommitténs pressmeddelande beskriver detta uttryckligen som en andra begäran. Den första begäran den 5 november avsåg en gemensam sluten briefing den 18 november. Den nya korrespondensen flyttar processen till daterade, transkriberade intervjuer och innehåller uttrycklig subpoena-varning. Det är en faktisk eskalering av tillsynen, inte ett bevis på att någon subpoena redan utfärdats eller att mottagarna accepterat.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 13 november att Senate Banking-ordföranden Tim Scott också skickat brev till Huang och handelsminister Howard Lutnick och begärt vittnesmål. Scotts undertecknade brev och X-inlägg har inte hämtats direkt; inget datum för senatsvittnesmål är fastställt i det materialet. [Reuters, 13 november](https://www.reuters.com/business/us-senate-banking-committee-chair-calls-jensen-huang-lutnick-testify-2026-11-13/).
+
+**PRIMÄRKÄLLA – separat senatsspår:** Senate Banking-minoritetens pressmeddelande 11 november bekräftar att Elizabeth Warren och Chris Coons begärt att Lutnick, Marco Rubio och Stephen Miller bevarar dokument och kommunikation om NVIDIA-exporter och den rapporterade underrättelseoperationen. De begärde skriftlig bekräftelse senast 17 november. Det är en dokumentbevarandebegäran, inte ett konstaterande av brott. [Senate Banking, 11 november](https://www.banking.senate.gov/newsroom/minority/senators-warren-and-coons-direct-lutnick-rubio-and-miller-to-preserve-nvidia-records-following-reports-of-foreign-intelligence-operation-targeting-ceo-jensen-huang).
+
+**Källstatus och reservation:** Uppgifterna om Alice Huang/Megaspeed och eventuell kinesisk underrättelseverksamhet är föremål för politiska och mediala påståenden. De är inte rättsligt fastställda. Reuters återgav 12 november justitieminister Todd Blanche: DOJ hade ännu inte dragit någon slutsats om huruvida Alice Huang är spion; Kina har förnekat anklagelsen. Denna artikel får inte formulera anklagelsen som ett fastslaget faktum.
+
+**Nästa kontrollpunkt:** svar från Huang och Teter senast 20.00 EST den 13 november (01.00 UTC den 14 november; 03.00 EET den 14 november); eventuella subpoenas; formella senatsdatum; Kesslers hearing den 3 december; eventuella offentliga BIS/DOJ-handlingar.
