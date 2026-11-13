@@ -56,3 +56,8 @@ Inga PR har mergats och inga artiklar har publicerats i denna cykel. GitHub-utka
 Finlex 1027/2026 och 1028/2026 publicerades den 11 november efter antagande den 6 november; båda träder i kraft den 15 november. De för in CRMA artikel 27:s preliminära ekonomiska bedömningsstudie i miljöskyddslagen och marktäktslagen. Berörda verksamhetsutövare ska lämna studien eller visa att kritiska råmaterial inte finns att återvinna; lera/matjord-only är undantaget från marktäktslagens tillämpning. Den 24 november är tidsfristen i EU-förordningen 2024/1252 artikel 27.3, inte en frist skapad av den finska lagen. Finlex 1024/2026 fördelar nationella tillsyns- och rapporteringsuppgifter; 1026/2026 ger GTK ansvar för prospekteringsprogrammet och databasen över utvinningsavfallsområden.
 
 **Källor:** https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1027 ; https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1028 ; https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1024 ; https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1026 ; https://eur-lex.europa.eu/eli/reg/2024/1252/oj/eng .
+
+
+### Skellefteå datacenter – statusförtydligande 17:25 EET
+
+Skellefteå kommuns FAQ bekräftar att EdgeConnex förvärvat delar av Bergsbyns industriområde och planerar AI-datacenter på ytor i Northvolts tidigare expansionsområde. Kommunen beskriver projektet som tidigt och flerårigt. Kommunens bedömning att energibehovet redan fanns med i batterifabrikens ursprungliga planering är en parts-/myndighetsbedömning; den ersätter inte ett publicerat nätanslutningsbesked eller en oberoende effekt- och vattenanalys. PR #64 har kompletterats med denna skillnad.
