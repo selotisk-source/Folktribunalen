@@ -75,3 +75,14 @@ House Foreign Affairs Committee:s andra begäran 12 november till Jensen Huang o
 - PR #47: deadline för Huang/Teter tydliggjord; deadline har ännu inte passerat.
 
 **Ingen artikel har mergats eller publicerats i denna kontroll.**
+
+
+### Q – Gripen och nordisk försvarsintegration
+
+**15 oktober 2026:** Saab meddelade att FMV beställt utveckling av en ny generation flygkontrolldator till Gripen för 1,3 miljarder SEK, med leveranser planerade under 2030. Saab säger att den nuvarande datorn ersätts för att säkra långsiktig tillgänglighet, prestanda och försörjningstrygghet. Det är en utvecklingsorder för ett centralt flygkontrollsystem, inte en order på nya flygplan. Saab är primärkälla; EDR Magazine och andra försvarsmedier återger bolagets besked, inte en separat teknisk granskning.
+
+**12 november 2026:** Norge, Danmark, Finland, Sverige och Island inledde arbetet med en ny nordisk försvarsavtalsram efter NORDEFCO-mötet i Oslo. Den uttalade avsikten är att göra styrkornas samverkan över gränserna smidigare i fred, kris och krig och att minska juridiska/politiska hinder. Detta är ett arbete med en framtida ram, inte ett undertecknat avtal eller ett nytt operativt beslut. Den norska regeringen anger cirka 250 moderna stridsflygplan i Norden; detta är en regeringsuppgift, inte oberoende verifierad inventering.
+
+**Artikelvinkel:** Gripens långsiktiga försörjningstrygghet – från flygkontrolldator och kvalificering till nordisk försvarsintegration. Publicera inte tekniska eller operativa uppgifter som inte är offentliga.
+
+Källor: [Saab, 15 oktober 2026](https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-for-new-gripen-computer) · [Norwegian Ministry of Defence, 12 November 2026](https://www.regjeringen.no/no/aktuelt/begynner-arbeidet-med-nordisk-forsvarsavtale/id3192484/) · [EDR Magazine, 15 October 2026](https://www.edrmagazine.eu/saab-receives-order-for-new-gripen-computer).
