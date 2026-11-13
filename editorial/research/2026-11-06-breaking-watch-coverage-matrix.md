@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Breaking Watch: täckningsmatris
 
 **Ursprunglig kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
-**Senaste delta-screening:** 13 november 2026, 07:42 Europe/Sofia
+**Senaste delta-screening:** 13 november 2026, 12:17 Europe/Sofia
 **Omfattning:** A–S, 19 huvudspår  
 **Metod:** riktad kontroll av nya händelser, myndighets- och bolagsdokument, primärmaterial samt oberoende rapportering. Statusen skiljer mellan ny händelse, ny dokumentuppgift och äldre kontrollpunkt.
 
@@ -1355,3 +1355,32 @@ PR #47, #10, #14 och #53 har kompletterats med nya primärhandlingar/uppdatering
 | S – Urbergsskölden | Posivas driftlicens 22 okt kvarstår; ingen ny startbekräftelse eller STUK-inspektion identifierad i denna kontroll. | Posiva/Finlands regering primärkällor sedan 22 okt. | STUK:s förhandsinspektion, driftstart och CRMA-projektbeslut. |
 
 **Korrigerande avgränsningar:** (1) Fem GP-praktiker är FT:s uppgift; den publicerade DSA:n bekräftar pilot men inte antalet. (2) NO3-kön är all ny förbrukning, inte enbart datacenter. (3) Huang/Teter-deadlinen har inte passerat vid kontrolltidpunkten. (4) Nscale:s TCV, reserverad kapacitet och investeringsåtaganden är inte likvärdiga med kontant finansiering eller driftsatt effekt.
+
+
+## Addendum – 13 november 2026, 12:17 EET
+
+| Spår | Nytt sedan 07:42 | Källstatus | Nästa kontroll |
+|---|---|---|---|
+| A | Palantir Q3-10-Q och 5,6 md USD minsta molnköpsförpliktelse är redan i PR #7; ingen ny delta. | PRIMÄRKÄLLA sedan tidigare. | Leverantörsidentitet, trust-för-trust-användning, exitvillkor. |
+| B | BNEF 11 nov: 181 GW annonserad global gaspipeline vid datacenter; 165 GW USA; 84 GW saknar tidslinje. | BNEF-rapport PRIMÄRKÄLLA för egen inventering; Guardian OBEROENDE BEKRÄFTELSE. | Europeiska platsvisa tillstånd, gasavtal, ägande, drift och Europeisk totalsiffra. |
+| C | Ingen ny reproducerad empirisk effekt. | Tidigare teoretiska artiklar, ej empiriskt genombrott. | Preregistrering och replikation. |
+| D | Ingen ny arkeologisk primärhandling. | Kontrollnotering. | NAIM, Sofia History Museum, Samuils proveniens. |
+| E | Bergsstaten medgav 12 nov överlåtelse av fyra undersökningstillstånd till Geomorphic AI Sweden AB. | PRIMÄRKÄLLA; ingen oberoende nyhetsbekräftelse. | Genomförd överlåtelse, arbetsplan, säkerhet, natur-/Natura 2000-tillstånd, Sametingets yttranden och överklagande. |
+| F | Reuters dokumentgranskning: >23 md yuan/3,2 md USD kinesiska AI-projekt med H100/H200/H800; Malaysia/Speedmatrix-utredning. | OBEROENDE BEKRÄFTELSE; underliggande kinesiska dokument ej individuellt hämtade. | Faktiska leveranser, slutanvändare, export-/transiteringstillstånd, Q3 17 nov. |
+| G | Ingen ny primär domstolsakt eller kyrklig kulturarvshändelse. | Kontrollnotering. | ISF/åklagare och domstolsdiarium i Samir Daou-fallet; motiv ej fastställt. |
+| H | Ingen ny restaurerings-/ägarhandling i de fem städerna. | Kontrollnotering. | Kyrko- och kommunarkiv stad för stad. |
+| I | Ingen ny skogs-, mark- eller hästkulturhandling efter SOU 2026:58. | Kontrollnotering. | Remissvar, Sametinget, historiska kartor och avverkningsdata. |
+| J | Ingen ny daterad observation, hydrologisk rapport eller primär Thiel-utsaga. | Kontrollnotering. | Folkloristiska originalkällor och runologisk dokumentation. |
+| K | Ingen ny lagfart eller köpehandling; 33 174 underskrifter är tidigare kampanjräknare, ej registerbevis. | Kampanjuppgift tidigare registrerad. | Lantmäteriet, Bolagsverket, servitut och formella myndighetsdiarier. |
+| L | Ingen ny RAÄ-/länsstyrelse-/kyrkoarkivakt. | Kontrollnotering. | Byggnadsarkeologi, inventarier, restaureringsbeslut. |
+| M | Ingen ny offentlig katalogpost eller verifierad donation. | Kontrollnotering. | Athos offentliga kataloger och proveniens. |
+| N | Home Office-enkäten 12 nov redan i PR #57; ingen ny bindande lag eller dom. | PRIMÄRKÄLLA sedan tidigare. | HMICFRS-originalrapport, rättslig grund och upphandlingsakter. |
+| O | UKMTO 201–204 och separata iranska partsuppgifter redan i PR #53; ingen ny oberoende incident i denna delta. | PRIMÄRKÄLLA/OBEROENDE sedan tidigare; iranska uppgifter PARTSUPPGIFT. | Nya UKMTO/JMIC-poster, fartygsidentitet, skada, försäkring och last. |
+| P | House-breven 12 nov med svarstid 20:00 EST 13 nov; Kessler inbjuden 3 dec. | PRIMÄRKÄLLA i PR #47; inget subpoena-besked. | 14 nov 03:00 EET: svar/acceptans/subpoena. |
+| Q | Gripen-patrull över Polen 3 nov: fyra timmar, tankflygstöd AA-332 MMF19. | Försvarsmakten/Polens försvarsministerium PRIMÄRKÄLLOR; generalstabens X-post primär men 403 vid direkt hämtning; Defence24/Aviation24 OBEROENDE återgivning. | Antal flygplan ej offentliggjort; inget belägg för luftstrid eller ny order. |
+| R | BNEF-rapport korskopplas till energi; Norrsundets samråd sista dag 13 nov, inga sammanställda yttranden hittade. | BNEF PRIMÄRKÄLLA för modell; Länsstyrelsens samråd tidigare primärkälla. | Diarieförda yttranden, förslag senast 31 dec, finansiering/nät. |
+| S | Geomorphic-beslutet korskopplas till Urbergsskölden; finska CRMA-lagar träder i kraft 15 nov; ingen ny Posiva/STUK-status. | Bergsstaten PRIMÄRKÄLLA; Finlex tidigare PRIMÄRKÄLLA. | Överlåtelse, GTK-data, STUK-inspektion och civil underjordisk lagring. |
+
+**Korrigeringar/avgränsningar:** BNEF:s 181 GW är global annonserad pipeline, inte europeisk kapacitet eller driftsatt effekt. 345 Mt CO2e är ett villkorat USA-scenario. Reuters 3,2 md USD är projekt-/infrastrukturvärde, inte Nvidia-chipintäkt. Geomorphic-beslutet är medgivande till överlåtelse och ger inte i sig rätt att påbörja fältarbete. Gripen-uppgiften avser patrull-/skyddsuppgift, inte stridskontakt.
+
+**Tidskritiska punkter:** Norrsundet 13 nov; House-svar 14 nov 03:00 EET; finska CRMA-lagar 15 nov; Nscale/NVIDIA-del omkring 16 nov; NVIDIA Q3 17 nov; Tapuli K-samråd 20 nov; Kessler-inbjudan 3 dec; Gränsberget/Lindesby överklagande 17 dec.
