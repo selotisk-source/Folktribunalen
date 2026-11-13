@@ -1411,3 +1411,14 @@ PR #47, #10, #14 och #53 har kompletterats med nya primärhandlingar/uppdatering
 | S | Onkalos driftlicens och CRMA-projektlistan finns redan i PR #34. Ingen ny STUK-inspektion eller driftsättningsbekräftelse identifierades. | Finska regeringens licensbeslut är primärkälla; STUK-inspektion återstår före drift. | STUK:s förhandsinspektion, finska CRMA-lagars ikraftträdande 15 november och GTK-data. |
 
 **Samlad bedömning:** Endast G gav ett nytt substantiellt deltat jämfört med de redan uppdaterade artikel- och research-PR:erna. A–F, H–S har screenats och deras senaste betydande uppgifter finns i befintliga utkast eller tidigare journalposter; de har inte duplicerats.
+
+
+## Deltauppdatering – 13 november 2026, 20:58 EET
+
+Denna cykel har åter screenat samtliga A–S. Ett nytt råvaru-/institutionellt spår passerar notiströskeln: **E/P/S – Kazakstans tungstenprojekt**. Reuters rapporterar 10 november att DFC inte längre aktivt driver en transaktion och att EXIM saknar aktuella planer på finansiering; DFC:s Letter of Interest var icke-bindande och projektet hade inte passerat steg ett i DFC:s granskning. Cove Kaz säger att ingen statlig finansieringsansökan lämnats in och att tekniska studier fortsätter till 2027. SEC-inlämningar 2 och 12 november visar samtidigt att Skyline/Cove avslutat sin planerade företagskombination, att Cove avser direktnotering H1 2027, att Skyline enligt bolagets uppgift ska behålla cirka 26 procent och att Skyline/CRMN tecknat ett separat icke-bindande term sheet med SuperCritical Materials. Se [PR #65](https://github.com/selotisk-source/Folktribunalen/pull/65).
+
+**P/F – NVIDIA:s kongressgranskning:** Senate Banking begär framträdanden 3 december (Huang) och 10 december (Lutnick), enligt Reuters och Bloomberg Law. House-processen är separat: slutna intervjuer 1–2 december och en House-utfrågning 3 december. PR #47 har kompletterats.
+
+**Övriga spår:** A, B, C, D, G, H, I, J, K, L, M, N, O, Q, R och S har screenats. Nscale/SEC S-1/A, Synkronicitetsreviewn, Cladonia/P4-mötet, Hormuz/UKMTO och tidigare CRMA-/Onkalo-underlag är redan införda i befintliga utkast eller tidigare journalposter; de har inte återpublicerats som nya. Ingen ny direkt lagfart för Cladonia, ingen ny Sofia-arkeologisk primärhandling och ingen ny bekräftad Hormuzincident identifierades i denna cykel.
+
+**Arbetsflöde:** PR #65 skapad som DRAFT. PR #47 uppdaterad. Ingen merge, ingen LIVE-publicering. CMS-databasens senast dokumenterade hinder är tom IP-allowlist för Render Postgres; ingen databasoperation utfördes.
