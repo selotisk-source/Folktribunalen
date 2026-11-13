@@ -1,7 +1,7 @@
 # AI-infrastrukturens kreditstöd: NVIDIA, Google, Nscale och Anthropic
 
 **Artikeltyp:** Finansgranskning · AI-infrastruktur · garantier · projektfinansiering  
-**Faktaläge:** 11 november 2026, 13:53 EET  
+**Faktaläge:** 13 november 2026, 01:59 EET
 **Berörda spår:** F – AI-finansiering och säkerheter · B – AI-datacenter · R – strategisk energi
 
 *En av AI-boomens största finansiella risker syns inte som ett vanligt lån. NVIDIA har i sin kvartalsrapport redovisat garantier på upp till 105 miljarder dollar kopplade till OpenAI:s planerade datacenter i Ohio. Beloppet är inte en redan utbetald investering eller en bokförd skuld på 105 miljarder. Det är ett villkorat åtagande som ska skydda en del av SB Energys fastighets-, el- och byggfinansiering om OpenAI inte fullgör sina leasingåtaganden. Men strukturen gör NVIDIA till mer än en chipleverantör: bolaget investerar i projektbolaget, garanterar en del av dess risk och får samtidigt exklusiv rätt att leverera AI-infrastruktur.*
@@ -816,3 +816,54 @@ Detta är **inte i sig belägg för betalningsinställelse, insolvens eller att 
 - CoreWeave Form 10-Q, kvartalet avslutat 30 september 2026: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm
 
 **Redaktionell avgränsning:** Detta är ett kompletterande jämförelsefall inom AI-infrastrukturens kreditkedja. Det får inte beskrivas som en NVIDIA-garanti, NVIDIA-skuld eller som bevis för att CoreWeave har fallerat.
+
+
+
+## Uppdatering 13 november 2026 – Nebius Q3 och precisering av CoreWeave
+
+### Nebius Group: tredje kvartalet visar kapacitets- och finansieringsfrågan
+
+**Händelseperiod:** 1 juli–30 september 2026.  
+**Publicering:** 12 november 2026.  
+**PRIMÄRKÄLLA:** Nebius 6-K, bilaga 99.1, med oreviderade kvartalssiffror.
+
+- Omsättning: **980,8 miljoner USD**, upp 571 procent jämfört med motsvarande kvartal året före.
+- Justerad EBITDA: **465,8 miljoner USD** (icke-GAAP).
+- Kassaflöde från den löpande verksamheten: **minus 273 miljoner USD**.
+- Investeringar i materiella anläggningstillgångar: cirka **7,3 miljarder USD under kvartalet** och cirka **15,4 miljarder USD under årets första nio månader**.
+- Per 30 september: kassa **7,426 miljarder USD**, räntebärande skuld cirka **14,191 miljarder USD** (kortfristig 187,5 miljoner och långfristig 14,003 miljarder), redovisade operativa leasingskulder cirka **1,769 miljarder USD** samt uppskjutna intäkter cirka **9,409 miljarder USD**.
+
+**Viktig redovisningsskillnad:** justerad EBITDA är inte kassaflöde. Det positiva EBITDA-talet ska läsas tillsammans med negativt operativt kassaflöde och mycket hög investeringsnivå.
+
+**PARTSUPPGIFT, rapporterad av oberoende medier:** Nebius sänkte den övre delen av 2026 års omsättningsprognos till **3,0–3,2 miljarder USD** från tidigare 3,0–3,4 miljarder. Bolaget hänförde förändringen till att viss tredjepartskapacitet, bland annat i New Jersey, skjuts från 2026 till första halvåret 2027. Bolaget uppgav samtidigt att kundkontrakten består och att de egna anläggningarna ligger enligt plan eller före tidplan. Reuters rapporterade detta den 12 november.
+
+**PARTSUPPGIFT – investeringsplan:** Nebius anger cirka **27 miljarder USD i capex för 2026** och **40–45 miljarder USD för 2027**. Ledningen räknar med att 75–85 procent av 2027 års investeringar ska täckas av kundförskott och tillgångsbaserad finansiering. Målet för 2027 är 12–13 miljarder USD i omsättning och positivt resultat före skatt under fjärde kvartalet. Dessa är ledningsprognoser, inte redan mottagna kundförskott eller slutligt undertecknade kreditåtaganden.
+
+**Varför det spelar roll:** Nebius visar hur AI-molnens kapacitetslöften är beroende av fysisk datacenterkapacitet, nätanslutning och finansiering. En försening i tredjepartsanläggningar kan flytta intäkter trots att kundavtalen finns kvar. Den planerade capexnivån för 2027 är dessutom mycket större än bolagets redovisade kassa vid kvartalsslutet.
+
+**Oberoende bekräftelse:** Reuters rapporterade den 12 november om prognosjusteringen och kapacitetsförskjutningen. SEC 6-K är primärkälla för kvartalssiffrorna. Ingen oberoende källa har i denna kontroll bekräftat varje enskild anläggnings försening eller att den förväntade finansieringen redan är kontrakterad.
+
+**Artikelvinkel:** *AI-molnens kapacitetsgap: när kundavtalen växer snabbare än den fysiska infrastrukturen.*
+
+Källor:
+- [Nebius – SEC Form 6-K, Exhibit 99.1, 12 november 2026](https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm)
+- [Nebius Investor Hub – Q3-material och aktieägarbrev](https://nebius.com/investor-hub)
+- [Reuters – Nebius quarterly results and capacity delays, 12 November 2026](https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-strong-ai-demand-2026-11-12/)
+
+### CoreWeave: precisering av Q3-rapportens skuld-, leasing- och kontrolluppgifter
+
+**PRIMÄRKÄLLA:** CoreWeaves Form 10-Q för kvartalet till och med 30 september, inlämnad 12 november 2026.
+
+- Kundkoncentration: Customer A stod för **24 procent** och Customer B för **30 procent** av kvartalets intäkter, sammanlagt 54 procent. Kundernas identiteter är inte offentliggjorda.
+- Kundfordringarna var också koncentrerade: Customer A 18 procent, B 33 procent, C 12 procent och D 14 procent vid periodens slut.
+- Räntebärande recourse debt var cirka **41,600 miljarder USD** och non-recourse debt cirka **5,273 miljarder USD**; tillsammans cirka **46,873 miljarder USD**. Finansleasingskulder om cirka **649 miljoner USD** är en separat balanspost. Operativa leasingskulder om cirka **18,697 miljarder USD** ska inte blandas in i räntebärande skuld.
+- Framtida betalningar på leasingavtal som ännu inte hade börjat löpa uppskattades till **47,4 miljarder USD**. En separat anläggningsrelaterad leasingstruktur med upp till **453 MW** har en maximal betalningsram på **16,9 miljarder USD** och anges uttryckligen ligga utanför 47,4-miljardersbeloppet. Ytterligare cirka **354 MW** omfattas av arrangemang där betalningar beror på byggkostnader. Detta är åtaganden och möjliga framtida betalningar, inte redan bokförda leasingskulder.
+- Under årets första nio månader redovisades cirka **9,1 miljarder USD** i debt service: cirka 7,6 miljarder i amortering och 1,6 miljarder i ränta. Kassaflödet från löpande verksamhet var cirka 5,6 miljarder. Det är inte i sig bevis för betalningsinställelse; bolaget redovisade total likviditet på cirka 9,837 miljarder USD, inklusive outnyttjade kreditåtaganden.
+- Under tredje kvartalet var rörelseresultatet cirka **207 miljoner USD**, nett räntekostnad cirka **846 miljoner USD** och nettoförlust cirka **709 miljoner USD**.
+- Bolaget uppgav att dess disclosure controls and procedures inte var effektiva per 30 september på grund av kvarstående väsentliga svagheter i intern kontroll, bland annat IT-kontroller, ansvarsfördelning och bemanning. Bolaget uppgav samtidigt att svagheterna inte hade lett till någon väsentlig felaktighet i rapporteringen.
+
+**Redovisningsmässig avgränsning:** cirka 1,9 miljarder USD flyttades från uppskjutna intäkter till kundskulder när avtalsvillkor blev uppsägningsbara under kvartalet. Det är inte belägg för att kunderna faktiskt sade upp avtalen eller att hela beloppet betalades tillbaka.
+
+**Källstatus:** SEC-rapporten är primärkälla för samtliga detaljer ovan. Reuters har oberoende rapporterat om kvartalsresultatet, men ingen oberoende källa har i denna kontroll bekräftat alla leasing- och internkontrollnoter separat.
+
+Källa: [CoreWeave Form 10-Q, 30 september 2026](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm)
