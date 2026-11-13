@@ -476,3 +476,16 @@ Källor:
 
 
 **Utkaststatus:** fortsatt DRAFT; ingen merge eller publicering.
+
+
+### 13 november 2026 – Finland kompletterar CRMA med uttryckliga regler om gruvavfallsstudier
+
+**PRIMÄRKÄLLA – Finlex, lagar antagna 6 november och publicerade 11 november 2026; ikraftträdande 15 november:**
+- **1027/2026** ändrar miljöskyddslagen 114 och 225 §§. Verksamhetsutövare som omfattas ska lämna en preliminär ekonomisk bedömningsstudie om möjligheten att återvinna kritiska råmaterial ur lagrat och uppkommande utvinningsavfall eller brutet material, eller visa att sådana material inte finns att utvinna.
+- **1028/2026** för in motsvarande skyldighet i marktäktslagens 5 a § för berörda tillståndsansökningar. Tillståndspliktig verksamhet som enbart gäller lera eller matjord är undantagen.
+- **1024/2026** utser Tukes till marknadskontrollmyndighet för de angivna CRMA-kraven på permanenta magneter och placerar nationellt program och rapportering hos arbets- och näringsministeriet.
+- **1026/2026** ger GTK ansvar för det nationella prospekteringsprogrammet enligt CRMA artikel 19.1 och databasen över utvinningsavfallsområden enligt artikel 27.4.
+
+**Tidsfrist:** EU-förordning 2024/1252 artikel 27.3 anger den 24 november 2026 för berörda operatörers preliminära ekonomiska bedömningsstudier. Detta är en direkt EU-frist; de finska lagarna anger nationell ansvarsfördelning och hur studien ska lämnas till behörig tillståndsmyndighet. Kravet är inte bevis för att avfallet är ekonomiskt utvinnbart.
+
+**Källor:** Finlex 1024/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1024 ; 1026/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1026 ; 1027/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1027 ; 1028/2026, https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1028 ; EU-förordning 2024/1252, https://eur-lex.europa.eu/eli/reg/2024/1252/oj/eng .
