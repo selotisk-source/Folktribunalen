@@ -45,13 +45,13 @@ Reuters 12 november anger att NEMC diskuterade det grundstötta fartyget och las
 
 **Arbetsflöde:** Källnot tillförs PR #53. Ingen artikelmerge eller LIVE-publicering.
 
-### C – Synkronicitet: relevant teoretisk forskning, inte nytt empiriskt bevis
+### C – statuskontroll: teoretisk källa redan inarbetad i PR #38
 
-Oxford University Press publicerade 19 oktober 2026 artikeln “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning”: https://academic.oup.com/nc/article/2026/1/niag063/8943654
+Oxford University Press-artikeln “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning” publicerades 19 oktober 2026: https://academic.oup.com/nc/article/2026/1/niag063/8943654
 
-**PRIMÄRKÄLLA:** akademisk artikel i *Neuroscience of Consciousness*. Den föreslår en neurodynamisk modell där meningsfulla upplevelser, synkronicitet och flow kopplas till metastabil koherens i hjärnans attractor-landskap. Artikeln är ett teoretiskt ramverk; den ger inte i sig empiriskt stöd för övernaturlig kausalitet eller för att yttre händelser styrs av en gemensam dold mekanism. Ingen ny reproducerad effekt identifierades i denna screening.
+**PRIMÄRKÄLLA:** akademisk artikel i *Neuroscience of Consciousness*. Den föreslår en neurodynamisk modell där meningsfulla upplevelser, synkronicitet och flow kopplas till metastabil koherens i hjärnans attractor-landskap. Den är redan upptagen i granskningsutkast PR #38 och är inte en ny utveckling i denna cykel. Den ger inte i sig empiriskt stöd för övernaturlig kausalitet eller för att yttre händelser styrs av en gemensam dold mekanism. Ingen ny reproducerad effekt identifierades i denna screening.
 
-**Redaktionell användning:** kandidat till teori-/begreppsavsnitt, tydligt märkt som författarnas modell och skild från testbara experimentella resultat.
+**Redaktionell användning:** behålls som författarnas teoretiska modell, tydligt skild från testbara experimentella resultat.
 
 ## A–S delta-screening och nästa kontrollpunkt
 
