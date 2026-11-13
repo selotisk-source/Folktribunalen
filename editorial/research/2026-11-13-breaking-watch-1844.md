@@ -121,3 +121,10 @@ Ingen ny primärhandling eller oberoende belagd händelse över notiströskeln i
 - Render-arbetsytan var inte vald. Render-verktyget svarade att ett workspace måste listas och därefter bekräftas av användaren; i den icke-interaktiva körningen valdes inget workspace. Offentlig URL är sedan tidigare bekräftad som https://folktribunalen.onrender.com, men direkt hämtning av sajten i denna kontroll gav DisabledError. Senast dokumenterade deployment-status (13 nov 01:35 UTC) var LIVE på commit f873ebfa; den statusen har inte kunnat omtestas i denna cykel.
 - Senast dokumenterade Postgres-hinder kvarstår som en äldre kontroll: ipAllowList=[] och extern SELECT 1 nekades. Databasen och backendens aktuella status har inte omtestats eftersom Render-workspace inte valdes.
 
+
+
+### G – källkontroll av slutkommunikén, 13 november 2026, 18:55 EET
+
+Bkerkis offentliga nyhetsindex visar sessionens dagliga proceedings till 12 november och den separata förberedande presidiekommunikén daterad 7 november. Den 13 november återgav LBC, MTV Lebanon och Al-Nashra slutkommunikén från den 59:e ordinarie sessionen 9–13 november, uppläst av generalsekreteraren fader Jean Younes. De tre medierna återger samma uttalande och är därför inte tre oberoende innehållskällor. Någon separat fulltext för 13 november hade ännu inte dykt upp i Bkerkis publika index vid kontrollen. Formuleringen i G-spåret är därför: **PARTSUPPGIFT / flera medier återger samma officiella kyrkliga uttalande; originalpublicering på Bkerki saknas ännu**. Kommunikén stöder förhandlingar för att avsluta kriget, respekt för Libanons suveränitet och att landet hålls utanför regionala konflikter; den bevisar inte ett uppnått eldupphör eller en säkerhetsgaranti för sydliga byar.
+
+Källor: https://bkerki.org/ ; https://www.lbcgroup.tv/news/lebanon/967804/ ; https://www.mtv.com.lb/news/1757989 ; https://www.elnashra.com/news/show/1809052/ .
