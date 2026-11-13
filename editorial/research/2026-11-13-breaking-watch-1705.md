@@ -61,3 +61,10 @@ Finlex 1027/2026 och 1028/2026 publicerades den 11 november efter antagande den 
 ### Skellefteå datacenter – statusförtydligande 17:25 EET
 
 Skellefteå kommuns FAQ bekräftar att EdgeConnex förvärvat delar av Bergsbyns industriområde och planerar AI-datacenter på ytor i Northvolts tidigare expansionsområde. Kommunen beskriver projektet som tidigt och flerårigt. Kommunens bedömning att energibehovet redan fanns med i batterifabrikens ursprungliga planering är en parts-/myndighetsbedömning; den ersätter inte ett publicerat nätanslutningsbesked eller en oberoende effekt- och vattenanalys. PR #64 har kompletterats med denna skillnad.
+
+
+### Exportkontrollens interdepartementala konflikt – 17:35 EET
+
+Reuters rapporterar 13 november att Scott Bessent i en CNBC-intervju offentligt sade att Treasury, Pentagon, State och USTR i månader hade förespråkat att Megaspeed skulle föras upp på Entity List, medan Commerce/BIS kontrollerar beslutet. Det är Bessents egen redogörelse, inte ett gemensamt beslut eller protokoll. Commerce har bestridit delar av den tidigare rapporterade privata konfrontationen mellan Bessent och Lutnick. Ingen offentlig BIS-order eller Entity List-post för Megaspeed har hittats. PR #47 har kompletterats med tydlig åtskillnad mellan uttalande, rapporterad intern konflikt och faktisk verkställighetsåtgärd.
+
+**Källa:** Reuters, 13 nov, https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/ .
