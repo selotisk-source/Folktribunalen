@@ -395,3 +395,6 @@ Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga sli
 
 
 **Caroline Bezengi – arealuppskattningar:** Greenpeace Germany (6 oktober) anger cirka 600 km² maximal satellitobserverad utbredning. UNU-INWEH:s separata satellitanalys från augusti anger cirka 300 km² utanför Hallaniyat. Uppskattningarna kan avse olika datum och avgränsningar; de är inte oljevolymer och ska inte summeras.
+
+
+**USA:s DOJ/FBI – ytterligare avgränsning:** Reuters rapporterade 12 november att justitieminister Todd Blanche sade att DOJ ännu inte nått någon slutsats om Alice Huang är kinesisk spion, medan FBI utreder rapporter om att hon arbetat för den kinesiska staten. Ingen offentlig dom eller åtal som fastställer spioneri har identifierats. Detta är en separat amerikansk utredningslinje och ska inte blandas ihop med Singapores inhemska serverdeklarationsutredning.
