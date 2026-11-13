@@ -545,3 +545,7 @@ Detta är en kompletterande kontroll efter den tidigare journalposten. Huvudordn
 ## 13 november 2026, 17:05 EET
 
 Ny delrapport: [Breaking Watch 17:05 EET](./2026-11-13-breaking-watch-1705.md). De viktigaste nya kontrollpunkterna är IEA:s novemberrapport och Irak–Syrien-rutten under O, EuroHPC:s ändrade lot-deadlines under B, SR:s nya Cladonia-uppföljning under K samt nya House-brev under P. Uppdaterade befintliga utkast: PR #10, #32, #53 och #64. Inga PR har mergats eller publicerats.
+
+
+### CRMA 17:20 EET – 1027/2026 och 1028/2026
+Finlands lagar 1027/2026 och 1028/2026 publicerades 11 november och träder i kraft 15 november. De inför CRMA artikel 27:s preliminära ekonomiska bedömningsstudie i miljöskyddslagen och marktäktslagen; lera/matjord-only är undantaget i marktäktslagen. EU:s 24-novemberfrist kommer från CRMA artikel 27.3. PR #34 och 17:05-journalen har kompletterats.
