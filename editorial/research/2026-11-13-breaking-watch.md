@@ -532,3 +532,11 @@ Detta är en kompletterande kontroll efter den tidigare journalposten. Huvudordn
 - PR #42 är fortsatt DRAFT och har kompletterats med NHS-uppföljningen.
 - Befintliga utkast om AI-infrastruktur, NVIDIA, Gripen, Athos, Storsjö/Cladonia och Urbergsskölden förblir i sina befintliga granskningspositioner.
 - Ingen ny artikel har mergats eller publicerats i denna cykel.
+
+
+### Korrigering / tillägg – amerikansk energitillståndslagstiftning (13 november 2026)
+
+- **PRIMÄRKÄLLA:** Senatens officiella roll call visar att 73–25 den 9 november var en cloture-omröstning om motionen att gå vidare till H.R. 2347; 62–21 den 10 november var en separat omröstning om motionen att gå vidare. Senatens registrerade measure title visar fortfarande H.R. 2347 som en skatteåtgärd, vilket innebär att lagtext/ersättningsändring och Congressional Record måste läsas innan H.R. 2347 och BAAJA behandlas som samma lagtext.
+- **OBEROENDE BEKRÄFTELSE:** AP och Reuters beskriver golvdebatten som BAAJA, ett brett tillstånds- och energiinfrastrukturpaket med bestämmelser om att stora datacenter ska bära större del av nätkostnaderna. Denna koppling är väl rapporterad, men den formella roll-call-raden ensam bevisar inte innehållet i den slutliga ersättningstexten.
+- **Status:** procedurmässigt framflyttat för fortsatt behandling; inte slutligt antaget av senaten, inte godkänt av representanthuset och inte lag. Nästa primärkontroll är ersättningsändringen, Congressional Record och eventuell slutlig passage.
+- Källor: [Senatens roll call 257](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm), [roll call 258](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm), [AP, 10 november](https://apnews.com/article/c6290598e26a7b01622e5c4eec571516), [Reuters, 9 november](https://www.reuters.com/legal/litigation/democratic-us-senators-see-hope-permitting-bill-ahead-key-senate-vote-2026-11-09/).
