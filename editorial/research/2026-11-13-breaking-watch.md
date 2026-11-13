@@ -1,5 +1,5 @@
 # FOLKTRIBUNALEN – Breaking Watch
-## Intern arbetslogg och täckningsmatris | 13 november 2026, 00:28 EET
+## Intern arbetslogg och täckningsmatris | 13 november 2026, 01:59 EET
 
 **Dokumenttyp:** intern OSINT-arbetslogg, inte publiceringsartikel.  
 **Status:** researchjournal för redaktionell granskning. Ingen artikel publiceras eller mergas genom detta dokument.
@@ -282,3 +282,92 @@ Källa: https://www.svt.se/nyheter/lokalt/jamtland/miljardinvestering-i-batteril
 - Naharnet, 30 oktober 2026: https://cdn.naharnet.com/stories/en/323449-isf-arrests-suspect-in-murder-of-jbeil-district-priest
 - Fides, 4 november 2026: https://www.fides.org/fr/news/78378-ASIE_LIBAN_Un_pretre_maronite_a_ete_tue
 - Vatican News, 4 november 2026: https://www.vaticannews.va/de/kirche/news/2026-11/beirut-mord-an-maronitischen-priester.html
+
+
+
+## Breaking Watch – cykel 13 november 2026, 01:59 EET
+
+### Nya betydande uppgifter och korrigeringar
+
+#### B/F – Nebius och CoreWeave: AI-kapacitetens finansiering blir mer konkret
+
+**Nebius – PRIMÄRKÄLLA:** SEC Form 6-K, Exhibit 99.1, publicerad 12 november. Q3-omsättning 980,8 MUSD; justerad EBITDA 465,8 MUSD (icke-GAAP); operativt kassaflöde minus 273 MUSD; capex cirka 7,3 md USD under kvartalet. Per 30 september redovisade bolaget 7,426 md USD i kassa, cirka 14,191 md USD i skuld och 1,769 md USD i operativa leasingskulder.
+
+**PARTSUPPGIFT, OBEROENDE BEKRÄFTELSE:** Reuters rapporterade 12 november att Nebius sänkt den övre delen av 2026 års omsättningsprognos till 3,0–3,2 md USD efter att viss tredjepartskapacitet förskjutits till H1 2027. Bolaget uppger att kontrakten kvarstår och att egna anläggningar ligger enligt plan. Ledningens plan för 2027 är 40–45 md USD i capex, med 75–85 procent väntat från kundförskott och tillgångsbaserad finansiering. Det är prognoser och finansieringsambitioner, inte redan mottaget kapital eller slutligt undertecknade lån.
+
+**CoreWeave – PRIMÄRKÄLLA:** SEC Form 10-Q, publicerad 12 november. Rapporten visar 54 procents intäktskoncentration hos två anonymiserade kunder (Customer A 24 procent, Customer B 30 procent), cirka 46,873 md USD i räntebärande skuld exklusive finansleasingskulder, cirka 649 MUSD i finansleasingskulder och 18,697 md USD i operativa leasingskulder. Leasingbetalningar på 47,4 md USD avser avtal som ännu inte börjat löpa; ett separat anläggningsarrangemang med maximal betalningsram 16,9 md USD för 453 MW anges inte ingå i 47,4 md USD. Bolaget uppger dessutom kvarstående väsentliga svagheter i intern kontroll och att disclosure controls inte var effektiva per 30 september.
+
+**Redaktionell precision:** 47,4 md USD är inte bokförd leasingskuld. 16,9 md USD är en separat maximal ram, inte en omedelbar skuld. 1,9 md USD som omklassificerats från uppskjutna intäkter till kundskulder är inte bevis för att kunderna faktiskt sagt upp kontrakten. Total likviditet på 9,837 md USD måste vägas in; siffrorna visar finansieringsberoende och kontrollrisker, inte i sig betalningsinställelse.
+
+#### E/S – CRMA: regional projektkarta och Finlands nya genomförandelagar
+
+**PRIMÄRKÄLLA:** Kommissionens beslut/bilaga 9 oktober listar 46 nya strategiska projekt: 8 utvinning, 10 förädling, 20 återvinning och 8 integrerade. Finland har fem (CoNiKo, Hautalampi, Arctial, Sokli, Suhanko), Sverige ett (Viscaria), Estland ett (Silmet 2.0) och Bulgarien ett (Pirdop Tankhouse Expansion). Strategisk status är inte ett tillstånd eller finansieringsbeslut.
+
+**PRIMÄRKÄLLA:** Finlands lagar 1024/2026, 1025/2026 och 1026/2026 publicerades 11 november och träder i kraft 15 november. De reglerar bland annat genomförande/övervakning av CRMA-skyldigheter, marknadskontroll och GTK:s uppdrag för nationellt prospekteringsprogram samt databas över stängda utvinningsavfallsanläggningar.
+
+**PARTSUPPGIFT:** Viscaria uppgav 29 oktober att det förhandlar med fyra till sex europeiska affärsbanker och exportkreditaktörer; bolaget räknar med att slutföra skuldfinansieringen inom 90 dagar och väntar kreditgodkännanden kring årsskiftet. Detta är inte ett färdigställt eller utbetalt finansieringspaket.
+
+#### G/O – södra Libanon och Hormuz
+
+**UNIFIL – PRIMÄRKÄLLA:** Den 10 november uppgav UNIFIL att en rutinpatrull besköts med omkring tolv skott nära Wadi Jilu; patrullen besvarade elden efter att ha sett mynningljus och ingen fredsbevarare skadades.  
+**UNIFIL-briefing – OBEROENDE ÅTERGIVNING:** Anadolu rapporterade 10 november att FN:s talesperson den 9 november redogjort för sex flyganfall och 360 artilleribanor under 5–8 november samt väg- och ingenjörsarbeten. Fullständigt primärtranskript har inte lokaliserats.
+
+**Hormuz – PARTSUPPGIFT/OBEKRÄFTAD:** Iran uppgav 12 november att fyra tankers träffats av explosioner/minor 11–12 november. Reuters kunde inte verifiera uppgifterna och fartygsidentiteter saknas. Separat rapporterade UKMTO om en projektilträff på MT Dominica Prosperity 11 november; 22 besättningsmedlemmar evakuerades. Det finns inget belägg för att fartyget är ett av de fyra iranska påstådda fallen.
+
+**Oman – PRIMÄRKÄLLA/ONA:** Nationella beredskapskommittén behandlade 12 november fortsatt hantering av ett grundstött tankfartyg vid Al Qibliyah. Rapporten namnger inte fartyget. Kopplingen till Caroline Bezengi, som identifierades i augusti, är geografiskt rimlig men ännu inte officiellt bekräftad.
+
+#### P/F – NVIDIA, exportkontroller och kongressens tillsyn
+
+**PRIMÄRKÄLLA – SEC:** NVIDIA:s 8-K anger att styrelsen accepterade Jensen Huangs avgång 11 november; inlämnad 12 november. Formuleringen är “resigned”; ingen orsak anges. Colette Kress är interim CEO och fortsätter som CFO.  
+**PRIMÄRKÄLLA – House Select Committee on China:** John Moolenaar kallade avgången “firing” i sitt uttalande 12 november. Det är en politisk karakterisering och ska inte ersätta SEC-filingen.  
+**PRIMÄRKÄLLA – House, 5 november:** tre utskottsordförande begärde sluten briefing 18 november och bad Huang acceptera eller föreslå alternativ senast 11 november. Ingen offentlig bekräftelse på att just denna briefing genomförs har hittats.  
+**PRIMÄRKÄLLA – Senaten, 11 november:** Warren och Coons begärde att administrationen bevarar relevanta handlingar och bekräftar detta skriftligen senast 17 november. Det är en begäran, inte en offentliggjord subpoena.
+
+**Singapore – PRIMÄRKÄLLA:** MHA:s uttalande 12 november säger att Alice Huang inte utreddes för spioneri och att Singaporeutredningen inte grundades på någon utländsk begäran. Polisen fann i februari 2026 otillräcklig bevisning för de misstänkta deklarationsbrotten, men utfärdade en skarp varning och förbjöd henne att återvända efter att ha bedömt att hon lämnat medvetet felaktig information för att tona ned sin roll. Megaspeed och sex andra personer är fortsatt föremål för utredning.
+
+#### C – Synkronicitet
+
+Den teoretiska artikeln “Strange attractors: purpose, synchronicity, flow, and the neurodynamics of meaning” är redan införd i PR #38. Den ger en modell och testbara prediktioner, inte ett nytt experiment som visar extern kausal synkronicitet. Ingen ny reproducerbar evidens identifierad i denna cykel.
+
+### Täckning A–S – cykelstatus
+
+- **A:** ingen ny primär kontraktstilldelning; NHS/Palantir-uppgifterna kvar i PR #55.
+- **B:** Nebius kapacitetsförskjutning och capexplan tillagda i PR #14.
+- **C:** befintlig teoretisk artikel kvar i PR #38; ingen ny empiri.
+- **D:** ingen ny arkeologisk primärkälla.
+- **E:** CRMA-projektfördelningen och finska lagar tillagda i PR #34.
+- **F:** CoreWeave- och Nebiusuppgifter tillagda i PR #14.
+- **G:** UNIFIL:s Wadi Jilu-uttalande och 5–8 november-briefingen tillagda i PR #22; ingen ny fastställd kyrkospecifik incident.
+- **H:** ingen ny restaurerings- eller ägarhandling.
+- **I:** ingen ny skogsbruks-, rennärings- eller hästkulturhandling.
+- **J:** ingen ny primär observation eller hydrologisk rapport.
+- **K:** mötet 10 november och bolagets uppgifter finns redan i PR #32; ingen ny lagfart eller bindande användningsklausul.
+- **L:** ingen ny restaureringshandling.
+- **M:** ingen ny offentlig katalogisering eller donation.
+- **N:** ingen ny dom eller bindande rättsakt i denna cykel.
+- **O:** fyra iranska tankeranspråk, separat Dominica-incident och Oman-uppföljning tillagda i PR #53.
+- **P:** Senate/House-primärdokument och SEC-formulering tillagda i PR #47.
+- **Q:** ingen ny Gripen-order eller leverans.
+- **R:** Nebius-kapacitetsfrågan och sista samrådsdagen för Norrsundet följs; inget slutligt SMR-beslut.
+- **S:** CRMA-projektkarta och Finlands tre lagar tillagda i PR #34.
+
+### Faktiska redaktionella åtgärder
+
+Följande befintliga granskningsutkast har uppdaterats:
+- PR #14 – AI-infrastrukturens finansiering: Nebius Q3 och precisering av CoreWeave.
+- PR #22 – UNIFIL och södra Libanon: 9–10 november.
+- PR #34 – Urbergsskölden: 46 CRMA-projekt, Finlands lagar och Viscarias finansieringsstatus.
+- PR #47 – NVIDIA, exportkontroller och kongress: SEC, House, Senate och Singapore MHA.
+- PR #53 – Hormuz: fyra iranska tankeranspråk, Dominica Prosperity och Oman.
+
+PR #16:s täckningsmatris och denna arbetslogg har uppdaterats. Alla berörda granskningsärenden förblir Draft/öppna; inget har mergats eller publicerats.
+
+### Webbplats och databas – faktisk kontroll
+
+Render markerar tjänsten folktribunalen-editorial som **Live**. Någon health-check path är inte konfigurerad, så deployment-status är inte samma sak som en fullständig end-to-end-verifiering av CMS.
+
+Render Postgres är på Free-plan och har registrerat utgångsdatum **4 december 2026 kl. 21:18:55 UTC**. Databasens IP-allowlist är tom. En read-only-fråga (SELECT 1) avvisades med följande tekniska fel:
+
+> This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it. To query it, add the IP address you connect from to the database's IP allowlist in the Networking section of its page in the Render Dashboard. If you're using the hosted Render MCP server, it doesn't have IP addresses you can allowlist yet, so run the Render MCP server locally instead.
+
+Ingen databasändring eller publicering har genomförts. GitHub-granskningsutkasten är den enda uppdaterade redaktionella arbetsytan i denna cykel.
