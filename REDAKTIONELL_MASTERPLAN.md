@@ -208,3 +208,5 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 **Köstatus:** PR #64 är fortsatt nästa artikel i huvudordningen och Draft. PR #7 och PR #34 uppdaterade i sina befintliga granskningsgrenar. PR #60 får denna deltajournal. Ingen merge eller publicering.
 
 **Teknisk status:** Render kräver att ett workspace väljs och bekräftas; inget workspace valdes i denna icke-interaktiva körning. Direkt publik hämtning av https://folktribunalen.onrender.com gav DisabledError. Senast dokumenterade LIVE-commit f873ebfa (13 nov 01:35 UTC) har inte omtestats. Senast dokumenterade Postgres IP-allowlist var tom och extern SELECT 1 nekades; databasstatusen har inte omtestats.
+
+- **G – Libanon, källstatus 18:55 EET:** slutkommunikén 13 nov återges av LBC, MTV och Al-Nashra, men alla reproducerar samma text; Bkerkis publika index visar proceedings till 12 nov och saknar ännu separat sluttext. PR #22 har uppdaterats med denna reservation.
