@@ -371,3 +371,10 @@ Render Postgres är på Free-plan och har registrerat utgångsdatum **4 december
 > This database blocks all external connections because its IP allowlist is empty, so this tool can't reach it. To query it, add the IP address you connect from to the database's IP allowlist in the Networking section of its page in the Render Dashboard. If you're using the hosted Render MCP server, it doesn't have IP addresses you can allowlist yet, so run the Render MCP server locally instead.
 
 Ingen databasändring eller publicering har genomförts. GitHub-granskningsutkasten är den enda uppdaterade redaktionella arbetsytan i denna cykel.
+
+
+
+### Ytterligare korskopplingar efter primär- och oberoende kontroll
+
+**B/F – NVIDIA/Nebius:** Reuters uppgav den 11 mars 2026 att NVIDIA investerat 2 md USD i Nebius för cirka 8,3 procents ägarandel. Det är en ägarkoppling, inte belägg för att NVIDIA garanterar Nebius skulder eller capex.  
+**P/G – USA/Singapore:** Washington Post rapporterade den 12 november, med anonyma myndighetskällor, att Singapore upprepade gånger begärt amerikansk hjälp i Megaspeed-utredningen och fått begränsat stöd. MHA:s offentliga tidslinje säger att Singapore först blev medvetet om USA:s intresse genom en BIS-verifiering den 24 juni 2025. Begärandenas datum och innehåll är inte offentliga i den dokumentation som hittats; uppgiften hålls därför som sekundär rapportering, inte fastställd myndighetsuppgift.
