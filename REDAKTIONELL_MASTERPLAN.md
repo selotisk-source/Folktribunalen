@@ -1228,3 +1228,16 @@ Forskningsloggen för denna cykel finns i [2026-11-12-breaking-watch-2119.md](ed
 **Tidskritiska kontroller:** Norrsundets samråd sista dag 13 nov; House-kommittéernas svarstid 20:00 EST 13 nov = 03:00 EET 14 nov; NVIDIA-delen av Nscale-teckningen väntas enligt SEC omkring 16 nov; NVIDIA Q3 17 nov.
 
 **Övriga A–S:** inga nya materiella offentliga dokument identifierade i denna delta-screening för C, D, H, I, J, K, L, M och Q. A, E, G, N, O, P, R och S har kontrollnoteringar och öppna primärkällpunkter i den daterade journalen. B/F är uppdaterade.
+
+
+## Breaking Watch – delta 13 november 2026, 12:17 EET
+
+- **E/S – Geomorphic AI Sweden AB:** Bergsstaten medgav 12 november överlåtelse av fyra undersökningstillstånd från Adelheid Holdings LLC till Geomorphic AI Sweden AB. Beslutet anger att områdena berör naturreservat/Natura 2000 och kräver arbetsplan, säkerhet och ytterligare tillstånd innan arbete. Ansökans AI-/finansieringsuppgifter är partsuppgifter; ingen resurs eller reserv har redovisats. PR #34 uppdaterad.
+- **B/R – datacenter och gas:** BNEF:s rapport 11 november identifierar 181 GW annonserad global gaseldad kapacitet vid datacenter, varav 165 GW i USA; detta är pipeline, inte prognos. USA-scenariot 345 Mt CO2e gäller bara om alla identifierade amerikanska projekt byggs och körs enligt modellens antaganden. PR #64 uppdaterad med BNEF:s policyjämförelse för Storbritannien och Frankrike.
+- **F/P – Nvidia/exportkontroll:** Reuters dokumentgranskning 13 november identifierar över 23 md yuan/3,2 md USD i kinesiska AI-projekt byggda kring H100/H200/H800; totalsiffran omfattar projekt och infrastruktur, inte chipköp eller Nvidia-intäkter. Reuters fann ingen koppling till Megaspeed/Huang-anklagelserna. Malaysia/Speedmatrix är en separat utredningsgren. PR #47 uppdaterad.
+- **Q – Gripen över Polen:** svensk och polsk myndighetsram för NATO Air Policing samt polska generalstabens 3 november-uppgift om över fyra timmars patrull-/skyddsuppgift med tankflygstöd är sammanställd i research. Detta är inte luftstrid, ny flygplansorder eller bekräftad stridskontakt. Ingen separat artikel-PR startas i denna cykel.
+- **A:** Palantirs Q3-10-Q och minsta molnköpsförpliktelse på cirka 5,6 md USD finns redan i PR #7; ingen ny delta.
+- **Övriga spår:** C, D, G, H, I, J, K, L, M, N, O, P, R och S har kontrollnoteringar i journal 12:17. Befintliga öppna frågor kvarstår; inga tomma nyhetsnotiser har skapats.
+- **Arbetsflöde:** PR #34, #47, #64, #16 och #60 uppdateras på sina befintliga granskningsgrenar. Ingen merge, ingen LIVE-publicering och ingen CMS-databaspost. Artikelordningen ändras inte.
+
+**Nästa tidskritiska kontroller:** Norrsundets samråd 13 november; House-svar 14 november 03:00 EET; Finlands CRMA-lagar 15 november; Nscale/NVIDIA omkring 16 november; NVIDIA Q3 17 november; Tapuli K-samråd 20 november.
