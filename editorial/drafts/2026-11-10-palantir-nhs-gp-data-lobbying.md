@@ -155,3 +155,16 @@ Det är inte belagt att lobbykontakten orsakade Cheshire & Merseyside-piloten. D
 - [National Data Guardian – advice on trust, vendor lock-in and data sovereignty, 12 oktober 2026](https://www.gov.uk/government/publications/ndg-advises-minister-on-public-and-professional-trust-in-the-fdp)
 
 **Faktastatus:** PRIMÄRKÄLLA = DSA, DPIA och privacy notices; OBEROENDE BEKRÄFTELSE = FT:s uppgift om fem praktiker; HYPOTES = att lobbyförslaget och den lokala piloten har ett orsakssamband; OBEKRÄFTAD = att GP-data har lagts in i den nationella FDP-instansen eller att Palantir haft åtkomst till identifierbara GP-journaler i den lokala piloten.
+
+
+### Separat nationell åtkomstfråga: National Data Integration Tenant (NDIT)
+
+National Data Guardian (NDG) publicerade en egen redogörelse den 3 juni 2026 och uppdaterade den 28 juli. NDG anger att den DPIA som NDG och ICO tidigare granskat sade att åtkomst till identifierbara patientuppgifter skulle vara begränsad till NHS-personal med legitimt behov. NHS-programmet bekräftade senare att vissa externa leverantörsanställda också kan få åtkomst till identifierbara patientuppgifter i NDIT för specifika tekniska ändamål under NHS:s instruktion. NHS England uppgav att åtkomsten är tekniskt nödvändig. NDG sade uttryckligen att den inte själv kunde verifiera den tekniska bedömningen. NHS England erkände samtidigt att den ursprungliga DPIA:n inte korrekt återgav de operativa arrangemangen och bad om ursäkt för felet.
+
+Detta är en dokumenterad avvikelse mellan tidigare DPIA och faktisk NDIT-drift. Det är **inte** bevis för att Palantir haft åtkomst till identifierbara GP-journaler i Cheshire & Merseyside-piloten. De två dataflödena måste granskas separat.
+
+**PRIMÄRKÄLLA:** [National Data Guardian – statement on NHS FDP data access, 3 June 2026, updated 28 July 2026](https://www.gov.uk/government/news/national-data-guardian-statement-on-nhs-federated-data-platform-data-access-in-response-to-the-not-with-my-nhs-data-campaign)
+
+**Nationell GP-avgränsning:** NHS England meddelade den 21 november 2023 att GP-data inte skulle ingå i den nationella plattformen. Check and Challenge Group-minutes den 15 december 2023 klargör samtidigt att lokala ICB-versioner kan använda GP-data om det finns en lokal data sharing agreement. Den kombinationen är central för att förstå skillnaden mellan nationell tenant och lokala FDP-instanser.
+
+**PRIMÄRKÄLLOR:** [NHS England announcement, 21 November 2023](https://www.england.nhs.uk/2023/11/new-nhs-software-to-improve-care-for-millions-of-patients/) · [NHS England Check and Challenge Group minutes, 15 December 2023](https://www.england.nhs.uk/long-read/fdp-check-and-challenge-group-minutes-15-december-2023/)
