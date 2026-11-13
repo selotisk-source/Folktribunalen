@@ -264,3 +264,30 @@ Den redaktionella slutsatsen är därför begränsad: EU har skapat ett nytt tre
 Källa:
 - UN Peacekeeping, 11 november 2026: https://peacekeeping.un.org/en/news/lebanon-after-48-years-patrolling-the-blue-line-un-peacekeepers-prepare-exit
 - Säkerhetsrådets mandatbeslut, 28 augusti 2025: https://peacekeeping.un.org/en/node/130645
+
+
+
+## Researchuppdatering 13 november 2026 – UNIFIL:s observationer 5–10 november
+
+### 9 november: fyra dagars observationer återgivna av FN:s talesperson
+
+**Händelseperiod:** 5–8 november 2026.  
+**Publicering:** Anadolu Agency, 10 november 2026.
+
+**OBEROENDE RAPPORTERING AV FN-UPPGIFT:** Anadolu återger att FN:s biträdande talesperson Farhan Haq den 9 november sade att UNIFIL under perioden registrerat sex israeliska flyganfall och 360 artilleribanor. FN-personal hade även observerat drönarverksamhet, ingenjörsarbeten, vägbyggen och hinder som begränsade patrullernas rörelser. Anadolu återger att UNIFIL såg tecken på förberedelser för en mer långvarig israelisk närvaro i både östra och västra sektorn, men att FN inte angav syftet med arbetena eller någon varaktighet.
+
+Det fullständiga primära transkriptet från pressbriefingen har inte lokaliserats i denna kontroll. Uppgifterna ska därför märkas som sekundärt återgivna uttalanden från FN:s talesperson, inte som en separat publicerad UNIFIL-rapport.
+
+### 10 november: UNIFIL-patrull besköts nära Wadi Jilu
+
+**PRIMÄRKÄLLA:** UNIFIL:s pressmeddelande den 10 november, publicerat på missionens arabiskspråkiga pressmeddelandesida.
+
+UNIFIL uppgav att en rutinpatrull på kvällen utsattes för omkring tolv skott i närheten av Wadi Jilu. Efter att ha observerat ett mynningljus besvarade patrullen elden, varpå skytten upphörde. Ingen fredsbevarare skadades. UNIFIL offentliggjorde inte skyttens identitet eller grupptillhörighet.
+
+### Betydelse och avgränsning
+
+Dessa uppgifter visar att UNIFIL:s rörelsefrihet och säkerhetsmiljö förblir sköra inför mandatets planerade slut den 31 december 2026. De är däremot inte i sig belägg för ett specifikt angrepp mot kristna samhällen eller kyrkliga institutioner. Eventuella konsekvenser för Rmeish, Debel, Ain Ebel och andra lokalsamhällen måste följas med separat plats- och källspecifik dokumentation.
+
+Källor:
+- [UNIFIL – pressmeddelanden, inklusive uttalandet 10 november 2026 (arabiska)](https://unifil.unmissions.org/ar/press-releases)
+- [Anadolu Agency – UN peacekeepers report signs of sustained Israeli presence in south Lebanon, 10 November 2026](https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108)
