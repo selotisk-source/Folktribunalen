@@ -961,3 +961,33 @@ Bolaget uppger mer än **13,4 md USD i samlat eget och lånat kapital**, varav c
 **Källklassificering:** SEC-prospektet = **PRIMÄRKÄLLA**; Reuters/StreetInsider = **OBEROENDE BEKRÄFTELSE** av att ändringen rapporterats; Nscale:s framtida kapacitets-, TCV- och betalningsprognoser = **PARTSUPPGIFTER**; påståenden om cirkulär finansiering eller systemrisk = **HYPOTES** som kräver separat belägg.
 
 **Status:** Tillägg till befintligt granskningsutkast. Fortsatt DRAFT; inte godkänt, inte mergat och inte publicerat.
+
+
+## Ny kontroll – 13 november 2026, 07:07 EET: finansieringsbehovet 2027
+
+**Ny extern rapportering:** Financial Times publicerade 13 november att Nscale behöver säkra ytterligare finansiering för att uppfylla sina kontraktsåtaganden under 2027. FT uppger att finansiering för GPU:erna till den första Anthropic-anläggningen ännu inte är säkrad och att bolaget har omkring sex månader på sig. FT anger också cirka 5,5 md USD i skuld.
+
+**Direkt primärkällkontroll:** Nscale Form S-1/A, Amendment No. 1, inlämnad till SEC 12 november 2026: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm
+
+- Nscale anger att det per prospektdatumet inte hade erhållit bindande finansieringsåtaganden för någon av de finansieringar som krävs för att fullgöra Anthropic Services Agreements. Bolaget uppger att finansieringen fortfarande pågår och att ingen garanti finns för att den kan erhållas på godtagbara villkor eller över huvud taget.
+- Bolaget skriver uttryckligen att de nya kortsiktiga investeringsåtagandena har ökat väsentligt och att ytterligare finansiering krävs för prognostiserade skyldigheter 2027. Vissa nya kapitalåtaganden kan inte skjutas upp, minskas eller avbeställas avtalsmässigt.
+- För Monarch Building 1 anger bolaget cirka 10–10,5 md USD i datacenter- och kraftinvesteringar; cirka 1 md USD hade upparbetats per 30 september och ytterligare cirka 9–9,5 md USD väntades till färdigställande. Därtill anges cirka 21–22 md USD i GPU- och annan compute-utrustning.
+- De fyra Anthropic-avtalen från 25 augusti anges ge betalningar på upp till cirka 44,6 md USD, villkorade av leverans och tillgänglighet. De ska inte redovisas som intjänad intäkt eller säker finansiering.
+- Som jämförelse redovisas 24 md USD i ännu ej levererade teknikinköp och 3,5 md USD i bygg-/stödtjänståtaganden per 30 juni, huvudsakligen betalbara under 2026–2027. Efter 30 juni hade bolaget tecknat GPU-klusterkontrakt om sammanlagt 52,5 md USD med relaterade inköpsåtaganden på cirka 3 md USD. Beloppen avser olika kontrakts- och redovisningsmått och får inte summeras till en enda skuld.
+- Preliminära/uppskattade nio månaders siffror till 30 september: intäkter 307,5 mn USD, rörelseförlust 837,5 mn USD, nettoförlust 1 691,9 mn USD och justerad EBITDA-förlust 289,5 mn USD. Preliminär balansräkning anger 3 575,9 mn USD i kassa och 5 516,3 mn USD i total skuld. Dessa är bolagets uppskattningar i prospektet, inte reviderade slutresultat.
+- FT:s skulduppgift om cirka 5,5 md USD stämmer nära med SEC:s uppskattade 5,5163 md USD. Det är en oberoende korskontroll av storleksordningen.
+
+**Microsoft/Loughton – precisering mot primärdokument:** Nscale redovisar upp till 43,8 md USD i Microsoft-betalningar genom 2033, villkorade av leverans och tjänstetillgänglighet. Ett separat statement of work på 3,22 md USD avslutades efter att den lokala nätoperatören drog tillbaka anslutningsdatum och tilldelad effekt vid Loughton i Essex. Nscale anger att övriga statements of work inte påverkades och att bolaget söker alternativa kraftkällor. Reuters rapporterade Microsofts utträde från just Loughton 18 oktober; det är inte ett belägg för att hela Microsoftrelationen upphört.
+
+**NVIDIA-transaktionen – öppen avstämning:** Prospektets huvudtext beskriver ett abonnemangsavtal om totalt 3,36 md USD: 2,36 md USD i konvertibla skuldebrev till flera investerare (inklusive NVIDIA) och ytterligare 1 md USD i skuldebrev eller icke-röstberättigade aktier till NVIDIA, med stängning omkring 16 november. En separat not i samma prospekt beskriver samtidigt 3,1 md USD i konvertibla skuldebrev, varav 2 md USD med NVIDIA. Dessa två beskrivningar går inte att stämma av enbart med de aktuella avsnitten. Skillnaden kan avse instrument, tidpunkt eller omfattning, men måste redas ut innan kapitalbeloppen summeras.
+
+**Källklassificering**
+- **PRIMÄRKÄLLA:** SEC S-1/A, inlämnad 12 november.
+- **OBEROENDE BEKRÄFTELSE:** Financial Times 13 november; Reuters 18 oktober om Loughton.
+- **PARTSUPPGIFT:** Nscales TCV, kapacitetsplaner, finansieringsprognoser och uppskattade niomånadersresultat.
+- **HYPOTES:** att upplägget skulle vara cirkulär finansiering eller utgöra systemrisk; kräver separata belägg om faktiska penningflöden, säkerheter och motpartsberoenden.
+- **OBEKRÄFTAD:** FT:s exakta sexmånadersfrist har inte kunnat återfinnas i samma ordalydelse i SEC-prospektet; SEC anger en avtalsbestämd finansieringsperiod som kan förlängas genom överenskommelse.
+
+**Artikelvinkel:** *Nscale: 105,8 miljarder dollar i kontraktsvärde – men finansieringen för 2027 är ännu inte säkrad.* Undersök skillnaden mellan TCV, aktiv TCV, RPO, bindande finansiering, dragna krediter, kundförskott och levererad GPU-kapacitet.
+
+**Nästa kontrollpunkter:** faktisk stängning av NVIDIA-delen omkring 16 november; eventuell ny S-1/A; finansieringsåtaganden för Anthropic/Monarch; faktiska drawdowns och kundförskott; uppmätt effekt och leveransmilstolpar. Fortsatt DRAFT – ej godkänt, ej mergat, ej publicerat.
