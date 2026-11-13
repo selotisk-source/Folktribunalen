@@ -469,3 +469,8 @@ Detta är en separat amerikansk utredningslinje. Den får inte blandas ihop med 
 **Källbegränsning:** Reuters återger Blanches uttalande från en presskonferens; något fullständigt primärt transkript har inte lokaliserats i denna kontroll.
 
 Källa: [Reuters – US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says, 12 November 2026](https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/)
+
+
+**OBEROENDE RAPPORTERING, Reuters 12 november:** House Foreign Affairs Committee-ordföranden Brian Mast uppgav att utskottsanställda talat med NVIDIA-representanter på onsdagskvällen och att han väntade sig att Huang skulle vittna inför kongressen inom en vecka. Detta är Masts återgivna förväntan, inte en officiell bekräftelse på att den specifika slutna briefingen den 18 november fortfarande genomförs eller att en ny tid är fastställd.
+
+Källa: [Reuters – Speaker Johnson says Congress developing consensus on limiting chip exports to China, 12 November 2026](https://www.reuters.com/world/china/speaker-johnson-says-congress-developing-consensus-limiting-chip-exports-china-2026-11-12/)
