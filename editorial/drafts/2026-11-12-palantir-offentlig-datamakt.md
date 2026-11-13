@@ -202,7 +202,7 @@ Den avgörande frågan är inte om Palantir redan har tagit över NHS. Den är o
 7. Begär Palantirs och Dame Cressida Dicks rådgivaravtal eller offentlig redovisning av ersättning och eventuella jävsarrangemang.
 8. Begär direkt bemötande från NHS England, Palantir, DHSC, BMA och National Data Guardian.
 
-**Redaktionell status:** Komplett granskningsutkast för huvudspår 1, uppdaterat 12 november 2026. Innehåller ingress, sammanhängande huvudtext, primärkällor, oberoende rapportering, bildförslag, faktakontroll och öppna frågor. Utkastet skiljer lobbykontakt från faktisk dataintegration och medierapportering från formellt regeringsbeslut. Inte godkänt för publicering, inte publicerat och inte LIVE.
+**Redaktionell status:** Godkänd av chefredaktören 13 november 2026. Publicerad LIVE på https://folktribunalen.onrender.com/#/artikel/palantir-offentlig-makt. Den publika artikelsidan kontrollerades 13 november 2026 och visar rubrik, ingress, full huvudtext, primärkällor, oberoende rapportering och källuppdateringen 12 november. Denna fil bevaras som kanoniskt redaktionellt underlag och versionshistorik.
 
 
 ## EU:s AI Act – aktuell tidslinje efter AI Omnibus
