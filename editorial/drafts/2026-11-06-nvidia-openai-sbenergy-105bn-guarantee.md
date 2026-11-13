@@ -895,6 +895,8 @@ Tidigare primärkälla: [Nscale Form S-1, SEC, 18 September 2026](https://www.se
 
 ## Primärkälla 13 november 2026 kl. 04:43 EET – Nscale S-1/A: finansieringskedjan blir synlig
 
+**Källkorrigering:** Detta tillägg ersätter den tidigare noteringen längre ned i utkastet om att Nscale:s S-1/A och dess accession inte hade kunnat hämtas direkt. Den ändrade SEC-filen har nu kontrollerats i original.
+
 **Händelsedatum:** 12 november 2026, då Nscale lämnade in Amendment No. 1 till Form S-1.  
 **Primärkälla:** SEC, accession 0001193125-26-458722: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm  
 **Oberoende bekräftelse:** Reuters rapporterade samma dag om de preliminära nio månaders siffrorna: https://www.streetinsider.com/Reuters/Nscale%2Bexpects%2B14-fold%2Brevenue%2Bsurge%2Bin%2Bamended%2BIPO%2Bfiling/27338026.html
