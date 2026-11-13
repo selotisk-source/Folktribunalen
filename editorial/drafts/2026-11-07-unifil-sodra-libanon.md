@@ -1,0 +1,336 @@
+## Chefredaktörens granskning – 7 november 2026
+
+**Artikelstatus:** Researchbaserat granskningsutkast. Kräver ytterligare lokala källor före publicering.
+
+# När de blå hjälmarna lämnar södra Libanon – vem tar över ansvaret?
+
+**FN:s säkerhetsråd har beslutat att UNIFIL ska upphöra med sin ordinarie verksamhet den 31 december 2026 och därefter dras tillbaka under högst ett år. Den 4 november varnade FN:s chef för fredsbevarande operationer för ett möjligt säkerhetsvakuum. För södra Libanons byar – däribland kristna samhällen – handlar frågan om vem som ska upprätthålla kontakt, övervaka gränsläget och underlätta humanitär hjälp.**
+
+UNIFIL har funnits i södra Libanon sedan 1978. Missionens uppgift har förändrats genom flera säkerhetsrådsresolutioner, särskilt efter kriget 2006 och resolution 1701. Under åren har styrkan övervakat utvecklingen längs Blue Line, fungerat som kontaktkanal mellan de libanesiska och israeliska militärerna och bistått med humanitär tillgång och stöd till civila.
+
+Den 28 augusti 2025 beslutade säkerhetsrådet genom resolution 2790 att förlänga mandatet en sista gång till den 31 december 2026. Från det datumet ska UNIFIL upphöra med ordinarie verksamhet och inleda en ordnad och säker neddragning och återtagning av personal inom ett år. Det betyder inte att alla fredsbevarare lämnar landet på nyårsafton. Resolutionen anger också vissa begränsade uppgifter under själva neddragningen, bland annat skydd av FN-personal och anläggningar, situationsmedvetenhet i närheten av UNIFIL:s platser och stöd till säker humanitär hjälp inom missionens kapacitet.
+
+## Varningen den 4 november
+
+Den 4 november 2026 varnade FN:s undergeneralsekreterare för fredsbevarande operationer, Jean-Pierre Lacroix, för att tillbakadragandet riskerar att skapa ett farligt säkerhetsvakuum. Han uppgav att omkring 7 500 fredsbevarare fortfarande tjänstgör i Libanon. Enligt Lacroix hade president Joseph Aoun och premiärminister Nawaf Salam uttryckt oro över vem som ska fungera som tredje part mellan den libanesiska armén och Israels försvarsmakt när UNIFIL inte längre är på plats.
+
+Lacroix uppskattade också att omkring 10 000 människor fortfarande bor mellan Blue Line och den framflyttade försvarslinje som Israel upprättat inne på libanesiskt territorium. Siffran är en FN-tjänstemans uppskattning, inte en ny folkräkning. Den visar ändå att frågan inte enbart gäller militär organisation: människor bor och försöker leva i ett område där rörelse, tillgång och säkerhet påverkas av konflikten.
+
+## Vad ska ersätta missionens funktioner?
+
+UNIFIL:s närvaro är inte samma sak som en garanti för fred. Missionen har inte ensam kunnat hindra alla överträdelser eller militära angrepp. Men dess liaison- och rapporteringsfunktion har varit en kanal för att minska risken för missförstånd och för att föra information mellan parterna och FN.
+
+I samband med Lacroix besök i Libanon den 16 oktober diskuterades framtida alternativ med presidenten, premiärministern, parlamentets talman, försvarsministern, utrikesministern och den libanesiska arméns ledning. Någon offentlig, slutligt beslutad ersättningsmodell har inte identifierats i denna kontroll.
+
+Säkerhetsrådets resolution anger att målet är att den libanesiska staten ska vara ensam ansvarig för säkerheten i södra Libanon. Det är ett politiskt och institutionellt mål. Frågan är vilka resurser, utbildning, utrustning och internationellt stöd som krävs för att det ska fungera i praktiken.
+
+## De kristna byarna måste undersökas separat
+
+Södra Libanon rymmer maronitiska, melkitiska och andra kristna samhällen, liksom shiamuslimska och sunnimuslimska samhällen. Offentliga FN-uttalanden om UNIFIL:s tillbakadragande beskriver risker för befolkningen i söder generellt. De visar inte i sig att kristna samhällen kommer att drabbas på ett särskilt eller oproportionerligt sätt.
+
+Det är därför en separat lokal undersökning behövs. Rmeish, Ain Ebel, Debel och andra offentligt kända orter bör följas genom kommunala uttalanden, lokala kyrkor, humanitära organisationer, invånare och den libanesiska arméns offentliga information. Frågorna är konkreta: hur förändras tillgången till humanitär hjälp, kontakt med internationella aktörer, möjligheten att återvända och den lokala känslan av säkerhet när UNIFIL:s patruller och liaisonfunktioner försvinner eller förändras?
+
+Vi ska inte dra slutsatsen att en viss by står inför ett särskilt hot utan lokal dokumentation. Men vi ska heller inte behandla södra Libanon som en abstrakt buffertzon utan människor, församlingar, skolor, jordbruk och lokala institutioner.
+
+## Vad händer härnäst?
+
+De närmaste kontrollpunkterna är FN:s rapportering om neddragningen, säkerhetsrådets behandling av alternativen efter UNIFIL, den libanesiska arméns faktiska utplacering och lokala vittnesmål från byar längs Blue Line. En särskild fråga gäller hur UNIFIL:s begränsade uppgifter under neddragningen ska skiljas från den ordinarie missionens tidigare mandat.
+
+### Källstatus
+- **PRIMÄRKÄLLA:** Säkerhetsrådets resolution 2790 (2025), antagen 28 augusti 2025.
+- **PRIMÄRKÄLLA:** FN:s fredsbevarande chef, briefing 4 november 2026.
+- **PRIMÄRKÄLLA:** UNIFIL:s redogörelse för Lacroix besök och samtal med libanesiska ledare, 16 oktober 2026.
+- **PRIMÄRKÄLLA:** UNIFIL:s uppgifter om verksamhet, humanitär tillgång och stöd till utsatta samhällen, 9 oktober 2026.
+- **OBEKRÄFTAT:** Ett slutligt efterträdararrangemang och specifika, särskilda konsekvenser för kristna samhällen.
+
+### Aktörskarta
+FN:s säkerhetsråd; UNIFIL; FN:s undergeneralsekreterare Jean-Pierre Lacroix; president Joseph Aoun; premiärminister Nawaf Salam; parlamentets talman Nabih Berri; Lebanese Armed Forces; Israels försvarsmakt; lokala kommuner, kyrkor och civila organisationer.
+
+### Tidslinje
+- Mars 1978: UNIFIL inrättas genom resolutionerna 425 och 426.
+- Augusti 2006: resolution 1701 utvidgar missionens uppgifter.
+- 28 augusti 2025: resolution 2790 beslutar om sista mandatförlängningen till 31 december 2026.
+- 16 oktober 2026: Lacroix diskuterar framtida alternativ med Libanons ledning.
+- 4 november 2026: Lacroix varnar för säkerhetsvakuum.
+- 31 december 2026: UNIFIL ska upphöra med ordinarie verksamhet och inleda neddragning/utrymning inom ett år.
+
+### Öppna frågor före publicering
+1. Finns ett nytt officiellt förslag om internationell övervakning efter UNIFIL?
+2. Hur långt har den libanesiska arméns utplacering i söder kommit enligt offentliga källor?
+3. Vilka lokala kyrkor och kommuner i Rmeish, Ain Ebel och Debel vill lämna offentliga uttalanden?
+4. Hur påverkas humanitär tillgång och civil återkomst under neddragningen?
+5. Vilka uppgifter kommer UNIFIL att fortsätta utföra under det ettåriga tillbakadragandet?
+
+### Källor
+- Säkerhetsrådets resolution 2790 (2025): https://unifil.unmissions.org/en/news/security-council-extends-unifils-mandate-resolution-2790-2025
+- FN:s fredsbevarande chef, 4 november 2026: https://peacekeeping.un.org/en/news/un-peacekeeping-chief-warns-of-security-vacuum-as-blue-helmets-leave-lebanon-and
+- UNIFIL, 16 oktober 2026: https://unifil.unmissions.org/en/news/lacroix-reaffirms-un-commitment-to-peace-and-stability-as-unifil-prepares-for-drawdown
+- UNIFIL, 9 oktober 2026: https://unifil.unmissions.org/en/news/unifil-fully-committed-to-its-mandate-until-the-last-day-of-the-mission
+
+**Publiceringsstatus:** Draft för chefredaktörens granskning. Behöver lokala primärkällor och oberoende civila vittnesmål innan publicering.
+
+## Ny primärkälla om lokalsamhällenas beroenden – 2 november 2026
+
+UNIFIL publicerade den 2 november artikeln *Beyond its mandate: UNIFIL’s impact on communities in south Lebanon*. Missionens talesperson uppger att UNIFIL under de senaste fyra åren godkänt **110 snabbinsatsprojekt i 115 orter**, med omkring **1,5 miljoner mottagare**. Projekten ska ha omfattat stöd till grundläggande service, konflikthantering och förtroendeskapande åtgärder. Enskilda kontingenter har enligt UNIFIL också stött vård, utbildning, jordbruk, energi, vatten och miljö. Missionen uppger dessutom att hundratals lokala anställda och entreprenörer arbetar vid dess baser.
+
+**Källstatus:** PRIMÄRKÄLLA för vad UNIFIL säger att missionen gjort; PARTSUPPGIFT vad gäller antal projekt och mottagare eftersom någon oberoende effektutvärdering eller extern verifiering av totalsiffrorna inte har identifierats. Uppgifterna gäller södra Libanon generellt, inte en särskild religiös grupp.
+
+Detta ger en konkret lokal fråga inför neddragningen: vilka tjänster, arbetstillfällen och kommunala samarbeten fortsätter genom libanesiska myndigheter, Röda korset, Civil Defense, offentliga sjukhus och vatteninfrastruktur – och vilka projekt riskerar att sakna finansiering eller genomförandepartner? UNIFIL uppger att vissa investeringar i nationella och lokala tjänsteleverantörer ska fortsätta gynna samhällena efter missionens avresa. Det är en bolags-/missionsuppgift som ska jämföras med kommunala budgetar, avtal och faktisk drift.
+
+**Källa:** UNIFIL, 2 november 2026: https://unifil.unmissions.org/en/news/beyond-its-mandate-unifils-impact-on-communities-in-south-lebanon
+
+
+## Regionalt diplomatiskt villkor: Qatar kopplar Hormuzöppning till slut på Libanonkriget
+
+**Publiceringsdatum:** The Guardian 7 november 2026; Reuters 5 november 2026.  
+**Källstatus:** **PRIMÄRKÄLLA** för att Qatar fortsätter förmedla förslag mellan Washington och Teheran; **OBEROENDE BEKRÄFTELSE** för att förhandlingarna omfattar Hormuz och kärninspektioner; **OBEKRÄFTAT** för den detaljerade villkorsordningen i det rapporterade Qatari-förslaget.
+
+The Guardian rapporterade 7 november att ett Qatari-medlingsförslag skulle koppla ett amerikanskt lättande av blockaden, frigörande av en del frysta iranska tillgångar, IAEA-inspektioner och en återöppning av Hormuz till en stegvis överenskommelse. Samma rapport uppgav att Iran kräver att kriget i Libanon avslutas som ett av villkoren för att öppna sundet. Qatar har officiellt bekräftat fortsatt förmedling av förslag och ett telefonsamtal mellan emiren och Trump, men har inte offentligt bekräftat alla detaljer i den rapporterade överenskommelsen.
+
+**Redaktionell betydelse för Libanon:** Libanonkriget är därmed en del av den regionala förhandlingssekvensen kring sjöfart och kärnfrågor. Det innebär inte att ett eldupphör har avtalats eller att UNIFIL:s mandat, tillbakadragande eller lokala säkerhetsansvar har ändrats. En eventuell koppling mellan Hormuzförhandlingarna och södra Libanons säkerhetsläge måste följas via separata primärkällor från Libanons regering, UNIFIL, Israel, Iran och medlarna.
+
+**Öppet:** Har Libanons regering eller UNIFIL kommenterat att ett slut på Libanonkriget ingår i förhandlingspaketet? Finns ett skriftligt förslag eller bara muntliga villkor? Har USA eller Iran bekräftat samma sekvens?
+
+Källor:
+- Qatars utrikesministerium, 3 november 2026: https://mofa.gov.qa/en/qatar/latest-articles/latest-news/details/2026/11/03/advisor-to-prime-minister--official-spokesperson-for-ministry-of-foreign-affairs--qatar-continues-its-efforts-to-bridge-gap-between-washington--tehran
+- The Guardian, 7 november 2026: https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections
+- Reuters, 5 november 2026: https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/
+
+
+
+## Källuppdatering 10 november 2026 – UNIFIL:s lägesbild 5–8 november
+
+**Händelseperiod:** 5–8 november 2026. **Publiceringsdatum:** FN:s generalsekreterares noon briefing 9 november 2026; Anadolu publicerade en återgivning 10 november.
+
+**PRIMÄRKÄLLA – FN:s briefing 9 november:** UNIFIL rapporterade tre israeliska luftangrepp torsdagen 5 november och tre söndagen 8 november. Under fyradagarsperioden registrerade missionen 360 artilleribanor i områden kring Houla, Al Qantara, Brashit, Mansouri och Majdel Zoun. “Artillery trajectories” ska återges som registrerade projektilbanor, inte som 360 verifierade nedslag, träffar eller skadade mål.
+
+FN-briefingen uppger även att UNIFIL observerat ingenjörsarbeten och vägbyggen samt vad missionen kallade *apparent preparations for sustained presence* i både östra och västra sektorn. Det fastställer inte exakt syfte, ansvarig beslutsfattare eller varaktighet. Grindar och fysiska hinder begränsade fortsatt UNIFIL:s rörelsefrihet; i väster begränsade israeliska soldater och stridsvagnar rörelser i båda riktningarna nära Al-Bayyada den 6 november. Fem humanitära transporter samordnades den 5 november och en den 6 november.
+
+**OBEROENDE ÅTERGIVNING:** Anadolu återgav 10 november samma FN-briefing. Det är journalistisk återgivning av FN:s uppgifter, inte separat geospatial eller fysisk verifiering av varje händelse.
+
+**Betydelse och begränsning:** lägesbilden skärper frågan om säkerhetsansvar när UNIFIL:s ordinarie mandat upphör 31 december 2026 och missionen därefter ska dras tillbaka under högst ett år. Briefingen bekräftar däremot inte skador på kyrkor, särskild fördrivning av kristna samhällen eller ett slutligt beslut om permanent israelisk närvaro.
+
+**Källor:**
+- FN:s generalsekreterares noon briefing, 9 november 2026: https://www.un.org/sg/fr/node/401528
+- Anadolu Agency, 10 november 2026: https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108
+
+**Öppet:** byggnadsarbetenas syfte och varaktighet; den faktiska rörelsefriheten för UNIFIL; vem som ska upprätthålla kontakt och humanitär samordning efter mandatets slut; lokala besked från berörda kommuner och kyrkliga institutioner. Ingen slutsats om särskild kristen utsatthet får dras enbart från den här briefingen.
+
+
+## Ny lokal primärnära dokumentation – fem kristna gränsbyars gemensamma vädjan, 9 november 2026
+
+**Händelsedatum:** måndag 9 november 2026. **Publiceringsdatum:** L'Orient Today 9 november 16:15 Beirut-tid; separat återgivning i Kataeb publicerad samma dag.
+
+Borgmästarna i **Rmeish, Ain Ibl, Dibil, Qouzah och Alma al-Shaab** har enligt L'Orient Today skickat en gemensam vädjan till Council of Catholic Patriarchs and Bishops of Lebanon, som sammanträdde i Bkerki. De ber kyrkoledarna att hjälpa invånarna att kunna stanna kvar på sin mark och göra det möjligt för fördrivna att återvända säkert och värdigt.
+
+**Källstatus:** **PARTSUPPGIFT / dokumenterat lokalt upprop återgivet av press.** Den undertecknade originalskrivelsen har inte hämtats från kommunernas eller kyrkans egen webbplats i denna kontroll. L'Orient Today citerar skrivelsen och återger patriark Beshara Rais offentliga kommentar; Kataeb återger samma vädjan separat. Det är två journalistiska källor, inte två oberoende tillgångar till originalbrevet.
+
+### De tio kraven – sammanfattade utan att slå ihop olika rättsliga frågor
+
+1. Säkra vägarna till Rmeish, Ain Ibl och Dibil så att invånare kan nå sjukhus, skolor och marknader.
+2. Återuppta veckovisa besök i Alma al-Shaab när säkerhetsläget tillåter, för att inspektera hem och hämta tillhörigheter.
+3. Möjliggör frivilligt, säkert och värdigt återvändande, särskilt för fördrivna från Yaroun, Qouzah och Alma al-Shaab.
+4. Tillfälligt bostads- eller hyresstöd för familjer som ännu inte kan återvända.
+5. Återställ grundläggande service, stöd till skolor och hjälp till jordbrukare, småföretagare och hantverkare.
+6. Oberoende skadeinventering, transparent ersättningsmodell och stöd till återuppbyggnad.
+7. Gradvis återöppning av Ain Ibl-sjukhuset med akutberedskap dygnet runt och stöd till vårdkostnader.
+8. Bättre utrustning till Rmeish vårdcentral och Civil Defense-enheten.
+9. Skydd av kyrkor och kulturarv, särskilt kyrkan i Qouzah; en samordningskommission föreslås tillsammans med apostolisk nuntie och Caritas Lebanon.
+10. Kyrkligt arbete gentemot Libanons stat, Heliga stolen och FN för att undvika säkerhets- eller humanitärt vakuum efter UNIFIL:s planerade neddragning från 2027.
+
+L'Orient Today uppger att Qouzah och Alma al-Shaab är helt evakuerade, medan majoriteten av invånarna i flera av de andra byarna har stannat trots brist på livsmedel och medicinska förnödenheter. Detta ska inte generaliseras till alla fem byar som om alla invånare vore fördrivna.
+
+### Kyrkan i Qouzah – separat kulturarvsspår
+
+Vädjan lyfter särskilt skyddet av kyrkan i Qouzah. L'Orient Today beskriver att en bild som cirkulerade den 28 oktober, med en israelisk soldat framför kyrkan, väckte oro för att byggnaden skulle förstöras. Bilden är inte i sig belägg för att kyrkan skadats eller förstörts. Nästa steg är att inhämta daterade fotografier, församlingens och kommunens uppgifter, eventuella skaderapporter och oberoende bildverifiering.
+
+### Kyrkliga aktörer och respons
+
+Maronitpatriarken Beshara Rai sade söndagen 8 november att han mottagit brevet och beskrev de tio kraven som brådskande och legitima. Han sade att vädjan skulle få en viktig plats under rådets veckolånga överläggningar. Apostolisk nuntie ärkebiskop Paolo Borgia uppges ha sagt att vädjan inte kan lämnas obesvarad och kräver konkreta insatser. Det är kyrkliga offentliga uttalanden enligt L'Orient Today, inte ännu ett beslutat biståndsprogram.
+
+### Geografisk och institutionell aktörskarta
+
+- **Rmeish, Ain Ibl, Dibil:** vägar, sjukhus/skola, daglig rörlighet och civilförsvar.
+- **Qouzah, Alma al-Shaab:** uppges helt evakuerade; särskild fråga om återvändande, bostäder och kyrkligt kulturarv.
+- **Yaroun:** nämns bland orterna varifrån fördrivna ska kunna återvända.
+- **Bkerki:** säte för Council of Catholic Patriarchs and Bishops of Lebanon och maronitpatriarkens offentliga respons.
+- **Caritas Lebanon och apostolisk nuntie:** föreslagna samordningsaktörer, inte bekräftat att de redan fått ett formellt mandat.
+- **Libanons stat, Heliga stolen, FN och UNIFIL:** adressater för fortsatt diplomatiskt och humanitärt arbete.
+
+### Oberoende källor och begränsningar
+
+- L'Orient Today, 9 november 2026: https://today.lorientlejour.com/article/1553837/five-christian-villages-in-south-lebanon-appeal-to-catholic-leaders-for-help-staying-on-their-land.html
+- Kataeb, 9 november 2026: https://en.kataeb.org/articles/five-southern-lebanese-villages-urge-church-for-safe-roads-aid-and-return-guarantees
+
+**Öppna frågor före publicering:**
+1. Begär originalbrevet från de fem kommunerna och registrerings-/mottagningsuppgift hos patriarkrådet.
+2. Begär respektive kommuns aktuella befolknings- och evakueringsuppgifter; använd inte odifferentierade totalsiffror.
+3. Begär skriftlig skadebedömning för kyrkan i Qouzah och daterade fotografier före/efter.
+4. Kontrollera sjukhusets nuvarande driftstatus och vad som krävs för 24-timmars akutberedskap.
+5. Följ om patriarkrådet, Caritas eller nuntien faktiskt inrättar den föreslagna kommissionen och med vilken finansiering.
+6. Skilj UNIFIL:s mandatavslut från den ettåriga neddragningen; skriv inte att all FN-närvaro upphör den 31 december 2026.
+
+**Status:** Utkastet kompletterat med lokal vädjan och kyrkobyggnadsspår. Inte godkänt för publicering. Originalbrevet och lokal dokumentation återstår.
+
+## Källuppdatering 11 november 2026 – skottlossning vid Wadi Jilu
+
+**Händelsedatum:** 10 november 2026, kväll.  
+**PRIMÄRKÄLLA:** UNIFIL uppger att en rutinpatrull nära Wadi Jilu besköts med omkring ett dussin skott. Efter att patrullen identifierat ett mynningsblänk besvarade den elden; skytten upphörde därefter. Ingen fredsbevarare skadades. UNIFIL har inte identifierat skytten eller angett från vilken position skotten kom och har uppmanat Libanons regering att snabbt utreda händelsen.
+
+**PRIMÄRKÄLLA:** UNIFIL:s uttalande 10 november: https://unifil.unmissions.org/en/press-releases/unifil-statement-10-november-2026
+
+**OBEROENDE BEKRÄFTELSE – begränsad:** Anadolu och ANSA rapporterade samma kväll och återger UNIFIL:s uttalande. De är oberoende redaktioner men tillför inte en separat ögonvittnes- eller teknisk verifiering av händelsen:
+- https://www.aa.com.tr/en/middle-east/un-peacekeepers-come-under-fire-in-southern-lebanon-mission-says/4119542
+- https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/unifil-nostra-pattuglia-bersagliata-da-colpi-nessun-soldato-ferito_3a96a44f-3dbb-4d23-8b84-8a17f5c22655.html
+
+**Varför det spelar roll:** incidenten inträffar när UNIFIL:s ordinarie mandat närmar sig slutdatumet den 31 december 2026 och frågan om en efterföljande säkerhetsordning fortfarande är olöst. Den ska hållas åtskild från UNIFIL:s rapport om israeliska luftangrepp, artilleribanor och ingenjörsarbeten den 5–8 november. Den visar inte vem som sköt, och den ger inget belägg för att en viss väpnad grupp låg bakom.
+
+**Öppet:** Libanons regerings utredning, eventuell identifiering av skytten, platsens exakta händelseförlopp och om incidenten påverkar patrullering eller lokala rörelser. Inga slutsatser dras om ansvarig aktör innan utredningsmaterial finns.
+
+**Status:** ny incident införd i granskningsutkastet. Inte mergat, inte publicerat.
+
+
+## Källuppdatering 12 november 2026 – IPC:s nya lägesbild för livsmedelssäkerhet
+
+**Rapportens publiceringsdatum:** 5 november 2026.  
+**Giltighetsperiod:** 1 september 2026–31 juli 2027.
+
+**PRIMÄRKÄLLA – Integrated Food Security Phase Classification (IPC):** omkring **1,05 miljoner människor**, 21 procent av den analyserade befolkningen, bedöms befinna sig i akut livsmedelsosäkerhet på IPC fas 3 eller högre under september 2026–februari 2027. Av dessa bedöms cirka **52 000** vara i Emergency, fas 4. För mars–juli 2027 projicerar IPC cirka **1,15 miljoner** i fas 3 eller högre, varav **97 000** i fas 4.
+
+IPC anger att läget berör alla befolkningsgrupper i Libanon, men att prevalens och svårighetsgrad varierar. Flyktingar och nyligen fördrivna libaneser hör till de mest utsatta. Rapporten kopplar utvecklingen till de kumulativa effekterna av två konflikter på mindre än två år, en skör ekonomi och stigande levnadskostnader.
+
+**Avgränsning:** IPC-materialet ger inte en konfessionell uppdelning. Siffrorna får därför inte användas för att påstå att kristna byar, maroniter eller någon annan religiös grupp har en viss andel av livsmedelsosäkerheten. Uppgifterna ger nationell humanitär kontext för civil motståndskraft, återvändande och fördrivning, men ersätter inte kommunvisa data eller lokala vittnesmål.
+
+**OBEROENDE KORSKONTROLL:** någon separat, oberoende nationell uppskattning med samma IPC-metod och tidsperiod identifierades inte i denna kontroll. IPC:s klassificering är den primära källan; WFP/FAO-partnerskapets medverkan ska inte räknas som en fristående dubbelmätning.
+
+Källa: https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1165475/
+
+**Nästa kontroll:** hämta rapportens geografiska tabeller för distrikt/guvernement och jämför med offentliga uppgifter om fördrivning, återvändande, marknadstillgång och kommunala tjänster. Redovisa endast lokal nivå där underlaget faktiskt medger det.
+
+
+## Källuppdatering 12 november 2026 – G7:s säkerhetsarkitektur och EU:s nya stöduppdrag
+
+### G7: krav på en hållbar säkerhetsordning efter UNIFIL
+
+**Mötesdatum:** G7:s utrikesministrar möttes i Paris den 9–10 november 2026.  
+**Publiceringsdatum:** den gemensamma deklarationen publicerades den 11 november.
+
+**PRIMÄRKÄLLA – Frankrikes G7-ordförandeskap:** ministrarna konstaterar att UNIFIL:s mandat löper ut vid årets slut och efterlyser en robust, trovärdig och långsiktig säkerhetsarkitektur till stöd för de libanesiska väpnade styrkorna (LAF), i linje med säkerhetsrådets resolution 1701. Deklarationen stöder också EU:s nya stöduppdrag i Libanon. G7-texten innehåller däremot ingen färdig plan för en internationell ersättningsstyrka, inget beslut om en ny fredsbevarande operation och inga offentliggjorda styrketal eller geografiska ansvarsområden.
+
+G7 upprepar dessutom att icke-statliga väpnade grupper, särskilt Hizbollah, ska avväpnas och att Israel och Libanon bör göra framsteg med pilotzoner för verifierbar avväpning och israelisk omgruppering parallellt med LAF:s utplacering. Detta är en gemensam politisk ståndpunkt, inte ett nytt bindande avtal mellan parterna.
+
+### EUSM Lebanon: juridiskt etablerad, men ännu inte operativt lanserad
+
+**Beslutsdatum:** 12 oktober 2026.  
+**PRIMÄRKÄLLA – Europeiska unionens råd:** rådet antog beslut om att etablera EU Support Mission in Lebanon (EUSM Lebanon) inom den gemensamma säkerhets- och försvarspolitiken. Uppdraget har ett initialt mandat på tre år och två pelare:
+
+- en militär pelare som ska ge rådgivning och utbildning till LAF, bland annat för gräns- och sjösäkerhet, övervakning, underrättelsearbete och bekämpning av smuggling;
+- en civil pelare som ska stödja Internal Security Forces (ISF), bland annat inom cyberbrott, smuggling och hamnsäkerhet.
+
+Rådets pressmeddelande säger uttryckligen att operativ planering fortsätter och att ett separat rådsbeslut ska fattas när planeringen är klar. Att uppdraget har etablerats juridiskt betyder alltså inte att personal redan har placerats ut eller att verksamheten har startat.
+
+**Geografisk avgränsning i beslutstexten:** uppdraget ska inledningsvis verka norr om Litani. Verksamhet söder om Litani förutsätter att nödvändiga politiska och säkerhetsmässiga villkor är uppfyllda och att den libanesiska regeringen samtycker. Detta är centralt för bedömningen av om uppdraget kan bidra till säkerheten i södra Libanon.
+
+### Vad detta betyder för kristna samhällen i söder
+
+EUSM Lebanon är ett institutionellt stöd till LAF och ISF, inte ett konfessionellt skyddsuppdrag och inte en automatisk ersättning för UNIFIL. Det finns ännu inget offentligt underlag som visar hur uppdraget ska skydda enskilda byar, kyrkor, kloster eller återvändande civila söder om Litani. Den frågan måste följas genom konkreta beslut om geografiskt mandat, utplacering, samordning med LAF, lokala säkerhetsarrangemang och dokumenterade återvändanden.
+
+Den redaktionella slutsatsen är därför begränsad: EU har skapat ett nytt treårigt säkerhetsstöd, och G7 har politiskt krävt en trovärdig ordning efter UNIFIL. Men någon färdig, operativ ersättningsarkitektur är ännu inte offentliggjord.
+
+**Källor**
+- G7:s gemensamma deklaration, publicerad 11 november 2026: https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/declaration-conjointe-a-l-issue-de-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris
+- Europeiska unionens råd, 12 oktober 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/
+- Rådets beslut (CFSP) 2026/2296, textåtergivning: https://legalize.dev/eu/law/32026D2296
+- FN:s säkerhetsråds resolution 2790 (2025), mandatets slutdatum och ordnad tillbakadragning: https://peacekeeping.un.org/en/node/130538
+
+**Faktastatus**
+- **PRIMÄRKÄLLA:** G7:s politiska deklaration 11 november och rådets beslut 12 oktober om EUSM Lebanon.
+- **PRIMÄRKÄLLA:** UNIFIL:s mandat upphör 31 december 2026; ordnad tillbakadragning ska därefter ske inom ett år.
+- **OBEKRÄFTAD:** datum för EUSM:s operativa start, bemanning, budget och faktisk närvaro söder om Litani.
+- **HYPOTES:** EUSM kan bli en del av den framtida säkerhetsarkitekturen, men kan inte utan ytterligare beslut beskrivas som en ersättningsstyrka för UNIFIL.
+
+### Källuppdatering 12 november 2026 – UNIFIL:s fältbild och civil återkomst
+
+**Publiceringsdatum:** 11 november 2026. **Händelser som återges:** den löpande situationen i södra Libanon samt beskjutningen av patrullen nära Wadi Jilu den 10 november.
+
+**PRIMÄRKÄLLA – UN Peacekeeping/UNIFIL:** I en intervju från Naqoura beskrev UNIFIL:s talesperson Kandice Ardiel fortsatta dagliga israeliska överträdelser som missionen observerar i södra Libanon, däribland byggande av militära positioner och vägar, militära operationer, rivningar, luftangrepp och artillerield. Artikeln återger även Wadi Jilu-händelsen: en rutinpatrull besköts, fredsbevararna besvarade elden och beskjutningen upphörde; inga skador rapporterades. Detta är UNIFIL:s egen fältbeskrivning, inte en oberoende teknisk rekonstruktion av varje enskild händelse.
+
+**Civila konsekvenser – UN-uppgifter:** UNIFIL/UN News anger att antalet internflyktingar som återvänt hem ökat med 13 procent sedan september till nära en miljon, medan omkring 304 500 personer fortfarande är fördrivna utanför sina ursprungsområden. UNIFIL beskriver omfattande skador på elnät, vattenförsörjning och vägar i flera byar. Uppgifterna är regionala och innehåller ingen konfessionell uppdelning; de får inte användas för att uppskatta hur många kristna som återvänt eller är kvar på flykt.
+
+**Mandatövergång:** UNIFIL etablerades 1978. Säkerhetsrådets beslut innebär att mandatet upphör den 31 december 2026 och att förberedelser för tillbakadragandet väntas börja i januari 2027. UNIFIL:s talesperson säger att säkerhetsrådet överväger alternativ, men att inget har beslutats. Detta förstärker den redan dokumenterade frågan om säkerhetsvakuum och lokal ekonomi: missionen ger även arbetstillfällen och ekonomiskt stöd till samhällen i söder.
+
+**Artikelkonsekvens:** Fördjupa texten från enbart militär övergång till tre parallella konsekvenser: lokal säkerhet och rapportering, återuppbyggnad av civil infrastruktur samt förlust av arbetstillfällen och lokal ekonomisk efterfrågan. Håll kyrkor och kristna samhällen som ett separat undersökningsspår tills det finns byspecifika, konfessionellt relevanta belägg.
+
+Källa:
+- UN Peacekeeping, 11 november 2026: https://peacekeeping.un.org/en/news/lebanon-after-48-years-patrolling-the-blue-line-un-peacekeepers-prepare-exit
+- Säkerhetsrådets mandatbeslut, 28 augusti 2025: https://peacekeeping.un.org/en/node/130645
+
+
+
+## Researchuppdatering 13 november 2026 – UNIFIL:s observationer 5–10 november
+
+### 9 november: fyra dagars observationer återgivna av FN:s talesperson
+
+**Händelseperiod:** 5–8 november 2026.  
+**Publicering:** Anadolu Agency, 10 november 2026.
+
+**OBEROENDE RAPPORTERING AV FN-UPPGIFT:** Anadolu återger att FN:s biträdande talesperson Farhan Haq den 9 november sade att UNIFIL under perioden registrerat sex israeliska flyganfall och 360 artilleribanor. FN-personal hade även observerat drönarverksamhet, ingenjörsarbeten, vägbyggen och hinder som begränsade patrullernas rörelser. Anadolu återger att UNIFIL såg tecken på förberedelser för en mer långvarig israelisk närvaro i både östra och västra sektorn, men att FN inte angav syftet med arbetena eller någon varaktighet.
+
+Det fullständiga primära transkriptet från pressbriefingen har inte lokaliserats i denna kontroll. Uppgifterna ska därför märkas som sekundärt återgivna uttalanden från FN:s talesperson, inte som en separat publicerad UNIFIL-rapport.
+
+### 10 november: UNIFIL-patrull besköts nära Wadi Jilu
+
+**PRIMÄRKÄLLA:** UNIFIL:s pressmeddelande den 10 november, publicerat på missionens arabiskspråkiga pressmeddelandesida.
+
+UNIFIL uppgav att en rutinpatrull på kvällen utsattes för omkring tolv skott i närheten av Wadi Jilu. Efter att ha observerat ett mynningljus besvarade patrullen elden, varpå skytten upphörde. Ingen fredsbevarare skadades. UNIFIL offentliggjorde inte skyttens identitet eller grupptillhörighet.
+
+### Betydelse och avgränsning
+
+Dessa uppgifter visar att UNIFIL:s rörelsefrihet och säkerhetsmiljö förblir sköra inför mandatets planerade slut den 31 december 2026. De är däremot inte i sig belägg för ett specifikt angrepp mot kristna samhällen eller kyrkliga institutioner. Eventuella konsekvenser för Rmeish, Debel, Ain Ebel och andra lokalsamhällen måste följas med separat plats- och källspecifik dokumentation.
+
+Källor:
+- [UNIFIL – pressmeddelanden, inklusive uttalandet 10 november 2026 (arabiska)](https://unifil.unmissions.org/ar/press-releases)
+- [Anadolu Agency – UN peacekeepers report signs of sustained Israeli presence in south Lebanon, 10 November 2026](https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108)
+
+
+## Breaking Watch update – 13 November 2026: Catholic patriarchs' final communiqué
+
+**Händelseperiod:** 9–13 November 2026. **Publicering:** 13 November 2026.
+
+The Council of Catholic Patriarchs and Bishops of Lebanon concluded its 59th ordinary session at Bkerki on 13 November. The meeting was chaired by Maronite Patriarch Cardinal Beshara al-Rahi and included the Syriac Catholic, Melkite Greek Catholic and Armenian Catholic patriarchs, among other bishops and religious superiors. The official Bkerki site confirms the session dates, theme and daily proceedings through 12 November.
+
+**PARTSUPPGIFT / OBEROENDE RAPPORTERING:** On 13 November, the Council's Secretary-General, Fr Jean Younes, read the final communiqué, according to LBC, MTV Lebanon and Al-Nashra. The statement supports negotiations to end the war, calls for respect for Lebanon's sovereignty and for the country to be kept out of regional conflicts, and stresses national interest, peace and citizenship. These outlets reproduce the same communiqué; they are not independent field verification of the security situation. At the time of this update, a separate full-text page for the 13 November final communiqué had not yet appeared on Bkerki's public news index. Bkerki's 7 November preparatory statement and the 9–12 November session notices remain the directly accessible ecclesiastical primary record.
+
+**Relevance to this article:** The communiqué is evidence of the Catholic hierarchy's public political position as UNIFIL's planned end-of-year transition approaches. It is not evidence that a ceasefire, successor monitoring arrangement or security guarantee for southern villages has been agreed. The article must continue to separate church advocacy, the UN's documented observations, and village-specific evidence of displacement or damage.
+
+**Sources:**  
+- Bkerki, official session notices and 7 November preparatory statement: https://bkerki.org/  
+- LBC, 13 November 2026: https://www.lbcgroup.tv/news/lebanon/967804/  
+- MTV Lebanon, 13 November 2026: https://www.mtv.com.lb/news/1757989  
+- Vatican News, opening of the 59th session, 9 November 2026: https://www.vaticannews.va/ar/church/news/2026-11/dichiarazione-di-apertura-della-59-sessione-ordinaria-del-cons.html
+
+**Status:** Draft remains unapproved, unmerged and unpublished.
+
+
+## Källuppdatering 13 november 2026 – president Aoun tar upp övergången efter UNIFIL
+
+**Händelsedatum:** 13 november 2026. **Publiceringsdatum:** 13 november 2026.
+
+**PRIMÄRKÄLLA:** Libanons presidentkansli publicerade den 13 november en redogörelse för president Joseph Aouns möte med Imran Riza, FN:s biträdande särskilda samordnare för Libanon och humanitära samordnare. De diskuterade läget i Libanon och särskilt södern, fortsatta israeliska angrepp och statens diplomatiska kontakter för att få ett slut på dem. Kansliet anger uttryckligen att de också diskuterade pågående samråd för att undvika ett säkerhetsvakuum efter att UNIFIL:s operativa mandat upphör.
+
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende publicerad redogörelse för just detta möte identifierades i den här kontrollen. UNIFIL:s egna rapporter från 11 november beskriver fortsatt instabilitet och att en patrull nära Wadi Jilu besköts; det är en separat primär uppgift och bekräftar inte mötets innehåll.
+
+**Rättslig tidslinje:** Säkerhetsrådets resolution 2790 (28 augusti 2025) förlänger UNIFIL:s mandat till och med 31 december 2026. UNIFIL ska därefter upphöra med ordinarie verksamhet och inleda en ordnad neddragning och återtagning av personal inom ett år. Det betyder inte att samtliga fredsbevarare lämnar landet den 31 december 2026.
+
+**Vad som är nytt:** Frågan om övergången efter UNIFIL har nu en direkt, daterad presidentiell mötesnotering från 13 november. Den bekräftar att konsultationer pågår, men inte att en efterträdande styrka, ny FN-mekanism eller bindande säkerhetsgaranti har beslutats.
+
+**Öppna frågor:** Vilka alternativ har FN:s generalsekreterare lagt fram efter den tidsfrist som resolution 2790 satte till 1 juni 2026? Vilken roll och finansiering kan den libanesiska armén realistiskt bära? Finns det ett konkret förslag om internationell övervakning eller tillfällig styrka, med vilken rättslig grund och vilka befogenheter? Vilka arrangemang säkrar humanitär tillgång och kontakt för gränsbyar? Det finns ännu inget underlag här för att dra slutsatser om specifika kristna byar, kyrkor eller konfessionell fördelning.
+
+**Artikelvinkel:** *När UNIFIL:s mandat närmar sig slutet: presidenten söker en lösning på säkerhetsvakuumet – men ingen efterträdare är ännu beslutad.*
+
+**Källor:**
+- Libanons presidentkansli, 13 november 2026: https://www.presidency.gov.lb/media/news/1684
+- FN:s säkerhetsråds resolution 2790 (2025), 28 augusti 2025: https://unifil.unmissions.org/en/news/security-council-extends-unifils-mandate-resolution-2790-2025
+- UNIFIL/UN Peacekeeping, 11 november 2026: https://peacekeeping.un.org/en/news/lebanon-after-48-years-patrolling-the-blue-line-un-peacekeepers-prepare-exit
+
+**Status:** Draft remains unapproved, unmerged and unpublished.
