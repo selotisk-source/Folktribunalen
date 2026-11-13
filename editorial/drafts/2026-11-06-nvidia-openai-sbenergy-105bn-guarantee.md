@@ -867,3 +867,11 @@ Källor:
 **Källstatus:** SEC-rapporten är primärkälla för samtliga detaljer ovan. Reuters har oberoende rapporterat om kvartalsresultatet, men ingen oberoende källa har i denna kontroll bekräftat alla leasing- och internkontrollnoter separat.
 
 Källa: [CoreWeave Form 10-Q, 30 september 2026](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm)
+
+
+
+### Korskoppling: NVIDIA är även aktieägare i Nebius
+
+**OBEROENDE BEKRÄFTELSE, Reuters 11 mars 2026:** NVIDIA investerade **2 miljarder USD** i Nebius och köpte aktier till 94,94 USD styck, motsvarande cirka **8,3 procents ägarandel** enligt Reuters. Det är en dokumenterad ägarkoppling mellan GPU-leverantören och AI-molnleverantören. Den ska däremot inte beskrivas som en garanti för Nebius skulder, leasing eller 2027 års capex. Ingen sådan garanti har identifierats i de källor som granskats.
+
+Källa: [Reuters – Nvidia to invest $2 billion in neocloud Nebius, 11 March 2026](https://www.reuters.com/technology/nvidia-invest-2-billion-ai-cloud-firm-nebius-2026-03-11/)
