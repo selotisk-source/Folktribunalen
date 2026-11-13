@@ -490,3 +490,12 @@ Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankri
 **PRIMÄRKÄLLA – Europeiska kommissionen:** Konsultationen om gemensamt märkningssystem och minimiprestandakrav för datacenter är öppen till den 14 december 2026. Kommissionens aviserade lagstiftningsförslag är planerat till andra kvartalet 2027.
 
 **Källor:** EuroHPC, https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en ; Europeiska kommissionen, https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en .
+
+
+### Skellefteå – kommunens aktuella statusbesked, 13 november 2026
+
+**PRIMÄRKÄLLA – Skellefteå kommun:** Kommunens FAQ anger att EdgeConnex förvärvade delar av Bergsbyns industriområde efter konkursen och planerar AI-datacenter på ytor som ingick i Northvolts expansionsplaner. Kommunen beskriver projektet som ett tidigt skede som kommer att ta flera år att utveckla. Kommunen bedömer att dagens diskuterade energibehov redan fanns med i planeringen för batterifabriken och att det därför inte ska ge någon betydande påverkan på elpriserna under normala förhållanden. Det är kommunens bedömning – inte en offentlig nätanslutningsgaranti eller oberoende verifiering av effekt, topplast, vattenbehov eller reservkraft. Ingen slutlig driftsatt kapacitet eller byggstart anges.
+
+**Öppna kontrollpunkter:** begär ut detaljplan, bygglov, nätanslutningsbesked från nätägaren, effektprofil, vatten-/kylsystem, reservkraft och villkor för spillvärme innan projektet beskrivs som säkrat eller färdigfinansierat.
+
+**Källa:** Skellefteå kommun, Frågor och svar om Bergsbyns industriområde, https://skelleftea.se/extraordinara-handelser/bergsbyns-industriomrade/utvecklingen-pa-bergsbyns-industriomrade-i-skelleftea/fragor-och-svar .
