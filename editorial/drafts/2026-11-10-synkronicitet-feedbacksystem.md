@@ -171,3 +171,15 @@ Artikeln är en review/teoretisk syntes. Författarna föreslår att purpose, sy
 **Källkritisk avgränsning:** Artikeln definierar synkronicitet som den subjektiva upplevelsen av en meningsfull sammanträffandehändelse som saknar kausal förklaring. Den visar inte att externa händelser står i en objektiv acausal relation, och den redovisar inte ett experiment som bevisar att en persons tanke orsakar eller förutsäger en yttre händelse. Prediktionerna är forskningsförslag som behöver operativiseras, förregistreras och prövas oberoende.
 
 **Status på tidigare öppen fråga:** fulltexten är hämtad och den teoretiska argumentationen kan nu granskas direkt. Oberoende empirisk replikation av just modellens synkronicitetsprediktioner har inte identifierats i denna kontroll.
+
+## Forskningsnotering 13 november 2026 – fysiologisk synkronisering är inte acausal synkronicitet
+
+**PRIMÄRPUBLIKATION:** Yubraj Gupta m.fl., “A Dynamic State-Based Framework for Quantifying Triadic Autonomic Synchrony During Group Decision-Making”, *Psychophysiology* 63(10), e70427, oktober 2026, DOI 10.1111/psyp.70427. PubMed publicerar metadata och abstrakt: https://pubmed.ncbi.nlm.nih.gov/42885436/
+
+Studien analyserar 12 triader (36 deltagare) under en laboratorieuppgift för gruppbeslut, med elektrodermal aktivitet (EDA) och hjärtfrekvensvariabilitet (HRV). Författarna delar tidsserierna i överlappande 60-sekundersfönster, klassificerar fem tillstånd av fysiologisk samordning och jämför observerade mönster med surrogate data. I det lilla urvalet översteg vissa mått på samordning surrogatnivåerna.
+
+**Vad studien kan bidra med:** ett möjligt metodiskt jämförelseunderlag för att mäta tidsvarierande fysiologisk samordning och skilja observerad koordinering från slumpmässig signalöverlappning.
+
+**Vad den inte visar:** studien prövar inte meningsfulla yttre sammanträffanden, förutsägelse av framtida händelser eller acausalitet. Interpersonell autonom synkronisering under en gemensam uppgift är en annan företeelse än Jungs starkare begrepp om meningsfulla sammanträffanden utan påvisad kausal länk. Urvalet är litet och uppgiften laboratoriebunden; oberoende replikation behöver följas.
+
+**Klassning:** PRIMÄRPUBLIKATION för den rapporterade metoden och resultaten; HYPOTES om eventuell användning som metodkomponent i protokollet; inget belägg för acausal synkronicitet.
