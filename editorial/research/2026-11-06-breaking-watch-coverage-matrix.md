@@ -1422,3 +1422,32 @@ Denna cykel har åter screenat samtliga A–S. Ett nytt råvaru-/institutionellt
 **Övriga spår:** A, B, C, D, G, H, I, J, K, L, M, N, O, Q, R och S har screenats. Nscale/SEC S-1/A, Synkronicitetsreviewn, Cladonia/P4-mötet, Hormuz/UKMTO och tidigare CRMA-/Onkalo-underlag är redan införda i befintliga utkast eller tidigare journalposter; de har inte återpublicerats som nya. Ingen ny direkt lagfart för Cladonia, ingen ny Sofia-arkeologisk primärhandling och ingen ny bekräftad Hormuzincident identifierades i denna cykel.
 
 **Arbetsflöde:** PR #65 skapad som DRAFT. PR #47 uppdaterad. Ingen merge, ingen LIVE-publicering. CMS-databasens senast dokumenterade hinder är tom IP-allowlist för Render Postgres; ingen databasoperation utfördes.
+
+
+## Addendum – 13 november 2026, 21:43 EET
+
+| Spår | Kontrollresultat | Källstatus | Nästa kontroll |
+|---|---|---|---|
+| A | Ingen ny Palantir-myndighetsorder eller driftsättningshandling. Le Monde 12 nov återger svensk debatt om Palantir och Cladonia, men tillför ingen ny kontraktshandling. | PRIMÄRKÄLLOR i PR #55/#42; Le Monde OBEROENDE rapportering. | Exekverade DPA/DPIA, upphandling, revision, åtkomstloggar. |
+| B | Ingen ny EuroHPC-tilldelning, platsvis nätanslutning eller driftsatt kapacitet. | EuroHPC/Statnett primärkällor i befintliga utkast. | Faktisk nätkapacitet, elavtal, bygglov och IT-last. |
+| C | Ny PubMed-post om fysiologisk synkronisering i 12 triader/36 personer. Den mäter EDA/HRV under gruppuppgift, inte meningsfulla yttre sammanträffanden. PR #38 uppdaterad. | PRIMÄRPUBLIKATION; ej belägg för acausalitet. | Oberoende replikation och metodjämförelse mot protokollets preregistrerade mått. |
+| D | Ingen ny NAIM-/Sofia-kommun-/museiakt. | Kontrollnotering. | Arkeologiska rapporter, proveniens och byggnadsfaser. |
+| E | PR #65:s SEC-kedja återkontrollerad. 32 MUSD Cove Kaz är ett kapitalåtagande vars stängning inte belagts; SuperCritical-term sheetet är uttryckligen icke-bindande. DFC/EXIM-uppgiften kommer från Reuters, inte ett direkt hämtat myndighetsavslut. | SEC PRIMÄRKÄLLA; Reuters OBEROENDE rapportering; Cove-uttalanden PARTSUPPGIFT. | Stängningsbevis, DFC-/EXIM-akter, kazakstanska tillstånd och PEA. |
+| F | SEC 8-K 12 nov bekräftar Huangs avgång med verkan 11 nov, Kress interim-vd och Harvey Jones styrelseordförande. Singapore MHA 12 nov säger att Alice Huang inte utreddes för spioneri i Singapore; Megaspeed-utredningen fortsätter. | SEC och MHA PRIMÄRKÄLLOR; Reuters OBEROENDE. | Styrelseutredning, DOJ/FBI-besked och NVIDIA Q3 17 nov. |
+| G | Aoun–Riza-mötet 13 nov finns redan i PR #22; ingen ny oberoende kyrkospecifik utveckling. | Presidentkansliet PRIMÄRKÄLLA; mötet inte separat oberoende rapporterat. | UNIFIL-efterföljare, LAF och civila återvändanden. |
+| H | Ingen ny restaurerings-/ägandeakt i Wiesbaden, Warszawa, Prag, Sofia eller Varna. | Kontrollnotering. | Kyrko- och kommunarkiv per stad. |
+| I | Ingen ny primär skogs-/renskötsel-/hästkulturhandling. | Kontrollnotering; SOU 2026:58 redan i PR #61. | Remissvar, markanvändning och avverkningsanmälningar. |
+| J | Ingen ny daterad observation eller fullständig ny Thiel-primärutsaga. | Kontrollnotering. | Folkloristiska originalvittnesmål, runologi och intervjutranskript. |
+| K | Le Monde 12 nov återger 15 000 ha/235 MSEK och separat 300 ha, med hänvisning till svenska lokalkällor. Ingen ny lagfart eller fastighetslista. | OBEROENDE sekundär rapportering; Lantmäteriets primärutdrag saknas. | Lagfart, köpehandlingar, servitut och jakträttsavtal. |
+| L | Ingen ny RAÄ-/länsstyrelse-/kyrkoarkivhandling om Skaga kapell. | Kontrollnotering. | Byggnadsarkeologi, restaurering, brand och inventarier. |
+| M | Ingen ny offentlig Athos-katalogpost eller verifierad donation. | Kontrollnotering. | Proveniens och klosterkataloger. |
+| N | HMICFRS/RFR-spåret från 12 nov finns redan i PR #57; ingen ny bindande lag eller dom. Originalrapporten är ännu inte hämtad direkt. | Sekundär rapportering tills HMICFRS-originalet hämtas. | Originalrapport, upphandling, rättsmedel och användningsloggar. |
+| O | Reuters 13 nov rapporterar Tuba–Baniyas-rutten 120–150 kb/d från 26 okt; kontraktsdokument återgivet av Reuters. Separat IRGC-påstående om LNG-tanker/mina saknar fartygsidentitet och specifik UKMTO/IMO-bekräftelse. | Reuters OBEROENDE rapportering med BOC-uttalanden och dokumentgranskning; IRGC-uppgiften PARTSUPPGIFT/OBEKRÄFTAD. IMO:s 130+ attacker är ett aggregerat mått. | UKMTO/JMIC, AIS/IMO, skaderapport, miljödata och transport-/hamnkapacitet. |
+| P | House-brev begär Huang 1 dec och Teter 2 dec; Kessler 3 dec. Deadline 14 nov 03:00 EET hade inte passerat. Senate-datumen 3/10 dec är Reuters/Bloomberg-rapporterade; originalbrev ej direkt hämtade. | House PRIMÄRKÄLLA; Senate OBEROENDE rapportering. | Kontrollera svar/subpoena efter 03:00 EET 14 nov. |
+| Q | Ingen ny Gripen-order, leverans eller offentlig operativ förändring. | Kontrollnotering mot Saab/FMV/NATO-källor i PR #12. | FMV:s leverans-/certifieringsdokument och exportbeslut. |
+| R | Ingen ny energi-/batteri-/SMR-tillstånds- eller finansieringsstängning. | Kontrollnotering mot Statnett, EdgeConneX, Siemens Energy och projektunderlag. | Nätavtal, faktiska utbetalningar, byggstart och kommersiell produktion. |
+| S | CRMA-lagar 1027/2026 och 1028/2026 träder i kraft 15 nov; ingen ny STUK-/Posiva-driftsättningshandling. | Finlex/Valtioneuvosto/Posiva PRIMÄRKÄLLOR sedan tidigare. | Ikraftträdande 15 nov, CRMA art. 27-frist 24 nov, STUK-inspektion. |
+
+**Tidskritiska kontrollpunkter:** House-svar/subpoena 14 nov 03:00 EET; finska CRMA-lagar 15 nov; NVIDIA Q3 17 nov; CRMA art. 27.3 den 24 nov; House 1–3 dec; Senate-begäranden 3 och 10 dec.
+
+**Arbetsflöde:** PR #38 uppdaterad med metodnotering. PR #65, #47, #53 och #32 förblir i befintliga granskningslägen. Ingen merge eller LIVE-publicering i denna kontroll.
