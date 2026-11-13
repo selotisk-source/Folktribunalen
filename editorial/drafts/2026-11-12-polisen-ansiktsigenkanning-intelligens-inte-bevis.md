@@ -90,3 +90,33 @@ HMICFRS:s officiella konto meddelade 12 november att den nya granskningen av **r
 **Källstatus:** HMICFRS:s publiceringsnotis är primär för att rapporten publicerats och omfattar 16 rekommendationer. Police Professional och Guardian är sekundära för rapportens sakliga slutsatser. Det fullständiga originalet måste hämtas innan vi citerar exakta rekommendationstexter eller använder detaljerade kvantitativa påståenden.
 
 **Öppna frågor:** vilken nationell standard föreslås, vilka rekommendationer kräver lagstiftning respektive operativ vägledning, vilka myndigheter ansvarar för custody-image retention, och hur ska en matchning dokumenteras som underrättelse snarare än bevis? Begär kommentar från HMICFRS, Home Office, NPCC och berörda polisstyrkor.
+
+## Primär källuppdatering 13 november 2026 – Home Office-undersökning av polisens användning
+
+Home Office publicerade den 12 november 2026 en officiell undersökning av användarnas kunskap, erfarenhet och uppfattningar om retrospektiv ansiktsigenkänning i Police National Database (PND).
+
+### Omfattning och resultat
+
+- Undersökningsperiod för användarpopulationen: februari 2025–januari 2026.
+- 6 012 identifierade användare i 45 styrkor och organisationer (43 territoriella polisstyrkor, British Transport Police och National Crime Agency).
+- Dessa användare genomförde tillsammans över 300 000 ansiktssökningar.
+- 779 giltiga enkätsvar, motsvarande 13 procent av den identifierade användarpopulationen. 267 svar kom från frekventa användare (36 procents svarsfrekvens) och 512 från mindre frekventa användare (10 procent).
+
+**Bevisvärde:** 34 procent av respondenterna trodde felaktigt eller var osäkra på om en PND-matchning uppfyller beviskraven för igenkänning enligt PACE Code D. 66 procent visste korrekt att en matchning inte når den beviströskeln. Cirka 7 procent trodde felaktigt eller var osäkra på om en matchning definitivt bekräftar identitet; 93 procent förstod att den inte gör det.
+
+**Utbildning:** 69 procent mindes utbildning när de först fick licens. 65 procent mindes inte någon utbildning under det senaste året; 51 procent uppgav att den senaste utbildningen låg mer än ett år tillbaka och 14 procent mindes ingen utbildning alls.
+
+**Upplevd noggrannhet och bias:** 51 procent uppfattade systemet som mestadels eller mycket träffsäkert. I den detaljerade frågan om demografisk variation svarade 53 procent att prestandan skiljer sig åt mellan grupper i åtminstone viss grad; ytterligare 11 procent svarade att den skiljer sig lite. Detta är användarnas uppfattningar, inte en teknisk mätning av algoritmens felkvot.
+
+**Positiv användarupplevelse:** 79 procent beskrev sin erfarenhet som bra eller mycket bra, 88 procent ansåg att sökningarna förbättrar utredningarnas effektivitet och 82 procent att de förbättrar den sannolika framgången. Även dessa är självrapporterade uppfattningar.
+
+### Vad undersökningen inte mäter
+
+Rapporten är inte ett oberoende algoritmtest och fastställer inte falsk-positiv-frekvens, falsk-negativ-frekvens eller faktisk diskriminerande effekt. Den mäter användarnas kunskap och uppfattningar. Den ska inte blandas ihop med HMICFRS:s separata inspektion av polisens operativa rutiner.
+
+Den fullständiga HMICFRS-rapporten har inte hämtats direkt i denna kontroll. Eventuella uppgifter om antal rekommendationer, gallringsbrister eller specifika felaktiga utredningsåtgärder måste fortsatt tillskrivas den rapporteringen tills originalrapporten finns tillgänglig.
+
+**PRIMÄRKÄLLA:** [Home Office – Police user insights on retrospective facial recognition (2026), publicerad 12 november 2026](https://www.gov.uk/government/publications/police-user-insights-on-retrospective-facial-recognition-2026/police-user-insights-on-retrospective-facial-recognition-2026)
+
+**OBEROENDE BEKRÄFTELSE:** Home Office-siffrorna har återgetts i separat rapportering, men den centrala statistiken ovan är hämtad direkt från myndighetens rapport.  
+**Faktastatus:** PRIMÄRKÄLLA för enkätresultaten; PARTSUPPGIFT/ANVÄNDARUPPFATTNING för upplevd precision och nytta; HYPOTES om att bristande förståelse leder till felaktiga beslut i enskilda ärenden; inget sådant orsakssamband fastställs av enkäten.
