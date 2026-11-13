@@ -110,3 +110,48 @@ Det är ännu oklart om korrespondensen ledde till en formell begäran, en ändr
 ## Publiceringsvillkor
 
 Före publicering ska originalhandlingarna bakom Guardian-granskningen begäras ut och läsas i sin helhet. NHS England och DHSC ska ges möjlighet att svara på frågorna om datakatalog, lokal/nationell instans, rättslig grund och avtalsändring. Artikeln får inte påstå att GP-journaler redan har överförts till Palantir eller FDP utan konkret dokumentation.
+
+
+## Primärkällor tillagda 13 november 2026 – lokal GP-pilot i Cheshire & Merseyside
+
+**Händelsedatum:** Den offentliga dataöverenskommelsen anger att FDP-pilotdelen uppdaterades i juli 2026.  
+**Oberoende rapportering:** Financial Times rapporterade den 13 september 2026 att patientdata från fem GP-praktiker hade lagts till i en lokal version av FDP.  
+**Ny primärkälla:** NHS Cheshire and Merseyside publicerar nu en 37-sidig Tier Two Data Sharing Agreement (DSA), med titeln *FDP Pilot with GP Practices in Cheshire & Merseyside*.
+
+### Vad primärhandlingarna faktiskt visar
+
+1. **DSA, uppdaterad juli 2026 för FDP-piloten.** Cheshire & Merseyside ICB anges som avtalets ägare. GP-praktiker, ICB, NHS-trustar och lokala myndigheter anges som personuppgiftsansvariga/uppgiftslämnande organisationer. Annex A anger att ICB är inkubatorplats för FDP Population Health Strategic Commissioning Tool och personuppgiftsansvarig för en FDP-tenant med Local Analytical Hub (LAH). Piloten ska genomföras med GP-praktiker i Cheshire & Merseyside.
+2. **Datakategorier.** DSA-Annexet anger bland annat aktivitetsdata (bokningar och remisser), diagnoser, livsstilsuppgifter, riskscore (exempelvis QRISK), observationer (exempelvis BMI) och läkemedel. De mer detaljerade bilagorna omfattar bland annat allergier, GP-läkemedel och problem-/diagnosuppgifter.
+3. **Processorrollerna är lagerindelade.** DSA:ns huvuddel för CIPHA Population Health listar Graphnet/System C, Arden and Greater East Midlands Commissioning Support Unit (AGEMCSU) och Midlands and Lancashire CSU som dataprocessorer. Den separata LAH-produktens integritetsnotis, senast uppdaterad 28 maj 2025, anger däremot uttryckligen Palantir Technologies UK Ltd som plattformsprocessor på ICB:s instruktioner och AGEMCSU som processor för lokala dataflöden. Detta är inte i sig en motsägelse: handlingarna beskriver olika lager/produkter och måste kopplas samman med den specifika DPA:n och dataflödeskartan.
+4. **DPIA:n.** Den publicerade DPIA:n för CIPHA Population Health anger att personuppgifter kan flöda in identifierbart till Graphnet-miljön, att uppgifter pseudonymiseras för sekundär användning och att identifierbara uppgifter endast görs tillgängliga för direkt vård med rollbaserade åtkomstkontroller. DPIA:n anger Graphnet/System C, AGEMCSU och MLCSU som processorer för den beskrivna CIPHA-behandlingen.
+5. **Produktintegritetsnotiserna.** LAH-notisen säger att de-identifierade uppgifter används i analysen, att ICB är personuppgiftsansvarig och att Palantir är processor på ICB:s instruktioner. En separat Strategic Commissioning Tool-notis, senast uppdaterad 6 februari 2025, anger Palantir som processor på uppdrag av NHS England/ICB och Accenture som stödjande processor. Den notisen säger också att personuppgifter inte delas med någon annan organisation inom just den beskrivna produkten. Den måste hållas isär från LAH-notisen tills NHS har bekräftat exakt vilken notis och DPA som gäller för varje dataflöde.
+
+### Viktiga begränsningar
+
+- FT:s uppgift om **fem** praktiker har inte återfunnits som antal i den offentliga DSA:n. Primärhandlingarna bekräftar en pilot med GP-praktiker, men inte det exakta antalet.
+- Den offentliga DSA-kopian anger att varje part ska underteckna, men den publicerade signatursidan har tomma partnerfält. Den visar därför avtalets utformning och pilotens avsedda ram, men den publicerade kopian ensam bevisar inte vilka parter som faktiskt har signerat.
+- Dokumenten visar inte att GP-data har lagts in i den **nationella** FDP-instansen. NHS Englands uttryckliga nationella avgränsning från 2023 kvarstår. Lokala instanser kan däremot använda GP-data med lokala dataöverenskommelser.
+- Materialet bevisar inte att Palantir-personal har haft åtkomst till identifierbara GP-journaler i just denna pilot. Det visar att Palantir är namngiven plattformsprocessor i LAH-notisen; den faktiska åtkomstnivån, behandlingskedjan och tekniska behörigheten måste styrkas med DPA, specifika behandlingsinstruktioner och åtkomstloggar.
+
+### Redaktionell konsekvens
+
+Den centrala frågan i Guardian-granskningen behöver nu preciseras. Eftersom lokala FDP-instanser redan kunde använda GP-data genom lokala avtal, behöver vi fastställa om Palantirs lobbyförslag i februari 2026 avsåg att:
+- ändra den nationella plattformens avgränsning,
+- skala upp lokala GP-dataflöden och LAH/SCT-piloter,
+- eller göra båda.
+
+Det är inte belagt att lobbykontakten orsakade Cheshire & Merseyside-piloten. Den publicerade DSA:n och DPIA:n ger en separat lokal dokumentkedja.
+
+**Nästa primärhandlingar att begära:** signerad DSA-version; fullständig lokal DPIA för FDP LAH; DPA och Annex II med specifika behandlingsinstruktioner; dataflödeskarta mellan GP-system, Graphnet/AGEMCSU och FDP/LAH; förteckning över deltagande praktiker; beslut om rättslig grund och Section 251; samt leverantörsroller, åtkomstloggar och revisionsprotokoll.
+
+**Källor:**
+- [NHS Cheshire and Merseyside – publicerade FDP-privacy notices och DSA](https://www.cheshireandmerseyside.nhs.uk/about/how-we-work/privacy-notices-digital-and-data-programmes/nhs-federated-data-platform/)
+- [Tier Two DSA – FDP Pilot with GP Practices, uppdaterad juli 2026](https://www.cheshireandmerseyside.nhs.uk/media/10mh4qyg/ics-tier-two-dsa-population-health-october-2025-fdp-annex-v20-shared.pdf)
+- [CIPHA Population Health DPIA](https://www.cheshireandmerseyside.nhs.uk/media/wgsec1nm/dpia-population-health-october-2025-fdp-v11-nhs-cheshire-and-merseyside.pdf)
+- [Local Analytical Hub privacy notice, 28 maj 2025](https://www.cheshireandmerseyside.nhs.uk/media/zlkftf3g/lah-fdp-privacy-notice-v10.pdf)
+- [Strategic Commissioning Tool privacy notice, 6 februari 2025](https://www.cheshireandmerseyside.nhs.uk/media/bbfmovrx/strategic-commissioning-privacy-notice-cm-icb.pdf)
+- [NHS England – Check and Challenge Group minutes, 15 december 2023](https://www.england.nhs.uk/long-read/fdp-check-and-challenge-group-minutes-15-december-2023/)
+- [FT, 13 september 2026 – GP data quietly added to Palantir's NHS data platform](https://www.ft.com/content/5d15de64-49cc-4b6a-a2ea-51061f1cddc7)
+- [National Data Guardian – advice on trust, vendor lock-in and data sovereignty, 12 oktober 2026](https://www.gov.uk/government/publications/ndg-advises-minister-on-public-and-professional-trust-in-the-fdp)
+
+**Faktastatus:** PRIMÄRKÄLLA = DSA, DPIA och privacy notices; OBEROENDE BEKRÄFTELSE = FT:s uppgift om fem praktiker; HYPOTES = att lobbyförslaget och den lokala piloten har ett orsakssamband; OBEKRÄFTAD = att GP-data har lagts in i den nationella FDP-instansen eller att Palantir haft åtkomst till identifierbara GP-journaler i den lokala piloten.
