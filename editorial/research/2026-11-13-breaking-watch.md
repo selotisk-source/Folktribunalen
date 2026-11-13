@@ -383,3 +383,12 @@ Ingen databasändring eller publicering har genomförts. GitHub-granskningsutkas
 ### Korrigering/fördjupning – MHA bekräftar begränsat amerikanskt bistånd
 
 MHA:s primärbesked 12 november säger att SPF och Attorney-General’s Chambers begärde amerikansk hjälp att få Supermicro att samarbeta vid möte 7 juli 2025. SPF upprepade begäran till DOJ och FBI flera gånger från september 2025 och Singapore uppger att man trots detta fått begränsad information eller hjälp. Den ursprungliga Singaporeutredningen startade självständigt i februari 2025; BIS:s frivilliga verifiering 24 juni 2025 var första gången Singapore blev medvetet om USA:s intresse. Detta skiljer den självständiga utredningen från senare begäranden om utländskt samarbete. Detta skiljer den självständiga inhemska utredningen från senare begäranden om utländskt samarbete och gör Washington Posts rapport om begränsat stöd förenlig med MHA:s egen redogörelse.
+
+
+### O – ny miljödimension: Greenpeace/Kpler och vetenskaplig riskmodell
+
+Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga slick-detektioner sedan 28 februari; Arab News anger 540. The Guardian anger cirka 20 000 km² som kumulativ summa av dagliga kartlagda fotavtryck. Det är inte 500/540 markverifierade utsläpp och inte 20 000 km² unik yta eller oljevolym. Den råa detektionsfilen har inte reproducerats i denna kontroll.
+
+**PRIMÄRKÄLLA – Ramnauth et al., Earth's Future, först publicerad 8 november 2026:** bakåtriktade spridningssimuleringar för 2016–2022 och sjötrafikdata visar att cirka 19 procent av Persiska vikens yta ligger i en högriskzon där olja kan nå viktig vatten- eller energiinfrastruktur på mindre än tre dygn. Modellen är en regional sårbarhetsanalys, inte en rekonstruktion av 2026 års enskilda utsläpp. Data/kod finns på Zenodo.
+
+**Kuststatus:** Ras Al Khaimah och Sharjah har återöppnat flera stränder; Umm Al Quwain var fortsatt stängt enligt The National 12 november. Al Luluyah i Khor Fakkan stängdes 9 november efter en separat oljefläck med okänd orsak. Reuters rapporterade inga avsaltningsstopp till följd av det aktuella utsläppet.
