@@ -544,3 +544,12 @@ Källor:
 
 
 **Utkaststatus:** fortsatt DRAFT; ingen merge eller publicering.
+
+
+### 13 november 2026 – Bessent gör exportkontrollkonflikten offentlig
+
+**OBEROENDE BEKRÄFTELSE AV ETT OFFENTLIGT UTTALANDE:** Reuters rapporterar den 13 november att finansminister Scott Bessent i en CNBC-intervju sade att Treasury, Pentagon, State Department och USTR i månader hade förespråkat att Megaspeed skulle föras upp på Commerce/BIS Entity List, men att Commerce har beslutanderollen. Bessent sade också att OFAC inte beslutar om exportlistan och att BIS/Commerce har verktygen. Detta är Bessents offentliga redogörelse – inte ett gemensamt interdepartementalt beslut eller ett publicerat ärendeprotokoll.
+
+**MOTUPPGIFT / OSÄKERHET:** Commerce har tidigare bestridit delar av den rapporterade Situation Room-konfrontationen mellan Bessent och Lutnick. Ingen offentlig Federal Register-notis, BIS-order eller Entity List-post för Megaspeed har identifierats. Att bolaget inte finns på den offentliga listan visar inte att inga andra tillsynsåtgärder pågår, men det innebär att en offentlig listningsåtgärd ännu inte kan beläggas.
+
+**Källor:** Reuters, 13 nov, https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/ ; Senate/House publicerade brev och Singapore MHA:s primäruttalande finns i källförteckningen ovan.
