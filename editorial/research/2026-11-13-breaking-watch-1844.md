@@ -145,3 +145,12 @@ Bankfinansiering: Nscale beskriver cirka 2,35 md USD i delayed-draw-faciliteter 
 **Betydelse:** TCV, framtida kundbetalningar, bindande bankåtaganden, faktisk drawdown, kundförskott, GPU-inköp och driftsatt effekt är olika mått. Det stora Anthropic-kontraktsvärdet är inte samma sak som finansiering som redan finns på plats. Nscale är en tydlig kopplingspunkt mellan europeisk AI-infrastruktur, NVIDIA:s leverantörs-/investerarroll och elnätskapacitet.
 
 Källa: SEC Form S-1/A, inlämnad 12 nov 2026: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm ; FT, 13 nov 2026 (extern rapportering, korskontroll av skuldsiffran).
+
+
+### R – Norrsundet: formellt samråd och kommunal dialog måste hållas isär, 13 november 2026, 18:55 EET
+
+**PRIMÄRKÄLLA – Länsstyrelsen Gävleborg:** 13 november är sista dagen för synpunkter på förslag till anläggningsplan och miljökonsekvensbeskrivning. Vid kontrolltidpunkten är detta dagens deadline; någon publicerad sammanställning av inkomna synpunkter har inte identifierats. Länsstyrelsen anger fortsatt att någon antagen anläggningsplan inte finns.
+
+**PRIMÄRKÄLLA – Gävle kommun:** kommunen håller separata medborgardialoger 20 november kl. 10–12 och 16–18 samt en enkät. Kommunen säger uttryckligen att dialogen och enkäten inte ingår i Länsstyrelsens formella samråd och inte är en omröstning; svar i kommunens enkät räknas inte som formella yttranden i statens samråd. Nästa kontrollpunkt är Länsstyrelsens sammanställning, kommunens dialograpport och förslaget till anläggningsplan som ska lämnas till regeringen senast 31 december 2026.
+
+Källor: https://www.lansstyrelsen.se/gavleborg/om-oss/nyheter-och-press/nyheter/nyheter---gavleborg/2026-10-13-lansstyrelsen-bjuder-in-till-samrad-om-ny-karnkraft-i-norrsundet.html ; https://www.gavle.se/evenemang/medborgardialog-smaskalig-karnkraft-2/ ; https://www.regeringen.se/pressmeddelanden/2026/05/uppdrag-om-anlaggningsplan-for-ny-karnkraft/ .
