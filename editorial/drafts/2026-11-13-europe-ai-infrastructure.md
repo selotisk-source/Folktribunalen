@@ -444,6 +444,26 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 - **STATNETT-UPPGIFT:** NO3:s 2 800 MW mogna projekt och 3 800 MW omogna förfrågningar gäller all ny förbrukning, inte enbart datacenter. Statnetts begäran till RME om att stänga avvikelsepunkter är inte ett RME-beslut.
 
 
+## Ny kontrollpunkt – datacenterkraftens fossila reservväg
+
+BloombergNEF publicerade den 11 november 2026 rapporten *Powering the Data Center Boom: How Grid Policy Can Deliver Clean Power Faster*, beställd av Bloomberg Philanthropies. Databasen har brytdatum 5 oktober 2026.
+
+BNEF har identifierat 181 GW annonserad gaseldad kapacitet föreslagen i anslutning till datacenter globalt. 165 GW ligger i USA; rapporten beskriver mindre koncentrationer bland annat i Kanada, Storbritannien och Irland. Omkring 84 GW i tidsfördelningen saknar angivet driftsättningsår. Detta är en annonserad projektpipeline med mycket varierande mognad – inte installerad effekt, inte ett tillståndsregister och inte en prognos för vad som faktiskt byggs.
+
+BNEF:s utsläppsscenario gäller USA: om alla identifierade amerikanska anläggningar byggs och körs vid en antagen kapacitetsfaktor på 60 procent uppskattas utsläppen till cirka 345 Mt CO2e per år, omkring 152 Mt mer än om motsvarande datacenterkapacitet försörjdes med genomsnittlig amerikansk nätel. Siffran får inte tillskrivas Europa. BNEF bedömer att den lägre marginalkostnaden efter byggstart kan göra att gasanläggningar fortsätter leverera efter att nätanslutning har erhållits; flera utvecklare beskriver gasen som en fem–sjuårig brygga, medan kraftverkens ekonomiska livslängd kan vara betydligt längre.
+
+Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankrike har identifierat sex snabbspårsområden med totalt 4,4 GW nätkapacitet; ett av områdena siktar på 700 MW till 2029. Storbritanniens då föreslagna reform innehåller finansiell säkerhet om £237 500–£712 500 per MW vid accepterat anslutningserbjudande och mognadsmilstolpar. Den brittiska modellen var ett förslag, inte en slutligt gällande regel. BNEF beskriver samtidigt Spaniens hållbarhetsbaserade kapacitetstilldelning och Tysklands mognadsbaserade köprocess.
+
+**OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 11 november om samma BNEF-underlag och om brittiska platsförslag vid Wapseys Wood och Quest Park. De lokala planerings- och miljöakterna för dessa gasanläggningar har inte hämtats i denna kontroll.
+
+**Redaktionell slutsats:** Den centrala europeiska frågan är inte att 181 GW gas redan byggs, utan vilka av de annonserade projekten som når mark, nät, miljötillstånd, turbiner och finansiering – och om ett utpekat reservkraftverk fortsätter att köras när nätanslutningen väl finns.
+
+**Källor:**
+- BNEF pressmeddelande: https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
+- BNEF fullrapport: https://assets.bbhub.io/professional/sites/44/BNEF-BP-Powering-the-Data-Center-Boom-How-Grid-Policy-Can-Deliver-Clean-Power-Faster.pdf
+- The Guardian: https://www.theguardian.com/world/2026/nov/11/ai-datacentres-plan-on-site-gas-fired-power-stations
+
+
 ## Öppna frågor före eventuell publicering
 
 1. Hämta den fullständiga Amsterdamakten, inklusive aktuell överklagandestatus för miljötillstånden, nätavtalets datum och villkor, faktisk effektprofil, vattenvillkor och reservkraft.
