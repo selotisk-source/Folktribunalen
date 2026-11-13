@@ -291,3 +291,22 @@ Dessa uppgifter visar att UNIFIL:s rörelsefrihet och säkerhetsmiljö förblir 
 Källor:
 - [UNIFIL – pressmeddelanden, inklusive uttalandet 10 november 2026 (arabiska)](https://unifil.unmissions.org/ar/press-releases)
 - [Anadolu Agency – UN peacekeepers report signs of sustained Israeli presence in south Lebanon, 10 November 2026](https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108)
+
+
+## Breaking Watch update – 13 November 2026: Catholic patriarchs' final communiqué
+
+**Händelseperiod:** 9–13 November 2026. **Publicering:** 13 November 2026.
+
+The Council of Catholic Patriarchs and Bishops of Lebanon concluded its 59th ordinary session at Bkerki on 13 November. The meeting was chaired by Maronite Patriarch Cardinal Beshara al-Rahi and included the Syriac Catholic, Melkite Greek Catholic and Armenian Catholic patriarchs, among other bishops and religious superiors. The official Bkerki site confirms the session dates, theme and daily proceedings through 12 November.
+
+**PARTSUPPGIFT / OBEROENDE RAPPORTERING:** On 13 November, the Council's Secretary-General, Fr Jean Younes, read the final communiqué, according to LBC, MTV Lebanon and Al-Nashra. The statement supports negotiations to end the war, calls for respect for Lebanon's sovereignty and for the country to be kept out of regional conflicts, and stresses national interest, peace and citizenship. These outlets reproduce the same communiqué; they are not independent field verification of the security situation. At the time of this update, a separate full-text page for the 13 November final communiqué had not yet appeared on Bkerki's public news index. Bkerki's 7 November preparatory statement and the 9–12 November session notices remain the directly accessible ecclesiastical primary record.
+
+**Relevance to this article:** The communiqué is evidence of the Catholic hierarchy's public political position as UNIFIL's planned end-of-year transition approaches. It is not evidence that a ceasefire, successor monitoring arrangement or security guarantee for southern villages has been agreed. The article must continue to separate church advocacy, the UN's documented observations, and village-specific evidence of displacement or damage.
+
+**Sources:**  
+- Bkerki, official session notices and 7 November preparatory statement: https://bkerki.org/  
+- LBC, 13 November 2026: https://www.lbcgroup.tv/news/lebanon/967804/  
+- MTV Lebanon, 13 November 2026: https://www.mtv.com.lb/news/1757989  
+- Vatican News, opening of the 59th session, 9 November 2026: https://www.vaticannews.va/ar/church/news/2026-11/dichiarazione-di-apertura-della-59-sessione-ordinaria-del-cons.html
+
+**Status:** Draft remains unapproved, unmerged and unpublished.
