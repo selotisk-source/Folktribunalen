@@ -1219,3 +1219,12 @@ Forskningsloggen för denna cykel finns i [2026-11-12-breaking-watch-2119.md](ed
 - **31 december 2026:** Länsstyrelsen Gävleborgs förslag till anläggningsplan för Norrsundet ska lämnas till regeringen.
 
 **Publiceringsstatus:** Samtliga berörda PR:ar är öppna DRAFT. Ingen merge, publicering eller LIVE-kontroll har utförts i denna cykel. Den etablerade artikelordningen Hormuz → Gripen över Polen → USA:s kongress → Palantir Q3 → AI-infrastrukturens kreditkedja är oförändrad; PR #59 ligger som senare R-spår och flyttar inte före prioriteringarna.
+
+
+## Breaking Watch – delta 13 november 2026, 07:07 EET
+
+**F/B – Nscale:** SEC S-1/A (12 nov) anger att bolaget behöver ytterligare finansiering för 2027 års prognostiserade åtaganden och att bindande finansiering för Anthropic Services Agreements saknades per prospektdatum. FT publicerade 13 nov en oberoende rapport om finansieringsbehovet. SEC:s preliminära balansräkning anger kassa 3,576 md USD och total skuld 5,516 md USD per 30 sep; uppskattad niomånaders nettoförlust 1,692 md USD. Anthropic-avtalen är upp till 44,6 md USD, villkorade av leverans och tillgänglighet. Monarch Building 1 väntas kräva 10–10,5 md USD datacenter/kraft plus 21–22 md USD GPU/compute. Se PR #14 och PR #64 för full källanalys. NVIDIA-delens teckningsstruktur har en intern avstämningsfråga: huvudtexten anger 3,36 md USD (2,36 md skuldebrev plus 1 md ytterligare NVIDIA-del), medan en not anger 3,1 md USD i konvertibla skuldebrev, varav 2 md USD med NVIDIA. Ingen summering görs innan detta förklarats.
+
+**Tidskritiska kontroller:** Norrsundets samråd sista dag 13 nov; House-kommittéernas svarstid 20:00 EST 13 nov = 03:00 EET 14 nov; NVIDIA-delen av Nscale-teckningen väntas enligt SEC omkring 16 nov; NVIDIA Q3 17 nov.
+
+**Övriga A–S:** inga nya materiella offentliga dokument identifierade i denna delta-screening för C, D, H, I, J, K, L, M och Q. A, E, G, N, O, P, R och S har kontrollnoteringar och öppna primärkällpunkter i den daterade journalen. B/F är uppdaterade.
