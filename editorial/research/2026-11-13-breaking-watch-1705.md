@@ -49,3 +49,10 @@ Denna kontroll har jämfört nya primärdokument med befintliga granskningsutkas
 ### Publicerings- och CMS-status
 
 Inga PR har mergats och inga artiklar har publicerats i denna cykel. GitHub-utkasten är tillgängliga för chefredaktörens granskning. CMS-databasen har inte skrivits till. Render-arbetsyta är inte vald i denna session; den får inte väljas utan användarens bekräftelse. Den senast dokumenterade tekniska kontrollen angav dessutom tom IP-allowlist för Postgres och avsaknad av autentiserad redaktörssession; detta har inte omtestats i denna cykel.
+
+
+### Finlands gruvavfallsregler – tillägg 17:20 EET
+
+Finlex 1027/2026 och 1028/2026 publicerades den 11 november efter antagande den 6 november; båda träder i kraft den 15 november. De för in CRMA artikel 27:s preliminära ekonomiska bedömningsstudie i miljöskyddslagen och marktäktslagen. Berörda verksamhetsutövare ska lämna studien eller visa att kritiska råmaterial inte finns att återvinna; lera/matjord-only är undantaget från marktäktslagens tillämpning. Den 24 november är tidsfristen i EU-förordningen 2024/1252 artikel 27.3, inte en frist skapad av den finska lagen. Finlex 1024/2026 fördelar nationella tillsyns- och rapporteringsuppgifter; 1026/2026 ger GTK ansvar för prospekteringsprogrammet och databasen över utvinningsavfallsområden.
+
+**Källor:** https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1027 ; https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1028 ; https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1024 ; https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1026 ; https://eur-lex.europa.eu/eli/reg/2024/1252/oj/eng .
