@@ -1451,3 +1451,7 @@ Denna cykel har åter screenat samtliga A–S. Ett nytt råvaru-/institutionellt
 **Tidskritiska kontrollpunkter:** House-svar/subpoena 14 nov 03:00 EET; finska CRMA-lagar 15 nov; NVIDIA Q3 17 nov; CRMA art. 27.3 den 24 nov; House 1–3 dec; Senate-begäranden 3 och 10 dec.
 
 **Arbetsflöde:** PR #38 uppdaterad med metodnotering. PR #65, #47, #53 och #32 förblir i befintliga granskningslägen. Ingen merge eller LIVE-publicering i denna kontroll.
+
+
+### Tillägg – 13 november 2026, 21:43 EET: Jones Act
+**O/P/R:** Reuters 13 november 19:08 UTC återger White House-besked om ytterligare 90 dagars Jones Act-waiver. Case-by-case-prövning av utländskflaggade resor från augusti kvarstår. White House anger 90 miljoner extra petroleumfat mellan US-hamnar sedan mars; det är en partsuppgift, inte oberoende reviderad. Ingen undertecknad waiver-/DHS-handling eller CBP-bulletin har hämtats; exakt ikraftträdande/slutdatum öppet. Detta är en amerikansk inrikeslogistikåtgärd, inte bevis för att Hormuz är öppet. Källa: https://www.reuters.com/world/us/us-extends-shipping-law-waiver-90-days-allow-freer-movement-oil-commodities-2026-11-13/
