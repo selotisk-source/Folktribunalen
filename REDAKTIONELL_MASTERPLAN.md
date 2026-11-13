@@ -196,7 +196,7 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 
 ## Breaking Watch – 13 november 2026, 18:44 EET
 
-- **A/N – Palantir/NHS:** Guardian rapporterar 12 nov att NHS England tagit bort sidan som listade 137 truster som live/benefiting; 29 truster hade ifrågasatt användningen av alla eller de flesta verktygen. UK Parliament WQ 31436 (19 okt) gav ingen porteringstid; WQ 30140 (12 okt) redovisade ingen offentlig exitplan. PR #7 uppdaterat.
+- **A/N – Palantir/NHS:** Guardian rapporterar 12 nov att NHS England tagit bort sidan som listade 137 truster som live/benefiting; 29 truster uppgav att plattformen antingen inte var live eller att de inte använde någon av dess applikationer. UK Parliament WQ 31436 (19 okt) gav ingen porteringstid; WQ 30140 (12 okt) redovisade ingen offentlig exitplan. PR #7 uppdaterat.
 - **E/S – Urbergsskölden:** Bergsstaten beviljade 11 nov LKAB markanvisning om 37,44 ha i östra Malmberget till förmån för befintliga Malmberget K1–K5-koncessioner; publicerat 13 nov, överklagande senast 9 dec. Detta är inte en ny gruva eller koncession. PR #34 uppdaterat.
 - **G – Libanon:** Catholic Patriarchs and Bishops Council sammanträdde i Bkerki 9–13 nov. LBC rapporterar ett slututtalande 13 nov om förhandlingar, suveränitet och neutralitet; kyrkans fullständiga originalkommuniké saknas fortfarande.
 - **K – Cladonia:** mötet 10 nov är bekräftat av SVT/SR men inget bindande bolagslöfte. 300-ha-frågan förblir en registerkonflikt; SVT:s senare redogörelse talar för att fastigheterna ingick i samma SCA-paket, medan annan rapportering beskrivit separat affär. Ingen dubblering av areal utan Lantmäteriet.
@@ -214,3 +214,5 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - **B/F – Nscale S-1/A, 12 nov:** preliminärt 9-månadersresultat till 30 sep visar 307,5 mn USD i omsättning, 1,6919 md USD i nettoförlust, 3,5759 md USD i kassa och 5,5163 md USD i skuld. Anthropic-avtal upp till 44,6 md USD saknar ännu bindande finansiering enligt bolaget; 105,8 md USD TCV omfattar endast 6,4 md USD aktiv TCV. Microsoft-arbetsorder om 3,22 md USD avslutades efter att nätoperatör drog tillbaka effektanslutning i Loughton. PR #14/#64 innehåller analysen.
 
 - **R – Norrsundet, 13 nov:** sista dag för formella synpunkter till Länsstyrelsen. Gävle kommuns medborgardialog 20 nov är separat och inte en del av samrådet; enkätsvar räknas inte som formella yttranden. PR #59 uppdaterat.
+
+- **A/N – källprecisering:** Guardian anger 29 truster som antingen uppgav att FDP inte var live eller att de inte använde någon av dess applikationer; kategorierna får inte slås ihop till att samtliga 29 saknade all användning. Artikeln uppdaterades 13 nov 03:30 CET; NHS svarade inte på begäran om kommentar.
