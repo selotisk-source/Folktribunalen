@@ -553,3 +553,16 @@ Källor:
 **MOTUPPGIFT / OSÄKERHET:** Commerce har tidigare bestridit delar av den rapporterade Situation Room-konfrontationen mellan Bessent och Lutnick. Ingen offentlig Federal Register-notis, BIS-order eller Entity List-post för Megaspeed har identifierats. Att bolaget inte finns på den offentliga listan visar inte att inga andra tillsynsåtgärder pågår, men det innebär att en offentlig listningsåtgärd ännu inte kan beläggas.
 
 **Källor:** Reuters, 13 nov, https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/ ; Senate/House publicerade brev och Singapore MHA:s primäruttalande finns i källförteckningen ovan.
+
+
+### Precisering 13 november 2026, 20:58 EET – Senatens datum är nu specificerade
+
+Senatens begäran har nu korskontrollerats mot Reuters och Bloomberg Law. Senate Banking-ordföranden Tim Scott begär att Jensen Huang inställer sig den **3 december 2026** och att handelsminister Howard Lutnick inställer sig den **10 december 2026**. Det rör sig om frivilliga begäranden om framträdande. Scotts brev till Huang säger att utskottet är berett att använda tillgängliga verktyg, inklusive subpoena, om han inte inställer sig frivilligt. Det ska inte beskrivas som att en subpoena redan har utfärdats.
+
+**PRIMÄRKÄLLA – identifierad men inte direkt hämtad:** Scotts X-inlägg med de två breven: https://x.com/SenatorTimScott/status/2121031195165172192 ; Senate Banking Republicans: https://x.com/BankingGOP/status/2121031644186349916 . Direkt hämtning från X gav HTTP 403 i denna kontroll.
+
+**OBEROENDE BEKRÄFTELSE:** Bloomberg Law, 13 november 2026 kl. 01:48 UTC, rapporterar datumen 3 och 10 december. Reuters rapporterar samma begäran den 13 november. Fortune beskriver Huang-begäran som en offentlig hearing, men utskottets egna kalenderpost och de signerade breven behöver fortsatt följas.
+
+**Håll isär processerna:** House-begäran gäller en sluten, transkriberad intervju med Huang den 1 december och NVIDIA:s chefsjurist Tim Teter den 2 december; House-brevet anger svarstid 13 november kl. 20.00 EST och varnar för subpoena om acceptans inte lämnas. Jeffrey Kessler har separat bjudits in till House-utfrågning den 3 december. Senate Banking-datumen den 3 och 10 december är en annan process.
+
+Källor: Bloomberg Law, https://news.bloomberglaw.com/banking-law/scott-asks-huang-lutnick-to-testify-before-senate-banking-panel ; Reuters, https://www.reuters.com/business/us-senate-banking-committee-chair-calls-jensen-huang-lutnick-testify-2026-11-13/ ; Fortune, https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/ .
