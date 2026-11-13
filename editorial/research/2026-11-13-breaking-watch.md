@@ -398,3 +398,6 @@ Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga sli
 
 
 **USA:s DOJ/FBI – ytterligare avgränsning:** Reuters rapporterade 12 november att justitieminister Todd Blanche sade att DOJ ännu inte nått någon slutsats om Alice Huang är kinesisk spion, medan FBI utreder rapporter om att hon arbetat för den kinesiska staten. Ingen offentlig dom eller åtal som fastställer spioneri har identifierats. Detta är en separat amerikansk utredningslinje och ska inte blandas ihop med Singapores inhemska serverdeklarationsutredning.
+
+
+**House-briefingens status:** Reuters återgav 12 november att Brian Mast väntade sig att Huang skulle vittna inför kongressen inom en vecka efter samtal mellan utskottsanställda och NVIDIA-representanter. Detta är inte en formell bekräftelse av den tidigare begärda slutna briefingen den 18 november; den exakta formen och tiden är fortsatt öppna.
