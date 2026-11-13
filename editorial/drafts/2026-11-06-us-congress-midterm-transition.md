@@ -404,3 +404,16 @@ The requested 18 November briefing now has an open status question because the r
 ### Singapore MHA – additional procedural detail, 13 November
 
 MHA's 12 November statement also says that Supermicro provided limited cooperation in the Singapore inquiry. Singapore's police and Attorney-General's Chambers raised the issue with U.S. authorities on 7 July 2025 and repeatedly sought assistance from DOJ/FBI from September 2025 onward; MHA says the information and assistance received remained limited. This is Singapore's account of cross-border investigative cooperation. It is not a finding that Supermicro committed an offence, and it does not establish that NVIDIA or Huang participated in any unlawful export.
+
+
+### Uppdatering 13 november 2026 – nya kongressförfrågningar i Megaspeed/NVIDIA-ärendet
+
+**PRIMÄRKÄLLA – representanthuset, 12 november:** House Foreign Affairs Committee publicerade en andra begäran från ordförandena Brian Mast, John Moolenaar och Rick Crawford. Breven begär slutna, transkriberade intervjuer med Jensen Huang den 1 december och NVIDIA:s chefsjurist Tim Teter den 2 december. De begär även en utfrågning med handelsdepartementets undersekreterare Jeffrey Kessler den 3 december kl. 10.00 EST. Breven anger svarstid kl. 20.00 EST den 13 november för Huang och Teter och varnar för subpoena om de inte accepterar. Detta är skilt från den tidigare begäran om briefing den 18 november. Begäran är inte i sig en subpoena; utfrågningen den 3 december är en inbjudan, inte ett genomfört förhör.
+
+**PARTSUPPGIFT / OBEROENDE RAPPORTERING – senaten:** Banking Committee-ordföranden Tim Scott har offentligt uppgett att han begär vittnesmål från Huang och handelsminister Howard Lutnick. Reuters och annan rapportering anger föreslagna datum i december, men något separat formellt utskottsbeslut eller publicerat hearingschema har inte hittats. Behandla detta som en begäran, inte som en bokad utfrågning.
+
+**PARTSUPPGIFT – interdepartemental exportkontroll:** Finansminister Scott Bessent uppgav offentligt den 13 november att Treasury, War, USTR och State hade förespråkat restriktioner mot Megaspeed, medan Commerce har den slutliga beslutsrollen. Detta är Bessents redogörelse; Commerce har bestridit delar av den rapporterade interna händelsekedjan. Ingen offentlig BIS-notis om att Megaspeed lagts till på Entity List har identifierats i denna kontroll.
+
+**Motbelägg i Singapore:** Singapores inrikesministerium uppgav den 12 november att Alice Huang inte utreddes för spioneri där. Singapore beskriver i stället en utredning om möjliga falska deklarationer och relaterade inhemska brott; myndigheten fann inte tillräckliga bevis för att fastställa sådana brott men utfärdade en varning för felaktiga uppgifter till polis och beslutade om återreseförbud. Utredningen av Megaspeed och sex andra personer/företag fortsätter. Detta avgör inte vad amerikanska myndigheter kan ha för separat underrättelseinformation, men det motsäger att Singapores process skulle ha varit en spioneriutredning.
+
+**Källor:** House Foreign Affairs Committee, https://foreignaffairs.house.gov/press-releases/ ; Singapore Ministry of Home Affairs, https://www.mha.gov.sg/mediaroom/ ; Reuters om Bessents uttalande, https://www.reuters.com/ ; Senate Banking Committee, https://www.banking.senate.gov/ .
