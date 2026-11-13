@@ -351,3 +351,12 @@ Cladonia uppger att Allemansrätten, samebyarnas rätt till renbete, Länsstyrel
 - Le Monde, 12 november 2026: https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html
 - Fastighetsvärlden, 19 oktober 2026: https://www.fastighetsvarlden.se/notiser/palantir-vd-koper-15-000-hektar-skog-i-harjedalen/
 - SVT Jämtland, 6 november 2026, uppdaterad 9 november: https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdns-kop-i-harjedalen-vackt-sa-stor-uppmarksamhet/
+
+
+### Källuppdatering 13 november 2026 – Sveriges Radio om första mötet
+
+**OBEROENDE BEKRÄFTELSE:** Sveriges Radio P4 Jämtland publicerade den 13 november kl. 05.56 en ny kort rapport om dialogen mellan Bergs kommun och Cladonia. Kommunstyrelsens ordförande beskriver kontakten som ett första möte. Artikeln anger inte mötets exakta datum, vilka handlingar som överlämnades eller vilka konkreta åtaganden bolaget gjorde. SR återger att omkring 30 000 personer skrivit under ett upprop; detta är en rapporterad petitionssiffra, inte en myndighetsräkning.
+
+**Källkonflikt – 300 hektar:** Le Monde den 12 november återger, med hänvisning till Östersunds-Posten den 16 oktober, uppgiften om ytterligare cirka 300 hektar. Svensk rapportering från SVT och Fastighetsvärlden beskriver samtidigt 300-hektarsdelen som en del av den samlade SCA-affären, inte som ett säkert separat senare förvärv. Inga lagfartsutdrag, köpehandlingar eller fastighetsbeteckningar har hämtats direkt från Lantmäteriet i denna kontroll. Lägg därför inte till 300 hektar en gång till i totalsumman innan Berg Storsjö 18:3 och 18:5 har stämts av mot samtliga överlåtelsehandlingar.
+
+**Källor:** Sveriges Radio P4 Jämtland, 13 nov, https://www.sverigesradio.se/artikel/mote-om-alex-karps-planer-efter-markkop-i-storsjo-kapell ; Le Monde, 12 nov, https://www.lemonde.fr/en/international/article/2026/11/12/american-tech-billionaire-alex-karp-s-15-000-hectare-forest-acquisition-in-sweden-sparks-controversy_6747418_4.html .
