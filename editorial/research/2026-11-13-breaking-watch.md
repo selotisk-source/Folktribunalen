@@ -549,3 +549,8 @@ Ny delrapport: [Breaking Watch 17:05 EET](./2026-11-13-breaking-watch-1705.md). 
 
 ### CRMA 17:20 EET – 1027/2026 och 1028/2026
 Finlands lagar 1027/2026 och 1028/2026 publicerades 11 november och träder i kraft 15 november. De inför CRMA artikel 27:s preliminära ekonomiska bedömningsstudie i miljöskyddslagen och marktäktslagen; lera/matjord-only är undantaget i marktäktslagen. EU:s 24-novemberfrist kommer från CRMA artikel 27.3. PR #34 och 17:05-journalen har kompletterats.
+
+
+### Breaking Watch – 13 november 2026, 21:43 EET
+
+Ny delrapport: [2026-11-13-breaking-watch-2143.md](https://github.com/selotisk-source/Folktribunalen/blob/research/breaking-watch-2026-11-12/editorial/research/2026-11-13-breaking-watch-2143.md). A–S avstämda 19/19. Nya substantiella deltan i O: Reuters 13 november om den alternativa Tuba–Baniyas-oljerutten (120–150 kb/d) och separat IRGC-påstående om LNG-tanker som träffat mina; det senare är PARTSUPPGIFT/OBEKRÄFTAD utan fartygsidentitet eller UKMTO/IMO-specifik bekräftelse. C: PubMed-indexerad studie om fysiologisk synkronisering i 12 triader/36 deltagare tillför en metodjämförelse, inte belägg för acausal synkronicitet; PR #38 uppdaterad. F/P: SEC 8-K, MHA och kongressfrister återkontrollerade; House-svarstiden 14 november 03:00 EET hade ännu inte passerat. K: Le Monde 12 november är en internationell källuppföljning, inte ny registerhandling. E/P/S: PR #65:s SEC-uppgifter om Cove Kaz/SuperCritical är primärkällkontrollerade; kapitalåtagandet och term sheetet får inte beskrivas som stängda transaktioner. Ingen merge eller LIVE-publicering.
