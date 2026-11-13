@@ -400,3 +400,18 @@ Källa: [Greenpeace Germany – Caroline Bezengi satellite analysis, 6 October 2
 **PARTSUPPGIFT / OBEKRÄFTAD – 13 november 2026:** IRGC:s flotta uppgav via iranska statsmedier att en tanker träffat en mina och exploderat i Hormuz. Reuters beskriver fartyget som LNG-tanker; AP återger uppgiften som LPG-tanker. Ingen av rapporterna identifierar fartyget eller anger verifierad position, skador eller personskador. Uppgiften saknas i JMIC:s lägesrapport med brytdatum 12 november och hade inte bekräftats av UKMTO/JMIC vid denna uppdatering. Den får inte slås ihop med UKMTO 201–204.
 
 **Källor:** IEA Oil Market Report – November 2026 (13 nov), https://www.iea.org/reports/oil-market-report-november-2026 ; Reuters om Irak–Syrien-rutten (13 nov), https://www.reuters.com/business/energy/iraq-turns-trucks-export-oil-overland-syrian-route-revival-2026-11-13/ ; Reuters om IRGC:s tankeruppgift (13 nov), https://www.reuters.com/world/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-hormuz-2026-11-13/ ; AP:s separata återgivning av LPG-uppgiften, https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08 ; JMIC Advisory Update 113 (12 nov), https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_113_12-nov.pdf?rev=7fe7908661f24d2ebb037b750628f240 .
+
+
+## 13 November 2026 – US Jones Act waiver extended for 90 days
+
+**Event/publication date:** 13 November 2026; Reuters publication 19:08 UTC (21:08 EET).
+
+**OBEROENDE BEKRÄFTELSE / OFFICIELLT BESKED ÅTERGIVET AV REUTERS:** Reuters quotes a White House official saying President Trump extended the Jones Act waiver for another 90 days, allowing foreign-flagged ships to move oil and other commodities between US ports. The case-by-case review introduced in the August extension remains in place. The Jones Act normally requires domestic cargo to move on US-built, US-owned and US-crewed vessels.
+
+**PARTSUPPGIFT – White House data:** The administration says that since March the waiver has enabled an additional 90 million barrels of petroleum, mostly refined, to move between US ports; the White House breakdown includes 27 million barrels of gasoline, 26 million barrels of crude and 6 million barrels of renewable fuels. These are administration figures relayed by Reuters, not independently audited cargo totals.
+
+**Significance:** This is a domestic US logistics measure responding to energy-market disruption and transport bottlenecks. It may increase flexibility for fuel movements between US ports, but it does not reopen Hormuz, confirm a specific international cargo movement or establish the effect on retail prices.
+
+**Open:** the signed DHS/Presidential instrument or CBP implementation bulletin; the exact effective and expiry dates; covered commodity codes; voyage-by-voyage approval criteria; actual approved voyages and measurable price effects. No direct official instrument was retrieved in this check.
+
+**Source:** Reuters, 13 November 2026, https://www.reuters.com/world/us/us-extends-shipping-law-waiver-90-days-allow-freer-movement-oil-commodities-2026-11-13/
