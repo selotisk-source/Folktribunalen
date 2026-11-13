@@ -383,3 +383,9 @@ Källor:
 - [Reuters – Four tankers struck by explosions in Strait of Hormuz, Iran says, 12 November](https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/)
 - [Reuters – Oman monitors grounded tanker, 12 November](https://www.reuters.com/world/middle-east/oman-monitors-handling-oil-tanker-run-aground-off-its-coast-2026-11-12/)
 - [Oman Observer / Oman News Agency – Emergency committee discusses tanker grounding, 12 November](https://www.omanobserver.om/article/1199589/oman/emergency-committee-discusses-oil-tanker-grounding)
+
+
+
+**Ytterligare primär källa – Greenpeace Germany, 6 oktober 2026:** organisationens satellitgenomgång anger att Caroline Bezengi-fläcken vid sin största observerade utbredning sträckte sig över cirka **600 km²**. UNU-INWEH:s separata satellitanalys från augusti anger cirka **300 km²** utanför Hallaniyatöarna. Dessa tal ska inte behandlas som en direkt motsägelse eller summeras: de kan avse olika observationsdatum, avgränsningar och detektionsmetoder. Inget av måtten anger oljevolym. Skillnaden mellan uppskattningarna är en öppen metodfråga.
+
+Källa: [Greenpeace Germany – Caroline Bezengi satellite analysis, 6 October 2026](https://www.greenpeace.de/ueber-uns/investigative-recherche/strasse-von-hormus-oeltanker-bedrohen-oekosystem)
