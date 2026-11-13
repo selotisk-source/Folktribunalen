@@ -474,3 +474,28 @@ Källa: [Reuters – US Justice Department has not concluded Alice Huang was Chi
 **OBEROENDE RAPPORTERING, Reuters 12 november:** House Foreign Affairs Committee-ordföranden Brian Mast uppgav att utskottsanställda talat med NVIDIA-representanter på onsdagskvällen och att han väntade sig att Huang skulle vittna inför kongressen inom en vecka. Detta är Masts återgivna förväntan, inte en officiell bekräftelse på att den specifika slutna briefingen den 18 november fortfarande genomförs eller att en ny tid är fastställd.
 
 Källa: [Reuters – Speaker Johnson says Congress developing consensus on limiting chip exports to China, 12 November 2026](https://www.reuters.com/world/china/speaker-johnson-says-congress-developing-consensus-limiting-chip-exports-china-2026-11-12/)
+
+
+## Kongressuppdatering 13 november 2026 – Senatens tillsyn breddas
+
+### Tim Scott begär vittnesmål från Huang och Lutnick
+
+**Händelsedatum:** 12 november 2026. **Publicering:** Reuters 13 november 00:15 UTC (02:15 EET).
+
+Reuters rapporterar att Senate Banking Committee-ordföranden Tim Scott skickade brev till handelsminister Howard Lutnick och NVIDIA:s tidigare vd Jensen Huang och begärde att de vittnar inför utskottet om den senaste utvecklingen kring bolaget. Reuters citerar Scotts offentliga X-inlägg om att rapporteringen väcker allvarliga frågor om nationell säkerhet och skyddet av känslig amerikansk teknik.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters, 13 november. **PRIMÄRKÄLLA – ej hämtad:** Scotts ursprungliga X-inlägg och de två undertecknade breven har inte återfunnits i denna kontroll. Inget datum för ett eventuellt vittnesmål, ingen subpoena och ingen formell utskottsutfrågning har identifierats. Detta är en begäran om vittnesmål, inte ett fastställt förhör eller ett konstaterande av brott.
+
+Källa: [Reuters, US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify, 13 November 2026](https://www.reuters.com/business/us-senate-banking-committee-chair-calls-jensen-huang-lutnick-testify-2026-11-13/).
+
+### Jack Reed vill pröva om NVIDIA är systemiskt betydande
+
+**Händelsedatum:** 12 november 2026. **Publicering:** Reuters 12 november 20:54 UTC (22:54 EET).
+
+Senator Jack Reed, högste demokrat i Senate Armed Services Committee, vill att kongressen granskar om NVIDIA är “too big to fail” och analyserar hur ett eventuellt sammanbrott skulle påverka amerikanska banker och kreditmarknader. Reed pekar på att NVIDIA har backstoppat delar av AI-ekosystemet genom komplexa finansieringstransaktioner och att miljontals amerikaner har indirekt exponering via pensionskonton och pensionsfonder.
+
+**OBEROENDE BEKRÄFTELSE:** Reuters återger Reeds uttalande. **PRIMÄRKÄLLA – ej hämtad:** ingen undertecknad skrivelse, kommittéorder, hearing notice eller formell utredningsplan har identifierats. Uttalandet är en politisk begäran om granskning, inte en slutsats att NVIDIA är systemviktigt eller att skattebetalarna kommer att behöva rädda bolaget.
+
+Källa: [Reuters, US Democratic senator wants assessment of whether Nvidia is 'too big to fail', 12 November 2026](https://www.reuters.com/business/finance/us-democratic-senator-wants-assessment-whether-nvidia-is-too-big-fail-2026-11-12/).
+
+**Redaktionell konsekvens:** Lägg till en separat systemriskfråga i finansieringsgranskningen: kartlägg verifierade kreditgivare, garantier, säkerheter, leasingägare, kundförskott och pensionsfonds-/bankexponering. Summera inte hypotetiska motpartsförluster som om de vore en gemensam exponering.
