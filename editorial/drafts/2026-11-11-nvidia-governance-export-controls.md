@@ -518,3 +518,29 @@ House-kommitténs pressmeddelande beskriver detta uttryckligen som en andra beg�
 **Källstatus och reservation:** Uppgifterna om Alice Huang/Megaspeed och eventuell kinesisk underrättelseverksamhet är föremål för politiska och mediala påståenden. De är inte rättsligt fastställda. Reuters återgav 12 november justitieminister Todd Blanche: DOJ hade ännu inte dragit någon slutsats om huruvida Alice Huang är spion; Kina har förnekat anklagelsen. Denna artikel får inte formulera anklagelsen som ett fastslaget faktum.
 
 **Nästa kontrollpunkt:** svar från Huang och Teter senast 20.00 EST den 13 november (01.00 UTC den 14 november; 03.00 EET den 14 november); eventuella subpoenas; formella senatsdatum; Kesslers hearing den 3 december; eventuella offentliga BIS/DOJ-handlingar.
+
+
+## 13 november 2026 – Reuters kartlägger kinesiska AI-projekt med begränsade Nvidia-processorer
+
+Reuters publicerade den 13 november en dokumentgranskning av över 150 kinesiska upphandlingsmeddelanden, investeringsplaner, byggkontrakt och bolagsupplysningar. Den identifierar projekt och utrustningsavtal med ett sammanlagt rapporterat värde över 23 miljarder yuan, cirka 3,2 miljarder USD, byggda kring Nvidia H100-, H200- och H800-processorer.
+
+Summan omfattar planerade och undertecknade projekt samt färdigställda installationer. Den inkluderar byggnader, kraftsystem och annan infrastruktur; den är alltså inte värdet av Nvidia-chipinköp, inte Nvidia-intäkt och inte en verifierad totalsiffra för levererade GPU:er. Reuters uppger att vissa anläggningar är i drift eller under byggnad, medan leveransstatus för andra är osäker. Granskningen visar fortsatt efterfrågan men fastställer inte hur de begränsade processorerna nått varje slutanvändare.
+
+**Viktig avgränsning:** Reuters säger uttryckligen att projekten inte har kopplats till Megaspeed eller anklagelserna kring Jensen Huang/Alice Huang. Projektkartläggningen och Megaspeed-utredningen är två separata beviskedjor.
+
+**PRIMÄRKÄLLA – ej hämtad:** de underliggande kinesiska upphandlings- och bolagsdokumenten har inte hämtats individuellt i denna kontroll. Reuters dokumentgranskning är **OBEROENDE BEKRÄFTELSE** av totalsiffran.
+
+### Malaysia/Speedmatrix – separat utredningsspår
+
+Reuters rapporterade den 13 november att Malaysia undersöker om AI-chip som importerats av Speedmatrix, en lokal enhet kopplad till Megaspeed, har återexporterats. Reuters återger handelsministeriets uppgift att importen gällde servrar och AI-chip för en datacenterhyresgäst och att myndighetsbesök varit rutinmässiga. Malaysia kräver sedan juli 2025 tillstånd för återexport, transitering eller omlastning av amerikanskt ursprungliga högpresterande AI-chip. Premiärminister Anwar Ibrahim sade enligt Reuters att det inte finns någon indikation på att Megaspeed-relaterade chip skeppats från Malaysia.
+
+Direkt ministeriell utredningsakt och fullständigt ordagrant transkript har inte hämtats i denna kontroll. Reuters-återgivningen av myndighetsuttalandena ska därför märkas **OBEROENDE BEKRÄFTELSE**, inte som direkt läst primärdokument.
+
+**Nästa kontroll:** Malaysias utredningsresultat, tillstånds- och transiteringsakter, den juridiska relationen mellan Speedmatrix och Megaspeed samt faktiska chip-/serverinventeringar. Ingen slutsats om olaglig återexport eller spioneri dras.
+
+Källor:
+- Reuters, 13 november: https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/
+- Reuters, Malaysia/Speedmatrix, 13 november: https://www.reuters.com/world/asia-pacific/malaysia-says-it-is-investigating-if-any-chips-linked-speedmatrix-were-re-2026-11-13/
+
+
+**Utkaststatus:** fortsatt DRAFT; ingen merge eller publicering.
