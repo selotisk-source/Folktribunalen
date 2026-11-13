@@ -192,3 +192,19 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 **Tidskritiska kontroller:** Norrsundets samråd sista dag 13 nov; House-kommittéernas svarstid 20:00 EST 13 nov = 03:00 EET 14 nov; NVIDIA-delen av Nscale-teckningen väntas enligt SEC omkring 16 nov; NVIDIA Q3 17 nov.
 
 **Övriga A–S:** inga nya materiella offentliga dokument identifierade i denna delta-screening för C, D, H, I, J, K, L, M och Q. A, E, G, N, O, P, R och S har kontrollnoteringar och öppna primärkällpunkter i den daterade journalen. B/F är uppdaterade.
+
+
+## Breaking Watch – 13 november 2026, 18:44 EET
+
+- **A/N – Palantir/NHS:** Guardian rapporterar 12 nov att NHS England tagit bort sidan som listade 137 truster som live/benefiting; 29 truster hade ifrågasatt användningen av alla eller de flesta verktygen. UK Parliament WQ 31436 (19 okt) gav ingen porteringstid; WQ 30140 (12 okt) redovisade ingen offentlig exitplan. PR #7 uppdaterat.
+- **E/S – Urbergsskölden:** Bergsstaten beviljade 11 nov LKAB markanvisning om 37,44 ha i östra Malmberget till förmån för befintliga Malmberget K1–K5-koncessioner; publicerat 13 nov, överklagande senast 9 dec. Detta är inte en ny gruva eller koncession. PR #34 uppdaterat.
+- **G – Libanon:** Catholic Patriarchs and Bishops Council sammanträdde i Bkerki 9–13 nov. LBC rapporterar ett slututtalande 13 nov om förhandlingar, suveränitet och neutralitet; kyrkans fullständiga originalkommuniké saknas fortfarande.
+- **K – Cladonia:** mötet 10 nov är bekräftat av SVT/SR men inget bindande bolagslöfte. 300-ha-frågan förblir en registerkonflikt; SVT:s senare redogörelse talar för att fastigheterna ingick i samma SCA-paket, medan annan rapportering beskrivit separat affär. Ingen dubblering av areal utan Lantmäteriet.
+- **F/P – NVIDIA/USA:** SEC 8-K bekräftar avgång 11 nov; Singapore MHA säger att Alice Huang inte utreddes för spioneri där och att Megaspeed-utredningen fortsätter. Jack Reeds begäran om systemriskgranskning är inte en formell kongressutredning. PR #14/#47 har befintliga uppdateringar.
+- **O – Hormuz:** IRGC:s uppgift 13 nov om LNG-tanker/minträff saknar fartygsidentitet och oberoende UKMTO/IMO-bekräftelse; märk PARTSUPPGIFT/OBEKRÄFTAD. JMIC- och IMO-tal får inte blandas utan metodjämförelse.
+- **B – AI-datacenter:** EuroHPC:s ändrade deadlines och Statnetts norska anslutningspaus finns redan i PR #64; ingen ny tilldelning eller byggstart.
+- **Övriga spår:** C, D, H, I, J, L, M, Q och R utan nytt delta över notiströskeln; tidigare öppna frågor kvarstår. N:s RFR-spår finns i PR #57.
+
+**Köstatus:** PR #64 är fortsatt nästa artikel i huvudordningen och Draft. PR #7 och PR #34 uppdaterade i sina befintliga granskningsgrenar. PR #60 får denna deltajournal. Ingen merge eller publicering.
+
+**Teknisk status:** Render kräver att ett workspace väljs och bekräftas; inget workspace valdes i denna icke-interaktiva körning. Direkt publik hämtning av https://folktribunalen.onrender.com gav DisabledError. Senast dokumenterade LIVE-commit f873ebfa (13 nov 01:35 UTC) har inte omtestats. Senast dokumenterade Postgres IP-allowlist var tom och extern SELECT 1 nekades; databasstatusen har inte omtestats.
