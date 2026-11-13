@@ -481,3 +481,12 @@ Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankri
 
 
 **Redaktionell status:** Reviderat sammanhållet utkast för huvudspår 2, uppdaterat 13 november 2026 kl. 08:03 EET. Paketet innehåller komplett artikeltext, bildförslag, primärkällor, oberoende rapportering, faktastatus och öppna frågor. Nscale:s bolagsuppgifter skiljs från oberoende bekräftelse och Monarch i USA räknas inte som europeisk kapacitet. Utkastet är inte godkänt, inte mergat och inte publicerat.
+
+
+### 13 november 2026 – EuroHPC:s AI-gigafabrikupphandling är fortfarande öppen
+
+**PRIMÄRKÄLLA – EuroHPC Joint Undertaking, sidan uppdaterad 5 november 2026:** Upphandlingen för AI-gigafabrikskonsortier har ändrade sista inlämningsdagar: Lot 2 den 3 december 2026 och Lot 1 den 4 februari 2027. Upphandlingen är alltså inte stängd efter den tidigare 12-novemberfristen. EuroHPC anger att tidigare inskickade anbud och utkast inte kommer att beaktas efter tekniska problem med inlämningslösningen; sökande måste använda den uppdaterade processen. Inga vinnande konsortier eller slutliga anläggningsplatser är ännu beslutade. Detta är en upphandlingsprocess, inte beviljad finansiering eller byggstart.
+
+**PRIMÄRKÄLLA – Europeiska kommissionen:** Konsultationen om gemensamt märkningssystem och minimiprestandakrav för datacenter är öppen till den 14 december 2026. Kommissionens aviserade lagstiftningsförslag är planerat till andra kvartalet 2027.
+
+**Källor:** EuroHPC, https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en ; Europeiska kommissionen, https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en .
