@@ -194,3 +194,23 @@ Den verkliga frågan är därför inte om Palantir redan har tagit över staten.
 10. Försök identifiera den externa molnleverantören bakom 5,6 md USD-åtagandet genom ytterligare offentliga avtals- eller leverantörsdokument. Dra ingen slutsats utifrån partnerskap med Nebius eller andra molnbolag utan direkt belägg.
 
 **Redaktionell status:** Komplett sammanhållet granskningsutkast uppdaterat 12 november 2026. Ligger i chefredaktörens godkännandekö som PR #7. Inte godkänt för publicering, inte mergat och inte LIVE.
+
+
+## Breaking Watch update – 13 November 2026, 18:44 EET: NHS adoption claims and exit readiness
+
+**OBEROENDE BEKRÄFTELSE – The Guardian, 12 November 2026:** NHS England removed the webpage that had listed 137 hospital trusts as live with and benefiting from the Federated Data Platform. The Guardian's underlying FOI investigation found that 29 listed trusts said they were not using all or most of the platform's tools; some said it was not live locally or that they used none of its applications. This does **not** mean that all 29 used no FDP component, nor that all 137 were inactive. The replacement page reportedly retains broader claims about early-user benefits.
+
+**Källstatus:** The removal and the 29-trust responses are reported by the Guardian; NHS England's original page and a preserved snapshot were not retrieved directly in this check because the NHS site returned a bot-verification challenge. Treat the page-removal fact as independently reported, not as a fresh primary-source capture. The Office for Statistics Regulation's prior work remains the relevant methodological control: before/after comparisons do not establish causation without controlling for other variables, and the separate claim about 117,539 additional operations was not supported by the evidence reviewed.
+
+**PRIMÄRKÄLLA – UK Parliament, written question 31436, answered 19 October 2026:** Asked what estimate DHSC had made of the time needed to port the FDP from Palantir to another supplier, the minister gave no time estimate and said the department does not provide a running commentary outside contract-management milestones.
+
+**PRIMÄRKÄLLA – UK Parliament, written question 30140, answered 12 October 2026:** Asked what continuity, knowledge-transfer and capability-transfer arrangements would apply if the contract ended or was not extended, DHSC referred the MP to the published contract explainer and said it does not generally answer hypothetical scenarios. This is not proof that no exit plan exists; it means the cited public answer does not disclose a porting timetable or transition plan.
+
+**Why it matters:** The public debate now has two separate accountability tests: whether NHS England can substantiate its adoption/benefit claims, and whether the NHS can demonstrate a credible, costed exit path before the contract's break/extension decision. The reported £330m contract extension to 2029 remains a proposal under consideration, not a completed extension.
+
+**Open checks before publication:** preserve the removed and replacement webpages via an independent web archive; obtain the complete 137-trust list and underlying FOI responses; obtain the FDP termination-assistance and data-portability schedules; request a costed migration plan, including data formats, application dependencies, knowledge transfer and operational continuity; obtain OSR's final casework conclusion.
+
+**Sources:**  
+- The Guardian, 12 Nov 2026: https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools  
+- UK Parliament WQ 31436, answered 19 Oct 2026: https://questions-statements.parliament.uk/written-questions/detail/2026-10-09/31436  
+- UK Parliament WQ 30140, answered 12 Oct 2026: https://questions-statements.parliament.uk/written-questions/detail/2026-09-15/30140  
