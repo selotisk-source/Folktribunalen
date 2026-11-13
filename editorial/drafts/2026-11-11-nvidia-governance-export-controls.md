@@ -458,3 +458,14 @@ Källa: [The Washington Post – U.S. did little to help Singapore investigate a
 MHA anger uttryckligen att Supermicro gav begränsat samarbete. SPF och Attorney-General’s Chambers tog upp frågan med amerikanska myndigheter den 7 juli 2025 och begärde hjälp att få företaget att samarbeta. SPF upprepade begäran till DOJ och FBI flera gånger från september 2025. Singapore säger att man fortfarande fått begränsad information eller hjälp i fråga om Supermicro. Denna detalj är nu **PRIMÄRKÄLLA**, inte enbart Washington Posts uppgift från anonyma tjänstemän.
 
 Källa: [Singapore MHA, 12 November 2026 – full statement](https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/)
+
+
+### USA:s justitieministerium – ingen slutsats om spioneri per 12 november
+
+**OBEROENDE RAPPORTERING AV OFFENTLIGT TJÄNSTEUTTALANDE:** Reuters rapporterade den 12 november att USA:s justitieminister Todd Blanche sade att DOJ ännu inte dragit någon slutsats om huruvida Alice Huang är kinesisk spion. Han uppgav att FBI utreder rapporter om att hon arbetat för den kinesiska regeringen.
+
+Detta är en separat amerikansk utredningslinje. Den får inte blandas ihop med Singapores inhemska utredning om möjliga falska serverdeklarationer, där MHA säger att Huang inte utreddes för spioneri och att bevisningen inte räckte för att fastställa de misstänkta deklarationsbrotten. Något offentligt åtal eller någon dom som fastställer att Huang spionerat har inte identifierats.
+
+**Källbegränsning:** Reuters återger Blanches uttalande från en presskonferens; något fullständigt primärt transkript har inte lokaliserats i denna kontroll.
+
+Källa: [Reuters – US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says, 12 November 2026](https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/)
