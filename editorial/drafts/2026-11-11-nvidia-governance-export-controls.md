@@ -446,8 +446,15 @@ Källor:
 
 **OBEROENDE RAPPORTERING, anonyma myndighetskällor, 12 november 2026:** The Washington Post rapporterade att Singapore vid upprepade tillfällen begärt amerikansk hjälp i utredningen kring Alice Huang och Megaspeed, men fått begränsad hjälp. Artikeln uppger även att amerikanska myndigheter följt Megaspeed sedan 2025 med misstankar om att GPU:er kunde ha styrts vidare till Kina.
 
-Detta är en uppgift från sekundär rapportering med anonyma källor, inte ett offentliggjort amerikanskt eller singaporianskt diariedokument. MHA:s offentliga tidslinje säger att Singapore först fick kännedom om USA:s intresse genom BIS:s frivilliga Post-Shipment Verification den 24 juni 2025. Uppgifterna behöver inte vara motsägande om de singaporianska begärandena gjordes efter detta datum, men datum, innehåll och svar på varje begäran är inte offentliga i de handlingar som lokaliserats.
+MHA:s egen primärkälla den 12 november bekräftar nu den centrala uppgiften om begränsat amerikanskt bistånd. Den säger att SPF och Attorney-General’s Chambers vid ett möte den 7 juli 2025 bad amerikanska myndigheter hjälpa till att få Supermicro att samarbeta. Sedan september 2025 upprepade SPF begäran flera gånger till DOJ och FBI; Singapore uppger att man trots detta fått begränsad information eller hjälp om bolaget. MHA säger samtidigt att den ursprungliga Singaporeutredningen startade självständigt i februari 2025 och inte på begäran från något annat land. BIS:s frivilliga Post-Shipment Verification den 24 juni 2025 var enligt MHA första gången Singapore fick kännedom om USA:s intresse. Det är alltså två skilda led: en självständigt inledd Singaporeutredning och senare försök att få amerikansk hjälp med Supermicros begränsade samarbete. Exakta skrivelser, datum för varje upprepning och innehållet i de amerikanska svaren är inte offentliggjorda. Washington Posts rapportering är därmed oberoende men nu också sakligt förenlig med MHA:s egen redogörelse.
 
 **Nästa dokumentkontroll:** sök efter offentliggjorda diplomatiska skrivelser, BIS-korrespondens, tull-/polisförfrågningar och eventuella domstolsbilagor. Fram till dess ska Washington Posts uppgift märkas som oberoende rapportering, inte fastställd myndighetsdokumentation.
 
 Källa: [The Washington Post – U.S. did little to help Singapore investigate alleged Chinese spy, officials say, 12 November 2026](https://www.washingtonpost.com/technology/2026/11/12/us-did-little-help-singapore-probe-alleged-chinese-spy-officials-say/)
+
+
+### MHA:s primärkälla preciserar USA–Singapore-kontakten
+
+MHA anger uttryckligen att Supermicro gav begränsat samarbete. SPF och Attorney-General’s Chambers tog upp frågan med amerikanska myndigheter den 7 juli 2025 och begärde hjälp att få företaget att samarbeta. SPF upprepade begäran till DOJ och FBI flera gånger från september 2025. Singapore säger att man fortfarande fått begränsad information eller hjälp i fråga om Supermicro. Denna detalj är nu **PRIMÄRKÄLLA**, inte enbart Washington Posts uppgift från anonyma tjänstemän.
+
+Källa: [Singapore MHA, 12 November 2026 – full statement](https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/)
