@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 12 november 2026, 08.46 Europe/Sofia  
+**Version:** 13 november 2026, 03.36 Europe/Sofia  
 **Arbetsregel:** En artikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö. Ingen automatisk publicering. Endast chefredaktörens uttryckliga godkännande får föra en artikel till LIVE. Statusavsnitten högst upp är aktuella; arbetsloggar längre ned bevaras som historik.
 
 ## Publicerings- och systemstatus
@@ -8,20 +8,20 @@
 - GitHub-repo: https://github.com/selotisk-source/Folktribunalen
 - Publik statisk webbplats: https://folktribunalen.onrender.com (Render service `folktribunalen`, ID `srv-dblpumgm7kps73bv55e0`).
 - Redaktionell backend/admin: https://folktribunalen-editorial.onrender.com och https://folktribunalen-editorial.onrender.com/admin.html (Render service ID `srv-dblq2r0n74is73cchqh0`).
-- **Publik statisk tjänst:** senaste live deployment är `dep-dbqdrgmc6qcc73f1adc0`, commit `f52a144173118b00200657fcabb0bfd2de19abae`, avslutad 11 november 2026 kl. 21.27 UTC. Tjänsten är konfigurerad för auto-deploy från `main`, men den har ännu inte fått fullversionen av Hormuz.
-- **Hormuz:** fullversionens kod finns i `src/app.js` på `main` från commit `8905e404ce621418d114991cdb99bbb093e1a7ea`. Render kör fortfarande `f52a144...`; därför är den fullständiga versionen inte LIVE. Den kortare Hormuz-versionen, markerad publicerad 9 november, finns i den aktuella statiska deploymenten.
-- **Palantir på publika sajten:** den aktuella bundle-versionen innehåller en 12-minuterssida om BCH-polisavtalet med statusen `PÅGÅENDE GRANSKNING` och länken `FÖLJ ARBETET`. Det är en synlig arbets-/uppföljningssida, inte den färdiga huvudartikeln i PR #55.
+- **Publik statisk tjänst:** senaste live deployment är `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, avslutad 13 november 2026 kl. 01.35.25 UTC. Render status är `live`. Production-test av Palantir-sidan gav HTTP 200.
+- **Hormuz:** `src/app.js` i den aktuella live-deploymenten innehåller fullversionens artikeltext och de senare tilläggen. Palantir-publiceringen gav en ny deployment från `main`; Hormuz-sidan ska fortsatt kontrolleras mot aktuell publicerad text vid separat nyhetsuppdatering.
+- **Palantir på publika sajten:** huvudartikeln `Palantir och den offentliga makten – NHS som stresstest för datakontroll` är publicerad och LIVE på https://folktribunalen.onrender.com/#/artikel/palantir-offentlig-makt. Artikelsidan kontrollerades 13 november 2026: HTTP 200, korrekt rubrik, ingress, huvudtext, primärkällor, oberoende rapportering och källuppdateringen 12 november. Förstasidans huvudruta pekar på artikeln.
 - **Redaktionell backend:** senaste live deployment är fortfarande 4 november 2026, commit `6a835783553565f239864a9da7160d9f79f692b2`. Admin/API-flödet är inte testat end-to-end.
 - **Databas:** `folktribunalen-db`, status `available`, kostnadsfri instans i Frankfurt med utgångsdatum 4 december 2026. `ipAllowList=[]`; en ny read-only `SELECT 1` nekas eftersom databasen blockerar alla externa anslutningar. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP i Networking som vägar framåt. Ingen öppen `0.0.0.0/0`-regel används.
 - **Publiceringsspärr:** databasbaserad webbkö och adminpublicering är blockerade av den tomma IP-allowlisten. Ingen artikelpost har skrivits till databasen i denna körning.
-- **Aktuell artikelkö:** huvudspår 1 ligger i PR #55 som komplett draft. PR #33 är stängd som supersederad. PR #7 är det separata Palantir Q3-/molnåtagandespåret. PR #42 är ett separat kortare GP-data-lobbyspår.
+- **Aktuell artikelkö:** huvudspår 1, PR #55, är chefredaktörsgodkänt, mergat och publicerat LIVE. PR #33 är stängd som supersederad. PR #7 är det separata Palantir Q3-/molnåtagandespåret. PR #42 är ett separat GP-data-lobbyspår.
 - **Fader Samir Daou:** PR #36 mergades till `main` den 11 november. Render-live-versionens bundle (`f52a144...`) innehåller artikelkortet och artikeltexten med sluggen `samir-daou-jbeil`, markerad `PUBLICERAD 11 NOVEMBER 2026`. Publik länk: https://folktribunalen.onrender.com/#/artikel/samir-daou-jbeil. Den är en separat regional/rättslig artikel, inte huvudartikeln om Geagea, Gemayel, Syrien och kyrkan.
 
 ## Aktiva huvudspår
 
 | Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status 12 nov 2026 |
 |---|---|---|---|---|
-| 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **Komplett utkast i PR #55**, öppet draft för chefredaktörens granskning. Publika sajten visar en äldre sida om BCH-polisavtalet märkt `PÅGÅENDE GRANSKNING / FÖLJ ARBETET`, inte den färdiga huvudartikeln. PR #33 stängd som supersederad. PR #42 är en separat GP-dataartikel; PR #7 är Q3-/molnåtagandespåret. |
+| 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE 13 nov 2026.** PR #55 mergad till `main`; publik artikelväg kontrollerad och källor öppnas. PR #33 stängd som supersederad. PR #42 är ett separat GP-dataartikelspår; PR #7 är Q3-/molnåtagandespåret. |
 | 2 | **Vem bygger Europas AI-datacenter?** | Europas AI-infrastruktur: vem finansierar, äger och kontrollerar den? | Granskning | Flera delartiklar: Amsterdam/PR #13, politisk risk/PR #17, BRAIN++ Sofia/PR #24, Bull–Schwarz/PR #25, Norge/nätanslutning/PR #31, Anthropic/compute/PR #40 och Skellefteå/PR #43. Ingen sammanhållen huvudartikel ännu. Skilj europeiska projekt från amerikanska jämförelsefall. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | Komplett första granskningsutkast i PR #38. Kräver metodavsnitt med reproducerbara observationer, alternativa hypoteser, felkällor och tydliga gränser mellan sammanträffande och kausalitet. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 behandlar Samuil/Prespa, gravkontext och symboler. Huvudartikeln måste också samla musei-/utställningsmaterial och byggnadsarkeologi. Samuils ursprungliga gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
@@ -63,9 +63,9 @@
 
 ## Nästa arbetsordning
 
-1. **Huvudspår 1 – Palantir och den offentliga makten:** komplett utkast ligger i PR #55, draft och öppet för chefredaktörens granskning. PR #33 är stängd som supersederad. Ingen publicering före uttryckligt godkännande.
-2. Efter godkännande: publicera via den redaktionella webbplatsen när admin- och databasåtkomst fungerar. Kontrollera att artikeln faktiskt visas LIVE innan nästa huvudspår påbörjas.
-3. **Huvudspår 2 – Europas AI-datacenter** blir nästa artikel efter att huvudspår 1 har godkänts, publicerats och kontrollerats LIVE.
+1. **Huvudspår 1 – Palantir och den offentliga makten:** chefredaktören godkände 13 november 2026. PR #55 är mergad till `main`; artikeln är publicerad LIVE och den publika route:n är kontrollerad. PR #33 är stängd som supersederad.
+2. Publiceringskontroll av huvudspår 1 är klar. Den statiska publika webbplatsen använder nu innehållet i `src/app.js`; databas/adminflödet är fortfarande separat och inte testat end-to-end.
+3. **Huvudspår 2 – Europas AI-datacenter** är nu nästa artikel i ordningen.
 4. Därefter följer huvudspåren i den ordning chefredaktören angav: **3 Synkronicitetsprotokollet, 4 Sofia, 5 strategiska råvaror, 6 NVIDIA, 7 Libanon, 8 kyrkorna som överlevde imperierna, 9 Fennoskandien.**
 5. Hormuz förblir separat prioritet 6 i nyhetskön. Den godkända fullversionen väntar på Render-deployment och faktisk LIVE-kontroll; den får inte användas för att hoppa över huvudspår 1–5.
 6. Aktuella nyhetsspår och separata serier bevakas och får egna artikelposter, men produktion och publicering sker fortfarande en artikel åt gången.
@@ -183,3 +183,14 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - PR #55 är öppen, draft och inte mergad; den innehåller huvudspår 1:s kompletta granskningsutkast. PR #33 har stängts som supersederad. PR #7 har tydliggjorts som det separata Q3-/molnåtagandespåret. Den befintliga Palantir-sidan på publika sajten är märkt `PÅGÅENDE GRANSKNING`, inte som den färdiga huvudartikeln.
 - PR #36:s Fader Samir Daou-text finns i Render-live-versionens bundle med artikelkort, artikeltext och publiceringsdatum 11 november 2026. Den är publicerad som separat regional/rättslig artikel; den ersätter inte huvudspår 7:s historiska granskning.
 - Inga artiklar publicerades i denna uppdatering. Nästa redaktionella steg är chefredaktörens granskning av PR #55.
+
+
+## Publiceringslogg – 13 november 2026
+
+- Chefredaktören gav uttryckligt klartecken för Palantir-huvudartikeln 13 november 2026.
+- PR #55 avmarkerades som draft och mergades till `main` i commit `ab0a7f3e7e4dfa3739dc6889dc2f7775e01097b4`.
+- Den godkända artikeln kopplades in i `src/app.js` med rubrik, ingress, full huvudtext, primärkällor, oberoende rapportering och källuppdateringen från 12 november. Förstasidans huvudruta pekar nu på artikeln.
+- Render statiska webbplatsen `folktribunalen` (service `srv-dblpumgm7kps73bv55e0`) har deployment `dep-dbr6iilg1s2s73fiq0v0` med status `live`, byggd från commit `f873ebfa9fbe637ad74dd7db662496c714090004` den 13 november kl. 01.35.25 UTC.
+- Publicerad route: https://folktribunalen.onrender.com/#/artikel/palantir-offentlig-makt. Kontroll den 13 november: HTTP 200; korrekt rubrik och ingress; NHS-kontraktsuppgiften; huvudtexten; listan över primärkällor; oberoende källor; uppdateringen 12 november.
+- PR #55:s GitHub-status är merged/closed. Den publicerade versionen ligger i `src/app.js`; redaktionell mastertext finns kvar i `editorial/drafts/2026-11-12-palantir-offentlig-datamakt.md` som käll- och versionsunderlag.
+- Nästa huvudartikel enligt beslutad ordning är **nr 2 – Europas AI-datacenter**. Inget annat huvudspår ska gå före.
