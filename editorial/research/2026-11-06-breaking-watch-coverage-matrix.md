@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Breaking Watch: täckningsmatris
 
 **Ursprunglig kontrolltid:** 6 november 2026, 18.58 Europe/Sofia  
-**Senaste delta-screening:** 13 november 2026, 01:59 Europe/Sofia
+**Senaste delta-screening:** 13 november 2026, 07:42 Europe/Sofia
 **Omfattning:** A–S, 19 huvudspår  
 **Metod:** riktad kontroll av nya händelser, myndighets- och bolagsdokument, primärmaterial samt oberoende rapportering. Statusen skiljer mellan ny händelse, ny dokumentuppgift och äldre kontrollpunkt.
 
@@ -1328,3 +1328,30 @@ PR #47, #10, #14 och #53 har kompletterats med nya primärhandlingar/uppdatering
 | S Urbergsskölden | 13 nov | GTK:s 13 aug-besked säger att lagändring föreslogs med avsedd ikraftträdandedag 1 nov; gällande Finlex-text har inte identifierats i denna kontroll. | Verifiera faktisk lag i Finlex innan ikraftträdande påstås. Knyt SGU-ansökningarna till mineral-/markrättighetsanalysen. |
 
 **Arbetsflöde:** PR #47 och PR #64 uppdateras i respektive draftgren; PR #57 och PR #53 får källkommentarer; PR #16:s matris och PR #60:s journal får denna kontrollcykels tillägg. Ingen artikel mergas eller publiceras i denna cykel.
+
+
+## Delta-screening 13 november 2026, 07:42 EET
+
+| Spår | Nytt i denna kontroll | Källstatus | Nästa kontroll |
+|---|---|---|---|
+| A – Palantir/NHS | Offentlig lokal DSA, DPIA och LAH privacy notice bekräftar en FDP-pilot med GP-praktiker i Cheshire & Merseyside. Den nationella uteslutningen av GP-data står kvar. | PRIMÄRKÄLLA; FT:s uppgift om fem praktiker är OBEROENDE BEKRÄFTELSE, inte primärbekräftad. | Exekverad DSA, lokal FDP-DPA Annex II, deltagarlista, åtkomstloggar och exakt relation mellan LAH/CIPHA/SCT. |
+| B – AI-datacenter | Statnett 9 nov pausade nya datacenterreservationer; regeringen vill utreda licensordning. Statnett 12 nov publicerade NO3-utredning med 42 mogna projekt i 2,8 GW-kö. | PRIMÄRKÄLLA; Reuters oberoende rapportering. | RME:s svar före 1 dec, licensförslag, faktisk anslutning och kraftproduktion. |
+| C – Synkronicitet | Ingen ny reproducerad empirisk evidens i denna screening. | Ingen ny primärpublikation identifierad. | Replikation och testbara prediktioner. |
+| D – Sofia | Samuils återförande och placering i sarkofag är fortsatt ceremoniell/historisk utveckling; ingen ny utgrävningsrapport. | Bulgariens regeringsinformation och BTA finns sedan oktober. | NAIM:s föremålskataloger, arkeologiska rapporter och proveniens. |
+| E – Mineraler | Inget nytt tillståndsbeslut identifierat i denna screening. | Senaste registrerade ansökningsnotiser kvarstår. | Bergsstatens diarier, arbetsplaner och sakägare. |
+| F – NVIDIA/AI-finansiering | Ingen ny materiell Nscale-transaktion sedan 07:07. Nscale S-1/A och FT:s finansieringsuppgift kvarstår som senaste dokumentkedja. | SEC PRIMÄRKÄLLA; FT/Reuters OBEROENDE BEKRÄFTELSE. | Faktisk stängning av NVIDIA-instrumentet och NVIDIA Q3 den 17 nov. |
+| G – Libanon | Ingen ny oberoende primärhändelse i denna kontroll. | Ingen ny primärkälla som passerar rapporttröskeln. | Parlamentariska protokoll, OCHA/UNIFIL och kyrkliga institutioner. |
+| H – Kyrkor | Ingen ny restaurerings-, ägar- eller kulturarvsakt i femstadsspåret. | Kontrollnotering. | Kommun- och kyrkoarkiv stad för stad. |
+| I – Fennoskandien | Ingen ny primärhandling om skog, mark, rennäring eller hästkultur i denna kontroll. | Kontrollnotering. | SGU, skogsbruks- och kulturmiljöbeslut. |
+| J – Storsjöodjuret | Ingen ny primär observation eller hydrologisk rapport. | Kontrollnotering. | Folkloristiska originalvittnesmål och runologiska källor. |
+| K – Cladonia | Ingen ny lagfart eller fastighetslista identifierad. | Öppen registerfråga. | Lantmäteriet, Bolagsverket, servitut och nyttjanderätter. |
+| L – Skaga | Ingen ny RAÄ-/länsstyrelsehandling identifierad. | Kontrollnotering. | Byggnadsinventering och kyrkoarkiv. |
+| M – Athos | Ingen ny katalogpost eller verifierad donation identifierad. | Kontrollnotering. | Proveniens och offentliga bibliotekskataloger. |
+| N – Storebror | Home Office publicerade 12 nov en enkät med 779 svar; 34 % missförstod eller var osäkra på bevisvärdet enligt PACE Code D. | PRIMÄRKÄLLA. | HMICFRS-originalrapport och tekniska precisionstester. |
+| O – Hormuz | Ingen ny bekräftad incident efter föregående kontroll. | Kontrollnotering. | UKMTO/IMO, fartygsidentitet och skadebesiktning. |
+| P – Kongressen | Huang/Teter-svarstiden är fortfarande öppen vid 07:42 EET 13 nov: 20:00 EST 13 nov = 03:00 EET 14 nov. | House-brev i original. | Kontrollera skriftlig acceptans eller subpoena efter deadline. |
+| Q – Gripen | Ingen ny order eller leveransbekräftelse. | Saab/FMV:s tidigare orderuppgifter kvarstår. | Leveransbesked, FMV och exportmyndigheter. |
+| R – Energi | Statnett begär att RME stänger två avvikelsepunkter; RME:s beslut från 13 feb har rättelsefrist 1 dec. NO3 saknar tillräcklig energi för alla mogna anslutningsplaner utan ny produktion. | PRIMÄRKÄLLA. | RME:s svar, ny produktion, regionala kraftbalanser. |
+| S – Urbergsskölden | Posivas driftlicens 22 okt kvarstår; ingen ny startbekräftelse eller STUK-inspektion identifierad i denna kontroll. | Posiva/Finlands regering primärkällor sedan 22 okt. | STUK:s förhandsinspektion, driftstart och CRMA-projektbeslut. |
+
+**Korrigerande avgränsningar:** (1) Fem GP-praktiker är FT:s uppgift; den publicerade DSA:n bekräftar pilot men inte antalet. (2) NO3-kön är all ny förbrukning, inte enbart datacenter. (3) Huang/Teter-deadlinen har inte passerat vid kontrolltidpunkten. (4) Nscale:s TCV, reserverad kapacitet och investeringsåtaganden är inte likvärdiga med kontant finansiering eller driftsatt effekt.
