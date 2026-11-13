@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 13 november 2026 – efter publicering av huvudspår 1 och sammanställning av huvudspår 2  
+**Version:** 13 november 2026, 08:03 EET – efter LIVE-publicering av huvudspår 1 och redaktionell färdigställning av huvudspår 2  
 **Arbetsregel:** En artikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö. Ingen automatisk publicering. Endast chefredaktörens uttryckliga godkännande får föra en artikel till LIVE. Statusavsnitten högst upp är aktuella; arbetsloggar längre ned bevaras som historik.
 
 ## Publicerings- och systemstatus
@@ -8,21 +8,21 @@
 - GitHub-repo: https://github.com/selotisk-source/Folktribunalen
 - Publik statisk webbplats: https://folktribunalen.onrender.com (Render service `folktribunalen`, ID `srv-dblpumgm7kps73bv55e0`).
 - Redaktionell backend/admin: https://folktribunalen-editorial.onrender.com och https://folktribunalen-editorial.onrender.com/admin.html (Render service ID `srv-dblq2r0n74is73cchqh0`).
-- **Publik statisk tjänst:** senaste live deployment är `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, avslutad 13 november 2026 kl. 01.35.25 UTC. Render status är `live`. Production-test av Palantir-sidan gav HTTP 200.
-- **Hormuz:** `src/app.js` i den aktuella live-deploymenten innehåller fullversionens artikeltext och de senare tilläggen. Palantir-publiceringen gav en ny deployment från `main`; Hormuz-sidan ska fortsatt kontrolleras mot aktuell publicerad text vid separat nyhetsuppdatering.
+- **Publik statisk tjänst:** senaste live deployment är `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, avslutad 13 november 2026 kl. 01.35.25 UTC. Render status är `live`. Palantir-sidan har tidigare fått HTTP 200 i produktionstest.
+- **Hormuz:** den aktuella `src/app.js`-versionen innehåller fulltexten, JMIC Advisory Note 113 och UKMTO 201–204. Render visar en live-deployment efter PR #62 och #63. Direkt route-kontroll av `#/artikel/hormuz-sjofart` kunde inte genomföras i den här körningen eftersom webbplatsens host inte var åtkomlig via webbläsarhämtningen; status är därför **deployment live, route-test ej avslutat**, inte fullständigt route-verifierad.
 - **Palantir på publika sajten:** huvudartikeln `Palantir och den offentliga makten – NHS som stresstest för datakontroll` är publicerad och LIVE på https://folktribunalen.onrender.com/#/artikel/palantir-offentlig-makt. Artikelsidan kontrollerades 13 november 2026: HTTP 200, korrekt rubrik, ingress, huvudtext, primärkällor, oberoende rapportering och källuppdateringen 12 november. Förstasidans huvudruta pekar på artikeln.
 - **Redaktionell backend:** senaste live deployment är fortfarande 4 november 2026, commit `6a835783553565f239864a9da7160d9f79f692b2`. Admin/API-flödet är inte testat end-to-end.
 - **Databas:** `folktribunalen-db`, status `available`, kostnadsfri instans i Frankfurt med utgångsdatum 4 december 2026. `ipAllowList=[]`; en ny read-only `SELECT 1` nekas eftersom databasen blockerar alla externa anslutningar. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP i Networking som vägar framåt. Ingen öppen `0.0.0.0/0`-regel används.
 - **Publiceringsspärr:** databasbaserad webbkö och adminpublicering är blockerade av den tomma IP-allowlisten. Ingen artikelpost har skrivits till databasen i denna körning.
-- **Aktuell artikelkö:** huvudspår 1, PR #55, är chefredaktörsgodkänt, mergat och publicerat LIVE. Huvudspår 2 har nu ett sammanhållet komplett granskningsutkast i PR #64, fortfarande Draft och väntar på chefredaktörens separata godkännande. PR #13, #17, #24, #25, #31, #40 och #43 bevaras som tidigare delutkast/källunderlag; de har inte mergats eller publicerats genom PR #64. PR #33 är stängd som supersederad. PR #7 och #42 är separata Palantir-spår.
-- **Fader Samir Daou:** PR #36 mergades till `main` den 11 november. Render-live-versionens bundle (`f52a144...`) innehåller artikelkortet och artikeltexten med sluggen `samir-daou-jbeil`, markerad `PUBLICERAD 11 NOVEMBER 2026`. Publik länk: https://folktribunalen.onrender.com/#/artikel/samir-daou-jbeil. Den är en separat regional/rättslig artikel, inte huvudartikeln om Geagea, Gemayel, Syrien och kyrkan.
+- **Aktuell artikelkö:** huvudspår 1, PR #55, är chefredaktörsgodkänt, mergat och publicerat LIVE. Huvudspår 2 har ett reviderat komplett granskningspaket i PR #64, öppet som Draft, synkat mot `main` och väntar på chefredaktörens separata godkännande. Branchjämförelsen visar 1 commit före och 0 bakom `main`; GitHub rapporterar `mergeable: true`. PR #13, #17, #24, #25, #31, #40 och #43 bevaras som tidigare delutkast/källunderlag och har inte mergats eller publicerats genom PR #64. PR #33 är stängd som supersederad. PR #7 och #42 är separata Palantir-spår.
+- **Fader Samir Daou:** PR #36 mergades till `main` den 11 november. Den nuvarande statiska koden behåller artikelkortet och artikeltexten med sluggen `samir-daou-jbeil`, markerad `PUBLICERAD 11 NOVEMBER 2026`. Publik länk: https://folktribunalen.onrender.com/#/artikel/samir-daou-jbeil. Den är en separat regional/rättslig artikel, inte huvudartikeln om Geagea, Gemayel, Syrien och kyrkan.
 
 ## Aktiva huvudspår
 
 | Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status 13 nov 2026 |
 |---|---|---|---|---|
 | 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE 13 nov 2026.** PR #55 mergad till `main`; publik artikelväg kontrollerad och källor öppnas. PR #33 stängd som supersederad. PR #42 är ett separat GP-dataartikelspår; PR #7 är Q3-/molnåtagandespåret. |
-| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **Komplett sammanhållet utkast i PR #64**, 13 nov 2026. Draft för chefredaktörens granskning; inte godkänt, inte mergat och inte publicerat. Samlar Amsterdam, Norge, Finland, Lanarkshire, Sofia/BRAIN++, Skellefteå/EdgeConneX samt Bull/Schwarz Digits. Äldre PR #13, #17, #24, #25, #31, #40 och #43 bevaras som delutkast/källunderlag och har inte auto-mergeats. Skilj anslutning, IT-last, reserverad effekt, kö och faktisk förbrukning. |
+| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **Reviderat komplett granskningsutkast i PR #64**, 13 nov 2026. Draft för chefredaktörens granskning; inte godkänt, inte mergat och inte publicerat. Samlar Amsterdam, Norge/NO3, Finland, Lanarkshire, Sofia/BRAIN++, Skellefteå/EdgeConneX, Bull/Schwarz Digits, protestvågen och EU:s föreslagna transparensram. Nscale:s Loughton och Kvandal behandlas som europeiska fall; Monarch i West Virginia markeras uttryckligen som amerikanskt jämförelsefall. Paketet innehåller bildförslag, primär- och oberoende källor, faktastatus och öppna frågor. Branch synkad: 1 före/0 bakom `main`, `mergeable: true`. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | Komplett första granskningsutkast i PR #38. Kräver metodavsnitt med reproducerbara observationer, alternativa hypoteser, felkällor och tydliga gränser mellan sammanträffande och kausalitet. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 behandlar Samuil/Prespa, gravkontext och symboler. Huvudartikeln måste också samla musei-/utställningsmaterial och byggnadsarkeologi. Samuils ursprungliga gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | Huvudutkast i PR #34; kompletterande Hautalampi/Eurobattery-case i PR #51. Behöver skilja CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
@@ -33,7 +33,7 @@
 
 ## Separata projekt och serier
 
-| Projekt | Planerad leverans | Status 12 nov 2026 |
+| Projekt | Planerad leverans | Status 13 nov 2026 |
 |---|---|---|
 | **ODJURET UR DJUPET** | Uppenbarelsebokens odjur ur havet, Storsjöodjuret, Frösöstenen och Peter Thiels egna föreläsningar om Antikrist | PR #28 behandlar Peter Thiel, Antikrist och AI-accelerationen. Den sammanhållna serien måste även få en separat, primärtextbaserad kontroll av Thiels föreläsningar, runologisk kontroll av Frösöstenen och belägg för Storsjöodjurets folkliga tradition. Den symboliska parallellen är central; historisk påverkan får inte påstås utan belägg. |
 | **Storsjö kapell, Härjedalen – markförvärv** | Undersök rapporterade cirka 15 000 hektar kring Storsjö kapell och Cladonia Skog AB/Alex Karp-uppgiften | PR #4 och PR #32 innehåller separata granskningsutkast. Ägaruppgift och areal är inte fastställda i lagfart/fastighetsregister. Jämför fastighetsgränser med Fornsök, gravar, bronsålderslämningar, depåfynd, samfälligheter och lokala rättigheter. Håll helt åtskilt från Storsjön vid Östersund/Frösön. |
@@ -47,10 +47,10 @@
 
 | Spår | Artikelvinkel | Status 12 nov 2026 |
 |---|---|---|
-| **Prioritet 6 – Hormuz och sjöfarten** | Hormuz: Irak söker en egen väg – men farleden är fortfarande osäker | Den samlade fullversionen är uttryckligen godkänd 11 november och koden finns på `main` i commit `8905e404...`. Render kör ännu `f52a144...`, så fullversionen är inte LIVE. PR #53 är ett separat uppföljningsutkast om fyra rapporter och fyra olika bevislägen. |
-| **Maktförskjutningen i USA:s kongress** | Kongressen byter färg – men vem kontrollerar den tekniska makten? | PR #10 är ett granskningsutkast. Certifierade mandat, ledarskap, utskottsordföranden och faktisk maktövergång måste skiljas åt. |
-| **Palantirs kvartalsrapport och AI-infrastruktur** | Palantir Q3: tillväxt, offentliga kontrakt och datacenterberoenden | PR #7 är ett separat Q3-/molnåtagandeutkast. Det är inte huvudspår 1-artikeln i PR #55. PR #42 är en separat GP-data-lobbygranskning. |
-| **Svenska Gripen över Polen** | Fyra timmar i polskt luftrum – vad gjorde den svenska insatsen? | PR #12 behandlar Gripen, industri, AI-agenter och Kanadas villkorade plan. Den separata artikeln om den rapporterade patrullen över Polen är ännu inte färdig. Kräver polsk generalstabs originalpost, svensk Försvarsmaktskommentar och tydlig skillnad mellan patrull, incidentberedskap och stridskontakt. |
+| **Prioritet 6 – Hormuz och sjöfarten** | Hormuz: Irak söker en egen väg – men farleden är fortfarande osäker | Den samlade fullversionen godkändes 11 november. PR #62 och #63 är mergade; senaste statiska deployment är `f873ebfa...` och Render visar `live`. `src/app.js` innehåller JMIC Advisory Note 113 och UKMTO 201–204. Direkt route-test av den publika artikelsidan återstår eftersom hosten inte kunde hämtas via webbläsarverktyget. PR #53 är ett separat uppföljningsutkast med fyra skilda beviskedjor. |
+| **Maktförskjutningen i USA:s kongress** | Kongressen byter färg – men vem kontrollerar den tekniska makten? | PR #10 är fortsatt Draft, uppdaterad 12 november. Senate Vote 257 (73–25) var cloture på motionen att gå vidare med H.R. 2347/BAAJA, inte slutlig passage. Jim Jordans interna konferensseger och House Roll Call 317 hålls åtskilda från plenarsalsbeslut och den nya kongressens tillträde 3 januari 2027. |
+| **Palantirs kvartalsrapport och AI-infrastruktur** | Palantir Q3: tillväxt, offentliga kontrakt och datacenterberoenden | PR #7 är fortsatt Draft, uppdaterad 12 november, om Q3, molnåtaganden, kundfordringar och offentliga kontrakt. Det är inte huvudspår 1-artikeln i PR #55. PR #42 är en separat GP-data-/lobbygranskning. |
+| **Svenska Gripen över Polen** | Fyra timmar i polskt luftrum – vad gjorde den svenska insatsen? | PR #12 behandlar Gripen, industri, AI-agenter och Kanadas villkorade plan – inte patrullen över Polen. Ingen separat artikel-PR om den rapporterade svenska Gripen-insatsen över Polen har identifierats. Före utkast krävs polsk generalstabs originalpost, svensk Försvarsmaktskommentar och skillnad mellan patrull, incidentberedskap och stridskontakt. |
 
 ## Återkommande hyllning i varje utgåva
 
@@ -81,7 +81,7 @@
 - Ingen automatisk publicering. Varje artikel måste uttryckligen godkännas av chefredaktören och kontrolleras LIVE efter publicering innan nästa artikel påbörjas.
 
 
-## Redaktionsinventering – 12 november 2026
+## Historisk redaktionsinventering – 12 november 2026 (statusen nedan är supersederad av uppdateringen ovan)
 
 - **PR #55:** huvudspår 1, Palantir och den offentliga makten. Komplett utkast med ingress, huvudtext, primärkällor, oberoende rapportering, bildförslag, faktakontroll och öppna frågor. Draft, inte godkänt och inte publicerat.
 - **PR #33:** äldre Palantir/NHS-version stängd som supersederad av PR #55.
@@ -98,11 +98,14 @@
 - **PR #1:** arkiv/dokumentbank med 26 äldre utkast; får inte batch-mergas.
 - Fullständigt artikelpaket krävs för varje artikel: artikeltyp, rubrik, ingress, komplett sammanhängande text, primärkällor, oberoende källor, bildförslag, faktakontroll, öppna frågor och tydlig status.
 
-## Hormuz – teknisk publiceringsspärr
+## Hormuz – teknisk publiceringsstatus 13 november 2026
 
-Den fullständiga godkända texten finns i `editorial/drafts/2026-11-05-hormuz.md` och publiceringsvyn finns i `src/app.js` på `main` genom commit `8905e404ce621418d114991cdb99bbb093e1a7ea`. Render har ännu inte driftsatt den committen; senaste live-version är `f52a144...` från 11 november och innehåller den kortare versionen. Fullversionen är därför inte LIVE.
-
-Databasens IP-allowlist är tom. Read-only SQL nekas eftersom externa anslutningar blockeras. Admin/API och DATABASE_URL är inte testade end-to-end, och ingen databaspost för fullversionen har skrivits. När admin- och databasåtkomst fungerar ska publiceringen ske via den redaktionella webbplatsen; därefter ska den faktiska publika artikelsidan kontrolleras innan nästa artikel startas.
+- PR #62 (JMIC 113 och UKMTO 201–204) och PR #63 (koppla uppdateringen till publicerad artikeltext) är mergade till `main`.
+- Render statisk tjänst visar deployment `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, status `live`, avslutad 13 november kl. 01.35.25 UTC.
+- `src/app.js` på `main` innehåller den fullständiga Hormuz-texten, JMIC Advisory Note 113 och fyra separata UKMTO-poster 201–204. Detta bekräftar att källkoden för den aktuella versionen innehåller uppdateringen.
+- Direkt route-/HTTP-kontroll av `https://folktribunalen.onrender.com/#/artikel/hormuz-sjofart` kunde inte slutföras i denna körning: webbläsarhämtningen rapporterade att hosten inte var åtkomlig. Status är därför deployment LIVE och kodinnehåll kontrollerat, men den faktiska publika route-visningen är ännu inte direkt kontrollerad.
+- Databasens ID är `dpg-dblq2fqfngtc73c0h9gg-a`, status `available`, men `ipAllowList=[]`. En ny read-only `SELECT 1` nekades med det exakta felet att databasen blockerar alla externa anslutningar eftersom IP-allowlisten är tom. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP under Networking; ingen öppen `0.0.0.0/0`-regel används.
+- Redaktionell backend `folktribunalen-editorial` kör fortfarande deployment från 4 november, commit `6a835783553565f239864a9da7160d9f79f692b2`. Admin/API-flödet och `DATABASE_URL` är inte testade end-to-end. Ingen databaspost för Hormuz-fullversionen har skrivits.
 
 ## Faktaläge och arbetslogg – 9 november 2026, 09.05 Europe/Sofia
 
@@ -175,7 +178,7 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - Hormuz-fullversionen får status LIVE först när Render visar deployment för aktuell `main` som `live` och den publika artikelsidan har öppnats och kontrollerats.
 
 
-## Statusuppdatering – 12 november 2026
+## Historisk statusuppdatering – 12 november 2026
 
 - GitHub `main` innehåller fullversionens Hormuz-kod, men Render static service kör fortfarande commit `f52a144173118b00200657fcabb0bfd2de19abae`. Den nya fullversionen är inte LIVE.
 - Render Postgres `folktribunalen-db` är `available`, men `ipAllowList=[]`; en ny `SELECT 1` nekades med beskedet att alla externa anslutningar blockeras. Gratisinstansen löper ut 4 december 2026.
@@ -203,6 +206,49 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - **Kanonisk sammanhållen text:** `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`
 - Innehåll: ACER/IEA:s systembakgrund; Amsterdam/Plimsollweg; Norges anslutningskö och licensplan; Finlands LVV-åtgärd vid Muhos och Kajaani; DataVita/Lanarkshire och National Wealth Funds garanti; BRAIN++/Discoverer++ i Sofia; EdgeConneX/Skellefteå; samt Bull/Schwarz Digits.
 - Faktakontrollen skiljer mellan prognos, installerad kapacitet, anslutning, reserverad kapacitet, kö, anslutningsförfrågan och faktisk elförbrukning. Den norska tabellen summeras inte. 1 GW i Skellefteå behandlas som potentiell framtida campuskapacitet. Discoverer++-upphandlingens värde behandlas inte som ett extra projekt utöver BRAIN++-budgeten. DataVitas garanti beskrivs inte som kontantbidrag.
-- **Status:** PR #64 är öppen och markerad Draft. GitHub rapporterade vid senaste kontrollen `mergeable: false`; ingen merge har gjorts. Huvudspår 2 har inte publicerats eller lagts in på den publika webbplatsen.
+- **Status:** PR #64 är öppen och markerad Draft. Efter synkning mot aktuell `main` är branchen 1 commit före och 0 bakom; GitHub rapporterar `mergeable: true`. Ingen merge har gjorts. Huvudspår 2 har inte publicerats eller lagts in på den publika webbplatsen.
+- Huvudtexten har kompletterats med Statnetts NO3-underlag, protestvågen/EU:s föreslagna transparensram och Nscale:s SEC S-1/A: Kvandal i Norge, Loughton i Storbritannien och Monarch i USA. Monarch räknas inte som europeisk kapacitet. Bildförslag, källor, faktastatus och öppna frågor ingår.
 - PR #13, #17, #24, #25, #31, #40 och #43 ligger kvar som källunderlag/delutkast. PR #40:s globala Anthropic-computegranskning hålls separat från den europeiska huvudartikeln där den inte behövs.
 - **Nästa tillåtna steg:** chefredaktörens granskning och separat godkännande av PR #64. Först därefter kan publicering och LIVE-kontroll genomföras. Huvudspår 3 får inte påbörjas före det.
+
+
+## Aktuell redaktionskontroll – 13 november 2026, 08:03 EET
+
+### Huvudspår 2 – PR #64
+- Kanonisk artikel: `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`.
+- PR #64 är öppen, Draft, ej mergad och ej publicerad. Branch synkad mot `main`: 1 commit före, 0 bakom; GitHub rapporterar `mergeable: true`.
+- Reviderat paket innehåller full artikel, bildförslag, primärkällor, oberoende rapportering, faktastatus och öppna frågor.
+- Nya sakdelar har integrerats i huvudtexten: protestvågen och EU:s föreslagna rating/minimistandardprocess; Statnetts NO3-underlag; Nscale:s SEC S-1/A om Loughton, Kvandal och Monarch. Nscale:s Microsoft-belopp anges som ursprungligt aggregerat värde före avslutat SOW; prospektet ger inte ett nytt nettovärde. Monarch i West Virginia är uttryckligen ett amerikanskt jämförelsefall.
+- Faktakontrollerade primärpunkter: ACER 2026 Monitoring Report; Statnetts beslut 9 november och NO3-redogörelse; EuroHPC:s Discoverer++-upphandling; Nscale:s S-1/A inlämnad 12 november. Norska MW-kategorier, IT-last, anslutning, reservation och faktisk förbrukning hålls åtskilda.
+- PR #64 väntar på chefredaktörens separata granskning och godkännande. Huvudspår 3 ska inte startas före godkännande, publicering och LIVE-kontroll av huvudspår 2.
+
+### Nio huvudspår – levande status
+1. **Palantir och den offentliga makten:** PR #55 mergad och LIVE. Publik artikelväg kontrollerad 13 november; PR #33 supersederad. PR #7 (Q3) och #42 (GP-data/lobbying) är separata draftärenden.
+2. **Europas AI-datacenter:** PR #64 komplett reviderat granskningsutkast; väntar på chefredaktören.
+3. **Synkronicitetsprotokollet:** PR #38 komplett första draft; metod, reproducerbarhet och alternativförklaringar ska kontrolleras före godkännande.
+4. **Sofia – staden under staden:** PR #8 Samuil/Prespa är delcase; huvudartikel med musei-, utgrävnings- och byggnadskällor återstår.
+5. **Strategiska råvaror:** PR #34 Urbergsskölden och PR #51 Hautalampi/Eurobattery är draft; fyndighet, tillstånd, finansiering och produktion måste hållas isär.
+6. **NVIDIA som lånesäkerhet:** PR #47 gäller styrelse/exportkontroll; PR #14 och #23 gäller AI-finansiering. En dokumenterad aktiepantkedja saknas fortfarande.
+7. **Libanons kristna historia:** PR #22 UNIFIL och #39 presidentarkiv är delspår. PR #36 Fader Samir Daou är publicerad separat; Geagea/Gemayel/Syrien/kyrkans sammanhängande huvudartikel återstår.
+8. **Kyrkorna som överlevde imperierna:** ingen komplett huvudartikel ännu; Wiesbaden, Warszawa och Prag kräver byggnadsspecifika primärkällor. Sofia/Varna är möjliga fortsättningar.
+9. **Fennoskandien:** PR #4/#32 Storsjö kapell/mark, #37 Rottensjön och #43 Skellefteå/Northvolt är delcase; den breda syntesartikeln återstår.
+
+### Separata projekt och serier
+- **ODJURET UR DJUPET:** PR #28 om Peter Thiel; Storsjöodjuret, Frösöstenen och primärtextbaserad kontroll av föreläsningarna återstår. Symbolisk parallell ja; historisk påverkan får inte påstås utan belägg.
+- **Storsjö kapell/Cladonia:** PR #4 och #32. Cirka 15 000 hektar och ägaruppgiften är inte fastställda i fastighetsregister. Fastighetsgränser ska jämföras med Fornsök, gravar, bronsålderslämningar, depåfynd och lokala rättigheter. Håll åtskilt från Storsjön vid Östersund/Frösön.
+- **Skaga kapell:** åttadelad struktur definierad; komplett del 1 och arkivbelägg återstår.
+- **Böckernas väg till Athos:** PR #26 om 30 000 osmanska dokument är ett delutkast; fyra tidigare utkast har inte återfunnits i fulltext.
+- **Från skrift till storebror:** PR #21, #41, #45, #54 och #57 är delspår; sammanhängande huvudartikel återstår.
+
+### Aktuella nyhetsspår
+- **Hormuz:** PR #62/#63 mergade; statisk deployment `f873ebfa...` är LIVE. Koden i `src/app.js` innehåller JMIC 113 och UKMTO 201–204. Direkt route-test återstår; ingen databaspost har skrivits.
+- **USA:s kongress:** PR #10 Draft. Senate Vote 257 (73–25) är ett procedurbeslut om cloture, inte slutlig passage; ny kongress tillträder 3 januari 2027.
+- **Palantir Q3:** PR #7 Draft, separat från huvudartikel PR #55.
+- **AI-infrastruktur:** huvudspår 2 PR #64 samlar europeiska fall; PR #14/17/20/24/25/31/40/43 är kompletterande delspår.
+- **Gripen över Polen:** PR #12 behandlar AI-agenter/industri/Kanada, inte Polen. Dedikerad artikel saknas; polsk generalstabs originalpost och svensk Försvarsmaktskommentar krävs före utkast.
+
+### Breaking Watch och publiceringssystem
+- PR #16 (täckningsmatris) och PR #60 (intern researchlogg) är öppna Drafts. Senaste journalen 13 november 07:51 anger att samtliga 19 A–S-spår screenats; viktiga deltan omfattar NVIDIA/Singapore, UKMTO 201–204, Cladonia-mötet, Norrsundet-samråd och SOU 2026:58.
+- PR #16:s äldre Rendernotering om 8 november är supersederad av den aktuella Renderkontrollen ovan.
+- Redaktionell backend kör fortfarande 4 november-deploymenten. Postgres är `available`, men `ipAllowList=[]`; read-only `SELECT 1` nekas eftersom alla externa anslutningar blockeras. Admin/API och `DATABASE_URL` är inte testade end-to-end. Databasbaserad godkännandekö kan därför inte användas.
+- **Hyllning i varje utgåva:** Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi och Sankt Charbel kvarstår. Vasilevskis identitet måste fastställas innan namn eller hyllning publiceras.
