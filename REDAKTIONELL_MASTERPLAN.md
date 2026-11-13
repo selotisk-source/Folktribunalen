@@ -212,3 +212,5 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - **G – Libanon, källstatus 18:55 EET:** slutkommunikén 13 nov återges av LBC, MTV och Al-Nashra, men alla reproducerar samma text; Bkerkis publika index visar proceedings till 12 nov och saknar ännu separat sluttext. PR #22 har uppdaterats med denna reservation.
 
 - **B/F – Nscale S-1/A, 12 nov:** preliminärt 9-månadersresultat till 30 sep visar 307,5 mn USD i omsättning, 1,6919 md USD i nettoförlust, 3,5759 md USD i kassa och 5,5163 md USD i skuld. Anthropic-avtal upp till 44,6 md USD saknar ännu bindande finansiering enligt bolaget; 105,8 md USD TCV omfattar endast 6,4 md USD aktiv TCV. Microsoft-arbetsorder om 3,22 md USD avslutades efter att nätoperatör drog tillbaka effektanslutning i Loughton. PR #14/#64 innehåller analysen.
+
+- **R – Norrsundet, 13 nov:** sista dag för formella synpunkter till Länsstyrelsen. Gävle kommuns medborgardialog 20 nov är separat och inte en del av samrådet; enkätsvar räknas inte som formella yttranden. PR #59 uppdaterat.
