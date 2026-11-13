@@ -164,3 +164,12 @@ Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar
 - Kontroll efter publiceringscommit `8905e404ce621418d114991cdb99bbb093e1a7ea`: Render hade ännu ingen deployment för den committen trots auto-deploy från `main`.
 - En ny dokumentationscommit skickas till `main` för att ge den konfigurerade commit-triggern en ny ändringssignal. Ingen manuell Render-deployment används.
 - Hormuz-fullversionen får status LIVE först när Render visar deployment för aktuell `main` som `live` och den publika artikelsidan har öppnats och kontrollerats.
+
+
+## Breaking Watch – delta 13 november 2026, 07:07 EET
+
+**F/B – Nscale:** SEC S-1/A (12 nov) anger att bolaget behöver ytterligare finansiering för 2027 års prognostiserade åtaganden och att bindande finansiering för Anthropic Services Agreements saknades per prospektdatum. FT publicerade 13 nov en oberoende rapport om finansieringsbehovet. SEC:s preliminära balansräkning anger kassa 3,576 md USD och total skuld 5,516 md USD per 30 sep; uppskattad niomånaders nettoförlust 1,692 md USD. Anthropic-avtalen är upp till 44,6 md USD, villkorade av leverans och tillgänglighet. Monarch Building 1 väntas kräva 10–10,5 md USD datacenter/kraft plus 21–22 md USD GPU/compute. Se PR #14 och PR #64 för full källanalys. NVIDIA-delens teckningsstruktur har en intern avstämningsfråga: huvudtexten anger 3,36 md USD (2,36 md skuldebrev plus 1 md ytterligare NVIDIA-del), medan en not anger 3,1 md USD i konvertibla skuldebrev, varav 2 md USD med NVIDIA. Ingen summering görs innan detta förklarats.
+
+**Tidskritiska kontroller:** Norrsundets samråd sista dag 13 nov; House-kommittéernas svarstid 20:00 EST 13 nov = 03:00 EET 14 nov; NVIDIA-delen av Nscale-teckningen väntas enligt SEC omkring 16 nov; NVIDIA Q3 17 nov.
+
+**Övriga A–S:** inga nya materiella offentliga dokument identifierade i denna delta-screening för C, D, H, I, J, K, L, M och Q. A, E, G, N, O, P, R och S har kontrollnoteringar och öppna primärkällpunkter i den daterade journalen. B/F är uppdaterade.
