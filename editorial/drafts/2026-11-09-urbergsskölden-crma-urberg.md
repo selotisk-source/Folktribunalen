@@ -1,7 +1,7 @@
 # URBERGSSKÖLDEN: EUROPA RITAR OM KARTAN ÖVER BERGGRUND, RÅVAROR OCH ENERGI
 
 **Artikeltyp:** Strategisk industri · geologi · råvaruförsörjning · energi · civil underjordisk infrastruktur  
-**Faktaläge:** 9 november 2026  
+**Faktaläge:** 13 november 2026, 01:59 EET
 **Publiceringsstatus:** Redaktionellt utkast – inte godkänt för publicering
 
 ## Ingress
@@ -394,3 +394,57 @@ Beslutet innehåller ett särskilt villkor för åtgärder som kan påverka tota
 - Beslut Gränsberget nr 102: https://resource.sgu.se/bergsstaten/gransberget-nr-102-bes.pdf
 - Bergsstaten, Lindesby nr 1004, kungörelse 12 november 2026: https://www.sgu.se/bergsstaten/om-bergsstaten/kungorelser/2026/november/undersokningstillstand-for-lindesby-nr-1004/
 - Beslut Lindesby nr 1004: https://resource.sgu.se/bergsstaten/lindesby-nr-1004-bes.pdf
+
+
+
+## Uppdatering 13 november 2026 – CRMA-projektkartan och Finlands genomförandelagar
+
+### EU:s 46 nya strategiska projekt: Fennoskandien och Östersjöregionen
+
+**Händelse-/beslutsdatum:** 9 oktober 2026.  
+**PRIMÄRKÄLLA:** Europeiska kommissionens beslut och bilaga med 46 nya strategiska projekt enligt Critical Raw Materials Act.
+
+Projektmixen i den nya listan är **8 utvinningsprojekt, 10 förädlingsprojekt, 20 återvinningsprojekt och 8 integrerade projekt**. Den geografiska fördelningen är särskilt relevant för Urbergsskölden:
+
+**Finland – fem projekt**
+1. **CoNiKo**, Kokkola – förädling av nickel- och koboltmaterial.
+2. **Hautalampi**, Outokumpu – utvinning av koppar, kobolt och nickel.
+3. **Arctial**, Kokkola – förädlingsprojekt inom aluminiumkedjan.
+4. **Sokli**, Savukoski – utvinning med fokus på fosfat och kritiska biprodukter.
+5. **Suhanko**, Ranua – utvinning av koppar, nickel och platinagruppmetaller.
+
+**Sverige – ett projekt**
+- **Viscaria**, Kiruna – kopparutvinning.
+
+**Estland – ett projekt**
+- **Silmet 2.0**, Sillamäe – förädling av sällsynta jordartsmetaller.
+
+**Bulgarien – ett projekt**
+- **Pirdop Tankhouse Expansion** – utökad kopparförädling vid Pirdop.
+
+Detta ger en dokumenterad regional industrikarta med utvinning i Finland och Sverige samt förädling i Finland, Estland och Bulgarien. Det är däremot inte belägg för att projekten ingår i samma leveranskedja, har gemensamma ägare eller har tecknat inbördes leveransavtal.
+
+**Viktig rättslig avgränsning:** status som strategiskt projekt enligt CRMA är inte i sig ett gruvtillstånd, miljötillstånd, finansieringsbeslut, offtake-avtal eller bevis på kommersiell produktion. Varje projekt måste följas separat genom tillstånd, finansiering, byggstart och faktisk drift.
+
+### Finland – tre nya lagar träder i kraft 15 november
+
+**PRIMÄRKÄLLA:** Finlands författningssamling, publicerad 11 november 2026.
+
+- **1024/2026:** lag om fullgörande och övervakning av vissa skyldigheter enligt EU:s förordning om kritiska råmaterial.
+- **1025/2026:** ändringar i lagen om marknadskontroll av vissa produkter, kopplade till tillsynsansvaret.
+- **1026/2026:** ändring av lagen om Geologiska forskningscentralen (GTK). GTK får uppgifter kopplade till ett nationellt program för prospektering och en databas över stängda utvinningsavfallsanläggningar. Programmet ska ses över minst vart femte år.
+
+Lagarna träder i kraft **15 november 2026**. Detta är en faktisk nationell genomförande- och myndighetsförändring, inte bara en politisk avsiktsförklaring. Nästa kontroll är hur GTK:s uppdrag, datafält, ansvarsfördelning och offentliga åtkomst konkret genomförs.
+
+### Viscaria – finansieringen är fortfarande en process, inte ett avslutat lån
+
+**PARTSUPPGIFT, 29 oktober 2026:** Viscaria uppgav att bolaget diskuterar med fyra till sex europeiska affärsbanker som kan ansluta till syndikatet, med ING och Société Générale som lead arrangers samt Euler Hermes och Finnvera som exportkreditaktörer. Bolaget räknade med att slutföra skuldfinansieringsprocessen inom 90 dagar och väntade sig kreditgodkännanden från lead banks omkring årsskiftet.
+
+Detta är en uppdatering om pågående due diligence och förhandlingar. Pressmeddelandet visar inte att hela skuldpaketet är slutligt godkänt, undertecknat eller utbetalt. Bolagets mål om första säljbara koppar 2028 är fortsatt en bolagsprognos.
+
+Källor:
+- [Europeiska kommissionen – Strategic Projects under the CRMA och projektbilagan](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/strategic-projects-under-crma_en)
+- [Finlex – Finlands författningssamling](https://www.finlex.fi/sv/lagstiftning/forfattningssamling)
+- [Viscaria – Update on project financing process, 29 October 2026](https://www.viscaria.com/en/viscaria-provides-update-on-project-financing-process/)
+
+**Oberoende korskontroll:** oberoende branschrapportering har uppmärksammat de finska projekten och Viscarias strategiska status. De juridiska besluten och projektklassificeringarna följs dock i första hand mot kommissionens bilaga och Finlex.
