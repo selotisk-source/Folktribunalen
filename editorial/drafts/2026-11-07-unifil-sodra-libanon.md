@@ -310,3 +310,27 @@ The Council of Catholic Patriarchs and Bishops of Lebanon concluded its 59th ord
 - Vatican News, opening of the 59th session, 9 November 2026: https://www.vaticannews.va/ar/church/news/2026-11/dichiarazione-di-apertura-della-59-sessione-ordinaria-del-cons.html
 
 **Status:** Draft remains unapproved, unmerged and unpublished.
+
+
+## Källuppdatering 13 november 2026 – president Aoun tar upp övergången efter UNIFIL
+
+**Händelsedatum:** 13 november 2026. **Publiceringsdatum:** 13 november 2026.
+
+**PRIMÄRKÄLLA:** Libanons presidentkansli publicerade den 13 november en redogörelse för president Joseph Aouns möte med Imran Riza, FN:s biträdande särskilda samordnare för Libanon och humanitära samordnare. De diskuterade läget i Libanon och särskilt södern, fortsatta israeliska angrepp och statens diplomatiska kontakter för att få ett slut på dem. Kansliet anger uttryckligen att de också diskuterade pågående samråd för att undvika ett säkerhetsvakuum efter att UNIFIL:s operativa mandat upphör.
+
+**OBEROENDE BEKRÄFTELSE:** Ingen oberoende publicerad redogörelse för just detta möte identifierades i den här kontrollen. UNIFIL:s egna rapporter från 11 november beskriver fortsatt instabilitet och att en patrull nära Wadi Jilu besköts; det är en separat primär uppgift och bekräftar inte mötets innehåll.
+
+**Rättslig tidslinje:** Säkerhetsrådets resolution 2790 (28 augusti 2025) förlänger UNIFIL:s mandat till och med 31 december 2026. UNIFIL ska därefter upphöra med ordinarie verksamhet och inleda en ordnad neddragning och återtagning av personal inom ett år. Det betyder inte att samtliga fredsbevarare lämnar landet den 31 december 2026.
+
+**Vad som är nytt:** Frågan om övergången efter UNIFIL har nu en direkt, daterad presidentiell mötesnotering från 13 november. Den bekräftar att konsultationer pågår, men inte att en efterträdande styrka, ny FN-mekanism eller bindande säkerhetsgaranti har beslutats.
+
+**Öppna frågor:** Vilka alternativ har FN:s generalsekreterare lagt fram efter den tidsfrist som resolution 2790 satte till 1 juni 2026? Vilken roll och finansiering kan den libanesiska armén realistiskt bära? Finns det ett konkret förslag om internationell övervakning eller tillfällig styrka, med vilken rättslig grund och vilka befogenheter? Vilka arrangemang säkrar humanitär tillgång och kontakt för gränsbyar? Det finns ännu inget underlag här för att dra slutsatser om specifika kristna byar, kyrkor eller konfessionell fördelning.
+
+**Artikelvinkel:** *När UNIFIL:s mandat närmar sig slutet: presidenten söker en lösning på säkerhetsvakuumet – men ingen efterträdare är ännu beslutad.*
+
+**Källor:**
+- Libanons presidentkansli, 13 november 2026: https://www.presidency.gov.lb/media/news/1684
+- FN:s säkerhetsråds resolution 2790 (2025), 28 augusti 2025: https://unifil.unmissions.org/en/news/security-council-extends-unifils-mandate-resolution-2790-2025
+- UNIFIL/UN Peacekeeping, 11 november 2026: https://peacekeeping.un.org/en/news/lebanon-after-48-years-patrolling-the-blue-line-un-peacekeepers-prepare-exit
+
+**Status:** Draft remains unapproved, unmerged and unpublished.
