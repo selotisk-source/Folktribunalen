@@ -405,3 +405,130 @@ Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga sli
 
 ### 13 november 2026, 07:07 EET – Nscale-finansiering och A–S-delta
 Ny journal: [2026-11-13-breaking-watch-0707.md](https://github.com/selotisk-source/Folktribunalen/blob/research/breaking-watch-2026-11-12/editorial/research/2026-11-13-breaking-watch-0707.md). Financial Times publicerade en ny rapport om Nscales finansieringsbehov för 2027. SEC S-1/A från 12 november har korskontrollerats rad för rad: uppskattad total skuld 5,516 md USD och kassa 3,576 md USD per 30 september; uppskattad niomånaders nettoförlust 1,692 md USD; inget bindande finansieringsåtagande för Anthropic-avtalens nödvändiga finansiering per prospektdatum; ytterligare finansiering krävs för prognostiserade 2027-åtaganden. PR #14 och PR #64 har kompletterats i sina befintliga granskningsgrenar. Nscale/NVIDIA-delen omkring 16 november är fortfarande väntad, inte stängd. Övriga A–S har delta-screenats; inga andra nya materiella dokument identifierades i denna cykel. Inga merges eller LIVE-publiceringar.
+
+
+---
+
+## Delta – 13 november 2026, 13:18 EET
+
+Detta är en kompletterande kontroll efter den tidigare journalposten. Huvudordningen A–S är oförändrad. Inga artiklar har publicerats genom denna uppdatering.
+
+### Nya eller förstärkta belägg
+
+**A – Palantir / NHS: två nya dokumentationsspår**
+
+- **PRIMÄRKÄLLA:** UK Parliament, skriftligt regeringsbesked 21 november 2023, säger uttryckligen att GP-data inte skulle ingå i den nationella Federated Data Platform (FDP).  
+- **OBEROENDE BEKRÄFTELSE:** The Guardian 9 november 2026 publicerade FOI-baserade WhatsApp-meddelanden från juli 2025–mars 2026 där Palantirs brittiska ledning argumenterade för att koppla samman primär- och sekundärvårdsdata och uppmanade ministern att förutse politiskt motstånd. Detta visar lobbying, inte att GP-journaler faktiskt fördes in i den nationella plattformen. Originalfilerna från FOI-begäran är fortfarande en prioriterad hämtning.
+- **OBEROENDE BEKRÄFTELSE:** The Guardian 12 november rapporterade att NHS England tog ned den detaljerade listan över 137 sjukhustruster som påstods vara live och dra nytta av FDP, efter att 29 listade organisationer i FOI-svar uppgett att systemet inte var live eller att de inte använde alla eller de flesta verktygen. Office for Statistics Regulation granskar NHS-påståendena.
+- **Motbelägg/definition:** NHS Englands egen uppgiftssida anger fortfarande 137 rapporterande organisationer i den senast publicerade sammanställningen och definierar nyttan så att även dataanalys och administrativa inlämningsverktyg kan räknas. Det är därför inte belagt att samtliga 29 saknar all teknisk användning; tvisten gäller också vad “live” och “benefit” betyder.
+- **PRIMÄRKÄLLA:** Palantirs 10-Q för perioden till 30 september, inlämnad 4 november, redovisar 5,6 md USD i minimiåtaganden för tredjeparts molnhosting till 2036 samt 4,9 md USD i återstående prestationsåtaganden. 5,6 md är ett framtida inköpsåtagande, inte redovisad skuld. 9-månadersintäkter från amerikanska myndighetskunder anges till cirka 2,4 md USD. Leverantören för molnåtagandet specificeras inte i den relevanta upplysningen.
+- **Artikelspår:** “NHS:s två mått på Palantir – politisk räckvidd, teknisk användning och vad som faktiskt räknas som nytta”.
+
+**B – Europas AI-datacenter**
+
+- **PRIMÄRKÄLLA:** Statnett meddelade 9 november en tillfällig paus för nya kapacitetsreservationer till datacenter fram till 1 augusti 2027. Existerande anslutningar och reservationer omfattas inte av pausen. Regeringen aviserar en framtida licensordning; det är ännu inte samma sak som ett generellt lagstadgat förbud.
+- **PRIMÄRKÄLLA:** Norska myndighetsuppgifter skiljer mellan cirka 0,8 GW ansluten datacenterlast, 4,2 GW reserverad kapacitet, 9,1 GW i anslutningskö och ytterligare omkring 18 GW i förfrågningar. Kö och förfrågningar är inte byggd eller förbrukad effekt.
+- **PRIMÄRKÄLLA:** Nscale lämnade in en ändrad Form S-1/A den 12 november. De preliminära, oreviderade nio månaders siffrorna till 30 september visar cirka 307,5 mn USD i intäkter, 1,692 md USD i nettoförlust, 5,516 md USD i total skuld, 3,576 md USD i likvida medel och negativ justerad EBITDA på cirka 289,5 mn USD. Bolagets aktiva och kontrakterade TCV anges till 105,8 md USD, men den aktiva delen är 6,4 md USD. 1,37 GW är aktiv/kontrakterad kapacitet; 10 GW är en potentiell kapacitetspipeline, inte driftsatt effekt.
+- **PRIMÄRKÄLLA:** Nscale beskriver Anthropic-avtal om upp till 44,6 md USD, men uppger samtidigt att bindande finansiering för den specifika leveransen ännu inte var säkrad vid prospektdatumet. Avgifter förutsätter att kapacitet faktiskt levereras och accepteras. Detta är ett finansierings- och genomföranderiskspår, inte en redan intjänad intäkt eller en omedelbar skuld.
+- **OBEROENDE BEKRÄFTELSE:** Financial Times 13 november rapporterar att Nscale behöver säkra ytterligare kapital för sina planerade åtaganden.  
+- **Artikelspår:** koppla elnätsköer, kundåtaganden och projektfinansiering; håll isär pipeline, TCV, aktiva avtal och finansierad kapacitet.
+
+**C – Synkronicitetsprotokollet**
+
+- **OBEROENDE PUBLIKATION:** En ny teoretisk/review-inriktad artikel om “strange attractors”, flow, synkronicitet och meningsneurodynamik publicerades 19 oktober 2026. Den erbjuder ett ramverk och testbara förslag, men är inte i sig ett experimentellt bevis för en extern kausal synkronicitetsmekanism.
+- Nästa kontroll: metod, urval, preregistrering och vilka förutsägelser som faktiskt kan falsifieras.
+
+**D – Sofia / Tsar Samuil**
+
+- **PRIMÄRKÄLLA:** Bulgariens ministerråd bekräftade att överlämningen från Grekland ägde rum 3 oktober 2026 i Thessaloniki och att kvarlevorna fördes till Sofia.
+- **OBEROENDE BEKRÄFTELSE:** BTA rapporterade 8 oktober att de preliminära antropologiska undersökningarna gäller kvarlevor som hittades 1969 i basilikan St Achilles vid Prespasjön. Forskarna planerar radiokoldatering, aDNA och isotopstudier; ett optimistiskt publiceringsscenario är två till tre år. Identifieringen som Samuil bygger tills vidare på en kombination av historiska, arkeologiska och antropologiska belägg.
+- **Viktig geografisk skillnad:** den arkeologiska gravkontexten är i St Achilles i Prespa. Marmorsarkofagen i Sankt Sofia i Sofia är den nya återbegravningsbehållaren som placerades i kyrkans södra tvärskepp 3 oktober; den är inte den ursprungliga utgrävda sarkofagen från Prespa.
+- **Artikelspår:** “Från Prespa till Sofia – vad benmaterialet faktiskt kan och ännu inte kan säga”.
+
+**E – Kritiska råvaror**
+
+- **PRIMÄRKÄLLA:** EU-kommissionens beslut C(2026) 8051 av 9 oktober 2026 erkänner 46 nya strategiska projekt under CRMA; det totala antalet EU-projekt blir 106. I den nya listan finns fem projekt i Finland (CoNiKo, Hautalampi, Arctial, Sokli och Suhanko), Viscaria i Sverige och Aurubis Tankhouse Expansion Pirdop i Bulgarien.
+- **Statusgräns:** strategisk projektstatus är inte liktydigt med färdigt miljötillstånd, finansieringsstängning, byggstart eller kommersiell produktion.
+
+**F – NVIDIA / AI-finansiering**
+
+- **PRIMÄRKÄLLA:** NVIDIA:s 8-K, inlämnad 12 november, bekräftar att Jensen Huang lämnade vd-rollen med verkan från 11 november. Colette Kress är interim-vd och Harvey C. Jones styrelseordförande. Filingen anger inte orsaken till avgången.
+- **PRIMÄRKÄLLA:** styrelsen hade dessförinnan meddelat en oberoende granskning av rapporter om att Huang kan ha varit föremål för en utländsk underrättelseoperation. Styrelsen sade att den då inte hade skäl att tro att bolagshemligheter eller nationell säkerhetsinformation hade komprometterats.
+- **OBEROENDE BEKRÄFTELSE:** Reuters och andra större redaktioner rapporterar om avgången och kongressens frågor. De påstådda personliga relationerna och eventuella underrättelsekopplingarna är inte fastställda som fakta.
+- **PRIMÄRKÄLLA:** amerikanska senatorer har begärt bevarande av dokument och information; representanthusets kommitté har begärt en sluten briefing. Dessa är begäranden, inte en offentliggjord stämning eller ett konstaterat lagbrott.
+- Ingen dokumenterad ändring i Nscale-, Anthropic- eller NVIDIA-finansieringsavtal har påvisats efter vd-beskedet.
+
+**G – Libanon**
+
+- **PRIMÄRKÄLLA, begränsad hämtning:** det libanesiska parlamentets offentliga agenda anger att gemensamma utskott 9 november behandlade ett lagförslag om att inrätta ett ministerium för teknologi och artificiell intelligens. Fulltexten kunde inte hämtas från parlamentets webbplats i denna kontroll; status är “behandlat i utskott”, inte antagen lag.
+- Ingen ny oberoende, kyrkospecifik händelse om maronitiska eller andra kristna församlingar passerade tröskeln i denna kontroll.
+
+**H – Kyrkorna i Wiesbaden, Warszawa, Prag, Sofia och Varna**
+
+- Ingen ny betydande offentlig restaurerings-, ägande- eller kulturarvsbeslut identifierades i denna cykel. Fortsatt separata bevakningar per stad.
+
+**I – Fennoskandien**
+
+- **PRIMÄRKÄLLA:** SGU publicerade 5 november en studie med 12 prov från Västernorrland och 1 115 U-Pb-analyser av zirkoner, daterade till cirka 1,67–3,62 miljarder år. Resultatet förbättrar förståelsen av berggrundens proveniens och regionala samband mot Finland; det är inte ett nytt mineralfynd, en resursberäkning eller en reserv.
+- **PRIMÄRKÄLLA:** SGU rapporterade 6 november att Långban tagits upp på IUGS lista över betydande geologiska arvplatser. Det är geologiskt kulturarv, inte ett nytt brytningstillstånd.
+- Ingen ny myndighets- eller rasbeslutshändelse om nordsvensk/finsk hästavel eller renskötsel identifierades i denna cykel.
+
+**J – Storsjöodjuret / Odjuret ur djupet**
+
+- Ingen ny oberoende verifierad observation av Storsjöodjuret identifierades.
+- **PRIMÄRKÄLLA:** Walter Isaacsons intervju med Peter Thiel publicerades i The Builders 22 oktober 2026. Thiel beskriver Antikrist som risken att rädsla för Armageddon och existentiella hot används för att motivera en “softly totalitarian” världsstat; han motsätter sig paus i AI-utvecklingen med hänvisning till Kina. Detta är Thiels egen politisk-teologiska tolkning, inte ett belägg för ett biologiskt väsen eller för att Uppenbarelseboken beskriver Storsjöodjuret.
+- Frösöstenens runtext ska behandlas som en separat historisk källa om kristnande och brobyggande; orm-/drakmotivet är ikonografi, inte en verifierad observation av sjöodjuret.
+
+**K – Cladonia / Storsjö kapell**
+
+- **OBEROENDE BEKRÄFTELSE:** uppföljningen av mötet med Bergs kommun 10 november beskriver kommunens uppfattning att den offentligt framförda inriktningen gäller friluftsliv och skidåkning, inte datacenter eller gruvdrift.
+- **PARTSUPPGIFT:** bolagets tidigare besked om att ingen vinteravverkning planeras och att en skogsbruksplan ska tas fram är inte ett bindande, offentligt skötselbeslut.
+- Fortsatt öppet: fastighetsbeteckningar, lagfartsdatum, transaktionskedjan för de rapporterade 300 hektaren/5 mnkr och om dessa är ett separat förvärv från huvudaffären. JO-spåret och fullständig ISP-handling behöver följas. Alex Karp personligen hålls åtskild från Cladonia Skog AB.
+
+**L – Skaga kapell**
+
+- Ingen ny offentlig restaurerings-, brand-, ägande- eller byggnadsarkeologisk handling identifierades i denna cykel.
+
+**M – Böckernas väg till Athos**
+
+- Ingen ny offentlig katalogisering, dokumenterad donation eller digitaliseringsmilstolpe identifierades i denna cykel. Det befintliga MOmA-spåret kvarstår; Sverige-/Bulgarien-proveniens måste beläggas separat.
+
+**N – Från skrift till Storebror**
+
+- **PRIMÄRKÄLLA:** EU-rådets tidslinje visar att AI-omnibusförordningen fick slutligt klartecken 29 juni 2026. Tillämpningen av högriskreglerna flyttas till 2 december 2027 för fristående högrisksystem och 2 augusti 2028 för högrisksystem inbyggda i produkter. Krav på transparenslösningar för syntetiskt innehåll får tidsfrist 2 december 2026.
+- **PRIMÄRKÄLLA:** eIDAS 2.0 kräver att medlemsstaterna tillhandahåller minst en EUDI-plånbok senast vid utgången av 2026. Användningen ska vara frivillig och alternativa sätt att nå offentliga och privata tjänster ska finnas kvar.
+- Nästa kontroll: nationell implementering, certifiering, relying-party-register, dataskydd och faktisk användning.
+
+**O – Hormuz / sjöfart**
+
+- **OBEROENDE BEKRÄFTELSE med myndighetskälla återgiven:** Reuters rapporterade 12 november om att tankfartyget DOMINICA PROSPERITY träffades omkring 14 nautiska mil nordväst om Ras al-Khaimah den 11 november. Besättningen evakuerades säkert och brand rapporterades i maskinrummet. Händelsen ligger i Arabiska viken nära Hormuzinfarten, inte nödvändigtvis i själva sundets smalaste del. Ingen ansvarig aktör är fastställd i den offentliga incidentuppgiften.
+
+**P – USA:s kongress**
+
+- **OBEROENDE BEKRÄFTELSE:** AP och Reuters har kallat demokratisk kontroll över både representanthuset och senaten i 2026 års mellanårsval. Den nya kongressen tillträder 3 januari 2027; den sittande 119:e kongressen behåller sina befogenheter fram till dess. Alla delstatsresultat är inte slutligt certifierade.
+- NVIDIA-förfrågningarna från kongressledamöter är separata från valresultatet och ska följas som tillsynsbegäranden, inte som redan utfärdade subpoenas.
+
+**Q – Gripen / Europas säkerhet**
+
+- **PRIMÄRKÄLLA:** Saab redovisade i Q3-rapporten 23 oktober en orderbokning på cirka 24,6 md SEK för 16 Gripen E till Ukraina; kontraktet hade undertecknats 30 juni 2026. Orderbokning och leverans är olika tidpunkter.
+- **PRIMÄRKÄLLA/PARTSUPPGIFT:** Saab uppgav 3 november att AI-agenter hade testats i Gripen E i flygscenarier. Ingen oberoende teknisk verifiering av systemets operativa autonomi har hämtats; publicera inte känsliga flyg- eller vapendetaljer.
+- Den första Gripen E som byggts i Brasilien flög 6 oktober; följ upp certifiering, leverans och lokal industrikapacitet separat.
+
+**R – Strategisk energi och större bolag**
+
+- **OBEROENDE BEKRÄFTELSE:** EdgeConneX har fått ett delvis startbesked för de första datacenterbyggnaderna på det tidigare Northvolt-området i Skellefteå. Det gäller inte hela campusets möjliga kapacitet.
+- **PARTSUPPGIFT:** Lyten beskriver återstart av batteriverksamhet, men oberoende belägg för kommersiella cellleveranser har inte hämtats i denna kontroll.
+- Onkalo-licensen behandlas även under S; den är ett kärnbränsleförvarsbeslut, inte ett nytt elproduktions- eller energilagringsprojekt.
+
+**S – Urbergsskölden**
+
+- **PRIMÄRKÄLLA:** Posiva meddelade 22 oktober att finska regeringen beviljat den första driftlicensen i världen för inkapslings- och slutförvarsanläggningen för använt kärnbränsle i Olkiluoto. Licensen innebär inte omedelbar drift: driftsättning, tester och STUK:s fortsatta godkännanden återstår.
+- **Avgränsning:** Onkalo är ett geologiskt slutförvar för använt kärnbränsle, inte ett energilager som levererar elektricitet. Det är relevant som civil underjordisk infrastruktur och långsiktig geoteknik, men får inte beskrivas som Cavecore-energilagring.
+- CRMA-listan, Viscaria, de fem finska projekten, Aurubis Pirdop och SGU:s nya geologiska data korskopplas till E och I.
+
+### Käll- och publiceringsstatus
+
+- Researchloggen kompletterar tidigare journalposter; den är inte en publiceringsorder.
+- PR #42 är fortsatt DRAFT och har kompletterats med NHS-uppföljningen.
+- Befintliga utkast om AI-infrastruktur, NVIDIA, Gripen, Athos, Storsjö/Cladonia och Urbergsskölden förblir i sina befintliga granskningspositioner.
+- Ingen ny artikel har mergats eller publicerats i denna cykel.
