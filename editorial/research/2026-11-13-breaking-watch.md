@@ -392,3 +392,6 @@ Greenpeace publicerade en interaktiv satellitkarta med fler än 500 möjliga sli
 **PRIMÄRKÄLLA – Ramnauth et al., Earth's Future, först publicerad 8 november 2026:** bakåtriktade spridningssimuleringar för 2016–2022 och sjötrafikdata visar att cirka 19 procent av Persiska vikens yta ligger i en högriskzon där olja kan nå viktig vatten- eller energiinfrastruktur på mindre än tre dygn. Modellen är en regional sårbarhetsanalys, inte en rekonstruktion av 2026 års enskilda utsläpp. Data/kod finns på Zenodo.
 
 **Kuststatus:** Ras Al Khaimah och Sharjah har återöppnat flera stränder; Umm Al Quwain var fortsatt stängt enligt The National 12 november. Al Luluyah i Khor Fakkan stängdes 9 november efter en separat oljefläck med okänd orsak. Reuters rapporterade inga avsaltningsstopp till följd av det aktuella utsläppet.
+
+
+**Caroline Bezengi – arealuppskattningar:** Greenpeace Germany (6 oktober) anger cirka 600 km² maximal satellitobserverad utbredning. UNU-INWEH:s separata satellitanalys från augusti anger cirka 300 km² utanför Hallaniyat. Uppskattningarna kan avse olika datum och avgränsningar; de är inte oljevolymer och ska inte summeras.
