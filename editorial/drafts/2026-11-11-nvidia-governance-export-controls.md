@@ -439,3 +439,15 @@ Källor:
 - [Singapore MHA – investigations into Alice Huang and Megaspeed, 12 November](https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/)
 - [The Straits Times – MHA investigation outcome, 12 November](https://www.straitstimes.com/singapore/police-probe-into-alice-huang-found-insufficient-evidence-of-offences-relating-to-megaspeed-mha)
 - [Reuters – Megaspeed export-control review, 12 November](https://www.reuters.com/world/china/nvidia-customer-megaspeed-says-it-cooperated-with-us-inspections-takes-export-2026-11-12/)
+
+
+
+### Washington Post: informationsutbyte mellan USA och Singapore
+
+**OBEROENDE RAPPORTERING, anonyma myndighetskällor, 12 november 2026:** The Washington Post rapporterade att Singapore vid upprepade tillfällen begärt amerikansk hjälp i utredningen kring Alice Huang och Megaspeed, men fått begränsad hjälp. Artikeln uppger även att amerikanska myndigheter följt Megaspeed sedan 2025 med misstankar om att GPU:er kunde ha styrts vidare till Kina.
+
+Detta är en uppgift från sekundär rapportering med anonyma källor, inte ett offentliggjort amerikanskt eller singaporianskt diariedokument. MHA:s offentliga tidslinje säger att Singapore först fick kännedom om USA:s intresse genom BIS:s frivilliga Post-Shipment Verification den 24 juni 2025. Uppgifterna behöver inte vara motsägande om de singaporianska begärandena gjordes efter detta datum, men datum, innehåll och svar på varje begäran är inte offentliga i de handlingar som lokaliserats.
+
+**Nästa dokumentkontroll:** sök efter offentliggjorda diplomatiska skrivelser, BIS-korrespondens, tull-/polisförfrågningar och eventuella domstolsbilagor. Fram till dess ska Washington Posts uppgift märkas som oberoende rapportering, inte fastställd myndighetsdokumentation.
+
+Källa: [The Washington Post – U.S. did little to help Singapore investigate alleged Chinese spy, officials say, 12 November 2026](https://www.washingtonpost.com/technology/2026/11/12/us-did-little-help-singapore-probe-alleged-chinese-spy-officials-say/)
