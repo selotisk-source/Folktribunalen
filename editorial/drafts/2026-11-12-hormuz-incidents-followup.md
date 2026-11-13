@@ -346,7 +346,7 @@ Omans transportministerium identifierade i augusti **Caroline Bezengi** som ett 
 
 ### Miljöuppföljning i Förenade Arabemiraten
 
-**PRIMÄRKÄLLA:** Sharjahs och Ras Al Khaimahs myndigheter meddelade den 12 november att berörda stränder åter öppnades efter åtgärder mot utsläppet från **GEM NO.2**, som skadades i en separat incident den 30 oktober. Detta är ett beslut om återöppning och en myndighetsuppgift om genomförda åtgärder, inte en fullständig oberoende bedömning av långsiktig ekologisk återhämtning.
+**OBEROENDE BEKRÄFTELSE:** Reuters och The National rapporterade den 12 november att Ras Al Khaimah och Sharjah återöppnat flera stränder efter sanerings- och kontrollåtgärder för utsläppet från **GEM NO.2**. Det betyder inte att hela kusten är öppen: The National uppgav att stränderna i Umm Al Quwain fortfarande var stängda. Separat stängdes Al Luluyah Beach i Khor Fakkan den 9 november efter att en ny oljefläck upptäckts; orsaken har inte offentliggjorts. Den östra kustincidenten får inte kopplas till GEM NO.2 utan belägg. Återöppning är inte detsamma som en fullständig oberoende bedömning av långsiktig ekologisk återhämtning.
 
 ### Incidentnivå och öppna frågor
 
@@ -365,3 +365,40 @@ Källor:
 - [Reuters – Four tankers struck by explosions in Strait of Hormuz, Iran says, 12 November](https://www.reuters.com/world/middle-east/two-oil-tankers-disabled-by-explosions-strait-hormuz-irgc-says-2026-11-12/)
 - [Reuters – Oman monitors grounded tanker, 12 November](https://www.reuters.com/world/middle-east/oman-monitors-handling-oil-tanker-run-aground-off-its-coast-2026-11-12/)
 - [Oman Observer / Oman News Agency – Emergency committee discusses tanker grounding, 12 November](https://www.omanobserver.om/article/1199589/oman/emergency-committee-discusses-oil-tanker-grounding)
+
+
+## Miljöskalan – satellitdetektioner och sårbarhetsmodell
+
+### Greenpeace/Kpler-kartan: 500+ möjliga oljefläckar
+
+**PARTSUPPGIFT / NGO-analys, publicerad 12–13 november 2026:** Greenpeace har publicerat en interaktiv satellitkarta som identifierar fler än **500 möjliga oljefläckar** i Persiska viken, Hormuzsundet och närliggande vatten sedan kriget började den 28 februari. The Guardian anger en sammanlagd karta över dagliga fotavtryck på cirka **20 000 km²**; Arab News anger **540 slick detections**.
+
+**Metodisk avgränsning:** detta är inte belägg för 500 eller 540 separat markverifierade oljeutsläpp. Det är satellitbaserade detektioner/indikatorer, där ursprung och ansvar inte är fastställda för varje fläck. De cirka 20 000 km² är en kumulativ summering av dagliga kartlagda fotavtryck, inte nödvändigtvis 20 000 km² unik vattenyta som samtidigt varit förorenad och inte ett mått på oljevolym. Den råa detektionsfilen har inte laddats ned och reproducerats i denna kontroll.
+
+### Ny vetenskaplig studie: 19 procent av viken i högriskzon
+
+**PRIMÄRKÄLLA – vetenskaplig artikel:** Nylan Ramnauth, Alexis Culot, Thomas Dobbelaere, Essam Heggy och Emmanuel Hanert, “Oil Spill Vulnerability in the Arabian/Persian Gulf Threatens Regional Water Security and Global Energy Supply”, *Earth’s Future*, först publicerad **8 november 2026**, DOI 10.1029/2026EF008477.
+
+Studien kombinerar bakåtriktade oljespridningssimuleringar för **2016–2022** med sjötrafikdata. Författarna uppskattar att cirka **19 procent av Persiska vikens yta** ligger i ett högriskområde där ett utsläpp kan nå viktig vatten- eller energiinfrastruktur på mindre än tre dagar. Två större riskzoner identifieras: en sydvästlig korridor mellan Saudiarabien, Qatar, Bahrain och Förenade Arabemiraten samt en nordöstlig zon längs UAE:s kust. Nordvästliga Shamal-vindar kan driva förorening mot sydöstra viken, särskilt UAE och Qatar.
+
+**Viktig avgränsning:** modellen är en regional sårbarhetsanalys byggd på data från 2016–2022. Den är inte en rekonstruktion av de enskilda utsläppen under 2026 års konflikt och bekräftar inte Greenpeace-kartans 500/540 detektioner. Studien gör däremot vattenavsaltning och energiexport till en tydlig del av riskbilden. Data och kod har arkiverats öppet på Zenodo.
+
+**Oberoende korskontroll:** The Guardian och Arab News rapporterar om Greenpeace-kartan, men båda återger samma NGO-analys och utgör därför inte två oberoende mätningar. Ramnauth et al. är en separat vetenskaplig modellstudie, inte en validering av varje aktuell satellitdetektion.
+
+### Aktuell kuststatus – 12 november
+
+- **Ras Al Khaimah:** sju namngivna offentliga/resortstränder öppnades den 11–12 november; fler skulle öppnas efter kontroll.
+- **Sharjah:** flera stränder återöppnades den 12 november efter miljöbedömningar och sanering.
+- **Umm Al Quwain:** stränderna var fortfarande stängda enligt The National den 12 november.
+- **Khor Fakkan:** Al Luluyah Beach stängdes den 9 november efter en separat oljefläck; orsak okänd.
+- Reuters rapporterade den 12 november att inga avsaltningsanläggningar hade rapporterat driftstopp på grund av det aktuella utsläppet.
+
+Källor:
+- [Greenpeace – interactive satellite map of oil slicks in the Gulf](https://www.greenpeace.org/international/story/???)
+- [The Guardian – Oil slicks seen from space, 12 November 2026](https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems)
+- [Arab News – Greenpeace reports 540 oil slicks, 13 November 2026](https://www.arabnews.com/node/2623400/middle-east)
+- [Ramnauth et al., Earth's Future, 8 November 2026](https://doi.org/10.1029/2026EF008477)
+- [Open model data and code on Zenodo](https://doi.org/10.5281/zenodo.18979126)
+- [Reuters – UAE's Ras Al Khaimah and Sharjah reopen several beaches, 12 November](https://www.reuters.com/world/middle-east/uaes-ras-al-khaimah-sharjah-reopen-several-beaches-after-tanker-oil-spill-2026-11-12/)
+- [The National – Sharjah reopens beaches, Umm Al Quwain remains closed, 12 November](https://www.thenationalnews.com/news/uae/2026/11/12/sharjah-reopens-beaches-to-public-after-oil-spill-clean-up/)
+- [Reuters – Al Luluyah Beach closure in Khor Fakkan, 9 November](https://www.reuters.com/world/middle-east/uae-city-khor-fakkan-shuts-beach-after-detecting-oil-spill-2026-11-09/)
