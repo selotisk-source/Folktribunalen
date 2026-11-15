@@ -1,7 +1,31 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 14 november 2026, 08:13 EET – efter aktuell kontroll av PR #64, Render, databas och nyhetsläget  
+**Version:** 15 november 2026, 08:56 EET – efter aktuell kontroll av PR #64, källor och nyhetsläget  
 **Arbetsregel:** En artikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö. Ingen automatisk publicering. Endast chefredaktörens uttryckliga godkännande får föra en artikel till LIVE. Statusavsnitten högst upp är aktuella; arbetsloggar längre ned bevaras som historik.
+
+
+
+## Aktuell arbetskontroll – 15 november 2026, 08:56 EET
+
+### Aktiv huvudartikel och godkännandekö
+- **Huvudspår 1 – Palantir:** PR #55 är mergad och artikeln ligger i den publika statiska sajten. Senaste dokumenterade kontroll av artikelroute var 13 november (HTTP 200).
+- **Huvudspår 2 – Europas AI-infrastruktur:** PR #64 är fortsatt **open / Draft / ej godkänd / ej mergad / ej publicerad**. GitHub visar 4 commits och `mergeable: true`; head är `08afcbdd228125d94dcd1aecee9a6d48e11a3d6a`. PR-beskrivningens senaste jämförelse anger 4 commits före och 1 bakom `main`; gör en ny jämförelse mot aktuell `main` före eventuell merge. Inga review submissions eller chefredaktörsbeslut finns registrerade. Kanonisk text: `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`, 501 rader och 55 689 tecken.
+- **Artikelordningen är oförändrad:** PR #64 är enda aktiva huvudartikel i granskningskön. Huvudspår 3 får inte påbörjas förrän PR #64 har godkänts, publicerats och den publika artikelsidan har kontrollerats LIVE.
+- **Nya/ytterligare öppna utkast som hålls parkerade:** PR #65 (Kazakstans tungstenprojekt; strategiska råvaror/finansiering), PR #61 (SOU 2026:58 och markrätt), PR #59 (Norrsundet/SMR), PR #58 (JEF:s nordliga flottor), PR #57 (retrospektiv ansiktsigenkänning), PR #56 (Meta/Ofcom), PR #53 (Hormuz-incidentuppföljning) och PR #52 (Siemens Energy/AI-elnät). De är separata draft-ärenden, inte godkända och inte en order att starta parallell artikelproduktion. De ska inventeras och hållas i vänteläge tills den aktiva artikelordningen tillåter respektive arbete.
+
+### Nyhets- och källuppdatering 15 november
+- **EuroHPC – AI-gigafabrikupphandlingen:** den officiella upphandlingssidan är fortfarande markerad `Open`. Lot 2 har sista dag 3 december 2026 kl. 17.00 CET och Lot 1 den 4 februari 2027 kl. 17.00 CET. EuroHPC säger att tidigare utkast och redan inskickade anbud inte kommer att beaktas efter tekniska problem; sökande måste skapa och skicka in på nytt via de nya länkarna. Inga vinnare eller slutliga platser är beslutade. Detta bekräftar PR #64:s befintliga avgränsning: upphandling är inte tilldelning, finansiering eller byggstart. Primärkälla: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **Microsoft 365 – driftsäkerhet och leverantörskoncentration:** störningen 12–14 november påverkade Outlook, Teams, Copilot och andra Microsoft 365-tjänster i över 70 länder/territorier. Microsoft uppgav att tjänsterna var återställda den 14 november och beskrev orsaken som ett tekniskt problem där en tidigare nätkapacitetsuppgradering kom i dagen efter en senare nätverksändring; bolaget sade att incidenten inte var cyber- eller AI-relaterad. Detta är ett exempel på operativt beroende av en molnleverantör, inte belägg för elavbrott eller fysisk skada i ett datacenter. Bevakas som separat resiliensspår och kan korsrefereras till Från skrift till storebror. Oberoende källor: https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage ; https://apnews.com/article/ca395c0f1e51af784b6d70afb6554f6a
+- **Palantir/NHS:** The Guardian rapporterade 12 november att NHS England tog ned sidan som angav att 137 truster var live/realising benefits efter att 29 truster uppgett att de inte använde alla eller de flesta av FDP-verktygen. OSR granskar NHS:s nyttopåståenden. Detta ska bli ett separat daterat uppdateringsförslag till redan publicerad Palantir-artikel efter att PR #64-cykeln avslutats; det får inte blandas ihop med bevis om GP-journalintegration. Källa: https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools
+- **Hormuz – 14 november:** Reuters rapporterade att Irans flotta hävdade att tre tankfartyg fattat eld efter minträffar i eller nära Hormuzsundet. Reuters kunde inte omedelbart verifiera uppgifterna. Artikeln anger inte fartygsidentiteter eller oberoende skadebekräftelse. Behandla som iransk partsuppgift; lägg inte till IMO:s bekräftade incidentantal och slå inte ihop med Reuters rapport 12 november om fyra andra påstådda fartygsincidenter. Källa: https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/
+- **Gripen över Polen:** ingen ny officiell händelseuppgift identifierad i denna kontroll. 3 november är fortsatt senaste dokumenterade enskilda patrulluppgift i befintligt underlag; antal Gripen är inte offentliggjort.
+- **USA:s kongress:** ingen ny slutlig passage eller ny status som ändrar den 12 november-kontrollerade lagstiftningskedjan identifierad. H.R. 2347:s ursprungliga innehåll och BAAJA:s ersättningstext hålls fortsatt åtskilda.
+
+### Teknik och publiceringsstatus – senast kontrollerad
+- Publik statisk Render-tjänst: deployment `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, status `live`, avslutad 13 november 01:35:25 UTC. Hormuz-route-test är fortfarande inte avslutat; Palantir-route hade HTTP 200 i kontrollen 13 november.
+- Redaktionell backend: senaste dokumenterade live deployment är 4 november, commit `6a835783553565f239864a9da7160d9f79f692b2`; admin/API-flödet är inte testat end-to-end.
+- Postgres `folktribunalen-db`: senaste dokumenterade status `available`, men `ipAllowList=[]`. Den senaste read-only `SELECT 1` nekades med felmeddelandet att databasen blockerar alla externa anslutningar eftersom IP-allowlisten är tom. Vägen framåt är en lokalt körd Render MCP-anslutning eller en uttryckligen betrodd klient-IP i Networking; ingen öppen `0.0.0.0/0`-regel.
+- Vasilevskis identitet är fortfarande inte fastställd; ingen personbeskrivning eller hyllningstext får publiceras innan identiteten och bidraget har dokumenterats.
 
 ## Publicerings- och systemstatus
 
