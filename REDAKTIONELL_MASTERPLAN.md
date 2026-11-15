@@ -72,8 +72,8 @@
 ### Portfölj som ska hållas levande
 - **Skaga kapell:** den redan definierade åttadelade undersökningen. Fortsätt med arkiv, byggnadshistoria och källkritik; sägner märks som lokal tradition.
 - **Framtid och teknik:** AI, infrastruktur, samhällsförändring, framtidsscenarier och teknikens konsekvenser. Håll detta som ett eget återkommande spår, inte bara som reaktion på dagsnyheter.
-- **Frölunda:** eget redaktionellt ämnesspår. Exakt vinkel och avgränsning ska hämtas ur användarens tidigare projektunderlag innan artikelpåståenden eller rubrik fastställs.
-- **Cypern:** eget historiskt, kulturellt och geopolitiskt spår; bygg källbas och avgränsa delämnen innan utkast.
+- **Frölunda:** ortnamnshistorisk undersökning. Utgå från originalbelägget **Frølanda 1436**; följ utvecklingen genom 1500-talets former, 1550 års Frölunda och 1886 års Västra-tillägg. Isofs tolkning är standardutgångspunkt: frö i betydelsen fruktbar/frodig + land, med senare -lunda-utveckling. Jämför Frösön, Fröslunda, Frösåker och Fröseke. Håll Västra och Östra Frölunda åtskilda; Frølvnda 1402 är ett separat belägg. År 1313 får endast nämnas som en möjlig parallell om identifikationen kan styrkas. Gudad namnshypotes får inte användas som slutsats utan originalkällestöd. Prioritera originalkällor och Isofs ortnamnsforskning.
+- **Cypern:** egen kulturhistorisk serie med Palaipafos och övergången från lokala fruktbarhetskulter till Afroditekulten; Geroskipou/Hieros Kipos (”helig trädgård”); Asklepieion i Nea Pafos; Kungagravarna; samt Commandaria. Pröva varje historiskt samband mot arkeologiska och textuella belägg; förutsätt inte obruten kultkontinuitet eller att senare namn bevisar äldre funktion.
 - **Varna och Svartahavsområdet:** egen regional bevakning med historia, kulturarv, stadsmiljö, kyrkor och regional utveckling. Koppla till Sofia och Svartahavsserien där det är relevant utan att slå ihop separata artiklar.
 - **Övriga etablerade huvudspår och serier:** Synkronicitetsprotokollet, Sofia, strategiska råvaror, NVIDIA/finansiering, Libanon, kyrkorna som överlevde imperierna, Fennoskandien, Böckernas väg till Athos, ODJURET UR DJUPET och Från skrift till storebror.
 
