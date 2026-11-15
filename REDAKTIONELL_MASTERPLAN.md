@@ -65,6 +65,30 @@
 | **Böckernas väg till Athos** | Serien om Sofia, klostren, bokhandel, Zograf och ortodox bildningstradition | PR #26 är ett separat utkast om 30 000 osmanska dokument och digitalisering. De fyra tidigare utkast som uppgavs ha skapats 5 november har inte återfunnits med exakta titlar/fulltexter. Återskapa dem inte från minnet. Äldre redaktionellt beslut: huvudplacering SVART HAV, korsreferens RÖD JORD. |
 | **Från skrift till storebror** | Skrift, register, statistik, databaser och övervakning som maktens minne | Delutkast finns i PR #21 (svensk realtidsansiktsigenkänning), PR #41 (Arbetsförmedlingens AI-profilering), PR #45 (Kelas arbetsplatsövervakning) och PR #54 (eu-LISA/EES). En sammanhängande huvudartikel krävs; skilj lagstöd, pilot, faktisk driftsättning och tillsyn.
 
+## Redaktionell portföljstyrning – balanserad daglig verksamhet
+
+**Beslutad arbetsprincip – 16 november 2026:** FOLKTRIBUNALEN är en flerområdesredaktion, inte en Hormuz-redaktion. Nyhetsintensitet får inte ensam bestämma vad redaktionen arbetar med. Hormuz ligger kvar i den separata breaking watch-kön och dess uppdateringar registreras som avgränsade evidensnotiser eller daterade artikeluppdateringar. De får inte automatiskt tränga undan kultur, historia, framtid, ekonomi, regionala reportage eller de långsiktiga huvudspåren.
+
+### Portfölj som ska hållas levande
+- **Skaga kapell:** den redan definierade åttadelade undersökningen. Fortsätt med arkiv, byggnadshistoria och källkritik; sägner märks som lokal tradition.
+- **Framtid och teknik:** AI, infrastruktur, samhällsförändring, framtidsscenarier och teknikens konsekvenser. Håll detta som ett eget återkommande spår, inte bara som reaktion på dagsnyheter.
+- **Frölunda:** eget redaktionellt ämnesspår. Exakt vinkel och avgränsning ska hämtas ur användarens tidigare projektunderlag innan artikelpåståenden eller rubrik fastställs.
+- **Cypern:** eget historiskt, kulturellt och geopolitiskt spår; bygg källbas och avgränsa delämnen innan utkast.
+- **Varna och Svartahavsområdet:** egen regional bevakning med historia, kulturarv, stadsmiljö, kyrkor och regional utveckling. Koppla till Sofia och Svartahavsserien där det är relevant utan att slå ihop separata artiklar.
+- **Övriga etablerade huvudspår och serier:** Synkronicitetsprotokollet, Sofia, strategiska råvaror, NVIDIA/finansiering, Libanon, kyrkorna som överlevde imperierna, Fennoskandien, Böckernas väg till Athos, ODJURET UR DJUPET och Från skrift till storebror.
+
+### Daglig arbetsfördelning
+1. Behåll **en aktiv huvudartikel åt gången** i den formella gransknings- och publiceringskön. PR #64 för Europas AI-infrastruktur är fortsatt aktiv tills chefredaktörens beslut och faktisk LIVE-kontroll är klara.
+2. Parallellt får redaktionen samla källor, dokumentera evidens och förbereda researchpaket för andra portföljspår. Ett researchpaket är inte en andra aktiv huvudartikel och får inte kringgå artikelordningen.
+3. Varje dag ska minst ett **icke-Hormuz-spår** föras framåt med en konkret leverans: källpaket, faktakontroll, disposition, bildbrief eller komplett utkast när artikelordningen tillåter det.
+4. Välj nästa spår genom rotation och hur länge det sedan senast fördes framåt – aldrig enbart efter mängden inkommande nyhetsnotiser.
+5. En verkligt tidskritisk händelse får tillfälligt bryta rotationen endast med dokumenterad motivering. Det undanträngda spåret återupptas i nästa cykel.
+6. Små nyhetsuppdateringar blir separata, daterade och källänkade notiser. De skrivs in som tillägg i befintlig artikel när det är relevant; de startar inte automatiskt en omskrivning eller ny huvudartikel.
+7. Alla leveranser förblir utkast eller granskningsunderlag tills chefredaktören uttryckligen godkänner publicering.
+
+### Rapportering i varje dagsavslut
+Redovisa vilket portföljspår som faktiskt fördes framåt, vilken leverans som skapades, vilket spår som står näst i rotationen, vilka Hormuz-signaler som endast registrerades som kompletterande uppdateringar samt eventuella käll- eller systemblockeringar.
+
 ## Aktuella nyhetsspår
 
 **Köregel:** De aktuella nyhetsspåren bevakas löpande, men de ersätter inte ordningen för de nio långsiktiga huvudspåren. Hormuz är fortsatt separat prioritet 6 i nyhetskön.
