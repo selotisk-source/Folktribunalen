@@ -3,7 +3,7 @@
 **Artikeltyp:** Undersökande granskning · AI-infrastruktur · energi · offentlig finansiering · regional utveckling  
 **Faktaläge:** 13 november 2026  
 **Huvudspår:** 2 – Europas AI-datacenter  
-**Redaktionell status:** Reviderat och faktakontrollerat granskningsutkast för chefredaktören. Inte godkänt, inte mergat och inte publicerat.
+**Redaktionell status:** CHEFREDAKTÖRSGODKÄND 15 november 2026 (PR-kommentar 6898229000). PR #64 mergades 15 november 2026 kl. 22:57:44 UTC, merge-commit `45a9b8c2cc295b708afddcb739eb180318fd3052`. Statisk frontend-kod innehåller artikelkroppen, men kortet för `europas-ai-infrastruktur` är felmärkt som Meta/Ofcom i den senaste Render-deployen. Den publika artikelrouten har inte HTTP-testats. Redaktionell backend/databasåtkomst är blockerad av tom Postgres-IP-allowlist; artikeln ska därför inte markeras LIVE-verifierad.
 
 ## Ingress
 
