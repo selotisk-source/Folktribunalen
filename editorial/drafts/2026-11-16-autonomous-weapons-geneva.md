@@ -1,4 +1,4 @@
-# Vem får ge maskinen rätt att döda? FN öppnar förhandlingarna om autonoma vapen
+# Vem får ge maskinen rätt att döda? Genève avgör vägen vidare för autonoma vapen
 
 **Redaktionell status:** nytt granskningsutkast, 16 november 2026  
 **Huvudspår:** A – offentlig makt och säkerhet · Q – försvarsteknik · N – algoritmisk styrning  
@@ -7,7 +7,7 @@
 
 ## Genève blir nästa prövning av mänsklig kontroll
 
-I dag, den 16 november, öppnar FN:s sjunde översynskonferens för konventionen om vissa konventionella vapen i Genève. Mötet pågår till den 20 november. En central fråga är om staterna ska gå vidare mot förhandlingar om internationella regler för dödliga autonoma vapensystem – system som kan välja ut och angripa mål med begränsad eller ingen mänsklig inblandning.
+I dag, den 16 november, öppnar FN:s sjunde översynskonferens för konventionen om vissa konventionella vapen i Genève. Mötet pågår till den 20 november. En central fråga är vilket mandat staterna ska ge det fortsatta arbetet om dödliga autonoma vapensystem – däribland om formella förhandlingar om internationella regler ska inledas. Systemen diskuteras utifrån sin förmåga att identifiera, välja ut och angripa mål utan ingripande av en mänsklig operatör.
 
 Det är inte en diskussion om en avlägsen framtid. Reuters rapporterar den 16 november att AI-assisterade och delvis autonoma vapensystem redan används i konflikter, samtidigt som staterna är oense om huruvida nästa steg ska vara ett bindande rättsligt instrument, politiska riktlinjer eller en kombination.
 
@@ -15,7 +15,7 @@ Konflikten gäller inte bara teknikens precision. Den gäller vem som bär ansva
 
 ## Vad som faktiskt står på bordet
 
-FN:s kontor i Genève anger att översynskonferensen ska behandla resultatet från expertgruppen för dödliga autonoma vapensystem, GGE on LAWS. Gruppen antog den 4 september 2026 en rapport med möjliga delar i ett framtida instrument, utan att på förhand bestämma instrumentets rättsliga form.
+FN:s kontor i Genève anger att översynskonferensen ska behandla resultatet från expertgruppen för dödliga autonoma vapensystem, GGE on LAWS. Gruppen antog den 4 september 2026 enhälligt en rapport med en uppsättning delar till ett möjligt framtida instrument, utan att på förhand bestämma instrumentets rättsliga form. Rapportens centrala karaktärisering omfattar system som kan identifiera, välja ut och angripa ett mål på ett sätt som leder till förlust av människoliv utan ingripande av en mänsklig operatör. Rapporten framhåller också att internationell humanitär rätt gäller fullt ut och att mänsklig kontroll, mänskligt omdöme och individuellt ansvar måste upprätthållas.
 
 Konferensen ska överväga dessa delar och besluta om mandat och former för det fortsatta arbetet. Det är alltså inte redan beslutat att ett fördrag ska förhandlas fram. Beslutet den här veckan gäller vägen framåt.
 
@@ -76,14 +76,14 @@ Den avgörande prövningen är om staterna kan formulera regler som bevarar män
    https://www.ungeneva.org/fr/news-media/press-briefing/2026/11/un-information-service-geneva-press-briefing
 
 5. **UNODA**, CCW/GGE.1/2026/3, slutrapport från expertgruppen om framväxande teknologier inom dödliga autonoma vapensystem, antagen 4 september 2026. Primärdokument som ska kontrolleras mot den slutliga förhandlingshistoriken.  
-   https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-SeventhReview_Conference_%282026%29/
+   https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-_Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_%282026%29/CCW-GGE.1-2026-3-Advance_copy.pdf
 
 6. **UNODA**, CCW/CONF.VII/MC.II/2, Provisional programme of work of Main Committee II, 18 september 2026. Primärkälla för arbetsprogrammet 17–19 november.  
    https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-SeventhReview_Conference_%282026%29/G2615122.PDF
 
 ## Öppna frågor före publicering
 
-- Hämta och läs den fullständiga GGE-slutrapporten CCW/GGE.1/2026/3, inklusive bilagor och exakt ordalydelse.
+- Fortsatt bevakning: jämför konferensens antagna beslut med GGE-rapportens rekommendationer när dokumenten publiceras.
 - Kontrollera konferensens beslut och dokument dag för dag under 16–20 november.
 - Hämta de fullständiga nationella inlagorna från USA, Ryssland, EU, Storbritannien, Tyskland och Frankrike innan deras ståndpunkter utvecklas längre än Reuters rapportering.
 - Skilj i fortsatt rapportering mellan helt autonoma system, fjärrstyrda system och AI-assisterade system; begreppen får inte blandas ihop.
