@@ -15,10 +15,10 @@ Den aktuella REDAKTIONELL_MASTERPLAN.md på main har lästs i sin helhet.
 ## Pågående portfölj
 - Nio huvudspår: Palantir/offentlig makt; Europas AI-infrastruktur; Synkronicitetsprotokollet; Sofia/staden under staden; strategiska råvaror; NVIDIA som säkerhet; Libanon; kyrkorna som överlevde imperierna; Fennoskandien.
 - Separata serier: ODJURET UR DJUPET; Storsjö kapell/Cladonia; Skaga kapell (åtta delar); Böckernas väg till Athos; Från skrift till storebror.
-- Portföljutvidgningen Religion, Folket och Tradition samt dess tre researchbankar är dokumenterade i masterplanen 17 november.
-- Frölunda: senast avancerat 16 november i PR #67; vinkeln i den noteringen återanvänds, inte nollställs.
+- Portföljutvidgningen Religion, Folket och Tradition samt dess tre researchbankar är dokumenterade i masterplanen 17 november: Boyanakyrkan i Sofia (UNESCO-faser/freskerna 1259); British Library EAP500 och fotografiska samlingar från Bulgariens minoritetsgemenskaper (bildrättigheter återstår); Kukeri/Surva som bulgariskt immateriellt kulturarv (bildkandidat identifierad). Dessa researchbankar har inte startats om.
+- Frölunda: senast avancerat 16 november i PR #67 enligt masterplanens egen brief – Västra Frölunda: Frølanda 1436, frö + land och senare -lunda-utveckling; Östra Frölunda: separat Frølvnda songh 1402. 1313 är endast en möjlig parallell. Västra och Östra hålls åtskilda; ingen ny Frölunda-vinkel hittas på i denna körning.
 - Varna/Svarta havet: Sulina-noteringen ligger i PR #67; dagens BETUL 8 är en separat händelse.
-- Cyprus: ingen ny källbunden leverans i denna körning. Det blir nästa geografiska sidospår efter Skaga.
+- Cyprus: ingen ny källbunden leverans i denna körning. Det blir nästa geografiska sidospår efter Skaga enligt masterplanens brief: Palaipafos och övergången från lokala fruktbarhetskulter till Afroditekulten; Geroskipou/Hieros Kipos; Asklepieion i Nea Pafos; Kungagravarna; Commandaria. Ingen obruten kultkontinuitet förutsätts.
 - Hormuz: endast en bevakad nyhetsström, inte en separat huvudartikel.
 
 ## Dagens icke-Hormuz-arbete
