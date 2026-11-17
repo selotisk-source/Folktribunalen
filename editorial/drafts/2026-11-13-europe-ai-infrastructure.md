@@ -1,9 +1,9 @@
 # Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?
 
 **Artikeltyp:** Undersökande granskning · AI-infrastruktur · energi · offentlig finansiering · regional utveckling  
-**Faktaläge:** 13 november 2026  
+**Faktaläge:** 17 november 2026 (grundtext 13 november; kompletteringar 17 november)  
 **Huvudspår:** 2 – Europas AI-datacenter  
-**Redaktionell status:** CHEFREDAKTÖRSGODKÄND 15 november 2026 (PR-kommentar 6898229000). PR #64 mergades 15 november 2026 kl. 22:57:44 UTC, merge-commit `45a9b8c2cc295b708afddcb739eb180318fd3052`. Statisk frontend-kod innehåller artikelkroppen, men kortet för `europas-ai-infrastruktur` är felmärkt som Meta/Ofcom i den senaste Render-deployen. Den publika artikelrouten har inte HTTP-testats. Redaktionell backend/databasåtkomst är blockerad av tom Postgres-IP-allowlist; artikeln ska därför inte markeras LIVE-verifierad.
+**Redaktionell status:** DRAFT – revision 17 november 2026. Basversionen godkändes uttryckligen 15 november och PR #64 mergades, men denna revision innehåller materiella tillägg och kräver ett nytt, separat chefredaktörsgodkännande. PR #70 är öppen Draft, inte mergad och inte publicerad. Den publika artikelsidan är inte HTTP-kontrollerad; kort-/slug-mismatch kvarstår och Postgres/adminåtkomst är blockerad av tom IP-allowlist.
 
 ## Ingress
 
