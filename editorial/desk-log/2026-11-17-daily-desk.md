@@ -48,8 +48,8 @@ Efter dagens Skaga-leverans är **Cypern** nästa geografiska sidospår att unde
 - Render static site: senaste live-deploy som kunde läsas var fortfarande commit a43f1579058824a36ccad6245d4616551505431e från 16 november 00:24 UTC. Main är senare. Public route kunde inte öppnas i webbläsarkontrollen; därför är huvudspår 2 och Genève inte bekräftade som LIVE.
 - Render editorial backend: senaste live-deploy från 4 november, commit 6a835783553565f239864a9da7160d9f79f692b2; healthCheckPath är tom.
 - Render Postgres: status available, men ipAllowList är tom. Read-only SELECT 1 avvisades eftersom databasen blockerar externa anslutningar. Ingen DB-skrivning gjord.
-- Railway: projektet lively-nurturing har fem tjänster: browser-chromium, browser-use-runner, mindcloud-osiris, Cognee Memory och Osiris-mindcloud-ui. Ingen tjänst heter Hermes. De senaste registrerade deploymentstatusarna för Cognee Memory och Osiris-mindcloud-ui är FAILED; browser- och mindcloud-osiris-tjänsterna saknar aktuell deploymentpost i statusinventeringen.
-- Hermes: ingen aktiv Hermes-tjänst eller Hermes-deployment identifierad i Railway-projektet.
+- Railway: runtime-kontrollen visar att samtliga fem tjänster i projektet lively-nurturing är OFFLINE och att inga aktiva deployment-repliker eller pågående ändringar finns. Tjänsterna är browser-chromium, browser-use-runner, mindcloud-osiris, Cognee Memory och Osiris-mindcloud-ui. Historiken visar tidigare misslyckade deployförsök för Cognee Memory och Osiris-mindcloud-ui. Ingen tjänst heter Hermes.
+- Hermes: ingen Hermes-tjänst eller Hermes-deployment identifierad i Railway-projektet.
 
 ## Publiceringsspärr
 Alla filer i denna leverans är DRAFT. PR #69 ska förbli Draft. Ingen merge, publicering, deploy eller LIVE-markering har utförts.
