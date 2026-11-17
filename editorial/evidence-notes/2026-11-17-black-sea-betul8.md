@@ -9,18 +9,19 @@ Det somaliskt flaggade lastfartyget BETUL 8 skickade nödanrop den 16 november k
 
 Bulgariens transportministerium uppger att fartyget höll på att sjunka och att fyra fartyg ur MCM Black Sea-gruppen, två Cougar-helikoptrar och ett Su-25-flygplan deltog i insatsen. I ett separat uppföljningsbesked meddelade ministeriet att samtliga tolv hade evakuerats, att de var i allmänt gott skick och att fartyget hade kantrat. Ett militärfartyg skickades för att undersöka eventuell marin förorening.
 
-Reuters rapporterade, med hänvisning till maritima säkerhetskällor, att fartyget hade träffats av en sjödrönare och sjunkit. BNT och den specialiserade sajten Maritime.bg återgav uppgifter från överlevande om två obemannade ytfarkoster. Bulgariens transportministerium fastställde inte i det publicerade nödlägesmeddelandet vem som låg bakom händelsen. Gärningsperson och drönarnas ursprung är därför inte fastställda.
+Reuters rapporterade, med hänvisning till maritima säkerhetskällor, att fartyget hade träffats av en sjödrönare och sjunkit. BNT rapporterade senare om en attack med marina drönare och återgav uppgifter från besättningen; den exakta farkosttypen och angriparen är inte fastställda. Bulgariens transportministerium fastställde inte i det publicerade nödlägesmeddelandet vem som låg bakom händelsen. Gärningsperson och drönarnas ursprung är därför inte fastställda.
 
 ## Proveniens
 1. Bulgariens transportministerium, nödlägesmeddelande 16 november: https://www.mtc.government.bg/bg/category/1/incident-s-tovaren-korab-v-balgarskata-ikonomicheska-zona-na-cherno-more
 2. Bulgariens transportministerium, evakuering av alla 12, 16 november: https://www.mtc.government.bg/bg/category/1/vsichki-12-dushi-ot-ekipazha-na-tovarniya-korab-betul-8-sa-uspeshno-evakuirani
 3. Reuters, 16 november: https://www.reuters.com/world/cargo-ship-sinking-black-sea-off-bulgaria-says-transport-ministry-2026-11-16/
-4. BNT, 16 november, engelskspråkig rapport: https://bntnews.bg/news/incident-s-tovaren-korab-v-balgarskata-ikonomicheska-zona-na-cherno-more-1422465news.html
-5. gCaptain, 16 november: https://bntnews.bg/news/all-12-crew-members-of-the-cargo-ship-betul-8-successfully-evacuated-1422501news.html
+4. BNT, 16 november, bulgariskspråkig incidentrapport: https://bntnews.bg/news/incident-s-tovaren-korab-v-balgarskata-ikonomicheska-zona-na-cherno-more-1422465news.html
+5. BNT, 16 november, rapport om sjödrönare: https://bntnews.bg/news/ataka-s-morski-dronove-prevarna-korab-v-cherno-more-celiyat-ekipazh-e-spasen-1422533news.html
+6. BNT, 16 november, engelskspråkig evakueringsuppdatering: https://bntnews.bg/news/all-12-crew-members-of-the-cargo-ship-betul-8-successfully-evacuated-1422501news.html
 
 ## Faktastatus
 - Nödanrop, plats, fartygsnamn, flagg, besättning, last och räddningsinsats: bekräftade av Bulgariens transportministerium.
-- Alla 12 evakuerade: bekräftat av ministeriet.
+- Alla 12 evakuerade: bekräftat av ministeriet. BNT rapporterade att en besättningsmedlem hade en mindre skärskada i huvudet; ministeriet uppgav att ingen var allvarligt skadad.
 - Fartyget kantrade/sjönk: ministeriets uppföljning och Reuters.
 - Träff av sjödrönare/två obemannade ytfarkoster: rapporterat av Reuters med säkerhetskällor samt BNT/Maritime.bg med besättningsuppgifter; inte en officiellt fastställd attribution i det granskade ministeriebeskedet.
 - Gärningsperson och drönarnas ursprung: inte fastställda.
