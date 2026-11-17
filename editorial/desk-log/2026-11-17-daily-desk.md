@@ -8,7 +8,7 @@
 Den aktuella REDAKTIONELL_MASTERPLAN.md på main har lästs i sin helhet.
 
 - **Aktiv huvudartikel:** huvudspår 2, Europas AI-infrastruktur. PR #64 är mergad till main; den publika route- och innehållskontrollen är inte avslutad.
-- **Aktuell faktauppdatering:** PR #68, “Faktauppdatering: Europas AI-infrastruktur – 17 november 2026”, skapad 17 november 00:41 UTC, 9 commits, Open/Draft, inte mergad. Den behandlas som pågående uppdatering av huvudspår 2, inte som en ny huvudartikel.
+- **Aktuell faktauppdatering:** PR #70, “Faktauppdatering: Europas AI-infrastruktur – Uniper och EBRD, 17 november 2026”, bygger från aktuell main och innehåller Finland, Skellefteå, EuroHPC, Uniper och EBRD. PR #70 är Open/Draft och inte mergad. PR #68 är supersederad och ska inte mergas.
 - **Nästa artikel i godkänd huvudordning:** huvudspår 3, Synkronicitetsprotokollet, PR #38. Den öppnas inte som aktiv huvudartikel före avslutad kontroll av huvudspår 2.
 - **Föregående desk:** PR #67, Open/Draft, innehåller Frölunda-ortnamnshistoria, Sulina 13–14 november, separata Hormuz-noter 14 och 15 november samt Bahrain no-action. Frölunda och Sulina återstartas inte som om de vore nya ämnen.
 
