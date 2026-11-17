@@ -53,3 +53,6 @@ Efter dagens Skaga-leverans är **Cypern** nästa geografiska sidospår att unde
 
 ## Publiceringsspärr
 Alla filer i denna leverans är DRAFT. PR #69 ska förbli Draft. Ingen merge, publicering, deploy eller LIVE-markering har utförts.
+
+## Statusavvikelse att rätta i nästa masterplanversion
+GitHub visar PR #55, #56 och #66 som stängda och mergade. En äldre statusrad längre ned i den aktuella masterplanen beskriver fortfarande PR #55 som öppen Draft; den raden är inaktuell. PR #56 är också mergad och återfinns som huvudartikel i Render-deployen från 16 november, men masterplanen anger att separat artikelbundet LIVE-godkännande inte har påträffats. PR #66 är mergad men ingår inte i den senaste live-deployen. Ingen av dessa avvikelser ändrar dagens aktiva kö; de ska rättas/avgöras i masterplanen efter chefredaktörens beslut och faktisk route-kontroll.
