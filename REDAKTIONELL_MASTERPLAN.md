@@ -1,10 +1,10 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 17 november 2026 – uppdaterad efter GitHub-, Render- och källkontroll  
+**Version:** 17 november 2026, 10:15 EET – uppdaterad efter GitHub-, Render-, primärkälle- och nyhetskontroll  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg.
 
-## Aktuell arbetskontroll – 17 november 2026
+## Aktuell arbetskontroll – 17 november 2026, 10:15 EET
 
 ### Aktiv huvudartikel och godkännandekö
 
@@ -69,53 +69,222 @@ FOLKTRIBUNALEN är en flerområdesredaktion, inte en breaking-news-feed. Hormuz 
 - **Varna och Svartahavsområdet:** separat regional bevakning om historia, kulturarv, stadsmiljö, kyrkor och regional utveckling. Koppla till Sofia och Svartahavsserien utan att slå ihop separata artiklar.
 - **Framtid och teknik:** AI, infrastruktur, samhällsförändring, framtidsscenarier och teknikens konsekvenser ska vara ett eget återkommande spår, inte bara reaktioner på dagsnyheter.
 - **Parkerade draft-ärenden:** PR #61 (SOU 2026:58/markrätt), #59 (Norrsundet/SMR), #58 (JEF:s nordliga flottor), #57 (retrospektiv ansiktsigenkänning), #53 (Hormuz-incidentuppföljning) och #52 (Siemens Energy/AI-elnät) är öppna granskningsärenden. De får inte tränga sig före den aktiva huvudartikelordningen. PR #65 om Kazakstans tungstenprojekt hör till huvudspår 5 och ligger som Draft. PR #10 om USA:s kongress och PR #7 om Palantirs kvartalsrapport ligger i nyhetsbevakningen som Draft-underlag. PR #12 är inte ett Gripen-utkast.
-- **Hyllningskontroll:** Vasilevski är fortfarande oidentifierad. Namn, biografi och hyllningstext får inte publiceras innan personens identitet och relevanta bidrag har fastställts med källor.
+- **Hyllningskontroll:** Identiteten är fastställd som **Vasil Levski (Васил Левски; Vasil Ivanov Kunchev, 1837–1873)**. National Museum Vasil Levski dokumenterar hans cirka 100 handskrivna brev och hans handskrivna program-/regelutkast för befrielserörelsen; Bulgariens nationalbibliotek bevarar och digitaliserar hans anteckningsbok. Hyllningen ska knytas till nationell frigörelse, medborgerligt och kulturellt arv. Använd inga tillskrivna citat utan kontroll mot originaltext. Källor: https://vlevskimuseum-bg.org/en/documentary-heritage/ · https://www.nationallibrary.bg/levski/
 
+
+- **Religion, folk och tradition – researchbank:** PR #69 innehåller Skaga-kapellpaketet och separata evidensnoter. Dessa är källunderlag, inte en andra aktiv huvudartikel. Skaga del 1 kräver fortsatt originalarkivkontroll innan komplett artikel kan läggas i godkännandekön.
 ## Aktuella nyhetsspår
 
 | Spår | Artikelvinkel | Status 17 nov 2026 |
 |---|---|---|
-| **Hormuz och sjöfarten** | Hormuz: två separata UKMTO-varningar – och separata iranska minepåståenden | UKMTO Warning 207-26 (16 nov 05:58 UTC) anger att en utgående tanker träffades av okänd projektil och fick maskinrumsbrand; inga personskador, besättningen redovisad, skade-/miljöpåverkan okänd. Warning 208-26 (16 nov 19:00 UTC) gäller en tredjepartsrapport om tanker 7 nautiska mil norr om Khasab, obrukbart fartyg och maskinrumsbrand; besättningen uppgavs säker. Iranska flottans separata påståenden om tankfartyg som träffat minor är inte oberoende bekräftade och får inte automatiskt kopplas till 207/208. IMO:s senaste öppnade totalsiffra är fortfarande mer än 130 verifierade attacker och minst 25 döda till och med 11 nov; den siffran ska inte uppdateras utan ny IMO-post. PR #69 innehåller tre separata evidence notes. Källor: https://www.ukmto.org/-/media/ukmto/products/20261116-ukmto_warning_207-26.pdf · https://www.ukmto.org/-/media/ukmto/products/20261116-ukmto_warning_208-26.pdf · https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field · https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-calls-for-enforcement-of-maritime-rules.aspx |
-| **Svarta havet / Varna** | BETUL 8 sjönk i Bulgariens ekonomiska zon | 16 nov skickade BETUL 8 nödanrop omkring 40 nautiska mil sydost om Kap Kaliakra med 12 personer ombord och cirka 3 000 ton spannmål. Bulgariens transportministerium uppger att samtliga 12 evakuerades. Reuters hänvisar till maritima säkerhetskällor för uppgiften om sjödrönare; angripare och farkosttyp är inte fastställda i den officiella bulgariska information som kontrollerats. PR #69 innehåller separat evidence note; blanda inte ihop med Sulina-incidenterna 13–14 nov. |
-| **Maktförskjutningen i USA:s kongress** | Kongressen byter färg – men vem kontrollerar den tekniska makten? | Senatens officiella dagsprogram för 17 nov anger fortsatt behandling av Capitos ersättningsändring SA 6883 efter cloture och att cloture har lämnats in på H.R. 2347. Programmet redovisar inte slutlig passage av BAAJA. H.R. 2347:s ursprungliga text är ett annat lagstiftningsfordon än den ersättningstext som behandlas; procedursteget får inte beskrivas som slutligt lagbeslut. Tidigare Vote 257 (73–25) och Vote 258 (62–21) var procedurbeslut. Källor: https://www.democrats.senate.gov/2026/11/16/schedule-for-tuesday-november-17-2026 · https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm · https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm |
-| **Palantirs kvartalsrapport** | Q3: snabb tillväxt och stark USA-koncentration | Palantirs SEC 10-Q för kvartalet till 30 september 2026 redovisar intäkter på 2,313 miljarder USD mot 1,181 miljarder samma kvartal 2025 (+96 %). USA stod för 1,937 miljarder USD, 84 % av kvartalsintäkterna; övriga världen 376 miljoner USD. Bolagets tidigare Q3-kommunikation anger USA:s kommersiella intäkter 984 MUSD och USA:s myndighetsintäkter 953 MUSD. Detta är bolagsrapporterade siffror; bevaka kundkoncentration, kontraktens faktiska leverans och offentlig sektors beroende. Primärkälla: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm |
-| **Europas AI-infrastruktur** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | PR #70 är Draft och bygger på aktuell main. Nytt: Uniper anger cirka 700 MW säkrad nätkapacitet för datacenterprojekt i avancerad utveckling; bolagets karta visar projektområden i Storbritannien, Nederländerna, Tyskland och Skandinavien. FT rapporterar att ett första avtal var nära och två andra platser i avancerade samtal; inget undertecknat avtal har hämtats. EBRD:s rapportöversikt anger 485 TWh global datacenterförbrukning 2025 och att USA/Kina väntas stå för 78 % av kapacitetsökningen. Reuters återger att nästan hälften av EBRD:s verksamhetsländer saknar elnät för ett enda datacenter; detta är inte ett mått för EU enbart. Källor: https://www.uniper.energy/system/files/2026-11/Uniper_Capital%20Markets%20Day%20Presentation_November_2026.pdf · https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27/chapters.html · https://www.ft.com/content/74756c50-cedb-4ff9-9cad-43abd5b0646d · https://www.reuters.com/business/finance/developing-economies-risk-missing-out-defence-ai-boom-ebrd-warns-2026-11-17/ |
-| **Svenska Gripen över Polen** | Fyra timmar över Polen – Gripens uppdrag, tankflyget och Natos luftförsvar | 3 nov är fortfarande senaste dokumenterade enskilda patrulluppgift: Polska generalstaben uppgav över fyra timmars patrull-/skyddsuppdrag med tankflyg AA-332 MMF19. Direkt X-hämtning har gett 403; oberoende rapportering återger generalstabens post. Ingen ny officiell händelseuppgift identifierad 17 nov. Skilj Gripen-patrullen från Sveriges separata Patriotinsats i Polen. Källor: https://x.com/SztabGenWP/status/2117630867426144278 · https://defence24.pl/sily-zbrojne/tej-nocy-szwedzi-chronili-polskie-niebo-wspieral-je-tankowiec-nato · https://www.forsvarsmakten.se/aktuellt/nyheter/svenskt-luftvarn-till-natos-ostra-flank/ |
-| **Meta/Ofcom och Genève/autonoma vapen** | Två separata aktuella artiklar | PR #56 och PR #66 är mergade. Ingen separat artikelbunden LIVE-godkännandehandling har påträffats i den aktuella GitHub-kontrollen. Meta/Ofcom finns i senaste live-deployens förstasida; Genève finns i senare main-commits men inte i senaste Render-deploy. Båda kräver chefredaktörens separata beslut. |
-
+| **Hormuz och sjöfarten** | Hormuz: två UKMTO-varningar, separata minepåståenden och en växande energirisk | IMO:s officiella pressbriefing 11 nov anger **mer än 130 verifierade attacker** och minst 25 döda sjömän sedan 28 feb. En FN-briefing 14 nov, återgiven av Al Jazeera, anger att IMO följde **136 säkerhetsincidenter** 1 mar–11 nov, varav 35 i oktober och 10 i november; behåll skillnaden mellan IMO:s offentliga formulering “attacker” och den senare rapporterade incidenträkningen “incidenter”. UKMTO Warning 207-26 (16 nov 05:58 UTC): utgående tanker rapporterad träffad av okänd projektil, maskinrumsbrand, besättningen redovisad. Warning 208-26 (16 nov 19:00 UTC): separat tredjepartsrapport om tanker 7 nautiska mil norr om Khasab, obrukbart fartyg och maskinrumsbrand, besättningen uppgavs säker. Iranska flottans separata minepåståenden är inte oberoende bekräftade och får inte kopplas till UKMTO-varningarna utan belägg. Al Jazeera 17 nov rapporterar även drönarlarm vid Khor Mor i irakiska Kurdistan; ingen omedelbar träff eller skada rapporterades från den senaste överflygningen. PR #69 innehåller tre separata Hormuz-evidensnoter. Källor: https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-calls-for-enforcement-of-maritime-rules.aspx · https://www.ukmto.org/-/media/ukmto/products/20261116-ukmto_warning_207-26.pdf · https://www.ukmto.org/-/media/ukmto/products/20261116-ukmto_warning_208-26.pdf · https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field |
+| **Svarta havet / Varna** | BETUL 8 sjönk i Bulgariens ekonomiska zon | 16 nov kapsejsade/sjönk BETUL 8 cirka 40 nautiska mil från Kap Kaliakra med 3 000 ton vete ombord. Bulgariens transportministerium uppgav att samtliga 12 turkiska besättningsmedlemmar räddades. Reuters hänvisar till maritima säkerhetskällor för uppgiften om sjödrönare; ansvarig aktör och exakt angreppsmetod är inte fastställda i den officiella bulgariska information som kontrollerats. PR #69 har separat evidensnot. Håll händelsen åtskild från Sulina-incidenterna 13–14 nov. Källa: https://www.reuters.com/world/cargo-ship-sinking-black-sea-off-bulgaria-says-transport-ministry-2026-11-16/ |
+| **Maktförskjutningen i USA:s kongress** | Demokraterna tar båda kamrarna – men maktskiftet sker först i januari | AP har kallat Demokraternas seger i både representanthuset och senaten i mellanårsvalet 3 nov. Reuters återgav 11 nov en preliminär fördelning på 55–44 i senaten med en plats olöst och 254–168 i representanthuset med 13 lopp ännu ej avgjorda. Den sittande 119:e kongressen arbetar fortfarande: Reuters rapporterade 17 nov att den republikanskt ledda senaten bekräftade Daniel Domenico till 10th Circuit med 51–46. Senatens H.R. 2347-omröstningar 9–10 nov (73–25 och 62–21) var procedursteg, inte slutligt antagande av BAAJA. Källor: https://apnews.com/article/f126e12e05b579a327b98481c0ae2226 · https://www.reuters.com/world/us/democrat-scott-colom-defeats-incumbent-cindy-hyde-smith-cnn-projects-2026-11-11/ · https://www.reuters.com/legal/government/us-senate-elevates-judge-appointed-in-trumps-first-term-to-appeals-court-2026-11-17/ · https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm |
+| **Palantirs kvartalsrapport** | Q3: snabb tillväxt, USA-koncentration och offentliga kontrakt | SEC:s Form 10-Q för kvartalet till 30 sep lämnades in 3 nov. Intäkterna var 2,313 md USD mot 1,181 md USD motsvarande kvartal 2025 (+96 %). USA stod för 1,937 md USD (cirka 84 %) och övriga marknader 376 MUSD. Bolagets Q3-kommunikation anger USA:s kommersiella intäkter 984 MUSD och USA:s myndighetsintäkter 953 MUSD. Siffrorna är bolagsrapporterade; bevaka kundkoncentration, kontraktens faktiska leverans och offentlig sektors beroende. Källor: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/pltr-20260930.htm · https://www.reuters.com/technology/palantir-tops-third-quarter-revenue-estimates-strong-ai-software-demand-2026-11-02/ |
+| **Europas AI-infrastruktur** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | PR #70 är Draft. Uniper anger cirka 700 MW säkrad nätkapacitet för datacenterprojekt i avancerad utveckling; detta är inte driftsatt effekt. FT rapporterar tio identifierade platser i Storbritannien, Tyskland, Sverige och Nederländerna, ett första nära förestående avtal och två ytterligare avancerade samtal; inget undertecknat kundavtal har hämtats. EBRD:s *Transition Report 2026–27*, publicerad 17 nov, anger 485 TWh global datacenterförbrukning 2025 (cirka 1,5 %) och att USA/Kina väntas stå för 78 % av den globala kapacitetsökningen. Reuters återger att nästan hälften av EBRD:s verksamhetsländer saknar elnät som kan bära ett datacenter; det är inte ett mått för EU enbart. PR #70 kräver nytt separat chefredaktörsgodkännande eftersom revisionen ändrar basartikeln materiellt. Källor: https://www.uniper.energy/system/files/2026-11/Uniper_Capital%20Markets%20Day%20Presentation_November_2026.pdf · https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27.html · https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27/chapters.html · https://www.ft.com/content/74756c50-cedb-4ff9-9cad-43abd5b0646d · https://www.reuters.com/business/finance/developing-economies-risk-missing-out-defence-ai-boom-ebrd-warns-2026-11-17/ |
+| **Svenska Gripen över Polen** | Fyra timmar över Polen – Gripens uppdrag, tankflyget och Natos luftförsvar | Senaste enskilda patrulluppgift är 3 nov: Polska generalstaben uppgav över fyra timmars patrull-/skyddsuppdrag med tankflyg AA-332 MMF19; antal Gripen offentliggjordes inte. Sveriges regeringsbesked 30 sep anger att insatsen startade i oktober och att flygplanen huvudsakligen baseras i Sverige med en mindre framskjuten närvaro i Polen. Patriotinsatsen från december är separat. Ingen ny specifik patrullhändelse har identifierats 17 nov. Källor: https://www.government.se/press-releases/2026/09/sweden-to-provide-combat-aircraft-for-nato-operation-in-poland/ · https://defence24.pl/sily-zbrojne/tej-nocy-szwedzi-chronili-polskie-niebo-wspieral-je-tankowiec-nato |
+| **Meta/Ofcom och Genève/autonoma vapen** | Två separata publiceringsavvikelser | PR #56 och PR #66 är mergade, men ingen separat artikelbunden LIVE-godkännandehandling har påträffats. Meta/Ofcom finns i senaste Render-deployens förstasida; Genève finns i senare main-commits men inte i senaste kontrollerade live-deploy. Båda kräver chefredaktörens uttryckliga beslut om fortsatt publicering eller tillbakadragande. |
 ## Återkommande hyllning i varje utgåva
 
-- Johannes Gutenberg – tryckkonst och spridning av skrift.
-- Carl von Linné – vetenskaplig klassifikation och naturkunskap.
-- Voltaire – filosofi, kritik och bildning.
-- Sankta Paraskevi – andligt och kulturellt arv.
-- Sankt Charbel – andligt och kulturellt arv.
-- Vasilevski – **identiteten måste fastställas innan namn eller hyllning publiceras.**
+- **Johannes Gutenberg** – tryckkonst och spridning av skrift.
+- **Carl von Linné** – vetenskaplig klassifikation och naturkunskap.
+- **Voltaire** – filosofi, kritik och bildning.
+- **Sankta Paraskevi** – andligt och kulturellt arv.
+- **Sankt Charbel** – andligt och kulturellt arv.
+- **Vasil Levski (Васил Левски; Vasil Ivanov Kunchev, 1837–1873)** – Bulgariens “Apostel för frihet”, revolutionär organisatör och bärare av ett dokumenterat nationellt och medborgerligt arv. National Museum Vasil Levski beskriver hans handskrivna brev och hans program-/regelutkast för befrielserörelsen; National Library of Bulgaria bevarar hans anteckningsbok. Använd inga tillskrivna citat utan kontroll av originaltext. Identiteten är fastställd; namnet skrivs **Vasil Levski**, inte “Vasilevski”. Källor: https://vlevskimuseum-bg.org/en/documentary-heritage/ · https://www.nationallibrary.bg/levski/
 
 ## Nästa arbetsordning
 
-1. Återställ säker Postgres-åtkomst via lokal Render MCP eller en uttryckligen betrodd klient-IP; öppna inte databasen för alla adresser.
-2. Testa redaktionell backend/admin end-to-end: health, autentisering, artikelstatus och godkännandeflöde.
-3. Rätta metadata-/route-mismatch i redaktionens publiceringssystem och hantera PR #56/#66:s publiceringsavvikelser enligt chefredaktörens beslut.
-4. Invänta uttryckligt godkännande av just den uppdaterade AI-infrastrukturversionen i PR #70. Publicera därefter via admin när åtkomst fungerar och kontrollera faktisk publik route med HTTP-status och rätt innehåll.
-5. Först efter LIVE-kontrollen av huvudspår 2 startas huvudspår 3 – Synkronicitetsprotokollet.
-6. Behåll PR #69 som separat Skaga-research i Draft. Fortsätt källinsamling för övriga portföljspår utan att öppna en andra aktiv huvudartikel.
+1. **Huvudspår 2 fortsätter som enda aktiva huvudartikel.** PR #70 har komplett text och har fått en ny faktakontroll av Unipers 700 MW, EBRD:s rapport, samt uppdaterade primär- och oberoende källor. Den reviderade versionen måste få ett separat uttryckligt chefredaktörsgodkännande.
+2. **Publiceringsvägen:** återställ säker Postgres-åtkomst via lokal Render MCP eller en uttryckligen betrodd klient-IP i Networking. Den aktuella databasen är tillgänglig, men ipAllowList är tom och den hostade Render MCP-anslutningen nekas. Testa därefter backendens health, autentisering och artikelstatusflöde.
+3. **Frontendavvikelsen:** rätta kort-/slug-mismatchen för AI-artikeln via kontrollerad redaktionell ändring. Meta/Ofcom och Genève/autonoma vapen förblir separata publiceringsärenden tills chefredaktören avgör deras status.
+4. **Efter godkännande:** publicera den godkända PR #70-versionen via redaktionens admin, invänta Render och kontrollera faktisk publik route med HTTP-status samt korrekt rubrik, ingress, fulltext och källor. Ingen nästa huvudartikel före denna kontroll.
+5. **Nästa huvudartikel:** först när huvudspår 2 visas korrekt LIVE öppnas huvudspår 3 – Synkronicitetsprotokollet, PR #38. Därefter följer huvudspår 4–9 i fastställd ordning.
+6. **Sidospår:** PR #69:s Skaga- och evidenspaket får användas som researchbank, men Skaga blir inte en andra aktiv huvudartikel. Cypern, Frölunda och Varna/Svarta havet fortsätter som källnoter när de inte stör huvudartikelordningen.
+
+## Redaktionell standard
+
+- Primärkällor först: myndighetsbeslut, lagtext, domar, avtal, bolagsregister, upphandlingar, årsredovisningar, prospekt och originaldata.
+- Oberoende källor ska pröva primärkällornas uppgifter; pressmeddelanden är avsändarens uppgifter, inte automatiskt oberoende bevis.
+- Märk varje central uppgift som **belagt faktum**, **partsuppgift**, **analys** eller **obekräftad hypotes**.
+- Ange datum, metod, källans begränsningar, öppna frågor och rättelser.
+- Ge berörda parter möjlighet att bemöta konkreta uppgifter.
+- Skilj Storsjö kapell i Härjedalen från Storsjön vid Östersund/Frösön.
+- Varje artikel ska innehålla artikeltyp, rubrik, ingress, komplett text, primärkällor, oberoende källor, bildförslag, faktakontroll, öppna frågor och status.
+- Ingen automatisk publicering. Varje artikel måste uttryckligen godkännas av chefredaktören och kontrolleras på faktisk publik route efter publicering innan nästa artikel påbörjas.
+
+## Historisk redaktionsinventering – 12 november 2026 (statusen nedan är supersederad av uppdateringen ovan)
+
+- **PR #55:** huvudspår 1, Palantir och den offentliga makten. Komplett utkast med ingress, huvudtext, primärkällor, oberoende rapportering, bildförslag, faktakontroll och öppna frågor. Draft, inte godkänt och inte publicerat.
+- **PR #33:** äldre Palantir/NHS-version stängd som supersederad av PR #55.
+- **PR #7:** separat aktuellt nyhetsspår om Palantirs Q3, molnåtagande, kundfordringar och offentliga kontrakt. Draft.
+- **PR #42:** separat granskningsutkast om Palantirs kontakter kring GP-journaler. Draft; håll lobbying åtskild från faktisk dataintegration.
+- **PR #36:** Fader Samir Daou-artikeln är mergad till `main` och finns i Render-live-versionens bundle `f52a144...` med publiceringsdatum 11 november 2026. Route: `#/artikel/samir-daou-jbeil`. Den är separat från huvudspår 7:s historiska artikel.
+- **PR #10:** USA:s kongress och maktförskjutningen. Draft.
+- **PR #16:** Breaking Watch-täckningsmatris uppdaterad 12 november. Draft.
+- **PR #38:** Synkronicitetsprotokollet. Draft.
+- **PR #34:** Urbergsskölden/CRMA. Draft.
+- **PR #47:** NVIDIA:s bolagsstyrning och exportkontroller. Draft; aktiepantkedjan saknas fortfarande.
+- **PR #4 och #32:** Storsjö kapell/Cladonia, separata utkast som kräver fortsatt fastighets- och fornlämningskontroll.
+- **PR #53:** Hormuz-uppföljning med fyra rapporter och skilda bevislägen. Draft.
+- **PR #1:** arkiv/dokumentbank med 26 äldre utkast; får inte batch-mergas.
+- Fullständigt artikelpaket krävs för varje artikel: artikeltyp, rubrik, ingress, komplett sammanhängande text, primärkällor, oberoende källor, bildförslag, faktakontroll, öppna frågor och tydlig status.
+
+## Hormuz – teknisk publiceringsstatus 13 november 2026
+
+- PR #62 (JMIC 113 och UKMTO 201–204) och PR #63 (koppla uppdateringen till publicerad artikeltext) är mergade till `main`.
+- Render statisk tjänst visar deployment `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, status `live`, avslutad 13 november kl. 01.35.25 UTC.
+- `src/app.js` på `main` innehåller den fullständiga Hormuz-texten, JMIC Advisory Note 113 och fyra separata UKMTO-poster 201–204. Detta bekräftar att källkoden för den aktuella versionen innehåller uppdateringen.
+- Direkt route-/HTTP-kontroll av `https://folktribunalen.onrender.com/#/artikel/hormuz-sjofart` kunde inte slutföras i denna körning: webbläsarhämtningen rapporterade att hosten inte var åtkomlig. Status är därför deployment LIVE och kodinnehåll kontrollerat, men den faktiska publika route-visningen är ännu inte direkt kontrollerad.
+- Databasens ID är `dpg-dblq2fqfngtc73c0h9gg-a`, status `available`, men `ipAllowList=[]`. En ny read-only `SELECT 1` nekades med det exakta felet att databasen blockerar alla externa anslutningar eftersom IP-allowlisten är tom. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP under Networking; ingen öppen `0.0.0.0/0`-regel används.
+- Redaktionell backend `folktribunalen-editorial` kör fortfarande deployment från 4 november, commit `6a835783553565f239864a9da7160d9f79f692b2`. Admin/API-flödet och `DATABASE_URL` är inte testade end-to-end. Ingen databaspost för Hormuz-fullversionen har skrivits.
+
+## Faktaläge och arbetslogg – 9 november 2026, 09.05 Europe/Sofia
+
+- **IMO:** den aktuella officiella incidentlistan anger 130 bekräftade incidenter och 25 dödsfall per 6 november. Den listar ett fartyg som VIEILA (IMO 9234654), men VesselFinder och Rynda anger samma IMO-nummer som VIEIRA, råoljetankfartyg under Vanuatus flagg. Detta är en olöst namn-/registeravvikelse; texten använder IMO-numret tills flaggstatskontroll är möjlig.
+- **VIEIRA/VIEILA och UKMTO 197-26:** IMO:s datum och position 5 november, 16 NM öster om Khasab, matchar UKMTO 197-26 starkt. UKMTO namngav inte fartyget och IMO-sidan anger inte varningsnumret.
+- **Huda:** ClassNK bekräftar registerposten HUDA, IMO 9197088, bulkfartyg under St Kitts och Nevis. CENTCOM:s uppgift om iranskt hamnbesök och blockadbrott är fortsatt en partsuppgift. AIS-ögonblicksbilden visar Sohar som senaste registrerade hamnanlöp före positionen den 5 november, men är inte en fullständig färdjournal.
+- **Irak:** Reuters 8 november återger utrikesminister Fuad Husseins uppgift om en förståelse med USA för irakisk export via en sjöfartsled nära Oman. Ingen offentlig avtalstext eller verifierad operativ korridor har identifierats.
+- **Iran:** Reuters 9 november återger en anonym IRGC-flottkälla om förstörda navigationshjälpmedel och inga obehöriga passager under natten. Ansvarig aktör, tidpunkt och effekt är inte oberoende fastställda.
+- **LNG:** Edison uppger 38 laster, cirka 5 bcm, under force majeure till 31 december och 27 ersatta per 27 oktober. Edisons webbsida är daterad 27 oktober, men pressmeddelandets brödtext har dateline 28 september; datumskillnaden redovisas.
+- **JMIC Update 112:** en sekundär återgivning uppger 177 incidenter och Huda kopplad till 198-26. Den ursprungliga PDF-filen på UKMTO:s webbplats har inte kunnat granskas direkt i denna körning; dessa detaljer används inte som självständigt bekräftad primärfakta.
+- **Publik webbplats:** Render statiska tjänst folktribunalen visar deployment dep-dbo6g9rrjlhs73ai5500 som live, commit 8e46f91e643be55cce6afed9ed6d05d5c9aae707, avslutad 8 november 12.16.54 UTC. Den publika huvudversionen är kort (fyra huvudstycken). Den nya fullständiga texten finns i PR #48 och är inte publicerad.
+- **Nästa steg:** chefredaktören granskar fullversionen i PR #3. Efter uttryckligt godkännande kan den ersätta kortversionen på den publika sajten. Därefter kontrolleras den faktiska sidan; först därefter går redaktionen vidare till Gripen över Polen.
+
+- **Källredigering 09.12:** UKMTO:s Weekly Overview No. 14 är nu integrerad i artikelns brödtext med tydlig skillnad mellan veckotalet (11 rapporterade attacker under perioden till 4 november) och IMO:s kumulativa 130 bekräftade incidenter. Reuters om Task Force Iron Gate är flyttad till kompletterande källor; primärkällor och oberoende källor är nu separerade.
+
+- **Källkomplettering 09.18:** WAM:s officiella nyhetsbyråsida om räddningen av 22 personer och den officiella JMIC Update 112-PDF:en har lagts in i primärkällförteckningen med tydlig notering om att sidorna inte kunde hämtas direkt i denna kontroll. AP och en sekundär återgivning används endast som komplettering; JMIC:s 177-tal och Huda-koppling behandlas inte som självständigt bekräftade fakta.
+
+- **UKMTO Overview No. 14, primärkontrollerad 09.24:** rapporten anger 96 incidenter rapporterade till UKMTO i Hormuzsundet sedan 28 februari, 155 Iran–USA-konfliktrelaterade incidenter YTD i hela VRA, 11 attacker under rapportveckan (8 i sundet, 3 i Persiska viken), 3 fartyg som fortsatte, 5 som behövde assistans och 3 som sjönk. Den anger 170 utgående och 155 inkommande passager för de senaste sju dagarna, inklusive AIS-baserade och USA-uppgivna faciliterade passager; omkring 65 procent under förkonfliktnivån. Dessa UKMTO-mått hålls isär från IMO:s 130 bekräftade incidenter och JMIC:s sekundärt återgivna 177.
 
 
-## Redaktionslogg – 17 november 2026, källuppdatering
+## Arbetslogg – 10 november 2026
 
-- **PR #70:** uppdaterad version av huvudspår 2 på aktuell main. Innehåller tidigare faktauppdateringar om Finland, Skellefteå och EuroHPC samt nya avsnitt om Uniper och EBRD. Draft only; nytt artikelbundet godkännande krävs.
-- **PR #69:** Skaga kapell del 1 – researchpaket och fem evidensnoter; BETUL 8 och tre separata Hormuz-noter. Detta är research, inte en komplett artikel eller godkännandekö.
-- **Hormuz:** UKMTO 207-26 och 208-26 är två separata varningar. De iranska minepåståendena är separata partsuppgifter och får inte knytas till UKMTO-händelserna utan identifiering.
-- **Svarta havet:** BETUL 8 sjönk i Bulgariens ekonomiska zon 16 november; alla 12 besättningsmedlemmar evakuerades enligt bulgariska myndigheter. Sjödrönare är sekundärt rapporterad orsak, inte fastställd gärningsperson.
-- **USA:s kongress:** senatens 17-novemberprogram visar fortsatt procedurbehandling, inte slutlig passage av BAAJA.
-- **Palantir:** SEC 10-Q bekräftar Q3-intäkter 2,313 md USD och 84 procent USA-andel.
-- **Vasilevski:** identiteten är fortfarande inte fastställd; ingen biografi eller hyllning får publiceras innan detta är källbelagt.
+- **Hormuz fullversion:** uppdaterad i PR #3, commit `b91bcba0111c32cc62dbbcba2bfb24dc12b05946`. Tillagt Reuters 10 november om 31 utgående lastade LNG-tankfartyg i oktober (23 Qatar, åtta UAE) och separat Kpler-mått om 42 lastningar mot 27 i september. Detta märks som partiell LNG-återhämtning, inte generell återöppning.
+- **JMIC Update 112:** original-PDF direkt granskad. Faktakontrollen korrigerad så att HUDA/UKMTO 198-26 anges som JMIC:s regionala korsreferens baserad på CENTCOM:s identifiering, inte som oberoende teknisk verifiering. Öppen fråga kvarstår om flaggstat/rederi kan bekräfta identitet och färd.
+- **IMO:** texten använder den senaste publicerade incidentlistan per 9 november: 131 bekräftade incidenter och 25 dödsfall. IMO-rådets tidigare 130 verifierade attacker hålls som ett separat mått.
+- **Saudi East-West-pipeline:** uppgiften om träff 9 november är fortfarande en saudisk partsuppgift som återgivits av Reuters/Financial Times; ingen oberoende teknisk skadeverifiering har identifierats.
+- **Arkiv:** PR #1:s 26 artikelutkast har inventerats i `editorial/research/2026-11-10-archive-draft-inventory.md`. Den 27:e filen i PR #1 är en täckningsmatris, inte ett artikelutkast. PR #1 förblir draft och får inte batch-mergas.
+- **Godkännandestatus:** PR #3 är fortsatt open/draft/unmerged. Ingen fullversion har godkänts eller publicerats. Den separat godkända kortversionen ligger kvar på den statiska webbplatsen.
 
 
-## Historiska kontroll- och researchloggar – behållna för spårbarhet
+## Arbetslogg – 11 november 2026
 
-Följande daterade anteckningar återges från den tidigare masterplanen. De är historik, inte aktuell status; den aktuella kontrollen och arbetsordningen står överst i dokumentet.
+- **Hormuz – versionsordning rättad:** kanonisk artikeltext är editorial/drafts/2026-11-05-hormuz.md. Filen 2026-11-06-hormuz.md är uttryckligen märkt som arkiverad arbetsversion med bevarade käll-/arbetsnoteringar, inte som den kanoniska artikeln. PR #3:s beskrivning ska följa samma filordning.
+- **Chefredaktörsbeslut:** grundversionen av fulltexten godkändes uttryckligen 10 november. Tilläggen om UKMTO 201-26 och ADNOC den 10 november samt IMO 133/25, Reuters 11 november och ORLEN-avtalet har tillkommit efter det beslutet och är därför inte godkända. PR #3 ska ligga kvar som draft tills den uppdaterade helheten fått ett separat beslut.
+- **IMO primärkontrollerad:** IMO:s officiella sida anger 133 bekräftade incidenter och 25 döda sjömän med lägesdatum 10 november; föregående ögonblicksbild 9 november angav 131. Den aktuella listan visar bland annat NAVIG8 MACALLISTER (7 nov, 8 NM nordväst om Khasab), HUDA (7 nov, 17 NM från Omans kust) och GRIT (3 nov, 14 NM nordost om Lima). IMO-sidan kopplar inte uttryckligen dessa poster till UKMTO-varningsnummer. Källa: https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx
+- **Reuters 11 november:** Brent $92,53 och WTI $86,71 kl. 04.20 GMT; Washington Institute:s räkning 37 fartygsangrepp i oktober. Håll detta institut-/Reuters-mått åtskilt från IMO:s 133 bekräftade incidenter. Källa: https://www.reuters.com/business/energy/oil-rises-two-month-low-hormuz-shipping-attacks-offset-iran-truce-hopes-2026-11-11/
+- **ORLEN primärkälla:** Regulatory Announcement No. 39/2026, 10 november, bekräftar uppsägning av ett av två QatarEnergy-avtal: 1 mtpa, cirka 15,3 TWh, uppskattat värde 570 miljoner euro för 2026, 60 dagars fortsatt avtalsverkan. Det andra avtalet med upp till 1 mtpa till 2034 fortsätter. Reuters ger oberoende rapportering. Källor: https://www.orlen.pl/en/investor-relations/reports-and-publications/regulatory-announcements/2026/03/Regulatory-announcement-no-39-2026 · https://www.reuters.com/business/energy/polands-orlen-ends-long-term-qatarenergy-lng-contract-over-delivery-failure-2026-11-10/
+- **UKMTO 201-26:** Reuters återger UKMTO:s uppgift om tankerträff nordost om Lima den 10 november. UKMTO:s dynamiska Recent Incidents-sida visade 0 rapporter vid kontroll 11 november; den ursprungliga posten gick inte att hämta direkt. ADNOC:s separata fartygsskada är direkt bekräftad via WAM/bolagsuttalande. De två händelserna får inte slås ihop.
+- **Nytt Östersjö-/energisäkerhetsspår:** Reuters rapporterade 11 november brand i Ust-Luga efter drönarattack, tre skadade enligt regionguvernören; Reuters kunde inte omedelbart verifiera guvernörens uppgifter. Separat uppger branschkällor att rysk raffinaderikapacitet minskat omkring 30 procent sedan slutet av oktober. Loggas som framtida researchsignal för Fennoskandien/energi, inte som Hormuz-incident. Källor: https://www.reuters.com/world/drone-attack-causes-fire-russias-baltic-sea-port-ust-luga-governor-says-2026-11-11/ · https://www.reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10/
+- **GitHub/PR #3:** branch approval/hormuz-2026-11-06 är 75 commits före och 17 bakom main; compare-status diverged, GitHub anger mergeable: false. PR #3 ligger draft och är inte mergad. Branchen måste synkas/reconcileras innan merge, utan att någon ej godkänd artikeltext förs till LIVE.
+- **Render:** databasen available, men ipAllowList: []; read-only SELECT 1 nekas av extern hosted connection. Backendens senaste live deployment är 4 november; publik statisk tjänsts senaste live deployment är 8 november. Ingen databaspost för fullversionen har skrivits.
+
+
+## Teknisk redaktionsuppdatering – 11 november 2026
+
+- PR #3 stängdes som supersederad efter att dess branch visat 80 commits före och 17 bakom main samt mergeable=false.
+- En ny, synkad granskningsgren skapades från aktuell main: editorial/hormuz-2026-11-11-reconciled. PR #48 innehåller endast tre fokuserade filändringar: masterplanen, kanonisk Hormuz-fulltext och arkivfilen.
+- PR #48 jämförs med main som ahead by 3, behind by 0; GitHub rapporterar mergeable=true. PR #48 är fortsatt draft eftersom tilläggen 10–11 november inte har godkänts.
+- Den ursprungliga chefredaktörskommentaren i PR #3 finns kvar och länkas i PR #48. Ingen merge, publicering eller LIVE-ändring har gjorts.
+
+
+## Prioritetskorrigering – 11 november 2026
+
+Chefredaktörens korrigering: **Hormuz är prioritet 6.** Tidigare formuleringar i denna masterplan som placerade Hormuz först eller som nästa artikel var felaktiga och ersätts av denna prioritetsordning. Prioritet 1–5 ska genomföras före Hormuz i den tidigare beslutade inbördes ordningen. Hormuz grundversionens godkännande kvarstår, men det ändrar inte artikelns köplats; tillägg daterade 10–11 november är fortfarande inte godkända. Ingen artikel efter Hormuz påbörjas före faktisk LIVE-kontroll när Hormuz väl når sin tur.
+
+
+## Publiceringsbeslut och uppföljning – 11 november 2026
+
+- Chefredaktören godkände uttryckligen den samlade Hormuz-fullversionen efter att ha fått se den uppdaterade helheten och därefter gett klartecken: “Klart kör”.
+- Den kanoniska artikelfilen uppdaterades på `main` i commit `f9e8b79389822b1895eedc7c5794d754e60c2abb`.
+- Den publika artikelvyn i `src/app.js` uppdaterades på `main` i commit `8905e404ce621418d114991cdb99bbb093e1a7ea`. Kortversionens metadata ersattes med fulltextens rubrikbeskrivning och datum 11 november. Den fullständiga artikeln omfattar ingress, huvudtext, källor samt uppdateringar om Gem No.2, ADNOC Gas, UKMTO 201/202, ADNOC Logistics & Services, ORLEN, Irans uttalanden och Didamar. Didamar-texten redovisar både Reuters rapportering och Omans motuppgift.
+- Render static service `srv-dblpumgm7kps73bv55e0` är konfigurerad för auto-deploy från `main`. Vid senaste kontrollen hade Render ännu inte listat en deployment för commit `8905e404...`; därför är LIVE-publicering ännu inte bekräftad.
+- Nästa operativa steg: kontrollera Render tills commit `8905e404...` är `live`, öppna `https://folktribunalen.onrender.com/#/artikel/hormuz-sjofart` och kontrollera att fulltext och länkar visas. Först efter den kontrollen återgår redaktionen till nästa artikel i den ursprungligen beslutade ordningen efter prioritet 6.
+
+
+## Deployment-uppföljning – 11 november 2026, 21:xx UTC
+
+- Kontroll efter publiceringscommit `8905e404ce621418d114991cdb99bbb093e1a7ea`: Render hade ännu ingen deployment för den committen trots auto-deploy från `main`.
+- En ny dokumentationscommit skickas till `main` för att ge den konfigurerade commit-triggern en ny ändringssignal. Ingen manuell Render-deployment används.
+- Hormuz-fullversionen får status LIVE först när Render visar deployment för aktuell `main` som `live` och den publika artikelsidan har öppnats och kontrollerats.
+
+
+## Historisk statusuppdatering – 12 november 2026
+
+- GitHub `main` innehåller fullversionens Hormuz-kod, men Render static service kör fortfarande commit `f52a144173118b00200657fcabb0bfd2de19abae`. Den nya fullversionen är inte LIVE.
+- Render Postgres `folktribunalen-db` är `available`, men `ipAllowList=[]`; en ny `SELECT 1` nekades med beskedet att alla externa anslutningar blockeras. Gratisinstansen löper ut 4 december 2026.
+- Redaktionell backend kör fortfarande deployment från 4 november, commit `6a835783553565f239864a9da7160d9f79f692b2`.
+- PR #55 är öppen, draft och inte mergad; den innehåller huvudspår 1:s kompletta granskningsutkast. PR #33 har stängts som supersederad. PR #7 har tydliggjorts som det separata Q3-/molnåtagandespåret. Den befintliga Palantir-sidan på publika sajten är märkt `PÅGÅENDE GRANSKNING`, inte som den färdiga huvudartikeln.
+- PR #36:s Fader Samir Daou-text finns i Render-live-versionens bundle med artikelkort, artikeltext och publiceringsdatum 11 november 2026. Den är publicerad som separat regional/rättslig artikel; den ersätter inte huvudspår 7:s historiska granskning.
+- Inga artiklar publicerades i denna uppdatering. Nästa redaktionella steg är chefredaktörens granskning av PR #55.
+
+
+## Publiceringslogg – 13 november 2026
+
+- Chefredaktören gav uttryckligt klartecken för Palantir-huvudartikeln 13 november 2026.
+- PR #55 avmarkerades som draft och mergades till `main` i commit `ab0a7f3e7e4dfa3739dc6889dc2f7775e01097b4`.
+- Den godkända artikeln kopplades in i `src/app.js` med rubrik, ingress, full huvudtext, primärkällor, oberoende rapportering och källuppdateringen från 12 november. Förstasidans huvudruta pekar nu på artikeln.
+- Render statiska webbplatsen `folktribunalen` (service `srv-dblpumgm7kps73bv55e0`) har deployment `dep-dbr6iilg1s2s73fiq0v0` med status `live`, byggd från commit `f873ebfa9fbe637ad74dd7db662496c714090004` den 13 november kl. 01.35.25 UTC.
+- Publicerad route: https://folktribunalen.onrender.com/#/artikel/palantir-offentlig-makt. Kontroll den 13 november: HTTP 200; korrekt rubrik och ingress; NHS-kontraktsuppgiften; huvudtexten; listan över primärkällor; oberoende källor; uppdateringen 12 november.
+- PR #55:s GitHub-status är merged/closed. Den publicerade versionen ligger i `src/app.js`; redaktionell mastertext finns kvar i `editorial/drafts/2026-11-12-palantir-offentlig-datamakt.md` som käll- och versionsunderlag.
+- Nästa huvudartikel enligt beslutad ordning är **nr 2 – Europas AI-datacenter**. Inget annat huvudspår ska gå före.
+
+
+## Redaktionslogg – huvudspår 2, 13 november 2026
+
+- Efter att huvudspår 1 (PR #55) publicerats LIVE har relevanta AI-infrastrukturdelutkast granskats och sammanställts till ett eget huvudutkast.
+- **PR #64:** https://github.com/selotisk-source/Folktribunalen/pull/64
+- **Kanonisk sammanhållen text:** `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`
+- Innehåll: ACER/IEA:s systembakgrund; Amsterdam/Plimsollweg; Norges anslutningskö och licensplan; Finlands LVV-åtgärd vid Muhos och Kajaani; DataVita/Lanarkshire och National Wealth Funds garanti; BRAIN++/Discoverer++ i Sofia; EdgeConneX/Skellefteå; samt Bull/Schwarz Digits.
+- Faktakontrollen skiljer mellan prognos, installerad kapacitet, anslutning, reserverad kapacitet, kö, anslutningsförfrågan och faktisk elförbrukning. Den norska tabellen summeras inte. 1 GW i Skellefteå behandlas som potentiell framtida campuskapacitet. Discoverer++-upphandlingens värde behandlas inte som ett extra projekt utöver BRAIN++-budgeten. DataVitas garanti beskrivs inte som kontantbidrag.
+- **Status:** PR #64 är öppen och markerad Draft. PR #64 är fortsatt öppen Draft; aktuell mergeability ska kontrolleras igen före eventuell merge. Ingen merge har gjorts. Huvudspår 2 har inte publicerats eller lagts in på den publika webbplatsen.
+- Huvudtexten har kompletterats med Statnetts NO3-underlag, protestvågen/EU:s föreslagna transparensram och Nscale:s SEC S-1/A: Kvandal i Norge, Loughton i Storbritannien och Monarch i USA. Monarch räknas inte som europeisk kapacitet. Bildförslag, källor, faktastatus och öppna frågor ingår.
+- PR #13, #17, #24, #25, #31, #40 och #43 ligger kvar som källunderlag/delutkast. PR #40:s globala Anthropic-computegranskning hålls separat från den europeiska huvudartikeln där den inte behövs.
+- **Nästa tillåtna steg:** chefredaktörens granskning och separat godkännande av PR #64. Först därefter kan publicering och LIVE-kontroll genomföras. Huvudspår 3 får inte påbörjas före det.
+
+
+## Aktuell redaktionskontroll – 13 november 2026, 08:03 EET
+
+### Huvudspår 2 – PR #64
+- Kanonisk artikel: `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`.
+- PR #64 är öppen, Draft, ej mergad och ej publicerad. GitHub rapporterar `mergeable: true`; PR-grenen är en separat granskningsgren och har inte uppdaterats med den senaste fristående masterplan-commiten.
+- Reviderat paket innehåller full artikel, bildförslag, primärkällor, oberoende rapportering, faktastatus och öppna frågor.
+- Nya sakdelar har integrerats i huvudtexten: protestvågen och EU:s föreslagna rating/minimistandardprocess; Statnetts NO3-underlag; Nscale:s SEC S-1/A om Loughton, Kvandal och Monarch. Nscale:s Microsoft-belopp anges som ursprungligt aggregerat värde före avslutat SOW; prospektet ger inte ett nytt nettovärde. Monarch i West Virginia är uttryckligen ett amerikanskt jämförelsefall.
+- Faktakontrollerade primärpunkter: ACER 2026 Monitoring Report; Statnetts beslut 9 november och NO3-redogörelse; EuroHPC:s Discoverer++-upphandling; Nscale:s S-1/A inlämnad 12 november. Norska MW-kategorier, IT-last, anslutning, reservation och faktisk förbrukning hålls åtskilda.
+- PR #64 väntar på chefredaktörens separata granskning och godkännande. Huvudspår 3 ska inte startas före godkännande, publicering och LIVE-kontroll av huvudspår 2.
+
+### Nio huvudspår – levande status
+1. **Palantir och den offentliga makten:** PR #55 mergad och LIVE. Publik artikelväg kontrollerad 13 november; PR #33 supersederad. PR #7 (Q3) och #42 (GP-data/lobbying) är separata draftärenden.
+2. **Europas AI-datacenter:** PR #64 komplett reviderat granskningsutkast; väntar på chefredaktören.
+3. **Synkronicitetsprotokollet:** PR #38 komplett första draft; metod, reproducerbarhet och alternativförklaringar ska kontrolleras före godkännande.
+4. **Sofia – staden under staden:** PR #8 Samuil/Prespa är delcase; huvudartikel med musei-, utgrävnings- och byggnadskällor återstår.
+5. **Strategiska råvaror:** PR #34 Urbergsskölden och PR #51 Hautalampi/Eurobattery är draft; fyndighet, tillstånd, finansiering och produktion måste hållas isär.
+6. **NVIDIA som lånesäkerhet:** PR #47 gäller styrelse/exportkontroll; PR #14 och #23 gäller AI-finansiering. Nscale:s SEC S-1/A visar NVIDIA:s deltagande i osäkrade konvertibla finansieringsinstrument, men inte aktiepant. En dokumenterad aktiepantkedja saknas fortfarande. Nscale:s S-1/A redovisar NVIDIA som investerare/part i osäkrade konvertibla instrument; det är inte belägg för att NVIDIA-aktier pantsatts som säkerhet.
+7. **Libanons kristna historia:** PR #22 UNIFIL och #39 presidentarkiv är delspår. PR #36 Fader Samir Daou är publicerad separat; Geagea/Gemayel/Syrien/kyrkans sammanhängande huvudartikel återstår.
+8. **Kyrkorna som överlevde imperierna:** ingen komplett huvudartikel ännu; Wiesbaden, Warszawa och Prag kräver byggnadsspecifika primärkällor. Sofia/Varna är möjliga fortsättningar.
+9. **Fennoskandien:** PR #4/#32 Storsjö kapell/mark, #37 Rottensjön och #43 Skellefteå/Northvolt är delcase; den breda syntesartikeln återstår.
+
+### Separata projekt och serier
+- **ODJURET UR DJUPET:** PR #28 om Peter Thiel; Storsjöodjuret, Frösöstenen och primärtextbaserad kontroll av föreläsningarna återstår. Symbolisk parallell ja; historisk påverkan får inte påstås utan belägg.
+- **Storsjö kapell/Cladonia:** PR #4 och #32. Cirka 15 000 hektar och ägaruppgiften är inte fastställda i fastighetsregister. Fastighetsgränser ska jämföras med Fornsök, gravar, bronsålderslämningar, depåfynd och lokala rättigheter. Håll åtskilt från Storsjön vid Östersund/Frösön.
+- **Skaga kapell:** åttadelad struktur definierad; komplett del 1 och arkivbelägg återstår.
+- **Böckernas väg till Athos:** PR #26 om 30 000 osmanska dokument är ett delutkast; fyra tidigare utkast har inte återfunnits i fulltext.
+- **Från skrift till storebror:** PR #21, #41, #45, #54 och #57 är delspår; sammanhängande huvudartikel återstår.
+
+### Aktuella nyhetsspår
+- **Hormuz:** PR #62/#63 mergade; statisk deployment `f873ebfa...` är LIVE. Koden i `src/app.js` innehåller JMIC 113 och UKMTO 201–204. Direkt route-test återstår; ingen databaspost har skrivits.
+- **USA:s kongress:** PR #10 Draft. Senate Vote 257 (73–25) är ett procedurbeslut om cloture, inte slutlig passage; ny kongress tillträder 3 januari 2027.
+- **Palantir Q3:** PR #7 Draft, separat från huvudartikel PR #55.
+- **AI-infrastruktur:** huvudspår 2 PR #64 samlar europeiska fall; PR #14/17/20/24/25/31/40/43 är kompletterande delspår.
+- **Gripen över Polen:** primärunderlaget är nu identifierat: [Försvarsmakten 30 september](https://www.forsvarsmakten.se/aktuellt/nyheter/svenska-stridsflyg-i-ny-nato-insats/), [Polens försvarsministerium 30 september](https://www.gov.pl/web/obrona-narodowa/szwedzkie-mysliwce-gripen-wzmocnia-ochrone-polskiego-nieba) och [Polska generalstabens X-post 3 november](https://x.com/SztabGenWP/status/2117630867426144278). Posten anger över fyra timmars patrol-/skyddsuppdrag med tanker AA-332 MMF19; direkt X-hämtning gav 403, men Defence24 återger uttalandet 4 november. Antalet Gripen är inte offentliggjort. PR #12 handlar om AI-agenter/industri/Kanada och hålls separat. Eget artikelutkast väntar tills PR #64 har fått chefredaktörsbeslut.
+
+### Breaking Watch och publiceringssystem
+- PR #16 (täckningsmatris) och PR #60 (intern researchlogg) är öppna Drafts. Senaste journalen 13 november 07:51 anger att samtliga 19 A–S-spår screenats; viktiga deltan omfattar NVIDIA/Singapore, UKMTO 201–204, Cladonia-mötet, Norrsundet-samråd och SOU 2026:58.
+- PR #16:s äldre Rendernotering om 8 november är supersederad av den aktuella Renderkontrollen ovan.
+- Redaktionell backend kör fortfarande 4 november-deploymenten. Postgres är `available`, men `ipAllowList=[]`; read-only `SELECT 1` nekas eftersom alla externa anslutningar blockeras. Admin/API och `DATABASE_URL` är inte testade end-to-end. Databasbaserad godkännandekö kan därför inte användas.
+- **Hyllning i varje utgåva:** Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi och Sankt Charbel kvarstår. Vasilevskis identitet måste fastställas innan namn eller hyllning publiceras.
+
 
 ### Gripen över Polen – källstatus 13 november 2026
 - **Svensk primärkälla:** Försvarsmakten 30 september 2026 anger att F 17 påbörjade en tvåmånaders NATO-insats 1 oktober; flygoperationerna skulle huvudsakligen utgå från Sverige, med mindre framskjuten bas i Polen, under CAOC Uedem. Uppgiften beskriver uppdragets ram, inte en enskild incident.
