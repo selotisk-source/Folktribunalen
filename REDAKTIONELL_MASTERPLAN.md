@@ -111,3 +111,87 @@ FOLKTRIBUNALEN är en flerområdesredaktion, inte en breaking-news-feed. Hormuz 
 - **USA:s kongress:** senatens 17-novemberprogram visar fortsatt procedurbehandling, inte slutlig passage av BAAJA.
 - **Palantir:** SEC 10-Q bekräftar Q3-intäkter 2,313 md USD och 84 procent USA-andel.
 - **Vasilevski:** identiteten är fortfarande inte fastställd; ingen biografi eller hyllning får publiceras innan detta är källbelagt.
+
+
+## Historiska kontroll- och researchloggar – behållna för spårbarhet
+
+Följande daterade anteckningar återges från den tidigare masterplanen. De är historik, inte aktuell status; den aktuella kontrollen och arbetsordningen står överst i dokumentet.
+
+### Gripen över Polen – källstatus 13 november 2026
+- **Svensk primärkälla:** Försvarsmakten 30 september 2026 anger att F 17 påbörjade en tvåmånaders NATO-insats 1 oktober; flygoperationerna skulle huvudsakligen utgå från Sverige, med mindre framskjuten bas i Polen, under CAOC Uedem. Uppgiften beskriver uppdragets ram, inte en enskild incident.
+- **Polsk primärkälla:** Polens försvarsministerium 30 september bekräftar att svenska Gripen ska delta i NATO Air Policing från oktober.
+- **Händelse 3 november:** Polska generalstabens officiella X-post anger att svenska JAS 39 Gripen i över fyra timmar utförde patrull- och skyddsuppgifter över Polen med tanker AA-332 MMF19. Den officiella X-sidan gav HTTP 403 vid direkt hämtning; Defence24:s artikel 4 november återger inläggets text och länk, medan Aviation24 publicerade en separat rapport samma dag. Antalet flygplan är inte angivet. Defence24:s hänvisning till Alpha Scramble är sekundär tolkning, inte uttryckligen bekräftad i den återgivna generalstabsformuleringen.
+- **Avgränsning:** Detta är inte samma sak som Saabs AI-agentprov i Gripen E, inte ett nytt flygplansköp och inte automatiskt bevis för luftstrid eller nedskjutning. Ingen sådan händelse rapporteras i de granskade källorna.
+- **Artikelstatus:** researchbasen är etablerad; separat artikelutkast startas efter chefredaktörens beslut om PR #64, i enlighet med en-artikel-i-taget-regeln.
+
+Källor: https://www.forsvarsmakten.se/aktuellt/nyheter/svenska-stridsflyg-i-ny-nato-insats/ · https://www.gov.pl/web/obrona-narodowa/szwedzkie-mysliwce-gripen-wzmocnia-ochrone-polskiego-nieba · https://x.com/SztabGenWP/status/2117630867426144278 · https://defence24.pl/sily-zbrojne/tej-nocy-szwedzi-chronili-polskie-niebo-wspieral-je-tankowiec-nato · https://www.aviation24.be/manufacturers/saab/swedish-gripens-patrol-polish-skies-with-multinational-nato-tanker-support/
+
+
+## Kontrollrunda – 14 november 2026, 08:13 EET
+
+### Aktuell arbetskö och artikelkvalitet
+- **Huvudspår 1 – Palantir:** PR #55 är stängd som mergad. PR-beskrivningen anger chefredaktörsgodkännande 13 november, merge till `main` i `ab0a7f3e7e4dfa3739dc6889dc2f7775e01097b4`, statisk Render-deployment `f873ebfa9fbe637ad74dd7db662496c714090004` med status `live`, och en publik HTTP 200-kontroll 13 november. En ny direkt hämtning av sajten lyckades inte i denna kontroll; senast dokumenterade sidkontroll är därför fortfarande 13 november.
+- **Huvudspår 2 – Europas AI-infrastruktur:** PR #64 är fortsatt öppen och Draft, utan review submissions. Kanonisk fil `editorial/drafts/2026-11-13-europe-ai-infrastructure.md` är 501 rader/55 689 tecken. Den innehåller ingress, nio sammanhängande huvudavsnitt, slutsats, bildförslag, faktaruta, primärkällor, oberoende rapportering, faktastatus och öppna frågor. Branchjämförelse före denna masterplanuppdatering: 4 commits före `main`, 0 bakom, status ahead. Denna masterplanuppdatering flyttar `main`; PR-grenen ska jämföras och synkas före eventuell merge. Ingen godkännande- eller publiceringsåtgärd är gjord.
+- **En-artikel-i-taget:** PR #64 är fortfarande den aktiva granskningsposten. Nästa huvudartikel, Synkronicitetsprotokollet, startas inte före chefredaktörsbeslut, eventuell publicering och faktisk LIVE-kontroll av PR #64.
+- **Render:** publik statisk tjänst `srv-dblpumgm7kps73bv55e0` har senaste `live`-deployment `dep-dbr6iilg1s2s73fiq0v0`, commit `f873ebfa9fbe637ad74dd7db662496c714090004`, avslutad 13 november 01:35:25 UTC. Redaktionell backend `srv-dblq2r0n74is73cchqh0` kör fortfarande 4 november-commit `6a835783553565f239864a9da7160d9f79f692b2`.
+- **Postgres:** `folktribunalen-db` (`dpg-dblq2fqfngtc73c0h9gg-a`) är `available`, free, Frankfurt, utgång 4 december 2026, men `ipAllowList=[]`. Nytt read-only `SELECT 1` avvisades med Render-felet: “This database blocks all external connections because its IP allowlist is empty”. Render anger lokal Render MCP eller en uttryckligen betrodd klient-IP som väg framåt. Ingen databaspost har skrivits och admin/API är inte testat end-to-end.
+
+### Breaking Watch – nya sakuppgifter och rättelser
+- **Palantir/NHS, 12 november:** The Guardian rapporterar att NHS England tog ned sin webbsida med påståendet att 137 hospital trusts var live och realising benefits med FDP efter att 29 truster uppgett att de inte använde alla eller de flesta verktygen. Guardian anger att OSR granskar NHS-påståendena och att NHS tidigare varnats om att det saknades evidens för påståendet om mer än 100 000 extra operationer. Detta är en materiell efterföljande uppgift till den publicerade PR #55-texten; den live-publicerade artikeln ska få ett separat daterat uppdateringstillägg efter att PR #64 har fått redaktionellt beslut. Källor: Guardian 12 nov 2026, https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools ; tidigare undersökning 9 nov, https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records .
+- **Hormuz, 13–14 november:** Reuters publicerade 13 november 21:01 UTC att IRGC Navy sade att två oljetankfartyg exploderat och brunnit efter att ha träffat minor. Reuters uppger att inga fartygsnamn eller ytterligare detaljer lämnades. Uppgiften är en iransk myndighets-/partsuppgift återgiven av Reuters; den är inte oberoende bekräftad i den kontrollerade källmängden. IMO:s senaste öppnade uttalande 11 november anger mer än 130 verifierade attacker sedan 28 februari och minst 25 döda sjömän; räkna inte in de två påstådda händelserna i IMO:s totalsiffra utan ny IMO-post. Källor: https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-hit-sea-mines-hormuz-2026-11-13/ ; https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-calls-for-enforcement-of-maritime-rules.aspx .
+- **NVIDIA/Megaspeed/Singapore, 12–13 november:** Singapores Ministry of Home Affairs klargjorde 12 november att Alice Huang/Huang Le inte utreddes för spioneri. MHA säger att polisen i februari 2026 bedömde att bevisen inte räckte för att fastställa att hon begått de misstänkta deklarationsbrotten, men att hon bedömdes ha lämnat information som hon visste var felaktig för att tona ned sin roll; hon fick en stern warning och förbjöds att återvända. Utredningen av Megaspeed och sex andra personer fortsätter. Reuters 12 november rapporterar att Singapore upplevt begränsad amerikansk hjälp; Reuters 13 november återger finansminister Scott Bessents kritik mot Commerce Department om exportkontrollbeslutet. Skilj myndighetsfakta, politiska påståenden och ej fastställda spionanklagelser; skriv inte att Huang var spion. Källor: https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/ ; https://www.reuters.com/world/asia-pacific/singapore-barred-alice-huang-re-entry-following-investigation-2026-11-12/ ; https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/ .
+- **USA:s senat/BAAJA, 9–12 november:** Officiell Senate LIS visar Vote 257: 73–25 för cloture på motionen att gå vidare till H.R. 2347 den 9 november; Vote 258: 62–21 för motionen att gå vidare den 10 november. Senate Floor Activity 10 november listar Capitos substitute amendment SA 6883 och efterföljande amendments; Press Gallery-loggen 11 november anger att cloture lämnades in på SA 6883 och grundförslaget. Loggen för 12 november anger en annan omröstning om domarnominering, inte slutlig passage av BAAJA. H.R. 2347:s ursprungliga titel/text är ett skatteförslag om vissa skadestånd; BAAJA är den senatsbehandlade ersättningstexten/lagstiftningsfordonet. Källor: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.htm ; https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm ; https://www.senate.gov/legislative/LIS/floor_activity/11_10_2026_Senate_Floor.htm ; https://www.periodicalpress.senate.gov/on-the-floor/floor-logs-archive/ .
+- **Europas AI-infrastruktur:** PR #64:s faktaläge är 13 november och dess primärkällor kontrollerades igen 14 november. EuroHPC:s AI-gigafabrikupphandling är fortsatt öppen med Lot 2-frist 3 december 2026 och Lot 1-frist 4 februari 2027; inga vinnare eller slutliga platser är beslutade. Skellefteå kommuns FAQ beskriver Bergsbyn/EdgeConneX som tidigt utvecklingsskede och 1 GW som möjlig framtida campuskapacitet, inte befintlig drift eller offentlig nätanslutningsgaranti. Källor: https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en ; https://skelleftea.se/extraordinara-handelser/bergsbyns-industriomrade/utvecklingen-pa-bergsbyns-industriomrade-i-skelleftea/fragor-och-svar .
+- **Gripen över Polen:** ingen ny officiell händelseuppgift identifierades i 14-novemberkontrollen. Behåll 3 november som den senaste dokumenterade enskilda patrulluppgiften från polska generalstaben; antal Gripen är inte offentliggjort. Svenska/Polska försvarsdepartementens 30-septemberbesked beskriver uppdragets ram, inte enskild incident.
+- **Vasilevski:** identiteten är fortfarande inte fastställd. Ingen hyllningstext får tillskriva namnet en person innan full identitet och relevant historiskt bidrag har dokumenterats.
+
+### Arbetsbeslut för nästa cykel
+1. Behåll PR #64 som enda aktiva huvudartikel i granskningskön; ingen ny huvudartikel startas före chefredaktörens beslut och LIVE-kontroll.
+2. Efter beslut om PR #64: genomför eventuell merge/publicering via redaktionella systemet när åtkomst fungerar; kontrollera faktisk publik sida innan huvudspår 3.
+3. Lägg Palantir/NHS-uppgiften från 12 november som daterat uppdateringsförslag till redan publicerad artikel när den aktiva PR #64-cykeln är avslutad.
+4. Fortsätt bevaka Hormuz; de två IRGC-uppgifterna hålls som obekräftad partsuppgift tills IMO/UKMTO eller annan oberoende dokumentation identifierar fartygen/händelserna.
+5. Fortsätt NVIDIA/Megaspeed-spåret med MHA:s rättelse som primär källa; inga spionanklagelser mot Alice Huang utan bevis.
+
+
+---
+
+## Redaktionell utvidgning – Religion, Folket och Tradition (17 november 2026)
+
+Tre självständiga redaktionella områden har lagts till i portföljen. Fullständigt program, serier, bildstandard och källregler finns i `editorial/portfolio/religion-folket-tradition.md`.
+
+### RELIGION
+Bevakning av religiösa traditioner, institutioner, trosgemenskaper, liturgi, kloster, kyrkohistoria, heliga platser, religiösa minoriteter, skrifttraditioner och idéhistoria. Omfattar bland annat ortodoxa, koptiska, etiopisk-ortodoxa Tewahedo, syriska, armeniska och maronitiska traditioner samt andra religioner med samma krav på saklighet och intern mångfald.
+
+Serier: **Tron och imperiet; De levande traditionerna; Skrifternas historia; Heliga geografier; Mystikens idévärldar; De försvinnande kyrkorna.**
+
+### FOLKET
+Människor, arbete, familjer, generationer, lokalsamhällen, migration, yrkesliv, stad och landsbygd, språk, identitet, vittnesmål och framtidsvillkor. Reportage ska ge människor egna röster och skydda utsatta källor.
+
+Serier: **Människorna bakom arbetet; Röster från platsen; Generationerna; Stadens och bygdens folk; Ett yrkesliv; Framtidens människor.**
+
+### TRADITION
+Levande och materiellt kulturarv: folktro, högtider, årscykler, folkdräkter, musik, dans, hantverk, mat, byggnadskultur, dialekter, muntligt berättande och regionala symboler. Nordiska, slaviska, balkanska och övriga europeiska traditioner behandlas med regional precision.
+
+Serier: **Traditionernas atlas; De gamla mästarna; Årets kretslopp; Folkets minne; Symbolernas språk; Det heliga året.**
+
+### Gemensam redaktionell standard
+- Skilj dokumenterad historia, muntlig tradition, religiös lära, partsuppgift, analys och spekulation.
+- Redovisa regionala skillnader, källornas begränsningar och alternativa tolkningar.
+- För intervjuer och personporträtt: samtycke, korrekt attribution och skydd av utsatta källor.
+- Bilder ska ha relevant bildtext, källa/upphovsperson och dokumenterad rättighetsstatus. Arkivbild, rekonstruktion och AI-genererad illustration ska märkas tydligt; AI-bilder får inte framställas som dokumentära fotografier eller historiska original.
+- Dessa tre områden får bidra med perspektiv och källnoteringar till övriga ämnen, men ändrar inte den beslutade huvudartikelordningen.
+
+### Startstatus och köregel
+Detta är en portföljutvidgning, inte en ny huvudartikel eller ett publiceringsbeslut. Researchidéer får samlas parallellt som källnoteringar. En ny huvudartikel går in i formell produktion först när den aktiva huvudartikelcykeln för Europas AI-infrastruktur har avslutats enligt ordinarie gransknings-, godkännande- och LIVE-kontroll.
+
+
+## Researchleverans – Religion, Folket och Tradition (17 november 2026)
+
+Tre parallella researchbankar har nu påbörjats utan att öppna en andra aktiv huvudartikel. Underlaget finns i `editorial/research/2026-11-17-religion-folket-tradition-image-research.md`.
+
+- **Religion:** Boyanakyrkan i Sofia – UNESCO:s byggnadsfaser och freskerna från 1259. En bildkandidat från Wikimedia Commons har identifierad upphovsperson Interact-Bulgaria och licens CC BY-SA 4.0.
+- **Folket:** British Library Endangered Archives Programme, projekt EAP500, om fotografiska samlingar från Bulgariens minoritetsgemenskaper. Enskilda arkivbilders återanvändningsrätt är ännu inte fastställd; ingen publicering före rättighetskontroll.
+- **Tradition:** Kukeri/Surva – UNESCO:s bulgariska immateriella kulturarv och lokal ritual/hantverkstradition. En bild av Vivian Krayslavova från 28 januari 2022 är identifierad med CC BY-SA 4.0.
+- **Tvärgående folkperspektiv:** OECD:s Bulgaria Labour Market and Social Policies 2025 ger nationell arbetsmarknadskontext; lokala reportage kräver egna intervjuer och regional data.
+
+**Status:** Källor, möjliga reportagevinklar, bildkandidater, bildtexter och rättighetsstatusar dokumenterade. Detta är research, inte färdiga artiklar eller publiceringsgodkännanden. Huvudspår 2 – Europas AI-infrastruktur – förblir den enda aktiva huvudartikeln tills dess route- och publiceringskontroll är avslutad.
