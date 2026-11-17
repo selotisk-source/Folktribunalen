@@ -3,7 +3,7 @@
 **Artikeltyp:** Undersökande granskning · AI-infrastruktur · energi · offentlig finansiering · regional utveckling  
 **Faktaläge:** 17 november 2026 (grundtext 13 november; kompletteringar 17 november)  
 **Huvudspår:** 2 – Europas AI-datacenter  
-**Redaktionell status:** DRAFT – revision 17 november 2026. Basversionen godkändes uttryckligen 15 november och PR #64 mergades, men denna revision innehåller materiella tillägg och kräver ett nytt, separat chefredaktörsgodkännande. PR #70 är öppen Draft, inte mergad och inte publicerad. Den publika artikelsidan är inte HTTP-kontrollerad; kort-/slug-mismatch kvarstår och Postgres/adminåtkomst är blockerad av tom IP-allowlist.
+**Redaktionell status:** ÖPPEN FÖR REDAKTIONELL GRANSKNING – revision 17 november 2026. Basversionen godkändes uttryckligen 15 november och PR #64 mergades, men denna revision innehåller materiella tillägg och kräver ett nytt, separat chefredaktörsgodkännande. PR #70 är öppen och redo för granskning, inte godkänd, inte mergad och inte publicerad. Den publika artikelsidan är inte HTTP-kontrollerad; kort-/slug-mismatch kvarstår och Postgres/adminåtkomst är blockerad av tom IP-allowlist.
 
 ## Ingress
 
@@ -426,6 +426,9 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
     https://www.uniper.energy/system/files/2026-11/Uniper_Capital%20Markets%20Day%20Presentation_November_2026.pdf
 29. **EBRD – Transition Report 2026–27, kapitelöversikt, särskilt kapitel 3 “Building the AI economy”**, global elförbrukning för datacenter och fördelningen av förväntad kapacitetsökning.  
     https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27/chapters.html
+
+30. **EBRD – Transition Report 2026–27**, officiell publikationssida, publicerad 17 november 2026. Används för rapportens datum, omfattning och redaktionella inramning; kapitelöversikten anges separat ovan.  
+    https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27.html
 
 ## Oberoende rapportering och kompletterande källor
 
