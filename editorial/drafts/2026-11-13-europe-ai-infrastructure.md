@@ -209,8 +209,6 @@ Den konkreta statusen är därmed mer långt gången än en ren avsiktsförklari
 
 ### Europeisk hårdvara och moln – men ännu ingen offentlig kapacitetsorder
 
-### Europeisk hårdvara och moln – men ännu ingen offentlig kapacitetsorder
-
 En annan del av Europas AI-infrastruktur är försöket att bygga en mer självständig leveranskedja för servrar, moln och programvara.
 
 Den 3 november 2026 offentliggjorde franska Bull och tyska Schwarz Digits ett memorandum of understanding om ett europeiskt AI- och molnekosystem. Schwarz Digits ska bidra med molninfrastruktur genom STACKIT, medan Bull bidrar med AI- och HPC-kompetens och tillverkning. BullSequana AI är tänkt att bli tillgänglig i STACKIT Marketplace.
@@ -389,6 +387,18 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 
 23. **SEC – Nscale plc, Amendment No. 1 to Form S-1**, inlämnad 12 november 2026:
     https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm
+24. **Lupa- ja valvontavirasto – Tuike Finland: vattenhantering, dränering och vattenlagstillstånd i Muhos**, 22 oktober 2026:
+    https://lvv.fi/-/lupa-ja-valvontavirasto-vaatii-tuike-finland-oy-lta-toimenpiteita
+
+25. **Polisen i Finland – förundersökning om Tuike Finlands förberedelsearbeten i Muhos**, 29 oktober 2026:
+    https://poliisi.fi/-/poliisi-on-aloittanut-rikostutkinnan-tuike-finland-oy-n-muhoksen-datakeskushankkeen-valmisteleviin-toihin-liittyen
+
+26. **EuroHPC JU – aktuell upphandlingssida för AI Gigafactories**, status och nya inlämningslänkar kontrollerade 17 november 2026:
+    https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+27. **Skellefteå kommun – kungörelse om bygglov för DC01 och DC02, Ackumulatorn 3, dnr 2026-3140**, 28 september 2026:
+    https://skelleftea.se/download/18.37dfe2e81a0adc9019bf50f/1790595282269/2026-09-28_SAM-2026-3140_96_Kung%C3%B6relse.pdf
+
 
 ## Oberoende rapportering och kompletterande källor
 
