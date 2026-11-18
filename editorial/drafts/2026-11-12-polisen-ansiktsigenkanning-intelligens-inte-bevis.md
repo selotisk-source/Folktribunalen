@@ -1,0 +1,122 @@
+# När ansiktsmatchningen blir bevis – polisens retrospektiva ansiktsigenkänning
+
+**Huvudspår:** N – Från skrift till Storebror  
+**Korskoppling:** A – offentlig makt och algoritmisk styrning  
+**Faktaläge:** 12 november 2026  
+**Status:** DRAFT för chefredaktörens granskning. Inte godkänt, inte mergat, inte publicerat.
+
+## Utkast
+
+En ansiktsmatchning är inte ett vittne. Den är en algoritmisk rangordning av kandidater ur ett bildregister. När polisen använder resultatet som bevis för identitet i stället för som ett uppslag till fortsatt utredning kan ett statistiskt förslag få en rättslig tyngd som tekniken inte själv kan bära.
+
+En ny granskning av brittisk polis användning av retrospektiv ansiktsigenkänning pekar på just den risken. Enligt rapporteringen har inspektörer funnit att vissa utredare inte förstått skillnaden mellan underrättelseinformation och bevisning, att matchningar inte alltid följts av tillräcklig kontroll och att bilder som borde ha gallrats fortfarande funnits tillgängliga i jämförelseregister. Granskningen tar också upp risker för felaktiga träffar och diskriminerande utfall.
+
+Detta gäller **retrospektiv ansiktsigenkänning (RFR)**: en redan tagen bild från exempelvis en brottsutredning jämförs i efterhand med ett referensregister. Det är inte samma sak som live-ansiktsigenkänning i ett kameraövervakat offentligt rum eller operatörsinitierad sökning i realtid. Skillnaden spelar roll både tekniskt och rättsligt.
+
+### Från sökträff till utredningsspår
+
+En RFR-sökning kan ge en lista med möjliga kandidater. Den kan hjälpa en utredare att hitta ett namn att kontrollera, men den fastställer inte på egen hand vem personen på bilden är. En träff måste prövas mot bildkvalitet, kameravinkel, ljus, tidslinje, alibi, andra vittnesuppgifter och oberoende bevisning.
+
+Det är därför allvarligt om en matchning behandlas som ett identifieringsbesked. En algoritmisk likhetspoäng kan inte ersätta en dokumenterad beviskedja. Den mänskliga kontrollen är inte en formalitet efter maskinens beslut; den är en nödvändig del av själva identifieringen.
+
+Det är viktigt att skilja mellan avsaknad av regler och bristande efterlevnad. Home Offices egen faktasida från december 2025 säger redan att en retrospektiv matchning endast är en del av underrättelseinformationen och att både en särskilt utbildad operatör och den ansvariga utredaren ska granska möjliga träffar. Om inspektörernas iakttagelser stämmer handlar problemet därför inte bara om att lagstiftningen är ofullständig, utan också om att befintliga operativa skydd inte alltid fungerar i praktiken.
+
+Home Office har också publicerat en oberoende NPL-utvärdering av RFR-algoritmen. Den beskrev vissa begränsade förhållanden där vissa demografiska grupper oftare kunde förekomma bland felaktiga kandidater. Samtidigt uppgav myndigheten att systemet hittade en korrekt match i 99 procent av sökningarna när en korrekt bild fanns i registret, vid de inställningar polisen använde. Det måttet är inte detsamma som att 99 procent av alla föreslagna träffar är korrekta. Den skillnaden måste hållas tydlig i all rapportering om träffsäkerhet.
+
+### Registerkvaliteten är en del av rättssäkerheten
+
+Granskningen uppges också ha funnit brister i hanteringen av bilder som skulle ha gallrats. Om felaktigt kvarhållna eller felmärkta bilder ligger kvar i referensmaterialet påverkas inte bara en enskild sökning. Felet kan fortplantas till nya utredningar, skapa återkommande falska kandidater och bli svårt att upptäcka när senare handläggare litar på tidigare registreringar.
+
+Det krävs därför spårbarhet för varje sökning: vilken bild användes, vilket register jämfördes, vilken version av algoritmen kördes, vilka kandidater returnerades, vilka manuella bedömningar gjordes och vilken oberoende bevisning låg bakom ett beslut att gå vidare?
+
+### Regeringen har aviserat regler – men de är ännu inte lag
+
+Den 4 november 2026 meddelade Home Office att regeringen vill införa en särskild rättslig ram för polisens användning av ansiktsigenkänning och närliggande biometrisk teknik. Förslaget omfattar en oberoende tillsynsfunktion, krav på rigorös och oberoende testning av bias samt regler om att användningen ska vara underrättelsestyrd och proportionerlig.
+
+Det är ett politiskt besked om kommande lagstiftning, inte en redan antagen lag. Den nya granskningen visar varför en sådan ram måste omfatta mer än live-system: även sökningar i efterhand kan påverka vem som blir misstänkt, frihetsberövad eller föremål för fortsatt övervakning.
+
+### Den avgörande kontrollfrågan
+
+Frågan är inte om ansiktsigenkänning kan hjälpa polisen att hitta utredningsspår. Frågan är vilka rättsliga och tekniska spärrar som hindrar en sannolikhetsbaserad träff från att förvandlas till ett faktum i polisens beslutsunderlag.
+
+En hållbar ordning behöver åtminstone innehålla:
+- tydlig åtskillnad mellan underrättelseuppslag och bevisning;
+- dokumenterade trösklar för bildkvalitet och sökbarhet;
+- oberoende tester av felutfall mellan relevanta grupper;
+- gallring som faktiskt genomförs och kan revideras;
+- loggar över sökningar, kandidatval och mänskliga överstyrningar;
+- möjlighet för den berörda att få veta att tekniken använts, när det kan ske utan att skada en pågående utredning;
+- en oberoende tillsynsinstans med faktisk möjlighet att stoppa otillåten användning.
+
+**Slutsats:** En ansiktsmatchning kan vara början på en utredning. Den får inte bli slutet på bevisprövningen.
+
+## Källstatus och öppna kontrollpunkter
+
+- **OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 12 november om HMICFRS-granskningens fynd, inklusive risken att RFR-resultat behandlas som bevis och problem med gallrade bilder.
+- **OBEROENDE BEKRÄFTELSE / partsnära:** Liberty sammanfattade granskningen 12 november och efterlyste lagstadgade skydd. Liberty är en rättighetsorganisation med tydligt intresse i frågan.
+- **PRIMÄRKÄLLA:** Home Office, 4 november 2026, *Stronger laws for police using facial recognition technology*. Detta är regeringens aviserade reform, inte antagen lag.
+- **PRIMÄRKÄLLA:** GOV.UK:s guide *Police use of facial recognition* skiljer mellan retrospektiv, operatörsinitierad och live-ansiktsigenkänning samt beskriver nuvarande manuella kontrollsteg och regeln att RFR-resultat endast är underrättelseinformation.
+- **PRIMÄRKÄLLA:** Home Offices sammanfattning av NPL:s oberoende testning redovisar både begränsade demografiska skillnader och 99-procentsmåttet för att hitta en befintlig korrekt match; måttet får inte beskrivas som generell precision eller andel korrekta träffar.
+- **ÖPPEN PRIMÄRKÄLLA:** HMICFRS:s fullständiga rapport/landningssida har inte kunnat hämtas direkt i denna kontroll. Den måste läggas till och läsas innan utkastet kan godkännas för publicering.
+- **ÖPPET:** vilka styrkor och vilken nationell myndighet som ingick, exakta felutfall per grupp, antal felaktiga utredningsåtgärder, registergallringens omfattning, algoritmversioner och rekommendationernas ordalydelse.
+- **AVGRÄNSNING:** Utkastet påstår inte att varje RFR-sökning är felaktig, att ett visst antal personer felaktigt gripits eller att live-ansiktsigenkänning och RFR har samma rättsliga/tekniska riskprofil.
+
+## Källor
+
+- The Guardian, 12 november 2026: https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns
+- Liberty, 12 november 2026: https://www.libertyhumanrights.org.uk/issue/retrospective-facial-recognition-report-shows-urgent-need-for-legislative-safeguards/
+- Home Office, 4 november 2026: https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology
+- GOV.UK, *Police use of facial recognition*: https://www.gov.uk/government/publications/police-use-of-facial-recognition/police-use-of-facial-recognition-a-guide-accessible-version
+- Home Office/National Physical Laboratory, *Summary: accuracy and equitability evaluation of the retrospective facial recognition algorithm*: https://www.gov.uk/government/publications/facial-recognition-technology-tests-national-physical-laboratory/summary-accuracy-and-equitability-evaluation-of-cognitec-facevacs-dbscan-id-v55
+
+**Publiceringsvillkor:** Hämta och kontrollera HMICFRS-originalrapporten, verifiera samtliga kvantitativa påståenden och begär kommentar från HMICFRS, Home Office och berörda polisstyrkor. Ingen publicering före uttryckligt chefredaktörsgodkännande.
+
+## Källkontroll 12 november 2026 – HMICFRS-rapportens original
+
+HMICFRS meddelade den 12 november att dess tematiska granskning av retrospektiv ansiktsigenkänning publicerats och omfattar 16 rekommendationer. Den fullständiga rapportlänken via HMICFRS kortlänk (https://orlo.uk/HbK4I) gav åtkomstfel i denna kontrollmiljö. Därför är rapportens exakta formuleringar och rekommendationernas ordalydelse ännu inte kontrollerade direkt mot PDF/HTML-originalet.
+
+**Källstatus:** HMICFRS:s egen publiceringsnotis är primär för att rapporten publicerats och att den innehåller 16 rekommendationer; [The Guardian](https://www.theguardian.com/uk-news/2026/nov/12/police-facial-recognition-use-criticised-in-new-watchdog-report) och [Police Professional](https://www.policeprofessional.com/news/inspectors-raise-concerns-over-police-use-of-retrospective-facial-recognition/) är sekundära för de sakliga slutsatser som tillskrivs rapporten. Utkastet ska inte framställa varje sekundärt återgivet fynd som direkt verifierat förrän originalrapporten har hämtats. Home Offices offentliga dialog och lagförslag från 4 november är förslag, inte gällande lag.
+
+
+
+## Källuppdatering 12 november 2026, 20:08 EET – HMICFRS:s 16 rekommendationer och oberoende återgivning
+
+HMICFRS:s officiella konto meddelade 12 november att den nya granskningen av **retrospective facial recognition (RFR)** innehåller **16 rekommendationer** för bättre skydd, konsekvens och tillsyn. Inspektionen gäller retrospektiv sökning i befintliga bilder, inte live facial recognition. Den fullständiga rapportlänken som HMICFRS publicerade via kortlänk, https://orlo.uk/HbK4I, kunde inte hämtas i denna kontrollmiljö; rapportens ordalydelse är därför ännu inte direkt kontrollerad mot original-PDF/HTML.
+
+**OBEROENDE BEKRÄFTELSE – Police Professional, 12 november:** https://policeprofessional.com/news/oversight-of-retrospective-facial-recognition-must-be-improved-says-hmicfrs/. Artikeln återger att HMICFRS funnit stora skillnader i styrning mellan polisstyrkor, ojämn utbildning, att vissa potentiella matchningar inte alltid följts upp med tillräcklig kompletterande utredning samt att vissa custody images som borde ha raderats fortfarande fanns tillgängliga för sökning. Den anger även 16 rekommendationer om nationell/lokal styrning, nationella standarder, konsekvent användning, tillsyn och utbildning.
+
+**OBEROENDE BEKRÄFTELSE – The Guardian, 12 november:** https://www.theguardian.com/uk-news/2026/nov/12/police-facial-recognition-use-criticised-in-new-watchdog-report. Guardian rapporterar om risker för felaktiga matchningar och diskriminerande utfall, men dessa risker måste hållas åtskilda från varje enskild utredning och från live-system.
+
+**Källstatus:** HMICFRS:s publiceringsnotis är primär för att rapporten publicerats och omfattar 16 rekommendationer. Police Professional och Guardian är sekundära för rapportens sakliga slutsatser. Det fullständiga originalet måste hämtas innan vi citerar exakta rekommendationstexter eller använder detaljerade kvantitativa påståenden.
+
+**Öppna frågor:** vilken nationell standard föreslås, vilka rekommendationer kräver lagstiftning respektive operativ vägledning, vilka myndigheter ansvarar för custody-image retention, och hur ska en matchning dokumenteras som underrättelse snarare än bevis? Begär kommentar från HMICFRS, Home Office, NPCC och berörda polisstyrkor.
+
+## Primär källuppdatering 13 november 2026 – Home Office-undersökning av polisens användning
+
+Home Office publicerade den 12 november 2026 en officiell undersökning av användarnas kunskap, erfarenhet och uppfattningar om retrospektiv ansiktsigenkänning i Police National Database (PND).
+
+### Omfattning och resultat
+
+- Undersökningsperiod för användarpopulationen: februari 2025–januari 2026.
+- 6 012 identifierade användare i 45 styrkor och organisationer (43 territoriella polisstyrkor, British Transport Police och National Crime Agency).
+- Dessa användare genomförde tillsammans över 300 000 ansiktssökningar.
+- 779 giltiga enkätsvar, motsvarande 13 procent av den identifierade användarpopulationen. 267 svar kom från frekventa användare (36 procents svarsfrekvens) och 512 från mindre frekventa användare (10 procent).
+
+**Bevisvärde:** 34 procent av respondenterna trodde felaktigt eller var osäkra på om en PND-matchning uppfyller beviskraven för igenkänning enligt PACE Code D. 66 procent visste korrekt att en matchning inte når den beviströskeln. Cirka 7 procent trodde felaktigt eller var osäkra på om en matchning definitivt bekräftar identitet; 93 procent förstod att den inte gör det.
+
+**Utbildning:** 69 procent mindes utbildning när de först fick licens. 65 procent mindes inte någon utbildning under det senaste året; 51 procent uppgav att den senaste utbildningen låg mer än ett år tillbaka och 14 procent mindes ingen utbildning alls.
+
+**Upplevd noggrannhet och bias:** 51 procent uppfattade systemet som mestadels eller mycket träffsäkert. I den detaljerade frågan om demografisk variation svarade 53 procent att prestandan skiljer sig åt mellan grupper i åtminstone viss grad; ytterligare 11 procent svarade att den skiljer sig lite. Detta är användarnas uppfattningar, inte en teknisk mätning av algoritmens felkvot.
+
+**Positiv användarupplevelse:** 79 procent beskrev sin erfarenhet som bra eller mycket bra, 88 procent ansåg att sökningarna förbättrar utredningarnas effektivitet och 82 procent att de förbättrar den sannolika framgången. Även dessa är självrapporterade uppfattningar.
+
+### Vad undersökningen inte mäter
+
+Rapporten är inte ett oberoende algoritmtest och fastställer inte falsk-positiv-frekvens, falsk-negativ-frekvens eller faktisk diskriminerande effekt. Den mäter användarnas kunskap och uppfattningar. Den ska inte blandas ihop med HMICFRS:s separata inspektion av polisens operativa rutiner.
+
+Den fullständiga HMICFRS-rapporten har inte hämtats direkt i denna kontroll. Eventuella uppgifter om antal rekommendationer, gallringsbrister eller specifika felaktiga utredningsåtgärder måste fortsatt tillskrivas den rapporteringen tills originalrapporten finns tillgänglig.
+
+**PRIMÄRKÄLLA:** [Home Office – Police user insights on retrospective facial recognition (2026), publicerad 12 november 2026](https://www.gov.uk/government/publications/police-user-insights-on-retrospective-facial-recognition-2026/police-user-insights-on-retrospective-facial-recognition-2026)
+
+**OBEROENDE BEKRÄFTELSE:** Home Office-siffrorna har återgetts i separat rapportering, men den centrala statistiken ovan är hämtad direkt från myndighetens rapport.  
+**Faktastatus:** PRIMÄRKÄLLA för enkätresultaten; PARTSUPPGIFT/ANVÄNDARUPPFATTNING för upplevd precision och nytta; HYPOTES om att bristande förståelse leder till felaktiga beslut i enskilda ärenden; inget sådant orsakssamband fastställs av enkäten.
