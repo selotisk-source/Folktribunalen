@@ -386,57 +386,54 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 8. **LVV – Lupa- ja valvontavirasto vaatii Tuike Finland Oy:ltä toimenpiteitä**, 22 oktober 2026. Myndighetens egen redogörelse för vattenhanteringsplan, cirka nio kilometer planerade diken, svartskiffer, vattenlagstillstånd och polisens utredningsbegäran:  
    https://www.sttinfo.fi/tiedote/72435808/lupa-ja-valvontavirasto-vaatii-tuike-finland-oylta-toimenpiteita
 
-8. **UK Government – Lanarkshire AI Growth Zone secures £300 million investment**, 18 augusti 2026:  
+9. **UK Government – Lanarkshire AI Growth Zone secures £300 million investment**, 18 augusti 2026:  
    https://www.gov.uk/government/news/lanarkshire-ai-growth-zone-secures-300-million-investment-as-dell-establishes-scottish-base
 
-9. **National Wealth Fund – DataVita secures £300m financing package**, 2026:  
+10. **National Wealth Fund – DataVita secures £300m financing package**, 2026:  
    https://www.nationalwealthfund.org.uk/news/datavita-secures-300m-financing-package-to-accelerate-ai-growth-zone-in-scotland
 
-10. **DataVita – Lanarkshire AI Growth Zone FAQs**, uppdaterad november 2026:  
+11. **DataVita – Lanarkshire AI Growth Zone FAQs**, uppdaterad november 2026:  
     https://www.datavita.co.uk/lanarkshire-ai-growth-zone/faqs
 
-11. **EuroHPC JU – BRAIN++ Bulgaria:**  
+12. **EuroHPC JU – BRAIN++ Bulgaria:**  
     https://www.eurohpc-ju.europa.eu/ai-factories/bulgaria_en
 
-12. **EuroHPC JU – Discoverer++ procurement**, upphandling EuroHPC/2025/OP/0005:  
+13. **EuroHPC JU – Discoverer++ procurement**, upphandling EuroHPC/2025/OP/0005:  
     https://www.eurohpc-ju.europa.eu/acquisition-delivery-installation-and-maintenance-hardware-and-software-discoverer-ai-optimised_en
 
-13. **Sofia Tech Park och INSAIT – BRAIN++ och projektbudget på 90 miljoner euro:**  
+14. **Sofia Tech Park och INSAIT – BRAIN++ och projektbudget på 90 miljoner euro:**  
     https://sofiatech.bg/en/news/sofia-tech-park-and-insait-are-selected-for-e90-million-eu-project-bulgaria-will-be-home-to-one-of-six-new-eu-ai-factories/
 
-14. **EdgeConneX – planerat campus i Skellefteå**, 27 februari 2026:  
+15. **EdgeConneX – planerat campus i Skellefteå**, 27 februari 2026:  
     https://www.edgeconnex.com/news/press-releases/edgeconnex-looks-to-enter-swedish-market-as-part-of-european-data-center-expansion-strategy/
 
-15. **Lyten – Lyten Sweden Operations**, aktuell bolagsstatus:  
+16. **Lyten – Lyten Sweden Operations**, aktuell bolagsstatus:  
     https://lyten.com/operations/lyten-sweden/
 
-16. **Skellefteå kommun – frågor och svar om Bergsbyns industriområde:**  
+17. **Skellefteå kommun – frågor och svar om Bergsbyns industriområde:**  
     https://skelleftea.se/extraordinara-handelser/bergsbyns-industriomrade/utvecklingen-pa-bergsbyns-industriomrade-i-skelleftea/fragor-och-svar
 
-17. **Bull – Bull and Schwarz Digits: a Franco-German alliance for Europe’s digital sovereignty**, 3 november 2026:  
+18. **Bull – Bull and Schwarz Digits: a Franco-German alliance for Europe’s digital sovereignty**, 3 november 2026:  
     https://www.bull.com/en/press-releases/pr-bull-and-schwarz-digits-a-franco-german-alliance-for-europes-digital-sovereign
 
 
-18. **Statnett – tillfälliga åtgärder för datacenteranslutningar**, 9 november 2026:
+19. **Statnett – tillfälliga åtgärder för datacenteranslutningar**, 9 november 2026:
     https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
 
-19. **Statnett – skriftlig redogörelse till RME om NO3**, daterad 11 november och publicerad 12 november 2026:
+20. **Statnett – skriftlig redogörelse till RME om NO3**, daterad 11 november och publicerad 12 november 2026:
     https://www.statnett.no/globalassets/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/skriftlig-redegjorelse-til-rme---oppfolging-og-anmodning-om-a-lukke-avvik.pdf
 
-20. **Statnett – utredning av åtgärder för ökad förbrukning i NO3**, november 2026:
+21. **Statnett – utredning av åtgärder för ökad förbrukning i NO3**, november 2026:
     https://www.statnett.no/globalassets/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/utredning-av-tiltak-for-okt-forbruk-i-no3.pdf
 
-21. **Menon Economics – ekonomiska sidor av datacenterbranschen i Norge**, beställd av Digitaliserings- og forvaltningsdepartementet, 29 oktober 2026:
+22. **Menon Economics – ekonomiska sidor av datacenterbranschen i Norge**, beställd av Digitaliserings- og forvaltningsdepartementet, 29 oktober 2026:
     https://www.regjeringen.no/no/aktuelt/ny-rapport-okonomiske-sider-ved-datasentersenternaringen/id3186921/
 
-22. **Europeiska kommissionen, DG Energy – gemensamt märkningssystem och konsultation om minimistandarder för datacenter**, 21 september 2026:
+23. **Europeiska kommissionen, DG Energy – gemensamt märkningssystem och konsultation om minimistandarder för datacenter**, 21 september 2026:
     https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en
 
-23. **SEC – Nscale plc, Amendment No. 1 to Form S-1**, inlämnad 12 november 2026:
+24. **SEC – Nscale plc, Amendment No. 1 to Form S-1**, inlämnad 12 november 2026:
     https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm
-24. **Lupa- ja valvontavirasto – Tuike Finland: vattenhantering, dränering och vattenlagstillstånd i Muhos**, 22 oktober 2026:
-    https://lvv.fi/-/lupa-ja-valvontavirasto-vaatii-tuike-finland-oy-lta-toimenpiteita
-
 25. **Polisen i Finland – förundersökning om Tuike Finlands förberedelsearbeten i Muhos**, 29 oktober 2026:
     https://poliisi.fi/-/poliisi-on-aloittanut-rikostutkinnan-tuike-finland-oy-n-muhoksen-datakeskushankkeen-valmisteleviin-toihin-liittyen
 
@@ -475,42 +472,45 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 
 
 
-6. **Le Monde – protests against data centres held across Europe**, 9 november 2026:
+5. **Le Monde – protests against data centres held across Europe**, 9 november 2026:
    https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
 
-7. **Reuters – Norway reins in data centre industry after Statnett pauses new grid reservations**, 9 november 2026:
+6. **Reuters – Norway reins in data centre industry after Statnett pauses new grid reservations**, 9 november 2026:
    https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
 
-8. **Reuters – Microsoft pulls out of UK data centre deal with Nscale**, 18 oktober 2026:
+7. **Reuters – Microsoft pulls out of UK data centre deal with Nscale**, 18 oktober 2026:
    https://www.reuters.com/business/media-telecom/microsoft-pulls-out-uk-data-center-deal-with-nscale-telegraph-reports-2026-10-18/
 
-9. **Financial Times – Nscale warns it needs more cash ahead of $35bn IPO**, 13 november 2026 (bakom betalvägg; används för den uttryckligt attribuerade uppgiften om sexmånadersfönstret):
+8. **Financial Times – Nscale warns it needs more cash ahead of $35bn IPO**, 13 november 2026 (bakom betalvägg; används för den uttryckligt attribuerade uppgiften om sexmånadersfönstret):
    https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47
 
-10. **SVT Nyheter Västerbotten – sju planerade datacenterbyggnader i Skellefteå**, 28 september 2026:
+9. **SVT Nyheter Västerbotten – sju planerade datacenterbyggnader i Skellefteå**, 28 september 2026:
     https://www.svt.se/nyheter/lokalt/vasterbotten/nya-uppgifter-om-datacentret-i-skelleftea-planerar-sju-byggnader
 
-11. **DataCenterSweden – återger Norrans rapport om delstartbesked för grundläggning i Skellefteå**, 9 november 2026:
+10. **DataCenterSweden – återger Norrans rapport om delstartbesked för grundläggning i Skellefteå**, 9 november 2026:
     https://www.datacentersweden.se/news/edgeconnex-skelleftea-partial-start-notice-2026-11/
 
-12. **2EU Brussels – EuroHPC kräver återskapade anbud och rapporterar uppdaterade testkrav**, 11 november 2026:
+11. **2EU Brussels – EuroHPC kräver återskapade anbud och rapporterar uppdaterade testkrav**, 11 november 2026:
     https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafactories-and-requires-resubmission-for-both-lots
 
-13. **MLCommons – MLPerf i EU:s AI Gigafactories-upphandling**, oktober 2026:
+12. **MLCommons – MLPerf i EU:s AI Gigafactories-upphandling**, oktober 2026:
     https://mlcommons.org/2026/10/open-submissions-endpoints-v1-0/
 
 
-14. **Financial Times – Uniper in talks to develop data centres at 10 sites across Europe**, 16 november 2026. Uppgiften om ett första nära förestående avtal och två ytterligare avancerade samtal tillskrivs tidningens rapportering; det är inte ett publicerat undertecknat avtal.  
+13. **Financial Times – Uniper in talks to develop data centres at 10 sites across Europe**, 16 november 2026. Uppgiften om ett första nära förestående avtal och två ytterligare avancerade samtal tillskrivs tidningens rapportering; det är inte ett publicerat undertecknat avtal.  
     https://www.ft.com/content/74756c50-cedb-4ff9-9cad-43abd5b0646d
-15. **Reuters – EBRD varnar för att utvecklingsekonomier kan missa AI- och försvarsboomen**, 17 november 2026. Återger rapportens bedömning om elnätskapacitet i nästan hälften av EBRD:s verksamhetsländer.  
+14. **Reuters – EBRD varnar för att utvecklingsekonomier kan missa AI- och försvarsboomen**, 17 november 2026. Återger rapportens bedömning om elnätskapacitet i nästan hälften av EBRD:s verksamhetsländer.  
     https://www.reuters.com/business/finance/developing-economies-risk-missing-out-defence-ai-boom-ebrd-warns-2026-11-17/
-16. **E24 – Nscale-prosjekt slipper strømfrys**, 17 november 2026. Dokumentbaserad rapportering om åtta projekt som får fortsätta genom tekniska steg, däribland Nscale Narvik med 115 MW av ursprungligen 230 MW.  
+15. **E24 – Nscale-prosjekt slipper strømfrys**, 17 november 2026. Dokumentbaserad rapportering om åtta projekt som får fortsätta genom tekniska steg, däribland Nscale Narvik med 115 MW av ursprungligen 230 MW.  
     https://e24.no/naeringsliv/i/0vE68o/nscale-prosjekt-slipper-stroemfrys
-17. **NTB, återgiven av Radio Haugaland – Dataselskap klager på NVE-pålegg**, 9 november 2026. Återger Nscales invändning och NVEs uppgift att den slutliga analysen mottagits och ska behandlas tillsammans med klagomålet.  
+16. **NTB, återgiven av Radio Haugaland – Dataselskap klager på NVE-pålegg**, 9 november 2026. Återger Nscales invändning och NVEs uppgift att den slutliga analysen mottagits och ska behandlas tillsammans med klagomålet.  
     https://radio.haugaland.no/dataselskap-klager-pa-nve-palegg/
 
----
 
+17. **Kaleva – Google sai lisäaikaa Muhoksen vesienhallintaselvityksen toimittamiseen**, 5 november 2026. Rapporterar att LVV beviljade Tuike Finland mer tid för vattenhanteringsplanen; den nya tidsfristen anges inte.  
+    https://www.kaleva.fi/google-sai-lisaaikaa-muhoksen-vesienhallintaselvit/13742874
+
+---
 ## Faktastatus
 
 - **BEKRÄFTAT I EU- OCH ACER-DOKUMENT:** EU:s kapacitetsambition, elnätsinvesteringar, projektförseningar och kostnader för nätträngsel.
