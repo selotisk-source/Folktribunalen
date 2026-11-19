@@ -2,6 +2,7 @@
 
 **Senast uppdaterat:** 19 november 2026, 02:36 EET  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
+**Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
 **Artikelgren:** `editorial/europe-ai-infrastructure-review-2026-11-17`  
 **Artikelstatus:** Komplett artikeltext och redaktionellt underlag; väntar på separat chefredaktörsgodkännande av exakt aktuell commit. Basversionens godkännande i PR #64 omfattar inte denna materiella revision.
@@ -9,8 +10,6 @@
 ## Leveransens innehåll
 
 Den publicerbara artikeltexten ligger i `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`. Den innehåller rubrik, ingress, tolv huvudavsnitt, slutsats, faktaruta, primärkällor och oberoende rapportering. Detta dossier är internt arbetsunderlag och ska inte publiceras som artikeltext.
-
-## Bildförslag – redaktionellt underlag
 
 ## Bildförslag – redaktionellt underlag
 
@@ -24,8 +23,6 @@ Den publicerbara artikeltexten ligger i `editorial/drafts/2026-11-13-europe-ai-i
 Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens eller uttryckligen licensierat bildmaterial. Bildförslag är inte ett påstående om att en viss anläggning redan är färdig.
 
 ## Faktakontroll och evidensstatus
-
-## Faktastatus
 
 - **BEKRÄFTAT I EU- OCH ACER-DOKUMENT:** EU:s kapacitetsambition, elnätsinvesteringar, projektförseningar och kostnader för nätträngsel.
 - **BEKRÄFTAT I NEDERLÄNDSKA PARLAMENTSHANDLINGAR:** Amsterdamprojektets tre torn, 99 MW anslutning, areatröskeln i hyperscale-definitionen, Microsofts reserverade kapacitet och regeringens beräkning på 0,87 TWh vid kontinuerlig full belastning.
@@ -84,8 +81,6 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 - **E24:s projektlista:** Lefdal anges som 63 MW i listan och 63,8 MW i brödtexten; totalen är 623,8 MW.
 - **NVE/Nscale:** NVE:s offentliga varsel är daterat 29 september. NTB:s rapport 9 november anger att Swecos slutliga analys mottagits och att NVE skulle behandla analysen och överklagandet. Ingen senare offentlig prövning identifierades i kontrollen den 19 november.
 - **EuroHPC:** den officiella upphandlingssidan kontrollerades den 19 november och visar Open; Lot 2 stänger 3 december 2026 och Lot 1 4 februari 2027. Samtliga äldre utkast och inlämnade anbud i det tidigare systemet måste återskapas i de nya länkarna.
-
-## Öppna frågor före eventuell publicering
 
 ## Öppna frågor före eventuell publicering
 
