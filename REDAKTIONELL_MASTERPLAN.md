@@ -413,3 +413,50 @@ Tre parallella researchbankar har nu påbörjats utan att öppna en andra aktiv 
 - Frontendens kort-/slug-mismatch kvarstår i `src/app.js`: `europas-ai-infrastruktur` visar fortfarande Meta/Ofcom-rubrik och ingress medan artikelkroppen under sluggen är AI-infrastrukturtexten. Ingen frontendkod har ändrats.
 - Denna uppdatering gäller masterplan och redaktionell status. Ingen artikel har mergats, publicerats eller manuellt driftsatts. En dokumentationscommit på main kan utlösa den tidigare identifierade statiska auto-deployen; Render-resultatet är inte kontrollerat.
 - Nästa steg är att få Render-arbetsytan bekräftad, fortsätta faktakontrollen av PR #71 och invänta separat chefredaktörsgodkännande av just den aktuella versionen. Ingen nästa huvudartikel före faktisk LIVE-kontroll.
+
+
+
+## Nyhetskontroll – 19 november 2026
+
+### Hormuz och sjöfarten – två separata fartygshändelser
+
+- **UKMTO Warning 211-26, incidentdatum 17 november:** UKMTO anger en tanker 13 nautiska mil norr om Khasab som träffad av en okänd projektil. Brand ombord hade släckts; sökandet efter en saknad besättningsmedlem pågick. Fartygsskador och miljöpåverkan var ännu inte bedömda. UKMTO namnger inte fartyget. Primärkälla: https://www.ukmto.org/-/media/ukmto/products/20261118-ukmto_warning_211.pdf
+- **ADNOC L&S, 17 november:** bolaget uppgav 18 november att ett av dess fartyg angripits, med en saknad och elva skadade besättningsmedlemmar; övriga hade evakuerats. Reuters återger bolagets besked och UKMTO:s separata varning. Seatrade och Riviera, med hänvisning till Vanguard, identifierar fartyget som Navig8 Messi; den identifieringen ska tillskrivas dessa källor, inte UKMTO eller ADNOC, som inte namngav fartyget i de kontrollerade beskeden. Källor: https://www.reuters.com/world/middle-east/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-hormuz-2026-11-18/ · https://www.seatrade-maritime.com/security/one-missing-11-injured-in-attack-on-adnoc-tanker-in-hormuz · https://www.rivieramm.com/news-content-hub/11-injured-one-missing-from-adnoc-tanker-following-strike-in-strait-of-hormuz-90615
+- **Tara Gas är en separat händelse:** LPG-tankern träffades den 16 november och övergavs efter upprepade angrepp. Reuters rapporterade 18 november att Oman hade räddat 24 personer och sökte efter en saknad; brandbekämpning pågick. Indien uppgav att två besättningsmedlemmar vårdades på sjukhus. Blanda inte samman Tara Gas med ADNOC-fartyget/Navig8 Messi eller räkna en händelse två gånger. Källa: https://www.reuters.com/world/middle-east/uaes-adnoc-l-s-says-one-crew-member-missing-after-attack-on-its-vessel-hormuz-2026-11-18/
+- **Senaste kontroll:** sökning efter en ny UKMTO-varning daterad 19 november gav ingen ny officiell träff. Detta betyder inte att ingen incident inträffat; bevakningen fortsätter. Iranska partsuppgifter om minor eller andra fartygsbränder ska hållas åtskilda från UKMTO:s rapporterade incidenter tills oberoende identifiering finns.
+
+### USA:s kongress – mandatförskjutning, inte omedelbart maktskifte
+
+- Reuters rapporterade 18 november att Mary Peltola vunnit Alaskas senatsval, vilket gav Demokraterna nio vunna republikanska senatsplatser och en kommande majoritet på 56–44. Reuters anger att detta kombinerat med segern i representanthuset bäddar för två år av möjlig låsning mot president Donald Trump. Källa: https://www.reuters.com/world/us/democrat-peltola-wins-alaska-securing-56-44-us-senate-majority-2026-11-18/
+- AP anger att Demokraterna återtagit representanthuset och hade plockat 42 mandat vid artikelns publicering. AP anger också att senatens 56–44-fördelning gäller när den nya kongressen börjar i januari. Källa: https://apnews.com/article/senate-democrat-flip-alaska-aa623c1c32cb493c21633a1a6a140578
+- Redaktionell precision: skilj valresultat och kommande majoritet från den sittande 119:e kongressens mandatfördelning före den nya kongressens tillträde. Använd inte 56–44 som om det redan vore den sittande senatens aktuella mandatfördelning.
+
+### Palantir Q3 2026 – SEC-rapporten ger en mer nyanserad bild
+
+- Palantirs Form 10-Q för kvartalet till 30 september 2026 finns i bolagets investerarportal. Q3-intäkter: 2,313 miljarder USD, +96 procent år/år. Niomånadersintäkter: 5,881 miljarder USD, +92 procent.
+- Geografi: USA 1,937 miljarder USD (84 procent) av Q3-intäkterna; övriga världen 376,2 miljoner USD (16 procent). Segment: Q3 government revenue 1,1455 miljarder USD och commercial revenue 1,1679 miljarder USD. U.S. government revenue var 953 miljoner USD och U.S. commercial revenue 984 miljoner USD. Var tydlig med skillnaden mellan totala segment och USA-delarna.
+- Q3 GAAP-nettoresultat hänförligt till stamaktieägare var 1,128 miljarder USD; bruttomarginalen var 83 procent. Kvarvarande prestationsåtaganden (RPO) var 4,9 miljarder USD, varav bolaget väntade sig redovisa cirka 44 procent inom 12 månader och 37 procent under de följande 13–36 månaderna.
+- Under de första nio månaderna kom 51 procent av intäkterna från myndighetskunder och 49 procent från kommersiella kunder. Bolaget uppger att många kontrakt kan sägas upp av kunden med mindre än tolv månaders varsel; RPO ska därför inte beskrivas som en ovillkorlig garanti för framtida intäkter.
+- Bolaget redovisar i genomsnitt 146 miljoner USD i intäkter från sina 20 största kunder under rullande tolv månader, upp 76 procent år/år. Detta är ett genomsnitt, inte en redovisad andel av total omsättning.
+- Primärkälla: Palantir Form 10-Q, kvartalet avslutat 30 september 2026: https://investors.palantir.com/files/2026%20Q3%20PLTR%2010-Q.pdf. Kvartalsresultat och bolagets presentation finns även på https://investors.palantir.com/financials/quarterly-results. Använd SEC-rapporten för rapporterade siffror och märk bolagets egna definitioner.
+
+### Europas AI-infrastruktur – status efter 18 november
+
+- DataCenter Norway uppdaterade sitt register 18 november och sammanfattar Statnetts beslut från 9 november: tillfälligt stopp för nya kapacitetsreservationer till datacenter till senast 1 augusti 2027 samt paus i vissa tekniska godkännanden. Detta är en daterad återgivning av beslutet, inte ett nytt beslut den 18 november. Källa: https://www.datacenternorway.no/news/energy-power/statnett-pauses-new-grid-reservations-for-data-centres-until-august-2027/
+- E24:s granskning anger åtta projekt med sammanlagt 623,8 MW som får fortsätta genom tekniska steg; Nscale Narvik uppges få gå vidare med 115 MW av önskade 230 MW. Detta är inte driftsatt kapacitet. Källa: https://e24.no/naeringsliv/i/0vE68o/nscale-prosjekt-slipper-stroemfrys
+- Financial Times rapporterade 16 november att Uniper närmar sig ett första platsavtal och har samtal om två ytterligare platser; bolaget anger cirka 700 MW säkrad nätkapacitet i tio identifierade projektområden. Inget undertecknat avtal har hämtats i denna kontroll. Källa: https://www.ft.com/content/74756c50-cedb-4ff9-9cad-43abd5b0646d
+- Ingen ny EuroHPC-tilldelning eller fastställd svensk plats för AI Gigafactory Northern har identifierats i denna kontroll. PR #71:s faktaläge 19 november kvarstår; dessa nyhetspunkter ändrar inte artikelns status eller den aktiva artikelordningen.
+
+### Svenska Gripen över Polen
+
+- Polens försvarsministerium bekräftade 30 september att svenska Gripen skulle delta i NATO Air Policing över Polen från oktober: https://www.gov.pl/web/obrona-narodowa/szwedzkie-mysliwce-gripen-wzmocnia-ochrone-polskiego-nieba
+- Den senaste identifierade enskilda patrulluppgiften är fortfarande polska generalstabens uppgift 3 november om mer än fyra timmars patrull-/skyddsuppdrag med tankflyg AA-332 MMF19. Antalet Gripen offentliggjordes inte. Återgivning: https://defence24.pl/sily-zbrojne/tej-nocy-szwedzi-chronili-polskie-niebo-wspieral-je-tankowiec-nato
+- Regeringens besked 6 oktober om att Sverige från december avser att bidra med ett Patriot-luftvärnsförband till skyddet av Natos logistiknav i Polen är ett separat bidrag och får inte beskrivas som en Gripen-händelse: https://www.government.se/press-releases/2026/10/swedish-air-defence-unit-to-nato-operations-in-poland/
+- Ingen ny specifik Gripen-patrullhändelse har identifierats i denna kontroll.
+
+### Redaktionell följd
+
+- Nyhetsbevakningen är kompletterande och startar ingen ny huvudartikel.
+- Huvudspår 2 – Europas AI-infrastruktur – är fortsatt enda aktiva huvudartikel i godkännandekön. PR #71:s aktuella version är a26689d997eaaaa5f063df1964a8a373d1177559 och ska ligga i Draft.
+- Huvudspår 3 – Synkronicitetsprotokollet – förblir parkerat tills huvudspår 2 har fått artikelbundet godkännande, gått genom redaktionens adminväg och klarat faktisk LIVE-kontroll.
+- Samtliga nyhetsuppgifter ovan är research-/masterplanstillägg, inte godkända publiceringsartiklar.
