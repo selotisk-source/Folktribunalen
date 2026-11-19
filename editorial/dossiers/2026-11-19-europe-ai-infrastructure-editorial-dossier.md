@@ -1,6 +1,6 @@
 # Redaktionellt dossier – Europas AI-infrastruktur
 
-**Senast uppdaterat:** 19 november 2026, 02:36 EET  
+**Senast uppdaterat:** 19 november 2026 – redaktionell struktur städad och artikeltyp införd  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
 **Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
