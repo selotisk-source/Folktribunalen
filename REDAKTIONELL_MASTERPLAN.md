@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 19 november 2026, 02:36 EET – PR #71 fortsatt Draft; artikeltext och separat faktadossier uppdaterade; 59 öppna PR:er kontrollerade; Render-, databas- och route-status nykontrollerade  
+**Version:** 19 november 2026, 02:36 EET – PR #71 fortsatt Draft; artikeltext och separat faktadossier uppdaterade; 60 öppna PR:er kontrollerade; Render-, databas- och route-status nykontrollerade  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
@@ -33,7 +33,7 @@
 
 ### Kontrollrunda – 19 november 2026, 02:36 EET
 
-- **PR-spärr:** 59 öppna PR:er i repot har hämtats individuellt. Samtliga 59 är Open/Draft; ingen artikel-PR är Ready for review. PR #71 är fortfarande Draft efter fem commits och två filer. Inga review submissions eller review threads har identifierats för PR #71.
+- **PR-spärr:** 60 öppna PR:er i repot har hämtats individuellt. Samtliga 59 är Open/Draft; ingen artikel-PR är Ready for review. PR #71 är fortfarande Draft efter fem commits och två filer. Inga review submissions eller review threads har identifierats för PR #71.
 - **Artikelredigering:** publicerbar text och internt dossier är separerade. Den publicerbara texten har tolv huvudavsnitt, slutsats, faktaruta, primärkällor och oberoende rapportering. Dossier: `editorial/dossiers/2026-11-19-europe-ai-infrastructure-editorial-dossier.md`.
 - **Sverige/EuroHPC:** Riksdagens betänkande 2026/27:FiU12 beslutades 21 oktober och bemyndigar statliga åtaganden upp till 50 miljoner euro under fem år. Regeringens besked 22 oktober beskriver en svensk nod kopplad till en AI-gigafabrik i Finland. Den är inte visad vara samma plats som AI Gigafactory Northerns ännu ej valda svenska nod. Källor: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/andring-i-statens-budget-for-2026-bemyndigande_he01fiu12/ · https://www.regeringen.se/pressmeddelanden/2026/10/nasta-steg-i-satsningen-pa-europeiska-ai-gigafabriker/
 - **Norge/E24:** regeringens 800 MW avser redan ansluten datacenterlast; E24 anger 868 MW kapacitet för omkring 28 operativa datacenter. Källorna förklarar inte skillnaden. E24:s Lefdal-listpost är avrundad till 63 MW, medan brödtexten anger 63,8 MW; totalen 623,8 MW ska behållas med denna precisionsnot.
