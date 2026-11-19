@@ -1,10 +1,10 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 19 november 2026, 02:36 EET – PR #71 fortsatt Draft; artikeltext och separat faktadossier uppdaterade; 60 öppna PR:er kontrollerade; Render-, databas- och route-status nykontrollerade  
+**Version:** 19 november 2026 – nyhetsbevakning kompletterad; PR #71:s dossier städat och artikeltyp införd; PR #71 och PR #73 fortsatt Draft  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
-## Aktuell arbetskontroll – 19 november 2026, 02:36 EET
+## Aktuell arbetskontroll – 19 november 2026 (senaste uppdatering efter 02:36 EET)
 
 ### Aktiv huvudartikel och godkännandekö
 
