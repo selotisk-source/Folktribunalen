@@ -118,7 +118,7 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 ### GitHub
 - PR #71 är Open/Draft, inte mergad. Före denna redigering var head `afd3dfe2b822e2c66b44911cce4077cdf764109e`; den nya commitidentiteten ska läsas från GitHub efter uppdateringen.
 - PR #71:s bas är `04e00e97b35bb984d783bab652011a3d7441a0cd`.
-- 59 öppna PR:er i repot har kontrollerats individuellt: samtliga är Draft. Ingen artikel-PR var Ready for review i denna kontroll.
+- 60 öppna PR:er i repot har kontrollerats individuellt: samtliga är Draft. Ingen artikel-PR var Ready for review i denna kontroll.
 - PR #73 är en separat Draft-PR för masterplanens dokumentationsuppdatering; PR #72 och #69 är separata Draft-researchpaket.
 
 ### Render
