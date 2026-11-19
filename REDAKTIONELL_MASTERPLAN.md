@@ -101,7 +101,7 @@ FOLKTRIBUNALEN är en flerområdesredaktion, inte en breaking-news-feed. Hormuz 
 
 ### Övriga portföljspår och parkerade ärenden
 
-- **Frölunda – ortnamnshistoria:** börja i originalbelägget **Frølanda 1436** och följ formerna genom 1500-talet, 1550 års Frölunda och 1886 års Västra-tillägg. Isofs tolkning är standardutgångspunkt: frö i betydelsen fruktbar/frodig + land, med senare -lunda-utveckling. Jämför Frösön, Fröslunda, Frösåker och Fröseke. Håll Västra och Östra Frölunda åtskilda; Frølvnda 1402 är ett separat belägg. 1313 får bara nämnas som möjlig parallell om identifikationen kan styrkas. Gudad namnshypotes får inte användas som slutsats utan originalkällestöd.
+- **Frölunda – ortnamnshistoria:** PR #74 Open/Draft (researchpaket 19 nov, 10 filer, 425 tillägg; 3 Frölunda-evidensnoter, 4 Hormuz-noter, 1 GAS HUSKY-not och daglig logg). Paketet skiljer Västra Frölunda/Frølanda 1436 från Östra Frölunda/Frølvnda songh 1402; originalbrev, 1550 års jordebok och de två 1313-hänvisningarna återstår att kontrollera. Kandidat för senare artikel, inte aktiv huvudartikel. Börja i originalbelägget **Frølanda 1436** och följ formerna genom 1500-talet, 1550 års Frölunda och 1886 års Västra-tillägg. Isofs tolkning är standardutgångspunkt: frö i betydelsen fruktbar/frodig + land, med senare -lunda-utveckling. Jämför Frösön, Fröslunda, Frösåker och Fröseke. Håll Västra och Östra Frölunda åtskilda; Frølvnda 1402 är ett separat belägg. 1313 får bara nämnas som möjlig parallell om identifikationen kan styrkas. Gudad namnshypotes får inte användas som slutsats utan originalkällestöd.
 - **Cypern:** egen kulturhistorisk serie med Palaipafos och övergången från lokala fruktbarhetskulter till Afroditekulten; Geroskipou/Hieros Kipos; Asklepieion i Nea Pafos; Kungagravarna; och Commandaria. Pröva varje samband mot arkeologiska och textuella belägg; förutsätt inte obruten kultkontinuitet.
 - **Varna och Svartahavsområdet:** separat regional bevakning om historia, kulturarv, stadsmiljö, kyrkor och regional utveckling. Koppla till Sofia och Svartahavsserien utan att slå ihop separata artiklar.
 - **Framtid och teknik:** AI, infrastruktur, samhällsförändring, framtidsscenarier och teknikens konsekvenser ska vara ett eget återkommande spår, inte bara reaktioner på dagsnyheter.
@@ -460,3 +460,34 @@ Tre parallella researchbankar har nu påbörjats utan att öppna en andra aktiv 
 - Huvudspår 2 – Europas AI-infrastruktur – är fortsatt enda aktiva huvudartikel i godkännandekön. PR #71:s aktuella version är ef997a8361fecdaf14af63972f2813f1a0a6a2ea och ska ligga i Draft.
 - Huvudspår 3 – Synkronicitetsprotokollet – förblir parkerat tills huvudspår 2 har fått artikelbundet godkännande, gått genom redaktionens adminväg och klarat faktisk LIVE-kontroll.
 - Samtliga nyhetsuppgifter ovan är research-/masterplanstillägg, inte godkända publiceringsartiklar.
+
+
+
+
+## Daily Desk – researchleverans 19 november 2026
+
+### Frölunda – källkedjan bakom två skilda ortnamn
+
+- **PR #74 – Frölunda: källkedja och evidensnoter:** Open/Draft, 10 filer, 425 tillägg, 10 commits före main och 0 bakom vid jämförelsen. Researchpaketet ligger på grenen research/2026-11-19-frolunda-source-chain-run4. Main är oförändrad; ingen merge eller publicering.
+- **Västra Frölunda:** Isof anger Frølanda 1436, med förleden sannolikt dialektordet frö (fruktbar/frodig) och efterleden land; anslutning till -lunda anges redan på 1500-talet. 1550 års fem hemman återges via Göteborgs Stadsmuseums rapport 13 (1999), som hänvisar till Lars Nyström 1967, s. 56. Jordeboken är ännu inte hämtad.
+- **Östra Frölunda:** separat belägg Frølvnda songh 1402 i Kinds härad, med efterleden lund. Detta är inte ett äldre belägg för Västra Frölunda.
+- **1313:** rapporten återger två olika hänvisningar – ”de Frö lundom” som möjligen avser trakten och en separat diplomhandling som möjligen avser en kyrka. De får inte slås ihop eller användas som säker ortnamnsdatering.
+- **Öppna källsteg:** SDHK-nummer och originalbild för 1436; fullständig referens bakom DiplSv.I.125 för 1402; Nyström 1967 s. 32/56/72; 1550 års jordebok; två separata 1313-handlingar; administrativa beslut bakom särskiljningen 1886.
+- **Källor:** Isof:s ortnamnslexikon (https://www.isof.se/namn/ortnamn/sol/ortnamnslexikon/vad-vaxjo; https://www.isof.se/namn/ortnamn/sol/ortnamnslexikon/ockero-oxnevalla; https://www.isof.se/namn/ortnamn/sol/ortnamnslexikon/fagered-forslov), Göteborgs Stadsmuseum/Göteborgs Kyrkogårdsförvaltning rapport 13 (https://carlotta.goteborgsstadsmuseum.se/carlotta/web/image/blob/1154083/Kyrkog%C3%A5rdsrapport%2B13.pdf), Svenskt Diplomatariums huvudkartotek (https://sok.riksarkivet.se/sdhk) och Gammeldansk Seddelsamling (https://gammeldanskseddelsamling.dk/).
+
+### Hormuz – ny UKMTO 212-26, separat från 211-26
+
+- PR #74 innehåller en separat evidensnotering för **UKMTO 212-26**. Den återgivna varningstexten anger en utgående tanker träffad av okänd projektil i maskinrummet cirka 6 nautiska mil norr om Khasab den 18 november, 16:45 UTC; besättningen uppgavs säker, skador och miljöpåverkan okända. UKMTO:s officiella X-konto publicerade varningen 22:30 UTC. PDF-versionen kunde inte hämtas i denna kontroll; uppgifterna ska därför attribueras till UKMTO:s post och markeras som återgivna, inte som självständigt PDF-kontrollerade. Källa: https://x.com/UK_MTO/status/2123182021308559506
+- UKMTO 212-26 ska hållas separat från 211-26 (incidentdatum 17 november, en saknad besättningsmedlem, brand släckt) och 208-26. Fartygsnamn, IMO-nummer, projektiltyp och ansvarig aktör är inte fastställda.
+- **ADNOC L&S:** Reuters 18 november återger bolagets uppgift om ett onamngivet fartyg, en saknad och elva skadade. Seatrade/Riviera tillskriver Vanguard identifieringen Navig8 Messi; skriv inte detta som UKMTO:s eller ADNOC:s egen identifiering.
+- **Tara Gas:** Reuters uppger separat att Oman räddat 24 personer och sökte efter en saknad; två uppges ha behövt sjukhusvård enligt indisk myndighetsuppgift. Möjlig koppling mellan Tara Gas och UKMTO 211 är inte fastställd eftersom UKMTO inte namnger fartyget och positionsuppgifterna inte är identiska.
+- **Iranska minepåståenden:** uppgift om tre tankfartyg som träffats av minor är en partsuppgift utan identifierade fartyg, verifierade positioner eller oberoende bekräftelse. Koppla inte påståendet till UKMTO 211/212.
+- Källnoteringar i PR #74: editorial/evidence-notes/2026-11-19-hormuz-ukmto212.md; editorial/evidence-notes/2026-11-19-hormuz-ukmto211-tanker-crosscheck.md; editorial/evidence-notes/2026-11-19-hormuz-adnoc-unnamed-vessel.md; editorial/evidence-notes/2026-11-19-hormuz-iran-mine-claims.md.
+
+### Varna/Svarta havet – GAS HUSKY
+
+- PR #74:s uppdatering skiljer Bulgariens NAVWARN 854/26 den 17 november 10:50 UTC (GAS HUSKY med 45 graders slagsida, drivande och navigationsfara) från Reuters senare rapport den 18 november om att fartyget sjunkit.
+- Transportministeriet uppgav att samtliga 19 besättningsmedlemmar räddats. Reuters återgav guvernörens uppgift om fyra träffar; vapentyp, operatör och ansvarig aktör är inte fastställda i de granskade myndighetsuppgifterna.
+- Detta är ett daterat tillägg till samma GAS HUSKY-händelse, inte en ny olycka. Källor: https://www.vtmis.bg/wx/wx_eng.htm · https://www.mtc.government.bg/bg/category/1/spasen-e-celiyat-ekipazh-na-mk-gas-husky · https://www.reuters.com/world/lpg-tanker-that-sank-off-bulgaria-tuesday-was-hit-by-projectiles-official-says-2026-11-18/
+
+**Portföljbeslut:** Frölunda-paketet är separat research och får inte ersätta huvudspår 2 i den formella artikelkön. Hormuz- och GAS HUSKY-uppgifterna är daterade tillägg. Huvudspår 3 förblir parkerat.
