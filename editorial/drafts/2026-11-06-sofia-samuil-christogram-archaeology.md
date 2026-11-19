@@ -1,0 +1,228 @@
+# Från Prespa till Sofia: Tsar Samuils kvarlevor, gravkontexten och symbolerna på den nya sarkofagen
+
+**Artikeltyp:** Arkeologi · kulturarv · kyrkohistoria · internationell kulturpolitik  
+**Utkastdatum:** 6 november 2026  
+**Faktaläge:** 6 november 2026  
+**Berörda redaktionella spår:** Sofia – staden under staden · kyrkor som överlevt imperierna · böckernas väg till Athos
+
+*Den 3 oktober 2026 överfördes kvarlevor som tillskrivs den bulgariske härskaren Tsar Samuil från Grekland till Bulgarien och placerades i en nybyggd marmorsarkofag i Sankt Sofia-kyrkan i Sofia. Den ursprungliga fyndplatsen ligger däremot vid basilikan Sankt Achillios på en ö i Lilla Prespasjön i dagens Grekland. Den nya sarkofagens officiellt beskrivna symbolprogram innehåller en kristogramfigur – inte ett dokumenterat personligt kungligt sigill.*
+
+## Från arkeologiskt fynd till mellanstatlig överenskommelse
+
+Den 29 september 2026 meddelade Bulgariens regering att Grekland skulle överföra kvarlevor som tillskrivs Tsar Samuil till Bulgarien. Överenskommelsen ingick i ett bredare avtal om ömsesidig överföring av historiskt och kyrkligt kulturarv.
+
+Enligt den grekiska regeringens och Bulgariens offentliga redogörelser skulle 48 kyrkliga föremål återföras till Grekland. Föremålen hade förts till Sofia 1917 under första världskriget och kom från klostren Panagia Eikosifoinissa och Timios Prodromos i Serres samt Serres och Nigritas metropolitdöme. De hade därefter förvarats eller visats vid Bulgariens nationella historiska museum.
+
+I den andra delen av överenskommelsen skulle Grekland överlämna kvarlevor som identifierats som tillhörande Samuil. De hade förvarats vid Museum of Byzantine Culture i Thessaloniki. Den bulgariska regeringen beskrev arrangemanget som en ömsesidig överföring för förvaring. Därför måste redaktionen skilja mellan fysisk överföring, förvar, återlämnande och juridisk äganderätt. Den fullständiga avtalstexten och föremålsinventariet behöver granskas innan överföringen beskrivs som ett slutligt ägarbyte.
+
+## Den ursprungliga gravplatsen: Sankt Achillios i Prespa
+
+Den dokumenterade fyndmiljön är basilikan Sankt Achillios på en ö i Lilla Prespasjön. Utgrävningarna leddes av den grekiske arkeologen Nikolaos Moutsopoulos under 1960- och 1970-talen. Offentlig rapportering anger olika årtal för den första upptäckten; den säkraste formuleringen är därför att fyndet gjordes under utgrävningsperioden 1965–1975 och att Moutsopoulos identifierade kvarlevorna som Samuils under 1960-talet.
+
+En antropologisk studie av Yordan Yordanov från 2010 beskriver fyra sarkofager i basilikan och ett intakt manligt skelett i en av gravarna. Moutsopoulos identifierade kvarlevorna som Tsar Samuil. Identifieringen har sedan dess byggt på en kombination av gravens placering, historiska uppgifter, arkeologisk kontext och antropologiska kännetecken.
+
+Det är viktigt att inte blanda ihop tre olika platser:
+1. **Sankt Achillios i Prespa:** den ursprungliga arkeologiska fyndmiljön.
+2. **Museum of Byzantine Culture i Thessaloniki:** den tidigare förvaringsplatsen.
+3. **Sankt Sofia-kyrkan i Sofia:** den nya plats där kvarlevorna placerades efter överföringen 2026.
+
+Den nya sarkofagen i Sofia är alltså inte den ursprungliga gravsarkofagen från Prespa och kvarlevorna har inte upptäckts under Sankt Sofia-kyrkan.
+
+## Vad visar de preliminära antropologiska undersökningarna?
+
+Den 8 oktober 2026 presenterade forskare från National Archaeological Institute with Museum vid Bulgariens vetenskapsakademi (NAIM-BAS) och Institute of Experimental Morphology, Pathology and Anthropology preliminära resultat från en ny undersökning.
+
+Enligt BTA uppskattades individen ha varit 60–70 år gammal och omkring 173 centimeter lång. Forskarna beskrev degenerativa förändringar, bland annat spondylos och artros, samt en allvarlig äldre skada på vänster underarm. Skadan kan ha begränsat armens funktion och bidragit till rörelseproblem under de sista levnadsåren.
+
+### En tidigare uppgift: cirka 155 centimeter
+
+Det finns också en tidigare offentlig uppgift som måste redovisas korrekt. I BTA:s artikel *Tsar Samuel's Remains' Transfer to Sofia: What Experts Say*, publicerad den 2 oktober 2026, sade historieprofessorn Georgi Nikolov vid Sofia universitet att kvarlevorna, enligt hans bedömning av skelettet, tydde på en kroppslängd omkring **1,55 meter**.
+
+Sex dagar senare återgav BTA den preliminära antropologiska undersökningen från NAIM-BAS och Institute of Experimental Morphology, Pathology and Anthropology med en uppskattning på omkring **1,73 meter**.
+
+Detta är en faktisk skillnad mellan två publicerade uppskattningar, men källorna visar inte att de är framtagna med samma metod. Uppgiften om 1,55 meter framfördes av en historiker i en intervju-/expertkommentar före presentationen av den nya antropologiska undersökningen. Uppgiften om 1,73 meter presenterades därefter som ett preliminärt antropologiskt resultat. Vi kan därför inte beskriva skillnaden som en bevisad vetenskaplig motsägelse eller välja en siffra som slutgiltig.
+
+**Nästa kontroll:** begär den ursprungliga antropologiska rapporten, mätprotokoll och den metod som använts för att uppskatta kroppslängd. Fråga även om 1,55-metersuppgiften bygger på Yordan Yordanovs studie från 2010, en annan beräkning eller en separat bedömning. Fram till dess ska båda siffrorna redovisas med källa, datum och metodstatus.
+
+
+Bulgariens nationella television BNT rapporterade samma dag att forskarna ansåg att den samlade historiska, arkeologiska och antropologiska evidensen starkt stödde identifieringen som Samuil. Samtidigt uppgav forskarna att ytterligare analyser – bland annat DNA- och isotopanalyser – kunde ge mer information om släktskap och individens geografiska och biologiska bakgrund.
+
+Detta är fortfarande preliminära resultat från en presskonferens, inte en fullständig ny vetenskaplig publikation. BTA rapporterade att forskarna bedömde att publicering av resultaten kan ta två till tre år. Något publicerat DNA-resultat som självständigt bekräftar identiteten har inte återfunnits i denna kontroll.
+
+**Källstatus:** BTA och BNT återger samma forskargrupps presskonferens. De är två redaktionella publiceringar, men inte två oberoende laboratorieundersökningar. Den vetenskapliga rapporten och rådata behövs för en fullständig metodgranskning.
+
+## Den 3 oktober: överföringen och den nya gravplatsen
+
+Kvarlevorna överlämnades formellt till Bulgarien vid en ceremoni på Museum of Byzantine Culture i Thessaloniki den 3 oktober 2026. De transporterades därefter till Sofia. Enligt BNT och BTA hölls en statlig ceremoni i centrala Sofia, följd av en procession till Sankt Sofia-kyrkan där en minnesgudstjänst hölls och kvarlevorna placerades i en specialbyggd marmorsarkofag.
+
+Sarkofagen tillverkades under september 2026 på initiativ av Bulgariens kulturministerium, med den bulgariska patriarkens välsignelse och efter beslut om utformningen från Sofia-metropolitdömet. BTA rapporterade den 2 oktober att sarkofagen monterades i kyrkans södra del av tvärskeppet och var avsedd att rymma en träkista med kvarlevorna.
+
+## Kristogrammet är en del av bildprogrammet – inte ett belagt kungligt sigill
+
+I BTA:s beskrivning av sarkofagens utformning anges ett **kristogram**, ärkeängeln Mikael, Samuils fästning med lejon, två påfåglar och ett palats. Samma motiv återges av BNT den 2 oktober.
+
+Ett kristogram är ett kristet symboltecken knutet till Kristus. Det ska inte utan ytterligare dokumentation beskrivas som Samuils personliga monogram, ett kungligt sigill eller ett bevis för en viss ägarmarkering.
+
+I de offentliga beskrivningar som granskats har inget separat personligt kungligt sigill eller en individuell monogramstämpel identifierats. Om en sådan uppgift ska föras vidare krävs fotografi i tillräcklig upplösning, en katalogpost eller ett uttalande från ansvariga konsthistoriker eller arkeologer. Den säkra beskrivningen är att den nya sarkofagens officiellt angivna symbolprogram innehåller ett kristogram.
+
+## De 48 föremålen: överlämnade, men den sista fördelningen måste följas
+
+Den grekiska regeringen och Bulgariens offentliga information beskrev överenskommelsen som en ömsesidig överföring av kulturhistoriska föremål. De 48 kyrkliga föremålen överlämnades till den grekiska sidan den 3 oktober och skulle visas vid Museum of Byzantine Culture i Thessaloniki till och med den 5 november 2026, innan de skulle föras vidare till sina tre ursprungsinstitutioner.
+
+Vid faktabrytningen den 6 november har redaktionen inte hittat ett daterat myndighets- eller institutionsmeddelande som bekräftar att den sista överlämningen från museet till klostren och metropolitdömet faktiskt genomförts. Det betyder inte att den inte skett; det betyder att den sista delen av kedjan ännu saknar offentlig bekräftelse i det material som granskats.
+
+Den grekiska överenskommelsen beskrivs som en ömsesidig deposition eller förvaring av historiskt betydelsefulla föremål. Premiärministerkontoret använder samtidigt ordet återlämnande. Utan den fullständiga operativa avtalstexten bör artikeln beskriva den fysiska överföringen och den avtalade förvaringsordningen, men inte slå fast att juridisk äganderätt ändrats.
+
+## Aktörer, platser och öppna frågor
+
+- **Greklands kulturministerium och regering:** avtalets grekiska part och ansvarig för de 48 kyrkliga föremålens återföring.
+- **Bulgariens regering och kulturministerium:** mottagare av kvarlevorna och ansvariga för den offentliga ceremonin.
+- **NAIM-BAS och Institute of Experimental Morphology:** forskningsaktörer bakom de preliminära antropologiska undersökningarna.
+- **Museum of Byzantine Culture, Thessaloniki:** tidigare förvaringsplats.
+- **National History Museum, Sofia:** institution som förvarat eller visat de 48 föremålen från Grekland.
+- **Sankt Achillios, Lilla Prespasjön:** ursprunglig arkeologisk fyndmiljö.
+- **Sankt Sofia-kyrkan, Sofia:** den nya plats där kvarlevorna placerats i en specialbyggd marmorsarkofag.
+
+Nästa dokumentkontroll gäller det fullständiga samförståndsavtalet, inventarielistan över de 48 föremålen, Moutsopoulos utgrävningsdagböcker, den ursprungliga gravbeteckningen och den nya antropologiska rapportens metodbeskrivning. Redaktionen bör även följa om de planerade DNA- och isotopanalyserna genomförs och publiceras.
+
+## Slutsats
+
+Överföringen den 3 oktober är dokumenterad och markerar en betydande kulturhistorisk händelse mellan Bulgarien och Grekland. Den arkeologiska fyndplatsen ligger vid Sankt Achillios i Prespa, medan Sankt Sofia i Sofia nu är den nya liturgiska och nationella minnesplatsen.
+
+De preliminära antropologiska resultaten stärker den historiska identifieringen enligt forskarna, men den vetenskapliga dokumentationen är ännu inte slutligt publicerad. På samma sätt är kristogrammet ett dokumenterat motiv i sarkofagens utformning, medan ett personligt kungligt sigill eller monogram inte har belagts i de offentliga källor som granskats.
+
+---
+
+## Källor
+
+**Primär- och institutionskällor**
+- Bulgariens nyhetsbyrå BTA, *Preliminary Examination of Tsar Samuel's Remains Reveals Chronic Illnesses, Severe Arm Injury*, 8 oktober 2026: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+- BTA, *Sarcophagus for Tsar Samuel's Remains Now Stands Ready in St. Sophia Church*, 2 oktober 2026: https://www.bta.bg/en/news/culture/1216728-sarcophagus-for-tsar-samuel-s-remains-now-stands-ready-in-st-sophia-church
+- Bulgarian National Television, *Без съмнение: Според учените тленните останки категорично са на цар Самуил*, 8 oktober 2026: https://bntnews.bg/news/bez-samnenie-spored-uchenite-tlennite-ostanki-kategorichno-sa-na-car-samuil-1415955news.html
+- Yordan Yordanov, 2010 anthropological study of the Prespa remains, cited in later reporting. The complete bibliographic record and original study must be retrieved before final publication.
+
+**Oberoende och kompletterande rapportering**
+- BNT, *Исторически ден: След повече от хиляда години: Цар Самуил се завърна в България!*, 3 oktober 2026: https://bntnews.bg/news/na-zhivo-istoricheski-den-garciya-ni-predade-tlennite-ostanki-na-car-samuil-1415147news.html
+- BTA, *Tsar Samuel's Remains' Transfer to Sofia: What Experts Say*, 2 oktober 2026: https://www.bta.bg/en/news/bulgaria/1216695-tsar-samuel-s-remains-transfer-to-sofia-what-experts-say
+
+## Faktastatus
+
+- **PRIMÄRKÄLLA:** Offentliga regerings- och institutionsmeddelanden om överföringen den 3 oktober och placeringen i Sankt Sofia.
+- **OBEROENDE BEKRÄFTELSE:** BNT:s rapportering om ceremonin och forskarnas presskonferens.
+- **PARTSUPPGIFT/EXPERTBEDÖMNING:** Forskargruppens preliminära antropologiska slutsatser; fullständig vetenskaplig publikation återstår.
+- **TVÅ PUBLICERADE EXPERTUPPSKATTNINGAR:** BTA 2 oktober återger historieprofessorn Georgi Nikolov med cirka 1,55 m; BTA 8 oktober återger den preliminära antropologiska undersökningen med cirka 1,73 m. Metodunderlagen visar inte att samma mätmetod använts. Skillnaden är inte en bevisad vetenskaplig motsägelse; ingen siffra ska anges som slutgiltig före metodrapport.
+- **OBEROENDE RAPPORTERING av officiell designbeskrivning:** BTA återger projektgruppens beskrivning av bildprogrammet: kristogram, ärkeängeln Mikael, fästningen, lejon, påfåglar och palats. Originalritning och beställningsunderlag ska hämtas före LIVE.
+- **OBEKRÄFTAD:** Ett separat personligt kungligt sigill eller monogram på sarkofagen.
+- **ÖPPET:** Fullständigt mellanstatligt avtal, inventarielista, ursprunglig utgrävningsdokumentation, den fullständiga antropologiska rapporten och slutlig leverans av de 48 föremålen till ursprungsinstitutionerna.
+
+## Uppdatering 6 november: 48 föremål efter utställningsperioden
+
+Den offentligt angivna utställningsperioden för de 48 kyrkliga föremålen från grekiska kloster löpte till **5 november 2026**. Vid kontroll den 6 november har ingen offentlig primärhandling eller oberoende rapportering identifierats som bekräftar att samtliga föremål därefter faktiskt har återförts till respektive ursprungsinstitution. Överenskommelsen om återlämnande och den fysiska slutleveransen är två olika saker. Artikeln ska därför inte skriva att återförandet är slutfört utan inventarielista, transportprotokoll eller mottagningsbekräftelser.
+
+**ÖPPET:** Bulgariens kulturministerium, National History Museum, grekiska kulturministeriet och berörda kloster bör lämna en föremålsvis redovisning av plats, förvaringsansvar och datum efter utställningens slut.
+
+## Kronologisk avvikelse i Samuil-fyndet
+
+De offentliga berättelserna använder olika årtal för utgrävningarna vid Sankt Achillios-basilikan: den grekiska premiärministerns ceremoniella redogörelse hänvisar till utgrävning 1964, medan bulgarisk rapportering anger att de kvarlevor som tillskrivs Samuil påträffades 1969. Det kan röra sig om skillnaden mellan utgrävningskampanjens början och det specifika fyndet, men den förklaringen är ännu inte styrkt med Moutsopoulos fältdagbok eller originalrapport. Behåll därför avvikelsen som en öppen källfråga.
+
+**PRIMÄRKÄLLA / PARTSUPPGIFT:** Greklands premiärministers offentliga redogörelse om överföringen, 3 oktober 2026.  
+https://www.primeminister.gr/en/2026/10/03/37310
+
+**OBEROENDE RAPPORTERING:** BTA:s rapportering om fyndåret 1969 och den nya sarkofagens moderna bildprogram.  
+https://www.bta.bg/en/news/bulgaria/1216695-tsar-samuel-s-remains-transfer-to-sofia-what-experts-say
+
+**ÖPPET:** fullständig inventarielista över de 48 föremålen, mottagningsbevis efter 5 november, utgrävningsdagbok och vetenskaplig rapport om kvarlevornas identifiering.
+
+**Status:** Utkast för chefredaktörens granskning. Inte publicerat.
+
+
+## Ny antropologisk källkontroll – 9 november 2026
+
+BTA:s fullständiga rapport från presskonferensen den 8 oktober innehåller en viktig distinktion som ska bevaras i huvudtexten:
+
+- Samuils kvarlevor ligger i sarkofag Gamma. Den preliminära undersökningen anger cirka 173 cm, dödsålder 60–70 år, degenerativa förändringar och en svår fraktur i vänster underarm som läkt med pseudartros.
+- Minst åtta barns kvarlevor, i åldrarna cirka tre månader till fem år, identifierades i sarkofag Delta – den gravstruktur som i rapporteringen kopplas till Gavril Radomir. Benen var fragmenterade och blandade. Detta är alltså inte ett fynd av åtta barn i Samuils egen sarkofag, och släktskap är inte fastställt.
+- Forskare planerar DNA-, radiokarbon- och stabil-isotopstudier. Små prover har skickats till laboratorier i Mainz och Bonn. Forskarna bedömer att publicering kan ta två till tre år och varnar för att gammalt DNA kan vara svårt att utvinna.
+- Längduppgiften 173 cm i BTA:s engelska text ska hållas skild från 153–155 cm i andra återgivningar. Mätmetod och underlag måste redovisas; den äldre uppskattningen omkring 150,6 cm från Yordanov 2010 byggde på fotografier och gipskopior, inte en ny direktmätning av benen.
+
+**Redaktionell följd:** texten får inte slå ihop Samuils skelett, Delta-sarkofagens barnkvarlevor och Gavril Radomirs attribution till ett enda fynd. DNA-resultat får inte föregripas.
+
+Källa: BTA, 8 oktober 2026, “Preliminary Examination of Tsar Samuel's Remains Reveals Chronic Illnesses, Severe Arm Injury”: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+
+
+## Källuppdatering 10 november: 1965 och 1969 förekommer i skilda rapporteringskedjor
+
+**Händelse som granskas:** utgrävningarna och upptäckten av kvarlevorna vid basilikan Sankt Achillios på ön Agios Achillios i Lilla Prespasjön, dagens Grekland.
+
+- **1965 – OBEROENDE RAPPORTERING:** Reuters rapporterade den 29 september 2026 att kvarlevorna upptäcktes 1965 under Nikolaos Moutsopoulos utgrävningar. Samma årtal återges av eKathimerini med hänvisning till den grekiska kulturministerns underlag.
+- **1969 – OFFICIELL BULGARISK UPPGIFT / PRIMÄRKÄLLA VIA REGERINGSUTTALANDE:** Bulgariens premiärminister och BTA:s rapportering den 29 september–3 oktober anger 1969 som året då Moutsopoulos upptäckte kvarlevorna. BTA:s handover-protokoll den 3 oktober beskriver kvarlevorna som identifierade som Samuils.
+- **Cirka 60 år – OBEROENDE BEKRÄFTELSE:** AP:s rapport från 3 oktober använder den ungefärliga tidsangivelsen “about 60 years ago” och avgör inte årtalsfrågan.
+
+Det är möjligt att 1965 avser början på utgrävningskampanjen och 1969 det specifika fyndet eller dess identifiering. Den förklaringen är dock **HYPOTES**, inte fastställd dokumentation. Den kan bara avgöras genom Moutsopoulos fältdagbok, utgrävningsrapporter, fyndkatalog och grekiska musei-/kulturministeriets ursprungliga dokument.
+
+**Redaktionell formulering tills primärmaterialet hämtats:** “Kvarlevorna påträffades under Moutsopoulos utgrävningar vid Sankt Achillios på 1960-talet; offentliga källor anger olika årtal, 1965 respektive 1969.” Ange inte ett enda år som slutgiltigt.
+
+**Källor:**
+- Reuters, 29 september 2026: https://www.internazionale.it/ultime-notizie-reuters/2026/09/29/greece-agrees-to-return-remains-of-medieval-tsar-to-bulgaria
+- BTA, protokoll om överlämningen, 3 oktober 2026: https://www.bta.bg/en/news/balkans/1217016-bulgaria-greece-sign-protocols-on-tsar-sameul-s-remains-transfer
+- BTA, premiärministerns tillkännagivande och redogörelse för 1969, 29 september 2026: https://www.bta.bg/en/news/bulgaria/1213569-greece-to-return-remains-of-tsar-samuel-to-bulgaria
+- AP, ceremoni och överföring, 3 oktober 2026: https://apnews.com/article/5acf2293fc67336678ad04035a3f0698
+
+**Status:** Ingen ny arkeologisk utgrävning har rapporterats. Detta är en källkritisk precisering av den redan dokumenterade återföringen och gravtraditionen. Ingen DNA-bekräftelse eller fullständig publicerad antropologisk rapport har tillkommit i de kontrollerade källorna.
+
+
+## Källuppdatering 10 november 2026 – preliminär antropologi och gravkontext
+
+**Händelsedatum/publiceringsdatum:** Forskarpresskonferens i Sofia 8 oktober 2026; BTA publicerade redogörelsen samma dag kl. 13.19.
+
+**PRIMÄRKÄLLA VIA FORSKARNAS PRESSKONFERENS – BTA:s samtida protokoll:** NAIM-BAS och BAS Institute of Experimental Morphology, Pathology and Anthropology redovisade en preliminär antropologisk undersökning av skelettmaterial från fyra gravstrukturer i basilikan Sankt Achillios på en ö i Small Prespa Lake. De kvarlevor som tillskrivs Samuil låg i sarkofag Gamma. Forskarna uppskattade individens ålder till cirka 60–70 år och längden till cirka 173 cm; de beskrev degenerativa förändringar i ryggrad och leder samt en allvarlig skada på vänster underarm med pseudartros.
+
+Undersökningen omfattade även material från övriga gravstrukturer. I sarkofag Delta identifierades bland annat fragment av minst åtta små barn och kvarlevor som forskarna vill pröva mot hypotesen att de kan tillhöra Gavril Radomir. Detta är preliminära antropologiska tolkningar, inte genetiskt fastställda identiteter.
+
+**PRIMÄRKÄLLA VIA FORSKARNAS UTTALANDEN:** forskarna planerar radiokoldatering, forntida DNA, stabila isotoper och ny rekonstruktion av huvudet. BTA rapporterar att små benprover redan skickats till laboratorier i Mainz och Bonn. Forskarna sade att det inte finns planer på att öppna den nya sarkofagen i Sofia och ta ut benen därifrån. De betonade också att Samuil-attributionen bygger på en samlad historisk, arkeologisk och antropologisk bedömning; DNA ska komplettera, inte ensamt avgöra, identifikationen. Ett optimistiskt tidsperspektiv för publicerade resultat angavs till två–tre år.
+
+**OBEROENDE BEKRÄFTELSE:** bTV återgav samma presskonferens och bekräftade att DNA- och isotopanalyser återstår. Det är en separat redaktionell återgivning av samma forskarbriefing, inte en oberoende laboratorieanalys.
+
+**Viktig platsåtskillnad:** den ursprungliga gravkontexten är basilikan Sankt Achillios i Small Prespa, Grekland. Kvarlevorna fördes till Sofia den 3 oktober och placerades i en ny, särskilt tillverkad marmorsarkofag i Sankt Sofia-kyrkans södra transept. Den arkeologiska nivån under Sankt Sofia i Sofia är en separat utgrävningsmiljö; den får inte beskrivas som Samuils ursprungliga grav.
+
+**Källor:**
+- BTA, 8 oktober 2026: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve
+- bTV, 8 oktober 2026: https://btvnovinite.bg/bulgaria/predvaritelnite-izsledvanija-na-kostite-na-car-samuil-pokazvat-tezhki-zaboljavanija-i-travma-na-ljavata-mu-raka.html
+- BTA, sarcofagens placering i Sankt Sofia, 2 oktober 2026: https://www.bta.bg/en/news/culture/1216728-sarcophagus-for-tsar-samuel-s-remains-now-stands-ready-in-st-sophia-church
+
+**Öppet:** fullständig antropologisk rapport och mätprotokoll; fältdagbok och fyndkatalog från Moutsopoulos; laboratoriernas provkedja och resultat; radiokoldatering, DNA och isotoper; fullständig inventarielista över de 48 föremål som överfördes till Grekland.
+
+## Källuppdatering 11 november 2026 – vad DNA kan och inte kan visa
+
+BTA:s intervju med arkeologisk expertis om den preliminära undersökningen av kvarlevorna tydliggör en viktig begränsning: en genetisk jämförelse mellan benen i de två gravkontexterna kan i bästa fall visa om individerna är biologiskt besläktade. Det kan stärka en historisk identifiering av en kunglig familjegrav, men det är inte samma sak som en direkt DNA-match mot ett säkert identifierat referensprov från Tsar Samuil. Något sådant referensprov eller färdigt genetiskt resultat har inte publicerats i det material som kontrollerats.
+
+**PRIMÄRKÄLLA:** BTA:s intervju/rapportering om den preliminära undersökningen, 8 oktober 2026: https://www.bta.bg/en/news/culture/1220275-preliminary-examination-of-tsar-samuel-s-remains-reveals-chronic-illnesses-seve  
+**OBEROENDE BEKRÄFTELSE:** bTV:s rapportering samma dag: https://btvnovinite.bg/bulgaria/predvaritelnite-izsledvanija-na-kostite-na-car-samuil-pokazvat-tezhki-zaboljavanija-i-travma-na-ljavata-mu-raka.html
+
+Den redaktionella formuleringen ska därför fortsatt vara “kvarlevor som tillskrivs Tsar Samuil” eller “historiskt/arkeologiskt identifierade som Samuils kvarlevor”, inte “DNA-verifierade kvarlevor”. De preliminära antropologiska fynden om sjukdomar och en äldre skada på vänster arm är inte i sig identitetsbevis.
+
+**Platsåtskillnaden kvarstår:** kvarlevorna grävdes fram vid basilikan Sankt Achillios på ön i Lilla Prespasjön i dagens Grekland och placerades den 3 oktober i en ny marmorsarkofag i Sankt Sofia-kyrkan i Sofia. Den arkeologiska nivån under Sankt Sofia-kyrkans transparenta golv är en annan utgrävningsmiljö. Inget i överföringen visar att Samuils ursprungliga grav låg under kyrkan i Sofia.
+
+**Öppet:** full antropologisk rapport, provkedja, metodbeskrivning och eventuella DNA-/isotopresultat. Fyndåret anges fortsatt som “under 1960-talet” tills fältdagbok och originalrapport från Moutsopoulos har granskats.
+
+**Status:** källkritisk precisering till befintligt granskningsutkast. Inte godkänt eller publicerat.
+
+
+## Källuppdatering 12 november 2026 – återförandet av de grekiska kyrkoskatterna
+
+**Händelsedatum:** 8 november 2026. **Publiceringsdatum:** 8 november 2026.
+
+**PRIMÄRKÄLLA – Greklands premiärministers kansli:** Vid sitt besök i klostret Timios Prodromos i Serres uppgav premiärministern att föremål som fördes bort 1917 hade återvänt till klostret. En separat officiell redogörelse från samma dag bekräftar att andra återlämnade föremål överlämnades till kyrkans klenodkammare ”Psychis Akos” och placerades i montrar vid Serres metropolitankyrka/eklesiastiska museum.
+
+Detta besvarar en del av den öppna frågan efter utställningsperiodens slut den 5 november: fysisk återföring till minst två mottagande institutioner är nu offentligt bekräftad. Protokollet den 3 oktober omfattar 48 föremål avsedda för Timios Prodromos, Panagia Eikosifoinissa och Serres metropolitsäte. De två redogörelserna den 8 november ger inte en föremålsvis inventarielista och bekräftar inte att samtliga 48 redan levererats till alla tre mottagare.
+
+**OBEROENDE BEKRÄFTELSE:** Den grekiska premiärministerns två separata redogörelser är oberoende av Bulgariens regeringskommunikation men är fortfarande officiella partsuppgifter om den grekiska överlämningen. Någon fullständig, gemensamt signerad mottagningsinventering har inte identifierats.
+
+**Kvar öppet:** mottagningsbevis för Panagia Eikosifoinissa; fullständig föremålslista med ursprunglig proveniens, transportdatum och ansvarig förvaringsinstitution; om samtliga 48 föremål har överlämnats.
+
+Källor:
+- Greklands premiärministers kansli, 8 november 2026, Timios Prodromos: https://www.primeminister.gr/2026/11/08/39691
+- Greklands premiärministers kansli, 8 november 2026, Serres och klenodkammaren: https://www.primeminister.gr/2026/11/08/39688
+- Greklands premiärministers kansli, 3 oktober 2026, överlämningsprotokollet och 48 föremål: https://www.primeminister.gr/en/2026/10/03/39469
+
+**Redaktionell följd:** Uppdatera formuleringen från ”ingen offentlig bekräftelse efter 5 november” till ”officiell återföring till minst två mottagare bekräftad 8 november; fullständig leverans av samtliga 48 föremål återstår att inventera”. Samuils kvarlevor ska fortsatt beskrivas som historiskt/arkeologiskt tillskrivna Samuil, inte DNA-verifierade.
