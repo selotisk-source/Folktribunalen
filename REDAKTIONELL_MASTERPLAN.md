@@ -8,7 +8,7 @@
 
 ### Aktiv huvudartikel och redaktionell kö
 
-- **Huvudspår 2 – Europas AI-infrastruktur:** fortsatt enda aktiva huvudartikel. PR #71 är **Open/Draft**, inte mergad. Exakt head: `4a90fbc51d83fb27fd2f6a4218becd26c5bdcabd`; 12 commits före `main`, 0 bakom; 2 ändrade filer. PR #71:s ändringar omfattar komplett artikeltext och separat internt dossier. GitHub-kontrollen visar 0 review submissions och 0 inline review threads. Ingen artikelbunden chefredaktörsapproval finns för denna commit. PR #64:s godkännande gäller endast basversionen.
+- **Huvudspår 2 – Europas AI-infrastruktur:** fortsatt enda aktiva huvudartikel. PR #71 är **Open/Draft**, inte mergad. Exakt head: `a4c69d54079e6daf538198843094e96b7b23639f`; 12 commits före `main`, 0 bakom; 2 ändrade filer. PR #71:s ändringar omfattar komplett artikeltext och separat internt dossier. GitHub-kontrollen visar 0 review submissions och 0 inline review threads. Ingen artikelbunden chefredaktörsapproval finns för denna commit. PR #64:s godkännande gäller endast basversionen.
 - **Nya faktadelar i PR #71:** IEA *World Energy Outlook 2026* (19 november), ECB *Financial Stability Review* (november 2026), OVHclouds AI-produktlansering 19 november och Reuters rapportering om OVHcloud/Schneider Electric. EuroHPC:s officiella upphandlingssida kontrollerades 20 november: Open; Lot 2 3 december 2026 kl. 17.00 CET, Lot 1 4 februari 2027 kl. 17.00 CET. Global IEA-data hålls isär från EU-data; ECB:s breda sektorsmått markeras som överskattande AI-försörjningskedjan.
 - **Huvudspår 3 – Synkronicitetsprotokollet (PR #38):** fortsatt nästa i ordningen, parkerat tills PR #71 har separat commit-godkännande, gått genom redaktionens adminväg och klarat faktisk LIVE-kontroll.
 - **PR #74 – Frölunda:** Open/Draft researchpaket, inte en aktiv huvudartikel. Övriga forskningsspår fortsätter som evidensnoteringar utan att ändra huvudordningen.
@@ -17,7 +17,7 @@
 ### PR-spärr – GitHub-kontroll
 
 - GitHub API:s öppna PR-lista returnerade 61 öppna PR:er; samtliga 61 hade `draft=true`. Ingen öppen PR behövde återställas från Ready for review.
-- PR #71 är Open/Draft, head `4a90fbc51d83fb27fd2f6a4218becd26c5bdcabd`, 12 commits ahead/0 behind.
+- PR #71 är Open/Draft, head `a4c69d54079e6daf538198843094e96b7b23639f`, 14 commits ahead/0 behind.
 - PR #73 är separat Open/Draft för masterplanen och den återkommande hyllningsmodulen; head vid kontrollen före denna masterplanuppdatering var `0589c4770ce4c000ddb6440cc38c2258a669eb24`, 15 commits ahead/0 behind. Ingen merge.
 - PR #74 är Open/Draft research. Alla PR-statusar avser läsning via GitHub; inga statusövergångar gjordes i denna kontroll.
 
