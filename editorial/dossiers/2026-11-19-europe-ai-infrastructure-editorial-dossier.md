@@ -155,7 +155,7 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 
 ### PR- och granskningsstatus
 
-- Artikeltextens nya innehållscommit: `13652199441b707bb0fb8b249c6334606f4c6bbb`. Dossieruppdateringen skapar därefter ytterligare en PR-commit; PR:s slutliga head ska hämtas på nytt innan godkännande begärs.
+- Artikeltextens nya innehållscommit: `d3a76e5bd0aa3d6aff432495c96142ee49e5b768`. Dossieruppdateringen skapar därefter ytterligare en PR-commit; PR:s slutliga head ska hämtas på nytt innan godkännande begärs.
 - PR #71 är fortsatt Open/Draft. Denna kontroll fann noll review submissions och noll inline review threads. Ingen separat artikelbunden chefredaktörsapproval finns för den nya versionen.
 - GitHub API:s öppna PR-lista returnerade 61 öppna PR:er; samtliga 61 hade `draft=true`. Ingen öppen PR behövde konverteras tillbaka till Draft.
 - PR #73 är fortsatt separat Open/Draft och innehåller masterplandokumentation; inte mergad.
@@ -165,7 +165,7 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 - Render `list_workspaces` returnerade en arbetsyta: **My Workspace**, ID `tea-dbjt81flk1mc73a82rg0`. Render-tjänsteanrop stoppades av verktyget eftersom ingen arbetsyta var vald; ingen ny service- eller deploymentstatus kunde hämtas i denna körning. Tidigare dokumenterade deployvärden i dossieravsnittet nedan är därför historiska, inte nykontrollerade 20 november.
 - Databasens senast dokumenterade status är `available` med `ipAllowList=[]`; tidigare read-only `SELECT 1` nekades eftersom externa anslutningar inte är tillåtna. Ingen ny DB-fråga kunde utföras utan vald Render-arbetsyta.
 - Direkt hämtning av `https://folktribunalen.onrender.com/` och hash-routen `#/artikel/europas-ai-infrastruktur` misslyckades i denna körning: webbhämtaren kunde inte nå värdnamnet och containerkontrollen fick DNS-felet `Temporary failure in name resolution`. Ingen HTTP-status, rubrik, ingress eller fulltext har erhållits.
-- `src/app.js` på `main` lästes från commit `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`. Kortobjektet för sluggen `europas-ai-infrastruktur` visar fortfarande Meta/Ofcom-rubrik och ingress. Den aktuella publika routen har inte kunnat hämtas, så den faktiska LIVE-sidans innehåll är inte bekräftat.
+- `src/app.js` på `main` lästes från commit `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`. Kortobjektet för sluggen `europas-ai-infrastruktur` visar Meta/Ofcom-rubrik och ingress. `articleBodies` för samma slug innehåller i stället en Google Wyoming-/Crusoe-/AEP-bränslecellsberättelse. Det är alltså tre skilda innehållstillstånd: PR #71:s europeiska AI-infrastrukturtext, kortets Meta/Ofcom-metadata och main-branchens Google Wyoming-body. Ingen av dessa kodobservationer ersätter en faktisk HTTP-kontroll av den publika routen.
 
 ### Fortsatt ordning
 
