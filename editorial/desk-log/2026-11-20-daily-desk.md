@@ -25,9 +25,9 @@ Senaste konkreta geografiska sidospår före dagens körning:
 - Frölunda: PR #74, 19 november.
 - Varna/Svarta havet: daterad GAS HUSKY-uppdatering i PR #74, 19 november.
 
-**Dagens val: Skaga kapell.** Skaga var det äldsta av de nyligen avancerade kultur-/geografispåren. Dagens arbete fortsätter PR #69:s befintliga del-1-underlag; det startar inte en andra aktiv huvudartikel och återställer inte tidigare arbete.
+**Primärt rotationsval 20 november: Böckernas väg till Athos (PR #26).** PR #26 hade den äldsta senast dokumenterade uppdateringen bland de aktuella öppna sidospåren (8 november). Athos är därför dagens primära leverans i PR #76. Skaga-paketet i denna PR är en kompletterande källuppföljning, inte dagens primära rotationsval.
 
-## 3. Dagens icke-Hormuz-leverans – Skaga
+## 3. Kompletterande källpaket – Skaga
 
 Ett nytt källbundet arkivpaket har skapats med fokus på:
 1. dateringskonflikten i Fredrik Adahls beskrivning: 1780 i Skara stiftshistoriska sällskaps medlemsblad 4/2025 mot 8 juli 1786 i F. Stenströms digitaliserade bok från 1933;
@@ -119,7 +119,7 @@ Researchbankarna om Boyanakyrkan, British Library EAP500 och Kukeri/Surva från 
 
 ## 7. Nästa rotation
 
-Efter Skaga väljs nästa sidospår efter senast dokumenterad aktivitet, inte nyhetsvolym. PR #26 om **Böckernas väg till Athos** hade senast dokumenterad uppdatering 8 november, äldre än Sofia (PR #8, 12 nov), strategiska råvaror (PR #34, 13 nov), finans (PR #14/#47, 13 nov) och Libanon (PR #22, 13 nov). Nästa geografiska/kulturella researchleverans bör därför återuppta Athos-/bokserien enligt den befintliga briefen.
+Efter dagens Athos-leverans är **Sofia – staden under staden (PR #8)** och **ODJURET UR DJUPET (PR #28)** de äldsta kända sidospåren i den dokumenterade jämförelsen, båda senast uppdaterade 12 november. De är tidsmässigt jämbördiga; Sofia prioriteras i nästa cykel eftersom den ligger tidigare i huvudspårens godkända ordning.
 
 Nästa huvudartikel är fortsatt Synkronicitetsprotokollet, men den förblir parkerad tills PR #71 är separat godkänd och AI-artikelns faktiska publika route har kontrollerats.
 
@@ -148,4 +148,4 @@ Ingen PR behövde återställas. Dagens researchgren skapas från aktuell main o
 
 ## 10. Dagens beslut
 
-Skaga har avancerats med en ny arkivåtervinningsplan, en dokumenterad 1780/1786-källkonflikt och rättighetskontroll för bildmaterial. Hormuz har endast fått tre separata kompletterande evidensnoter. Nästa sidospår är Böckernas väg till Athos. Huvudartikelkön är oförändrad och allt nytt material är Draft.
+Skaga har fått ett kompletterande arkivpaket med en dokumenterad 1780/1786-källkonflikt och rättighetskontroll för bildmaterial. Dagens primära rotationsleverans är Böckernas väg till Athos i PR #76. Hormuz har endast fått tre separata kompletterande evidensnoter. Huvudartikelkön är oförändrad och allt nytt material är Draft.
