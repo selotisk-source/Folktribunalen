@@ -136,6 +136,7 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 
 ## Kontrollrunda 20 november 2026
 
+- **Artikeltextens källförteckningar:** primärkällor och oberoende rapportering har fått löpande numrering utan dubblerade listnummer; källposterna är kvar i respektive kategori.
 ### Nya primärkällor och oberoende rapportering
 
 - **IEA – World Energy Outlook 2026, publicerad 19 november:** den globala datacenterel som kommer från kol och naturgas uppskattas till omkring 60 procent. IEA:s STEPS-scenario anger att sektorns utsläpp kan öka omkring 70 procent till 2030. Detta är en global scenariobild; rapportens regionala 2030-mix visar att förnybart dominerar EU:s datacenterförsörjning. IEA uppskattar också planerad gaseldad kapacitet för datacenter till cirka 180 GW i USA, 11 GW i Kanada och 4 GW i övriga världen per augusti 2026; merparten väntas inte vara i drift förrän under 2030-talet på grund av turbintillgången. Dessa tal ska inte adderas till BNEF:s 181 GW eftersom metod och projektuniversum skiljer sig.
@@ -155,7 +156,7 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 
 ### PR- och granskningsstatus
 
-- Artikeltextens nya innehållscommit: `d3a76e5bd0aa3d6aff432495c96142ee49e5b768`. Dossieruppdateringen skapar därefter ytterligare en PR-commit; PR:s slutliga head ska hämtas på nytt innan godkännande begärs.
+- Artikeltextens nya innehållscommit: `5430155dcaaf1a2560db03792b7c66b2442458c7`. Dossieruppdateringen skapar därefter ytterligare en PR-commit; PR:s slutliga head ska hämtas på nytt innan godkännande begärs.
 - PR #71 är fortsatt Open/Draft. Denna kontroll fann noll review submissions och noll inline review threads. Ingen separat artikelbunden chefredaktörsapproval finns för den nya versionen.
 - GitHub API:s öppna PR-lista returnerade 61 öppna PR:er; samtliga 61 hade `draft=true`. Ingen öppen PR behövde konverteras tillbaka till Draft.
 - PR #73 är fortsatt separat Open/Draft och innehåller masterplandokumentation; inte mergad.
