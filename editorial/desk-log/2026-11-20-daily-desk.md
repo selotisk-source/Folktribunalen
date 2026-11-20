@@ -32,7 +32,7 @@ Senaste sidospår:
 
 ## 3. Dagens primära leverans – Athos/MOmA
 
-PR #26:s ursprungliga utkast från 7 november har fått en daterad researchuppdatering. De viktigaste nya signalerna:
+PR #76 innehåller en daterad researchuppdatering för PR #26:s befintliga brief från 7 november. Själva PR #26 har inte ändrats. De viktigaste nya signalerna:
 1. MOmA:s projektstart och institutionella förankring: projektet har pågått sedan maj 2025; den Heliga gemenskapen i Karyes gav ett principiellt godkännande 1 maj 2025.
 2. MOmA-workshop 6–7 april 2026 om digitala metoder för katalogisering av osmanska handskrifter.
 3. Max Weber Stiftung anger att HTR-systemet vid Binghamton University översteg 80 procent för sena osmanska källor i november 2025. Mått, urval och testmängd anges inte i den öppnade presentationen; siffran får inte generaliseras till hela Athos-korpusen.
