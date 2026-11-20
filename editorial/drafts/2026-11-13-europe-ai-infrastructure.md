@@ -196,13 +196,21 @@ Partnernas beskrivning anger att Nokia ska bidra med nätverksinfrastruktur, Tel
 
 Sverige har samtidigt fattat ett separat beslut om offentlig medfinansiering av den europeiska upphandlingen. Riksdagen bemyndigade den 21 oktober regeringen att ingå ekonomiska åtaganden för beräkningskraft på upp till 50 miljoner euro under fem år. Regeringen uppgav den 22 oktober att Sverige genom avtalet stödjer etableringen av en svensk nod knuten till en AI-gigafabrik i Finland genom att köpa beräkningskraft. Besluten fastställer inte vilken operatör som ska driva noden. De visar inte heller att den svenska noden är samma sak som den ännu inte lokaliserade svenska plats som AI Gigafactory Northern beskriver. De två processerna måste hållas isär tills en uttrycklig koppling offentliggörs.
 
-Vid kontroll den 19 november står EuroHPC:s upphandlingssida fortfarande som öppen. Lot 2 har sista anbudsdag 3 december 2026 och Lot 1 den 4 februari 2027. Myndighetens uppdatering den 5 november säger dessutom att utkast och anbud i det tidigare inlämningssystemet inte kommer att beaktas och måste återskapas via de nya länkarna. Konsortiets besked om att det avser att lämna anbud är därför inte ett bevis på att ett anbud redan har lämnats, att konsortiet har tilldelats uppdraget eller att någon av anläggningarna är i drift.
+Vid kontroll den 20 november står EuroHPC:s officiella upphandlingssida fortfarande som Open. Den anger Lot 2 med sista anbudsdag 3 december 2026 kl. 17.00 CET och Lot 1 med sista anbudsdag 4 februari 2027 kl. 17.00 CET. Myndighetens uppdatering den 5 november säger att utkast och anbud i det tidigare inlämningssystemet inte kommer att beaktas och måste återskapas via de nya länkarna. Konsortiets besked om att det avser att lämna anbud är därför inte ett bevis på att ett anbud redan har lämnats, att konsortiet har tilldelats uppdraget eller att någon av anläggningarna är i drift.
 
 AI Gigafactory Northern är ett nytt nordisk-baltiskt konsortium och ska hållas åtskilt från BRAIN++ i Sofia och från den bulgariska gigafabriksidé som nämndes 2025. Vid kontroll den 19 november hade inget offentliggjort tilldelningsbeslut, bekräftat anbud eller ny svensk lokalisering identifierats.
 
 Sofia visar därför både vad som händer när EU-finansiering och nationell medfinansiering omsätts i en konkret superdatorupphandling – och hur flera helt olika initiativ kan rymmas under samma politiska etikett utan att ha samma finansiering, beslut eller byggstatus.
 
 ---
+
+### OVHcloud: befintlig kapacitet blir europeiska AI-tjänster
+
+Den 19 november presenterade OVHcloud 55 nya moln- och AI-produkter. Bolaget uppger att det lägger till NVIDIA RTX 6000 Pro, Blackwell B300 och Rubin R200 i sina Bare Metal- och Public Cloud-erbjudanden. Enligt bolagets pressmeddelande kan den befintliga datacenterkapaciteten hantera upp till 60 000 B300-GPU:er eller 35 000 R200-GPU:er. Reuters återger bolagets uppgift om cirka 110 MW ledig kapacitet.
+
+OVHcloud meddelade samtidigt partnerskap med Shadow, Qwant och European Search Perspective. Reuters rapporterar att Qwants AI-sammanfattningar redan körs på OVHclouds europeiska infrastruktur och hanterar upp till tre miljoner frågor per dag. Uppgifterna visar en annan väg till europeisk AI-kapacitet än en ny gigafabrik: att bygga tjänster ovanpå redan existerande datacenter och molnplattformar.
+
+**Källstatus:** Produktlanseringen och GPU-kapaciteten är bolagsuppgifter. Uppgiften om 110 MW ledig kapacitet och Qwants trafik återges av Reuters från bolagets besked. Underlaget visar inte hur kapaciteten fördelas mellan enskilda anläggningar, hur mycket som faktiskt används eller hur mycket som redan är kontrakterat. OVHclouds produktlansering ska därför inte räknas som 110 MW nybyggd eller nyansluten kapacitet.
 
 ## 7. Skellefteå: en gigawatt är en möjlig framtid – men bygglov och nät är separata steg
 
@@ -250,9 +258,21 @@ ACER:s siffror visar att nätkostnader och flaskhalsar redan har en stor ekonomi
 Det är där den verkliga frågan om digital suveränitet börjar. Suveränitet handlar inte bara om var servrarna står eller vilken jurisdiktion molnleverantören lyder under. Den handlar också om vem som kontrollerar marken, nätet, elproduktionen, finansieringen, hårdvaran och möjligheten att säga nej när ett projekt inte längre är samhällsekonomiskt hållbart.
 
 
+Den 19 november publicerade IEA sin *World Energy Outlook 2026*. Rapporten gör en viktig reservation: den globala analysen visar ännu inget entydigt samband mellan datacentertillväxt och högre elpriser. Effekten beror bland annat på ledig kapacitet vid anslutningspunkten, anläggningens storlek och driftprofil, behovet av nät- och produktionsinvesteringar samt om kostnaderna läggs på den nya kunden eller på elkunderna gemensamt. Det är inte ett argument för att datacenter saknar kostnadseffekter; det är en varning mot att tillskriva sektorn prisökningar utan att följa den konkreta kostnadskedjan.
+
+Som ett branschperspektiv varnade Schneider Electrics digitalchef Peter Weckesser i Reuters den 19 november för att höga europeiska elpriser, otillräckliga nätinvesteringar och splittrad reglering kan bromsa AI-etableringar eller flytta investeringar till andra regioner. Det är en företagsföreträdares bedömning, inte en oberoende mätning av hur mycket investeringar som faktiskt har flyttats.
+
 ## 9. Nscale: kontrakt är inte samma sak som levererad kapacitet
 
 Nscale visar hur ett europeiskt bolags datacenterplaner kan vara beroende av både nätanslutning och finansiering över flera jurisdiktioner. I en ändring av bolagets amerikanska börsregistrering, inlämnad till SEC den 12 november 2026, redovisar Nscale plc flera villkorade kundåtaganden och betydande kapitalbehov. Dokumentet är bolagets eget preliminära prospektunderlag, inte en oberoende revision och inte bevis för att en planerad anläggning är i drift.
+
+### Bankernas exponering mot AI-infrastruktur
+
+Europeiska centralbankens *Financial Stability Review* från november 2026 ger en bredare bild av finansieringen. Data till juni 2026 visar att euroområdets banker hade låneåtaganden på 24,3 miljarder euro till 165 betydande företag i AI-försörjningskedjan och deras dotterbolag; 11 miljarder var ännu inte utnyttjade. ECB betonar att den snävare mätningen kan underskatta exponeringen eftersom vissa lån utanför euroområdet inte fångas.
+
+En bredare sektorsbaserad beräkning når omkring 75 miljarder euro, motsvarande 1,1 procent av bankernas samlade företagsåtaganden. ECB varnar samtidigt för att detta bredare mått överskattar den egentliga AI-försörjningskedjan, eftersom det omfattar hela kategorier av datacenter-, halvledar- och mjukvaruföretag. Rapporten säger att lån till datacenter hittills har utvecklats väl, medan kreditkvaliteten för mjukvaru- och halvledagsföretag har försvagats sedan 2023.
+
+Detta är euroområdesdata, inte en global uppskattning och inte ett mått på Nscales egen finansiering. Men den visar varför datacenterfinansiering måste granskas tillsammans med exponering mot privata kreditfonder, leverantörer, halvledare och kundernas framtida betalningsförmåga.
 
 ### Kontrakterat värde, faktisk omsättning och finansieringsgap
 
@@ -326,6 +346,10 @@ Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankri
 
 **OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 11 november om samma BNEF-underlag och om brittiska platsförslag vid Wapseys Wood och Quest Park. De lokala planerings- och miljöakterna för dessa gasanläggningar har inte hämtats i denna kontroll.
 
+IEA:s *World Energy Outlook 2026*, som publicerades den 19 november, ger en separat global jämförelse. IEA uppskattar att kol- och naturgasbaserad elproduktion tillsammans står för omkring 60 procent av den fysiska elförsörjningen till datacenter i världen i dag. I rapportens STEPS-scenario väntas utsläppen från sektorn öka med omkring 70 procent till 2030 när kol- och gaskraft växer. Det är ett globalt scenario, inte en prognos för Europa. IEA:s regionala bild för 2030 visar att förnybar el dominerar EU:s datacenterförsörjning, medan kärnkraft och gas utgör mindre delar än i USA och Kina.
+
+IEA uppskattar också att omkring 180 GW gaseldad kapacitet i USA, 11 GW i Kanada och 4 GW i övriga världen hade planerats för datacenter per augusti 2026. Rapporten bedömer att merparten av dessa projekt inte väntas vara i drift förrän under 2030-talet på grund av långa leveranstider för gasturbiner. Dessa tal beskriver planerad kapacitet och ska inte summeras med BNEF:s 181 GW: rapporterna använder olika underlag och definitioner. De är inte mått på färdigbyggda kraftverk.
+
 **Vad underlaget visar:** Den centrala europeiska frågan är inte att 181 GW gas redan byggs, utan vilka av de annonserade projekten som når mark, nät, miljötillstånd, turbiner och finansiering – och om ett utpekat reservkraftverk fortsätter att köras när nätanslutningen väl finns.
 
 **Källor:**
@@ -340,7 +364,7 @@ Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankri
 
 Europa bygger AI-infrastruktur på flera fronter samtidigt. På vissa platser finns redan tillstånd, äldre nätavtal och stora kunder. På andra finns finansieringspaket, reserverade nätvolymer, planerade superdatorer eller politiska ambitioner som fortfarande väntar på upphandling, miljöprövning och effekt.
 
-Det finns ingen enda europeisk modell. Amsterdam visar hur äldre rättigheter kan forma dagens nätdebatt. Norge visar att tillgång till el och tillgång till nät inte är samma sak. Finland visar att miljöprövning kan stoppa betydande markarbeten utan att projektet därmed är avbrutet. Skottland visar hur offentlig kreditrisk kan hjälpa privat finansiering. Sofia visar hur en EU-superdatorupphandling skiljer sig från en separat gigafabriksvision. Skellefteå visar hur en industriell fastighet kan marknadsföras som framtida AI-campus långt innan kapaciteten är byggd. Uniper visar hur energibolag kan bli plats- och nätaktörer, medan EBRD:s regionala analys visar att elnätskapacitet och kompetens är ojämnt fördelade. BNEF:s globala kartläggning av annonserad gaseldad reservkapacitet visar dessutom varför reservkraft måste följas separat från nätanslutning och faktisk drift.
+Det finns ingen enda europeisk modell. Amsterdam visar hur äldre rättigheter kan forma dagens nätdebatt. Norge visar att tillgång till el och tillgång till nät inte är samma sak. Finland visar att miljöprövning kan stoppa betydande markarbeten utan att projektet därmed är avbrutet. Skottland visar hur offentlig kreditrisk kan hjälpa privat finansiering. Sofia visar hur en EU-superdatorupphandling skiljer sig från en separat gigafabriksvision. Skellefteå visar hur en industriell fastighet kan marknadsföras som framtida AI-campus långt innan kapaciteten är byggd. Uniper visar hur energibolag kan bli plats- och nätaktörer, medan EBRD:s regionala analys visar att elnätskapacitet och kompetens är ojämnt fördelade. OVHcloud visar samtidigt att europeiska leverantörer kan bygga AI-tjänster på redan existerande kapacitet. ECB:s nya analys visar växande men metodologiskt svårmätta kreditexponeringar. BNEF:s och IEA:s globala underlag visar dessutom varför reservkraft, elmix och utsläpp måste följas separat från nätanslutning och faktisk drift.
 
 FOLKTRIBUNALENS slutsats är att Europas AI-kapplöpning inte kan mätas i annonserade gigawatt eller miljardbelopp ensamma. Den måste mätas i faktisk levererad beräkningskapacitet, verifierad elförsörjning, fungerande tillstånd, transparent finansiering och den nytta som kan visas för de samhällen som står för marken, infrastrukturen och en del av risken.
 
@@ -476,6 +500,16 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 3. **Nokia – European technology leaders form AI Gigafactory Northern consortium**, 16 november 2026. Namnger Iru i Estland och de fem grundande partnerna:
    https://www.nokia.com/newsroom/european-technology-leaders-form-ai-gigafactory-northern-consortium-to-build-trusted-sustainable-ai-infrastructure/
 
+
+
+33. **IEA – World Energy Outlook 2026**, publicerad 19 november 2026. Se kapitel 1, särskilt s. 83–86, om datacenterkapacitet, nätbegränsningar, fossil elförsörjning, utsläpp och regionala skillnader:  
+    https://www.iea.org/reports/world-energy-outlook-2026
+
+34. **Europeiska centralbanken – Financial Stability Review, November 2026**, särskilt avsnitt 3.3 och not 51–53. Bankernas direkta åtaganden till 165 viktiga företag i AI-försörjningskedjan var 24,3 miljarder euro vid juni 2026; det bredare sektorsmåttet på cirka 75 miljarder euro omfattar även företag som inte nödvändigtvis ingår i AI-försörjningskedjan:  
+    https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202611~e03b919d36.en.pdf
+
+35. **OVHcloud – OVH takes the AI turn at full speed**, 19 november 2026. Bolagets uppgifter om 55 nya produkter och kapacitet för upp till 60 000 B300- eller 35 000 R200-GPU:er:  
+    https://corporate.ovhcloud.com/en/newsroom/news/ovh-ai-turn-55-products/
 ## Oberoende rapportering och kompletterande källor
 
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
@@ -534,3 +568,9 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 1. **DataCenterSweden – Telia, Nokia and three partners form AI Gigafactory Northern consortium with Swedish site not yet chosen**, 17 november 2026. Skiljer konsortiets ännu ej valda svenska plats från Sveriges offentliga åtagande om en nod kopplad till en AI-gigafabrik i Finland:
    https://datacentersweden.se/news/telia-ai-gigafactory-northern-consortium-2026-11/
+
+17. **Reuters – France's OVHcloud launches AI cloud products hosted in Europe**, 19 november 2026. Återger bolagets uppgift om 110 MW ledig kapacitet samt partnerskapen med Shadow, Qwant och EUSP:  
+    https://www.reuters.com/business/ovhcloud-launches-ai-cloud-products-hosted-europe-2026-11-19/
+
+18. **Reuters – Schneider Electric warns high power costs could push AI investment out of Europe**, 19 november 2026. Återger en branschföreträdares bedömning om elpriser, nätinvesteringar och reglering; använd som parts-/branschperspektiv, inte som självständig prognos:  
+    https://www.reuters.com/business/energy/schneider-electric-warns-high-power-costs-could-push-ai-investment-out-europe-2026-11-19/
