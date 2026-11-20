@@ -1,6 +1,6 @@
 # Redaktionellt dossier – Europas AI-infrastruktur
 
-**Senast uppdaterat:** 19 november 2026 – redaktionell struktur städad och artikeltyp införd  
+**Senast uppdaterat:** 20 november 2026 – IEA WEO 2026, ECB Financial Stability Review och OVHcloud tillförda; faktaläget utökat  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
 **Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
@@ -133,5 +133,45 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 2. Invänta separat chefredaktörsgodkännande av exakt aktuell PR #71-commit.
 3. Efter godkännande: använd endast redaktionens adminväg, kontrollera HTTP-status samt rätt rubrik, ingress och fulltext.
 4. Starta inte huvudspår 3 före faktisk LIVE-kontroll av huvudspår 2.
+
+## Kontrollrunda 20 november 2026
+
+### Nya primärkällor och oberoende rapportering
+
+- **IEA – World Energy Outlook 2026, publicerad 19 november:** den globala datacenterel som kommer från kol och naturgas uppskattas till omkring 60 procent. IEA:s STEPS-scenario anger att sektorns utsläpp kan öka omkring 70 procent till 2030. Detta är en global scenariobild; rapportens regionala 2030-mix visar att förnybart dominerar EU:s datacenterförsörjning. IEA uppskattar också planerad gaseldad kapacitet för datacenter till cirka 180 GW i USA, 11 GW i Kanada och 4 GW i övriga världen per augusti 2026; merparten väntas inte vara i drift förrän under 2030-talet på grund av turbintillgången. Dessa tal ska inte adderas till BNEF:s 181 GW eftersom metod och projektuniversum skiljer sig.
+- **IEA – elprisreservation:** WEO 2026 säger att analysen ännu inte visar ett tydligt samband mellan datacentertillväxt och elprisökningar. Effekten beror på ledig kapacitet, driftprofil, investeringar i nät/produktion och kostnadsfördelning. Detta är en central motvikt mot alltför svepande formuleringar om att datacenter automatiskt höjer elpriser.
+- **ECB – Financial Stability Review, november 2026:** direkta låneåtaganden från euroområdesbanker till 165 viktiga företag i AI-försörjningskedjan och dotterbolag var 24,3 miljarder euro vid juni 2026; 11 miljarder var outnyttjade. Ett bredare sektorsmått på cirka 75 miljarder euro motsvarar 1,1 procent av företagsåtagandena men omfattar hela sektorerna datacenter, halvledare och mjukvara och överskattar därför den egentliga AI-försörjningskedjan. ECB bedömer att datacenterlån hittills har utvecklats väl medan kreditkvaliteten för mjukvaru- och halvledagsföretag försvagats sedan 2023. Detta är euroområdesdata, inte en global exponering eller ett mått på Nscales egna skulder.
+- **OVHcloud – bolagets pressmeddelande 19 november:** 55 nya moln-/AI-produkter; erbjudandet utökas med RTX 6000 Pro, Blackwell B300 och Rubin R200. Bolaget uppger att befintlig datacenterkapacitet kan rymma upp till 60 000 B300 eller 35 000 R200-GPU:er.
+- **Reuters – OVHcloud 19 november:** återger OVHclouds uppgift om 110 MW ledig kapacitet och partnerskap med Shadow, Qwant och EUSP. Reuters rapporterar att Qwants AI-sammanfattningar hanterar upp till tre miljoner frågor per dag på europeisk infrastruktur och att beräkningskostnaden uppges ha sjunkit till en tredjedel av tidigare nivå. Det är bolagsuppgifter återgivna av Reuters, inte en oberoende mätning av kapacitetsutnyttjande.
+- **Reuters – Schneider Electric 19 november:** Peter Weckesser varnar för att höga europeiska elpriser, otillräckliga nätinvesteringar och fragmenterad reglering kan bromsa eller flytta AI-investeringar. Märk detta som en branschföreträdares bedömning, inte en verifierad kapitalflytt.
+- **EuroHPC – aktuell upphandlingssida kontrollerad 20 november:** status Open. Lot 2 stänger 3 december 2026 kl. 17.00 CET och Lot 1 den 4 februari 2027 kl. 17.00 CET. Uppdateringen 5 november kräver att gamla utkast och anbud återskapas i de nya länkarna.
+
+### Bildförslag och rättigheter
+
+- **OVHcloud:** bolagets AI Summit- och produktbilder kan vara relevanta, men kommersiell återanvändningslicens har inte fastställts. Begär pressbild med skriftliga villkor eller använd en egen neutral bild av datacenter-/nätinfrastruktur.
+- **IEA:** rapportdiagram kan användas som faktaunderlag; kontrollera särskilda publiceringsvillkor innan återgivning. Egen grafisk återgivning av siffror ska ange scenario, geografisk omfattning, år och källa.
+- **ECB:** använd inte rapportens diagram som fristående illustration utan kontroll av återgivningsvillkor. En egen faktaruta kan återskapa de publicerade talen med tydlig not om bred respektive snäv definition.
+- **Reuters-fotografier:** använd inte utan licens.
+
+### PR- och granskningsstatus
+
+- Artikeltextens nya innehållscommit: `13652199441b707bb0fb8b249c6334606f4c6bbb`. Dossieruppdateringen skapar därefter ytterligare en PR-commit; PR:s slutliga head ska hämtas på nytt innan godkännande begärs.
+- PR #71 är fortsatt Open/Draft. Denna kontroll fann noll review submissions och noll inline review threads. Ingen separat artikelbunden chefredaktörsapproval finns för den nya versionen.
+- GitHub API:s öppna PR-lista returnerade 61 öppna PR:er; samtliga 61 hade `draft=true`. Ingen öppen PR behövde konverteras tillbaka till Draft.
+- PR #73 är fortsatt separat Open/Draft och innehåller masterplandokumentation; inte mergad.
+
+### Render, databas och publik route – faktisk kontroll i denna körning
+
+- Render `list_workspaces` returnerade en arbetsyta: **My Workspace**, ID `tea-dbjt81flk1mc73a82rg0`. Render-tjänsteanrop stoppades av verktyget eftersom ingen arbetsyta var vald; ingen ny service- eller deploymentstatus kunde hämtas i denna körning. Tidigare dokumenterade deployvärden i dossieravsnittet nedan är därför historiska, inte nykontrollerade 20 november.
+- Databasens senast dokumenterade status är `available` med `ipAllowList=[]`; tidigare read-only `SELECT 1` nekades eftersom externa anslutningar inte är tillåtna. Ingen ny DB-fråga kunde utföras utan vald Render-arbetsyta.
+- Direkt hämtning av `https://folktribunalen.onrender.com/` och hash-routen `#/artikel/europas-ai-infrastruktur` misslyckades i denna körning: webbhämtaren kunde inte nå värdnamnet och containerkontrollen fick DNS-felet `Temporary failure in name resolution`. Ingen HTTP-status, rubrik, ingress eller fulltext har erhållits.
+- `src/app.js` på `main` lästes från commit `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`. Kortobjektet för sluggen `europas-ai-infrastruktur` visar fortfarande Meta/Ofcom-rubrik och ingress. Den aktuella publika routen har inte kunnat hämtas, så den faktiska LIVE-sidans innehåll är inte bekräftat.
+
+### Fortsatt ordning
+
+1. PR #71 förblir enda aktiva huvudartikel och hålls Draft.
+2. Chefredaktören måste uttryckligen godkänna exakt slutlig PR-head, inte bara tidigare artikeltext eller PR #64-versionen.
+3. Efter godkännandet används endast redaktionens adminväg; därefter kontrolleras HTTP-status, korrekt rubrik, ingress och fulltext.
+4. Huvudspår 3 förblir parkerat till dess att huvudspår 2 har passerat den LIVE-kontrollen.
 
 **Ingen merge, deploy, databasändring, frontendändring eller publicering har gjorts i denna körning.**
