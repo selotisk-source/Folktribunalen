@@ -491,24 +491,24 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
     https://www.nve.no/nytt-fra-nve/nyheter-energi/nve-gir-nscale-varsel-om-tvangsmulkt/
 
 
-1. **Sveriges riksdag – Betänkande 2026/27:FiU12, bemyndigande om ekonomiska åtaganden för beräkningskraft**, beslut 21 oktober 2026. Bemyndigande upp till 50 miljoner euro under fem år:
+33. **Sveriges riksdag – Betänkande 2026/27:FiU12, bemyndigande om ekonomiska åtaganden för beräkningskraft**, beslut 21 oktober 2026. Bemyndigande upp till 50 miljoner euro under fem år:
    https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/andring-i-statens-budget-for-2026-bemyndigande_he01fiu12/
 
-2. **Regeringskansliet – Nästa steg i satsningen på europeiska AI-gigafabriker**, 22 oktober 2026. Sverige stödjer en nod i Sverige knuten till en AI-gigafabrik i Finland genom köp av beräkningskraft:
+34. **Regeringskansliet – Nästa steg i satsningen på europeiska AI-gigafabriker**, 22 oktober 2026. Sverige stödjer en nod i Sverige knuten till en AI-gigafabrik i Finland genom köp av beräkningskraft:
    https://www.regeringen.se/pressmeddelanden/2026/10/nasta-steg-i-satsningen-pa-europeiska-ai-gigafabriker/
 
-3. **Nokia – European technology leaders form AI Gigafactory Northern consortium**, 16 november 2026. Namnger Iru i Estland och de fem grundande partnerna:
+35. **Nokia – European technology leaders form AI Gigafactory Northern consortium**, 16 november 2026. Namnger Iru i Estland och de fem grundande partnerna:
    https://www.nokia.com/newsroom/european-technology-leaders-form-ai-gigafactory-northern-consortium-to-build-trusted-sustainable-ai-infrastructure/
 
 
 
-33. **IEA – World Energy Outlook 2026**, publicerad 19 november 2026. Se kapitel 1, särskilt s. 83–86, om datacenterkapacitet, nätbegränsningar, fossil elförsörjning, utsläpp och regionala skillnader:  
+36. **IEA – World Energy Outlook 2026**, publicerad 19 november 2026. Se kapitel 1, särskilt s. 83–86, om datacenterkapacitet, nätbegränsningar, fossil elförsörjning, utsläpp och regionala skillnader:  
     https://www.iea.org/reports/world-energy-outlook-2026
 
-34. **Europeiska centralbanken – Financial Stability Review, November 2026**, särskilt avsnitt 3.3 och not 51–53. Bankernas direkta åtaganden till 165 viktiga företag i AI-försörjningskedjan var 24,3 miljarder euro vid juni 2026; det bredare sektorsmåttet på cirka 75 miljarder euro omfattar även företag som inte nödvändigtvis ingår i AI-försörjningskedjan:  
+37. **Europeiska centralbanken – Financial Stability Review, November 2026**, särskilt avsnitt 3.3 och not 51–53. Bankernas direkta åtaganden till 165 viktiga företag i AI-försörjningskedjan var 24,3 miljarder euro vid juni 2026; det bredare sektorsmåttet på cirka 75 miljarder euro omfattar även företag som inte nödvändigtvis ingår i AI-försörjningskedjan:  
     https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202611~e03b919d36.en.pdf
 
-35. **OVHcloud – OVH takes the AI turn at full speed**, 19 november 2026. Bolagets uppgifter om 55 nya produkter och kapacitet för upp till 60 000 B300- eller 35 000 R200-GPU:er:  
+38. **OVHcloud – OVH takes the AI turn at full speed**, 19 november 2026. Bolagets uppgifter om 55 nya produkter och kapacitet för upp till 60 000 B300- eller 35 000 R200-GPU:er:  
     https://corporate.ovhcloud.com/en/newsroom/news/ovh-ai-turn-55-products/
 ## Oberoende rapportering och kompletterande källor
 
@@ -566,11 +566,11 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 ---
 
-1. **DataCenterSweden – Telia, Nokia and three partners form AI Gigafactory Northern consortium with Swedish site not yet chosen**, 17 november 2026. Skiljer konsortiets ännu ej valda svenska plats från Sveriges offentliga åtagande om en nod kopplad till en AI-gigafabrik i Finland:
+18. **DataCenterSweden – Telia, Nokia and three partners form AI Gigafactory Northern consortium with Swedish site not yet chosen**, 17 november 2026. Skiljer konsortiets ännu ej valda svenska plats från Sveriges offentliga åtagande om en nod kopplad till en AI-gigafabrik i Finland:
    https://datacentersweden.se/news/telia-ai-gigafactory-northern-consortium-2026-11/
 
-17. **Reuters – France's OVHcloud launches AI cloud products hosted in Europe**, 19 november 2026. Återger bolagets uppgift om 110 MW ledig kapacitet samt partnerskapen med Shadow, Qwant och EUSP:  
+19. **Reuters – France's OVHcloud launches AI cloud products hosted in Europe**, 19 november 2026. Återger bolagets uppgift om 110 MW ledig kapacitet samt partnerskapen med Shadow, Qwant och EUSP:  
     https://www.reuters.com/business/ovhcloud-launches-ai-cloud-products-hosted-europe-2026-11-19/
 
-18. **Reuters – Schneider Electric warns high power costs could push AI investment out of Europe**, 19 november 2026. Återger en branschföreträdares bedömning om elpriser, nätinvesteringar och reglering; använd som parts-/branschperspektiv, inte som självständig prognos:  
+20. **Reuters – Schneider Electric warns high power costs could push AI investment out of Europe**, 19 november 2026. Återger en branschföreträdares bedömning om elpriser, nätinvesteringar och reglering; använd som parts-/branschperspektiv, inte som självständig prognos:  
     https://www.reuters.com/business/energy/schneider-electric-warns-high-power-costs-could-push-ai-investment-out-europe-2026-11-19/
