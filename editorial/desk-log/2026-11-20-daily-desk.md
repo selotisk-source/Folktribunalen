@@ -44,6 +44,7 @@ PR #26:s ursprungliga utkast från 7 november har fått en daterad researchuppda
 ### Nya evidensnoter
 - `2026-11-20-athos-moma-workshop-and-public-catalogue.md`: daterat tillägg till PR #26.
 - `2026-11-20-athos-htr-accuracy-and-limitations.md`: input till teknikavsnittet i PR #26.
+- `2026-11-20-athos-prior-htr-models.md`: korrigerar ”första HTR-systemet”-påståendet med Transkribus-modellen från 2023.
 - `2026-11-20-athos-prior-catalogues-and-1386-authenticity.md`: input till artikelns forskningsöversikt och källkritik.
 - `2026-11-20-athos-legal-status-research.md`: kandidat för senare rättshistorisk artikel.
 
