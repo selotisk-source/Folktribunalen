@@ -26,7 +26,9 @@ Detta är en viktig skillnad i artikeln: projektet är aktivt och institutionell
 ### HTR-systemet har en tidigare testnivå – men siffran är begränsad
 Max Weber Stiftung uppger att ett HTR-system för osmanska texter byggts vid Binghamton University sedan 2024 och att träffsäkerheten för **sena osmanska källor** översteg 80 procent i november 2025. Den publicerade presentationen redovisar inte i den aktuella passagen mätetal, testmängd, transkriptionsstandard eller fördelning över handstilar och århundraden.
 
-Siffran får därför inte beskrivas som ”80 procent rätt på Athos-arkivet” eller som verifierad prestanda på hela det uppskattade materialet om 30 000 dokument. Den ska attribueras till Max Weber Stiftung och avgränsas till sena osmanska källor.
+Det finns dessutom en tidigare offentlig HTR-modell: Transkribus-modellen **OttomanTurkish_generic**, publicerad 12 november 2023 inom MultiHTR-projektet vid universitetet i Freiburg. Modellsidan anger ett eget valideringsresultat på 11,6 procent Character Error Rate (CER), baserat på 201 096 ord, 25 480 rader och 789 träningssidor. Modellen är ett hjälpmedel för osmansk turkiska i arabisk-persisk skrift och är inte tränad specifikt på Athos-beståndet.
+
+Siffrorna kan inte jämföras direkt: Transkribus anger CER, medan Max Weber Stiftung i den öppnade presentationen endast skriver ”accuracy” utan att specificera mått eller urval. MOmA:s nyhetsvärde ska därför beskrivas som den systematiska tillämpningen på ett stort, sammanhållet Athos-korpus, den planerade katalogen och den institutionsförankrade digitaliseringen – inte som det första HTR-systemet för osmanska texter någonsin.
 
 ## 2. En nödvändig rättelse i den tidigare artikelramen: Athos är inte helt outforskad
 
@@ -89,7 +91,8 @@ Ett kompletterande akademiskt spår är Anastasios Nikopoulos, ”Reevaluating t
 | Tjugo kloster | Projekt-/institutionsuppgift | Kan användas med attribution |
 | MOmA startat senast maj 2025 | Bekräftat av FU Berlin | Daterad projektstatus |
 | Workshop 6–7 april 2026 | Bekräftad på FU Berlins institutionssida | Daterat tillägg |
-| HTR >80 % | Max Weber Stiftungs uppgift, november 2025, sena källor | Inte generaliserbar till hela korpusen |
+| HTR >80 % | Max Weber Stiftungs uppgift, november 2025, sena källor | Inte generaliserbar till hela korpusen; mått saknas |
+| OttomanTurkish_generic | Transkribus-modell publicerad 12 nov 2023; 11,6 % CER på egen validering | Tidigare modell; inte Athos-specifik och inte direkt jämförbar med MOmA:s procentsiffra |
 | Publik MOmA-katalog | Inte tillgänglig vid kontroll 20 nov 2026 | Beskriv som planerad, inte lanserad |
 | 1386 som tidigaste dokument | Publicerat exempel med autenticitet debatterad | Fotnot krävs |
 | 35 tidigare dokumentutgåvor/sammanfattningar | Redovisat i Brill-kapitel 2025 | Korrigerar ”helt outforskat” |
@@ -117,6 +120,8 @@ Ett kompletterande akademiskt spår är Anastasios Nikopoulos, ”Reevaluating t
 - Freie Universität Berlin, ”When Ottoman-Era Bureaucratic Records Train Machines to Read”, 23 mars 2026: https://www.fu-berlin.de/en/featured-stories/research/2026/mount-athos/index.html
 - Freie Universität Berlin, Bysantinistik – aktuellt 2026 (MOmA-workshop 6–7 april; rättshistoriska publikationer): https://www.geisteswissenschaften.fu-berlin.de/we02/griechisch/byzantinistik/aktuelles/2026/index.html
 - Max Weber Stiftung, Richard Wittmann, ”Unberührter Wissensschatz: Ein Projekt zur Erschließung der osmanischen Handschriften der Athos-Klöster”: https://www.maxweberstiftung.de/themenportal/unberuehrter-wissensschatz-ein-projekt-zur-erschliessung-der-osmanischen-handschriften-der-athos-kloester.html
+- Transkribus, ”OttomanTurkish_generic”, publicerad 12 november 2023: https://www.transkribus.org/models/ottoman-turkish-generic
+- Universität Wien, ”HTRising Ottoman Manuscripts”, workshop 12 februari 2021: https://dh-ottoman.univie.ac.at/fileadmin/user_upload/k_dh_ottoman/Htrising_Workshop_fin.pdf
 - MOmA, projektwebbplats: https://momaproject.org/
 - Vanessa R. de Obaldía, ”Archival Treasures of the Holy Mountain: Interpreting Ottoman and Arabic Documents as Sources of Athonite Wealth”, Brill, 2025, DOI 10.1163/9789004712126_012: https://brill.com/display/book/9789004712126/BP000011.pdf
 - Anastasios Nikopoulos, ”Reevaluating the institutional autonomy of 14th century Mount Athos under the Ottomans”, *Zbornik radova Vizantološkog instituta* LXI (2024), DOI 10.2298/ZRVI2461253N: https://doi.org/10.2298/ZRVI2461253N
