@@ -1,10 +1,50 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 19 november 2026 – nyhetsbevakning kompletterad; PR #71:s dossier städat och artikeltyp införd; PR #71 och PR #73 fortsatt Draft  
+**Version:** 20 november 2026 – huvudspår 2 uppdaterat med IEA/ECB/OVHcloud; återkommande hyllningsmodul källförankrad; samtliga öppna PR kontrollerade som Draft  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
-## Aktuell arbetskontroll – 19 november 2026 (senaste uppdatering efter 02:36 EET)
+## Aktuell arbetskontroll – 20 november 2026
+
+### Aktiv huvudartikel och redaktionell kö
+
+- **Huvudspår 2 – Europas AI-infrastruktur:** fortsatt enda aktiva huvudartikel. PR #71 är **Open/Draft**, inte mergad. Exakt head: `4a90fbc51d83fb27fd2f6a4218becd26c5bdcabd`; 12 commits före `main`, 0 bakom; 2 ändrade filer. PR #71:s ändringar omfattar komplett artikeltext och separat internt dossier. GitHub-kontrollen visar 0 review submissions och 0 inline review threads. Ingen artikelbunden chefredaktörsapproval finns för denna commit. PR #64:s godkännande gäller endast basversionen.
+- **Nya faktadelar i PR #71:** IEA *World Energy Outlook 2026* (19 november), ECB *Financial Stability Review* (november 2026), OVHclouds AI-produktlansering 19 november och Reuters rapportering om OVHcloud/Schneider Electric. EuroHPC:s officiella upphandlingssida kontrollerades 20 november: Open; Lot 2 3 december 2026 kl. 17.00 CET, Lot 1 4 februari 2027 kl. 17.00 CET. Global IEA-data hålls isär från EU-data; ECB:s breda sektorsmått markeras som överskattande AI-försörjningskedjan.
+- **Huvudspår 3 – Synkronicitetsprotokollet (PR #38):** fortsatt nästa i ordningen, parkerat tills PR #71 har separat commit-godkännande, gått genom redaktionens adminväg och klarat faktisk LIVE-kontroll.
+- **PR #74 – Frölunda:** Open/Draft researchpaket, inte en aktiv huvudartikel. Övriga forskningsspår fortsätter som evidensnoteringar utan att ändra huvudordningen.
+- **Historiska avvikelser:** PR #56 Meta/Ofcom och PR #66 Genève/autonoma vapen är redan mergade historiska avvikelser. De får inte utökas med nya deployer utan separat artikelgodkännande.
+
+### PR-spärr – GitHub-kontroll
+
+- GitHub API:s öppna PR-lista returnerade 61 öppna PR:er; samtliga 61 hade `draft=true`. Ingen öppen PR behövde återställas från Ready for review.
+- PR #71 är Open/Draft, head `4a90fbc51d83fb27fd2f6a4218becd26c5bdcabd`, 12 commits ahead/0 behind.
+- PR #73 är separat Open/Draft för masterplanen och den återkommande hyllningsmodulen; head vid kontrollen före denna masterplanuppdatering var `0589c4770ce4c000ddb6440cc38c2258a669eb24`, 15 commits ahead/0 behind. Ingen merge.
+- PR #74 är Open/Draft research. Alla PR-statusar avser läsning via GitHub; inga statusövergångar gjordes i denna kontroll.
+
+### Render, databas och route
+
+- **Render:** Render-tjänste- och deploymentläsning kunde inte genomföras eftersom ingen arbetsyta var vald i verktygssessionen. Senast dokumenterade tjänsteuppgifter finns kvar i historiska statusnoteringar och har inte återkontrollerats 20 november.
+- **Databas:** senast dokumenterade status är `available` med `ipAllowList=[]`; tidigare read-only `SELECT 1` nekades eftersom externa anslutningar inte är tillåtna. Ingen ny DB-fråga eller skrivning har gjorts i denna kontroll.
+- **Publik route:** ingen HTTP-status, rubrik, ingress eller fulltext kunde hämtas. Route-testet är inte godkänt som LIVE-kontroll.
+- **Main-kodens slug-mismatch:** `src/app.js` lästes på commit `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`. Kortobjektet för `europas-ai-infrastruktur` har Meta/Ofcom-rubrik och ingress, medan `articleBodies["europas-ai-infrastruktur"]` innehåller en annan berättelse om Google i Wyoming, Crusoe och ett planerat AEP-bränslecellsprojekt på 702 MW. PR #71:s europeiska AI-infrastrukturartikel är alltså en tredje, separat version. Detta är en kodobservation; den publika sidans faktiska body är inte HTTP-kontrollerad.
+- **Nästa tekniska steg:** återuppta Render-kontrollen när rätt arbetsyta är vald; därefter kontrollera service/deploy, säker DB-anslutning och den faktiska publikroute först efter separat godkännande av PR #71:s exakta head. Ingen statisk frontendväg får användas för att kringgå adminflödet.
+
+### Återkommande hyllning i varje utgåva
+
+- Ny redaktionell standard finns i [`editorial/portfolio/recurring-tributes.md`](editorial/portfolio/recurring-tributes.md). Varje utgåva ska ge plats åt Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski; alla sex ska ha källhänvisning.
+- **Levski:** identifierad som Vasil Ivanov Kunchev (1837–1873). National Museum Vasil Levski anger färre än 200 dokumentära enheter, omkring 100 handskrivna brev och innehåll i fickanteckningsboken, inklusive resor 1871–1872 och redovisade utgifter. Nationalbibliotekets digitala projekt beskriver anteckningsboken som skriven under de två sista levnadsåren.
+- Levski-hyllningen skiljer arkivuppgift från minnesbild och tolkning. ”Aposteln för friheten” behandlas som hederstitel. Inga citat får tillskrivas honom utan kontroll mot originalmanuskript eller kontrollerad transkription. Båda Levski-källorna ska finnas med i varje utgåva:
+  - https://vlevskimuseum-bg.org/en/documentary-heritage/
+  - https://www.nationallibrary.bg/levski/
+- Sankta Paraskevi avser som standard Petka av Epivatos/Tarnovo i bulgarisk ortodox kontext. Hagiografisk tradition ska märkas som sådan och får inte blandas ihop med Paraskevi av Rom eller Ikonion.
+
+### Kontrollens omfattning
+
+- Inga PR:er konverterades från Ready for review eftersom samtliga 61 öppna PR:er redan var Draft.
+- Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har utförts.
+- Huvudspår 2 förblir aktivt; huvudspår 3 är parkerat.
+
+## Historisk arbetskontroll – 19 november 2026 (ersatt av kontrollen 20 november)
 
 ### Aktiv huvudartikel och godkännandekö
 
