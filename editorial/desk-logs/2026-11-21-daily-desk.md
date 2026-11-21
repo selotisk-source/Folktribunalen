@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Daily Desk, 21 november 2026
 
 **Körtid:** 09:17 EET  
-**Leverans:** [PR #78 – ODJURET UR DJUPET](https://github.com/selotisk-source/Folktribunalen/pull/78), 11 filer, 11 commits, 498 tillägg; fem projektrelaterade evidensnoter och fyra separata Hormuz-noter.  
+**Leverans:** [PR #78 – ODJURET UR DJUPET](https://github.com/selotisk-source/Folktribunalen/pull/78), 11 filer, 499 tillägg; fem projektrelaterade evidensnoter och fyra separata Hormuz-noter.  
 **Publiceringsläge:** allt nytt material är Draft.
 
 ## Masterplan och kö
