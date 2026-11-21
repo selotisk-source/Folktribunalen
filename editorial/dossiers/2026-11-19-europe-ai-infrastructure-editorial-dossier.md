@@ -176,3 +176,66 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 4. Huvudspår 3 förblir parkerat till dess att huvudspår 2 har passerat den LIVE-kontrollen.
 
 **Ingen merge, deploy, databasändring, frontendändring eller publicering har gjorts i denna körning.**
+
+
+## Kontrollrunda 21 november 2026 – Spanien och aktuell teknisk status
+
+### Spanien: nytt datacenterdekret godkänt av ministerrådet
+
+**Primärkällor kontrollerade:**
+- MITECO, 20 november 2026: https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/noviembre/el-gobierno-aprueba-el-real-decreto-para-la-sostenibilidad-energ.html
+- La Moncloa, ministerrådets referens 20 november 2026: https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20261120-referencia-rueda-de-consejo-ministros-ext.aspx
+- BOE, Real Decreto-ley 7/2026, tilläggsbestämmelse 1: https://www.boe.es/eli/es/rdl/2026/03/20/7/con
+
+**Primärkälla – vad som godkänts:** ministerrådet godkände den 20 november ett kungligt dekret med hållbarhetskrav för datacenter. MITECO anger att stora anläggningar över 10 MW ska uppfylla villkoren för nätåtkomst och anslutningsrätt. Huvudregeln är 80 procent förnybar elanvändning med timvis korrelation och additionalitet: den förnybara produktionen ska ha tillkommit högst 36 månader före driftstart, med angivna undantag. Självförbrukning, lagring och leveransavtal längre än sex år kan räknas in.
+
+**Alternativ väg:** anläggningar som deltar i systemet för automatisk effektminskning med prioritet för frånkoppling kan enligt ministeriet under en övergångsperiod visa 60 procent ytterligare förnybar energi under höglasttimmar till 31 december 2028, därefter 70 procent under hög- och mellanlasttimmar till slutet av femårsperioden.
+
+**Vatten/energi/transparens:** övergångsnivåer WUE ≤0,1 och PUE ≤1,25; årlig rapportering till MITECO för anläggningar över 500 kW; de över 1 MW ska dessutom redovisa efterlevnad av EU:s senaste energieffektivitetskod.
+
+**Sanktioner/övergång:** ministeriet anger automatiska kompensationsbetalningar vid vissa avvikelser och sanktioner som kan suspendera nätåtkomst och anslutningsrätt upp till tre år. Projekt under handläggning får enligt ministeriets sammanfattning sex månader att anpassa sig, eller tre månader om de väntar på nätkapacitetstävling. Exakta startpunkter och beräkningsregler måste kontrolleras i slutlig publicerad författning.
+
+**Digital suveränitet – snäv tillämpning:** kraven på att känsliga data stannar i EES, att nödvändiga resurser finns i EU/EES och att åtkomst från tredje land kontrolleras gäller system i den högsta säkerhetskategorin i Spaniens nationella säkerhetsramverk. La Moncloa säger att dessa krav gäller oberoende av datacentrets storlek, eftersom de beror på de offentliga systemens kritikalitet. Skriv inte att varje privat datacenter eller varje privat AI-arbetslast omfattas av samma datalokaliseringskrav.
+
+**Rättslig status 21 november:** MITECO och La Moncloa bekräftar ministerrådets godkännande den 20 november. Sökning i BOE på dekretets fullständiga titel gav inte den nya författningstexten; den identifierade BOE-källan är fortfarande bemyndigandegrunden i Real Decreto-ley 7/2026. Därför är publiceringsdatum, slutliga övergångsbestämmelser och ikraftträdande inte fastställda i denna kontroll. Beskriv dekretet som ministerrådsgodkänt, inte som ikraftträtt.
+
+### Elnätsplan till 2030
+
+La Moncloa anger att regeringen den 20 november också godkände en bindande transportnätsplan till 2030 med investeringar på mer än 17 miljarder euro, kapacitet för 47 GW ny efterfrågan, 193 nya transformatorstationsparker, 6 707 km nya ledningar och förstärkning av ytterligare 8 164 km befintliga ledningar. Detta gäller hela Spaniens elektrifiering och olika sektorer; det är inte datacenterreserverad kapacitet. Regeringens uppgift om mer än 3,593 miljarder euro i årliga besparingar kommer från Red Eléctrica-beräkningar återgivna av regeringen och ska attribueras, inte presenteras som oberoende utfall.
+
+### Oberoende rapportering och partspositioner
+
+- Reuters, 20 november 2026: https://www.reuters.com/business/environment/spain-sets-green-standards-data-centres-despite-industry-criticism-2026-11-20/ . PP lovar att riva upp reglerna om partiet vinner valet 29 november; Spain DC säger att reglerna hotar miljardinvesteringar; två utvecklare uppger att vissa projekt kan bli olönsamma och att de överväger Frankrike eller Portugal. AWS och Microsoft säger att deras planer ligger fast. Dessa är politiska, bransch- och bolagspositioner, inte bevis för att kapital redan flyttats.
+- El País, 20 november 2026: https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html . Kompletterande rapportering om de över 600 invändningar som lämnats under samråd och sektorns kritik mot villkoren.
+- MITECO-ministerns påstående om att reglerna undviker fem miljarder euro i årliga elkostnader och 25 procent högre industriella elräkningar är en regeringsprognos; den ska inte återges som uppmätt besparing.
+
+### Faktastatus och öppna frågor
+
+- **Bekräftat:** ministerrådet godkände dekretet 20 november; ministeriets redogörelse specificerar huvudkraven.
+- **Bekräftat:** La Moncloa redovisar godkänd, bindande elnätsplan till 2030 och nationella investerings-/kapacitetstal.
+- **Inte fastställt i denna kontroll:** publicering av det nya dekretet i BOE, dess slutliga lydelse, publiceringsdatum och ikraftträdande.
+- **Inte fastställt:** vilka befintliga projekt som kommer att omfattas efter publicering, exakt hur övergångstiden räknas, undantagsvillkor och den praktiska beräkningen av kompensationsbetalningar.
+- **Inte fastställt:** om några utvecklare faktiskt har flyttat eller avbrutit projekt till följd av dekretet. Reuters rapporterar att två utvecklare överväger andra länder, inte att flytten redan skett.
+- **Bildrätt:** Reuters-bilden av Merlin Edged i Rivabellosa är licensierad genom Reuters Connect och får inte återanvändas utan köp/tillstånd. Använd i stället MITECO-/La Moncloa-bilder endast efter separat kontroll av bildvillkor eller beställ egen dokumentär bild.
+
+### Status för artikelutkastet
+
+- Den aktiva artikeln har fått en ny underrubrik om Spanien under avsnitt 8, tre primärkällor och två oberoende rapporteringskällor.
+- Nya fakta har märkts med rättslig status och partsattribuering. Spaniens 80-procentskrav är inte beskrivet som gällande rätt före publicering/ikraftträdande.
+- PR #71 ska fortsatt vara Open/Draft. Den nya ändringen skapar en ny exakt commit som kräver separat chefredaktörsgodkännande.
+
+### Render och route – kontroll 21 november 2026
+
+- Render workspace: My Workspace (`tea-dbjt81flk1mc73a82rg0`).
+- Statisk webbplats `folktribunalen` (`srv-dblpumgm7kps73bv55e0`): `autoDeploy=yes`, branch `main`. Senaste deployment i Render-listan är `dep-dbt4qddg1s2s738p7bmg`, status `live`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
+- Redaktionell backend `folktribunalen-editorial` (`srv-dblq2r0n74is73cchqh0`): `autoDeploy=yes`, branch `main`. Senaste deployment är `dep-dblq3nafngtc73c0l87g`, status `live`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
+- Postgres `folktribunalen-db` (`dpg-dblq2fqfngtc73c0h9gg-a`): status `available`, `ipAllowList=[]`. Render read-only-fråga `SELECT 1 AS connection_test` avvisades med meddelandet att databasen blockerar alla externa anslutningar eftersom IP-allowlisten är tom; hosted Render MCP saknar IP-adress att lägga till. Ingen DB-write har gjorts.
+- Publik statisk route: `curl` mot `https://folktribunalen.onrender.com/` och `https://folktribunalen.onrender.com/#/artikel/europas-ai-infrastruktur` misslyckades med `curl: (6) Could not resolve host`. Webbläsarhämtning av både statisk webbplats och backend returnerade internfel/URL ej tillgänglig. Ingen HTTP-status eller sidtext har erhållits; LIVE-kontroll är fortfarande inte genomförd.
+- Service- och deploystatusen är nu nykontrollerad via Render. Route-statusen är däremot blockerad av DNS-resolution och får inte rapporteras som HTTP 200 eller LIVE.
+
+### Nästa steg
+
+1. Fortsätt samma huvudartikel med BOE-kontroll av Spaniens slutliga dekret när texten publiceras.
+2. Håll PR #71 i Draft och invänta separat godkännande av exakt ny head.
+3. Använd först efter godkännandet redaktionens anslutna adminväg; verifiera därefter HTTP-status, rubrik, ingress och fulltext.
+4. Starta inte huvudspår 3 före LIVE-kontrollen.
