@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Daily Desk, 21 november 2026
 
 **Körtid:** 09:17 EET  
-**Leverans:** researchpaket ODJURET UR DJUPET + fem projektrelaterade evidensnoter + fyra separata Hormuz-noter.  
+**Leverans:** [PR #78 – ODJURET UR DJUPET](https://github.com/selotisk-source/Folktribunalen/pull/78), 11 filer, 11 commits, 498 tillägg; fem projektrelaterade evidensnoter och fyra separata Hormuz-noter.  
 **Publiceringsläge:** allt nytt material är Draft.
 
 ## Masterplan och kö
@@ -22,10 +22,11 @@
 3. Synkronicitetsprotokollet.
 4. Sofia – staden under staden.
 5. Strategiska råvaror.
-6. NVIDIA som säkerhet för lån.
-7. Libanons kristna historia / The Great Prison.
-8. Kyrkorna som överlevde imperierna.
-9. Fennoskandien – urberg, skog och häst.
+6. Finans och kapitalmarknader.
+7. NVIDIA som säkerhet för lån.
+8. Libanons kristna historia / The Great Prison.
+9. Kyrkorna som överlevde imperierna.
+10. Fennoskandien – urberg, skog och häst.
 
 ### Serier och separata projekt
 - ODJURET UR DJUPET: Uppenbarelsebokens havsodjur, Storsjöodjuret, Frösöstenen och Peter Thiels föreläsningar.
@@ -72,8 +73,8 @@
 
 ## Tekniska beroenden och blockeringar
 
-- **GitHub:** åtkomst fungerade. Öppna PR:er granskades; inga öppna icke-Draft-PR:er fanns före denna leverans.
-- **Källåtkomst:** offentliga webbkällor gick att läsa. Firecrawl-krediterna var slut, så researchen gjordes via annan offentlig webbsökning. Runor-sidan visar text och metadata men varnar att JavaScript krävs för full funktionalitet. Doktorsavhandlingens PDF är 178 MB; metadata och abstract var åtkomliga, full-PDF:en öppnades inte.
+- **GitHub:** åtkomst fungerade. Efter skapandet av PR #78 fanns 65 öppna PR:er; 0 var icke-Draft. PR #78 är Open/Draft, inte mergad.
+- **Källåtkomst:** offentliga webbkällor gick att läsa. Firecrawl-sökningen returnerade inga användbara resultat i denna körning; källresearchen gjordes via offentlig webbsökning. Runor-sidan visar text och metadata men varnar att JavaScript krävs för full funktionalitet. Doktorsavhandlingens PDF är 178 MB; metadata och abstract var åtkomliga, full-PDF:en öppnades inte.
 - **Hermes:** ingen Hermes-tjänst finns i Railway-projektets tjänsteinventering. Agent-connector/tunnel-inventering kunde inte köras eftersom connector tunnels inte är tillgängliga för kontot. Separat Hermes-installation utanför projektet är därför inte testad.
 - **Railway:** produktionsmiljön har fem tjänster – Cognee Memory, browser-use-runner, browser-chromium, mindcloud-osiris och Osiris-mindcloud-ui. Samtliga rapporteras Offline; två har senaste FAILED-deployment i oktober. Ingen Postgres-tjänst finns i den inventerade miljön och inga väntande deployer finns.
 - **Render:** kontot visar “My Workspace”, men ingen workspace är vald. Ingen databas- eller tjänstekontroll utfördes där, eftersom workspace måste väljas uttryckligen.
