@@ -1,10 +1,10 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 21 november 2026, 02:54 EET – dossieruppdatering inräknad; PR #71 head 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e
+**Version:** 21 november 2026 – direktkontroll av spanska primärkällor och uppdaterad PR #71-head 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
-## Aktuell arbetskontroll – 21 november 2026, 02:45 EET
+## Aktuell arbetskontroll – 21 november 2026 (förmiddagskontroll)
 
 ### Aktiv huvudartikel och godkännandekö
 
@@ -31,6 +31,13 @@
 - **Postgres:** folktribunalen-db, dpg-dblq2fqfngtc73c0h9gg-a, status available, ipAllowList=[]. Read-only SELECT 1 AS connection_test nekades av Render eftersom databasen blockerar alla externa anslutningar när allowlisten är tom; hosted Render MCP har ingen klient-IP att lägga till. Ingen DB-write har gjorts.
 - **Publik route:** curl mot https://folktribunalen.onrender.com/ och hash-routen för europas-ai-infrastruktur misslyckades med DNS-felet Could not resolve host. Webbläsarhämtningen kunde inte nå den statiska webbplatsen eller backendens URL. Ingen HTTP-status, sidrubrik, ingress eller fulltext har erhållits. Ingen LIVE-kontroll är genomförd.
 - **Auto-deployrisk:** båda Render-tjänsterna är kopplade till main med autoDeploy=yes. PR-grenarna ändrar inte main och har inte utlöst någon artikeldeploy.
+
+
+### Källkontroll 21 november – Spanien
+
+MITECO:s officiella pressmeddelande från 20 november och La Moncloas ministerrådsreferens hämtades på nytt 21 november; båda svarade HTTP 200. MITECO bekräftar ministerrådets godkännande av ett Real Decreto för stora datacenters hållbarhet och digital suveränitet. Kraven över 10 MW, 80 procent timvis korrelerad förnybar energi, additionalitet, WUE/PUE och rapportering återges i artikelutkastet med korrekt avgränsning. Krav på data inom EES och kontroll av tredjelandsåtkomst gäller system i den högsta säkerhetskategorin, inte generellt varje privat AI-arbetslast. Den separata nationella elnätsplanen till 2030 är inte datacenterreserverad kapacitet.
+
+Riktad sökning på dekretets titel har ännu inte identifierat den fullständiga BOE-texten. BOE:s befintliga Real Decreto-ley 7/2026 är den tidigare rättsliga grunden, inte själva genomförandedekretet. En direkt dagsarkivadress gav 404 och används inte som bevis för frånvaro av publicering. Rättslig status står därför kvar som ministerrådsgodkänt 20 november; BOE-text och ikraftträdande återstår att fastställa.
 
 ### Återkommande hyllning i varje utgåva
 
