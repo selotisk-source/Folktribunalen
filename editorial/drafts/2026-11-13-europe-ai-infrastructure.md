@@ -262,6 +262,24 @@ Den 19 november publicerade IEA sin *World Energy Outlook 2026*. Rapporten gör 
 
 Som ett branschperspektiv varnade Schneider Electrics digitalchef Peter Weckesser i Reuters den 19 november för att höga europeiska elpriser, otillräckliga nätinvesteringar och splittrad reglering kan bromsa AI-etableringar eller flytta investeringar till andra regioner. Det är en företagsföreträdares bedömning, inte en oberoende mätning av hur mycket investeringar som faktiskt har flyttats.
 
+### Spanien: nya villkor för el, vatten och digital suveränitet
+
+Den 20 november 2026 godkände Spaniens ministerråd ett nytt kungligt dekret om datacenters energimässiga och miljömässiga hållbarhet samt digital motståndskraft och suveränitet. Beslutet är ett tydligt exempel på att konkurrensen om AI-infrastruktur i Europa inte längre bara handlar om att hitta mark och kapital. Den handlar också om vilka villkor ett land ställer för att ge stora anläggningar tillgång till elnätet.
+
+Enligt det spanska miljöministeriets redogörelse ska stora datacenter med mer än 10 MW uppfylla kraven för att få nätåtkomst och anslutningsrätt. Huvudregeln är att 80 procent av elanvändningen ska täckas av förnybar energi med timvis korrelation. Den förnybara produktionen ska vara tillkommen högst 36 månader före datacentrets driftstart, med undantag för bland annat solceller och vissa biomassa- och repoweringprojekt. Självförbrukning, lagring och leveransavtal längre än sex år får räknas in. Ministeriet beskriver också en alternativ väg för anläggningar som deltar i ett system för automatisk effektminskning och därmed kan kopplas bort med prioritet: 60 procent ytterligare förnybar el under höglasttimmar till och med 2028, därefter 70 procent under hög- och mellanlasttimmar under återstoden av en femårsperiod.
+
+Reglerna omfattar även vatten- och energieffektivitet. I väntan på att EU:s märkning och den spanska klimatregionsmetoden börjar tillämpas anger ministeriet övergångsnivåer på WUE högst 0,1 och PUE högst 1,25. Anläggningar över 500 kW ska rapportera effektivitets- och hållbarhetsdata årligen; de över 1 MW ska dessutom redovisa hur de följer den senaste europeiska uppförandekoden för energieffektiva datacenter. Ministeriet beskriver automatiska kompensationsbetalningar vid vissa avvikelser och möjliga sanktioner som kan innebära att nätåtkomst och anslutningsrätt suspenderas i upp till tre år.
+
+Det finns en viktig avgränsning i suveränitetsdelen. Kraven på att känsliga data ska stanna inom Europeiska ekonomiska samarbetsområdet, att nödvändiga personer och resurser ska finnas i EU/EES och att åtkomst från tredje land ska kontrolleras gäller system i den högsta säkerhetskategorin i den spanska nationella säkerhetsordningen. Enligt regeringens redogörelse gäller dessa krav oavsett datacentrets storlek, eftersom de knyts till de offentliga systemens kritikalitet – inte till anläggningens megawatt-tal. Det är alltså inte ett generellt förbud mot all tredjelandsåtkomst till varje privat AI-arbetslast.
+
+**Rättslig status den 21 november:** ministerrådet har godkänt dekretet den 20 november. Jag har inte funnit den fullständiga dekretstexten publicerad i BOE vid kontrollen den 21 november och kan därför inte fastställa dess publiceringsdatum eller ikraftträdande. Real Decreto-ley 7/2026 innehåller den tidigare bemyndigandegrunden och anger att kraven ska börja tillämpas på datacenter som ansluts efter att det kommande dekretet trätt i kraft. Beslutet ska därför beskrivas som ministerrådsgodkänt, inte som en redan ikraftträdd regel, tills BOE-texten och dess slutbestämmelser har kontrollerats.
+
+Samma dag godkände regeringen också en bindande elnätsplan med horisont 2030 och investeringar på mer än 17 miljarder euro. La Moncloa anger att planen ska möjliggöra 47 GW ny efterfrågan, omfatta 193 nya transformatorstationsparker och 6 707 kilometer nya ledningar samt öka kapaciteten i ytterligare 8 164 befintliga ledningar. Det är en nationell plan för elektrifiering och ny efterfrågan i flera sektorer, inte en reserverad datacenterbudget eller ett löfte om anslutning till enskilda AI-campus.
+
+Regeringen hävdar att dekretet kan undvika omkring fem miljarder euro i årliga elkostnader för konsumenterna; det är ministeriets och energiministerns scenario, inte en oberoende uppmätt besparing. Reuters rapporterar samtidigt att oppositionspartiet PP lovat att riva upp reglerna om det vinner valet den 29 november, att branschorganisationen Spain DC varnar för miljardinvesteringar och att två utvecklare överväger Frankrike eller Portugal för projekt som kan bli olönsamma under de nya energikraven. AWS och Microsoft uppgav däremot att deras regionala planer låg fast. Det är partspositioner och bolagsbesked, inte bevis för att investeringar redan har flyttats.
+
+Spanien blir därmed ett konkret test av den europeiska avvägningen mellan snabb kapacitetsutbyggnad, förnybar el, vattenanvändning, nätkostnader och kontroll över kritiska offentliga data. Men den slutliga effekten beror på den publicerade rättsakten, dess övergångsregler, hur kraven kontrolleras i drift och om den nya nätplanen faktiskt skapar anslutningskapacitet där projekten behöver den.
+
 ## 9. Nscale: kontrakt är inte samma sak som levererad kapacitet
 
 Nscale visar hur ett europeiskt bolags datacenterplaner kan vara beroende av både nätanslutning och finansiering över flera jurisdiktioner. I en ändring av bolagets amerikanska börsregistrering, inlämnad till SEC den 12 november 2026, redovisar Nscale plc flera villkorade kundåtaganden och betydande kapitalbehov. Dokumentet är bolagets eget preliminära prospektunderlag, inte en oberoende revision och inte bevis för att en planerad anläggning är i drift.
@@ -510,6 +528,15 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 38. **OVHcloud – OVH takes the AI turn at full speed**, 19 november 2026. Bolagets uppgifter om 55 nya produkter och kapacitet för upp till 60 000 B300- eller 35 000 R200-GPU:er:  
     https://corporate.ovhcloud.com/en/newsroom/news/ovh-ai-turn-55-products/
+39. **Spaniens Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO) – godkännande av datacenterdekretet**, 20 november 2026. Ministeriets redogörelse för tröskeln över 10 MW, 80 procents timvis förnybar el, additionalitet, vatten- och energieffektivitet, rapportering, kompensationer och digital suveränitet:  
+    https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/noviembre/el-gobierno-aprueba-el-real-decreto-para-la-sostenibilidad-energ.html
+
+40. **La Moncloa – ministerrådets referens 20 november 2026**, avsnitten om datacenterdekretet och den bindande elnätsplanen till 2030. Används för ministerrådets godkännande, suveränitetskravens avgränsning och planens nationella nätinvesteringar:  
+    https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20261120-referencia-rueda-de-consejo-ministros-ext.aspx
+
+41. **BOE – Real Decreto-ley 7/2026**, 20 mars 2026, särskilt tilläggsbestämmelse 1. Den anger den rättsliga grunden för ett kommande kungligt dekret och att kraven ska gälla för datacenter som ansluts efter att det utvecklande dekretet trätt i kraft:  
+    https://www.boe.es/eli/es/rdl/2026/03/20/7/con
+
 ## Oberoende rapportering och kompletterande källor
 
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
@@ -574,3 +601,9 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 20. **Reuters – Schneider Electric warns high power costs could push AI investment out of Europe**, 19 november 2026. Återger en branschföreträdares bedömning om elpriser, nätinvesteringar och reglering; använd som parts-/branschperspektiv, inte som självständig prognos:  
     https://www.reuters.com/business/energy/schneider-electric-warns-high-power-costs-could-push-ai-investment-out-europe-2026-11-19/
+
+21. **Reuters – Spain's burgeoning data centres become election issue with new rules**, 20 november 2026. Oberoende rapportering om oppositionspartiets återkallelsehot, branschens invändningar och utvecklarnas syn på investeringsvillkoren:  
+    https://www.reuters.com/business/environment/spain-sets-green-standards-data-centres-despite-industry-criticism-2026-11-20/
+
+22. **El País – El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica a una semana de las elecciones**, 20 november 2026. Kompletterande rapportering om den politiska processen och invändningarna under beredningen:  
+    https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html
