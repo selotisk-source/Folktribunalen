@@ -1,6 +1,6 @@
 # Redaktionellt dossier – Europas AI-infrastruktur
 
-**Senast uppdaterat:** 20 november 2026 – IEA WEO 2026, ECB Financial Stability Review och OVHcloud tillförda; faktaläget utökat  
+**Senast uppdaterat:** 21 november 2026 – direktkontroll av MITECO och La Moncloa; rättslig status för Spaniens datacenterdekret preciserad  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
 **Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
@@ -247,3 +247,32 @@ La Moncloa anger att regeringen den 20 november också godkände en bindande tra
 - El País rapporterar att Spain DC aviserat en domstolsutmaning och begäran om interimistisk suspension. Det är en aviserad rättslig åtgärd; någon inlämnad ansökan eller domstolsprövning har inte kontrollerats.
 - Spain DC uppger att 66,9 miljarder euro i potentiella investeringar till 2030 riskeras och att datacenter står för 0,8 procent av Spaniens elanvändning. Detta är branschorganisationens egna siffror och argument, inte oberoende reviderade mått.
 - El País-artikeln ger inte stöd för uppgiften om över 600 samrådsinvändningar. Den formuleringen har därför tagits bort ur dossieret.
+
+
+## Kontrollrunda 21 november 2026 – direktkontroll av spanska primärkällor
+
+### MITECO – ministeriets fullständiga pressmeddelande
+
+- Sidan publicerad 20 november 2026 hämtades på nytt 21 november via livehämtning och svarade med HTTP 200.
+- MITECO anger att ministerrådet godkänt ett **Real Decreto** med krav på energimässig och miljömässig hållbarhet samt digital resiliens och suveränitet för datacenter. Det är ett kungligt dekret, inte ett *Real Decreto-ley*.
+- Kraven på tillgång och anslutning gäller stora datacenter över 10 MW. Ministeriet anger 80 procent förnybar energi med timvis korrelation tills förnybart överstiger 90 procent av den nationella elmixen, med additionalitetsregler och särskilda undantag.
+- För system i den högsta kategorin (ALTA) i Spaniens Esquema Nacional de Seguridad anges krav på att känsliga data stannar inom EES, att nödvändiga resurser finns i EU/EES och att tredjelandsåtkomst kontrolleras. Detta är inte ett generellt datalokaliseringskrav för alla privata AI-arbetslaster.
+- MITECO anger övergångsnivåer WUE ≤0,1 och PUE ≤1,25, årlig rapportering för anläggningar över 500 kW samt ytterligare uppgifter för anläggningar över 1 MW.
+- Ministeriets uppskattning om 5 miljarder euro i utebliven elkostnad och 25 procent högre industriella elräkningar utan reglerna är en regeringsprognos, inte ett uppmätt utfall.
+
+Primärkälla: https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/noviembre/el-gobierno-aprueba-el-real-decreto-para-la-sostenibilidad-energ.html
+
+### La Moncloa – ministerrådets referens
+
+- Den officiella referenssidan daterad 20 november hämtades på nytt 21 november och svarade med HTTP 200.
+- Den listar separat godkännandet av datacenterdekretet och den nationella transportnätsplanen till 2030. Planens nationella investeringar och efterfrågekapacitet får inte beskrivas som datacenterreserverad kapacitet.
+
+Primärkälla: https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20261120-referencia-rueda-de-consejo-ministros-ext.aspx
+
+### BOE – avgränsning av kontrollresultatet
+
+- En riktad sökning på dekretets titel och datacenterkraven identifierade fortfarande Real Decreto-ley 7/2026, som är den tidigare rättsliga grunden, men ingen separat fullständig BOE-text för det nya genomförande-Real Decreto.
+- En direkt gissad dagsarkivadress för 21 november returnerade HTTP 404. Den adressen är inte tillräcklig för att dra slutsatsen att ingen BOE-publicering finns.
+- Rättslig status i artikeln ska därför fortsatt anges som **ministerrådsgodkänt 20 november; fullständig BOE-text och ikraftträdande inte fastställda i denna kontroll**. Ändra inte till “gällande rätt” innan den officiella författningstexten och dess ikraftträdandebestämmelse har hämtats.
+
+Öppna frågor: identifiera BOE-postens officiella dokumentnummer och fulltext; kontrollera slutliga övergångsregler, beräkningsmetod för timvis korrelation/additionalitet, undantag och sanktionernas ikraftträdande.
