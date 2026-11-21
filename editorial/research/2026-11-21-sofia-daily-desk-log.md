@@ -22,9 +22,9 @@
 ## Portföljstatus efter dagens leverans
 
 - **Avancerat:** Sofia – staden under staden.
-- **Nästa sidospår i rotation:** Varna/Svarta havet, med BETUL 8 och regional sjöfart som separata evidenslinjer. BETUL 8 får inte blandas ihop med Hormuz eller Sulina-händelser.
+- **Nästa sidospår i rotation:** ODJURET UR DJUPET (PR #28), senast dokumenterat uppdaterat 12 november. Sofia och ODJURET var de äldsta jämförda spåren med samma senaste datum; efter dagens Sofia-leverans går ODJURET först. Varna/Svarta havet följer därefter, med BETUL 8 och regional sjöfart som separata evidenslinjer. BETUL 8 får inte blandas ihop med Hormuz eller Sulina-händelser.
 - **Huvudartikelkön:** PR #71 → PR #38, oförändrad.
-- **Hormuz:** ingen ny huvudartikel eller omprioritering. Endast supplemental bevakning i den befintliga separata strömmen; dagens Sofia-leverans bygger inte på Hormuz.
+- **Hormuz:** en ny, separat supplemental evidence note har lagts till i PR #75 om den utgående tankern norr om Khasab den 20 november. Reuters/UKMTO:s okända projektilbeskrivning hålls åtskild från IRGC:s minepåstående och från incidenterna 16–18 november. Ingen ny huvudartikel eller omprioritering; Sofia var dagens icke-Hormuz-leverans.
 
 ## PR-spärr
 
