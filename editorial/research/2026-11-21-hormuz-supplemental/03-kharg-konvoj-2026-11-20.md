@@ -9,7 +9,7 @@ Euronews rapporterade den 20 november att fler än 14 tankfartyg hade tilldelats
 
 Euronews beskrev terminalen som central för Irans råoljeexport. Artikeln rapporterade förberedelser och avsikt – inte att konvojen faktiskt hade lämnat hamnen eller brutit igenom blockaden.
 
-Al Jazeera rapporterade samma dag att en artikel i den halv-officiella Fars News Agency hade föreslagit att en grupp tankfartyg skulle skickas genom blockaden. Al Jazeera varnar uttryckligen för att Fars-kommentaren inte ska förväxlas med en auktoriserad operativ plan.
+Al Jazeera rapporterade samma dag att en artikel i den halv-officiella Fars News Agency hade föreslagit att en grupp tankfartyg skulle skickas genom blockaden. Al Jazeera varnar uttryckligen för att Fars-kommentaren inte ska förväxlas med en auktoriserad operativ plan. Den separata STS-lastningen som Reuters rapporterade den 19 november och som redan är noterad i PR #75 dupliceras inte här.
 
 ## Faktastatus
 
