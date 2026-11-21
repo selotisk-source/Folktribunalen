@@ -1,7 +1,7 @@
 # FOLKTRIBUNALEN – Daily Desk, 21 november 2026
 
 **Körtid:** 09:17 EET  
-**Leverans:** [PR #78 – ODJURET UR DJUPET](https://github.com/selotisk-source/Folktribunalen/pull/78), 11 filer, 499 tillägg; fem projektrelaterade evidensnoter och fyra separata Hormuz-noter.  
+**Leverans:** [PR #78 – ODJURET UR DJUPET](https://github.com/selotisk-source/Folktribunalen/pull/78), 17 filer; fem projektrelaterade evidensnoter och tio separata Hormuz-noter.  
 **Publiceringsläge:** allt nytt material är Draft.
 
 ## Masterplan och kö
@@ -58,11 +58,23 @@
 - Thiel: källhierarki till befintligt PR #28; ingen omskrivning.
 
 ### Hormuz – endast supplement
-- 20 nov: tankerbrand efter okänt projektilföremål norr om Khasab; IRGC:s minuppgift är ett partsuttalande.
-- 18/20 nov: CENTCOM:s varning om ship-to-ship-överföringar.
-- 20 nov: uppgifter om en möjlig tanker-konvoj från Kharg Island; avgång eller passage är inte belagd.
-- 21 nov: AP om Lewis Pughs simning och miljörisk; observationer och riskbedömning är inte oberoende utsläppsmätningar.
+JMIC Update 115 (19 november) anger regional hotnivå **SEVERE** för Hormuzsundet och redovisar fyra attacker i perioden 15–18 november. Samma dokument säger att iranska påståenden om minträffar inte har bekräftats av officiella eller nationella myndigheter. [JMIC Update 115](https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_115_19-nov.pdf).
 
+Tio nya, separata evidensnoter i PR #78:
+1. TARA GAS, UKMTO 208-26, 16–17 nov: två attacker, brand, övergivande, en saknad och två skadade enligt myndighetsuppgifter.
+2. DAR SALWA, UKMTO 209-26, händelse 13 nov: okänt projektilföremål i Arabiska gulfen; besättningen rapporterad säker.
+3. ON PHOENIX, UKMTO 207-26, 16 nov: projektilträff och maskinrumsbrand; inga besättningsskador rapporterade.
+4. NAVIG8 MESSI, UKMTO 211-26, 17 nov: en saknad, elva skadade och bogsering till hamn enligt JMIC/ADNOC-uppgifter.
+5. Namnlös tanker, UKMTO 212-26, 18 nov: projektilträff norr om Khasab; besättningen rapporterad säker.
+6. OLYM → HAO FAN, 17 nov: UANI:s uppgift om cirka 200 000 fat i STS-överföring söder om Kharg.
+7. Två STS-överföringar, 18 nov: UANI:s satellitbildsbaserade uppgift; fartygsidentiteter saknas.
+8. CENTCOM:s rådgivning om STS-last från iranska hamnar/kust, rapporterad 18–20 nov.
+9. Kharg Island-konvoj: fler än 14 tankfartyg uppges förberedas; avgång eller passage är inte belagd.
+10. Lewis Pughs simning och miljörisk, AP 21 nov: vittnesuppgifter och riskbedömning, inte oberoende utsläppsmätningar.
+
+**Deduplicering mot PR #75:** 20 nov-händelsen med namnlös utgående tanker norr om Khasab, IRGC:s påstående om två tankfartyg den 19 nov, Reuters-noten om anonym STS-lastning den 19 nov och trafikmätningarna ligger kvar i PR #75 och har inte kopierats. Den tidigare Khasab-noten har därför tagits bort från PR #78.
+
+Ingen av Hormuz-noterna har öppnat en huvudartikel eller ändrat den godkända artikelordningen.
 ## PR-spärr
 
 - Ny PR skapas som Draft.
