@@ -392,7 +392,7 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 ---
 
-## Faktaruta: Europas projekt och kapacitet
+## Faktaruta: Europas projekt, kapacitet och nya villkor
 
 | Projekt / plats | Offentliggjord siffra | Vad siffran betyder | Status enligt kontrollerat underlag |
 |---|---:|---|---|
@@ -407,6 +407,7 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 | EdgeConneX / Skellefteå | Upp till 1 GW | Potentiell framtida campuskapacitet enligt utvecklaren | Plan/utveckling; inte installerad eller ansluten effekt |
 | Sverige / EuroHPC | Upp till 50 miljoner euro | Riksdagens bemyndigande till statliga åtaganden för beräkningskraft under fem år | Offentligt åtagande till gemensam upphandling; inte byggbudget eller garanti för en svensk anläggning |
 | Uniper / flera europeiska platser | Cirka 700 MW | Bolagets uppgift om säkrad nätkapacitet för datacenterprojekt i avancerad utvecklingsfas | Bolagsuppgift; inte driftsatt effekt eller bekräftade kundavtal |
+| Spanien / datacenterdekret | Över 10 MW; 80 % | Tröskel för nätåtkomst och krav på timvis korrelerad förnybar elanvändning | Ministerrådet godkände 20 november; BOE-publicering och ikraftträdande inte fastställda 21 november |
 
 **Viktig måttregel:** siffrorna ovan avser olika saker. De ska inte summeras till en totalsiffra för Europas byggda eller driftsatta AI-kapacitet.
 
