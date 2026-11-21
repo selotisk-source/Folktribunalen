@@ -15,7 +15,7 @@ Sanna Händén-Svenssons doktorsavhandling från Lunds universitet (2024) behand
 
 Tre uppgifter måste hållas isär:
 
-1. **1635:** En artikel i Scandia, nr 6 (2023), anger att Storsjöodjuret förekommer i ett manuskript daterat 1635 och tillskrivet prästen Mogens Pedersen Herdal. Artikeln återger berättelsen om Jata och Kata och ett djur som uppges ha uppstått ur en gryta. Den primära manuskriptbilden eller arkivsignaturen har inte kontrollerats i denna körning.
+1. **1635:** En artikel i Scandia, nr 6 (2023), anger att Storsjöodjuret förekommer i ett manuskript daterat 1635 och tillskrivet prästen Mogens Pedersen Herdal. Artikeln återger berättelsen om Jata och Kata och ett djur som uppges ha uppstått ur en gryta. Den primära manuskriptbilden eller arkivsignaturen har inte kontrollerats i denna körning. Scandia-artikelns fotnot anger att Mogens Pedersen Herdal var kyrkoherde i Sunne 1636–1666; det uppgivna manuskriptdatumet 1635 föregår alltså den angivna tjänsteperioden. Det är inte omöjligt att han skrev texten före tillträdet, men attributionen och dateringen behöver styrkas separat. Fotnoten hänvisar till en genealogisk webbsida för tjänsteuppgiften, inte till en primär arkivpost.
 2. **1643:** Lunds universitets institutionsnyhet om avhandlingen, publicerad 26 september 2024, skriver att Storsjöodjuret omnämndes första gången 1643.
 3. **1643 – runstenen:** Riksantikvarieämbetet anger separat att Frösöstenen avbildades i en bok om runstenar 1643. Det är en datering av en avbildning av stenen, inte i sig ett belägg för att sjöodjursberättelsen började samma år.
 
