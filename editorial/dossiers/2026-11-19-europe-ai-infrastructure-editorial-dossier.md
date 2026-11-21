@@ -206,7 +206,7 @@ La Moncloa anger att regeringen den 20 november också godkände en bindande tra
 ### Oberoende rapportering och partspositioner
 
 - Reuters, 20 november 2026: https://www.reuters.com/business/environment/spain-sets-green-standards-data-centres-despite-industry-criticism-2026-11-20/ . PP lovar att riva upp reglerna om partiet vinner valet 29 november; Spain DC säger att reglerna hotar miljardinvesteringar; två utvecklare uppger att vissa projekt kan bli olönsamma och att de överväger Frankrike eller Portugal. AWS och Microsoft säger att deras planer ligger fast. Dessa är politiska, bransch- och bolagspositioner, inte bevis för att kapital redan flyttats.
-- El País, 20 november 2026: https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html . Kompletterande rapportering om de över 600 invändningar som lämnats under samråd och sektorns kritik mot villkoren.
+- El País, 20 november 2026: https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html . Rapportering om ministeruppgiften 15 GW i beviljade nätåtkomsttillstånd och 20 GW i kö, samt Spain DC:s aviserade domstolsutmaning och branschens egna uppskattning om 66,9 miljarder euro i potentiella investeringar till 2030. Dessa är attribuerade minister- respektive branschuppgifter, inte oberoende verifierade systemdata.
 - MITECO-ministerns påstående om att reglerna undviker fem miljarder euro i årliga elkostnader och 25 procent högre industriella elräkningar är en regeringsprognos; den ska inte återges som uppmätt besparing.
 
 ### Faktastatus och öppna frågor
@@ -239,3 +239,11 @@ La Moncloa anger att regeringen den 20 november också godkände en bindande tra
 2. Håll PR #71 i Draft och invänta separat godkännande av exakt ny head.
 3. Använd först efter godkännandet redaktionens anslutna adminväg; verifiera därefter HTTP-status, rubrik, ingress och fulltext.
 4. Starta inte huvudspår 3 före LIVE-kontrollen.
+
+
+### Preciserad oberoende rapportering – El País 20 november
+
+- El País återger energiministerns uppgift om 15 GW datacenterprojekt med nätåtkomsttillstånd: 6 GW i transmissionsnätet och 9 GW i distributionsnätet, samt ytterligare 20 GW i kö. Detta är regeringens uppgift enligt tidningens rapportering; det har inte stämts av mot systemoperatörens register i denna kontroll. Måtten avser tillstånd/kö, inte drift.
+- El País rapporterar att Spain DC aviserat en domstolsutmaning och begäran om interimistisk suspension. Det är en aviserad rättslig åtgärd; någon inlämnad ansökan eller domstolsprövning har inte kontrollerats.
+- Spain DC uppger att 66,9 miljarder euro i potentiella investeringar till 2030 riskeras och att datacenter står för 0,8 procent av Spaniens elanvändning. Detta är branschorganisationens egna siffror och argument, inte oberoende reviderade mått.
+- El País-artikeln ger inte stöd för uppgiften om över 600 samrådsinvändningar. Den formuleringen har därför tagits bort ur dossieret.
