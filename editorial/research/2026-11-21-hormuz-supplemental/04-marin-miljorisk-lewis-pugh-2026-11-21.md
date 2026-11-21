@@ -7,7 +7,7 @@
 
 Associated Press rapporterade den 21 november om den brittiske långdistanssimmaren Lewis Pugh, FN:s beskyddare för haven, som genomförde en simning på sammanlagt cirka 15 kilometer i delar av Hormuzsundet under tre dagar. Han beskrev explosioner och fartygsbränder i närheten och varnade för långvariga följder om olja eller kemikalier läcker från skadade tankfartyg.
 
-AP återger Pughs observationer och hans miljöbedömning. Artikeln innehåller inte en oberoende provtagning av vatten, sediment eller biologiska effekter i sundet.
+AP återger Pughs observationer och hans miljöbedömning. Artikeln innehåller inte en oberoende provtagning av vatten, sediment eller biologiska effekter i sundet. Pugh namnger inte de fartyg han såg; observationerna får därför inte räknas som ytterligare incidenter utöver UKMTO/JMIC-poster utan separat matchning.
 
 ## Faktastatus
 
