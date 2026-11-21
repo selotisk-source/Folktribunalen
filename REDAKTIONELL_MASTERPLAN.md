@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 21 november 2026 – direktkontroll av spanska primärkällor och uppdaterad PR #71-head 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e
+**Version:** 21 november 2026 – direktkontroll av spanska primärkällor och uppdaterad PR #71-head 95e7584ab81b7d94b8b5493b6e89ae7faa024b79
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
@@ -8,7 +8,7 @@
 
 ### Aktiv huvudartikel och godkännandekö
 
-- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är Open/Draft på grenen editorial/europe-ai-infrastructure-review-2026-11-17. Aktuell head efter faktaruteuppdateringen: 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e. Två filer: komplett artikelutkast och separat internt dossier. Artikeln har nu en faktakontrollerad del om Spaniens datacenterdekret och den nationella elnätsplanen till 2030.
+- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är Open/Draft på grenen editorial/europe-ai-infrastructure-review-2026-11-17. Aktuell head efter faktaruteuppdateringen: 95e7584ab81b7d94b8b5493b6e89ae7faa024b79. Två filer: komplett artikelutkast och separat internt dossier. Artikeln har nu en faktakontrollerad del om Spaniens datacenterdekret och den nationella elnätsplanen till 2030.
 - **Godkännande:** ingen separat chefredaktörsapproval för exakt aktuell head har identifierats. PR #64:s godkännande 15 november gäller endast den tidigare basversionen. PR #71 har 0 review submissions och 0 inline review threads; den enda issue-kommentaren är en äldre faktakontroll från 17 november och är inte ett godkännande.
 - **Rättslig status Spanien:** ministerrådet godkände datacenterdekretet 20 november. Den fullständiga författningstexten har inte identifierats i BOE vid kontrollen 21 november; publicering och ikraftträdande är därför inte fastställda. Artikeln beskriver det som ministerrådsgodkänt, inte som redan gällande rätt.
 - **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått via ansluten adminväg och klarat faktisk LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
@@ -18,7 +18,7 @@
 ### PR-spärr – aktuell kontroll
 
 - GitHub API returnerade 63 öppna PR:er i repot. Samtliga 63 har draft=true; ingen öppen PR behöver återställas från Ready for review.
-- PR #71 är Open/Draft och väntar på godkännande av exakt head 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e.
+- PR #71 är Open/Draft och väntar på godkännande av exakt head 95e7584ab81b7d94b8b5493b6e89ae7faa024b79.
 - PR #73 är en separat dokumentations- och hyllningsmodul-PR, Open/Draft. Denna masterplanuppdatering ligger kvar på dess dokumentationsgren.
 - Ingen merge, cherry-pick till main, databasändring, frontendändring, publicering eller manuell deploy har gjorts.
 
