@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 21 november 2026, 02:52 EET – PR #71 faktaruta uppdaterad; aktuell head 445fe6373368ad47ac13bb5aafde994c903cbc35
+**Version:** 21 november 2026, 02:52 EET – PR #71 Spanienuppgifter preciserade; aktuell head 7e0f38527f72e900ca59f7817e54258ab197a6d7
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
@@ -8,7 +8,7 @@
 
 ### Aktiv huvudartikel och godkännandekö
 
-- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är Open/Draft på grenen editorial/europe-ai-infrastructure-review-2026-11-17. Aktuell head efter faktaruteuppdateringen: 445fe6373368ad47ac13bb5aafde994c903cbc35. Två filer: komplett artikelutkast och separat internt dossier. Artikeln har nu en faktakontrollerad del om Spaniens datacenterdekret och den nationella elnätsplanen till 2030.
+- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är Open/Draft på grenen editorial/europe-ai-infrastructure-review-2026-11-17. Aktuell head efter faktaruteuppdateringen: 7e0f38527f72e900ca59f7817e54258ab197a6d7. Två filer: komplett artikelutkast och separat internt dossier. Artikeln har nu en faktakontrollerad del om Spaniens datacenterdekret och den nationella elnätsplanen till 2030.
 - **Godkännande:** ingen separat chefredaktörsapproval för exakt aktuell head har identifierats. PR #64:s godkännande 15 november gäller endast den tidigare basversionen. PR #71 har 0 review submissions och 0 inline review threads; den enda issue-kommentaren är en äldre faktakontroll från 17 november och är inte ett godkännande.
 - **Rättslig status Spanien:** ministerrådet godkände datacenterdekretet 20 november. Den fullständiga författningstexten har inte identifierats i BOE vid kontrollen 21 november; publicering och ikraftträdande är därför inte fastställda. Artikeln beskriver det som ministerrådsgodkänt, inte som redan gällande rätt.
 - **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått via ansluten adminväg och klarat faktisk LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
@@ -18,7 +18,7 @@
 ### PR-spärr – aktuell kontroll
 
 - GitHub API returnerade 63 öppna PR:er i repot. Samtliga 63 har draft=true; ingen öppen PR behöver återställas från Ready for review.
-- PR #71 är Open/Draft och väntar på godkännande av exakt head 445fe6373368ad47ac13bb5aafde994c903cbc35.
+- PR #71 är Open/Draft och väntar på godkännande av exakt head 7e0f38527f72e900ca59f7817e54258ab197a6d7.
 - PR #73 är en separat dokumentations- och hyllningsmodul-PR, Open/Draft. Denna masterplanuppdatering ligger kvar på dess dokumentationsgren.
 - Ingen merge, cherry-pick till main, databasändring, frontendändring, publicering eller manuell deploy har gjorts.
 
@@ -42,7 +42,7 @@ PR #73 innehåller editorial/portfolio/recurring-tributes.md med Johannes Gutenb
 | Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status / senaste kontroll |
 |---|---|---|---|---|
 | 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE.** PR #55 mergad; publik route HTTP 200 kontrollerad 13 nov. Daterat NHS-tillägg från 12 nov förbereds separat efter avslutad spår-2-cykel. |
-| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell commit `445fe6373368ad47ac13bb5aafde994c903cbc35` (17 commits före main, 0 bakom).** Komplett artikel och internt dossier faktakontrollerade 21 nov, inklusive Spanien. Separat chefredaktörsgodkännande krävs för exakt commit. Ingen LIVE-kontroll; route-mismatch och databasblockering kvarstår. |
+| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell commit `7e0f38527f72e900ca59f7817e54258ab197a6d7` (18 commits före main, 0 bakom).** Komplett artikel och internt dossier faktakontrollerade 21 nov, inklusive Spanien. Separat chefredaktörsgodkännande krävs för exakt commit. Ingen LIVE-kontroll; route-mismatch och databasblockering kvarstår. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | PR #38 öppen Draft. Komplett första granskningsutkast; kräver reproducerbara observationer, alternativa hypoteser, felkällor och tydlig gräns mellan sammanträffande och kausalitet. Nästa huvudartikel först efter spår 2:s LIVE-kontroll. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 öppen Draft och delutkast. Huvudartikeln behöver musei-/utställningsmaterial och byggnadsarkeologi. Samuils gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | PR #34 och #51 öppna Draft; PR #65 om Kazakstans tungstenprojekt öppet Draft. Skilj CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
@@ -482,4 +482,11 @@ Tre parallella researchbankar har nu påbörjats utan att öppna en andra aktiv 
 
 ## Uppföljning – 21 november 2026, 02:52 EET
 
-PR #71:s faktaruta kompletterades med Spanien: tröskeln över 10 MW, 80 procents timvis korrelerad förnybar el och uttrycklig not om att ministerrådets godkännande 20 november ännu inte har kunnat knytas till en publicerad BOE-text eller ikraftträdandedag. Aktuell PR-head är 445fe6373368ad47ac13bb5aafde994c903cbc35; 17 commits före main, 0 bakom, 2 filer. PR #71 förblir Open/Draft.
+PR #71:s faktaruta kompletterades med Spanien: tröskeln över 10 MW, 80 procents timvis korrelerad förnybar el och uttrycklig not om att ministerrådets godkännande 20 november ännu inte har kunnat knytas till en publicerad BOE-text eller ikraftträdandedag. Aktuell PR-head är 7e0f38527f72e900ca59f7817e54258ab197a6d7; 17 commits före main, 0 bakom, 2 filer. PR #71 förblir Open/Draft.
+
+
+## Uppföljning – Spanien, 21 november 2026
+
+El País 20 november har kontrollerats i fulltext. Artikelutkastet och dossieret har preciserats: energiministerns uppgift är 15 GW datacenterprojekt med beviljade nätåtkomsttillstånd (6 GW transmissionsnät, 9 GW distributionsnät) och 20 GW i kö. Spain DC:s uppgifter om 66,9 miljarder euro i potentiella investeringar till 2030 och 0,8 procent av elförbrukningen är märkta som branschens egna uppskattningar. Spain DC:s aviserade domstolsutmaning och begäran om interimistisk suspension återges som avsikt, inte som verifierat inlämnat mål. Uppgiften om över 600 samrådsinvändningar har tagits bort ur dossieret eftersom den inte stöds av den kontrollerade El País-artikeln.
+
+PR #71:s nya head är 7e0f38527f72e900ca59f7817e54258ab197a6d7; 18 commits före main, 0 bakom, 2 ändrade filer. PR #71 förblir Open/Draft.
