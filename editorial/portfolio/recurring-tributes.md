@@ -97,3 +97,19 @@ National Museum Vasil Levski i Karlovo anger att färre än 200 dokumentära enh
 - Vasil Levski, National Museum: https://vlevskimuseum-bg.org/en/documentary-heritage/
 - Vasil Levski, National Library: https://www.nationallibrary.bg/levski/
 
+
+
+## Färdigt återkommande utgåveblock – samtliga sex
+
+Följande kortform är avsedd att läggas in i varje utgåva. Den ska behålla källhänvisningarna i samma nummer; den längre dokumentationen ovan styr om en notis behöver fördjupas.
+
+- **Johannes Gutenberg – tryckkonstens spridning.** Gutenbergs europeiska utveckling av tryck med rörliga metalltyper bidrog till att göra böcker och idéer möjliga att mångfaldiga i en ny skala. Hyllningen gäller tryckkonstens historiska betydelse, inte ett påstående om att Gutenberg uppfann tryck i hela världen. Källa: https://www.gutenberg-stiftung.de/gutenberg-museum
+- **Carl von Linné – att beskriva naturen.** Linnés Systema Naturae från 1735 och hans arbete med binär artnamngivning blev viktiga delar av den moderna naturhistoriens språk. Hans gärning ska förstås i 1700-talets vetenskapliga sammanhang. Källa: https://www.uu.se/en/about-uu/history/prominent-people/carl-linnaeus
+- **Voltaire – den prövande pennan.** Voltaires författarskap och den kritiska utgivningen av hans verk ger en ingång till upplysningstidens offentliga kritik, idéstrider och intellektuella frihet. Undvik att tillskriva honom moderna slagord utan originalkälla. Källa: https://www.voltaire.ox.ac.uk/who-we-are/
+- **Sankta Paraskevi/Petka av Epivatos – den levande ortodoxa traditionen.** I bulgarisk-ortodox tradition vördas hon som Petka/Petka Tarnovska. Hennes livsberättelse återges som hagiografisk tradition och ska inte blandas ihop med andra helgon som bär namnet Paraskevi. Källa: https://bg-patriarshia.bg/sv-petka
+- **Sankt Charbel – bön och monastiskt liv.** Charbel Makhlouf (1828–1898), maronitisk munk och eremit från Libanon, är en central gestalt i den maronitiska kyrkans fromhetstradition. Berättelser om helanden ska tillskrivas kyrklig tradition eller de personer som berättar dem. Källa: https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-saint-charbel-monastery-annaya.html
+- **Vasil Levski – dokumenterat frihetsarbete.** Vasil Levski (Васил Левски; Vasil Ivanov Kunchev, 1837–1873) är i Bulgariens nationella minne känd som ”Aposteln för friheten”. Nationalmuseet redovisar färre än 200 bevarade dokumentenheter och omkring 100 handskrivna brev; nationalbibliotekets digitala utgåva gör hans anteckningsbok tillgänglig. Inga citat tillskrivs honom utan kontroll mot original eller kontrollerad transkription. Källor som ska finnas med i varje utgåva:
+  - National Museum Vasil Levski – Documentary Heritage: https://vlevskimuseum-bg.org/en/documentary-heritage/
+  - National Library of Bulgaria – Levski's Notebook: https://www.nationallibrary.bg/levski/
+
+**Utgåvekontroll:** alla sex namn ska finnas i varje nummer. Samtliga källor ovan ska följa med i samma nummer. Hyllning och redaktionell tolkning ska hållas åtskilda från arkivbelagda uppgifter och kyrklig tradition. Inga bildrättigheter följer automatiskt av att en källa är länkad.
