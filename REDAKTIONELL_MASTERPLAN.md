@@ -23,7 +23,7 @@ Följande öppna PR:er är research-/dokumentationsmaterial, inte aktiva huvudar
 
 ### Nyhetsbevakning – 22 november 2026 (PR #79)
 
-Fyra separata, provenance-länkade evidensnoter har lagts i [PR #79 – Nyhetsbevakning 22 november](https://github.com/selotisk-source/Folktribunalen/pull/79). Aktuell PR-head: `53bacdafed4d35c16036276048bec1f52ac97d88` (5 commits, 4 filer). De är researchmaterial, inte nya huvudartiklar.
+Fyra separata, provenance-länkade evidensnoter har lagts i [PR #79 – Nyhetsbevakning 22 november](https://github.com/selotisk-source/Folktribunalen/pull/79). Aktuell PR-head: `b95a754e40ddc844eb1f441109f72bc51a4e18e3` (7 commits, 4 filer). De är researchmaterial, inte nya huvudartiklar.
 
 - **Hormuz:** UKMTO 214-26 den 20 november och 215-26/216-26 den 21 november gäller tre rapporterade träffar nära Khasab. Reuters säger att det är oklart om 215 och 216 avser samma tanker. Fartygen är inte namngivna; Irans minuppgift hålls som obekräftad partsuppgift.
 - **USA:s kongress:** Mary Peltolas seger ger Demokraterna en inkommande senatsmajoritet på 56–44 och partiet har återtagit representanthuset. Detta gäller 120:e kongressen från 3 januari 2027, inte den sittande 119:e kongressen. H.R. 2347 användes som lagstiftningsfordon: SA 6883, en ersättningstext med BAAJA som korttitel, antogs 69–27 den 18 november; senaten antog H.R. 2347, as amended, 62–33 den 19 november. Senatens röstningssida visar fortfarande den ursprungliga skattetiteln i metadata. Texten är inte lag och måste behandlas av representanthuset. Separat avslogs H.Con.Res. 93 om krigsmaktsfrågan rörande Iran med 48–51 den 19 november.
