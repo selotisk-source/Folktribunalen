@@ -17,7 +17,7 @@
 
 - **21 november:** PR #77 Sofia – staden under staden (researchpaket, nio evidensnoter); PR #78 ODJURET UR DJUPET (researchpaket, fem projektrelaterade evidensnoter och separat Hormuz-katalog).
 - **20 november:** PR #76 Böckernas väg till Athos/MOmA och PR #75 Skaga kapell.
-- **22 november före denna leverans:** PR #79 med fyra separata nyhetsnoter om Hormuz, USA:s kongress, Palantir och Gripen.
+- **22 november före denna leverans:** PR #79 med fyra kärnnoter om Hormuz, USA:s kongress, Palantir och Gripen; därefter en separat supplemental source lead om TradeWinds/Vanguard Techs attribuerade identifiering av Torkel och Arina i UKMTO 215/216.
 - Dessa leveranser har bevarats. Dagens Varna-material är ett nytt regionalt kulturarvsspår och duplicerar inte BETUL 8, GAS HUSKY eller de tidigare Hormuz-noterna.
 
 ## Ongoing portfolio
@@ -63,7 +63,7 @@
 
 ## Hormuz
 
-PR #79:s fyra nyhetsnoter har bevarats. Ingen ny Hormuz-not skapades i dagens Varna-leverans eftersom inget nytt, separat och tillräckligt kontrollerat event behövdes för kulturarvspaketet. Hormuz har inte påverkat rotationen eller huvudartikelkön.
+PR #79:s fyra kärnnoter har bevarats. En ny separat supplemental source lead har därefter lagts till för TradeWinds/Vanguard Techs attribuerade identifiering av Torkel och Arina i UKMTO 215/216. Reuters anger fortfarande att det inte var klarlagt om UKMTO 215 och 216 avsåg samma fartyg; VesselTrackers händelsenotis är användarpublicerad och räknas inte som oberoende bekräftelse. Noten ligger i PR #79 och ändrar varken incidenträkning, Varna-leveransen, rotationen eller huvudartikelkön.
 
 ## Återkommande hyllning i denna utgåva
 
