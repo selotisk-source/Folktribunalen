@@ -9,12 +9,12 @@
 
 ### Aktiv huvudartikel
 
-- **Filversioner:** artikeltextens senaste commit är `cb60bc3a20bf3c87f5e0d4dae79fb1a961bcb3b3`; dossierets senaste commit är den aktuella PR-revisionen. PR-head anges i den aktuella statusraden nedan.
-- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är fortsatt Open/Draft på `editorial/europe-ai-infrastructure-review-2026-11-17`. Aktuell PR-head efter artikel- och dossieruppdatering: `ab4c051a3516f01a312e82ffeffd3a77cadf1e47`. PR #71 har 25 commits och två ändrade filer: komplett artikelutkast samt internt redaktionellt dossier. Artikelutkastet innehåller 44 primärkällor och 23 oberoende rapporteringskällor.
+- **Filversioner:** artikeltextens senaste commit är `cb60bc3a20bf3c87f5e0d4dae79fb1a961bcb3b3`; dossierets senaste commit är `4b1f3dd8aa1dccdaf05c046cfb87df226c3e706d`.
+- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är fortsatt Open/Draft på `editorial/europe-ai-infrastructure-review-2026-11-17`. Aktuell PR-head efter artikel- och dossieruppdatering: `4b1f3dd8aa1dccdaf05c046cfb87df226c3e706d`. PR #71 har 26 commits och två ändrade filer: komplett artikelutkast samt internt redaktionellt dossier. Artikelutkastet innehåller 44 primärkällor och 23 oberoende rapporteringskällor.
 - **Nytt rättsligt läge i Spanien:** Real Decreto 1032/2026 publicerades i BOE 21 november (BOE-A-2026-24439) och trädde i kraft 22 november. Kraven för nätåtkomst gäller datacenter med minst 10 MW anslutningseffekt. Artikeltexten skiljer 80 procent årlig additionalitet från 80 procent timvis korrelation, redovisar PUE/WUE-övergångsvärden, ALTA-avgränsningen för digital suveränitet, specialregimen för vissa EU-strategiska projekt och tidsfrister för redan tillståndsgivna men ej anslutna projekt.
 - **Skottland:** Scottish Government Direction kräver EIA för nya datacenter över 50 MW och har varit i kraft sedan 17 september 2026. Le Monde-rapporteringen om Edinburghprotesten 14 november är märkt som oberoende samhällsrapportering, inte som primärkälla för tillstånd.
 - **EuroHPC:** den officiella upphandlingssidan står Open. Alla gamla utkast och anbud i tidigare inlämningssystem ska återskapas via nya länkar. Lot 2 stänger 3 december 2026 kl. 17.00 CET; Lot 1 4 februari 2027 kl. 17.00 CET. Upphandlingsspecifikationen anger MLPerf Training v5.1 och Inference v5.1. Ingen ny inlämning från ett namngivet konsortium är fastställd.
-- **Godkännande:** separat chefredaktörsgodkännande av exakt head `ab4c051a3516f01a312e82ffeffd3a77cadf1e47` saknas. Godkännandet av PR #64 gäller inte denna materiellt uppdaterade version. PR #71 har noll review submissions och noll inline review threads.
+- **Godkännande:** separat chefredaktörsgodkännande av exakt head `4b1f3dd8aa1dccdaf05c046cfb87df226c3e706d` saknas. Godkännandet av PR #64 gäller inte denna materiellt uppdaterade version. PR #71 har noll review submissions och noll inline review threads.
 - **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått genom den anslutna adminvägen och klarat faktisk LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
 
 ### Övriga spår och research-PR:er
@@ -24,7 +24,7 @@ Följande öppna PR:er är research-/dokumentationsmaterial, inte aktiva huvudar
 ### PR-spärr – aktuell kontroll
 
 - GitHub-sökning den 22 november returnerade **65 öppna Draft-PR:er och 0 öppna icke-Draft-PR:er** i repot.
-- PR #71 är Open/Draft, 25 commits, två filer; noll review submissions och noll review threads.
+- PR #71 är Open/Draft, 26 commits, två filer; noll review submissions och noll review threads.
 - PR #73 är Open/Draft och innehåller endast `REDAKTIONELL_MASTERPLAN.md` samt `editorial/portfolio/recurring-tributes.md`.
 - PR #73 är den plats där denna masterplanuppdatering hålls. **Main-masterplanen är inte ändrad**; den aktuella filen på main har versionsdatum 18 november 2026. Denna 22-novemberkontroll ligger endast i PR #73 Draft.
 - Historiska avvikelser PR #56 Meta/Ofcom och PR #66 Genève/autonoma vapen kvarstår som historiska poster utan nya deployer eller kodändringar.
