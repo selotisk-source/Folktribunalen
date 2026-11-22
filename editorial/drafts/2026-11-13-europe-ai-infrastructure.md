@@ -551,7 +551,7 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
     https://www.boe.es/eli/es/rdl/2026/03/20/7/con
 
 42. **BOE – Real Decreto 1032/2026, de 20 de noviembre**, publicerad 21 november 2026 som BOE-A-2026-24439; fullständig rättsakt om datacenters nätåtkomst, förnybar additionalitet, timvis korrelation, effektivitet, digital suveränitet och övergångsregler. Trädde i kraft 22 november 2026:  
-    https://www.boe.es/eli/es/rd/2026/11/20/1032/con
+    https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439
 
 43. **Scottish Government – Data centres: Chief Planner letter and EIA Direction**, 16 september 2026. Riktlinjen kräver EIA för nya datacenter med föreslagen effekt över 50 MW och trädde i kraft 17 september 2026:  
     https://www.gov.scot/publications/chief-planner-letter-eia-direction-on-data-centres/
