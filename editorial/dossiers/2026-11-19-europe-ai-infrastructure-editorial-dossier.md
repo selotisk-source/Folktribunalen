@@ -1,6 +1,6 @@
 # Redaktionellt dossier – Europas AI-infrastruktur
 
-**Senast uppdaterat:** 21 november 2026 – direktkontroll av MITECO och La Moncloa; rättslig status för Spaniens datacenterdekret preciserad  
+**Senast uppdaterat:** 22 november 2026 – BOE-kontroll av Real Decreto 1032/2026, skotsk EIA-regel och aktuell Render-/route-status  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
 **Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
@@ -276,3 +276,91 @@ Primärkälla: https://www.lamoncloa.gob.es/consejodeministros/referencias/pagin
 - Rättslig status i artikeln ska därför fortsatt anges som **ministerrådsgodkänt 20 november; fullständig BOE-text och ikraftträdande inte fastställda i denna kontroll**. Ändra inte till “gällande rätt” innan den officiella författningstexten och dess ikraftträdandebestämmelse har hämtats.
 
 Öppna frågor: identifiera BOE-postens officiella dokumentnummer och fulltext; kontrollera slutliga övergångsregler, beräkningsmetod för timvis korrelation/additionalitet, undantag och sanktionernas ikraftträdande.
+
+## Kontrollrunda 22 november 2026 – Spanien, Skottland, EuroHPC och driftstatus
+
+### Spanien – BOE-publicering och ikraftträdande bekräftade
+
+**Primärkälla:** BOE-A-2026-24439, *Real Decreto 1032/2026, de 20 de noviembre*, publicerad i BOE nr 290 den 21 november 2026, s. 158186–158217:
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439
+
+- Förordningen är publicerad och trädde i kraft **22 november 2026**, dagen efter publiceringen. Den tidigare statusen från 21 november – att BOE-text och ikraftträdande inte hade identifierats – är supersederad.
+- Artikel 2/4 avgränsar huvudkraven för nätåtkomst till datacenter med **anslutningseffekt lika med eller större än 10 MW**. Tröskeln gäller nätets access power, inte IT-effekten.
+- För nya ansökningar och ansökningar som ännu inte avgjorts krävs bland annat deklaration om digital suveränitet, åtagande om energi- och vatteneffektivitet samt åtaganden om förnybar additionalitet och timvis korrelation.
+- **Två separata 80-procentskrav:** artikel 7 kräver att minst 80 procent av total elanvändning täcks av egen förnybar produktion eller kvalificerade långsiktiga avtal med förnybara producenter och lagring i Spanien. Artikel 8 kräver att minst 80 procent av förbrukningen under varje timme täcks av motsvarande förnybar produktion under samma timme.
+- Förnybara produktionsanläggningar som används för additionalitet ska som huvudregel ha driftsättning högst 36 månader före datacentrets driftstart eller första användning av energin. Kvalificerade PPA-avtal ska bland annat vara minst sex år, identifiera associerade produktions-/lagringsanläggningar och vara formellt dokumenterade. Finansiella produkter som endast stöds av ursprungsgarantier räcker inte.
+- För anläggningar som uppfyller tekniska villkor för Spaniens automatiska effektminskningssystem (SRAP) finns en villkorad femårig infasning av timkravet: 60 procent under P1 till och med 2028; därefter 70 procent under P1 och 60 procent under P2. Anläggningen måste kunna reducera sin nätförbrukning till noll när systemoperatören aktiverar systemet.
+- Energieffektivitet och vatteneffektivitet ska motsvara klass A enligt den europeiska märkningsordningen. Till dess att märkningen/metoden börjar tillämpas gäller övergångsvärden PUE ≤1,25 och WUE ≤0,1. Energieffektivitetsnivån ska nås efter två år från driftstart och vattennivån efter ett år. Årlig rapportering gäller datacenter med IT-effekt på minst 500 kW.
+- **Digital suveränitet:** artikel 5 gäller system i ALTA-kategorin enligt Spaniens nationella säkerhetsramverk och är inte knuten till 10 MW-tröskeln. Den blir tillämplig på ett system först när den ansvarige har underrättats om dess ALTA-kategori. Innehållsdata och tjänstehärledda data ska stanna inom EU/EES; tekniska metadata och telemetri undantas från denna specifika regel. Administration/support från tredjeland får ske endast när tekniskt nödvändigt, i minsta omfattning och med loggning. Förordningen inför inte ett generellt nationalitets- eller ägarkrav för alla datacenter.
+- **EU-strategiska projekt:** det finns en särskild övergångsordning för projekt i EU-utlysningar som öppnats före ikraftträdandet, däribland AI-gigafabriker och superdatorer. Den kräver faktisk EU-kontroll över aktiva servrar/beräkningsresurser, frånvaro av avgörande tredjelandskontroll och två bindande positiva utlåtanden – från digitaliseringsministeriet och systemoperatören. Ingen dokumentation har identifierats som visar att AI Gigafactory Northern eller annat namngivet konsortium redan har fått dessa utlåtanden.
+- **Befintliga tillstånd:** projekt med access-/anslutningstillstånd men utan fysisk/elektrisk anslutning vid ikraftträdandet har sex månader att styrka efterlevnad; annars kan tillstånden förfalla och säkerheter verkställas. Oavgjorda ansökningar omfattas av kraven och kan avslås efter tre månader om bristerna inte rättats efter föreläggande och hörande. Vissa sökande kan frivilligt avstå inom sex månader utan att säkerheterna verkställs.
+- BOE:s ingress anger mer än 15 GW beviljad datacenteråtkomstkapacitet, med drygt 6 GW i transmissionsnätet och omkring 8,8 GW i distributionsnäten. Den jämförs i rättsakten med AI-strategins uppskattning på 2,5 GW beräkningskapacitet 2030, motsvarande 3,5–4 GW elbehov. Detta är regeringens officiella motivering och avser tillståndskapacitet, inte driftsatt eller uppmätt last.
+
+**Rättslig redaktionell slutsats:** artikelns Spanienavsnitt har uppdaterats från ministerrådsgodkänt till publicerad och ikraftträdd rättsakt. Den måste samtidigt behålla skillnaden mellan 10 MW anslutningseffekt, 500 kW IT-effekt för rapportering, 80 procent årlig additionalitet och 80 procent timvis korrelation.
+
+### Skottland – EIA-regeln är redan i kraft
+
+**Primärkälla:** Scottish Government, *Data centres: Chief Planner letter and EIA Direction – September 2026*, publicerad 16 september 2026:
+https://www.gov.scot/publications/chief-planner-letter-eia-direction-on-data-centres/
+
+- Riktlinjen kräver EIA för nya datacenter med föreslagen effekt **över 50 MW**.
+- Den trädde i kraft 17 september 2026.
+- Projekt under tröskeln bedöms fortfarande från fall till fall enligt de vanliga EIA-reglerna.
+- Le Monde rapporterade 21 november om tusentals demonstranter i Edinburgh den 14 november och om planerade datacenterprojekt i Skottland. Uppgifterna används som oberoende samhällsrapportering, inte som primärkälla för tillståndsstatus.
+- Ingen ny uppgift har kontrollerats som visar att DataVita/Lanarkshire eller Chapelcross har fått ett slutligt planeringsbeslut enbart genom EIA-riktlinjen.
+
+Oberoende källa:
+https://www.lemonde.fr/en/international/article/2026/11/21/opposition-to-data-centers-grows-worldwide-from-india-to-chile-via-ireland-and-japan_6786331_4.html
+
+### EuroHPC – direktkontroll av aktuell upphandlingssida
+
+**Primärkälla:** EuroHPC JU, direktöppnad 22 november:
+https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+- Status står som **Open**.
+- Uppdateringen 5 november säger att alla utkast och inlämnade anbud i det tidigare systemet inte kommer att beaktas, oavsett lot.
+- Nya inlämningslänkar för båda lotten finns på Funding & Tenders Portal. EuroHPC anger att endast länkarna ändrats, inte innehållet i de publicerade upphandlingsdokumenten.
+- Lot 2 stänger 3 december 2026 kl. 17.00 CET; Lot 1 stänger 4 februari 2027 kl. 17.00 CET.
+- Upphandlingsspecifikationen anger MLPerf Training v5.1 och Inference v5.1 som tekniska benchmarkramar. 2EU Brussels rapporterade 11 november att EuroHPC hade reviderat testkraven 10 november.
+- Ingen offentlig kontroll av enskilda konsortiers nya inlämningar har gjorts. AI Gigafactory Northerns pressmeddelande visar avsikt att lämna anbud, inte att ett nytt anbud redan skickats in.
+
+Primär specifikation:
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/docs/bc712395-692d-41ab-aa25-8e254ae86eb2-CN/CfT%20AIGF%20-%20Tender%20Specifications%20v2_V1.pdf
+
+Oberoende rapportering:
+https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafactories-and-requires-resubmission-for-both-lots
+
+### Render, databas och publik route – faktisk kontroll 22 november
+
+- Render-arbetsytan identifierades som **My Workspace**, ID `tea-dbjt81flk1mc73a82rg0`.
+- Statisk tjänst `folktribunalen`, ID `srv-dblpumgm7kps73bv55e0`: branch `main`, `autoDeploy=yes`. Senaste listade deployment är `dep-dbt4qddg1s2s738p7bmg`, status `live`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
+- Redaktionell backend `folktribunalen-editorial`, ID `srv-dblq2r0n74is73cchqh0`: branch `main`, `autoDeploy=yes`. Senaste listade deployment är `dep-dblq3nafngtc73c0l87g`, status `live`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
+- Render-konfigurationen visar `ipAllowList=0.0.0.0/0` för både webbplats och backend. Detta beskriver nätverksåtkomst; backendens autentisering och adminflöde har inte testats end-to-end.
+- Postgres `folktribunalen-db`, ID `dpg-dblq2fqfngtc73c0h9gg-a`, har status `available` men `ipAllowList=[]`. En read-only `SELECT 1 AS connectivity_check` via hosted Render MCP avvisades med exakt hinder: databasen blockerar alla externa anslutningar eftersom IP-allowlisten är tom; hosted Render MCP saknar en klient-IP som kan läggas till. Render anger lokal Render MCP som alternativ. Ingen DB-läsning eller DB-skrivning har genomförts.
+- Direkt hämtning av `https://folktribunalen.onrender.com/`, hash-routen för AI-artikeln och backendens URL misslyckades med DNS-felet `Temporary failure in name resolution`. Webbhämtningen av webbplatsen returnerade också att URL:en inte var tillgänglig. Ingen HTTP-status, rubrik, ingress eller sidtext har erhållits.
+- `src/app.js` på `main` är fortsatt blob `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`. Kortmetadata för sluggen `europas-ai-infrastruktur` visar Meta/Ofcom-rubrik och ingress, medan body-mappningen för samma slug innehåller Google Wyoming/Crusoe/AEP. PR #71 innehåller den separata artikeln om Europas AI-infrastruktur. Detta är en kodavvikelse; ingen frontendändring har gjorts.
+
+### GitHub och PR-spärr – arbetsstatus
+
+- PR #71 förblir Open/Draft och innehåller endast artikelutkastet och det interna dossieret. Separat chefredaktörsgodkännande av den nya Spanien-/Skottlandsversionen saknas.
+- PR #73 förblir Open/Draft och innehåller masterplan samt hyllningsmodul.
+- Den nya artikeltextens senaste innehållscommit är `3f096fd594313fb3b2d41ed31629a1d4f1538a5b`; dossieruppdateringen görs separat på samma Draft-gren. PR:ens slutliga head ska hämtas efter att båda filerna uppdaterats.
+- Ingen merge, cherry-pick till main, deploy, databasändring, frontendändring eller publicering har gjorts. PR-grenarna är inte kopplade till Render auto-deploy från main och har inte utlöst någon artikeldeployment.
+
+### Bildrättigheter och öppna frågor
+
+- Scottish Government-riktlinjen är tillgänglig under Open Government Licence v3.0, med undantag för grafiska tillgångar.
+- Le Monde-fotografier får inte återanvändas utan licens. Använd egna dokumentära bilder eller separat licensierat material.
+- Spanien: följ första tillämpningen av förordningens 80-procentskrav, PUE/WUE-kontroll, nätoperatörernas verifiering, eventuella överklaganden och de två bindande utlåtandena för EU-strategiska projekt. Kontrollera om någon namngiven AI-gigafabrik faktiskt beviljas specialregimen.
+- Spanien: kontrollera om Spain DC lämnar in sin aviserade domstolsansökan och om någon interimistisk åtgärd beslutas. Branschens 66,9 miljarder euro är fortsatt en partsuppgift.
+- EuroHPC: följ om AI Gigafactory Northern och andra konsortier återskapar och lämnar in anbud via de nya länkarna; inga tilldelningar är fastställda.
+- Skottland: kontrollera hur EIA-regeln tillämpas i konkreta planeringsärenden över 50 MW, särskilt Chapelcross och DataVita/Lanarkshire.
+
+### Nästa arbetssteg
+
+1. Fortsätt samma huvudartikel med uppföljning av tillämpningen av Real Decreto 1032/2026 och EuroHPC:s återinlämningsprocess.
+2. Håll PR #71 i Draft tills separat godkännande av exakt slutlig commit finns.
+3. Efter godkännandet används den anslutna adminvägen; kontrollera HTTP-status, rubrik, ingress och fulltext.
+4. Huvudspår 3 förblir parkerat till dess att huvudspår 2 har klarat den faktiska LIVE-kontrollen.
+
+**Ingen merge, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontrollrunda.**
