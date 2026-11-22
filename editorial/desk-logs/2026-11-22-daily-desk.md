@@ -74,13 +74,17 @@ PR #79:s fyra kärnnoter har bevarats. En ny separat supplemental source lead ha
 - **Sankt Charbel Makhlouf:** maronitisk munk och eremit (1828–1898); mirakeluppgifter tillskrivs hans förbön och presenteras som trosuppgifter. Källa: https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-saint-charbel-monastery-annaya.html
 - **Vasil Levski (Васил Левски; Vasil Ivanov Kunchev, 1837–1873):** hyllningen bygger på dokumentarvet, hans bevarade brev och anteckningsbok. Inga citat tillskrivs honom utan kontroll mot originaltext. Källor: https://vlevskimuseum-bg.org/en/documentary-heritage/ och https://www.nationallibrary.bg/levski/
 
+## Aktiv huvudartikel – publik route-kontroll
+
+Den publika routen https://folktribunalen.onrender.com/#/artikel/europas-ai-infrastruktur hämtades 22 november kl. 08:53 EET och returnerade HTTP 200. Sidans rubrik är fortfarande “Meta lämnade fel WhatsApp Business-data till Ofcom”, medan ingressen och den hämtade brödtexten börjar med Europas AI-infrastruktur. Detta bekräftar en publik metadata-/body-mismatch. Den fullständiga brödtexten har inte jämförts rad för rad med PR #71:s exakta head. PR #71 förblir Open/Draft och har noll review submissions och noll review threads. Separat evidensnot: EV-FT-2026-11-22-ROUTE-01. Ingen frontendändring, merge, deploy eller databasändring har gjorts.
+
 ## PR-spärr och GitHub-kontroll
 
 - Dagens gren skapades från main och alla nya filer är research-/evidensmaterial.
 - Ny PR ska skapas som **Draft**.
 - Inga PR:er ska göras Ready for review.
 - Ingen merge, cherry-pick till main, deploy, databasändring, frontendändring eller publicering har utförts.
-- Kontroll 22 november av 66 öppna PR:er: noll öppna icke-Draft-PR:er. PR #36 är stängd och mergad; den är inte en öppen review-PR.
+- Slutkontroll 22 november efter PR #80: 67 öppna PR:er och noll öppna icke-Draft-PR:er. PR #71, #73, #79 och #80 är Open/Draft. PR #36 är stängd och mergad; den är inte en öppen review-PR.
 - Historiska avvikelser PR #56 och #66 kvarstår dokumenterade i masterplanen; inga nya deployer har gjorts.
 - Ingen publik artikelroute har kontrollerats i denna körning.
 
@@ -88,11 +92,11 @@ PR #79:s fyra kärnnoter har bevarats. En ny separat supplemental source lead ha
 
 - **GitHub:** åtkomst fungerade; ny branch och Draft-PR skapades.
 - **Källor:** UHI, BTA, NAIM/BAS, UNESCO, Varna Regional Museum och Balkan Heritage Foundation kunde hämtas. UHI:s och BTA:s fynduppgifter är institutionell/nyhetsrapportering; fältprotokoll och primärinventarier saknas.
-- **Hermes:** ingen Hermes-tjänst har identifierats i tidigare dokumenterad Railway-inventering. Ingen ny Hermes-deployment eller agenttunnel kunde kontrolleras i denna körning.
-- **Railway:** tidigare dokumenterad miljö hade fem tjänster; inga nya deployments eller tjänsteändringar gjordes.
-- **Render/backend:** ingen ny workspace-/servicekontroll utfördes i denna körning.
-- **Postgres:** senast dokumenterat available med tom IP-allowlist; read-only anslutning via hosted Render MCP blockerades. Ingen databasläsning eller skrivning gjordes.
-- **Publik route:** ingen HTTP-status, rubrik, ingress eller fulltext hämtades. Ingen LIVE-publicering påstås.
+- **Hermes:** aktuell Railway-inventering visar fem tjänster och ingen Hermes-tjänst. Separat Hermes-installation utanför projektet är inte kontrollerad.
+- **Railway:** aktuell production-status visar samtliga fem tjänster Offline: browser-chromium, browser-use-runner, mindcloud-osiris, Cognee Memory och Osiris-mindcloud-ui. Ingen ny deployment eller konfigurationsändring gjordes.
+- **Render/backend:** Render listar endast My Workspace, men ingen workspace är vald i sessionen. En ny service-/backendkontroll utfördes därför inte.
+- **Postgres:** senast dokumenterat available med tom IP-allowlist; read-only anslutning via hosted Render MCP blockerades. Ingen databasläsning eller skrivning gjordes i denna körning.
+- **Publik route:** HTTP 200 bekräftad, men fel rubrik/metadata visas tillsammans med AI-infrastrukturens ingress/brödtext. Fullständig textjämförelse mot PR #71 återstår; ingen korrekt LIVE-publicering av PR #71 kan hävdas.
 
 ## Nästa steg
 
