@@ -373,3 +373,18 @@ https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafa
 - Le Monde-sidan hämtades direkt 22 november. Den anger att tusentals demonstranter samlades i Edinburgh den 14 november mot planerade installationer av fler än 20 stora datacenter och beskriver Chapelcross som ett projekt med 1 000 MW tillgänglig effekt. Detta är journalistisk rapportering, inte bevis för att alla projekten har tillstånd eller kommer att byggas.
 - Scottish Government Direction är mer precist avgränsad till nya datacenterutvecklingar över 50 MW inom de Schedule 2-klasser som anges i 2017 års EIA-regler. Den trädde i kraft 17 september 2026; projekt under tröskeln omfattas fortfarande av fall-till-fall-bedömning.
 - Artikeltextens senaste innehållscommit efter EuroHPC- och Skottlandspreciseringarna: `cb60bc3a20bf3c87f5e0d4dae79fb1a961bcb3b3`. Artikelns primärkällförteckning omfattar nu 44 poster; den oberoende rapporteringen omfattar 23 poster.
+
+
+### Ytterligare juridisk precision – Real Decreto 1032/2026
+
+Efter kontroll av artiklarna 2, 7–9, 11–13 och övergångsbestämmelserna har artikeltexten preciserats ytterligare:
+
+- Tröskeln 10 MW avser **anslutningseffekt** och aggregerar datacenter med samma ägare på samma plats. Den ska inte blandas ihop med rapporteringströskeln 500 kW IT-effekt, som gäller oavsett access power.
+- Additionalitetskravet har en inledande övergångsfrist: till och med 31 december 2028 får datacenter upp till sex månader från formaliseringen av nätåtkomstavtalet för att uppfylla kravet.
+- Solcellsanläggningar kan under villkoren i artikel 7.9 räknas som additionalitet oavsett driftsättningsdatum om de inte redan var bundna av PPA-avtal vid förordningens ikraftträdande.
+- Om Spaniens nationella förnybara elandel överstiger 90 procent under referensåret n−2 kan både additionalitet och timkorrelation anses uppfyllda, men endast med ett tak för antalet timmar då datacentret får ta el från nätet. Innan en särskild myndighetsresolution publiceras ska andelen räknas som under 90 procent.
+- EU-strategiska projekt som kvalificerar för specialregimen får 60 månader för additionalitet och en särskild timkorrelation kopplad till föregående års nationella förnybarandel. Effektivitetsgränserna varierar med projektets status och driftstart: PUE/WUE 1,35/0,4 för anläggningar i drift eller med tillstånd vid ikraftträdandet; 1,25/0,2 för driftstart senast 2029; 1,15/0,1 från 2030.
+- Uppföljningen ska börja med en rapport inom sex månader från ikraftträdandet och fortsätta halvårsvis. CNMC ska utvärdera tillämpningen vartannat år.
+- Artikeltextens senaste innehållscommit efter dessa preciseringar: `3fff61ef05aff5c1e2f4b9bc1cedff0cc02fad87`.
+
+**Redaktionell kontroll:** dessa övergångar är inte generella undantag. De är villkorade och ska redovisas som separata rättsliga vägar, inte som att alla datacenter har samma tidsfrister eller gränsvärden.
