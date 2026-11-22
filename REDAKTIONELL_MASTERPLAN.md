@@ -1,8 +1,54 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 21 november 2026 – direktkontroll av spanska primärkällor, uppdaterad PR #71-head och nyhetskontroll av Hormuz, kongressen, Palantir och Gripen 95e7584ab81b7d94b8b5493b6e89ae7faa024b79
+**Version:** 22 november 2026 – BOE-publicering och ikraftträdande av Real Decreto 1032/2026, skotsk EIA-kontroll, EuroHPC-uppdatering och Render-/route-kontroll
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
+
+
+## Aktuell arbetskontroll – 22 november 2026 (03:05 EET)
+
+### Aktiv huvudartikel
+
+- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är fortsatt Open/Draft på `editorial/europe-ai-infrastructure-review-2026-11-17`. Aktuell PR-head efter artikel- och dossieruppdatering: `be838e52715c1755ebbd19ed975af53a0c69178f`. PR #71 har 23 commits och två ändrade filer: komplett artikelutkast samt internt redaktionellt dossier.
+- **Nytt rättsligt läge i Spanien:** Real Decreto 1032/2026 publicerades i BOE 21 november (BOE-A-2026-24439) och trädde i kraft 22 november. Kraven för nätåtkomst gäller datacenter med minst 10 MW anslutningseffekt. Artikeltexten skiljer 80 procent årlig additionalitet från 80 procent timvis korrelation, redovisar PUE/WUE-övergångsvärden, ALTA-avgränsningen för digital suveränitet, specialregimen för vissa EU-strategiska projekt och tidsfrister för redan tillståndsgivna men ej anslutna projekt.
+- **Skottland:** Scottish Government Direction kräver EIA för nya datacenter över 50 MW och har varit i kraft sedan 17 september 2026. Le Monde-rapporteringen om Edinburghprotesten 14 november är märkt som oberoende samhällsrapportering, inte som primärkälla för tillstånd.
+- **EuroHPC:** den officiella upphandlingssidan står Open. Alla gamla utkast och anbud i tidigare inlämningssystem ska återskapas via nya länkar. Lot 2 stänger 3 december 2026 kl. 17.00 CET; Lot 1 4 februari 2027 kl. 17.00 CET. Upphandlingsspecifikationen anger MLPerf Training v5.1 och Inference v5.1. Ingen ny inlämning från ett namngivet konsortium är fastställd.
+- **Godkännande:** separat chefredaktörsgodkännande av exakt head `be838e52715c1755ebbd19ed975af53a0c69178f` saknas. Godkännandet av PR #64 gäller inte denna materiellt uppdaterade version. PR #71 har noll review submissions och noll inline review threads.
+- **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått genom den anslutna adminvägen och klarat faktisk LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
+
+### Övriga spår och research-PR:er
+
+Följande öppna PR:er är research-/dokumentationsmaterial, inte aktiva huvudartiklar: PR #72 Cypern; #74 Frölunda; #75 Skaga kapell; #76 Athos/bokvägar; #77 Sofia – staden under staden; #78 Odjuret ur djupet. PR #73 är masterplan och återkommande hyllningsmodul. De ska hållas i Draft och får inte flyttas före huvudartikelkön. Religion/Folket/Tradition, Skaga och övriga serier förblir portfölj- och evidensmaterial. Ingen parallell huvudartikel har startats.
+
+### PR-spärr – aktuell kontroll
+
+- GitHub-sökning den 22 november returnerade **65 öppna Draft-PR:er och 0 öppna icke-Draft-PR:er** i repot.
+- PR #71 är Open/Draft, 23 commits, två filer; noll review submissions och noll review threads.
+- PR #73 är Open/Draft och innehåller endast `REDAKTIONELL_MASTERPLAN.md` samt `editorial/portfolio/recurring-tributes.md`.
+- PR #73 är den plats där denna masterplanuppdatering hålls. **Main-masterplanen är inte ändrad**; dess nuvarande innehåll är fortfarande den tidigare 21-novemberversionen.
+- Historiska avvikelser PR #56 Meta/Ofcom och PR #66 Genève/autonoma vapen kvarstår som historiska poster utan nya deployer eller kodändringar.
+
+### GitHub, Render och publik route – faktisk kontroll 22 november
+
+- PR #71:s basgren är `main` på `04e00e97b35bb984d783bab652011a3d7441a0cd`.
+- **Frontendavvikelse på main:** `src/app.js`, blob `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`, visar Meta/Ofcom-rubrik och ingress för sluggen `europas-ai-infrastruktur`, medan body-mappningen för samma slug innehåller Google Wyoming/Crusoe/AEP. PR #71:s artikeltext är Europas AI-infrastruktur. Detta är en bekräftad kodmismatch; ingen frontendändring har gjorts.
+- **Statisk Render-tjänst:** `folktribunalen`, `srv-dblpumgm7kps73bv55e0`, branch `main`, `autoDeploy=yes`. Senaste listade live-deploy: `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
+- **Redaktionell backend:** `folktribunalen-editorial`, `srv-dblq2r0n74is73cchqh0`, branch `main`, `autoDeploy=yes`. Senaste listade live-deploy: `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
+- Render-konfigurationen visar `ipAllowList=0.0.0.0/0` för webbplats och backend. Det är nätverksåtkomst; backendens autentisering/adminflöde har inte testats end-to-end.
+- **Postgres:** `folktribunalen-db`, `dpg-dblq2fqfngtc73c0h9gg-a`, status `available`, `ipAllowList=[]`. En read-only `SELECT 1 AS connectivity_check` via hosted Render MCP nekades: databasen blockerar externa anslutningar när IP-allowlisten är tom och hosted MCP saknar en klient-IP att lägga till. Render anger lokal Render MCP som alternativ. Ingen DB-läsning eller DB-skrivning har genomförts.
+- **Publik route:** hämtning av `https://folktribunalen.onrender.com/` och hash-routen för AI-artikeln misslyckades med DNS-felet `Temporary failure in name resolution`; webbhämtningen kunde inte nå URL:en. Ingen HTTP-status, rubrik, ingress eller fulltext har erhållits. LIVE-kontrollen är inte genomförd.
+- PR-grenarna har inte utlöst Render-deploy eftersom båda tjänsterna är kopplade till `main` med `autoDeploy=yes`. Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts.
+
+### Återkommande hyllning i varje utgåva
+
+PR #73:s `editorial/portfolio/recurring-tributes.md` innehåller fortsatt Gutenberg, Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-notisen har de föreskrivna källorna från National Museum Vasil Levski – Documentary Heritage och Bulgariens nationalbibliotek. Inga citat tillskrivs Levski utan kontroll mot originalmanuskript eller kontrollerad transkription. Denna redaktionella standard är dokumenterad i PR #73 Draft; den är ännu inte mergad till main.
+
+### Nästa steg
+
+1. Fortsätt samma huvudartikel med uppföljning av tillämpningen av Real Decreto 1032/2026 och EuroHPC:s återinlämningsprocess.
+2. Håll PR #71 i Draft tills separat godkännande av exakt slutlig commit finns.
+3. Efter godkännande: använd endast redaktionens anslutna adminväg och kontrollera HTTP-status, rubrik, ingress och fulltext.
+4. Starta inte PR #38 som aktiv huvudartikel före faktisk LIVE-kontroll av PR #71.
 
 ## Aktuell arbetskontroll – 21 november 2026 (förmiddagskontroll)
 
