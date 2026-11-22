@@ -13,7 +13,7 @@ Den nya mandatfördelningen gäller när den 120:e kongressen tillträder den **
 
 ### Källor
 
-- **Oberoende rapportering:** Associated Press, 18 november 2026, Peltolas seger i Alaska och den nya 56–44-majoriteten. https://apnews.com/article/f1fd4d243bf764ec46ff94db4c792953
+- **Oberoende rapportering:** Associated Press, 18 november 2026, Peltolas seger i Alaska och den nya 56–44-majoriteten. https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953
 - **Oberoende rapportering:** Reuters, 18 november 2026. https://www.reuters.com/world/us/democrat-peltola-wins-alaska-securing-56-44-us-senate-majority-2026-11-18/
 - **Oberoende rapportering:** Associated Press, demokraternas nio nettovinster i senaten och återtagande av representanthuset. https://apnews.com/article/aa623c1c32cb493c21633a1a6a140578
 
