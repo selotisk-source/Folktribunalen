@@ -344,7 +344,7 @@ https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafa
 
 - PR #71 förblir Open/Draft och innehåller endast artikelutkastet och det interna dossieret. Separat chefredaktörsgodkännande av den nya Spanien-/Skottlandsversionen saknas.
 - PR #73 förblir Open/Draft och innehåller masterplan samt hyllningsmodul.
-- Den nya artikeltextens senaste innehållscommit är `3f096fd594313fb3b2d41ed31629a1d4f1538a5b`; dossieruppdateringen görs separat på samma Draft-gren. PR:ens slutliga head ska hämtas efter att båda filerna uppdaterats.
+- Artikeltextens senaste innehållscommit är `cb60bc3a20bf3c87f5e0d4dae79fb1a961bcb3b3`. Denna dossierrevision innehåller 22-novemberkontrollen; PR-head ska hämtas efter den sista dokumentuppdateringen och anges i masterplanens aktuella arbetskontroll.
 - Ingen merge, cherry-pick till main, deploy, databasändring, frontendändring eller publicering har gjorts. PR-grenarna är inte kopplade till Render auto-deploy från main och har inte utlöst någon artikeldeployment.
 
 ### Bildrättigheter och öppna frågor
