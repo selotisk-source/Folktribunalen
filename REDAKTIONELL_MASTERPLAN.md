@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 22 november 2026 – fullständig kontroll av Real Decreto 1032/2026, EuroHPC och Render-/route-status
+**Version:** 22 november 2026 – uppdaterad nyhetsbevakning, PR #79 och fullständig kontroll av Real Decreto 1032/2026, EuroHPC och Render-/route-status
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
 **Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
 
@@ -19,7 +19,18 @@
 
 ### Övriga spår och research-PR:er
 
-Följande öppna PR:er är research-/dokumentationsmaterial, inte aktiva huvudartiklar: PR #72 Cypern; #74 Frölunda; #75 Skaga kapell; #76 Athos/bokvägar; #77 Sofia – staden under staden; #78 Odjuret ur djupet. PR #73 är masterplan och återkommande hyllningsmodul. De ska hållas i Draft och får inte flyttas före huvudartikelkön. Religion/Folket/Tradition, Skaga och övriga serier förblir portfölj- och evidensmaterial. Ingen parallell huvudartikel har startats.
+Följande öppna PR:er är research-/dokumentationsmaterial, inte aktiva huvudartiklar: PR #72 Cypern; #74 Frölunda; #75 Skaga kapell; #76 Athos/bokvägar; #77 Sofia – staden under staden; #78 Odjuret ur djupet. PR #73 är masterplan och återkommande hyllningsmodul; PR #79 är ett separat nyhetsbevakningspaket med fyra evidensnoter. De ska hållas i Draft och får inte flyttas före huvudartikelkön. Religion/Folket/Tradition, Skaga och övriga serier förblir portfölj- och evidensmaterial. Ingen parallell huvudartikel har startats.
+
+### Nyhetsbevakning – 22 november 2026 (PR #79)
+
+Fyra separata, provenance-länkade evidensnoter har lagts i [PR #79 – Nyhetsbevakning 22 november](https://github.com/selotisk-source/Folktribunalen/pull/79). De är researchmaterial, inte nya huvudartiklar.
+
+- **Hormuz:** UKMTO 214-26 den 20 november och 215-26/216-26 den 21 november gäller tre rapporterade träffar nära Khasab. Reuters säger att det är oklart om 215 och 216 avser samma tanker. Fartygen är inte namngivna; Irans minuppgift hålls som obekräftad partsuppgift.
+- **USA:s kongress:** Mary Peltolas seger ger Demokraterna en inkommande senatsmajoritet på 56–44 och partiet har återtagit representanthuset. Detta gäller 120:e kongressen från 3 januari 2027, inte den sittande 119:e kongressen. H.R. 2347 användes som lagstiftningsfordon: SA 6883, en ersättningstext med BAAJA som korttitel, antogs 69–27 den 18 november; senaten antog H.R. 2347, as amended, 62–33 den 19 november. Senatens röstningssida visar fortfarande den ursprungliga skattetiteln i metadata. Texten är inte lag och måste behandlas av representanthuset. Separat avslogs H.Con.Res. 93 om krigsmaktsfrågan rörande Iran med 48–51 den 19 november.
+- **Palantir:** Q3-intäkterna var 2,313 miljarder USD (+96 procent år/år); USA:s kommersiella intäkter var 984 miljoner USD mot 953 miljoner USD i USA:s myndighetsintäkter; RPO var 4,9 miljarder USD. DOJ väckte den 18 november åtal mot Igor D’iu för påstått agerande som rysk agent och övervakning av anställda vid ett Silicon Valley-företag. DOJ namnger inte företaget i pressmeddelandet; Reuters identifierar det som Palantir. Anklagelserna är inte fastställda domstolsfakta.
+- **Gripen över Polen:** Försvarsmakten bekräftar svensk Gripen-insats natten till 20 november med lufttankning och samverkan med polska F-16 och nederländskt tankflyg. Polska BBN redovisar tre nedfallsplatser och identifierar ett objekt som en Kh-101. Uppgiften om svenskt eldtillstånd men inget avlossat skott kommer från TV4/Omni och hålls som sekundär rapportering.
+
+**Käll- och publiceringsgräns:** detaljer, primärlänkar, oberoende rapportering, faktastatus och öppna frågor finns i PR #79:s fyra separata evidensnoter. Inga av noterna är en färdig artikel eller ett publiceringsgodkännande.
 
 ### PR-spärr – aktuell kontroll
 
