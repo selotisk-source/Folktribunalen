@@ -34,7 +34,7 @@ Fyra separata, provenance-länkade evidensnoter har lagts i [PR #79 – Nyhetsbe
 
 ### PR-spärr – aktuell kontroll
 
-- GitHub-sökning den 22 november returnerade **65 öppna Draft-PR:er och 0 öppna icke-Draft-PR:er** i repot.
+- GitHub-sökning den 22 november returnerade **66 öppna Draft-PR:er och 0 öppna icke-Draft-PR:er** i repot.
 - PR #71 är Open/Draft, 28 commits, två filer; noll review submissions och noll review threads.
 - PR #73 är Open/Draft och innehåller endast `REDAKTIONELL_MASTERPLAN.md` samt `editorial/portfolio/recurring-tributes.md`.
 - PR #73 är den plats där denna masterplanuppdatering hålls. **Main-masterplanen är inte ändrad**; den aktuella filen på main har versionsdatum 18 november 2026. Denna 22-novemberkontroll ligger endast i PR #73 Draft.
