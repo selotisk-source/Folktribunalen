@@ -39,6 +39,17 @@ Denna detalj finns inte i Försvarsmaktens pressmeddelande. Den ska därför til
 
 Källa: **Oberoende sekundär rapportering – Omni med hänvisning till TV4**, publicerad 21 november: https://omni.se/svensk-pilot-skulle-skjuta-ner-robot-vadret-stoppade/a/dJOBaj
 
+## Fördjupad sekundär rapportering – villkorat eldtillstånd
+
+Kyiv Independent publicerade den 22 november en uppföljning med hänvisning till den polske operativa befälhavaren generallöjtnant Ireneusz Nowak, som talat med den polska tidningen Rzeczpospolita. Enligt rapporten hade Natos Combined Air Operations Centre (CAOC) i Uedem utfärdat ett villkorat tillstånd att bekämpa mål om identifierings- och insatsvillkoren uppfylldes. En svensk Gripenpilot försökte enligt Nowak följa upp ett objekt som preliminärt bedömdes vara en Kh-101, men kunde inte identifiera det visuellt eller med flygplanets elektrooptiska system på grund av mycket svåra väderförhållanden. Inget skott avlossades.
+
+Samma rapport skiljer mellan **11 potentiellt hotfulla objekt som följdes** och **tre objekt som korsade polskt luftrum**. Den anger två svenska Gripen och två polska F-16 i insatsen, med Saab 340 för luftburen radarvarning, nederländskt tankflyg och markbaserat luftförsvar. Dessa detaljer är attribuerade till den polske befälhavaren via Rzeczpospolita och Kyiv Independent; de ingår inte i Försvarsmaktens svenska pressmeddelande.
+
+Källa:
+- **Oberoende rapportering med namngiven polsk befälhavarkälla:** Kyiv Independent, 22 november 2026: https://kyivindependent.com/swedish-gripen-pilot-unable-to-shoot-down-suspected-russian-missile-over-poland-due-to-poor-weather-commander-says/
+
+Omnins tidigare återgivning av TV4:s uppgift är en separat sekundär källa och ska inte räknas som en oberoende primärbekräftelse. Försvarsmaktens pressmeddelande bekräftar uppdraget och de svåra siktförhållandena men publicerar inte själv villkoren för eldtillståndet.
+
 ## Faktastatus
 
 - **Bekräftat av Försvarsmakten:** svensk Gripen-insats, flera timmars operation, lufttankning, framskjuten bas, samverkan med polska F-16 och nederländskt tankflyg.
