@@ -364,3 +364,12 @@ https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafa
 4. Huvudspår 3 förblir parkerat till dess att huvudspår 2 har klarat den faktiska LIVE-kontrollen.
 
 **Ingen merge, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontrollrunda.**
+
+
+### Precisering efter direktläsning av EuroHPC och Le Monde – 22 november
+
+- EuroHPC:s officiella 5-novembermeddelande säger att gamla utkast och inlämnade anbud ska återskapas via nya länkar och att det var inlämningslänkarna som ändrades i samband med systembytet.
+- 2EU Brussels redovisar en **separat** uppdatering av de tekniska testerna den 10 november till MLPerf v5.1. Den officiella tender-specifikationen v2 som hämtats har intern referens Ares(2026)9990852 daterad 23 oktober och anger Training v5.1 samt Inference v5.1. Den exakta portalhistoriken och den senare tekniska bilagans fullständiga versionsdiff har inte hämtats. Artikeltexten skiljer därför den officiella benchmarkversionen från 2EU:s rapporterade datum för den separata uppdateringen.
+- Le Monde-sidan hämtades direkt 22 november. Den anger att tusentals demonstranter samlades i Edinburgh den 14 november mot planerade installationer av fler än 20 stora datacenter och beskriver Chapelcross som ett projekt med 1 000 MW tillgänglig effekt. Detta är journalistisk rapportering, inte bevis för att alla projekten har tillstånd eller kommer att byggas.
+- Scottish Government Direction är mer precist avgränsad till nya datacenterutvecklingar över 50 MW inom de Schedule 2-klasser som anges i 2017 års EIA-regler. Den trädde i kraft 17 september 2026; projekt under tröskeln omfattas fortfarande av fall-till-fall-bedömning.
+- Artikeltextens senaste innehållscommit efter EuroHPC- och Skottlandspreciseringarna: `cb60bc3a20bf3c87f5e0d4dae79fb1a961bcb3b3`. Artikelns primärkällförteckning omfattar nu 44 poster; den oberoende rapporteringen omfattar 23 poster.
