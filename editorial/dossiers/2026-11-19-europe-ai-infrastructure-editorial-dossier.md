@@ -19,6 +19,7 @@ Den publicerbara artikeltexten ligger i `editorial/drafts/2026-11-13-europe-ai-i
 4. **Skellefteå:** flygbild av det tidigare Northvolt-området, med tydlig bildtext att 1 GW är en utvecklaruppgift om möjlig framtida campuskapacitet.
 5. **Norge:** Statnetts transmissionsnät eller Kvandal-området. Kontrollera plats och bildrättigheter innan publicering.
 6. **Uniper:** använd företagets karta på sida 59 i Capital Markets Day-presentationen endast som en tydligt märkt bolagsgrafik; den visar identifierade projektområden, inte färdigbyggda datacenter.
+7. **Molnsuveränitet:** skapa en egen redaktionell diagramgrafik som skiljer mellan datalagringens geografiska plats, operativ drift, kontroll över krypteringsnycklar, leveranskedja, jurisdiktion och exit-/portabilitetsvillkor. Visa EU-kommissionens SEAL-2/SEAL-3-nivåer och den separata SEAL-4-definitionen utan att ge intryck av att någon av de tilldelade leverantörerna nått SEAL-4. Lägg gärna tre små exempelrutor för EU-kommissionens ramavtal, Nederländernas STACKIT-avtal och Schweiz ännu ej tilldelade Swiss Government Cloud-upphandling. Använd inte generiska serverbilder som om de visade en viss leverantörs anläggning.
 
 Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens eller uttryckligen licensierat bildmaterial. Bildförslag är inte ett påstående om att en viss anläggning redan är färdig.
 
@@ -107,6 +108,11 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 
 
 16. Begär ut Sveriges genomförandeavtal och precisera vilken myndighet som ingår åtagandet, hur beräkningskraften ska fördelas och vilken svensk nod som avses. Fastställ om noden i regeringens besked 22 oktober har någon formell koppling till AI Gigafactory Northerns ännu ej valda svenska plats.
+
+17. Begär ut avrops- och användningsstatistik för EU-kommissionens ram för suveräna molntjänster: faktiska avrop, levererad tjänst, kostnader och vilka organ som använder respektive leverantörsgrupp. Håll taket på 180 miljoner euro skilt från faktisk användning.
+18. Begär ut faktisk användning av Nederländernas STACKIT-ramavtal, inklusive antal myndigheter som anslutit, avrop, datalagringsvillkor, revisionsresultat och om exitvillkoren någonsin har prövats.
+19. Följ Swiss Government Cloud-upphandlingen fram till tilldelning och kontrakt; kontrollera vilka leverantörer som vinner respektive molnnivå, hur open-source-kravet tillämpas och hur mycket av det maximala CHF 7 miljarder som faktiskt avropas.
+20. Hämta en uppdaterad oberoende marknadsmätning av europeiska molnandelar efter 2022. Använd COM(2026) 502:s 29-procent/15-procentserie och uppgiften om över 70 procent för tre icke-EU-hyperscalers som kommissionens marknadsbild i ett lagförslag, inte som en live-mätning i november 2026.
 
 ## Redaktionell status och teknisk kontroll
 
