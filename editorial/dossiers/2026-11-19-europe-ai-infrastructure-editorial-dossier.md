@@ -406,3 +406,33 @@ Källor:
 - Tender Specifications v2, Ares(2026)9990852: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/docs/bc712395-692d-41ab-aa25-8e254ae86eb2-CN/CfT%20AIGF%20-%20Tender%20Specifications%20v2_V1.pdf
 
 **Kontrollstatus:** officiell utlysningssida öppnad och tidsfristerna kontrollerade 23 november. Ingen uppgift om faktisk inlämning eller tilldelning för AI Gigafactory Northern har fastställts i denna kontroll.
+
+
+## Kontrollrunda 23 november 2026 – europeisk molnsuveränitet och offentlig upphandling
+
+### Ny oberoende rapportering
+Reuters publicerade den 23 november en genomgång av hur digital suveränitet börjar påverka europeiska molnupphandlingar. Artikeln skiljer mellan datalagring och operativ kontroll: upphandlare tittar även på krypteringsnycklar, leverantörernas operativa autonomi, motståndskraft och möjligheten att lämna en plattform. Reuters återger företagsföreträdares uppgifter om att större migrationsprojekt ofta tar 12–24 månader och att många diskussioner ännu inte leder till kontrakt. Dessa ledtids- och konverteringsuppgifter är attribuerade branschuppgifter, inte myndighetsstatistik.
+
+### Primärkällor kontrollerade
+- **EU-kommissionen, 17 april:** fyra parallella leverantörsgrupper fick kontrakt för suveräna molntjänster med ett sammanlagt tak på upp till 180 miljoner euro över sex år. Det är en ram för avrop, inte ett bygganslag eller bevis för att hela beloppet används.
+- **EU-kommissionen, 1 juni:** Cloud Sovereignty Framework omfattar åtta bedömningsområden och SEAL-nivåer. Post Telecom-gruppen, STACKIT och Scaleway uppges ha nått SEAL-3; Proximus/S3NS SEAL-2. SEAL-4 motsvarar en fullständig EU-leveranskedja från chip till programvara. Det är därför fel att beskriva alla fyra leverantörsgrupper som helt EU-baserade teknikstackar.
+- **Nederländerna, 23 april:** ramavtal med STACKIT ger EES-lagring, revisionsrätt och exitvillkor vid ägarförändring utanför EES. Det finns ingen obligatorisk minimiavropning.
+- **Schweiz, 20 oktober:** Swiss Government Cloud är en upphandling med tre nivåer – global publik molntjänst, schweizisk datastyrning och privat moln i federala datacenter. Taket på sju miljarder CHF över 14 år är ett maximalt upphandlingsvärde; kostnader ska uppstå vid faktisk användning. Något tilldelningsbeslut har inte fastställts.
+- **EUR-Lex, COM(2026) 502, 3 juni:** kommissionens lagförslag anger att EU-leverantörernas andel av molnmarknaden sjönk från 29 procent 2017 till 15 procent 2022 och att tre leverantörer utanför EU kontrollerar över 70 procent av marknaden. Siffrorna ska beskrivas som kommissionens marknadsbild i ett lagförslag, med historiska jämförelseår – inte som en ny oberoende marknadsmätning i november 2026.
+
+### Redaktionell slutsats
+Upphandlingarna visar en konkret förskjutning i avtals- och kontrollkrav, men de visar ännu inte att marknadens koncentration har brutits. Artikeln skiljer därför mellan:
+1. fysisk datacenterkapacitet och elanslutning,
+2. molntjänster och offentliga ramavtal,
+3. operativ suveränitet och leverantörens juridiska hemvist,
+4. full EU-leveranskedja och EU-kontrollerad drift av teknik med komponenter från tredje land.
+
+### Källor
+- Reuters, 23 november 2026: https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
+- EU-kommissionen, 17 april 2026: https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_en
+- EU-kommissionen, 1 juni 2026: https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en
+- Nederländernas regering, 23 april 2026: https://www.rijksoverheid.nl/actueel/nieuws/2026/04/23/rijksoverheid-sluit-deal-met-europees-cloudplatform-stackit
+- Schweiziska förbundsrådet, 20 oktober 2026: https://www.admin.ch/en/newnsb/vL4DxR3WIhey
+- EUR-Lex, COM(2026) 502: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502
+
+**Aktuell artikeltext:** 50 primärkällor och 24 oberoende rapporteringskällor. Faktarutan har två nya rader för offentlig molnupphandling. Bildförslagen är oförändrade; inga nya bildrättigheter har klarerats.
