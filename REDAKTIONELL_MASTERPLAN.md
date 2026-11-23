@@ -32,7 +32,7 @@
 - **PR #76:** Böckernas väg till Athos (research).
 - **PR #77:** Sofia – staden under staden (research).
 - **PR #78:** ODJURET UR DJUPET (research).
-- **PR #79:** nyhetsbevakning – Hormuz, USA:s kongress, Palantir och Gripen (research/evidensnoter).
+- **PR #79:** nyhetsbevakning – Hormuz, USA:s kongress, Palantir och Gripen (research/evidensnoter), uppdaterad 23 november: 13 commits, sex noter inklusive separat UKMTO 217.
 - **PR #80:** Varna/Svarta havet – undervattenskulturarv, Karon Limen och regional historia (research/evidensnoter).
 - **PR #81:** Cypern – Geroskipou-Monagri, Strabon och Afrodite (researchuppdatering, inte huvudartikel).
 - Religion/Folket/Tradition är portfölj- och researchbankar. De är inte aktiva huvudartiklar. Ingen parallell huvudartikel har startats.
@@ -117,6 +117,26 @@ FOLKTRIBUNALEN är en flerområdesredaktion, inte en breaking-news-feed. Hormuz 
 
 
 - **Religion, folk och tradition – researchbank:** PR #69 innehåller Skaga-kapellpaketet och separata evidensnoter. Dessa är källunderlag, inte en andra aktiv huvudartikel. Skaga del 1 kräver fortsatt originalarkivkontroll innan komplett artikel kan läggas i godkännandekön.
+## Nyhetsuppdatering – 23 november 2026
+
+### Hormuz och sjöfarten
+UKMTO Advisory 217-26, daterad 22 november kl. 14:25 UTC, beskriver en rapporterad incident mellan en tanker och militära styrkor i Omanbukten. Den är klassificerad som **Advisory**, inte Attack, och innehåller ingen uppgift om träff, projektil, skada, personskada eller miljöpåverkan. Håll den separat från UKMTO 214–216 nära Khasab den 20–21 november; 215/216 kan avse samma tanker och ska inte räknas som två säkert identifierade fartyg.  
+Källa: https://www.ukmto.org/-/media/ukmto/products/20261122_ukmto_-advisory_217-26.pdf
+
+### Maktförskjutningen i USA:s kongress
+Efter Chuck Hubbards seger över Virginia Foxx i North Carolinas femte distrikt har demokraterna säkrat minst **258 av 435 platser** i representanthuset; fyra valkretsar återstår att kalla. Den inkommande senatsmajoriteten är **56–44**. Den 120:e kongressen tillträder 3 januari 2027; den sittande 119:e kongressen behåller sina nuvarande mandat fram till dess. H.R. 2347, as amended med BAAJA/SA 6883, passerade senaten 62–33 den 19 november men är ännu inte lag och väntar på representanthusets behandling.  
+Källor: https://apnews.com/article/721096a4d9ba2cd68683692361798cdb · https://www.reuters.com/world/us/north-carolina-win-gives-democrats-biggest-us-house-majority-since-early-1990s-2026-11-22/ · https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00270.htm
+
+### Palantir – Q3, DOJ och Karps Form 144
+Q3 2026 redovisade 2,313 miljarder USD i intäkter, 984 miljoner USD i USA:s kommersiella intäkter, 953 miljoner USD från amerikanska myndighetskunder och 4,9 miljarder USD i RPO. DOJ:s åtal mot Igor D’iu är en separat säkerhetshändelse; DOJ namnger inte Palantir i pressmeddelandet, medan Reuters identifierar bolaget. Den 20 november lämnade Alexander Karp dessutom in en Form 144 om en **föreslagen** försäljning av 585 000 aktier, med ett angivet sammanlagt marknadsvärde på 85 900 756,50 USD. Form 144 visar en föreslagen försäljning, inte att affären genomförts.  
+Källor: https://www.sec.gov/Archives/edgar/data/1321655/000195004726011411/xsl144X01/primary_doc.xml · https://www.reuters.com/legal/litigation/us-department-of-justice-charges-russian-targeting-palantir-foreign-agent-2026-11-18/ · https://investors.palantir.com/files/2026%20Q3%20PLTR%2010-Q.pdf
+
+### Svenska Gripen över Polen
+Försvarsmakten bekräftar en flera timmar lång insats natten till 20 november med svenska Gripen, polska F-16 och nederländskt tankflyg. Polens försvarsministerium redovisar tre nedfallsplatser och att en Ch-101 identifierats vid Nowy Lipowiec. Polens operativa befälhavare uppger i Rzeczpospolita att CAOC Uedem utfärdat ett villkorat eldtillstånd; en svensk pilot försökte följa ett objekt som preliminärt bedömdes vara en Kh-101 men avlossade inget skott eftersom positiv identifiering inte kunde göras i det svåra vädret. Det senare är en attribuerad uppgift från befälhavaren genom sekundär rapportering, inte en detalj i Försvarsmaktens svenska pressmeddelande.  
+Källor: https://www.mynewsdesk.com/forsvarsmakten/pressreleases/swedish-jas-gripen-in-allied-air-defence-operations-over-poland-3479554 · https://www.gov.pl/web/obrona-narodowa/wicepremier-w-kosiniak-kamysz-o-naruszeniu-polskiej-przestrzeni-powietrznej · https://www.rp.pl/konflikty-zbrojne/art45521881-pilot-mial-zgode-nato-na-zestrzelenie-rosyjskiego-pocisku-wiadomo-dlaczego-nie-strzelil
+
+**Samlad status:** uppgifterna ovan är daterade bevakningsuppdateringar och evidensnoter. De är inte nya huvudartiklar och ändrar inte den fastställda huvudartikelordningen.
+
 ## Aktuella nyhetsspår
 
 | Spår | Artikelvinkel | Status 17 nov 2026 (historisk ögonblicksbild) |
