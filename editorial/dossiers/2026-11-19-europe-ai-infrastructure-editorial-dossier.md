@@ -1,6 +1,6 @@
 # Redaktionellt dossier – Europas AI-infrastruktur
 
-**Senast uppdaterat:** 22 november 2026 – BOE-kontroll av Real Decreto 1032/2026, skotsk EIA-regel och aktuell Render-/route-status  
+**Senast uppdaterat:** 23 november 2026 – EuroHPC:s aktuella utlysningssida, förlängda lotfrister och kontroll av äldre tender-PDF  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
 **Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
@@ -388,3 +388,21 @@ Efter kontroll av artiklarna 2, 7–9, 11–13 och övergångsbestämmelserna ha
 - Artikeltextens senaste innehållscommit efter dessa preciseringar: `3fff61ef05aff5c1e2f4b9bc1cedff0cc02fad87`.
 
 **Redaktionell kontroll:** dessa övergångar är inte generella undantag. De är villkorade och ska redovisas som separata rättsliga vägar, inte som att alla datacenter har samma tidsfrister eller gränsvärden.
+
+
+## Kontroll 23 november 2026 – EuroHPC:s aktuella utlysning
+
+**Primärkälla:** EuroHPC:s officiella utlysningssida visar fortfarande status **Open** och innehåller ett meddelande uppdaterat 5 november 2026:
+- Lot 1: förlängd sista anbudsdag till **4 februari 2027 kl. 17.00, Europe/Luxembourg**.
+- Lot 2: sista anbudsdag **3 december 2026 kl. 17.00, Europe/Luxembourg**.
+- Alla utkast och redan inlämnade anbud i det tidigare eSubmission-systemet ska återskapas och skickas in via de nya länkarna; äldre versioner kommer inte att beaktas.
+
+**Versionsskillnad:** Tender Specifications v2, Ares(2026)9990852, daterad 23 oktober, anger fortfarande den ursprungliga fristen 12 november 2026 kl. 16.00 Luxembourg time. Den aktuella EuroHPC-utlysningssidan har därefter publicerat en uttrycklig förlängning för Lot 1 och bekräftar Lot 2:s senare frist. Den officiella sidan är därför primärkällan för den aktuella tidsplanen; PDF:ens ursprungliga datum ska inte återges som gällande.
+
+**Redaktionell konsekvens:** AI Gigafactory Northerns besked 16 november om att konsortiet avser att lämna anbud ska beskrivas som en avsikt, inte som bevis på att ett anbud redan har lämnats. Lot 2 var ännu inte stängd vid kontrollen 23 november.
+
+Källor:
+- EuroHPC – aktuell utlysningssida: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- Tender Specifications v2, Ares(2026)9990852: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/docs/bc712395-692d-41ab-aa25-8e254ae86eb2-CN/CfT%20AIGF%20-%20Tender%20Specifications%20v2_V1.pdf
+
+**Kontrollstatus:** officiell utlysningssida öppnad och tidsfristerna kontrollerade 23 november. Ingen uppgift om faktisk inlämning eller tilldelning för AI Gigafactory Northern har fastställts i denna kontroll.
