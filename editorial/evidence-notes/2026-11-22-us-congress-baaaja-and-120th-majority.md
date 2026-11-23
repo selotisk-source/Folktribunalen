@@ -7,7 +7,7 @@
 
 ## 1. Den inkommande kongressens majoritet
 
-Associated Press och Reuters rapporterar att Mary Peltola besegrade den sittande republikanske senatorn Dan Sullivan i Alaskas senatsval, den sista ännu oavgjorda senatsvalskretsen i mellanårsvalet. Demokraterna går därmed in i den 120:e kongressen med en majoritet på **56–44 i senaten** och har också återtagit representanthuset. AP redovisade 42 vunna representanthusmandat vid sin publicering.
+Associated Press och Reuters rapporterade den 22 november att demokraten Chuck Hubbard besegrat den republikanska representanten Virginia Foxx i North Carolinas femte distrikt efter omräkning. Demokraterna har därmed säkrat **minst 258 av 435 platser** i representanthuset; fyra valkretsar återstår att kalla. Demokraterna går samtidigt in i den 120:e kongressen med **56–44 i senaten**. Det innebär minst 44 nettovinster i representanthuset enligt AP:s sammanställning, men den slutliga mandatfördelningen är ännu inte helt fastställd.
 
 Den nya mandatfördelningen gäller när den 120:e kongressen tillträder den **3 januari 2027**. Den ska inte beskrivas som en omedelbar förändring av den sittande 119:e kongressens mandatfördelning.
 
@@ -15,6 +15,9 @@ Den nya mandatfördelningen gäller när den 120:e kongressen tillträder den **
 
 - **Oberoende rapportering:** Associated Press, 18 november 2026, Peltolas seger i Alaska och den nya 56–44-majoriteten. https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953
 - **Oberoende rapportering:** Reuters, 18 november 2026. https://www.reuters.com/world/us/democrat-peltola-wins-alaska-securing-56-44-us-senate-majority-2026-11-18/
+- **Oberoende rapportering:** Associated Press, 22 november 2026, minst 258 representanthusplatser och fyra ännu oavgjorda valkretsar. https://apnews.com/article/721096a4d9ba2cd68683692361798cdb
+- **Oberoende rapportering:** Reuters, 22 november 2026, North Carolina-resultatet och den största demokratiska representanthusmajoriteten sedan 1992. https://www.reuters.com/world/us/north-carolina-win-gives-democrats-biggest-us-house-majority-since-early-1990s-2026-11-22/
+- **Oberoende rapportering:** Associated Press, 22 november 2026, Chuck Hubbards seger efter omräkning. https://apnews.com/article/23732afcd78a853e98acd9b72d0cbd14
 - **Oberoende rapportering:** Associated Press, demokraternas nio nettovinster i senaten och återtagande av representanthuset. https://apnews.com/article/aa623c1c32cb493c21633a1a6a140578
 
 ## 2. H.R. 2347 och Bipartisan American Affordability and Jobs Act
@@ -40,7 +43,7 @@ Här krävs en tydlig förklaring av lagstiftningsfordonet:
 
 ## Faktastatus och redaktionella gränser
 
-- **Bekräftat:** Peltola vann Alaskas senatsval enligt AP/Reuters; demokraterna har en inkommande senatsmajoritet på 56–44 och representanthusmajoritet.
+- **Bekräftat enligt AP/Reuters 22 november:** demokraterna har minst 258 representanthusplatser med fyra valkretsar ännu oavgjorda; senatsmajoriteten är 56–44.
 - **Bekräftat i officiella röstningsprotokoll:** SA 6883 antogs 69–27; H.R. 2347, as amended, passerade 62–33; H.Con.Res. 93 avslogs 48–51.
 - **Bekräftat i Congressional Record:** SA 6883:s ersättningstext bär namnet BAAJA.
 - **Inte lag:** senatens passage räcker inte; representanthuset måste behandla den ändrade texten och därefter krävs presidentens åtgärd.
