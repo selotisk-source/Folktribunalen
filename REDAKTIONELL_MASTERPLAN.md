@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 23 november 2026, 02:39 EET – GitHub, officiell EuroHPC-utlysning, BOE och publik route kontrollerade  
+**Version:** 23 november 2026 – kompletterad efter Reuters rapportering om molnsuveränitet och ny GitHub-/Render-kontroll  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens anslutna adminväg → faktisk HTTP-kontroll av publik route. Nästa huvudartikel får inte starta före kontroll av rätt rubrik, ingress och fulltext på den aktuella publika routen.
 
 **Obligatorisk PR-spärr:** Varje artikel-PR ska vara Open/Draft under hela research-, faktakontrolls-, redigerings- och godkännandefasen. Den får inte markeras Ready for review före separat uttryckligt chefredaktörsgodkännande av exakt aktuell commit. Före detta godkännande är merge, cherry-pick till main, deploy, databasändring, frontendändring och publicering förbjudna. Efter godkännandet får endast den godkända versionen gå via den anslutna adminvägen. Äldre generella godkännanden gäller inte materiellt ändrade versioner. Mergade äldre avvikelser hålls historiska och får inte utökas med nya deployer utan separat godkännande.
@@ -15,10 +15,11 @@
 
 - **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
 - **PR:** [#71 – Open/Draft](https://github.com/selotisk-source/Folktribunalen/pull/71), gren `editorial/europe-ai-infrastructure-review-2026-11-17`.
-- **Exakt aktuell PR-head:** `54f368d72a6330f41c9c5b7ef43edfec489ffaae`.
-- **Omfattning:** 30 commits, två ändrade filer; komplett artikel med tolv huvudavsnitt, slutsats, faktaruta, 45 primärkällor och 23 oberoende rapporteringskällor, samt internt dossier med bildförslag, rättighetsstatus, faktakontroll och öppna frågor.
+- **Exakt aktuell PR-head:** `2d181f0cc16385d345ef5cc9274e2d30a694d08b`.
+- **Omfattning:** 33 commits, två ändrade filer; komplett artikel med tolv huvudavsnitt, slutsats, faktaruta, 50 primärkällor och 24 oberoende rapporteringskällor, samt internt dossier med bildförslag, rättighetsstatus, faktakontroll och öppna frågor.
 - **Godkännande:** separat chefredaktörsgodkännande av exakt aktuell head saknas. PR #64:s tidigare godkännande gäller inte denna materiellt uppdaterade version. PR #71 har 0 review submissions och 0 inline review threads; den enda issue-kommentaren är en faktakontroll daterad 17 november 2026, inte ett godkännande.
 - **Senaste artikeluppdatering:** 23 november – EuroHPC:s officiella utlysningssida har lagts till som primärkälla och tidsfristerna har preciserats. Sidan är Open; Lot 2 stänger 3 december 2026 kl. 17.00 och Lot 1 4 februari 2027 kl. 17.00 (Europe/Luxembourg). Meddelandet 5 november säger att gamla utkast och inlämnade anbud i det tidigare eSubmission-systemet inte beaktas och måste återskapas. Tender Specifications v2 från 23 oktober visar fortfarande den ursprungliga fristen 12 november; den senare officiella utlysningssidan anger förlängningen. Källa: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **Ny komplettering 23 november – molnsuveränitet:** artikeln har fått ett nytt avsnitt om EU-kommissionens upp till 180 miljoner euro stora ram för suveräna molntjänster, Nederländernas STACKIT-avtal, Schweiz upphandling av Swiss Government Cloud och kommissionens marknadsbild i COM(2026) 502. Texten skiljer upphandlingstak från faktisk användning, ramavtal från byggbudget och SEAL-3/SEAL-2 från full EU-leveranskedja SEAL-4. Reuters rapporterar att upphandlingar i högre grad väger in operativ autonomi, krypteringsnycklar och exit-rättigheter, men också att migrationerna går långsamt. Primärkällor: https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_en · https://www.rijksoverheid.nl/actueel/nieuws/2026/04/23/rijksoverheid-sluit-deal-met-europees-cloudplatform-stackit · https://www.admin.ch/en/newnsb/vL4DxR3WIhey · https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502. Oberoende källa: https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
 - **Spanien:** BOE publicerade Real Decreto 1032/2026 den 21 november; den trädde i kraft 22 november. Artikeltexten skiljer 10 MW access power från 500 kW IT-effekt för artikel 13:s rapporterings-/publiceringskrav. Artikel 5 om ALTA-system gäller oberoende av MW-tröskeln men endast när systemet klassats i den högsta säkerhetskategorin. Två skilda 80-procentskrav, PUE/WUE, övergångar och den särskilda EU-projektregimen redovisas separat. Primärkälla: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439
 - **IEA:** artikeln använder IEA:s *World Energy Outlook 2026*, publicerad 19 november, för global jämförelse. Uppgifterna om cirka 60 procent kol-/gasbaserad fysisk elförsörjning till datacenter och cirka 70 procents utsläppsökning till 2030 gäller globalt och IEA:s STEPS-scenario, inte en särskild prognos för Europa.
 - **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått via adminvägen och klarat faktisk LIVE-kontroll.
@@ -33,6 +34,7 @@
 - **PR #78:** ODJURET UR DJUPET (research).
 - **PR #79:** nyhetsbevakning – Hormuz, USA:s kongress, Palantir och Gripen (research/evidensnoter).
 - **PR #80:** Varna/Svarta havet – undervattenskulturarv, Karon Limen och regional historia (research/evidensnoter).
+- **PR #81:** Cypern – Geroskipou-Monagri, Strabon och Afrodite (researchuppdatering, inte huvudartikel).
 - Religion/Folket/Tradition är portfölj- och researchbankar. De är inte aktiva huvudartiklar. Ingen parallell huvudartikel har startats.
 
 ### GitHub – faktisk kontroll 23 november
@@ -40,8 +42,8 @@
 - Repository: `selotisk-source/Folktribunalen`.
 - `main` head: `04e00e97b35bb984d783bab652011a3d7441a0cd`.
 - Masterplanen på `main` är fortfarande den äldre 18-novemberversionen; denna uppdatering ligger endast i PR #73 Draft och är inte mergad till main.
-- GitHub API returnerade 67 öppna PR:er; samtliga 67 hade `draft=true`, noll öppna icke-Draft-PR:er.
-- PR #71: Open/Draft, 30 commits, två filer, head enligt ovan.
+- GitHub API returnerade 68 öppna PR:er; samtliga 68 hade `draft=true`, noll öppna icke-Draft-PR:er.
+- PR #71: Open/Draft, 33 commits, två filer, head enligt ovan.
 - PR #73: Open/Draft, dokumentations- och hyllningsmodul; denna masterplanrevision ligger kvar på samma Draft-gren.
 - PR #79: Open/Draft, 8 commits och 5 filer.
 - PR #80: Open/Draft, 10 commits och 8 filer.
@@ -49,10 +51,10 @@
 
 ### Render, databas och publik route – kontroll 23 november
 
-- Render `list_workspaces` returnerade en arbetsyta med namnet **My Workspace**. Ingen tjänste- eller deploymentlista hämtades eftersom arbetsytan inte har valts/bekräftats för denna körning. Renderstatusen nedan är därför historisk och inte en nykontrollerad service-status.
+- Render `list_workspaces` returnerade en arbetsyta: **My Workspace** (`tea-dbjt81flk1mc73a82rg0`). `list_services` svarade `no workspace selected` och kräver att användaren uttryckligen väljer arbetsyta innan tjänste-/deploymentlista kan hämtas. Postgres metadata visar fortsatt `available`, men `ipAllowList=[]`; den hostade anslutningen kan inte nå databasen. Ingen DB-läsning eller skrivning genomfördes.
 - Senast dokumenterade statiska Render-deploy: 16 november 2026, commit `a43f1579058824a36ccad6245d4616551505431e`; tjänsten har tidigare identifierats som auto-deploy från `main`.
 - Senast dokumenterade redaktionella backend-deploy: 4 november 2026, commit `6a835783553565f239864a9da7160d9f79f692b2`; backendens adminflöde är inte testat end-to-end.
-- Senast dokumenterade Postgres-status: `available`, men `ipAllowList=[]`; en tidigare read-only `SELECT 1` nekades eftersom externa anslutningar blockeras. Ingen DB-läsning eller skrivning genomfördes i denna körning.
+- Aktuell Postgres-metadata: `available`, men `ipAllowList=[]`. Hosted Render MCP saknar en tillåten klientadress; åtkomst kräver lokal Render MCP eller att en betrodd klient-IP tillåts i databasens Networking-inställningar. Ingen DB-läsning eller skrivning genomfördes i denna körning.
 - Publik route testades 23 november via både direkt GET i container och webbläsarhämtning: DNS-uppslagningen misslyckades (`Temporary failure in name resolution` / URL not accessible). Ingen HTTP-status, rubrik, ingress eller fulltext kunde erhållas. Artikeln är inte LIVE-kontrollerad.
 - `main/src/app.js` har fortfarande den tidigare bekräftade mismatchen: kortmetadata för sluggen `europas-ai-infrastruktur` pekar på Meta/Ofcom medan body-mappningen innehåller Google Wyoming/Crusoe/AEP. PR #71 innehåller den separata AI-infrastrukturtexten. Ingen frontendändring har gjorts.
 - Ingen merge, cherry-pick till main, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontroll.
@@ -64,7 +66,7 @@
 ### Nästa steg
 
 1. Fortsätt samma huvudartikel med källkontroll, öppna frågor och redigering i PR #71 Draft.
-2. Invänd separat chefredaktörsgodkännande av exakt head `54f368d72a6330f41c9c5b7ef43edfec489ffaae`.
+2. Invänd separat chefredaktörsgodkännande av exakt head `2d181f0cc16385d345ef5cc9274e2d30a694d08b`.
 3. Efter godkännande: använd endast redaktionens anslutna adminväg och kontrollera HTTP-status, rubrik, ingress och fulltext på den faktiska publika routen.
 4. Starta inte PR #38 som aktiv huvudartikel före den kontrollen.
 5. Håll alla sex återkommande hyllningar och källhänvisningarna för Levski i varje utgåva.
@@ -74,7 +76,7 @@
 | Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status / senaste kontroll |
 |---|---|---|---|---|
 | 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE.** PR #55 mergad; publik route HTTP 200 kontrollerad 13 nov. Daterat NHS-tillägg från 12 nov förbereds separat efter avslutad spår-2-cykel. |
-| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell head `54f368d72a6330f41c9c5b7ef43edfec489ffaae`, 30 commits, två filer.** 45 primärkällor och 23 oberoende rapporteringskällor. Ny kontroll 23 nov av EuroHPC:s officiella lotfrister; separat chefredaktörsgodkännande av exakt head saknas. Ingen LIVE-kontroll; route-DNS och Render-/adminåtkomst blockerar fortsatt kontroll. Nästa huvudspår startar inte före godkännande och LIVE-test. |
+| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell head `2d181f0cc16385d345ef5cc9274e2d30a694d08b`, 33 commits, två filer.** 50 primärkällor och 24 oberoende rapporteringskällor. Ny kontroll 23 nov av EuroHPC:s officiella lotfrister; separat chefredaktörsgodkännande av exakt head saknas. Ingen LIVE-kontroll; route-DNS och Render-/adminåtkomst blockerar fortsatt kontroll. Nästa huvudspår startar inte före godkännande och LIVE-test. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | PR #38 öppen Draft. Komplett första granskningsutkast; kräver reproducerbara observationer, alternativa hypoteser, felkällor och tydlig gräns mellan sammanträffande och kausalitet. Nästa huvudartikel först efter spår 2:s LIVE-kontroll. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 öppen Draft och delutkast. Huvudartikeln behöver musei-/utställningsmaterial och byggnadsarkeologi. Samuils gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | PR #34 och #51 öppna Draft; PR #65 om Kazakstans tungstenprojekt öppet Draft. Skilj CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
