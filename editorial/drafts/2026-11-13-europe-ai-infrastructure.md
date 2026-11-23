@@ -436,6 +436,8 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 | Sverige / EuroHPC | Upp till 50 miljoner euro | Riksdagens bemyndigande till statliga åtaganden för beräkningskraft under fem år | Offentligt åtagande till gemensam upphandling; inte byggbudget eller garanti för en svensk anläggning |
 | Uniper / flera europeiska platser | Cirka 700 MW | Bolagets uppgift om säkrad nätkapacitet för datacenterprojekt i avancerad utvecklingsfas | Bolagsuppgift; inte driftsatt effekt eller bekräftade kundavtal |
 | Spanien / Real Decreto 1032/2026 | Minst 10 MW anslutningseffekt (aggregeras per plats/ägare); 500 kW IT för rapportering; 80 % + 80 % | Additionalitet och timkorrelation; PUE ≤1,25/WUE ≤0,1 generellt övergångsvärde; separat EU-projektregim | BOE-A-2026-24439 publicerad 21 november; i kraft 22 november 2026 |
+| EU-kommissionens suveräna molnupphandling | Upp till 180 miljoner euro över sex år | Ram för avrop av molntjänster från fyra leverantörsgrupper; inte byggbudget | Tilldelad 17 april 2026; faktisk avropsvolym återstår |
+| Swiss Government Cloud | Upp till 7 miljarder CHF över 14 år | Maximalt upphandlingsvärde för tre molnnivåer; kostnader vid faktisk användning | Upphandling öppnad 20 oktober 2026; tilldelning ännu inte beslutad |
 
 **Viktig måttregel:** siffrorna ovan avser olika saker. De ska inte summeras till en totalsiffra för Europas byggda eller driftsatta AI-kapacitet.
 
