@@ -216,6 +216,22 @@ OVHcloud meddelade samtidigt partnerskap med Shadow, Qwant och European Search P
 
 **Källstatus:** Produktlanseringen och GPU-kapaciteten är bolagsuppgifter. Uppgiften om 110 MW ledig kapacitet och Qwants trafik återges av Reuters från bolagets besked. Underlaget visar inte hur kapaciteten fördelas mellan enskilda anläggningar, hur mycket som faktiskt används eller hur mycket som redan är kontrakterat. OVHclouds produktlansering ska därför inte räknas som 110 MW nybyggd eller nyansluten kapacitet.
 
+### Molnsuveränitet: upphandlingarna rör sig, marknaden består
+
+Den 17 april 2026 tilldelade EU-kommissionen fyra parallella kontrakt för suveräna molntjänster med ett sammanlagt värde på **upp till 180 miljoner euro under sex år**. Leverantörsgrupperna leds av Post Telecom, STACKIT, Scaleway respektive Proximus. Det är en ram för EU:s institutioner, organ och byråer att köpa molntjänster – inte ett bygganslag till nya datacenter och inte ett löfte om att hela beloppet kommer att användas. Kommissionens Cloud Sovereignty Framework bedömer åtta områden, bland annat strategisk, juridisk och operativ kontroll, miljö, leveranskedjors transparens, teknisk öppenhet och säkerhet.
+
+Kommissionens egen förklaring av tilldelningen visar också varför ordet ”europeisk” inte får likställas med en helt europeisk teknikstack. Post Telecom-gruppen, STACKIT och Scaleway nådde enligt kommissionen SEAL-3, medan Proximus/S3NS nådde SEAL-2. S3NS är ett samarbete mellan Thales och Google Cloud och använder Google Cloud-teknik i en miljö som enligt kommissionen drivs exklusivt av EU-bolag. SEAL-4 – en fullständigt europeisk leveranskedja från chip till programvara – är en separat och högre nivå. Tilldelningen visar alltså att teknisk suveränitet kan bedömas genom kontroll, drift och avtalsvillkor, inte enbart genom leverantörens nationalitet.
+
+Nederländernas regering slöt den 23 april ett ramavtal med STACKIT. Statliga organisationer kan köpa tjänster enligt villkor som bland annat kräver att data lagras inom EES och ger staten revisionsrätt. Avtalet innehåller också möjlighet att avsluta kontrakt om leverantören hamnar under ägande från en part utanför EES. Det finns däremot inget obligatoriskt uttag eller minsta köpvolym: myndigheterna avgör själva om och i vilken omfattning de använder tjänsterna.
+
+Schweiz valde en annan modell när förbundets IT-myndighet den 20 oktober 2026 öppnade upphandlingen Swiss Government Cloud. Den delar upp behovet i tre nivåer: global publik molntjänst, publik molntjänst med förstärkt datastyrning där data lagras och behandlas uteslutande i Schweiz samt privat moln på plats i federala datacenter. Det angivna maximala upphandlingsvärdet på sju miljarder schweizerfranc över 14 år är ett tak för möjliga avrop, inte en redan beslutad utgift. Kostnader ska uppstå först när resurser faktiskt används. Upphandlingen är ännu inte ett tilldelningsbeslut; regeringen anger sensommaren 2027 som förväntad tid för tilldelning och avtal, förutsatt att processen inte försenas av invändningar.
+
+Reuters rapporterade den 23 november att suveränitetskrav får större betydelse i europeiska offentliga upphandlingar och i reglerade branscher. Kriterierna gäller i allt högre grad operativ självständighet, kontroll över krypteringsnycklar, motståndskraft och möjligheten att lämna en leverantör – inte bara var serverhallen står. Samtidigt beskriver de intervjuade företagsföreträdarna långa migrationsprocesser, ofta 12–24 månader, och en fortsatt stark inlåsning i etablerade plattformar.
+
+Kommissionens förslag till Cloud and AI Development Act från juni 2026 beskriver marknadens strukturella utgångsläge: EU-leverantörernas andel av molnmarknaden sjönk från 29 procent 2017 till 15 procent 2022 och hade enligt förslaget därefter legat stilla. Tre leverantörer utanför EU uppges kontrollera mer än 70 procent av den europeiska marknaden. Det är kommissionens marknadsbild i ett lagförslag, med historiska jämförelseår – inte en ny oberoende mätning av marknadsandelarna i november 2026.
+
+De nya upphandlingarna visar därför en faktisk förskjutning i hur offentliga kunder formulerar sina krav, men de bevisar ännu inte att Europas molnmarknad har bytt struktur. Suveränitet måste kunna visas i drift, kontroll, leveranskedja, avtalsrätt och faktisk möjlighet att byta leverantör. En europeisk adress räcker inte; ett europeiskt namn på ett avtal räcker inte heller.
+
 ## 7. Skellefteå: en gigawatt är en möjlig framtid – men bygglov och nät är separata steg
 
 Det tidigare Northvolt-området i Bergsbyn i Skellefteå håller på att få en ny industriell roll. Lyten förvärvade Northvolts svenska tillgångar i februari 2026. EdgeConneX har presenterat planer på ett datacentercampus med en potentiell kapacitet på upp till en gigawatt, under förutsättning att nödvändiga administrativa och regulatoriska processer slutförs.
@@ -393,7 +409,7 @@ IEA uppskattar också att omkring 180 GW gaseldad kapacitet i USA, 11 GW i Kanad
 
 Europa bygger AI-infrastruktur på flera fronter samtidigt. På vissa platser finns redan tillstånd, äldre nätavtal och stora kunder. På andra finns finansieringspaket, reserverade nätvolymer, planerade superdatorer eller politiska ambitioner som fortfarande väntar på upphandling, miljöprövning och effekt.
 
-Det finns ingen enda europeisk modell. Amsterdam visar hur äldre rättigheter kan forma dagens nätdebatt. Norge visar att tillgång till el och tillgång till nät inte är samma sak. Finland visar att miljöprövning kan stoppa betydande markarbeten utan att projektet därmed är avbrutet. Skottland visar hur offentlig kreditrisk kan hjälpa privat finansiering. Sofia visar hur en EU-superdatorupphandling skiljer sig från en separat gigafabriksvision. Skellefteå visar hur en industriell fastighet kan marknadsföras som framtida AI-campus långt innan kapaciteten är byggd. Uniper visar hur energibolag kan bli plats- och nätaktörer, medan EBRD:s regionala analys visar att elnätskapacitet och kompetens är ojämnt fördelade. OVHcloud visar samtidigt att europeiska leverantörer kan bygga AI-tjänster på redan existerande kapacitet. ECB:s nya analys visar växande men metodologiskt svårmätta kreditexponeringar. BNEF:s och IEA:s globala underlag visar dessutom varför reservkraft, elmix och utsläpp måste följas separat från nätanslutning och faktisk drift.
+Det finns ingen enda europeisk modell. Amsterdam visar hur äldre rättigheter kan forma dagens nätdebatt. Norge visar att tillgång till el och tillgång till nät inte är samma sak. Finland visar att miljöprövning kan stoppa betydande markarbeten utan att projektet därmed är avbrutet. Skottland visar hur offentlig kreditrisk kan hjälpa privat finansiering. Sofia visar hur en EU-superdatorupphandling skiljer sig från en separat gigafabriksvision. Skellefteå visar hur en industriell fastighet kan marknadsföras som framtida AI-campus långt innan kapaciteten är byggd. Uniper visar hur energibolag kan bli plats- och nätaktörer, medan EBRD:s regionala analys visar att elnätskapacitet och kompetens är ojämnt fördelade. OVHcloud visar samtidigt att europeiska leverantörer kan bygga AI-tjänster på redan existerande kapacitet. EU-kommissionens och Nederländernas molnupphandlingar visar att operativ kontroll och exit-rättigheter börjar skrivas in i avtalen, men kommissionens egen marknadsbild visar att detta ännu inte har brutit de stora leverantörernas dominans. ECB:s nya analys visar växande men metodologiskt svårmätta kreditexponeringar. BNEF:s och IEA:s globala underlag visar dessutom varför reservkraft, elmix och utsläpp måste följas separat från nätanslutning och faktisk drift.
 
 FOLKTRIBUNALENS slutsats är att Europas AI-kapplöpning inte kan mätas i annonserade gigawatt eller miljardbelopp ensamma. Den måste mätas i faktisk levererad beräkningskapacitet, verifierad elförsörjning, fungerande tillstånd, transparent finansiering och den nytta som kan visas för de samhällen som står för marken, infrastrukturen och en del av risken.
 
@@ -562,7 +578,26 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 45. **EuroHPC Joint Undertaking – aktuell utlysningssida för AI Gigafactories**, uppdaterad 5 november 2026 och kontrollerad 23 november. Den anger status Open, Lot 2-frist 3 december 2026 kl. 17.00 och förlängd Lot 1-frist 4 februari 2027 kl. 17.00, samt att gamla utkast/inlämningar måste återskapas via nya länkar. Denna uppdaterade sida är den aktuella källan för tidsfristerna; Tender Specifications v2 visar den ursprungliga fristen 12 november:  
     https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
 
+46. **Europeiska kommissionen – Commission advances cloud sovereignty through strategic procurement**, 17 april 2026. Tilldelning av upp till 180 miljoner euro över sex år, de fyra leverantörsgrupperna och Cloud Sovereignty Framework:  
+    https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_en
+
+47. **Europeiska kommissionen – Sovereign Cloud Framework explained**, 1 juni 2026. Förklarar SEAL-nivåerna, däribland skillnaden mellan SEAL-3 och full EU-leveranskedja på SEAL-4:  
+    https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en
+
+48. **Nederländernas regering – Rijksoverheid sluit deal met Europees cloudplatform STACKIT**, 23 april 2026. Ramavtal, EES-lagring, revisionsrätt, exitvillkor och frånvaro av obligatorisk minimiavropning:  
+    https://www.rijksoverheid.nl/actueel/nieuws/2026/04/23/rijksoverheid-sluit-deal-met-europees-cloudplatform-stackit
+
+49. **Schweiziska förbundsrådet – Swiss Government Cloud: tender procedure launched**, 20 oktober 2026. Tre molnnivåer, upphandlingens maximala volym och principen att kostnader uppstår vid faktisk användning:  
+    https://www.admin.ch/en/newnsb/vL4DxR3WIhey
+
+50. **EUR-Lex – Proposal for a Cloud and AI Development Act, COM(2026) 502**, 3 juni 2026. Kommissionens marknadsbeskrivning: EU-leverantörernas andel 29 procent 2017 och 15 procent 2022 samt över 70 procents samlad andel för tre leverantörer utanför EU:  
+    https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502
+
+
 ## Oberoende rapportering och kompletterande källor
+24. **Reuters – Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant**, 23 november 2026. Rapportering om offentlig upphandling, operativ kontroll, leverantörsinlåsning och långsamma migrationsprocesser:  
+    https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
+
 
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
    https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/
