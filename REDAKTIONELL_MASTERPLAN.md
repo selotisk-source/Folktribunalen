@@ -1,122 +1,80 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 22 november 2026 – uppdaterad nyhetsbevakning, PR #79 och fullständig kontroll av Real Decreto 1032/2026, EuroHPC och Render-/route-status
-**Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens system → faktisk HTTP-kontroll av publik route.  
-**Publiceringsspärr:** Ingen automatisk publicering, merge eller driftsättning. Varje enskild artikel kräver chefredaktörens uttryckliga LIVE-godkännande. Om admin eller databas är blockerad fortsätter arbetet i utkastet; publicering får inte ersättas med en parallell statisk kodväg. Äldre daterade statusloggar längre ned är historiska ögonblicksbilder; den översta arbetskontrollen anger aktuell status.
+**Version:** 23 november 2026, 02:39 EET – GitHub, officiell EuroHPC-utlysning, BOE och publik route kontrollerade  
+**Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens anslutna adminväg → faktisk HTTP-kontroll av publik route. Nästa huvudartikel får inte starta före kontroll av rätt rubrik, ingress och fulltext på den aktuella publika routen.
 
+**Obligatorisk PR-spärr:** Varje artikel-PR ska vara Open/Draft under hela research-, faktakontrolls-, redigerings- och godkännandefasen. Den får inte markeras Ready for review före separat uttryckligt chefredaktörsgodkännande av exakt aktuell commit. Före detta godkännande är merge, cherry-pick till main, deploy, databasändring, frontendändring och publicering förbjudna. Efter godkännandet får endast den godkända versionen gå via den anslutna adminvägen. Äldre generella godkännanden gäller inte materiellt ändrade versioner. Mergade äldre avvikelser hålls historiska och får inte utökas med nya deployer utan separat godkännande.
 
-## Aktuell arbetskontroll – 22 november 2026
+**Återkommande hyllning i varje utgåva:** Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-notisen ska ange både National Museum Vasil Levski – Documentary Heritage (https://vlevskimuseum-bg.org/en/documentary-heritage/) och National Library of Bulgaria – Levski's Notebook (https://www.nationallibrary.bg/levski/). Skilj dokumenterade uppgifter från hyllning och tolkning; inga citat utan kontroll mot original eller kontrollerad transkription.
 
-### Aktiv huvudartikel
+Äldre daterade loggar längre ned är historiska ögonblicksbilder. Denna översta kontroll anger aktuell status per 23 november 2026.
 
-- **Filversioner:** artikeltextens senaste commit är `3fff61ef05aff5c1e2f4b9bc1cedff0cc02fad87`; dossierets senaste commit är `3eeb2e4c34e4790eb2771ffddb3a5ae782646c4b`.
-- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är fortsatt Open/Draft på `editorial/europe-ai-infrastructure-review-2026-11-17`. Aktuell PR-head efter artikel- och dossieruppdatering: `3eeb2e4c34e4790eb2771ffddb3a5ae782646c4b`. PR #71 har 28 commits och två ändrade filer: komplett artikelutkast samt internt redaktionellt dossier. Artikelutkastet innehåller 44 primärkällor och 23 oberoende rapporteringskällor.
-- **Nytt rättsligt läge i Spanien:** Real Decreto 1032/2026 publicerades i BOE 21 november (BOE-A-2026-24439) och trädde i kraft 22 november. Kraven för nätåtkomst gäller datacenter med minst 10 MW anslutningseffekt, aggregerat per plats och ägare. Artikeltexten skiljer 80 procent årlig additionalitet från 80 procent timvis korrelation, redovisar PUE/WUE-övergångsvärden, ALTA-avgränsningen för digital suveränitet, specialregimen för vissa EU-strategiska projekt och tidsfrister för redan tillståndsgivna men ej anslutna projekt. Den beskriver också sexmånadersfönstret för additionalitet till och med 2028, solcellsundantaget, den villkorade 90-procentsvägen och de särskilda EU-projektgränserna.
-- **Skottland:** Scottish Government Direction kräver EIA för nya datacenterutvecklingar över 50 MW inom de Schedule 2-klasser som anges i 2017 års EIA-regler; den har varit i kraft sedan 17 september 2026. Le Monde-rapporteringen om Edinburghprotesten 14 november är märkt som oberoende samhällsrapportering, inte som primärkälla för tillstånd.
-- **EuroHPC:** den officiella upphandlingssidan står Open. Alla gamla utkast och anbud i tidigare inlämningssystem ska återskapas via nya länkar. Lot 2 stänger 3 december 2026 kl. 17.00 CET; Lot 1 4 februari 2027 kl. 17.00 CET. EuroHPC:s 5-novembermeddelande avser byte av inlämningslänkar; 2EU rapporterar en separat teknisk uppdatering 10 november till MLPerf v5.1. Den officiella tender-specifikationen v2 daterad 23 oktober anger Training v5.1 och Inference v5.1; fullständig portalversionshistorik har inte hämtats. Ingen ny inlämning från ett namngivet konsortium är fastställd.
-- **Godkännande:** separat chefredaktörsgodkännande av exakt head `3eeb2e4c34e4790eb2771ffddb3a5ae782646c4b` saknas. Godkännandet av PR #64 gäller inte denna materiellt uppdaterade version. PR #71 har noll review submissions och noll inline review threads.
-- **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått genom den anslutna adminvägen och klarat faktisk LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
+## Aktuell arbetskontroll – 23 november 2026
 
-### Övriga spår och research-PR:er
+### Aktiv huvudartikel – huvudspår 2
 
-Följande öppna PR:er är research-/dokumentationsmaterial, inte aktiva huvudartiklar: PR #72 Cypern; #74 Frölunda; #75 Skaga kapell; #76 Athos/bokvägar; #77 Sofia – staden under staden; #78 Odjuret ur djupet. PR #73 är masterplan och återkommande hyllningsmodul; PR #79 är ett separat nyhetsbevakningspaket med fyra evidensnoter. De ska hållas i Draft och får inte flyttas före huvudartikelkön. Religion/Folket/Tradition, Skaga och övriga serier förblir portfölj- och evidensmaterial. Ingen parallell huvudartikel har startats.
+- **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
+- **PR:** [#71 – Open/Draft](https://github.com/selotisk-source/Folktribunalen/pull/71), gren `editorial/europe-ai-infrastructure-review-2026-11-17`.
+- **Exakt aktuell PR-head:** `54f368d72a6330f41c9c5b7ef43edfec489ffaae`.
+- **Omfattning:** 30 commits, två ändrade filer; komplett artikel med tolv huvudavsnitt, slutsats, faktaruta, 45 primärkällor och 23 oberoende rapporteringskällor, samt internt dossier med bildförslag, rättighetsstatus, faktakontroll och öppna frågor.
+- **Godkännande:** separat chefredaktörsgodkännande av exakt aktuell head saknas. PR #64:s tidigare godkännande gäller inte denna materiellt uppdaterade version. PR #71 har 0 review submissions och 0 inline review threads; den enda issue-kommentaren är en faktakontroll daterad 17 november 2026, inte ett godkännande.
+- **Senaste artikeluppdatering:** 23 november – EuroHPC:s officiella utlysningssida har lagts till som primärkälla och tidsfristerna har preciserats. Sidan är Open; Lot 2 stänger 3 december 2026 kl. 17.00 och Lot 1 4 februari 2027 kl. 17.00 (Europe/Luxembourg). Meddelandet 5 november säger att gamla utkast och inlämnade anbud i det tidigare eSubmission-systemet inte beaktas och måste återskapas. Tender Specifications v2 från 23 oktober visar fortfarande den ursprungliga fristen 12 november; den senare officiella utlysningssidan anger förlängningen. Källa: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **Spanien:** BOE publicerade Real Decreto 1032/2026 den 21 november; den trädde i kraft 22 november. Artikeltexten skiljer 10 MW access power från 500 kW IT-effekt för artikel 13:s rapporterings-/publiceringskrav. Artikel 5 om ALTA-system gäller oberoende av MW-tröskeln men endast när systemet klassats i den högsta säkerhetskategorin. Två skilda 80-procentskrav, PUE/WUE, övergångar och den särskilda EU-projektregimen redovisas separat. Primärkälla: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439
+- **IEA:** artikeln använder IEA:s *World Energy Outlook 2026*, publicerad 19 november, för global jämförelse. Uppgifterna om cirka 60 procent kol-/gasbaserad fysisk elförsörjning till datacenter och cirka 70 procents utsläppsökning till 2030 gäller globalt och IEA:s STEPS-scenario, inte en särskild prognos för Europa.
+- **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått via adminvägen och klarat faktisk LIVE-kontroll.
 
-### Nyhetsbevakning – 22 november 2026 (PR #79)
+### Övriga spår och research
 
-Fyra separata, provenance-länkade evidensnoter har lagts i [PR #79 – Nyhetsbevakning 22 november](https://github.com/selotisk-source/Folktribunalen/pull/79). Aktuell PR-head: `b95a754e40ddc844eb1f441109f72bc51a4e18e3` (7 commits, 4 filer). De är researchmaterial, inte nya huvudartiklar.
+- **PR #72:** Cypern – Palaipafos, heliga geografier och Commandaria (research).
+- **PR #74:** Frölunda – källkedja och evidensnoter (research).
+- **PR #75:** Skaga kapell – arkivåtervinning och källkontroll (research).
+- **PR #76:** Böckernas väg till Athos (research).
+- **PR #77:** Sofia – staden under staden (research).
+- **PR #78:** ODJURET UR DJUPET (research).
+- **PR #79:** nyhetsbevakning – Hormuz, USA:s kongress, Palantir och Gripen (research/evidensnoter).
+- **PR #80:** Varna/Svarta havet – undervattenskulturarv, Karon Limen och regional historia (research/evidensnoter).
+- Religion/Folket/Tradition är portfölj- och researchbankar. De är inte aktiva huvudartiklar. Ingen parallell huvudartikel har startats.
 
-- **Hormuz:** UKMTO 214-26 den 20 november och 215-26/216-26 den 21 november gäller tre rapporterade träffar nära Khasab. Reuters säger att det är oklart om 215 och 216 avser samma tanker. Fartygen är inte namngivna; Irans minuppgift hålls som obekräftad partsuppgift. Gulf News rapporterade 22 november att ledamoten Vahid Ahmadi hävdar att 14 tankfartyg förbereds för att utmana blockaden; fartyg, destination och tidpunkt anges inte och någon oberoende bekräftelse på en seglande konvoj finns inte. Behandla uppgiften som politisk signalering, inte som fastställd flottförflyttning.
-- **USA:s kongress:** Mary Peltolas seger ger Demokraterna en inkommande senatsmajoritet på 56–44 och partiet har återtagit representanthuset. Detta gäller 120:e kongressen från 3 januari 2027, inte den sittande 119:e kongressen. H.R. 2347 användes som lagstiftningsfordon: SA 6883, en ersättningstext med BAAJA som korttitel, antogs 69–27 den 18 november; senaten antog H.R. 2347, as amended, 62–33 den 19 november. Senatens röstningssida visar fortfarande den ursprungliga skattetiteln i metadata. Texten är inte lag och måste behandlas av representanthuset. Separat avslogs H.Con.Res. 93 om krigsmaktsfrågan rörande Iran med 48–51 den 19 november.
-- **Palantir:** Q3-intäkterna var 2,313 miljarder USD (+96 procent år/år); USA:s kommersiella intäkter var 984 miljoner USD mot 953 miljoner USD i USA:s myndighetsintäkter; RPO var 4,9 miljarder USD. DOJ väckte den 18 november åtal mot Igor D’iu för påstått agerande som rysk agent och övervakning av anställda vid ett Silicon Valley-företag. DOJ namnger inte företaget i pressmeddelandet; Reuters identifierar det som Palantir. Anklagelserna är inte fastställda domstolsfakta.
-- **Gripen över Polen:** Försvarsmakten bekräftar svensk Gripen-insats natten till 20 november med lufttankning och samverkan med polska F-16 och nederländskt tankflyg. Polska BBN redovisar tre nedfallsplatser och identifierar ett objekt som en Kh-101. Kyiv Independent rapporterade 22 november med hänvisning till Polens operativa befälhavare att CAOC i Uedem utfärdade ett villkorat eldtillstånd, men att svensk pilot inte kunde identifiera målet visuellt eller elektrooptiskt och därför inte avlossade skott. Detaljen är sekundär rapportering, inte ett besked i Försvarsmaktens pressmeddelande.
+### GitHub – faktisk kontroll 23 november
 
-**Käll- och publiceringsgräns:** detaljer, primärlänkar, oberoende rapportering, faktastatus och öppna frågor finns i PR #79:s fyra separata evidensnoter. Inga av noterna är en färdig artikel eller ett publiceringsgodkännande.
+- Repository: `selotisk-source/Folktribunalen`.
+- `main` head: `04e00e97b35bb984d783bab652011a3d7441a0cd`.
+- Masterplanen på `main` är fortfarande den äldre 18-novemberversionen; denna uppdatering ligger endast i PR #73 Draft och är inte mergad till main.
+- GitHub API returnerade 67 öppna PR:er; samtliga 67 hade `draft=true`, noll öppna icke-Draft-PR:er.
+- PR #71: Open/Draft, 30 commits, två filer, head enligt ovan.
+- PR #73: Open/Draft, dokumentations- och hyllningsmodul; denna masterplanrevision ligger kvar på samma Draft-gren.
+- PR #79: Open/Draft, 8 commits och 5 filer.
+- PR #80: Open/Draft, 10 commits och 8 filer.
+- Ingen PR behövde återställas från Ready for review.
 
-### PR-spärr – aktuell kontroll
+### Render, databas och publik route – kontroll 23 november
 
-- GitHub-sökning den 22 november returnerade **66 öppna Draft-PR:er och 0 öppna icke-Draft-PR:er** i repot.
-- PR #71 är Open/Draft, 28 commits, två filer; noll review submissions och noll review threads.
-- PR #73 är Open/Draft och innehåller endast `REDAKTIONELL_MASTERPLAN.md` samt `editorial/portfolio/recurring-tributes.md`.
-- PR #73 är den plats där denna masterplanuppdatering hålls. **Main-masterplanen är inte ändrad**; den aktuella filen på main har versionsdatum 18 november 2026. Denna 22-novemberkontroll ligger endast i PR #73 Draft.
-- Historiska avvikelser PR #56 Meta/Ofcom och PR #66 Genève/autonoma vapen kvarstår som historiska poster utan nya deployer eller kodändringar.
+- Render `list_workspaces` returnerade en arbetsyta med namnet **My Workspace**. Ingen tjänste- eller deploymentlista hämtades eftersom arbetsytan inte har valts/bekräftats för denna körning. Renderstatusen nedan är därför historisk och inte en nykontrollerad service-status.
+- Senast dokumenterade statiska Render-deploy: 16 november 2026, commit `a43f1579058824a36ccad6245d4616551505431e`; tjänsten har tidigare identifierats som auto-deploy från `main`.
+- Senast dokumenterade redaktionella backend-deploy: 4 november 2026, commit `6a835783553565f239864a9da7160d9f79f692b2`; backendens adminflöde är inte testat end-to-end.
+- Senast dokumenterade Postgres-status: `available`, men `ipAllowList=[]`; en tidigare read-only `SELECT 1` nekades eftersom externa anslutningar blockeras. Ingen DB-läsning eller skrivning genomfördes i denna körning.
+- Publik route testades 23 november via både direkt GET i container och webbläsarhämtning: DNS-uppslagningen misslyckades (`Temporary failure in name resolution` / URL not accessible). Ingen HTTP-status, rubrik, ingress eller fulltext kunde erhållas. Artikeln är inte LIVE-kontrollerad.
+- `main/src/app.js` har fortfarande den tidigare bekräftade mismatchen: kortmetadata för sluggen `europas-ai-infrastruktur` pekar på Meta/Ofcom medan body-mappningen innehåller Google Wyoming/Crusoe/AEP. PR #71 innehåller den separata AI-infrastrukturtexten. Ingen frontendändring har gjorts.
+- Ingen merge, cherry-pick till main, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontroll.
 
-### GitHub, Render och publik route – faktisk kontroll 22 november
+### Historiska publiceringsavvikelser
 
-- PR #71:s basgren är `main` på `04e00e97b35bb984d783bab652011a3d7441a0cd`.
-- **Frontendavvikelse på main:** `src/app.js`, blob `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`, visar Meta/Ofcom-rubrik och ingress för sluggen `europas-ai-infrastruktur`, medan body-mappningen för samma slug innehåller Google Wyoming/Crusoe/AEP. PR #71:s artikeltext är Europas AI-infrastruktur. Detta är en bekräftad kodmismatch; ingen frontendändring har gjorts.
-- **Statisk Render-tjänst:** `folktribunalen`, `srv-dblpumgm7kps73bv55e0`, branch `main`, `autoDeploy=yes`. Senaste listade live-deploy: `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
-- **Redaktionell backend:** `folktribunalen-editorial`, `srv-dblq2r0n74is73cchqh0`, branch `main`, `autoDeploy=yes`. Senaste listade live-deploy: `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
-- Render-konfigurationen visar `ipAllowList=0.0.0.0/0` för webbplats och backend. Det är nätverksåtkomst; backendens autentisering/adminflöde har inte testats end-to-end.
-- **Postgres:** `folktribunalen-db`, `dpg-dblq2fqfngtc73c0h9gg-a`, status `available`, `ipAllowList=[]`. En read-only `SELECT 1 AS connectivity_check` via hosted Render MCP nekades: databasen blockerar externa anslutningar när IP-allowlisten är tom och hosted MCP saknar en klient-IP att lägga till. Render anger lokal Render MCP som alternativ. Ingen DB-läsning eller DB-skrivning har genomförts.
-- **Publik route:** hämtning av `https://folktribunalen.onrender.com/` och hash-routen för AI-artikeln misslyckades med DNS-felet `Temporary failure in name resolution`; webbhämtningen kunde inte nå URL:en. Ingen HTTP-status, rubrik, ingress eller fulltext har erhållits. LIVE-kontrollen är inte genomförd.
-- PR-grenarna har inte utlöst Render-deploy eftersom båda tjänsterna är kopplade till `main` med `autoDeploy=yes`. Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts.
-
-### Återkommande hyllning i varje utgåva
-
-PR #73:s `editorial/portfolio/recurring-tributes.md` innehåller fortsatt Gutenberg, Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-notisen har de föreskrivna källorna från National Museum Vasil Levski – Documentary Heritage och Bulgariens nationalbibliotek. Inga citat tillskrivs Levski utan kontroll mot originalmanuskript eller kontrollerad transkription. Denna redaktionella standard är dokumenterad i PR #73 Draft; den är ännu inte mergad till main.
+- **PR #56 – Meta/Ofcom** och **PR #66 – Genève/autonoma vapen** är tidigare mergade avvikelser utan påträffat separat artikelbundet LIVE-godkännande. De ska endast registreras historiskt. Inga nya deployer eller kodändringar får byggas vidare på dessa utan separat godkännande.
 
 ### Nästa steg
 
-1. Fortsätt samma huvudartikel med uppföljning av tillämpningen av Real Decreto 1032/2026 och EuroHPC:s återinlämningsprocess.
-2. Håll PR #71 i Draft tills separat godkännande av exakt slutlig commit finns.
-3. Efter godkännande: använd endast redaktionens anslutna adminväg och kontrollera HTTP-status, rubrik, ingress och fulltext.
-4. Starta inte PR #38 som aktiv huvudartikel före faktisk LIVE-kontroll av PR #71.
-
-## Aktuell arbetskontroll – 21 november 2026 (förmiddagskontroll)
-
-### Aktiv huvudartikel och godkännandekö
-
-- **Huvudspår 2 – Europas AI-infrastruktur:** PR #71 är Open/Draft på grenen editorial/europe-ai-infrastructure-review-2026-11-17. Aktuell head efter faktaruteuppdateringen: 95e7584ab81b7d94b8b5493b6e89ae7faa024b79. Två filer: komplett artikelutkast och separat internt dossier. Artikeln har nu en faktakontrollerad del om Spaniens datacenterdekret och den nationella elnätsplanen till 2030.
-- **Godkännande:** ingen separat chefredaktörsapproval för exakt aktuell head har identifierats. PR #64:s godkännande 15 november gäller endast den tidigare basversionen. PR #71 har 0 review submissions och 0 inline review threads; den enda issue-kommentaren är en äldre faktakontroll från 17 november och är inte ett godkännande.
-- **Rättslig status Spanien:** ministerrådet godkände datacenterdekretet 20 november. Den fullständiga författningstexten har inte identifierats i BOE vid kontrollen 21 november; publicering och ikraftträdande är därför inte fastställda. Artikeln beskriver det som ministerrådsgodkänt, inte som redan gällande rätt.
-- **Nästa huvudspår:** Synkronicitetsprotokollet, PR #38, förblir parkerat tills PR #71 har fått separat godkännande av exakt aktuell commit, gått via ansluten adminväg och klarat faktisk LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
-- **Separata researchspår:** PR #74 Frölunda är research, inte huvudartikel. Religion/Folket/Tradition och Skaga ligger kvar som portfölj- och evidensmaterial, inte parallella huvudartiklar.
-- **Historiska publiceringsavvikelser:** PR #56 Meta/Ofcom och PR #66 Genève/autonoma vapen är tidigare mergade avvikelser utan påträffat separat artikelbundet LIVE-godkännande. De registreras historiskt; inga nya deployer eller ändringar får byggas vidare på dem utan separat godkännande.
-
-### PR-spärr – aktuell kontroll
-
-- GitHub API returnerade 63 öppna PR:er i repot. Samtliga 63 har draft=true; ingen öppen PR behöver återställas från Ready for review.
-- PR #71 är Open/Draft och väntar på godkännande av exakt head 95e7584ab81b7d94b8b5493b6e89ae7faa024b79.
-- PR #73 är en separat dokumentations- och hyllningsmodul-PR, Open/Draft. Denna masterplanuppdatering ligger kvar på dess dokumentationsgren.
-- Ingen merge, cherry-pick till main, databasändring, frontendändring, publicering eller manuell deploy har gjorts.
-
-### GitHub, Render och publik route
-
-- **Main:** PR #71:s bas är 04e00e97b35bb984d783bab652011a3d7441a0cd.
-- **Frontendavvikelse:** src/app.js på main, blob 8df7ea73093317eeebff2186cf9f6e69a4d3a7de, har kortmetadata för sluggen europas-ai-infrastruktur med rubriken Meta lämnade fel WhatsApp Business-data till Ofcom. articleBodies för samma slug innehåller i stället Google Wyoming/Crusoe/AEP. PR #71:s utkast är Europas AI-infrastruktur. Detta är en bekräftad trevägsmismatch i källkoden; ingen frontendändring har gjorts.
-- **Statisk Render-tjänst:** folktribunalen, srv-dblpumgm7kps73bv55e0, branch main, autoDeploy=yes. Senaste listade live-deploy: dep-dbt4qddg1s2s738p7bmg, commit a43f1579058824a36ccad6245d4616551505431e, färdig 16 november 2026 00:24:32 UTC.
-- **Redaktionell backend:** folktribunalen-editorial, srv-dblq2r0n74is73cchqh0, branch main, autoDeploy=yes. Senaste listade live-deploy: dep-dblq3nafngtc73c0l87g, commit 6a835783553565f239864a9da7160d9f79f692b2, färdig 4 november 2026 21:22:06 UTC.
-- **Postgres:** folktribunalen-db, dpg-dblq2fqfngtc73c0h9gg-a, status available, ipAllowList=[]. Read-only SELECT 1 AS connection_test nekades av Render eftersom databasen blockerar alla externa anslutningar när allowlisten är tom; hosted Render MCP har ingen klient-IP att lägga till. Ingen DB-write har gjorts.
-- **Publik route:** curl mot https://folktribunalen.onrender.com/ och hash-routen för europas-ai-infrastruktur misslyckades med DNS-felet Could not resolve host. Webbläsarhämtningen kunde inte nå den statiska webbplatsen eller backendens URL. Ingen HTTP-status, sidrubrik, ingress eller fulltext har erhållits. Ingen LIVE-kontroll är genomförd.
-- **Auto-deployrisk:** båda Render-tjänsterna är kopplade till main med autoDeploy=yes. PR-grenarna ändrar inte main och har inte utlöst någon artikeldeploy.
-
-
-### Källkontroll 21 november – Spanien
-
-MITECO:s officiella pressmeddelande från 20 november och La Moncloas ministerrådsreferens hämtades på nytt 21 november; båda svarade HTTP 200. MITECO bekräftar ministerrådets godkännande av ett Real Decreto för stora datacenters hållbarhet och digital suveränitet. Kraven över 10 MW, 80 procent timvis korrelerad förnybar energi, additionalitet, WUE/PUE och rapportering återges i artikelutkastet med korrekt avgränsning. Krav på data inom EES och kontroll av tredjelandsåtkomst gäller system i den högsta säkerhetskategorin, inte generellt varje privat AI-arbetslast. Den separata nationella elnätsplanen till 2030 är inte datacenterreserverad kapacitet.
-
-Riktad sökning på dekretets titel har ännu inte identifierat den fullständiga BOE-texten. BOE:s befintliga Real Decreto-ley 7/2026 är den tidigare rättsliga grunden, inte själva genomförandedekretet. En direkt dagsarkivadress gav 404 och används inte som bevis för frånvaro av publicering. Rättslig status står därför kvar som ministerrådsgodkänt 20 november; BOE-text och ikraftträdande återstår att fastställa.
-
-
-### Nyhetskontroll 21 november 2026
-
-- **Hormuz/sjöfart – ny incident 20 november:** Reuters rapporterar med hänvisning till UKMTO att en utgående tanker träffades av en okänd projektil cirka 8 nautiska mil norr om Khasab och började brinna. Inga personskador eller miljöeffekter rapporterades. Irans revolutionsgarde gav senare en annan förklaring – minträff – via iranska statsmedier. Detta är en partsuppgift och ska inte blandas ihop med UKMTO:s separata varningar 211-26 och 212-26 den 17 respektive 18 november. UKMTO-numret för händelsen 20 november är inte fastställt i det kontrollerade underlaget. Reuters: https://www.reuters.com/world/middle-east/fire-reported-tanker-after-projectile-strike-off-oman-ukmto-says-2026-11-20/
-- **USA:s kongress:** Senatens officiella Roll Call Vote 270 den 19 november visar att H.R. 2347, as amended, passerade 62–33 (fem senatorer röstade inte). Congress.gov anger status Passed Senate. Senatens roll-call-sida behåller representanthusets ursprungliga skattetitel; sekundär dokumentrapportering identifierar den antagna ersättningstexten som BAAJA/SA 6883. Eftersom senaten antog ändrad text måste representanthuset agera igen. Förslaget är inte lag. Officiella källor: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00270.htm · https://www.congress.gov/bill/119th-congress/house-bill/2347 . Sekundär dokumentgenomgång: https://publicrecordservice.com/record/2026/11/senate-passes-hr-2347-permitting-substitute-sa-6883-62-33-vote-270/
-- **Palantir:** senaste kvartalsrapporten i investerarportalens SEC-lista är 10-Q den 3 november. Portalen listar fem Form 144-notiser daterade 20 november. Ett kontrollerat SEC-dokument, accession 0001950047-26-011414, gäller officer David A. Glazer och anger 55 745 stamaktier, uppskattat marknadsvärde 8 185 534,48 USD och en föreslagen försäljningsdag 20 november; notisen beskriver en flerdagarsförsäljning med 60 procent av bruttofrisläppandet. Form 144 är en förhandsnotis om föreslagen försäljning, inte bevis för att affären genomförts. De övriga fyra notiserna är inte individgranskade i denna körning. Källor: https://investors.palantir.com/financials/sec-filings · https://www.sec.gov/Archives/edgar/data/1321655/000195004726011414/0001950047-26-011414.txt
-- **Gripen över Polen – ny operativ händelse 20 november:** Försvarsmaktens pressmeddelande 20 november kl. 12:54 anger att svenska JAS 39 Gripen deltog under natten i en luftförsvarsinsats efter att oidentifierade objekt upptäckts. Insatsen varade flera timmar, krävde lufttankning och klargöring vid en framskjuten bas i Polen; svenska piloter följde flera mål. Försvarsmakten beskriver flera misstänkta luftrumskränkningar men identifierar inte objekten i pressmeddelandet. Uppgifter i svensk sekundärrapportering om två kryssningsrobotar och en drönare ska därför hållas som separat attribuerad rapportering tills polska primärkällor har kontrollerats. Primärkälla: https://www.mynewsdesk.com/se/forsvarsmakten/pressreleases/svenska-jas-gripen-i-luftfoersvarsinsats-oever-polen-3479553 . Sekundärrapportering: https://omni.se/svenska-gripen-plan-deltog-i-insatsen-i-polen/a/dJOQrJ
-- **AI-infrastruktur:** Spaniens ministerrådsgodkända datacenterdekret är fortsatt en del av huvudartikel 2 och har dokumenterats i dossieret med MITECO/La Moncloa som primärkällor. EuroHPC:s upphandling står fortsatt Open enligt den officiella upphandlingssidan; Lot 2 stänger 3 december 2026 och Lot 1 den 4 februari 2027. Ingen tilldelning har fastställts.
-
-### Återkommande hyllning i varje utgåva
-
-PR #73 innehåller editorial/portfolio/recurring-tributes.md med Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Varje utgåva ska ha alla sex, med källor i samma utgåva. Levski-notisen ska alltid ange både National Museum Vasil Levski – Documentary Heritage och National Library – Levski's Notebook. Inga citat får tillskrivas Levski utan kontroll mot originalmanuskript eller kontrollerad transkription.
-
+1. Fortsätt samma huvudartikel med källkontroll, öppna frågor och redigering i PR #71 Draft.
+2. Invänd separat chefredaktörsgodkännande av exakt head `54f368d72a6330f41c9c5b7ef43edfec489ffaae`.
+3. Efter godkännande: använd endast redaktionens anslutna adminväg och kontrollera HTTP-status, rubrik, ingress och fulltext på den faktiska publika routen.
+4. Starta inte PR #38 som aktiv huvudartikel före den kontrollen.
+5. Håll alla sex återkommande hyllningar och källhänvisningarna för Levski i varje utgåva.
 
 ## Aktiva huvudspår
 
 | Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status / senaste kontroll |
 |---|---|---|---|---|
 | 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE.** PR #55 mergad; publik route HTTP 200 kontrollerad 13 nov. Daterat NHS-tillägg från 12 nov förbereds separat efter avslutad spår-2-cykel. |
-| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell commit `87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e` (19 commits före main, 0 bakom).** Komplett artikel och internt dossier faktakontrollerade 21 nov, inklusive Spanien. Separat chefredaktörsgodkännande krävs för exakt commit. Ingen LIVE-kontroll; route-mismatch och databasblockering kvarstår. |
+| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell head `54f368d72a6330f41c9c5b7ef43edfec489ffaae`, 30 commits, två filer.** 45 primärkällor och 23 oberoende rapporteringskällor. Ny kontroll 23 nov av EuroHPC:s officiella lotfrister; separat chefredaktörsgodkännande av exakt head saknas. Ingen LIVE-kontroll; route-DNS och Render-/adminåtkomst blockerar fortsatt kontroll. Nästa huvudspår startar inte före godkännande och LIVE-test. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | PR #38 öppen Draft. Komplett första granskningsutkast; kräver reproducerbara observationer, alternativa hypoteser, felkällor och tydlig gräns mellan sammanträffande och kausalitet. Nästa huvudartikel först efter spår 2:s LIVE-kontroll. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 öppen Draft och delutkast. Huvudartikeln behöver musei-/utställningsmaterial och byggnadsarkeologi. Samuils gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | PR #34 och #51 öppna Draft; PR #65 om Kazakstans tungstenprojekt öppet Draft. Skilj CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
