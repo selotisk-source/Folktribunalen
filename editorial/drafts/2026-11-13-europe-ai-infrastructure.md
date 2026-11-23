@@ -597,10 +597,6 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 
 ## Oberoende rapportering och kompletterande källor
-24. **Reuters – Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant**, 23 november 2026. Rapportering om offentlig upphandling, operativ kontroll, leverantörsinlåsning och långsamma migrationsprocesser:  
-    https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
-
-
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
    https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/
 
@@ -672,3 +668,6 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 23. **Le Monde – Opposition to data centers grows worldwide, from India to Chile, via Ireland and Japan**, 21 november 2026. Rapportering om protesten i Edinburgh den 14 november och motstånd mot planerade datacenter i flera länder. Används för protest- och samhällskontext, inte som primärkälla för skotska tillstånd:  
     https://www.lemonde.fr/en/international/article/2026/11/21/opposition-to-data-centers-grows-worldwide-from-india-to-chile-via-ireland-and-japan_6786331_4.html
+
+24. **Reuters – Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant**, 23 november 2026. Rapportering om offentlig upphandling, operativ kontroll, leverantörsinlåsning och långsamma migrationsprocesser:  
+    https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
