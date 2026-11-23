@@ -57,7 +57,7 @@
 - Aktuell Postgres-metadata: `available`, men `ipAllowList=[]`. Hosted Render MCP saknar en tillåten klientadress; åtkomst kräver lokal Render MCP eller att en betrodd klient-IP tillåts i databasens Networking-inställningar. Ingen DB-läsning eller skrivning genomfördes i denna körning.
 - Publik route testades 23 november via både direkt GET i container och webbläsarhämtning: DNS-uppslagningen misslyckades (`Temporary failure in name resolution` / URL not accessible). Ingen HTTP-status, rubrik, ingress eller fulltext kunde erhållas. Artikeln är inte LIVE-kontrollerad.
 - `main/src/app.js` har fortfarande den tidigare bekräftade mismatchen: kortmetadata för sluggen `europas-ai-infrastruktur` pekar på Meta/Ofcom medan body-mappningen innehåller Google Wyoming/Crusoe/AEP. PR #71 innehåller den separata AI-infrastrukturtexten. Ingen frontendändring har gjorts.
-- Ingen merge, cherry-pick till main, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontroll.
+- Ingen ny merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontroll. PR #64:s merge den 15 november är separat registrerad som historisk avvikelse ovan.
 
 ### Historiska publiceringsavvikelser
 
