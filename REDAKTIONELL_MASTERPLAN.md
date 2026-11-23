@@ -15,8 +15,8 @@
 
 - **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
 - **PR:** [#71 – Open/Draft](https://github.com/selotisk-source/Folktribunalen/pull/71), gren `editorial/europe-ai-infrastructure-review-2026-11-17`.
-- **Exakt aktuell PR-head:** `45762e6b53582c2f158179b7a3177fd3d9218fa7`.
-- **Omfattning:** 34 commits, två ändrade filer; komplett artikel med tolv huvudavsnitt, slutsats, faktaruta, 50 primärkällor och 24 oberoende rapporteringskällor, samt internt dossier med bildförslag, rättighetsstatus, faktakontroll och öppna frågor.
+- **Exakt aktuell PR-head:** `8a3afa416c215548c93fbe5ba3b7a2d0870180ed`.
+- **Omfattning:** 35 commits, två ändrade filer; komplett artikel med tolv huvudavsnitt, slutsats, faktaruta, 50 primärkällor och 24 oberoende rapporteringskällor, samt internt dossier med bildförslag, rättighetsstatus, faktakontroll och öppna frågor.
 - **Godkännande:** separat chefredaktörsgodkännande av exakt aktuell head saknas. PR #64:s tidigare godkännande gäller inte denna materiellt uppdaterade version. PR #71 har 0 review submissions och 0 inline review threads; den enda issue-kommentaren är en faktakontroll daterad 17 november 2026, inte ett godkännande.
 - **Senaste artikeluppdatering:** 23 november – EuroHPC:s officiella utlysningssida har lagts till som primärkälla och tidsfristerna har preciserats. Sidan är Open; Lot 2 stänger 3 december 2026 kl. 17.00 och Lot 1 4 februari 2027 kl. 17.00 (Europe/Luxembourg). Meddelandet 5 november säger att gamla utkast och inlämnade anbud i det tidigare eSubmission-systemet inte beaktas och måste återskapas. Tender Specifications v2 från 23 oktober visar fortfarande den ursprungliga fristen 12 november; den senare officiella utlysningssidan anger förlängningen. Källa: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
 - **Ny komplettering 23 november – molnsuveränitet:** artikeln har fått ett nytt avsnitt om EU-kommissionens upp till 180 miljoner euro stora ram för suveräna molntjänster, Nederländernas STACKIT-avtal, Schweiz upphandling av Swiss Government Cloud och kommissionens marknadsbild i COM(2026) 502. Texten skiljer upphandlingstak från faktisk användning, ramavtal från byggbudget och SEAL-3/SEAL-2 från full EU-leveranskedja SEAL-4. Reuters rapporterar att upphandlingar i högre grad väger in operativ autonomi, krypteringsnycklar och exit-rättigheter, men också att migrationerna går långsamt. Primärkällor: https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_en · https://www.rijksoverheid.nl/actueel/nieuws/2026/04/23/rijksoverheid-sluit-deal-met-europees-cloudplatform-stackit · https://www.admin.ch/en/newnsb/vL4DxR3WIhey · https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502. Oberoende källa: https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
@@ -43,7 +43,7 @@
 - `main` head: `04e00e97b35bb984d783bab652011a3d7441a0cd`.
 - Masterplanen på `main` är fortfarande den äldre 18-novemberversionen; denna uppdatering ligger endast i PR #73 Draft och är inte mergad till main.
 - GitHub API returnerade 68 öppna PR:er; samtliga 68 hade `draft=true`, noll öppna icke-Draft-PR:er.
-- PR #71: Open/Draft, 34 commits, två filer, head enligt ovan.
+- PR #71: Open/Draft, 35 commits, två filer, head enligt ovan.
 - PR #73: Open/Draft, dokumentations- och hyllningsmodul; denna masterplanrevision ligger kvar på samma Draft-gren.
 - PR #79: Open/Draft, 8 commits och 5 filer.
 - PR #80: Open/Draft, 10 commits och 8 filer.
@@ -66,7 +66,7 @@
 ### Nästa steg
 
 1. Fortsätt samma huvudartikel med källkontroll, öppna frågor och redigering i PR #71 Draft.
-2. Invänd separat chefredaktörsgodkännande av exakt head `45762e6b53582c2f158179b7a3177fd3d9218fa7`.
+2. Invänd separat chefredaktörsgodkännande av exakt head `8a3afa416c215548c93fbe5ba3b7a2d0870180ed`.
 3. Efter godkännande: använd endast redaktionens anslutna adminväg och kontrollera HTTP-status, rubrik, ingress och fulltext på den faktiska publika routen.
 4. Starta inte PR #38 som aktiv huvudartikel före den kontrollen.
 5. Håll alla sex återkommande hyllningar och källhänvisningarna för Levski i varje utgåva.
@@ -76,7 +76,7 @@
 | Nr | Spår | Egen artikel / arbetstitel | Artikeltyp | Status / senaste kontroll |
 |---|---|---|---|---|
 | 1 | **Palantir och den offentliga makten** | Palantir och den offentliga makten – NHS som stresstest för datakontroll | Granskning | **PUBLICERAD LIVE.** PR #55 mergad; publik route HTTP 200 kontrollerad 13 nov. Daterat NHS-tillägg från 12 nov förbereds separat efter avslutad spår-2-cykel. |
-| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell head `45762e6b53582c2f158179b7a3177fd3d9218fa7`, 34 commits, två filer.** 50 primärkällor och 24 oberoende rapporteringskällor. Ny kontroll 23 nov av EuroHPC:s officiella lotfrister; separat chefredaktörsgodkännande av exakt head saknas. Ingen LIVE-kontroll; route-DNS och Render-/adminåtkomst blockerar fortsatt kontroll. Nästa huvudspår startar inte före godkännande och LIVE-test. |
+| 2 | **Vem bygger Europas AI-datacenter?** | Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen? | Undersökande granskning | **PR #71 Open/Draft, aktuell head `8a3afa416c215548c93fbe5ba3b7a2d0870180ed`, 35 commits, två filer.** 50 primärkällor och 24 oberoende rapporteringskällor. Ny kontroll 23 nov av EuroHPC:s officiella lotfrister; separat chefredaktörsgodkännande av exakt head saknas. Ingen LIVE-kontroll; route-DNS och Render-/adminåtkomst blockerar fortsatt kontroll. Nästa huvudspår startar inte före godkännande och LIVE-test. |
 | 3 | **Synkronicitetsprotokollet** | Synkronicitet i algoritmernas spegel – mellan mening och mekanism | Metod/essä | PR #38 öppen Draft. Komplett första granskningsutkast; kräver reproducerbara observationer, alternativa hypoteser, felkällor och tydlig gräns mellan sammanträffande och kausalitet. Nästa huvudartikel först efter spår 2:s LIVE-kontroll. |
 | 4 | **Sofia – staden under staden** | Sofia före Sofia: stadens arkeologiska och religiösa lager | Kulturhistorisk granskning | PR #8 öppen Draft och delutkast. Huvudartikeln behöver musei-/utställningsmaterial och byggnadsarkeologi. Samuils gravtradition ska hållas vid Sankt Achilleios vid Prespasjön; flytta den inte till Sankt Sofia i Sofia utan belägg. |
 | 5 | **Europas strategiska råvaror** | Urbergsskölden: Europas råvarusuveränitet, avfall och energiberoende | Granskning | PR #34 och #51 öppna Draft; PR #65 om Kazakstans tungstenprojekt öppet Draft. Skilj CRMA-status, fyndighet, resurs, reserv, tillstånd, finansiering, nätanslutning och faktisk produktion. |
