@@ -61,8 +61,8 @@
 
 ### Historiska publiceringsavvikelser
 
+- **PR #64 – Europas AI-infrastruktur, basversion:** stängd/mergad 15 november 2026 kl. 22:57:44 UTC. Merge commit `45a9b8c2cc295b708afddcb739eb180318fd3052`; merged PR-head `dc32ae595efc9ee4e77d38a82c6e653d57d821fd`. PR:n ändrade endast `editorial/drafts/2026-11-13-europe-ai-infrastructure.md`. En PR-kommentar kl. 17:14:29 UTC dokumenterade chefredaktörens godkännande i chatten; GitHub kunde inte registrera formell APPROVE från PR-författarkontot. Merge till main är bekräftad, men merge i sig bevisar inte databaspost eller korrekt LIVE-publicering. Ingen lyckad HTTP-kontroll av den publika artikeln är dokumenterad. PR #64:s body har uppdaterats med denna historiska status. Behandla merge som en äldre processavvikelse/legacy merge; inga nya deployer eller frontend-/databasändringar får byggas vidare på den utan separat godkännande av exakt version. Den materiellt uppdaterade efterföljaren PR #71 är separat Open/Draft och kräver eget godkännande.
 - **PR #56 – Meta/Ofcom** och **PR #66 – Genève/autonoma vapen** är tidigare mergade avvikelser utan påträffat separat artikelbundet LIVE-godkännande. De ska endast registreras historiskt. Inga nya deployer eller kodändringar får byggas vidare på dessa utan separat godkännande.
-
 ### Nästa steg
 
 1. Fortsätt samma huvudartikel med källkontroll, öppna frågor och redigering i PR #71 Draft.
