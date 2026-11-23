@@ -121,3 +121,16 @@ Detta är ett separat tillägg till den befintliga bevakningen. Händelsen motiv
 - Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts.
 
 **Nästa arbetssteg:** fortsätt Frölunda enligt dess dokumenterade brief. Håll PR #71 som enda aktiva huvudartikel och invänta ett separat artikelbundet godkännande av exakt aktuell commit.
+
+
+## 9. GitHub-uppföljning efter skapad PR
+
+- **PR #81:** https://github.com/selotisk-source/Folktribunalen/pull/81
+- **Status:** Open/Draft.
+- **Head:** `a9e136606fc779b3eb890711979a0b444191696d`.
+- **Omfattning:** 7 filer, 7 commits, 459 tillägg, 0 borttagningar.
+- **Base:** main `04e00e97b35bb984d783bab652011a3d7441a0cd`.
+- PR #81 är en separat researchleverans för Cypern och inte en huvudartikel.
+- Efter skapandet returnerade GitHub 68 öppna Draft-PR:er och 0 öppna icke-Draft-PR:er.
+- PR #81 har inga review submissions eller review threads.
+- PR #71 är fortsatt Open/Draft och dess exakta artikelgodkännande saknas.
