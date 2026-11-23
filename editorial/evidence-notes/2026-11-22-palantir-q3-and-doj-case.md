@@ -35,9 +35,20 @@ DOJ:s pressmeddelande beskriver ett påstått upplägg för att övervaka anstä
 - **Primärkälla:** U.S. Attorney’s Office, Northern District of California, inklusive bifogad åtalsakt: https://www.justice.gov/usao-ndca/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology
 - **Oberoende rapportering:** Reuters, 18 november 2026: https://www.reuters.com/legal/litigation/us-department-justice-charges-russian-targeting-palantir-foreign-agent-2026-11-18/
 
+## 3. Form 144 – Alexander Karp, 20 november
+
+SEC EDGAR registrerade den 20 november en Form 144 för Alexander Karp, Palantirs officer och director. Notisen anger en **föreslagen försäljning av 585 000 stamaktier**, med ett sammanlagt marknadsvärde i formuläret på **85 900 756,50 USD** och ungefärligt försäljningsdatum 20 november. Broker anges som Morgan Stanley Smith Barney LLC.
+
+Formuläret beskriver en “multi day sale” och att notisen lämnats i förväg med “60% gross release”. Det listar samtidigt 585 000 restricted shares som förvärvade från emittenten den 20 november och anger “Nothing to Report” för tidigare försäljningar under den senaste tremånadersperioden.
+
+**Viktig avgränsning:** Form 144 är en notis om en föreslagen försäljning enligt Rule 144. Den bevisar inte att samtliga eller några av de angivna aktierna faktiskt såldes. Marknadsvärdet i formuläret är inte verifierad realiserad köpeskilling eller nettolikvid.
+
+### Primärkälla
+- **SEC EDGAR – Form 144, accession 0001950047-26-011411**, inlämnad och accepterad 20 november 2026: https://www.sec.gov/Archives/edgar/data/1321655/000195004726011411/xsl144X01/primary_doc.xml
+
 ## Faktastatus
 
-- **Bekräftat i SEC-handling:** kvartalsintäkter, segmentintäkter och RPO.
+- **Bekräftat i SEC-handling:** kvartalsintäkter, segmentintäkter, RPO samt att Karp lämnat en Form 144-notis om en föreslagen försäljning av 585 000 aktier. Notisen är inte bevis för genomförd försäljning.
 - **Bekräftat av DOJ:** att åtalsjuryn väckt åtal och vilka brottsrubriceringar som anges.
 - **DOJ:s anklagelser:** påstådd rekrytering, instruktioner, finansiering och övervakning.
 - **Reuters identifiering:** Palantir anges som företaget i Reuters rapportering; DOJ:s pressmeddelande namnger inte företaget.
