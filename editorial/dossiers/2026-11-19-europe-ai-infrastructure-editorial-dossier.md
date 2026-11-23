@@ -441,4 +441,4 @@ Upphandlingarna visar en konkret förskjutning i avtals- och kontrollkrav, men d
 - Schweiziska förbundsrådet, 20 oktober 2026: https://www.admin.ch/en/newnsb/vL4DxR3WIhey
 - EUR-Lex, COM(2026) 502: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502
 
-**Aktuell artikeltext:** 50 primärkällor och 24 oberoende rapporteringskällor. Faktarutan har två nya rader för offentlig molnupphandling. Bildförslagen är oförändrade; inga nya bildrättigheter har klarerats.
+**Aktuell artikeltext:** 50 primärkällor och 24 oberoende rapporteringskällor. Faktarutan har två nya rader för offentlig molnupphandling. Dossieret innehåller nu 20 öppna frågor. Bildförslagen har kompletterats med en diagramidé för molnsuveränitet; inga nya bildrättigheter har klarerats.
