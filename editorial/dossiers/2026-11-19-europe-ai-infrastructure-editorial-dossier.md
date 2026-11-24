@@ -476,3 +476,44 @@ Upphandlingarna visar en konkret förskjutning i avtals- och kontrollkrav, men d
 - Artikeltexten har nu 12 huvudavsnitt, slutsats och faktaruta, **53 primärkällor och 27 oberoende/kompletterande rapporteringskällor**.
 - Detta är en materiell faktauppdatering av PR #71 och kräver nytt separat chefredaktörsgodkännande av den nya exakta commit-versionen.
 - Ingen artikelmerge, deploy, databasändring, frontendändring eller publicering har genomförts.
+
+
+## Teknisk kontroll – publiceringskedjan och frontendkopplingen, 24 november 2026
+
+### Korrigering av tidigare slug-analys
+En ny direktläsning av `main/src/app.js` visar följande:
+- Objektet i `articles` på rad 3 har id `europas-ai-infrastruktur`, men rubrik och ingress är felaktigt Meta/Ofcom.
+- `articleBodies["europas-ai-infrastruktur"]` på rad 70 innehåller däremot Europas AI-infrastrukturtext.
+- Google Wyoming/Crusoe/AEP är inte body-mappningen för denna slug. Den tidigare masterplanformuleringen om Google Wyoming som body under samma slug var felaktig och ska betraktas som supersederad.
+- Meta/Ofcom har dessutom en separat kortpost med id `meta-ofcom-whatsapp-business` och en egen body.
+- **Kvarvarande faktisk avvikelse:** kortets rubrik, ingress och metadata beskriver Meta/Ofcom medan body-mappningen för samma slug beskriver Europas AI-infrastruktur. Main-body är dessutom en äldre statisk version, inte den senaste PR #71-revisionen.
+
+### Public site och redaktionell backend är separata
+- `index.html` på main (blob `50710aed1ef2eaecc69e30120646f8b08ae4159c`) laddar `src/app.js?v=20261116-geneve`. Artiklar och body-innehåll ligger i statiska JavaScript-arrayer; `src/app.js` innehåller ingen hämtning av `/api/articles` eller anslutning till redaktionell backend.
+- Den publika artikellogiken på rad 76 läser kortmetadata från `articles` och brödtext från `articleBodies` i samma statiska JavaScript-fil. En ändring av en databasrad i redaktionella backend uppdaterar därför inte den publika artikeln automatiskt.
+- Publika `index.html` länkar till `#/redaktion`; `src/app.js` omdirigerar den vägen till `/admin.html`. `admin.html` (blob `8a5a798595bad5cc9426de3d53eea14bf4eab49d`) laddar `admin.js` (blob `c412963544ef144d4792abed0502742c92371352`). Admin-JavaScript använder relativa `/api`-anrop. Den statiska webbplatsen har ingen Express-API, så redaktionslänken på den statiska domänen är inte kopplad till backendens API.
+- Samma adminfiler finns i repo-roten och kan serveras av Node-backenden på `folktribunalen-editorial.onrender.com`, där `server.js` (blob `a8c54ccbcedac30fccfd223e820b8165162f2869`) exponerar API-rutter. Backendens `/api/articles` kräver databas och autentisering; `PATCH /api/articles/:id` kan ändra status, body, summary och sources.
+- Admin-UI:t visar titel, ingress/sammanfattning och status samt erbjuder statusval. Det erbjuder inte redigering eller import av PR #71:s fulltext, källor eller commit-SHA. API:t kräver `confirmPublish: "JA"` vid status `PUBLICERAD`, men databasschemat har ingen commit-/versionsreferens som binder publiceringsbeslutet till en exakt godkänd GitHub-version.
+- **Konsekvens:** den nuvarande admin-/databasvägen kan inte påvisas publicera exakt PR #71-version till den statiska publika webbplatsen. Det saknas en testad synk mellan godkänd GitHub-commit, databaspost och publik frontend. Detta är en arkitekturspärr som måste lösas genom en separat godkänd integrationsändring; ingen alternativ publiceringsväg används.
+
+### Återkommande hyllning – publik frontend skiljer sig från redaktionell modul
+- PR #73:s `editorial/portfolio/recurring-tributes.md` innehåller nu alla sex personer och källor.
+- `index.html` på main visar fortfarande fem namn och texten att ett sjätte namn ska fastställas.
+- `src/app.js`-routen `/foregangare` visar också fem namn och säger att ett sjätte namn återstår.
+- Detta är en kvarvarande frontendavvikelse. Ingen frontendfil har ändrats. Gutenberg-notisen i den redaktionella modulen har samtidigt korrigerats så att den inte påstår att Gutenberg uppfann tryck globalt; den skiljer hans europeiska system från äldre självständiga östasiatiska trycktraditioner och hänvisar till Gutenberg-Museum Mainz och BnF/Jikji.
+
+### Render och åtkomst – faktisk kontroll 24 november
+- Render workspace: My Workspace, `tea-dbjt81flk1mc73a82rg0`; `list_services` och `get_service` lyckades med detta workspace-id.
+- **Statisk webbplats:** `folktribunalen`, service `srv-dblpumgm7kps73bv55e0`, branch `main`, `autoDeploy=yes`, `not_suspended`. Senaste listade live-deploy: `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, avslutad 16 november 2026 00:24:32 UTC.
+- **Redaktionell backend:** `folktribunalen-editorial`, service `srv-dblq2r0n74is73cchqh0`, branch `main`, `autoDeploy=yes`, `not_suspended`, Free-plan. Senaste listade live-deploy: `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, avslutad 4 november 2026 21:22:06 UTC.
+- **Postgres:** `folktribunalen-db`, id `dpg-dblq2fqfngtc73c0h9gg-a`, status `available`, plan `free`, region Frankfurt, `ipAllowList=[]`. Render anger `expiresAt=2026-12-04T21:18:55Z` (4 december 2026 kl. 23:18:55 EET). Detta är en nära förestående drift-/databevaranderisk som kräver ägarbeslut före datumet; ingen planändring har gjorts.
+- Read-only `SELECT 1` via hosted Render MCP nekades med exakt orsak: externa anslutningar blockeras eftersom databasens IP-allowlist är tom; hosted MCP har ingen tillåtbar klient-IP och Render anger lokal MCP som möjlig anslutningsmetod. Ingen IP-allowlist har öppnats och ingen DB-läsning/skrivning genomfördes.
+- Backendens privata nätverksanslutning till Postgres kan inte bedömas från detta externa test; den får inte beskrivas som trasig utan separat service-/loggtest.
+- Container-`curl` till statisk root, publik artikelroute, backend `/api/health` och `/api/setup-status` gav `curl: (6) Could not resolve host`. Webbläsaröppning av samma domäner gav URL-not-accessible. **Ingen HTTP-status eller sidtext har erhållits.**
+- Render deployment-status är `live`; detta är inte samma sak som en lyckad HTTP-/routekontroll.
+
+### Nästa tekniska kontrollpunkter
+1. Säkerställ databasens fortsatta giltighet före Render-fältet `expiresAt` den 4 december 2026.
+2. Testa backendens `/api/health`, `/api/setup-status`, admininloggning och `/api/articles` från en nätverksmiljö som kan nå Render; bekräfta om backendens interna DB-anslutning fungerar.
+3. Före artikelpublicering måste en separat godkänd integrationslösning kunna binda exakt GitHub-commit till DB-version och publik frontend; nuvarande statiska front-end konsumerar inte DB-innehållet.
+4. Efter godkännande och genomförd ansluten publicering krävs HTTP-status och jämförelse av exakt rubrik, ingress och fulltext på den publika routen.
