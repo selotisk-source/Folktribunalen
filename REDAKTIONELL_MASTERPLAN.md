@@ -1,15 +1,66 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 23 november 2026 – kompletterad efter Reuters rapportering om molnsuveränitet och ny GitHub-/Render-kontroll  
+**Version:** 24 november 2026 – kompletterad med EU:s elnätsöverenskommelse, Terna-data, publiceringsarkitektur och ny Render-kontroll  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens anslutna adminväg → faktisk HTTP-kontroll av publik route. Nästa huvudartikel får inte starta före kontroll av rätt rubrik, ingress och fulltext på den aktuella publika routen.
 
 **Obligatorisk PR-spärr:** Varje artikel-PR ska vara Open/Draft under hela research-, faktakontrolls-, redigerings- och godkännandefasen. Den får inte markeras Ready for review före separat uttryckligt chefredaktörsgodkännande av exakt aktuell commit. Före detta godkännande är merge, cherry-pick till main, deploy, databasändring, frontendändring och publicering förbjudna. Efter godkännandet får endast den godkända versionen gå via den anslutna adminvägen. Äldre generella godkännanden gäller inte materiellt ändrade versioner. Mergade äldre avvikelser hålls historiska och får inte utökas med nya deployer utan separat godkännande.
 
 **Återkommande hyllning i varje utgåva:** Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-notisen ska ange både National Museum Vasil Levski – Documentary Heritage (https://vlevskimuseum-bg.org/en/documentary-heritage/) och National Library of Bulgaria – Levski's Notebook (https://www.nationallibrary.bg/levski/). Skilj dokumenterade uppgifter från hyllning och tolkning; inga citat utan kontroll mot original eller kontrollerad transkription.
 
-Äldre daterade loggar längre ned är historiska ögonblicksbilder. Denna översta kontroll anger aktuell status per 23 november 2026.
+Äldre daterade loggar längre ned är historiska ögonblicksbilder. Denna översta kontroll anger aktuell status per 24 november 2026.
 
-## Aktuell arbetskontroll – 23 november 2026
+## Aktuell arbetskontroll – 24 november 2026, 02:55 EET
+
+### Aktiv huvudartikel – huvudspår 2
+
+- **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
+- **PR:** [#71 – Open/Draft](https://github.com/selotisk-source/Folktribunalen/pull/71), gren `editorial/europe-ai-infrastructure-review-2026-11-17`.
+- **Exakt aktuell PR-head:** `1a5b802932e3a50d755519045ed0ec970a8308fc`.
+- **Omfattning:** 40 commits, två ändrade filer; komplett artikel med tolv huvudavsnitt, slutsats, faktaruta, **53 primärkällor och 27 oberoende/kompletterande rapporteringskällor**, samt internt dossier med bildförslag, rättighetsstatus, faktakontroll, öppna frågor och teknisk analys.
+- **Godkännande:** separat chefredaktörsgodkännande av exakt aktuell head saknas. PR #71 är Open/Draft. Kontroll 24 november: 0 review submissions, 0 inline review threads. Den enda issue-kommentaren är faktakontroll från 17 november, inte godkännande. PR #64:s historiska godkännande gäller inte denna materiellt uppdaterade version.
+- **Ny faktakontroll 24 november – EU:s elnätsöverenskommelse:** rådet och Europaparlamentet nådde 18 november en preliminär överenskommelse om snabbare tillstånd för förnybar energi, elnät, lagring, laddinfrastruktur samt ny el- och gasinfrastruktur. Medlemsstater kan behandla förnybar energi och elnät som överordnat allmänintresse, med undantag för säkerhets-, försvars- och kulturarvsintressen. Tyst godkännande kan införas för vissa mellanliggande steg. Lokal nyttodelning gäller för förnybara energiprojekt över 7 MW, inte datacenter som sådana. Överenskommelsen måste fortfarande godkännas formellt och införlivas nationellt inom 18 månader efter antagandet. Den ger inte datacenter automatisk nätprioritet. Primärkälla: https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/pdf/ · Reuters: https://www.reuters.com/business/energy/eu-reaches-provisional-deal-speed-permits-renewable-energy-projects-2026-11-18/
+- **Ny faktakontroll 24 november – Italien/Terna:** Terna:s resultatpresentation 12 november anger cirka 108 GW anslutningsförfrågningar för datacenter per september 2026 och cirka 2 GW i kategorin `ready to build`. Siffrorna är avrundade och mäter en administrativ pipeline, inte byggd kapacitet, faktisk förbrukning eller garanterad nätleverans. Terna:s Econnextion är månadsuppdaterad och bygger på sökandes uppgifter; Terna garanterar inte fullständighet eller riktighet. Reuters 14 oktober rapporterade närmare 600 förfrågningar och mer än 100 GW. Primärkällor: https://download.terna.it/terna/Terna_9M_2026_Consolidated_Results_Presentation_8df40c85fce1506.pdf · https://dati.terna.it/connessioni/econnextion. Oberoende rapportering: https://economictimes.indiatimes.com/tech/technology/italy-data-centre-connection-requests-top-100-gw-terna-ceo-says/articleshow/134942281.cms · https://www.quotidianoenergia.it/module/news/page/entry/id/537419
+- **Övrig faktakontroll:** Spanien Real Decreto 1032/2026 är fortsatt beskriven som publicerad i BOE 21 november och i kraft 22 november. EuroHPC:s officiella utlysningssida är fortsatt aktuell för Lot 2-fristen 3 december 2026 kl. 17.00 och Lot 1-fristen 4 februari 2027 kl. 17.00. Molnsuveränitetsavsnittet från 23 november kvarstår.
+- **Filer:** [artikelutkast](https://github.com/selotisk-source/Folktribunalen/blob/editorial/europe-ai-infrastructure-review-2026-11-17/editorial/drafts/2026-11-13-europe-ai-infrastructure.md) och [internt dossier](https://github.com/selotisk-source/Folktribunalen/blob/editorial/europe-ai-infrastructure-review-2026-11-17/editorial/dossiers/2026-11-19-europe-ai-infrastructure-editorial-dossier.md).
+
+### Redaktionell dokumentation – PR #73
+
+- **PR:** [#73 – Open/Draft](https://github.com/selotisk-source/Folktribunalen/pull/73), dokumentations-PR med masterplan och återkommande hyllningsmodul. Denna uppdatering ligger på Draft-grenen; ingen merge.
+- **Återkommande hyllning:** modulen omfattar Gutenberg, Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-notisen ska alltid länka National Museum Vasil Levski – Documentary Heritage och National Library – Levski's Notebook. Gutenberg-notisen har korrigerats: hans betydelse gäller det europeiska trycksystemet med rörliga metalltyper, inte uppfinningen av tryck globalt. Källor: https://www.gutenberg-mainz.de/en/who-invented-printing/ · https://www.bnf.fr/en/jikji-treasure-world-printing
+- **Publik frontend:** `index.html` och `src/app.js` på main visar fortfarande fem föregångare och anger att ett sjätte namn ska fastställas. Levski finns i redaktionella modulen men ännu inte i frontend. Detta kräver separat godkänd frontendändring.
+
+### GitHub – faktisk kontroll
+
+- **Main:** `04e00e97b35bb984d783bab652011a3d7441a0cd`.
+- **PR #71:** Open/Draft, 40 commits, två filer, head `1a5b802932e3a50d755519045ed0ec970a8308fc`; bas main `04e00e97b35bb984d783bab652011a3d7441a0cd`.
+- **PR #73:** Open/Draft, dokumentations-PR med två filer; aktuell head visas i GitHub PR-metadata.
+- **PR #71 review:** 0 review submissions, 0 inline review threads; endast den äldre faktakontrollkommentaren från 17 november. Ingen artikelbunden approval.
+- **Frontendkod på main:** `src/app.js` blob `8df7ea73093317eeebff2186cf9f6e69a4d3a7de`. Korrigerad kontroll: kortposten med id `europas-ai-infrastruktur` har Meta/Ofcom-rubrik och ingress, men `articleBodies["europas-ai-infrastruktur"]` innehåller Europas AI-infrastrukturtext. Tidigare påstående om Google Wyoming/Crusoe/AEP som body för samma slug var felaktigt och supersederas här. Den faktiska avvikelsen är rubrik/ingress-metadata mot artikelkropp; body är dessutom äldre statisk text jämfört med PR #71.
+- **Historiska mergade avvikelser:** PR #56, #64 och #66 kvarstår historiskt dokumenterade. Inga nya deployer eller ändringar har lagts till.
+
+### Render – faktisk kontroll 24 november
+
+- **Workspace:** My Workspace, id `tea-dbjt81flk1mc73a82rg0`. `list_services` och `get_service` lyckades med workspace-id.
+- **Statisk webbplats:** `folktribunalen`, service `srv-dblpumgm7kps73bv55e0`, URL https://folktribunalen.onrender.com, branch `main`, `autoDeploy=yes`, `not_suspended`. Senaste listade live-deploy `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, avslutad 16 november 2026 00:24:32 UTC.
+- **Redaktionell backend:** `folktribunalen-editorial`, service `srv-dblq2r0n74is73cchqh0`, URL https://folktribunalen-editorial.onrender.com, branch `main`, `autoDeploy=yes`, `not_suspended`, Free-plan. Senaste listade live-deploy `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, avslutad 4 november 2026 21:22:06 UTC.
+- **Postgres:** `folktribunalen-db`, id `dpg-dblq2fqfngtc73c0h9gg-a`, status `available`, Free-plan, Frankfurt, `ipAllowList=[]`. Render anger `expiresAt=2026-12-04T21:18:55Z` (4 december 2026 kl. 23:18:55 EET). Detta är en nära förestående drift- och databevaranderisk som kräver beslut före datumet.
+- **DB-test:** read-only `SELECT 1` via hosted Render MCP nekades eftersom databasen blockerar externa anslutningar när IP-allowlisten är tom; hosted MCP har ingen klient-IP som kan tillåtas. Ingen allowliständring och ingen DB-läsning/skrivning genomfördes. Backendens eventuella privata nätverksanslutning till Postgres är inte testad och får inte beskrivas som trasig.
+- **Publik route:** container-`curl` till statisk root, AI-artikelroute, backend `/api/health` och `/api/setup-status` gav `curl: (6) Could not resolve host`. Webbläsaröppning av domänerna gav URL-not-accessible. Ingen HTTP-status eller sidtext erhölls.
+
+### Publiceringsarkitektur – verifierade kodfynd
+
+- `index.html` (blob `50710aed1ef2eaecc69e30120646f8b08ae4159c`) laddar statisk `src/app.js?v=20261116-geneve`. Publicerad kortmetadata och body läses från statiska arrayer; ingen `fetch('/api/articles')` finns i den publika appen.
+- `/redaktion` i public frontend omdirigerar till `/admin.html`. `admin.js` använder relativa `/api`-anrop. Den statiska Render-tjänsten har ingen API-server; den separata Node-backenden har API-rutterna.
+- `server.js` blob `a8c54ccbcedac30fccfd223e820b8165162f2869` har `GET /api/articles` och `PATCH /api/articles/:id`. PATCH kan tekniskt ändra status/body/summary/sources, men admin-UI:t visar endast titel/sammanfattning och statusval – ingen import/redigering av PR-text eller commit-SHA. Publiceringsstatus kräver `confirmPublish: "JA"`, men databasmodellen binder inte beslutet till exakt godkänd GitHub-version.
+- **Konsekvens:** en databasstatusändring uppdaterar inte den statiska publika webbplatsen och nuvarande admin-UI kan inte importera PR #71:s exakta innehåll/version. Den anslutna publiceringsvägen är därför inte end-to-end testad eller tillräcklig för att publicera den godkända committen till publik route. En separat godkänd integrationsändring krävs innan publicering kan genomföras och LIVE-kontrolleras.
+
+### Arbetsordning
+
+- PR #71 är fortsatt enda aktiva huvudartikel.
+- PR #38 – Synkronicitetsprotokollet – ligger parkerad tills PR #71 har separat godkännande, korrekt publiceringsväg och LIVE-kontroll av HTTP-status, rubrik, ingress och fulltext.
+- Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts i denna kontroll.
+
+## Historisk arbetskontroll – 23 november 2026
 
 ### Aktiv huvudartikel – huvudspår 2
 
