@@ -43,7 +43,7 @@ Det är i dessa skillnader som den verkliga ekonomin bakom Europas AI-utbyggnad 
 
 ### EU:s elnätsöverenskommelse: snabbare tillstånd, ingen automatisk datacenterprioritet
 
-Den 18 november 2026 nådde rådet och Europaparlamentet en **preliminär överenskommelse** om att förenkla och förkorta tillståndsprocesser för förnybara energiprojekt, elnät, energilagring och laddinfrastruktur samt för tillstånd till ny el- och gasinfrastruktur. Medlemsstaterna ska kunna behandla utbyggnad av förnybar energi och elnät som ett överordnat allmänintresse. De ska också kunna införa så kallat tyst godkännande för vissa mellanliggande administrativa steg och gemensamma digitala portaler för ansökningar.
+Den 18 november 2026 nådde rådet och Europaparlamentet en **preliminär överenskommelse** om att förenkla och förkorta tillståndsprocesser för förnybara energiprojekt, elnät, energilagring och laddinfrastruktur samt för tillstånd till ny el- och gasinfrastruktur. Medlemsstaterna ska kunna behandla utbyggnad av förnybar energi och elnät som ett överordnat allmänintresse, men får avstå från den principen när säkerhets-, försvars- eller kulturarvsintressen kräver det. De ska också kunna införa så kallat tyst godkännande för vissa mellanliggande administrativa steg och gemensamma digitala portaler för ansökningar.
 
 Överenskommelsen anger även principer för lokalt deltagande och fördelning av nyttor från **förnybara energiprojekt över 7 MW**. Den tröskeln gäller dessa energiprojekt – inte datacenter som sådana. Texten ger inte datacenter automatisk företrädesrätt i nätkön och garanterar inte att en viss anläggning får anslutning eller effekt.
 
@@ -700,8 +700,8 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 25. **Reuters – EU reaches provisional deal to speed permits for renewable energy projects**, 18 november 2026. Oberoende rapportering om överenskommelsens preliminära status och att formellt godkännande återstår:  
     https://www.reuters.com/business/energy/eu-reaches-provisional-deal-speed-permits-renewable-energy-projects-2026-11-18/
 
-26. **Reuters – Italy data centre connection requests top 100 GW, Terna CEO says**, 14 oktober 2026. Oberoende rapportering om närmare 600 ansökningar, mer än 100 GW och Terna-ledningens varning om skillnaden mellan ansökningar och genomförbara projekt:  
-    https://www.reuters.com/business/energy/italy-data-centre-connection-requests-top-100-gw-terna-ceo-says-2026-10-14/
+26. **Reuters, återpublicerad av The Economic Times – Italy data centre connection requests top 100 GW, Terna CEO says**, 14 oktober 2026. Oberoende rapportering om närmare 600 ansökningar, mer än 100 GW och Terna-ledningens varning om skillnaden mellan ansökningar och genomförbara projekt:  
+    https://economictimes.indiatimes.com/tech/technology/italy-data-centre-connection-requests-top-100-gw-terna-ceo-says/articleshow/134942281.cms
 
 27. **Quotidiano Energia – Impianti Fer: a settembre 675 MW, richieste data center verso 110 GW**, 15 oktober 2026. Branschrapportering baserad på Terna/Econnextion och septemberuppgiften om närmare 109 GW:  
     https://www.quotidianoenergia.it/module/news/page/entry/id/537419
