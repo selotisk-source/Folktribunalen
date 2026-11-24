@@ -83,6 +83,14 @@ Researchpaketet `editorial/research/2026-11-24-frolunda-archival-source-audit.md
 - 1550 års jordebok och den administrativa handlingen bakom 1886 års namn.
 - Signum och reproduktionsvillkor för 1764- och 1917-kartorna.
 
+### Supplemental cross-track signal – Svarta havet
+
+WFP:s briefing till FN:s säkerhetsråd 23 november gav en ny, icke-Hormuz-signal för Svartahavsspåret. WFP uppgav 63 procent färre vete- och majsfartyg genom Bosporen vid mitten av oktober 2026 jämfört med samma tid 2025, samt en uppskattning om 10 miljoner ton ryskt och ukrainskt vete som kan utebli från världsmarknaden. Uppgifterna är attribuerade till WFP:s chef; metod och underliggande AIS-/incidentdata återstår. Detta är inte Varna-specifik trafikstatistik.
+
+Separat evidensnot har lagts till i PR #80: `editorial/evidence-notes/2026-11-24-black-sea-grain-shipping-wfp-briefing.md`. Klassificering: kandidat för senare artikel om Svarta havets spannmålskorridor och livsmedelsförsörjning. Den påverkar inte dagens Frölunda-leverans eller huvudartikelkön.
+
+Källor: https://www.wfp.org/stories/wfp-chief-warns-un-security-council-triple-chokepoint-driving-hunger · https://www.reuters.com/business/environment/un-food-agency-chief-warns-wars-jeopardize-food-aid-73-million-more-people-2026-11-23/
+
 ## 5. Hormuz – endast supplemental kontroll
 
 UKMTO:s officiella sida **Recent Incidents**, kontrollerad 24 november, visar fortfarande Advisory 217-26 (22 november 14:25 UTC) som senaste publicerade incidentpost. De senaste attackposterna är 214–216 från 20–21 november. 217 är en Advisory om en rapporterad incident mellan tanker och militära styrkor i Omanbukten; den innehåller ingen bekräftad träff, skada eller fartygsidentitet.
