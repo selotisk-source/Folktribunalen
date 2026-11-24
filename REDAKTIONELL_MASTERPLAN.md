@@ -1,6 +1,6 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
-**Version:** 24 november 2026 – kompletterad med EU:s elnätsöverenskommelse, Terna-data, publiceringsarkitektur och ny Render-kontroll  
+**Version:** 24 november 2026, 08:05 EET – daglig desk, Frölunda-källkedja, Svartahavets spannmålstrafik och uppdaterad PR-/driftkontroll  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens anslutna adminväg → faktisk HTTP-kontroll av publik route. Nästa huvudartikel får inte starta före kontroll av rätt rubrik, ingress och fulltext på den aktuella publika routen.
 
 **Obligatorisk PR-spärr:** Varje artikel-PR ska vara Open/Draft under hela research-, faktakontrolls-, redigerings- och godkännandefasen. Den får inte markeras Ready for review före separat uttryckligt chefredaktörsgodkännande av exakt aktuell commit. Före detta godkännande är merge, cherry-pick till main, deploy, databasändring, frontendändring och publicering förbjudna. Efter godkännandet får endast den godkända versionen gå via den anslutna adminvägen. Äldre generella godkännanden gäller inte materiellt ändrade versioner. Mergade äldre avvikelser hålls historiska och får inte utökas med nya deployer utan separat godkännande.
@@ -8,6 +8,55 @@
 **Återkommande hyllning i varje utgåva:** Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-notisen ska ange både National Museum Vasil Levski – Documentary Heritage (https://vlevskimuseum-bg.org/en/documentary-heritage/) och National Library of Bulgaria – Levski's Notebook (https://www.nationallibrary.bg/levski/). Skilj dokumenterade uppgifter från hyllning och tolkning; inga citat utan kontroll mot original eller kontrollerad transkription.
 
 Äldre daterade loggar längre ned är historiska ögonblicksbilder. Denna översta kontroll anger aktuell status per 24 november 2026.
+
+## Senaste dagliga desk – 24 november 2026, 08:05 EET
+
+### Kontinuitet och kö
+
+- Föregående sidospår 23 november: Cypern, PR #81 – Geroskipou-Monagri, Ashmolean, Strabon 14.6.3 och Commandaria.
+- Dagens sidospår 24 november: Frölunda, PR #74 – källkedjan mellan Västra Frølanda 1436, Östra Frølvnda songh 1402 och två separata 1313-hänvisningar.
+- **Aktiv huvudartikel oförändrad:** PR #71, Europas AI-infrastruktur, Open/Draft, exakt head `1a5b802932e3a50d755519045ed0ec970a8308fc`. Separat chefredaktörsgodkännande av exakt version saknas.
+- **Nästa huvudartikel oförändrad:** PR #38, Synkronicitetsprotokollet, fortsatt parkerad tills PR #71 har godkänts, gått genom adminvägen och klarat publik HTTP-/innehållskontroll.
+- **Nästa sidospår enligt tid sedan senaste konkreta leverans:** Storsjö kapell/Cladonia i Härjedalen, PR #4 och #32. Senaste uppdateringar 12–13 november; äldre än Skaga PR #69 (17 nov), Cypern PR #72 (18 nov), Athos PR #76 (20 nov), Skaga PR #75/Sofia PR #77/ODJURET PR #78 (21 nov), Varna PR #80 (22 nov) och Cypern PR #81 (23 nov).
+
+### Dagens Frölunda-leverans – PR #74
+
+- Open/Draft; head `da58fbf535013e0febbbb8a2ad879847e7b0f24e`; 17 commits, 15 filer, 789 tillägg, 0 borttagningar; 0 review submissions och 0 review threads.
+- Nytt researchpaket: `editorial/research/2026-11-24-frolunda-archival-source-audit.md`.
+- Tre nya provenance-länkade evidensnoter: två skilda 1313-/1436-källkedjor; avvikelsen 1885/1886; konkreta arkivmål för kartor 1764/1917.
+- Rapport 13 (1999) s. 51/fotnot 103 (Nyström s. 32) hålls isär från s. 56–57/fotnot 123 (Hörman s. 267). Isof anger Frølanda 1436 som Västra Frölundas första säkra skrivform. Östra Frølvnda 1402 är ett separat belägg i Kinds härad.
+- Originalhandlingarna 1313/1436, Nyström/Hörman-sidorna, 1550 års jordebok och den administrativa handlingen bakom 1886 återstår.
+
+### Supplemental Svartahavssignal – PR #80
+
+- PR #80 är fortsatt Open/Draft; head `3027f62f16196159004b9076a264b0e2c2cca3e0`; 11 commits, 9 filer.
+- WFP:s briefing till FN:s säkerhetsråd 23 november har fått en separat evidensnot: `editorial/evidence-notes/2026-11-24-black-sea-grain-shipping-wfp-briefing.md`.
+- WFP uppgav 63 procent färre vete-/majsfartyg genom Bosporen vid mitten av oktober 2026 jämfört med samma period 2025; 10 miljoner ton ryskt och ukrainskt vete kan enligt WFP utebli från världsmarknaden. Siffrorna är attribuerade till WFP:s chef; underliggande AIS-/incidentmetod återstår. Ingen Varna-specifik trafikförlust hävdas.
+- Klassificering: kandidat för senare artikel om Svarta havets spannmålskorridor och livsmedelsförsörjning. Undervattensarkeologipaketet skrivs inte om.
+
+### Hormuz
+
+UKMTO:s officiella Recent Incidents-sida visar fortfarande Advisory 217-26 (22 november 14:25 UTC) som senaste post vid kontroll 24 november. Ingen ny UKMTO-post efter 217 identifierades; ingen ny Hormuz-evidensnot behövdes. PR #79 fortsätter som separat bevakningsbank. Hormuz har inte ändrat rotationsordningen.
+
+### PR-spärr – aktuell kontroll
+
+- GitHub-sökning: 68 öppna PR:er med `draft=true`, 0 öppna PR:er utanför Draft.
+- PR #71, #73, #74, #79, #80 och #81 är Open/Draft. PR #74 och #80 har inga review submissions eller review threads.
+- PR #73 är fortsatt dokumentations-PR i Draft; dess 24 november-version ligger inte på main.
+- Ingen Ready for review, merge, cherry-pick, main-ändring, deploy, databasändring, frontendändring eller publicering har gjorts.
+
+### Drift och åtkomst – kontroll 24 november
+
+- **Railway:** fem tjänster i production; alla rapporteras Offline. Osiris-mindcloud-ui och Cognee Memory har senaste registrerade deployment FAILED (12 respektive 10 oktober). Ingen Hermes-tjänst finns i inventeringen.
+- **Render:** statisk folktribunalen har senaste listade live-deploy 16 november, commit `a43f1579058824a36ccad6245d4616551505431e`; redaktionell backend har senaste listade live-deploy 4 november, commit `6a835783553565f239864a9da7160d9f79f692b2`.
+- **Postgres:** status `available`, men `ipAllowList=[]`. Read-only `SELECT 1` via hosted Render MCP nekas eftersom externa anslutningar blockeras. Databasens metadata anger expiry 4 december 2026 kl. 21:18:55 UTC (23:18:55 EET).
+- **Publik route:** webbläsarhämtning och direkt `curl` kunde inte lösa `folktribunalen.onrender.com` (DNS-fel). Ingen HTTP-status, rubrik, ingress eller fulltext erhölls. PR #71 är inte LIVE-kontrollerad.
+
+### Återkommande hyllning
+
+Varje utgåva behåller Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-källorna ska anges i varje utgåva:
+- https://vlevskimuseum-bg.org/en/documentary-heritage/
+- https://www.nationallibrary.bg/levski/
 
 ## Aktuell arbetskontroll – 24 november 2026, 02:55 EET
 
