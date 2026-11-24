@@ -442,3 +442,37 @@ Upphandlingarna visar en konkret förskjutning i avtals- och kontrollkrav, men d
 - EUR-Lex, COM(2026) 502: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502
 
 **Aktuell artikeltext:** 50 primärkällor och 24 oberoende rapporteringskällor. Faktarutan har två nya rader för offentlig molnupphandling. Dossieret innehåller nu 20 öppna frågor. Bildförslagen har kompletterats med en diagramidé för molnsuveränitet; inga nya bildrättigheter har klarerats.
+
+
+## Kontrollrunda 24 november 2026 – EU:s elnätsöverenskommelse och italiensk anslutningskö
+
+### EU:s elnätsöverenskommelse – primärkälla och rättslig status
+- Rådet och Europaparlamentet nådde den 18 november en preliminär överenskommelse om tillståndsprocesser för förnybar energi, elnät, energilagring, laddinfrastruktur och ny el-/gasinfrastruktur.
+- Rådet anger att medlemsstaterna ska kunna behandla förnybar energi och elnät som överordnat allmänintresse, införa tyst godkännande för vissa mellanliggande administrativa steg och använda digitala portaler.
+- Principerna om lokal nyttodelning gäller för förnybara energiprojekt med installerad kapacitet över 7 MW. De ska inte beskrivas som en generell skyldighet för datacenter.
+- **Rättslig status:** preliminär politisk överenskommelse. Formellt godkännande av rådet och parlamentet samt antagande efter juridisk-språklig granskning återstår. Därefter har medlemsstaterna 18 månader för nationellt införlivande.
+- **Redaktionell slutsats:** överenskommelsen kan underlätta nät- och förnybarutbyggnad, men skapar ingen automatisk datacenterprioritet eller garanterad nätanslutning.
+- Oberoende Reutersrapportering 18 november bekräftar att formellt godkännande återstår.
+
+### Italien – Terna skiljer anslutningsförfrågningar från byggklar pipeline
+- Terna 9M 2026 Consolidated Results Presentation, publicerad 12 november, anger cirka 108 GW anslutningsförfrågningar för datacenter per september och cirka 2 GW i kategorin *ready to build* (sida 3).
+- Terna beskriver Econnextion som en månadsuppdaterad dashboard baserad på uppgifter från sökande. Terna säger uttryckligen att uppgifterna publiceras för statistiska/informativa ändamål och att fullständighet eller riktighet inte garanteras.
+- Reuters 14 oktober rapporterade närmare 600 projektförfrågningar och mer än 100 GW, samt Terna-ledningens bedömning att volymen vida översteg den kapacitet som projekten realistiskt kunde genomföras med. Quotidiano Energia rapporterade 15 oktober närmare 109 GW utifrån Terna-data.
+- **Faktastatus:** 108 GW och cirka 2 GW är Terna:s avrundade presentationssiffror; 108 GW är inte byggd eller förbrukad effekt. Begärd anslutning är en pipelineindikator, inte ett löfte om leverans.
+- **Öppna frågor:** kontrollera nästa publicerade Econnextion-månadsvärde; jämför den exakta databasens stegdefinitioner med Terna-presentationens avrundade *ready to build*-mått; klarlägg hur många ansökningar som har finansiering, markrättigheter och bygglov.
+
+### Källor till kontrollrundan
+**Primärkällor**
+- Council of the EU, press release 939/26, 18 November 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/pdf/
+- Terna, 9M 2026 Consolidated Results Presentation, 12 November 2026, p. 3: https://download.terna.it/terna/Terna_9M_2026_Consolidated_Results_Presentation_8df40c85fce1506.pdf
+- Terna, Econnextion: https://dati.terna.it/connessioni/econnextion
+
+**Oberoende rapportering**
+- Reuters, 18 November 2026: https://www.reuters.com/business/energy/eu-reaches-provisional-deal-speed-permits-renewable-energy-projects-2026-11-18/
+- Reuters, 14 October 2026: https://www.reuters.com/business/energy/italy-data-centre-connection-requests-top-100-gw-terna-ceo-says-2026-10-14/
+- Quotidiano Energia, 15 October 2026: https://www.quotidianoenergia.it/module/news/page/entry/id/537419
+
+### Uppdaterad omfattning och status
+- Artikeltexten har nu 12 huvudavsnitt, slutsats och faktaruta, **53 primärkällor och 27 oberoende/kompletterande rapporteringskällor**.
+- Detta är en materiell faktauppdatering av PR #71 och kräver nytt separat chefredaktörsgodkännande av den nya exakta commit-versionen.
+- Ingen artikelmerge, deploy, databasändring, frontendändring eller publicering har genomförts.
