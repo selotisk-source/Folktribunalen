@@ -41,6 +41,22 @@ En anläggning som marknadsförs med en framtida kapacitet på en gigawatt anvä
 
 Det är i dessa skillnader som den verkliga ekonomin bakom Europas AI-utbyggnad går att läsa.
 
+### EU:s elnätsöverenskommelse: snabbare tillstånd, ingen automatisk datacenterprioritet
+
+Den 18 november 2026 nådde rådet och Europaparlamentet en **preliminär överenskommelse** om att förenkla och förkorta tillståndsprocesser för förnybara energiprojekt, elnät, energilagring och laddinfrastruktur samt för tillstånd till ny el- och gasinfrastruktur. Medlemsstaterna ska kunna behandla utbyggnad av förnybar energi och elnät som ett överordnat allmänintresse. De ska också kunna införa så kallat tyst godkännande för vissa mellanliggande administrativa steg och gemensamma digitala portaler för ansökningar.
+
+Överenskommelsen anger även principer för lokalt deltagande och fördelning av nyttor från **förnybara energiprojekt över 7 MW**. Den tröskeln gäller dessa energiprojekt – inte datacenter som sådana. Texten ger inte datacenter automatisk företrädesrätt i nätkön och garanterar inte att en viss anläggning får anslutning eller effekt.
+
+Detta är ännu inte gällande EU-rätt. Rådet och parlamentet måste först godkänna överenskommelsen formellt och anta rättsakten efter juridisk-språklig granskning. Därefter får medlemsstaterna 18 månader på sig att införliva direktivet i nationell lag. Reformen kan på sikt påskynda byggandet av den infrastruktur som datacenter behöver, men den ersätter inte nationella anslutningsbeslut, nätplanering eller prövning av enskilda projekt.
+
+### Italien: 108 GW i anslutningsförfrågningar – omkring 2 GW i byggklar fas
+
+Terna redovisade i sin resultatpresentation för de första nio månaderna 2026 cirka **108 GW i anslutningsförfrågningar från datacenter** med referens till september, samtidigt som omkring **2 GW** klassades som *ready to build*. Det är Terna-bolagets avrundade presentationssiffror. De beskriver en administrativ projektpipeline, inte el som redan används, installerad datacenterkapacitet eller 108 GW garanterad nätleverans.
+
+Terna beskriver Econnextion som en månadsuppdaterad dashboard byggd på uppgifter som sökande lämnar i anslutningsprocessen. Operatören anger att uppgifterna publiceras för statistiska och informativa ändamål och att de inte garanterar fullständighet eller riktighet. Det är därför viktigt att skilja en registrerad förfrågan från ett projekt med mark, tillstånd, finansiering, detaljerad nätlösning och byggstart.
+
+Reuters rapporterade redan den 14 oktober att Terna hanterade anslutningsförfrågningar för närmare 600 datacenterprojekt och mer än 100 GW, och återgav vd:ns bedömning att volymen vida översteg den kapacitet som projekten realistiskt kunde genomföras med. Quotidiano Energia återgav den 15 oktober Terna-data på närmare 109 GW. Tillsammans visar uppgifterna varför en stor kö inte kan läsas som en prognos över byggd kapacitet: den säger först och främst hur mycket effekt projektutvecklare har begärt att få prövad.
+
 ---
 
 ## 2. Amsterdam: 99 MW och en rättighet som föregår dagens nätdebatt
@@ -595,6 +611,15 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 50. **EUR-Lex – Proposal for a Cloud and AI Development Act, COM(2026) 502**, 3 juni 2026. Kommissionens marknadsbeskrivning: EU-leverantörernas andel 29 procent 2017 och 15 procent 2022 samt över 70 procents samlad andel för tre leverantörer utanför EU:  
     https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502
 
+51. **Europeiska unionens råd – Grids package: Council and Parliament agree to streamline permitting for a faster clean energy transition**, pressmeddelande 939/26, 18 november 2026. Preliminär överenskommelse, omfattade tillståndsområden, villkor för formellt antagande och 18 månaders införlivandefrist:  
+    https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/pdf/
+
+52. **Terna – 9M 2026 Consolidated Results Presentation**, 12 november 2026, sida 3. Terna anger cirka 108 GW anslutningsförfrågningar för datacenter per september 2026 och cirka 2 GW *ready to build*:  
+    https://download.terna.it/terna/Terna_9M_2026_Consolidated_Results_Presentation_8df40c85fce1506.pdf
+
+53. **Terna – Econnextion**, officiell beskrivning av den månatligt uppdaterade anslutningsdashboarden och dess databegränsningar. Uppgifterna bygger på information som sökande lämnar; Terna garanterar inte fullständighet eller riktighet:  
+    https://dati.terna.it/connessioni/econnextion
+
 
 ## Oberoende rapportering och kompletterande källor
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
@@ -671,3 +696,12 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 24. **Reuters – Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant**, 23 november 2026. Rapportering om offentlig upphandling, operativ kontroll, leverantörsinlåsning och långsamma migrationsprocesser:  
     https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
+
+25. **Reuters – EU reaches provisional deal to speed permits for renewable energy projects**, 18 november 2026. Oberoende rapportering om överenskommelsens preliminära status och att formellt godkännande återstår:  
+    https://www.reuters.com/business/energy/eu-reaches-provisional-deal-speed-permits-renewable-energy-projects-2026-11-18/
+
+26. **Reuters – Italy data centre connection requests top 100 GW, Terna CEO says**, 14 oktober 2026. Oberoende rapportering om närmare 600 ansökningar, mer än 100 GW och Terna-ledningens varning om skillnaden mellan ansökningar och genomförbara projekt:  
+    https://www.reuters.com/business/energy/italy-data-centre-connection-requests-top-100-gw-terna-ceo-says-2026-10-14/
+
+27. **Quotidiano Energia – Impianti Fer: a settembre 675 MW, richieste data center verso 110 GW**, 15 oktober 2026. Branschrapportering baserad på Terna/Econnextion och septemberuppgiften om närmare 109 GW:  
+    https://www.quotidianoenergia.it/module/news/page/entry/id/537419
