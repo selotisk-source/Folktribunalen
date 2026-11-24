@@ -47,7 +47,7 @@
 - **DB-test:** read-only `SELECT 1` via hosted Render MCP nekades eftersom databasen blockerar externa anslutningar när IP-allowlisten är tom; hosted MCP har ingen klient-IP som kan tillåtas. Ingen allowliständring och ingen DB-läsning/skrivning genomfördes. Backendens eventuella privata nätverksanslutning till Postgres är inte testad och får inte beskrivas som trasig.
 - **Publik route:** container-`curl` till statisk root, AI-artikelroute, backend `/api/health` och `/api/setup-status` gav `curl: (6) Could not resolve host`. Webbläsaröppning av domänerna gav URL-not-accessible. Ingen HTTP-status eller sidtext erhölls.
 
-### Publiceringsarkitektur – verifierade kodfynd
+### Publiceringsarkitektur – kodgranskning
 
 - `index.html` (blob `50710aed1ef2eaecc69e30120646f8b08ae4159c`) laddar statisk `src/app.js?v=20261116-geneve`. Publicerad kortmetadata och body läses från statiska arrayer; ingen `fetch('/api/articles')` finns i den publika appen.
 - `/redaktion` i public frontend omdirigerar till `/admin.html`. `admin.js` använder relativa `/api`-anrop. Den statiska Render-tjänsten har ingen API-server; den separata Node-backenden har API-rutterna.
