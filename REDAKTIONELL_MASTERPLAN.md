@@ -649,3 +649,31 @@ PR #71:s nya head är 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e; 19 commits före
 
 
 Efter den kompletterande El País-kontrollen uppdaterades även dossierfilen. PR #71:s aktuella head är därmed 87e78d8f569e8e5e5b9d1c2ea2d0dbe726be2b4e, 19 commits före main och 0 bakom. PR #71 förblir Open/Draft; ingen artikelbunden approval finns för denna head.
+
+
+## Nyhetskontroll – 24 november 2026
+
+### Hormuz och sjöfarten
+- The Jerusalem Post återger 24 november ett IRGC/IRNA-påstående om tre tankfartyg som ska ha träffats av minor och börjat brinna under passage genom Hormuz. Fartygen är inte namngivna; positioner, IMO-nummer och oberoende skadebekräftelse saknas. JPost uppger att CENTCOM inte hade svarat. Ingen matchande ny UKMTO-varning/advisory identifierades i kontrollen. Behandla detta som en partsuppgift, inte som tre verifierade fartygsattacker.
+- Evidensnot: https://github.com/selotisk-source/Folktribunalen/blob/research/2026-11-22-news-watch/editorial/evidence-notes/2026-11-24-hormuz-irgc-three-tanker-claim.md
+- Källa: https://www.jpost.com/middle-east/iran-news/article-915899
+
+### USA:s kongress och BAAJA
+- Senaten antog H.R. 2347, i den ändrade form som senatens floor log identifierar som BAAJA, 62–33 den 19 november. Den ursprungliga H.R. 2347-titeln i roll-call-listan ska hållas åtskild från ersättningstexten SA 6883. BAAJA är inte lag. Mike Levin och Sean Casten meddelade 23 november att de inte stöder nuvarande text utan ändringar; de lyfter bland annat miljöskydd, Tribal sovereignty och rättslig prövning. Ingen bekräftad House-omröstning har identifierats i kontrollen.
+- Evidensnot: https://github.com/selotisk-source/Folktribunalen/blob/research/2026-11-22-news-watch/editorial/evidence-notes/2026-11-24-baaja-house-negotiation.md
+- Källor: https://www.senate.gov/legislative/LIS/floor_activity/11_19_2026_Senate_Floor.htm · https://levin.house.gov/media/press-releases/rep-levin-calls-for-changes-to-senate-passed-energy-permitting-bill · https://casten.house.gov/media/press-releases/casten-statement-on-senate-permitting-reform
+
+### Palantir – Alex Karp och Form 144
+- Två separata Form 144-notiser daterade 20 november anger 90 000 respektive 585 000 föreslagna aktier. Tillsammans: 675 000 aktier och cirka 99,7 MUSD enligt notiserna. 90 000-notisen anger en Rule 10b5-1-plan antagen 12 mars 2026; 585 000-notisen har en annan kommentar om flerdagarsförsäljning/förhandsanmälan och anger inget planadoptionsdatum. Form 144 bevisar inte att aktierna sålts. Form 4-kontroll återstår.
+- Evidensnot: https://github.com/selotisk-source/Folktribunalen/blob/research/2026-11-22-news-watch/editorial/evidence-notes/2026-11-24-palantir-karp-form144-double-notice.md
+- Primärfiling 90 000: https://www.sec.gov/Archives/edgar/data/1321655/000195004726011389/0001950047-26-011389-index.htm. SEC-katalogen listar accession 0001950047-26-011411 för 585 000-notisen; värdena är även transkriberade av StockTitan.
+
+### Gripen över Polen
+- Polens BBN bekräftar tre nedfallsplatser den 20 november och identifierar en Kh-101 vid Nowy Lipowiec; två andra objekt är preliminärt en ytterligare robot och en jetdriven drönare. Uppgiften om ett villkorat eldtillstånd till svensk Gripen-pilot och utebliven avfyrning på grund av väder återges av Kyiv Independent med hänvisning till den polske operativa befälhavaren; separat svensk myndighetsbekräftelse har inte hittats. Inget påstående om att Gripen sköt ned ett mål.
+- Evidensnot: https://github.com/selotisk-source/Folktribunalen/blob/research/2026-11-22-news-watch/editorial/evidence-notes/2026-11-24-gripen-poland-incident-followup.md
+- Källor: https://www.bbn.gov.pl/pl/wydarzenia/10584%2CNaruszenie-polskiej-przestrzeni-powietrznej-Komentarz-Szefa-BBN.html · https://kyivindependent.com/swedish-gripen-pilot-unable-to-shoot-down-suspected-russian-missile-over-poland-due-to-poor-weather-commander-says/
+
+### PR- och artikelstatus
+- PR #79:s researchgren research/2026-11-22-news-watch är 17 commits före main, 0 bakom och innehåller 10 evidensnoter; fyra nya noter daterade 24 november har lagts till. PR #79 förblir research/Draft och är inte en publiceringsartikel.
+- PR #71 är fortsatt enda aktiva huvudartikel. Chefredaktören har godkänt exakt d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a; nuvarande PR-head 1a5b802932e3a50d755519045ed0ec970a8308fc ligger fyra commits senare och omfattas inte av godkännandet. Publicering är blockerad av tom Postgres-IP-allowlist, DNS-fel till båda Render-domänerna och avsaknad av DB-koppling i statisk frontend. PR #38 förblir parkerad.
+- Ingen merge, deploy, databasändring, frontendändring eller LIVE-publicering har genomförts.
