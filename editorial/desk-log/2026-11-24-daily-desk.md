@@ -151,6 +151,6 @@ Direkt öppning av statisk webbplats, AI-artikelroute och backend-domän via web
 
 ## 9. Nästa rotation
 
-- **Nästa sidospår:** Skaga kapell eller annat minst nyligen avancerat kulturarvsspår, valt efter ny läsning av masterplan och föregående körning.
+- **Nästa sidospår:** Storsjö kapell/Cladonia i Härjedalen, PR #4 och #32. GitHub visar senaste konkreta PR-uppdateringar 12–13 november, äldre än Skaga PR #69 (17 november), Cypern PR #72 (18 november), Athos PR #76 (20 november), Skaga PR #75/Sofia PR #77/ODJURET PR #78 (21 november), Varna PR #80 (22 november) och Cypern PR #81 (23 november). Storsjöspåret är därmed minst nyligen avancerat bland de dokumenterade sidospåren.
 - **Huvudartikel:** PR #71 fortsätter som enda aktiva huvudartikel; PR #38 förblir parkerad.
 - **Frölunda:** nästa steg är att hämta originalhandlingarna och arkivsignumen, inte att skriva om den befintliga researchen från början.
