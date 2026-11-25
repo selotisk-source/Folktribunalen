@@ -789,3 +789,45 @@ Efter den kompletterande El País-kontrollen uppdaterades även dossierfilen. PR
 - PR #71 förblir enda aktiva huvudartikel och Draft. Inget godkännande av nuvarande head har dokumenterats.
 - Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts.
 - Nästa sidospår i rotationslistan kvarstår Storsjö/Cladonia; nästa huvudartikel kvarstår PR #38 efter avslutad huvudspår-2-cykel.
+
+
+## Daily Desk – 25 november 2026
+
+### Dagens rotation: Storsjö kapell / Cladonia
+
+Föregående sidospår var Frölunda (PR #74, 24 november). Dagens minst nyligen avancerade dokumenterade kultur-/markspår är Storsjö/Cladonia, med senaste konkreta uppdateringar i PR #4 och #32 den 12–13 november. PR #4 och #32 är båda Open/Draft; PR #32 är dagens arbetsgren.
+
+**Ny evidensnot:** `editorial/evidence/2026-11-25-storsjo-v-markforvarv-politisk-reaktion.md` på PR #32.
+- Aftonbladet publicerade 20 november en debattartikel av Vänsterpartiets Birger Lahti och Elin Hoffner om skärpt granskning av stora markförvärv.
+- Klassificering: daterad uppdatering till befintligt artikelutkast.
+- Källan dokumenterar en politisk ståndpunkt, inte ett myndighetsbeslut, ett lagförslag eller ett konstaterande om olaglighet/säkerhetsrisk i det aktuella förvärvet.
+- Omni återger debattartikeln 21 november. Tidigare SVT/SR-uppgifter om ISP, Länsstyrelsen och kommunmötet hålls separata från debattörernas argument.
+- Nästa bevisluckor: originalbeslut från ISP (27 augusti) och Länsstyrelsen (9 september), kommunens mötesanteckningar samt eventuella efterföljande riksdags-/regeringshandlingar.
+
+**Föreslagen artikelvinkel för ett avgränsat tillägg:** ”Markaffären blir också en fråga om politisk kontroll”. Ingen full omskrivning.
+
+### Huvudartikelkö och projektstatus
+- Aktiv huvudartikel: PR #71, Europas AI-infrastruktur, Open/Draft, head `1a5b802932e3a50d755519045ed0ec970a8308fc`. Separat godkännande av exakt aktuell commit saknas.
+- Nästa huvudartikel: PR #38, Synkronicitetsprotokollet, fortsatt parkerad tills huvudspår 2 har korrekt publicerats via admin och publik route har kontrollerats.
+- Frölunda PR #74: föregående leverans, Draft.
+- Cypern PR #81: föregående dessförinnan, Draft.
+- Varna/Svarta havet PR #80: senaste WFP-noten kvarstår; ingen ny Varna-specifik utveckling har lagts till i dagens leverans.
+- Skaga kapell PR #69, Sofia PR #77/#78, Böckernas väg till Athos PR #76, strategiska råvaror, finans, kyrkor, Libanon, Fennoskandien/Storsjö och övriga dokumenterade serier ligger kvar enligt tabellerna ovan. Ingen parkerad huvudartikel har aktiverats.
+
+### Hormuz
+Endast separat bevakningsström. Ingen ny, källkontrollerad signal som motiverar en kompletterande evidensnot har lagts till i denna körning. Hormuz har inte påverkat rotationsordningen.
+
+### Teknik, åtkomst och publiceringsspärr
+- GitHub: PR #32 kontrollerad Open/Draft före och efter ny evidenscommit; PR #71 och #73 kontrollerade Open/Draft. Inga review submissions på PR #32 eller #71 i denna kontroll.
+- Hermes: senaste dokumenterade tjänsteinventering visade ingen Hermes-tjänst. Ingen ny Hermes-endpoint har kunnat bekräftas i denna körning; tillgänglighet kvarstår som blockerad/oklar.
+- Källåtkomst: Aftonbladets debattartikel, Omni, Sveriges Radio och SVT kunde hämtas. ISP:s och Länsstyrelsens originalbeslut samt kommunens mötesanteckningar saknas fortfarande.
+- Redaktionell backend/databas: ingen ny end-to-end-kontroll genomfördes. Senast dokumenterade blockerare kvarstår: Render-arbetsyta/endpointkontroll ej fullföljd och Postgres allowlist/anslutning blockerade.
+- Publik artikelroute: ingen ny HTTP-status eller kontroll av rubrik, ingress och fulltext genomfördes. PR #71 är inte LIVE-kontrollerad.
+
+**PR-spärr:** Alla artikel- och research-PR:er ska förbli Draft. Ingen PR-statusändring, merge, cherry-pick, deploy, DB-/frontendändring eller publicering har gjorts. Historiska avvikelser PR #56 och #66 kvarstår endast som dokumenterade avvikelser; inga nya deployer.
+
+### Nästa rotation
+Nästa sidospår efter dagens Storsjö/Cladonia-leverans väljs på nytt efter minst nyligen avancerade status och dokumenterad projektbrief. Den formella huvudartikelkön är oförändrad: PR #71 aktiv, PR #38 nästa men parkerad.
+
+### Återkommande hyllning
+Denna utgåva ska behålla de sex återkommande namnen: Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski (Васил Левски; Vasil Ivanov Kunchev, 1837–1873). Levski-avsnittet ska länka till National Museum Vasil Levski – Documentary Heritage (https://vlevskimuseum-bg.org/en/documentary-heritage/) och Bulgariens nationalbiblioteks material om Levski's Notebook (https://www.nationallibrary.bg/levski/). Arkivbelagda uppgifter ska hållas åtskilda från hyllning och tolkning; inga citat utan originalkontroll.
