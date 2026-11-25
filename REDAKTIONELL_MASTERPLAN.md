@@ -831,3 +831,13 @@ Nästa sidospår efter dagens Storsjö/Cladonia-leverans väljs på nytt efter m
 
 ### Återkommande hyllning
 Denna utgåva ska behålla de sex återkommande namnen: Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski (Васил Левски; Vasil Ivanov Kunchev, 1837–1873). Levski-avsnittet ska länka till National Museum Vasil Levski – Documentary Heritage (https://vlevskimuseum-bg.org/en/documentary-heritage/) och Bulgariens nationalbiblioteks material om Levski's Notebook (https://www.nationallibrary.bg/levski/). Arkivbelagda uppgifter ska hållas åtskilda från hyllning och tolkning; inga citat utan originalkontroll.
+
+
+### Supplemental Hormuz-not – 25 november 2026
+- PR #79 har fått en separat evidensnot: `editorial/evidence-notes/2026-11-25-hormuz-ukmto-219-imo-141.md`, commit `9d5383b65463cd65a6be482ee3ae78eea06ed2a4`.
+- UKMTO Warning 219-26 är daterad 24 november och avser en verifierad, tidsfördröjt rapporterad händelse 23 november 20:25 UTC: tre österutgående fartyg träffade av okända projektiler, samtliga besättningar redovisade och fartygen fortsatte; skador/miljöpåverkan okända.
+- IMO:s bekräftade översikt anger 141 incidenter och 25 dödsfall bland sjöfolk per 23 november. Detta är en regional aggregatpost, inte en räkning enbart av incidenter i själva sundet.
+- Klassificering: daterad uppdatering till befintlig Hormuz-bevakning. Supplementalnot endast; ingen ändring av portföljrotation eller huvudartikelkö.
+
+### Nästa sidospår efter Storsjö
+PR-metadata visar att Libanonspåret senast uppdaterades 11 november (PR #39) och 13 november (PR #22), äldre än Skaga (17 nov), Böckernas väg till Athos (20 nov), Sofia/ODJURET (21 nov), Varna (22–24 nov), Cypern (23 nov) och Frölunda (24 nov). Därför är **Libanon** nästa sidospår enligt minst nyligen avancerad status. Använd de befintliga PR #22/#39-briefarna; skapa inte en ny vinkel innan deras dokumenterade scope har lästs. Finans PR #49 (12 nov) och strategiska råvaror PR #65 (13 nov) ligger därefter bland de äldre portföljspåren.
