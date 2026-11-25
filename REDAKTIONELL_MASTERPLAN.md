@@ -1,5 +1,89 @@
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
+**Version:** 25 november 2026, 08:04 EET – daglig kontroll av artikelgodkännande, PR-spärr, nyhetsläge och publiceringshinder  
+**Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → versionsbundet chefredaktörsgodkännande → ansluten redaktionell adminväg → faktisk HTTP- och innehållskontroll. Nästa huvudartikel får inte starta före LIVE-kontroll av föregående artikel.
+
+**Obligatorisk PR-spärr:** Artikel-PR ska vara Open/Draft under research, faktakontroll, redigering och godkännandekö. Ingen Ready for review, merge, cherry-pick, deploy, databasändring, frontendändring eller LIVE-publicering före uttryckligt godkännande av exakt aktuell commit. Ett godkännande av en äldre commit omfattar inte senare ändringar. Mergade äldre avvikelser är historiska och får inte byggas ut med nya deployer utan separat godkännande.
+
+## Senaste arbetskontroll – 25 november 2026, 08:04 EET
+
+### Huvudartikel 2 – versionsbeslut och publiceringsläge
+
+- **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
+- **PR:** [#71 – Open/Draft](https://github.com/selotisk-source/Folktribunalen/pull/71), gren `editorial/europe-ai-infrastructure-review-2026-11-17`.
+- **Nuvarande PR-head vid kontroll:** `1a5b802932e3a50d755519045ed0ec970a8308fc`; 40 commits, två ändrade filer; senast uppdaterad 24 november 06:11:50 UTC.
+- **Versionsbundet godkännande:** Issue-kommentaren [#7123684212](https://github.com/selotisk-source/Folktribunalen/pull/71#issuecomment-7123684212) dokumenterar chefredaktörens uttryckliga ”Ja” och ”Ja, publicera” för exakt commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a).
+- **Avgränsning:** Nuvarande PR-head är senare än godkänd commit. PR-kommentaren dokumenterar fyra efterföljande commits och ändringar i artikelmanus/dossier. Nuvarande head `1a5b802932e3a50d755519045ed0ec970a8308fc` omfattas inte av godkännandet. PR #71 ska förbli Draft; nuvarande head får inte mergas eller publiceras. Godkännandet av `d7a9d7e` är inte ett godkännande av senare versioner.
+- **Reviewkontroll 25 november:** PR #71 är Open/Draft, inte mergad. Review-listan är tom. PR-kommentaren om godkännandet är en versionsnotering, inte en GitHub review submission.
+- **Nästa huvudartikel:** PR #38, *Synkronicitet i algoritmernas spegel – mellan mening och mekanism*, är fortsatt Open/Draft och parkerad. Den får inte aktiveras innan artikel 2:s godkända version har gått genom redaktionens adminväg och klarat publik kontroll av HTTP-status, rubrik, ingress och fulltext.
+
+### Publiceringskedja – blockerande steg
+
+1. **GitHub-version:** endast commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a` har uttryckligt versionsbundet godkännande. Nuvarande PR-head är en annan version.
+2. **Admin/backend:** den senast dokumenterade publiceringsarkitekturen saknar en bekräftad importväg från PR/GitHub-artikeltext till admin och databas. Adminens statusfunktion räcker inte för att föra in rätt fulltext.
+3. **Databas:** senast dokumenterat Postgres `folktribunalen-db` status `available`, men `ipAllowList=[]`; tidigare hosted Render MCP-försök med read-only `SELECT 1` nekades. Ingen ny databasanslutning har lyckats i denna körning.
+4. **Publik webb:** tidigare DNS-fel för `folktribunalen.onrender.com` och redaktionell backend. Ingen ny lyckad HTTP-status eller sidtext har erhållits i denna körning.
+5. **Frontend:** senast dokumenterad `src/app.js` använder statiska artikelarrayer och hämtar inte artikeltexten från `/api/articles`. Den dokumenterade slug-/metadata-mismatchen för `europas-ai-infrastruktur` måste lösas via en separat godkänd teknisk ändring; ingen sådan ändring görs i denna artikelspärrade körning.
+
+**Publiceringsresultat:** ingen merge, deploy, databasändring, frontendändring eller LIVE-publicering har utförts. Ingen HTTP-status för artikel 2 är fastställd. Artikel 2 är inte LIVE-kontrollerad.
+
+### PR-spärr – aktuell kontroll
+
+- GitHub-sökning 25 november: 68 öppna PR:er med Draft-status; noll öppna PR:er utanför Draft.
+- PR #71: Open/Draft, head `1a5b802932e3a50d755519045ed0ec970a8308fc`.
+- PR #73: Open/Draft, masterplandokumentation.
+- PR #38: Open/Draft, nästa huvudartikel, parkerad.
+- PR #28 och #69: Open/Draft, separata researchserier.
+- Ingen öppen PR behövde återställas från Ready for review.
+- Ingen merge, cherry-pick, deploy eller ändring på `main` gjordes i denna kontroll.
+
+### Aktuella nyhetssignaler – 25 november
+
+- **Gripen över Polen:** Försvarsmaktens primärmeddelande 20 november bekräftar att svenska JAS 39 Gripen deltog under natten i flera timmars luftförsvarsinsats tillsammans med polska F-16 och ett nederländskt lufttankningsflygplan. Svenska piloter följde flera mål i polskt luftrum under svåra väder- och siktförhållanden. Försvarsmaktens meddelande anger inte antal flygplan eller att svenska piloter avlossade vapen. Källa: https://www.forsvarsmakten.se/kontakt/press-och-media/svenska-jas-gripen-i-luftforsvarsinsats-over/
+- **AI-infrastruktur:** Reuters 19 november rapporterar att OVHcloud lanserat 55 europeiskt hostade moln- och AI-produkter, inklusive tillgång till NVIDIAs Blackwell-chip. Bolaget uppger 110 MW tillgänglig datacenterkapacitet. Detta är bolagets kapacitetsuppgift, inte oberoende verifierad installerad AI-last. Källa: https://www.reuters.com/business/ovhcloud-launches-ai-cloud-products-hosted-europe-2026-11-19/
+- **Datacenter och lokalt motstånd:** AP rapporterar protester vid Microsofts byggplats i Amsterdam och samordnade protester i flera europeiska länder. Påståenden om energi, vatten och miljö ska attribueras till demonstranter/organisationer och jämföras med tillstånds- och miljödokument. Källa: https://apnews.com/article/b4f3f9f368697bb37416bcb4fabdd67c
+- **Hormuz:** En AIS-baserad live-sida visade noll AIS-synliga kommersiella passager under den del av 25 november som sidan hade registrerat kl. 01:51 UTC. Dagen var inte avslutad och IMF PortWatch hade ännu inte publicerat data för 25 november. Detta är inte belägg för att sundet var helt stängt; fartyg utan AIS och senare passager saknas. Källa: https://hormuz.now/traffic/2026-11-25
+- **USA:s kongress och Palantir:** inga nya primärdokument har i denna körning kontrollerats som ändrar de tidigare daterade noterna. H.R. 2347/BAAJA får inte beskrivas som lag utan nytt antagande och promulgation. Form 144 är föreslagen försäljning, inte bevis för genomförd transaktion.
+
+### Nio huvudspår – styrning
+
+1. **Palantir och den offentliga makten:** PR #55 tidigare mergad; senast dokumenterade publika HTTP 200 är från 13 november. Q3/insider- och offentlighetsnoter följs separat. Ny LIVE-kontroll saknas.
+2. **Vem bygger Europas AI-datacenter?:** PR #71; komplett utkast i Draft. Endast commit `d7a9d7e` uttryckligen godkänd; senare PR-head ej godkänd. Publiceringskedjan blockerad.
+3. **Synkronicitetsprotokollet:** PR #38 Draft; komplett första utkast, parkerat som nästa huvudartikel.
+4. **Sofia – staden under staden:** PR #8 delutkast och PR #77 researchpaket; musei- och byggnadsarkeologi återstår. Samuils gravtradition får inte felaktigt placeras i Sankt Sofia i Sofia; källorna måste hållas vid Sankt Achilleios/Prespa där beläggen hör hemma.
+5. **Europas strategiska råvaror:** PR #34, #51 och #65 Draft; delcase finns men sammanhängande huvudartikel återstår. Skilj fyndighet, resurs, reserv, tillstånd, finansiering och produktion.
+6. **NVIDIA – aktier som säkerhet för lån:** PR #14, #23 och #47 Draft; dokumenterad aktiepantskedja saknas. Skilj aktiepant från GPU-/datacenterfinansiering och bolagsåtaganden.
+7. **Libanons kristna historia:** PR #22 och #39 Draft; huvudartikel återstår. PR #36 om Fader Samir Daou är separat reportage.
+8. **Kyrkorna som överlevde imperierna:** komplett huvudartikel återstår; byggnadsakter för Wiesbaden, Warszawa och Prag behövs. Sofia och Varna möjliga fortsättningar.
+9. **Fennoskandien – urberget, skogen och hästen:** PR #4, #32, #37 och #43 innehåller delcase; sammanhängande huvudartikel återstår. Markrätt och arkeologi ska källbeläggas separat.
+
+### Separata projekt och serier
+
+- **ODJURET UR DJUPET:** PR #28 Draft. Uppenbarelsebokens odjur, Storsjöodjuret, Frösöstenen och Peter Thiels egna föreläsningar. Symbolisk parallell är central; historisk påverkan får inte påstås utan belägg.
+- **Storsjö kapell/Cladonia/Alex Karp:** PR #4 och #32 Draft. Rapporten om cirka 15 000 hektar är ännu inte fastställd genom lagfart/fastighetsregister. Fortsätt med fastighetsgränser, Fornsök, gravar, bronsålderslämningar, depåfynd, samfälligheter och lokala rättigheter. Håll strikt åtskilt från Storsjön vid Östersund/Frösön.
+- **Skaga kapell:** PR #69 och #75 Draft. Åtta delar i fastställd ordning: ursprung; Johannes Döparens huvud; björnfällarna; silverlöjan; jätten Skagas dotter/Ramunder; offerplatsen; rivningen; återuppbyggnad/brand/återinvigning. Researchpaket är inte åtta färdiga manus.
+- **Böckernas väg till Athos:** PR #26 och #76 Draft; dokumentdigitalisering och proveniens. Skilj administrativa osmanska handlingar från liturgiska böcker och handskrifter.
+- **Från skrift till storebror:** PR #21, #41, #45 och #54 Draft; delcase om ansiktsigenkänning, myndighetsprofilering, arbetsplatsövervakning och eu-LISA. Sammanhängande huvudartikel återstår.
+- **Frölunda:** PR #74 Draft; håll Västra och Östra Frölunda och deras ortnamnsbelägg åtskilda.
+- **Cypern:** PR #72 och #81 Draft; kulturhistorisk research, Palaipafos, Geroskipou, Asklepieion och Commandaria.
+- **Varna/Svarta havet:** PR #80 Draft; undervattenskulturarv, Karon Limen och regional historia.
+
+### Återkommande hyllning
+
+Varje utgåva ska innehålla Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski (Васил Левски; 1837–1873). Levski-notisen ska grundas på National Museum Vasil Levski – Documentary Heritage och Bulgariens nationalbibliotek – Levski's Notebook:
+- https://vlevskimuseum-bg.org/en/documentary-heritage/
+- https://www.nationallibrary.bg/levski/
+
+Använd inte citat utan kontroll mot original eller kontrollerad transkription.
+
+### Redaktionell portföljregel
+
+FOLKTRIBUNALEN ska fortsätta som flerområdesredaktion, inte som en breaking-news-feed. Håll en formell huvudartikel åt gången. Sidospår får utvecklas som evidensnoter men ska inte tränga undan huvudordningen. När artikel 2:s publiceringskedja är blockerad ska arbetet fortsätta med faktakontroll och utkast; artikel 3 får inte aktiveras och ingen parallell statisk publiceringsväg får användas.
+
+---
+
+# FOLKTRIBUNALEN – Redaktionell masterplan och status
+
 **Version:** 24 november 2026, 08:05 EET – daglig desk, Frölunda-källkedja, Svartahavets spannmålstrafik och uppdaterad PR-/driftkontroll  
 **Arbetsregel:** En huvudartikel åt gången: research → komplett utkast → faktakontroll → redigering → godkännandekö → separat artikelgodkännande → publicering via redaktionens anslutna adminväg → faktisk HTTP-kontroll av publik route. Nästa huvudartikel får inte starta före kontroll av rätt rubrik, ingress och fulltext på den aktuella publika routen.
 
