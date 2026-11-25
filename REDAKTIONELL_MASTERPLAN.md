@@ -677,3 +677,31 @@ Efter den kompletterande El País-kontrollen uppdaterades även dossierfilen. PR
 - PR #79:s researchgren research/2026-11-22-news-watch är 17 commits före main, 0 bakom och innehåller 10 evidensnoter; fyra nya noter daterade 24 november har lagts till. PR #79 förblir research/Draft och är inte en publiceringsartikel.
 - PR #71 är fortsatt enda aktiva huvudartikel. Chefredaktören har godkänt exakt d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a; nuvarande PR-head 1a5b802932e3a50d755519045ed0ec970a8308fc ligger fyra commits senare och omfattas inte av godkännandet. Publicering är blockerad av tom Postgres-IP-allowlist, DNS-fel till båda Render-domänerna och avsaknad av DB-koppling i statisk frontend. PR #38 förblir parkerad.
 - Ingen merge, deploy, databasändring, frontendändring eller LIVE-publicering har genomförts.
+
+## Daglig kontroll – 25 november 2026, 03:15 EET
+
+### Aktiv huvudartikel och versionsbundet beslut
+- **PR #71 – Europas AI-infrastruktur:** Open/Draft, aktuell head `1a5b802932e3a50d755519045ed0ec970a8308fc`, bas `main` på `04e00e97b35bb984d783bab652011a3d7441a0cd`, 53 commits och två ändrade filer enligt GitHub PR-metadata.
+- GitHub PR-kommentarerna innehåller ett dokumenterat chefredaktörsbeslut den 24 november för exakt äldre commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a`. Den nuvarande headen är senare och omfattas inte. PR #71 förblir Draft. Aktuell review-kontroll: 0 review submissions och 0 inline review threads. Den senare PR-kommentaren dokumenterar versionsgränsen och är inte ett nytt godkännande av head `1a5b802...`.
+- **PR #73 – masterplan/hyllningsmodul:** Open/Draft, head `6cffb091ba4d406a9d968c11eeef45d5b9afc560`. Denna statusuppdatering görs endast på PR #73:s dokumentationsgren; main ändras inte.
+- PR #38 – Synkronicitetsprotokollet – ligger fortsatt parkerad tills huvudspår 2 har en giltig versionsgodkänd publiceringsväg och faktisk LIVE-kontroll.
+
+### Render – ny läsning i My Workspace
+- Workspace: My Workspace, `tea-dbjt81flk1mc73a82rg0`.
+- Statisk tjänst `folktribunalen` (`srv-dblpumgm7kps73bv55e0`): ej suspenderad, auto-deploy från `main`. Senaste listade deployment är fortsatt `dep-dbt4qddg1s2s738p7bmg`, status `live`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
+- Redaktionell backend `folktribunalen-editorial` (`srv-dblq2r0n74is73cchqh0`): ej suspenderad, auto-deploy från `main`. Senaste listade deployment är fortsatt `dep-dblq3nafngtc73c0l87g`, status `live`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
+- Render-listningen bekräftar tjänsternas nuvarande metadata och historiska senaste live-deployer; den bevisar inte att deras HTTP-endpoints svarar.
+- Postgres: tidigare läst metadata i PR #71 anger `available`, `ipAllowList=[]` och expiry 4 december 2026 21:18:55 UTC. Ingen ny SQL-fråga kördes i denna kontroll; tidigare `SELECT 1` nekades av den tomma allowlisten. Ingen databasändring.
+- Publik route `https://folktribunalen.onrender.com/` och backend `https://folktribunalen-editorial.onrender.com/api/health` kunde inte hämtas via webbläsarkontrollen (URL not accessible). Ingen HTTP-status, rubrik, ingress eller fulltext har erhållits. Route är inte LIVE-kontrollerad.
+
+### Sidospår – Storsjö/Cladonia, utan ny huvudartikel
+- PR #4 är Open/Draft. PR #32 är ett separat utkastspår; ingen av dem aktiveras som huvudartikel.
+- SVT-sidan ”Debatt och upprop efter Palantir-vd:ns köp i Härjedalen” hämtades i fulltext. Sidans publiceringsdatum är **9 november 2026**, trots att sökindexets kortutdrag gav intryck av en nyare publicering. Den ska därför inte registreras som en nyhet från 25 november.
+- Fulltexten återger ett upprop med över 30 000 underskrifter, kommunalrådets uppgift att ett möte med Cladonia skjutits upp, samt ett mejlsvar från bolaget om allemansrätt, samebyarnas renbete, servitut/ledningsrätter, jaktupplåtelser, skogsbruksplan, ingen planerad vinteravverkning och upprustning av befintliga stugor/vägar. Alla bolagsuttalanden är partsuppgifter återgivna av SVT, inte kontrollerade avtalsvillkor eller myndighetsbeslut.
+- Källan tillför ingen daterad ny utveckling jämfört med redan dokumenterade SVT-uppgifter. Den kan användas som primär publiceringskälla för vad SVT rapporterade den 9 november, men inte som ny evidens om vad som hänt den 25 november.
+- Källa: https://www.svt.se/nyheter/lokalt/jamtland/debatt-och-upprop-efter-palantir-vdns-kop-i-harjedalen
+
+### Arbetsbeslut
+- PR #71 förblir enda aktiva huvudartikel och Draft. Inget godkännande av nuvarande head har dokumenterats.
+- Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har gjorts.
+- Nästa sidospår i rotationslistan kvarstår Storsjö/Cladonia; nästa huvudartikel kvarstår PR #38 efter avslutad huvudspår-2-cykel.
