@@ -224,6 +224,16 @@ Sofia visar därför både vad som händer när EU-finansiering och nationell me
 
 ---
 
+### Tjeckien: Prague Gateway – 50 MW säkrad nätkraft, men första modulen väntas 2028
+
+Corilis Digital Infrastructure redovisade i sin delårsrapport till den 30 september, publicerad den 24 november 2026, att byggandet av CRA:s Prague Gateway inleddes i september. Rapporten anger 50 MW säkrad nätkraft genom två separata nätanslutningar. Om båda används som primärförsörjning kan anläggningen nyttja hela den effekten, men om den ena anslutningen hålls som reserv uppger bolaget att 22 MW kan drivas med full 2N-redundans, motsvarande 17,3 MW redundant IT-kapacitet över tre moduler. Dessa tal beskriver olika konfigurationer och får inte adderas.
+
+Bolaget anger att fas 1 kan kosta upp till 2,1 miljarder tjeckiska koruna. Beloppet omfattar stomme och skal för samtliga tre moduler samt färdigställandet av den första fullt redundanta modulen på 4 MW. De senare modulernas utrustning är ännu inte fullt beställd; rapporten uppskattar ytterligare minst 1,8 miljarder koruna för modul 2 och 3, beroende på slutlig omfattning och konfiguration. Den första modulen väntas enligt bolaget kunna tas i drift tidigast omkring mitten av 2028.
+
+Corilis uppger att avsiktsförklaringar från potentiella ankarkunder överstiger 45 MW. Bland de namngivna intressenterna finns offentlig sektor, Bull, Cloudflare, Era4 och Polarise. Detta är avsiktsförklaringar och efterfrågeindikationer, inte bindande elförbrukningsavtal eller bevis på att 45 MW är uthyrt. Rapporten anger separat att CRA hade GPU-as-a-Service-kontrakt med sju kunder vid periodens slut, med cirka 200 miljoner koruna i kontrakterad årlig intäkt; den uppgiften avser CRA:s GPUaaS-verksamhet och ska inte automatiskt hänföras till Prague Gateway.
+
+CRA:s projekt har identifierats som centrum för den tjeckiska kandidaturen i EuroHPC-processen, men delårsrapporten bekräftar inte att ett formellt anbud har lämnats in eller att ett gigafabriksuppdrag har tilldelats. Prague Gateway är alltså ett konkret byggprojekt med uppgiven nätkapacitet och pågående byggnation – inte ännu en driftsatt AI-gigafabrik.
+
 ### OVHcloud: befintlig kapacitet blir europeiska AI-tjänster
 
 Den 19 november presenterade OVHcloud 55 nya moln- och AI-produkter. Bolaget uppger att det lägger till NVIDIA RTX 6000 Pro, Blackwell B300 och Rubin R200 i sina Bare Metal- och Public Cloud-erbjudanden. Enligt bolagets pressmeddelande kan den befintliga datacenterkapaciteten hantera upp till 60 000 B300-GPU:er eller 35 000 R200-GPU:er. Reuters återger bolagets uppgift om cirka 110 MW ledig kapacitet.
@@ -620,6 +630,9 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 53. **Terna – Econnextion**, officiell beskrivning av den månatligt uppdaterade anslutningsdashboarden och dess databegränsningar. Uppgifterna bygger på information som sökande lämnar; Terna garanterar inte fullständighet eller riktighet:  
     https://dati.terna.it/connessioni/econnextion
 
+
+54. **Corilis Digital Infrastructure – Interim Report to 30 September 2026**, publicerad 24 november 2026. Emittentens delårsrapport för CRA/Prague Gateway: 50 MW säkrad nätkraft, redundanskonfigurationer, investeringsram, byggtidplan och avsiktsförklaringar. Uppgifterna är bolagets rapportering och inte oberoende verifierade driftsdata:  
+    https://www.lse.co.uk/rns/CORD/interim-report-to-30-september-2026-n2ichdjf7nq7fd7.html
 
 ## Oberoende rapportering och kompletterande källor
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
