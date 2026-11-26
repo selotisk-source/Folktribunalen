@@ -841,3 +841,55 @@ Denna utgåva ska behålla de sex återkommande namnen: Johannes Gutenberg, Carl
 
 ### Nästa sidospår efter Storsjö
 PR-metadata visar att Libanonspåret senast uppdaterades 11 november (PR #39) och 13 november (PR #22), äldre än Skaga (17 nov), Böckernas väg till Athos (20 nov), Sofia/ODJURET (21 nov), Varna (22–24 nov), Cypern (23 nov) och Frölunda (24 nov). Därför är **Libanon** nästa sidospår enligt minst nyligen avancerad status. Använd de befintliga PR #22/#39-briefarna; skapa inte en ny vinkel innan deras dokumenterade scope har lästs. Finans PR #49 (12 nov) och strategiska råvaror PR #65 (13 nov) ligger därefter bland de äldre portföljspåren.
+
+
+## Daily Desk – 26 november 2026
+
+### Aktiv huvudartikel – PR #71
+- **Status:** Open / Draft. Endast huvudartikel i formell kö; PR #38 – Synkronicitetsprotokollet – fortsatt parkerad.
+- **Exakt aktuell head efter dagens uppdatering:** `e604b54471a563b019251a2ae6fe567b84e73364`. PR #71 har 42 commits och två ändrade filer. GitHub returnerade `mergeable=false` vid kontrollen; orsaken är inte fastställd och ska undersökas separat, utan att ändra bas, mergea eller cherry-picka.
+- **Godkännande:** PR #71:s GitHub-tidslinje innehåller ett dokumenterat chefredaktörsbeslut av äldre commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a`. Beslutet omfattar inte dagens uppdaterade head. Inga GitHub review submissions eller inline review threads finns; PR-kommentarerna är faktakontroll och versionsavgränsning, inte ett godkännande av aktuell head.
+- **Dagens artikeluppdatering:** nytt avsnitt om CRA:s Prague Gateway baserat på Corilis Digital Infrastructure delårsrapport till 30 september, publicerad 24 november. Artikeln har nu 54 primärkällor och fortsatt 27 oberoende/kompletterande rapporteringskällor. Bolagets uppgifter om 50 MW nätkraft, 22 MW 2N-redundans/17,3 MW redundant IT, 45 MW avsiktsförklaringar och första modul omkring mitten av 2028 märks som bolagsuppgifter. Ingen Gigafactory-tilldelning eller formell anbudsinlämning hävdas.
+- **Artikelgren:** `editorial/europe-ai-infrastructure-review-2026-11-17`. Artikel och dossier är uppdaterade och inlästa från GitHub efter skrivning.
+
+### Sidospår – Storsjö/Cladonia
+- PR #32 kontrollerades: Open/Draft, 20 commits, tre ändrade filer. Ingen ny evidensnot lades till i denna körning; 25 november-noteringen om SVT:s publiceringsdatum och partsuppgifterna ligger kvar.
+- Nästa sidospår enligt senaste dokumenterade rotation är Libanon (PR #22/#39), men detta är endast bevakningsordning. Ingen ny huvudartikel eller sidospårs-PR skapades i denna körning.
+
+### GitHub och PR-spärr
+- PR #71: Open/Draft; exakt head ovan.
+- PR #73: Open/Draft; masterplanen uppdateras endast på dess befintliga dokumentationsgren.
+- PR #32: Open/Draft.
+- PR #71:s kommentarhistorik kontrollerades. Det finns ett äldre versionsbundet godkännande för `d7a9d7e...`, men inte för aktuell head. Ingen PR-status ändrades. Ingen merge, cherry-pick, databasändring, frontendändring eller publicering.
+
+### Render – faktisk metadata- och deploymentkontroll 26 november
+Render-arbetsytan My Workspace (`tea-dbjt81flk1mc73a82rg0`) valdes och tjänster/deployer lästes:
+- **Statisk webbplats:** `folktribunalen`, service `srv-dblpumgm7kps73bv55e0`, branch `main`, auto-deploy vid commit, inte suspenderad. Senaste listade live-deploy `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, 16 november 2026 00:24:32 UTC.
+- **Redaktionell backend:** `folktribunalen-editorial`, service `srv-dblq2r0n74is73cchqh0`, branch `main`, auto-deploy vid commit, inte suspenderad. Senaste listade live-deploy `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, 4 november 2026 21:22:06 UTC.
+- **Postgres:** databastjänsten finns inte i den returnerade service-listan (Render listar här web/static services); senast dokumenterade databasmetadata från tidigare kontroll: status available, Free-plan, `ipAllowList=[]`, expiry `2026-12-04T21:18:55Z`. Ingen ny databasmetadata-/SQL-kontroll i denna körning. Tidigare hosted read-only `SELECT 1` nekades av tom allowlist.
+- Render-listan visar att båda tjänsterna auto-deploy från `main`. Dagens ändringar ligger endast på PR-grenar, inte på main; ingen deploy har utlösts av dagens GitHub-skrivningar.
+
+### Publik route – kontroll 26 november
+Webbläsarhämtning försöktes för:
+- `https://folktribunalen.onrender.com/`
+- `https://folktribunalen.onrender.com/#/artikel/europas-ai-infrastruktur`
+- `https://folktribunalen-editorial.onrender.com/api/health`
+
+Alla tre returnerade URL-not-accessible i webbläsarverktyget. Det ger ingen HTTP-status eller sidtext. Publik route är inte LIVE-kontrollerad; ingen rubrik, ingress eller fulltext kan därför bekräftas.
+
+### Publiceringsarkitektur och blockerare
+- Senaste dokumenterade kodgranskning visar att publika frontend hämtar artikelkort och brödtext från statiska arrayer i `src/app.js`, inte från redaktionella DB-API:t.
+- Admin-UI och backend binder inte en publicering till exakt godkänd GitHub-commit och admin-UI:t importerar inte PR-fulltexten. Ingen godkänd, testad publiceringskedja från PR #71 till publika sidan är etablerad.
+- Extern DB-anslutning har tidigare blockerats av tom IP-allowlist. Ingen allowlist har öppnats.
+- Fortsätt i utkast och dokumentera blockeraren; använd inte statisk frontendändring eller annan publiceringsväg som genväg.
+
+### Återkommande hyllning
+Varje utgåva behåller Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-källorna ska fortsatt länkas i varje utgåva:
+- https://vlevskimuseum-bg.org/en/documentary-heritage/
+- https://www.nationallibrary.bg/levski/
+Arkivbelagda uppgifter hålls åtskilda från hyllning och tolkning; inga citat utan originalkontroll.
+
+### Arbetsbeslut
+- PR #71 är fortsatt enda aktiva huvudartikel.
+- PR #38 får inte startas före separat godkännande, fungerande ansluten publiceringsväg och faktisk LIVE-kontroll av huvudspår 2.
+- Inga PR:er har konverterats från Draft. Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har utförts.
