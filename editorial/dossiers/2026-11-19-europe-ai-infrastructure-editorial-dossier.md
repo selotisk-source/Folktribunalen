@@ -1,6 +1,6 @@
 # Redaktionellt dossier – Europas AI-infrastruktur
 
-**Senast uppdaterat:** 23 november 2026 – EuroHPC:s aktuella utlysningssida, förlängda lotfrister och kontroll av äldre tender-PDF  
+**Senast uppdaterat:** 26 november 2026 – tillägg om Prague Gateway baserat på Corilis delårsrapport 24 november  
 **Aktiv huvudartikel:** Huvudspår 2 – *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*  
 **Artikeltyp:** Undersökande granskning  
 **PR:** [#71 – Draft](https://github.com/selotisk-source/Folktribunalen/pull/71)  
@@ -517,3 +517,23 @@ En ny direktläsning av `main/src/app.js` visar följande:
 2. Testa backendens `/api/health`, `/api/setup-status`, admininloggning och `/api/articles` från en nätverksmiljö som kan nå Render; bekräfta om backendens interna DB-anslutning fungerar.
 3. Före artikelpublicering måste en separat godkänd integrationslösning kunna binda exakt GitHub-commit till DB-version och publik frontend; nuvarande statiska front-end konsumerar inte DB-innehållet.
 4. Efter godkännande och genomförd ansluten publicering krävs HTTP-status och jämförelse av exakt rubrik, ingress och fulltext på den publika routen.
+
+
+### Ny faktakontroll – Tjeckien / Prague Gateway, 26 november 2026
+
+**Primärkälla:** Corilis Digital Infrastructure delårsrapport till 30 september 2026, publicerad 24 november 2026, via London Stock Exchange Regulatory News Service:
+https://www.lse.co.uk/rns/CORD/interim-report-to-30-september-2026-n2ichdjf7nq7fd7.html
+
+Rapporten anger följande bolagsuppgifter om CRA:s Prague Gateway:
+- Byggstart i september 2026.
+- 50 MW säkrad utility power via två separata nätanslutningar.
+- Med båda anslutningarna som primärförsörjning kan hela 50 MW användas; med den andra anslutningen som reserv anger bolaget 22 MW full 2N-redundans och 17,3 MW redundant IT-kapacitet över tre moduler. Konfigurationerna är alternativ, inte summerbara.
+- Fas 1 uppskattas till högst CZK 2,1 miljarder och omfattar skal/stomme för tre moduler samt färdigställande av den första fullt redundanta 4 MW-modulen.
+- Ytterligare utrustning för modulerna 2 och 3 uppskattas till minst CZK 1,8 miljarder, med slutlig omfattning och konfiguration ännu inte avtalad.
+- Första modulen väntas enligt bolaget kunna tas i drift tidigast omkring mitten av 2028.
+- Avsiktsförklaringar från potentiella ankarkunder överstiger 45 MW. Det är inte samma sak som bindande hyresavtal, faktisk förbrukning eller garanterad nätlast.
+- Sju GPUaaS-kunder och cirka CZK 200 miljoner kontrakterad annualiserad intäkt redovisas separat för CRA:s GPUaaS-verksamhet; uppgiften får inte utan belägg hänföras till Prague Gateway.
+
+**Klassificering:** primärkälla från emittentens delårsrapport; bolagsuppgifter, inte oberoende verifierade mätvärden. Rapporten bekräftar inte att ett EuroHPC-anbud har lämnats in eller att en gigafabrik har tilldelats. Artikeltexten har därför lagt in Prague Gateway som ett konkret byggprojekt och kandidatkontext, inte som driftsatt AI-gigafabrik.
+
+**Öppna frågor:** faktisk nätanslutningspunkt och villkor; bygglovs- och miljöstatus; slutligt kontrakterad kapacitet; om EuroHPC-anbudet verkligen lämnats in; slutligt finansierings- och modulbeslut; oberoende bekräftelse av byggframdrift och tidplan.
