@@ -893,3 +893,76 @@ Arkivbelagda uppgifter hålls åtskilda från hyllning och tolkning; inga citat 
 - PR #71 är fortsatt enda aktiva huvudartikel.
 - PR #38 får inte startas före separat godkännande, fungerande ansluten publiceringsväg och faktisk LIVE-kontroll av huvudspår 2.
 - Inga PR:er har konverterats från Draft. Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering har utförts.
+
+
+---
+
+## Daglig arbetskontroll – 26 november 2026, 08:18 EET
+
+### Versions- och publiceringsspärr – huvudspår 2
+
+- Artikel: *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
+- Senast dokumenterat versionsbundet chefredaktörsgodkännande: commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a`. Godkännandet gäller endast denna commit.
+- Senast dokumenterade PR-head i masterplanen: `1a5b802932e3a50d755519045ed0ec970a8308fc`, senare än godkänd commit. Den headen är inte godkänd.
+- GitHub-verktygets issuesökning gav ingen PR-lista i denna körning; därför kan aktuell PR-state/head inte nybekräftas via den sökningen. Senast verifierade repositorynotering 25 november var PR #71 Open/Draft, utan review submissions. Behandla detta som senast dokumenterad status, inte en ny kontroll.
+- Ingen merge, deploy, databasändring, frontendändring eller LIVE-publicering har gjorts. Ingen HTTP-status eller publik fulltext har erhållits.
+- Nästa huvudartikel PR #38 förblir parkerad tills den godkända versionen av artikel 2 har publicerats via redaktionens adminväg och publik route har kontrollerats.
+
+### Nyhetskontroll – 26 november
+
+**Hormuz och sjöfarten**
+- UKMTO Warning 220-26 är en verifierad, tidsfördröjd rapport om en tanker som träffades av okänd projektil i Hormuzsundet den 22 november kl. 20:32 UTC. Fartyget fortsatte sin färd; besättningen var redovisad; skador och miljöpåverkan var okända. UKMTO:s incidentlista gav 0 rapporter när sidan öppnades i denna kontroll, så PDF-varningen används som primär källa.
+- Reuters rapporterade 25 november att Irans revolutionsgardes flotta hävdade att två tankfartyg träffat minor, exploderat och brunnit. Det är en iransk partsuppgift. Ingen koppling till UKMTO 220-26 eller oberoende fartygsidentifiering är fastställd.
+- Källor: https://www.ukmto.org/-/media/ukmto/products/20261124-ukmto_warning_220-26.pdf ; https://www.reuters.com/world/iran-says-ships-hit-mines-hormuz-warns-vessels-coordinate-passage-2026-11-25/
+
+**Palantir – Form 4, korrigering av insiderbevakningen**
+- SEC:s Form 4 för Alex Karp, inlämnad 24 november med rapportperiod 23 november, visar att RSU-rättigheter vestades och att aktier konverterades och såldes automatiskt för att täcka skatteinnehållning enligt Rule 10b5-1-plan. Formuläret anger bland annat försäljningstransaktioner den 23 november; det ska inte beskrivas som ett fritt, diskretionärt marknadssälj utan att fotnoterna redovisas.
+- SEC:s Form 4 för Sankar Shyam, inlämnad 24 november, beskriver automatiska försäljningar för skatteinnehållning i samband med RSU-vesting och enligt Rule 10b5-1-plan.
+- SEC:s Form 4 för David Glazer, inlämnad 24 november, anger motsvarande automatisk försäljning för skatteinnehållning.
+- Viktig rättelse: äldre nyhetsnoter som summerade Form 144-förslag som om de vore genomförda försäljningar ska hållas åtskilda från Form 4-transaktioner. Form 144 är en avsikts-/förhandsnotis; Form 4 redovisar transaktioner. Även Form 4-fotnoter måste läsas innan transaktionens ekonomiska innebörd beskrivs.
+- Källor: https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/xslF345X06/wk-form4_1795568742.xml ; https://www.sec.gov/Archives/edgar/data/1321655/000182415926000021/xslF345X06/wk-form4_1795568778.xml ; https://www.sec.gov/Archives/edgar/data/1321655/000182394026000014/xslF345X06/wk-form4_1795568616.xml
+
+**USA:s kongress – BAAJA**
+- Senatens ändrade H.R. 2347 passerade senaten 62–33 den 19 november. Den 24 november skickades meddelandet om senatens åtgärd till representanthuset.
+- House Rules Committee har annonserat möte måndag 30 november kl. 16.00 ET om senatens amendment till H.R. 2347. Förslaget är inte lag. Beskriv det som senatens ändrade text på väg för behandling i representanthuset, inte som antagen lag.
+- Källor: https://www.civicgate.org/bill/hr-2347-119 ; https://rules.house.gov/media/announcement/meeting-announcement-november-30-2026 ; https://rules.house.gov/bill/119/hr-2347
+
+**Europeisk AI-infrastruktur**
+- Reuters rapporterade 25 november om kommissionens förslag till Quantum Act och ett riktat kapitalinstrument på 50 miljarder euro. Detta är ett förslag inom kvantteknik, inte en beviljad datacenterbudget eller ett beslut om AI-gigafabriker. Det kan användas som separat framtidstekniknot, inte blandas in i artikel 2:s datacenterkapacitetsmått.
+- Reuters 19 november uppgav att OVHcloud lanserat 55 europeiskt hostade moln-/AI-produkter och att bolaget anger 110 MW tillgänglig datacenterkapacitet. Det är bolagets uppgift om tillgänglig kapacitet, inte oberoende mätt IT-last.
+- Källor: https://www.reuters.com/world/china/europe-plans-50-billion-sovereign-tech-equity-fund-boost-quantum-technology-2026-11-25/ ; https://www.reuters.com/business/ovhcloud-launches-ai-cloud-products-hosted-europe-2026-11-19/
+
+**Gripen över Polen**
+- Senaste kontrollerade svenska primärkälla är Försvarsmaktens meddelande 20 november om en flera timmar lång luftförsvarsinsats med svenska Gripen, polska F-16 och nederländskt tankflyg. Ingen ny svensk primäruppgift om en ny separat insats identifierades i denna kontroll.
+- Källa: https://www.forsvarsmakten.se/kontakt/press-och-media/svenska-jas-gripen-i-luftforsvarsinsats-over/
+
+### Sidospårsleverans – Storsjö kapell i Härjedalen / Cladonia
+
+**Ny researchstatus, ej färdig artikel:**
+- Flera publicerade uppgifter har behandlat 15 000 hektar som en enda affär. En ny dokumentledtråd från en offentlig genomgång av länsstyrelsehandlingar pekar på två köpekontrakt undertecknade 4 augusti 2026: ett större förvärv om 14 504 hektar för 235 miljoner kronor och ett mindre om 302,9 hektar för 5 miljoner kronor. Sammanlagd areal enligt den redovisningen blir 14 806,9 hektar och sammanlagd köpeskilling 240 miljoner kronor.
+- Denna uppdelning och hänvisningarna till Länsstyrelsens diarienummer 5618-2026 och 5617-2026 samt lantmäteriförrättning Z26371 är ännu en dokumentledtråd, inte primärverifierad av redaktionen: originalbesluten, köpekontrakten, förrättningsakten och lagfartsuppgifterna måste hämtas in innan siffrorna skrivs som slutligt fastställda.
+- Fastighetsvärlden rapporterade 19 oktober att den större transaktionen avser Berg Storsjö 12:9 samt delar av ytterligare 14 fastigheter och att de två mindre fastigheterna är Berg Storsjö 18:3 och 18:5. Detta ger en oberoende journalistisk kontroll av fastighetsbeteckningarna, men inte ersättning för förrättningsakten.
+- Länsstyrelsens tillståndsdatum förekommer som 7 respektive 9 september i olika sekundära redogörelser. Datumkonflikten lämnas öppen tills de två besluten har hämtats.
+- ISP:s beslut om anmälan enligt lagen om granskning av utländska direktinvesteringar uppges ha fattats 27 augusti och lämnats utan åtgärd; Göteborgs universitet återger SVT:s rapportering. Beslutets fulltext ska hämtas och läsas innan artikelns säkerhetsanalys formuleras.
+- Lokal användning: kommunen uppgav efter möte med bolagsföreträdare 11 november att inga stora planer presenterades; kommundirektören uppgav att datacenter eller mineralutvinning inte presenterades. Detta är kommunföreträdares återgivning av mötet, inte bindande framtida användningsvillkor.
+- Jakträtt: sekundärrapportering anger att två jaktlag förlorat upplåtelser och att ett tredje påverkas senare. Avtal, uppsägningar, datum och berörda jaktområden måste kontrolleras mot upplåtelsehandlingar och berörda jaktlag.
+- Fornsök har inte ännu körts som en geografisk overlay mot en juridiskt säker fastighetsgeometri. Inga specifika gravar, bronsålderslämningar eller depåfynd får tillskrivas markområdet innan koordinater och registerposter har matchats.
+- Lantmäteriet framhåller att registerkartans gränser inte har rättsverkan och att förrättningsakten med förrättningskarta gäller vid konflikt. Det styr den fortsatta kartmetoden.
+- Platsavgränsning: Storsjö kapell i Härjedalen hålls strikt åtskilt från Storsjön vid Östersund/Frösön.
+
+**Källor och kontrollpunkter**
+- SVT Jämtland, 28 september, uppdaterad 12 oktober: https://www.svt.se/nyheter/lokalt/jamtland/techmiljardar-koper-skog-i-storsjo-kapell-i-bergs-kommun
+- Fastighetsvärlden, 19 oktober: https://www.fastighetsvarlden.se/notiser/palantirs-vd-kopt-ytterligare-i-harjedalen/
+- Skogsaktuellt, 28 september: https://www.skogsaktuellt.se/artikel/2240722/techmiljardr-kper-15-000-hektar-skog-i-hrjedalen.html
+- Bergs kommunmöte, återgivet 11 november: https://dagensbarometer.se/ekonomi/15-000-hektar-skog-i-harjedalen-karps-bolag-traffade-bergs-kommun
+- Lantmäteriet om fastighetsregistret och förrättningsakten: https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter//Fastighetsregistret
+- Riksantikvarieämbetets Fornsök: https://app.raa.se/
+- Göteborgs universitet om lagstiftning och ISP-prövningen, 2026: https://www.gu.se/nyheter/hur-mycket-av-sverige-kan-en-utlandsk-miljardar-kopa-det-har-sager-svensk-lag
+
+### Arbetsstatus och ordning
+
+- Huvudspår 2 är fortfarande enda aktiva huvudartikel. Endast commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a` har dokumenterat versionsbundet godkännande; senare versioner får inte föras vidare.
+- Publiceringsvägen är fortsatt blockerad enligt senast dokumenterade status: ingen bekräftad import av GitHub-text till redaktionell admin, Postgres extern åtkomst med tom allowlist och tidigare DNS-fel för publik route. Dessa hinder har inte nytestats i denna körning.
+- PR #38/Synkronicitetsprotokollet förblir nästa huvudartikel men får inte aktiveras före artikel 2:s faktiska LIVE-kontroll.
+- Dagens sidospår har fört Cladonia/Storsjö kapell framåt med en dokumentbaserad kontrollplan och identifierade datum-/arealkonflikter. Det är inte en komplett artikel och inte i godkännandekön.
+- Återkommande hyllning kvarstår: Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski (Васил Левски; 1837–1873). Levski-notisen ska fortsatt baseras på National Museum Vasil Levski och Bulgariens nationalbibliotek; inga okontrollerade citat.
