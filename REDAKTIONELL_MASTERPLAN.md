@@ -999,3 +999,16 @@ Arkivbelagda uppgifter hålls åtskilda från hyllning och tolkning; inga citat 
 - PR #38/Synkronicitetsprotokollet förblir nästa huvudartikel men får inte aktiveras före artikel 2:s faktiska LIVE-kontroll.
 - Dagens sidospår har fört Cladonia/Storsjö kapell framåt med en dokumentbaserad kontrollplan och identifierade datum-/arealkonflikter. Det är inte en komplett artikel och inte i godkännandekön.
 - Återkommande hyllning kvarstår: Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski (Васил Левски; 1837–1873). Levski-notisen ska fortsatt baseras på National Museum Vasil Levski och Bulgariens nationalbibliotek; inga okontrollerade citat.
+
+
+## Daglig redaktionskontroll – 27 november 2026, EuroHPC-korrigering
+
+**Viktig rättelse i huvudspår 2:** EuroHPC JU:s officiella upphandlingssida har en ny uppdatering daterad **25 november 2026**. Lot 2 (storskaliga AI-gigafabriker) har förlängts från 3 december till **30 december 2026 kl. 17.00 Europe/Luxembourg**. Lot 1 kvarstår till **4 februari 2027 kl. 17.00**. Sista dag för frågor om Lot 2 är **9 december 2026**. Status visas som Open. Primärkälla: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+Tidigare uppgifter i denna masterplan och äldre daterade dossiernoter om Lot 2 den 3 december är historiska och supersederade. De får inte återanvändas som aktuell frist. Artikelutkastet och dossiern i PR #71 har korrigerats; den ändringen skapar en ny version och kräver nytt separat chefredaktörsgodkännande. PR #71 förblir Draft. Ingen merge, deploy, DB-ändring, frontendändring eller publicering.
+
+**Versionsläge:** PR #71 hade head `7c4c9efc43cd75fb2911c28f5b05a2846d25ec14` före denna korrigering. PR #73 hade head `bc70b65574d8c31818fe28b02f46d1b715a3be4e`. Nya commit-SHA:n ska hämtas efter filuppdatering och redovisas som nya Draft-versioner.
+
+**Övrig portföljkontroll:** PR #71, #73, #77 och #69 rapporteras Open/Draft. Review submissions kontrollerade för #71, #73 och #77: inga. PR #38 förblir parkerad eftersom artikel 2 saknar godkännande för aktuell version och LIVE-kontroll. Sofia-spåret (#77) har ett researchpaket med nio evidensnoter; det är sidospårsresearch, inte en andra aktiv huvudartikel.
+
+**Publiceringsspärr:** PR #71:s tidigare godkännande omfattade endast commit `e604b54471a563b019251a2ae6fe567b84e73364`. Det gäller inte tidigare head `7c4c9efc43cd75fb2911c28f5b05a2846d25ec14` och inte heller den korrigerade version som nu skapas. Endast uttryckligt godkännande av exakt ny commit kan föra den vidare. PR förblir Draft.
