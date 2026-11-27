@@ -1,3 +1,36 @@
+## Senaste arbetskontroll – 27 november 2026, 02:44 EET
+
+### Aktiv huvudartikel – Europas AI-infrastruktur
+- **PR #71:** Open/Draft, 44 commits, två ändrade filer vid kontroll. Aktiv gren: `editorial/europe-ai-infrastructure-review-2026-11-17`.
+- **Aktuell head efter dagens redaktionella uppdatering:** `7c4c9efc43cd75fb2911c28f5b05a2846d25ec14`. Denna version innehåller dagens precisering av EuroHPC:s återinlämningskrav i artikeltexten och en daterad kontrollnotering i dossieret.
+- **Versionsbeslut:** chefredaktörens tidigare uttryckliga publiceringsbesked för commit `e604b54471a563b019251a2ae6fe567b84e73364` omfattade endast den versionen. Dagens två redaktionella filuppdateringar skapade en ny head; den nya versionen saknar separat godkännande och ska förbli Draft. Äldre godkännanden för `d7a9d7e...` och `e604b544...` får inte överföras till senare commit.
+- **Dagens sakuppdatering:** EuroHPC:s officiella upphandlingssida kontrollerades 27 november. Status visas fortfarande som Open. Lot 2-fristen är 3 december 2026 kl. 17.00 och Lot 1-fristen 4 februari 2027 kl. 17.00 (Europe/Luxembourg). EuroHPC anger att samtliga gamla utkast/inlämnade anbud inte beaktas av tekniska skäl och att nya länkar för båda lotten nu finns; anbud måste återskapas och lämnas in på nytt. Artikelns kontroll-datum uppdaterades till 27 november. Källa: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **Prague Gateway:** Corilis delårsrapport 24 november är fortsatt primärkälla. Bolagsuppgifter om 50 MW nätkraft, 22 MW 2N, 17,3 MW redundant IT, över 45 MW avsiktsförklaringar och första modul omkring mitten av 2028 är tydligt attribuerade; inget likställs med driftsatt kapacitet eller EuroHPC-tilldelning.
+- **Nästa huvudartikel:** PR #38, Synkronicitetsprotokollet, fortsatt parkerad tills PR #71 har passerat godkänd ansluten publicering och faktisk LIVE-kontroll.
+
+### GitHub och PR-spärr
+- PR #71 är Open/Draft; ingen merge, cherry-pick eller statusändring.
+- PR #73 är dokumentationsgrenen och ska förbli Open/Draft.
+- Dagens ändringar är begränsade till artikelutkastet och dess redaktionella dossier i PR #71 samt denna masterplan i PR #73. Ingen artikelkod eller frontend har ändrats.
+
+### Render – faktisk metadata/deploymentkontroll 27 november
+- Workspace: My Workspace, `tea-dbjt81flk1mc73a82rg0`.
+- Statisk tjänst `folktribunalen` (`srv-dblpumgm7kps73bv55e0`): inte suspenderad, auto-deploy från `main`. Senaste deployment är fortfarande **LIVE** `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
+- Redaktionell backend `folktribunalen-editorial` (`srv-dblq2r0n74is73cchqh0`): inte suspenderad, auto-deploy från `main`. Senaste deployment är fortfarande **LIVE** `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
+- Deploymentstatus LIVE är metadata från Render och bevisar inte att publik route eller artikelinnehåll fungerar.
+
+### Publik route och databas
+- Direktöppning 27 november av `https://folktribunalen.onrender.com/`, `https://folktribunalen.onrender.com/#/artikel/europas-ai-infrastruktur` och `https://folktribunalen-editorial.onrender.com/api/health` gav URL-not-accessible. Ingen HTTP-status, rubrik, ingress eller fulltext kunde hämtas. Artikel 2 är inte LIVE-kontrollerad.
+- Senast kända Postgresstatus är `available`, Free-plan, `ipAllowList=[]`, med utgång 4 december 2026 21:18:55 UTC. Ingen DB-anslutning eller ändring utfördes i dagens kontroll.
+- Publiceringskedjan är fortsatt blockerad: statisk frontend läser artikeldata från arrayer i `src/app.js`, inte från redaktionella databasen; admin-UI:t importerar inte PR-fulltext och binder inte publicering till exakt GitHub-commit. Ingen alternativ publiceringsväg får användas.
+
+### Hyllningar i varje utgåva
+Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski ska fortsatt finnas med. Levski-underlaget ska länka till https://vlevskimuseum-bg.org/en/documentary-heritage/ och https://www.nationallibrary.bg/levski/. Arkivbelagda fakta ska skiljas från hyllning och tolkning; inga citat utan kontroll mot originaltext.
+
+**Arbetsbeslut:** PR #71 förblir enda aktiva huvudartikel och Draft. Den nya headen kräver separat versionsbundet godkännande innan någon publiceringsåtgärd. Eftersom admin-/integrationsvägen och routekontrollen fortfarande är blockerade görs ingen merge, deploy, databasändring, frontendändring eller publicering. PR #38 förblir parkerad.
+
+---
+
 # FOLKTRIBUNALEN – Redaktionell masterplan och status
 
 **Version:** 25 november 2026, 08:04 EET – daglig kontroll av artikelgodkännande, PR-spärr, nyhetsläge och publiceringshinder  
