@@ -1012,3 +1012,6 @@ Tidigare uppgifter i denna masterplan och äldre daterade dossiernoter om Lot 2 
 **Övrig portföljkontroll:** PR #71, #73, #77 och #69 rapporteras Open/Draft. Review submissions kontrollerade för #71, #73 och #77: inga. PR #38 förblir parkerad eftersom artikel 2 saknar godkännande för aktuell version och LIVE-kontroll. Sofia-spåret (#77) har ett researchpaket med nio evidensnoter; det är sidospårsresearch, inte en andra aktiv huvudartikel.
 
 **Publiceringsspärr:** PR #71:s tidigare godkännande omfattade endast commit `e604b54471a563b019251a2ae6fe567b84e73364`. Det gäller inte tidigare head `7c4c9efc43cd75fb2911c28f5b05a2846d25ec14` och inte heller den korrigerade version som nu skapas. Endast uttryckligt godkännande av exakt ny commit kan föra den vidare. PR förblir Draft.
+
+
+**Slutlig head-kontroll 27 november 2026, 08:45 EET:** efter en ytterligare precisering av artikelns EuroHPC-stycke är PR #71:s aktuella Draft-head `e61491b9241997cdb28da757d37401f766b90096` (47 commits, två filer). Denna head ersätter tidigare noterade `71fc990a51a7a218919db00c75817787a89d73b1`. PR #73:s masterplan-head efter dagens dokumentationsuppdatering är `590839f426a83c90739c2813ed98bd2a9c816977`. Båda PR:erna är Open/Draft. Ingen review submission finns för #71. Det tidigare chefredaktörsgodkännandet gäller inte den nya headen.
