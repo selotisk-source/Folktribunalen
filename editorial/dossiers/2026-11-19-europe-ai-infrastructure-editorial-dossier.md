@@ -556,3 +556,14 @@ https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafa
 **Redaktionell konsekvens:** artikelns direkta kontroll-datum har flyttats från 23 till 27 november och formuleringen har preciserats så att den uttryckligen anger att de nya länkarna nu finns. Detta bekräftar upphandlingsstatus och tidsfrister, inte att något konsortium har lämnat ett giltigt nytt anbud, blivit utvalt eller fått finansiering.
 
 **Status:** endast artikelutkast och dossier uppdaterade i PR #71:s Draft-gren. Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering.
+
+
+## Korrigering – EuroHPC Lot 2-fristen, 27 november 2026
+
+**Primärkälla:** EuroHPC JU:s officiella utlysningssida, med uttrycklig uppdateringsnotis daterad 25 november 2026: https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+Den tidigare uppgiften i artikelutkastet om Lot 2-frist den 3 december 2026 är supersederad och ska inte publiceras. EuroHPC har den 25 november förlängt Lot 2 till **30 december 2026 kl. 17.00 Europe/Luxembourg**. Lot 1 är oförändrad: **4 februari 2027 kl. 17.00 Europe/Luxembourg**. Fristen för frågor om Lot 2 är **9 december 2026**. Upphandlingen visas fortfarande som Open.
+
+Detta är en senare ändring än den 5 november-notis som låg till grund för tidigare artikeltext. Den nya fristen gäller därför före äldre sammanfattningar och sekundärkällor som fortfarande anger 3 december. Förlängningen bekräftar inte att något konsortium lämnat anbud, blivit utvalt eller fått finansiering.
+
+**Redaktionell åtgärd:** huvudtextens Lot 2-datum har korrigerats från 3 till 30 december 2026. Äldre daterade noteringar i dossiern ska läsas som historiska och supersederade där de anger 3 december. Ingen artikelpublicering eller LIVE-status följer av denna korrigering.
