@@ -537,3 +537,22 @@ Rapporten anger följande bolagsuppgifter om CRA:s Prague Gateway:
 **Klassificering:** primärkälla från emittentens delårsrapport; bolagsuppgifter, inte oberoende verifierade mätvärden. Rapporten bekräftar inte att ett EuroHPC-anbud har lämnats in eller att en gigafabrik har tilldelats. Artikeltexten har därför lagt in Prague Gateway som ett konkret byggprojekt och kandidatkontext, inte som driftsatt AI-gigafabrik.
 
 **Öppna frågor:** faktisk nätanslutningspunkt och villkor; bygglovs- och miljöstatus; slutligt kontrakterad kapacitet; om EuroHPC-anbudet verkligen lämnats in; slutligt finansierings- och modulbeslut; oberoende bekräftelse av byggframdrift och tidplan.
+
+
+## Kontrollnotering – EuroHPC-upphandlingen, 27 november 2026
+
+**Primärkälla:** EuroHPC JU:s officiella upphandlingssida, direktkontrollerad 27 november 2026:
+https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+- Upphandlingsstatus visas fortfarande som **Open**.
+- Meddelandet uppdaterat 5 november anger Lot 2 (storskaliga gigafabriker) med sista anbudsdag **3 december 2026 kl. 17.00, Europe/Luxembourg**.
+- Lot 1 (medelstora gigafabriker) har sista anbudsdag **4 februari 2027 kl. 17.00, Europe/Luxembourg**.
+- EuroHPC säger uttryckligen att alla utkast och inlämnade anbud i det tidigare systemet, oavsett lot, inte kommer att beaktas av tekniska skäl. Myndigheten bekräftar nu på samma sida att nya inlämningslänkar för båda lotten finns på Funding & Tenders Portal och att samtliga utkast/inlämnade anbud måste återskapas och skickas in på nytt.
+- EuroHPC uppger att endast inlämningslänkarna har ändrats och att innehållet i de publicerade upphandlingsdokumenten inte har ändrats.
+
+**Oberoende/kompletterande rapportering:** 2EU Brussels beskrev den 11 november att testkraven hade uppdaterats till MLPerf v5.1. Den tekniska versionshistoriken på själva portalen har inte hämtats i denna kontroll; uppgiften ska fortsatt tillskrivas 2EU och inte framställas som självständigt bekräftad av dagens upphandlingssida:
+https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafactories-and-requires-resubmission-for-both-lots
+
+**Redaktionell konsekvens:** artikelns direkta kontroll-datum har flyttats från 23 till 27 november och formuleringen har preciserats så att den uttryckligen anger att de nya länkarna nu finns. Detta bekräftar upphandlingsstatus och tidsfrister, inte att något konsortium har lämnat ett giltigt nytt anbud, blivit utvalt eller fått finansiering.
+
+**Status:** endast artikelutkast och dossier uppdaterade i PR #71:s Draft-gren. Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering.
