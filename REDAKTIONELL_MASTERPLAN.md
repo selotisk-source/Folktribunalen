@@ -1046,3 +1046,9 @@ Tidigare uppgifter i denna masterplan och äldre daterade dossiernoter om Lot 2 
 - Återkommande hyllning i varje utgåva: Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-underlag: https://vlevskimuseum-bg.org/en/documentary-heritage/ och https://www.nationallibrary.bg/levski/. Arkivuppgifter skiljs från hyllning/tolkning; inga citat utan originalkontroll.
 
 **Status:** Artikel 2 är fortsatt enda aktiva huvudartikel och komplett utkast i Draft. Faktauppdatering 28 november införd. Godkännande av aktuell commit saknas. Publicering och LIVE-kontroll ej utförda.
+
+
+### Redaktionell korrigering – källklassificering, 28 november 2026
+- I PR #71 flyttades Greenpeace Belgiums pressmeddelande till primär-/partsuppgiftsdelen; det ligger inte längre under oberoende rapportering. Greenpeace är part i ärendet och används inte som oberoende bevis för tillståndsöverträdelse.
+- PR #71:s nya aktuella head efter denna korrigering är `4a49d4d1ab8e740aeaa76e7fb0d08dd07c43eec8`. Ingen versionsbunden chefredaktörsbekräftelse finns för denna head.
+- PR #71 och PR #73 förblir Open/Draft. Inga review submissions/threads på PR #71. Ingen merge, deploy, DB-ändring, frontendändring eller publicering.
