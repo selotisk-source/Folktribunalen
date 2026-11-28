@@ -333,6 +333,18 @@ Samma dag som dekretet publicerades godkände regeringen också en bindande eln�
 Spain DC har aviserat att organisationen tänker angripa dekretet i domstol och begära interimistisk suspension. Organisationen uppger att reglerna riskerar 66,9 miljarder euro i potentiella investeringar till 2030 och att datacenter står för 0,8 procent av Spaniens elanvändning. Det är branschens egna uppskattningar och argument, inte oberoende reviderade mått. Reuters rapporterar att oppositionspartiet PP lovat att riva upp reglerna om partiet vinner valet den 29 november och att två utvecklare överväger Frankrike eller Portugal för projekt som kan bli olönsamma under de nya energikraven. AWS och Microsoft uppgav däremot att deras regionala planer låg fast. Det är politiska, bransch- och bolagspositioner; de visar inte att investeringar redan har flyttats eller att en domstol har upphävt förordningen.
 
 Spanien blir därmed ett konkret test av den europeiska avvägningen mellan snabb kapacitetsutbyggnad, förnybar el, vattenanvändning, nätkostnader och kontroll över kritiska offentliga data. Den avgörande prövningen börjar nu i handläggningen av nya och äldre ansökningar, i kontrollen av faktiska timvärden och i hur övergångsreglerna tillämpas på projekt som redan har tillstånd men ännu inte är anslutna.
+### Belgien: Google-projektet i Aiseau-Presles stoppas efter tillståndskonflikt
+
+Den 26 november 2026 beordrade regionala inspektörer i Vallonien att byggarbetet vid Googles datacenterprojekt i Aiseau-Presles skulle stoppas. Nyhetsbyrån Belga rapporterade att den regionala tjänstemannen Raphaël Stokys meddelade ett muntligt stopp efter en inspektion då omkring 300 arbetare fanns på plats. The Guardian rapporterade den 27 november att ordern därefter bekräftades skriftligen till Google och att regionala företrädare avsåg att överlämna ett ärende till åklagare med misstanke om olovligt byggande. Det är en myndighetsanknuten anklagelse och ett rapporterat tillsynssteg – inte en dom eller ett slutligt domstolsavgörande.
+
+Tvisten gäller skillnaden mellan det ursprungliga bygglovet och en senare ändring. Enligt Belga omfattade 2024 års tillstånd tre byggnader. Googlebolaget Crystal Computing sökte därefter ändra upplägget så att två byggnader slogs samman till en större anläggning. Ändringen innebar även att kylningen skulle använda vatten från floden Sambre. The Guardian rapporterade att den reviderade lösningen skulle kunna ta upp till 600 kubikmeter vatten per timme. Valloniens infrastrukturminister återkallade den ändrade tillståndsgivningen i augusti 2026 efter invändningar och oro för vattenförsörjning under torka.
+
+Det ursprungliga tillståndet för tre luftkylda byggnader har enligt rapporteringen inte automatiskt upphört att gälla. Den rättsliga frågan är därför inte förenklat om Google saknar varje form av bygglov, utan om det som faktiskt byggts ryms inom det ursprungliga tillståndet eller omfattas av den återkallade ändringen. Google har överklagat ministerbeslutet; The Guardian uppger att Belgiens Conseil d’État väntas behandla frågan den 7 januari 2027. Google har enligt samma rapportering sagt att bolaget vill upprätthålla en öppen dialog med regionala myndigheter och experter.
+
+Greenpeace Belgien uppgav den 25 november att organisationen begärt ett skyndsamt stopp och hänvisade till satellitbilder och uppgifter från boende. Det är organisationens partsuppgift och kampanjunderlag, inte en oberoende teknisk granskning av hela byggplatsen. Den regionala inspektionen och stoppordern har däremot rapporterats av Belga och The Guardian. Någon fullständig myndighetsakt med inspektionsprotokoll, skriftlig order, bygglovsritningar och exakt avgränsning av de arbeten som stoppats har inte hämtats i denna kontroll.
+
+Fallet visar hur tillstånd, vatten och lokal kontroll kan bli avgörande för ett projekt även när investeringen redan är långt gången. Det visar inte att alla datacenterprojekt med vattenkylning är otillåtna, och det avgör inte heller om den ursprungliga bygglovsramen medger delar av den pågående byggnationen. Den bedömningen måste vila på tillståndshandlingarna och den kommande rättsliga prövningen.
+
 ## 9. Nscale: kontrakt är inte samma sak som levererad kapacitet
 
 Nscale visar hur ett europeiskt bolags datacenterplaner kan vara beroende av både nätanslutning och finansiering över flera jurisdiktioner. I en ändring av bolagets amerikanska börsregistrering, inlämnad till SEC den 12 november 2026, redovisar Nscale plc flera villkorade kundåtaganden och betydande kapitalbehov. Dokumentet är bolagets eget preliminära prospektunderlag, inte en oberoende revision och inte bevis för att en planerad anläggning är i drift.
@@ -603,7 +615,8 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 44. **EuroHPC JU / Europeiska kommissionen – Tender Specifications v2, ref. Ares(2026)9990852**, daterad 23 oktober 2026. Den officiella upphandlingsspecifikationen anger MLPerf Training v5.1 och Inference v5.1 i benchmarkramen. Detta dokument fastställer benchmarkversionerna men inte i sig den separata portaländring 10 november som rapporterats av 2EU:  
     https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/docs/bc712395-692d-41ab-aa25-8e254ae86eb2-CN/CfT%20AIGF%20-%20Tender%20Specifications%20v2_V1.pdf
 
-45. **EuroHPC Joint Undertaking – aktuell utlysningssida för AI Gigafactories**, uppdaterad 5 november 2026 och kontrollerad 27 november. Den anger status Open, Lot 2-frist 30 december 2026 kl. 17.00 och förlängd Lot 1-frist 4 februari 2027 kl. 17.00, samt att gamla utkast/inlämningar måste återskapas via nya länkar. Denna uppdaterade sida är den aktuella källan för tidsfristerna; Tender Specifications v2 visar den ursprungliga fristen 12 november:  
+45. **EuroHPC Joint Undertaking – aktuell utlysningssida för AI Gigafactories**, uppdaterad 25 november 2026 och kontrollerad 28 november. Den anger status Open, Lot 2-frist 30 december 2026 kl. 17.00 och Lot 1-frist 4 februari 2027 kl. 17.00, samt att gamla utkast/inlämningar måste återskapas via nya länkar. Sista dag för frågor om Lot 2 är 9 december. Denna uppdaterade sida är aktuell för tidsfristerna; Tender Specifications v2 visar den ursprungliga tidsplanen:
+  
     https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
 
 46. **Europeiska kommissionen – Commission advances cloud sovereignty through strategic procurement**, 17 april 2026. Tilldelning av upp till 180 miljoner euro över sex år, de fyra leverantörsgrupperna och Cloud Sovereignty Framework:  
@@ -718,3 +731,17 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 27. **Quotidiano Energia – Impianti Fer: a settembre 675 MW, richieste data center verso 110 GW**, 15 oktober 2026. Branschrapportering baserad på Terna/Econnextion och septemberuppgiften om närmare 109 GW:  
     https://www.quotidianoenergia.it/module/news/page/entry/id/537419
+
+
+55. **Greenpeace Belgium – La Région wallonne suspend la construction du data center de Google à la suite d’une enquête de Greenpeace**, 27 november 2026. Partskälla om organisationens brådskande begäran, satellitunderlag och dess återgivning av det rapporterade byggstoppet; används inte som oberoende bevis för tillståndsöverträdelse:  
+    https://www.greenpeace.org/belgium/fr/communique-de-presse/83017/la-region-wallonne-suspend-la-construction-du-data-center-de-google-a-la-suite-dune-enquete-de-greenpeace/
+
+
+28. **Belga, återgiven av Télésambre – Chantier Google : La Wallonie impose l'arrêt du chantier du data center à Aiseau-Presles**, 27 november 2026. Nyhetsbyrårapportering om den muntliga stoppordern den 26 november, regional tjänstemans uppgifter och tillståndens bakgrund:  
+    https://www.telesambre.be/index.php/info/chantier-google-la-wallonie-impose-larret-du-chantier-du-data-center-aiseau-presles/84288
+
+29. **The Guardian – Google told to halt Belgium datacentre construction over lack of planning permit**, 27 november 2026. Oberoende rapportering om den skriftliga ordern, omkring 300 arbetare, den rapporterade hänskjutningen till åklagare och den planerade prövningen i Conseil d’État; myndighetsanknutna anklagelser hålls åtskilda från rättsligt avgörande:  
+    https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits
+
+30. **AFP, återgiven av TV5MONDE – Belgique : Google contraint de suspendre un chantier de data center faute de permis**, 27 november 2026. Separat nyhetsbyrårapportering om det regionala stoppet och tillståndstvisten:  
+    https://information.tv5monde.com/economie/belgique-google-contraint-de-suspendre-un-chantier-de-data-center-faute-de-permis-2847243
