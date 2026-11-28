@@ -1058,3 +1058,9 @@ Tidigare uppgifter i denna masterplan och äldre daterade dossiernoter om Lot 2 
 - Efter dossierns källklassificeringsnotering är PR #71:s aktuella head `c493f86a04392440797bd8ec24c43cdf5ca3e65d` (51 commits, två ändrade filer). Senaste artikeltextcommit är `4a49d4d1ab8e740aeaa76e7fb0d08dd07c43eec8`; efterföljande commit uppdaterade dossiern.
 - PR #71 är Open/Draft, inga review submissions eller review threads. Det finns inget separat godkännande av denna head.
 - Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering.
+
+
+### Källförteckning – numrering korrigerad, 28 november 2026
+- De tre nya oberoende rapporterna om Aiseau-Presles är numrerade 31–33; tidigare poster 28–30 för Uniper/EBRD behålls. Greenpeace är fortsatt separat klassificerad som partsuppgift.
+- PR #71 efter artikel- och dossierkorrigering: head `00da6a75045ddf696740512f8bb4f3ee89a644ae` (53 commits, två ändrade filer). Senaste artikeltextcommit `e7f5d5c9a74f48c8b31e79ca8e42974754972cb2`.
+- PR #71 Open/Draft; inget nytt versionsbundet chefredaktörsgodkännande. Ingen merge eller publiceringsåtgärd.
