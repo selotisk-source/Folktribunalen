@@ -603,7 +603,12 @@ Detta är en senare ändring än den 5 november-notis som låg till grund för t
 
 ### Slutlig källklassificering – 28 november 2026
 - PR #71:s artikeltext har 12 huvudavsnitt, slutsats och faktaruta.
-- Källförteckningen innehåller 54 primära/operativa dokument- och myndighetskällor, därutöver en separat tydligt märkt partsuppgift från Greenpeace Belgium, samt 30 oberoende eller kompletterande rapporteringskällor. Greenpeace ligger i primär-/partsuppgiftsdelen och inte i listan över oberoende rapportering.
+- Källförteckningen innehåller 54 primära/operativa dokument- och myndighetskällor, därutöver en separat tydligt märkt partsuppgift från Greenpeace Belgium, samt 33 oberoende eller kompletterande rapporteringskällor. Greenpeace ligger i primär-/partsuppgiftsdelen och inte i listan över oberoende rapportering.
 - Senaste artikelcommit efter källklassificeringsrättelsen: `4a49d4d1ab8e740aeaa76e7fb0d08dd07c43eec8`.
 - PR #71:s aktuella head är `4a49d4d1ab8e740aeaa76e7fb0d08dd07c43eec8`; den versionen saknar separat chefredaktörsgodkännande.
 - Ingen merge, cherry-pick, deploy, DB-ändring, frontendändring eller publicering.
+
+
+### Källnumrering – slutlig rättelse, 28 november 2026
+- De tre nya oberoende/kompletterande rapporterna om Aiseau-Presles har numrerats 31–33 för att inte kollidera med befintliga poster 28–30 (Uniper/EBRD).
+- Oberoende/kompletterande rapporteringsposter: 33. Separat Greenpeace-post är partsuppgift och ligger i primär-/partsuppgiftsdelen.
