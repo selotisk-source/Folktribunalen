@@ -1,17 +1,12 @@
 # Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?
 
-**Artikeltyp:** Undersökande granskning · AI-infrastruktur · energi · offentlig finansiering · regional utveckling  
-**Faktaläge:** 13 november 2026  
-**Huvudspår:** 2 – Europas AI-datacenter  
-**Redaktionell status:** CHEFREDAKTÖRSGODKÄND 15 november 2026 (PR-kommentar 6898229000). PR #64 mergades 15 november 2026 kl. 22:57:44 UTC, merge-commit `45a9b8c2cc295b708afddcb739eb180318fd3052`. Statisk frontend-kod innehåller artikelkroppen, men kortet för `europas-ai-infrastruktur` är felmärkt som Meta/Ofcom i den senaste Render-deployen. Den publika artikelrouten har inte HTTP-testats. Redaktionell backend/databasåtkomst är blockerad av tom Postgres-IP-allowlist; artikeln ska därför inte markeras LIVE-verifierad.
-
 ## Ingress
 
 Europa vill bygga ut sin kapacitet för artificiell intelligens. Men bakom varje nytt datacenter finns en kedja av markköp, nätanslutningar, kraftproduktion, kylsystem, lån, offentliga garantier och tillstånd. Den kedjan är ofta mer avgörande än själva serverhallen.
 
 I Amsterdam möter ett Microsoft-leasat datacenter med 99 megawatt anslutning en äldre tillståndshistoria och nya frågor om lokal insyn. Norge har pausat nya reservationer av nätkapacitet för datacenter och vill införa en licensordning. I Finland har miljömyndigheten krävt att betydande förberedelsearbeten vid två planerade Google-anläggningar avbryts tills miljöbedömningarna är klara. I Skottland har en offentlig garanti på 202 miljoner pund hjälpt till att låsa upp ett finansieringspaket på omkring 300 miljoner pund – samtidigt som projektets egen webbplats nu beskriver anläggningarna som helt nätförsörjda.
 
-Samtidigt byggs Europas egna beräkningsmiljöer: BRAIN++ i Sofia, en planerad gigawattcampus i Skellefteå och ett fransk-tyskt samarbete mellan Bull och Schwarz Digits. Men ett politiskt mål, en finansieringsram, en nätreservation och en anläggning i drift är fyra olika saker.
+Samtidigt tar flera europeiska initiativ form: BRAIN++ i Sofia, en planerad gigawattcampus i Skellefteå, ett fransk-tyskt samarbete mellan Bull och Schwarz Digits och det nordisk-baltiska konsortiet AI Gigafactory Northern, som den 16 november meddelade att det avser att lämna anbud i EuroHPC:s gigafabriksupphandling. Men ett politiskt mål, en finansieringsram, en nätreservation och en anläggning i drift är fyra olika saker.
 
 Den centrala frågan är därför inte bara vem som bygger Europas AI-infrastruktur. Det är vem som får tillgång till elen, vem som tar investeringsrisken och vem som i slutänden betalar när planerna inte går ihop.
 
@@ -45,6 +40,22 @@ I debatten används ofta ordet kapacitet som om alla siffror betydde samma sak. 
 En anläggning som marknadsförs med en framtida kapacitet på en gigawatt använder inte automatiskt en gigawatt i dag. En anslutningsreservation är inte en produktionsanläggning. Och en kraftverksportfölj är inte en datacenterhall.
 
 Det är i dessa skillnader som den verkliga ekonomin bakom Europas AI-utbyggnad går att läsa.
+
+### EU:s elnätsöverenskommelse: snabbare tillstånd, ingen automatisk datacenterprioritet
+
+Den 18 november 2026 nådde rådet och Europaparlamentet en **preliminär överenskommelse** om att förenkla och förkorta tillståndsprocesser för förnybara energiprojekt, elnät, energilagring och laddinfrastruktur samt för tillstånd till ny el- och gasinfrastruktur. Medlemsstaterna ska kunna behandla utbyggnad av förnybar energi och elnät som ett överordnat allmänintresse, men får avstå från den principen när säkerhets-, försvars- eller kulturarvsintressen kräver det. De ska också kunna införa så kallat tyst godkännande för vissa mellanliggande administrativa steg och gemensamma digitala portaler för ansökningar.
+
+Överenskommelsen anger även principer för lokalt deltagande och fördelning av nyttor från **förnybara energiprojekt över 7 MW**. Den tröskeln gäller dessa energiprojekt – inte datacenter som sådana. Texten ger inte datacenter automatisk företrädesrätt i nätkön och garanterar inte att en viss anläggning får anslutning eller effekt.
+
+Detta är ännu inte gällande EU-rätt. Rådet och parlamentet måste först godkänna överenskommelsen formellt och anta rättsakten efter juridisk-språklig granskning. Därefter får medlemsstaterna 18 månader på sig att införliva direktivet i nationell lag. Reformen kan på sikt påskynda byggandet av den infrastruktur som datacenter behöver, men den ersätter inte nationella anslutningsbeslut, nätplanering eller prövning av enskilda projekt.
+
+### Italien: 108 GW i anslutningsförfrågningar – omkring 2 GW i byggklar fas
+
+Terna redovisade i sin resultatpresentation för de första nio månaderna 2026 cirka **108 GW i anslutningsförfrågningar från datacenter** med referens till september, samtidigt som omkring **2 GW** klassades som *ready to build*. Det är Terna-bolagets avrundade presentationssiffror. De beskriver en administrativ projektpipeline, inte el som redan används, installerad datacenterkapacitet eller 108 GW garanterad nätleverans.
+
+Terna beskriver Econnextion som en månadsuppdaterad dashboard byggd på uppgifter som sökande lämnar i anslutningsprocessen. Operatören anger att uppgifterna publiceras för statistiska och informativa ändamål och att de inte garanterar fullständighet eller riktighet. Det är därför viktigt att skilja en registrerad förfrågan från ett projekt med mark, tillstånd, finansiering, detaljerad nätlösning och byggstart.
+
+Reuters rapporterade redan den 14 oktober att Terna hanterade anslutningsförfrågningar för närmare 600 datacenterprojekt och mer än 100 GW, och återgav vd:ns bedömning att volymen vida översteg den kapacitet som projekten realistiskt kunde genomföras med. Quotidiano Energia återgav den 15 oktober Terna-data på närmare 109 GW. Tillsammans visar uppgifterna varför en stor kö inte kan läsas som en prognos över byggd kapacitet: den säger först och främst hur mycket effekt projektutvecklare har begärt att få prövad.
 
 ---
 
@@ -100,7 +111,11 @@ Regeringen anger fyra olika statusnivåer för anslutningskapacitet:
 | Projekt i anslutningskön | 9 100 MW |
 | Ytterligare anslutningsförfrågningar | 18 000 MW |
 
-Norges toppefterfrågan på el anges i samma besked till strax över 25 000 MW. Men de fyra siffrorna är skilda steg i projektkedjan. De får inte summeras och beskrivas som byggd, ansluten eller driftsatt datacenterkapacitet. En förfrågan är inte en reservation, och en reservation är inte faktisk förbrukning.
+Norges toppefterfrågan på el anges i samma besked till strax över 25 000 MW. Men de fyra siffrorna är skilda steg i projektkedjan. De får inte summeras och beskrivas som byggd, ansluten eller driftsatt datacenterkapacitet. En förfrågan är inte en reservation, och en reservation är inte faktisk förbrukning. E24 uppgav den 17 november att omkring 28 datacenter i drift tillsammans hade 868 MW kapacitet. Det är en separat branschsammanställning från regeringens 800 MW för redan ansluten datacenterlast. Källorna förklarar inte skillnaden eller om definitionerna sammanfaller; siffrorna ska därför inte behandlas som exakt samma mått.
+
+### Vilka projekt fortsätter trots pausen?
+
+E24 rapporterade den 17 november, med hänvisning till handlingar från Statnett, att åtta datacenterprojekt med önskad anslutning före 2028 får gå vidare med sammanlagt 623,8 MW. Projekten hade antingen lämnat in eller fått godkända tekniska planer före pausen. Bland dem finns Nscale Narvik med 115 MW av de 230 MW som ursprungligen söktes. Nscales Fauskeprojekt, där bolaget önskat 97 MW, beskrivs av E24 som mer osäkert. E24 uppger separat att 16 andra projekt med reserverad kapacitet ännu inte hade lämnat in tekniska ansökningar; artikeln identifierar inte uttryckligen om Fauske ingår i just den gruppen. Detta är E24:s dokumentbaserade rapportering, inte en ny generell tilldelning från Statnett. Siffrorna beskriver projekt som får fortsätta i processen – inte driftsatt effekt eller faktisk elförbrukning. Uppgifterna visar att pausen inte är ett totalstopp för projekt som redan passerat vissa tekniska steg.
 
 Regeringen säger också att den inte vill att alla typer av datacenter ska etableras i landet. Datacenter som bedriver kryptovalutarelaterad verksamhet ska inte betraktas som samhällsnyttiga i den föreslagna ordningen. Regeringen vill att nya stora elkonsumenter ska bidra mer till kostnaderna för nätutbyggnad och systemdrift.
 
@@ -110,7 +125,7 @@ I en separat rapportering till den norska tillsynsmyndigheten RME om elområde N
 
 Statnett gör en viktig åtskillnad: ett starkare överföringsnät kan flytta mer el till ett område, men det skapar inte i sig mer energi. Enligt bolagets analys är ökad lokal kraftproduktion den enda enskilda åtgärd som ensam kan ge tillräcklig försörjningsförmåga för alla mogna förbrukningsplaner i NO3.
 
-Den norska frågan handlar därmed inte bara om vem som får en plats i nätkön. Den handlar om vem som finansierar ny produktion, var den byggs och om den lokala energin ska användas till datacenter, annan industri eller samhällskritiska funktioner.
+Den norska frågan handlar därmed inte bara om vem som får en plats i nätkön. Den handlar också om vilka redan långt gångna projekt som får fortsätta, vilka som fastnar och vem som finansierar ny produktion, var den byggs och om den lokala energin ska användas till datacenter, annan industri eller samhällskritiska funktioner.
 
 Den 12 november publicerade Statnett också en skrivelse till den norska tillsynsmyndigheten RME om elområde NO3. Statnett bad myndigheten att stänga två avvikelsepunkter från ett tidigare tillsynsbeslut. Det är Statnetts begäran – inte ett beslut från RME om att avvikelserna är åtgärdade.
 
@@ -123,19 +138,27 @@ En rapport från Menon Economics, beställd av det norska digitaliseringsdeparte
 
 ## 4. Finland: miljöprövningen kommer före markarbetet
 
-I oktober 2026 ingrep Finlands tillstånds- och tillsynsmyndighet LVV mot Tuike Finland Oy, det bolag som ansvarar för planerade datacenterprojekt i Muhos och Kajaani-Otanmäki.
+I oktober 2026 ingrep Finlands tillstånds- och tillsynsmyndighet Lupa- ja valvontavirasto (LVV) mot Tuike Finland Oy, det bolag som ansvarar för planerade datacenterprojekt i Muhos och Kajaani-Otanmäki.
 
-Den 6 oktober bad myndigheten bolaget att avbryta miljömässigt betydande förberedelsearbeten vid de två projektområdena tills miljökonsekvensbedömningarna hade slutförts. Myndigheten nämnde bland annat trädfällning, borttagning av ytjord, arbetsvägar, upplagsytor, dränering och dagvattenåtgärder.
+Den 6 oktober uppmanade LVV bolaget att avbryta miljömässigt betydande förberedelsearbeten vid båda projektområdena tills miljökonsekvensbedömningarna hade slutförts. Uppmaningen omfattade bland annat trädfällning, borttagning av ytjord, grävning, sprängning, dränering, arbetsvägar och upplagsytor. Planering, mätningar och andra åtgärder med liten och lätt återställbar påverkan omfattades inte.
 
-Det var en uppmaning att avbryta vissa förberedande arbeten – inte ett beslut om att projekten som sådana hade ställts in. Planering, mätningar, markundersökningar och andra åtgärder med liten och lätt återställbar påverkan omfattades inte av uppmaningen.
+I sin uppföljning den 22 oktober uppgav LVV att Tuike den 14 oktober hade svarat att bolaget följde uppmaningen och hade stoppat förberedelsearbetena vid båda områdena. Det är bolagets redovisning till myndigheten; den ska skiljas från en oberoende platsinspektion.
 
-Myndigheten uppgav att omfattande förberedelsearbeten innan miljöbedömningen är färdig kan försvaga den förebyggande funktionen i miljöprövningen. Syftet med en miljökonsekvensbedömning är att betydande effekter ska identifieras och vägas in innan beslut och större förberedelseåtgärder låser projektets utformning.
+### Muhos: vattenhantering och svartskiffer
 
-Yle rapporterade den 29 oktober att polisen öppnat en preliminär utredning om misstänkta miljöskador efter anmälningar om verksamheten vid Muhos. En brottsutredning är inte ett konstaterande av skuld. Google har uppgett att bolaget samarbetar med myndigheterna.
+LVV:s granskning av Tuikes dräneringsanmälan för Muhos visar varför markarbetena blivit en separat tillståndsfråga. Enligt anmälan, som bolaget lämnade in den 18 september, planerades omkring nio kilometer nya diken. Myndigheten uppgav den 22 oktober att merparten redan hade byggts. LVV påpekade att en dräneringsanmälan normalt ska lämnas minst 60 dagar innan arbetet inleds.
 
-Fallet visar att mark, vatten och natur inte bara är sidoeffekter som hanteras efter att datacenterbeslutet är fattat. De kan avgöra när ett projekt över huvud taget får gå vidare från planering till byggförberedelser.
+Myndigheten bedömer att området ligger inom ett svartskifferområde. När sulfidförande jord grävs upp och exponeras för syre kan surt lakvatten och förhöjda metallhalter uppstå. LVV uppgav att de övervakningsresultat som bolaget självt lämnat in redan visade förändringar som tyder på försurning. Myndigheten ansåg samtidigt att underlaget inte med tillräcklig säkerhet visade att vattenpåverkan kunde förebyggas och hanteras med de föreslagna metoderna.
 
----
+LVV krävde den 22 oktober en detaljerad vattenhanteringsplan med konstruktioner, placering, tidplan och oberoende vattenövervakning samt hantering av extrema flöden vid kraftigt regn och snösmältning. Myndigheten bedömde också att dräneringsåtgärderna i Muhos kräver tillstånd enligt vattenlagen. Den ursprungliga tidsfristen var den 5 november 2026. Den 5 november rapporterade Kaleva att LVV hade beviljat Tuike Finland mer tid för vattenhanteringsplanen och kompletterande utredningar. Kalevas rapport angav inte den nya tidsfristen. Den ursprungliga 5 november-fristen får därför inte beskrivas som missad eller som bevis för att planen uteblivit. Ett eventuellt administrativt tvångsförfarande och vite är möjliga myndighetsåtgärder, inte redan utdömda sanktioner.
+
+### Brottsutredningen är separat från tillståndsprövningen
+
+Den 29 oktober meddelade Oulupolisen att en förundersökning hade inletts efter fem separata begäranden om utredning som samlas i ett ärende. Brottsrubriceringen är miljöförstöring. Polisen sade att de preliminära uppgifterna pekade på oklarheter och brister i dränering och vattenhantering vid Muhosområdet. Utredningen väntas ta tid och polisen siktar på att slutföra den under 2027; ytterligare information aviserades till december 2026.
+
+Förundersökningen gäller Muhos. Den är inte ett konstaterande av skuld och ska inte blandas ihop med LVV:s separata stoppuppmaning för både Muhos och Kajaani-Otanmäki. Kaleva rapporterade den 5 november att LVV hade beviljat mer tid för vattenhanteringsplanen och kompletterande utredningar; den nya tidsfristen framgår inte av den publicerade rapporten. I de offentliga källor som identifierats till den 18 november finns ingen bekräftelse på att LVV har godkänt planen, att vattenlagstillstånd har beviljats eller att de stoppade miljöförändrande arbetena har fått återupptas.
+
+Fallet visar att mark, vatten och natur inte bara är sidoeffekter som hanteras efter att datacenterbeslutet är fattat. De kan avgöra när ett projekt över huvud taget får gå vidare från planering till byggförberedelser. Samtidigt måste myndigheternas preliminära bedömningar, bolagets uppgifter och polisens ännu pågående utredning hållas isär.
 
 ## 5. Skottland: offentlig garanti, privat skuld och ett nätanslutet projekt
 
@@ -157,11 +180,15 @@ Skillnaden mellan dessa modeller är betydande. Ett datacenter som tar el från 
 
 DataVita beskriver också sina kylsystem som slutna och anger att de inte ska förbruka vatten genom avdunstning. Det är bolagets egen tekniska beskrivning och bör senare jämföras med de miljö- och planeringshandlingar som faktiskt godkänns.
 
+Skottland har samtidigt infört en särskild planeringsregel. Den 16 september 2026 publicerade den skotska regeringen en riktlinje som kräver en miljökonsekvensbedömning (EIA) för nya datacenterutvecklingar över 50 MW inom de utvecklingsklasser som anges i Schedule 2 till 2017 års EIA-regler. Riktlinjen trädde i kraft den 17 september. Projekt under tröskeln omfattas fortfarande av den vanliga bedömningen från fall till fall. Kravet gäller planeringsansökan; det är inte ett generellt byggförbud eller ett beslut om att ett enskilt projekt ska avslås.
+
+Le Monde rapporterade den 21 november att tusentals personer demonstrerade i Edinburgh den 14 november mot planerna på fler än 20 stora datacenter i Skottland. Tidningen beskriver Chapelcross som ett föreslaget projekt med omkring 1 000 MW tillgänglig effekt. Det är en planerad effektuppgift, inte uppmätt förbrukning eller bevis på att projektet har fått alla nödvändiga tillstånd. Protesterna ger en aktuell bild av den lokala konflikten, medan den rättsliga EIA-regeln redan hade trätt i kraft två månader tidigare.
+
 Lanarkshire visar hur offentliga garantier, privata lån, jobbprognoser, nätanslutning och förnybarhetslöften kan ingå i samma projekt – men ändå vara skilda saker som måste kontrolleras var för sig.
 
 ---
 
-## 6. Sofia: BRAIN++ är konkret – gigafabriken är en annan idé
+## 6. Sofia: BRAIN++ är konkret – gigafabriksupphandlingen är en annan process
 
 Bulgariens BRAIN++ är ett av Europas mer konkreta AI-fabriksprojekt. EuroHPC beskriver BRAIN++ som ett initiativ under ledning av Sofia Tech Park, med stöd från INSAIT och teamet bakom den befintliga superdatorn Discoverer.
 
@@ -181,25 +208,69 @@ Bulgariens ministerium för innovation och digital omställning beskrev i oktobe
 
 Detta är en separat idé som regeringen då sade sig undersöka. Den ska inte blandas ihop med BRAIN++ eller Discoverer++: ingen vald plats, finansierad byggplan, bindande IBM-order eller nätanslutning har identifierats i det underlag som kontrollerats.
 
-Sofia visar därför både vad som händer när EU-finansiering och nationell medfinansiering omsätts i en konkret superdatorupphandling – och hur lätt en separat politisk ambition kan förväxlas med ett beslutat infrastrukturprojekt.
+### AI Gigafactory Northern: konsortium med avsikt att lämna anbud
+
+Den 16 november 2026 meddelade Telia, Nokia, Nscale, Skeleton och Verda att de bildat konsortiet AI Gigafactory Northern. Enligt Telias och de övriga partnernas gemensamma beskrivning avser konsortiet att lämna anbud i EuroHPC:s öppna upphandling av AI-gigafabriker. Modellen är distribuerad: AI-infrastruktur i Oulu i Finland, Iru i Tallinnregionen i Estland, Valmiera i Lettland och på en ännu inte fastställd plats i Sverige ska kopplas samman till en gemensam kapacitet. Telia uppger också att KTH och VTT deltar som forsknings- och innovationspartner.
+
+Partnernas beskrivning anger att Nokia ska bidra med nätverksinfrastruktur, Telia och Telia Cygate med uppkoppling och molntjänster, Nscale och Verda med moln- och AI-infrastruktur och Skeleton med energisystem. Det är konsortiets egen presentation av rollerna och den planerade modellen. Någon offentlig investeringssumma, kapacitet per plats, bindande finansiering eller bekräftad svensk lokalisering anges inte i pressmeddelandet.
+
+Sverige har samtidigt fattat ett separat beslut om offentlig medfinansiering av den europeiska upphandlingen. Riksdagen bemyndigade den 21 oktober regeringen att ingå ekonomiska åtaganden för beräkningskraft på upp till 50 miljoner euro under fem år. Regeringen uppgav den 22 oktober att Sverige genom avtalet stödjer etableringen av en svensk nod knuten till en AI-gigafabrik i Finland genom att köpa beräkningskraft. Besluten fastställer inte vilken operatör som ska driva noden. De visar inte heller att den svenska noden är samma sak som den ännu inte lokaliserade svenska plats som AI Gigafactory Northern beskriver. De två processerna måste hållas isär tills en uttrycklig koppling offentliggörs.
+
+Vid direktkontroll den 27 november visar EuroHPC:s officiella upphandlingssida fortfarande status **Open**. En ny uppdatering daterad **25 november 2026** förlänger sista anbudsdag för **Lot 2 till 30 december 2026 kl. 17.00** (Europe/Luxembourg). **Lot 1 ligger kvar på 4 februari 2027 kl. 17.00**, och sista dag för frågor om Lot 2 är **9 december 2026**. Detta ersätter den tidigare Lot 2-fristen 3 december som angavs i uppdateringen den 5 november. Separat kvarstår EuroHPC:s meddelande från 5 november om att samtliga utkast och redan inlämnade anbud i det tidigare eSubmission-systemet – oavsett lot – inte kommer att beaktas; anbud måste återskapas och lämnas in via de nya länkarna på Funding & Tenders Portal. Det finns en versionsskillnad som behöver redovisas öppet: Tender Specifications v2, daterad 23 oktober, visar fortfarande den ursprungliga fristen 12 november 2026 kl. 16.00. De senare officiella uppdateringarna på utlysningssidan styr tidsplanen. EuroHPC uppger att själva upphandlingsdokumentens innehåll inte ändrades när nya inlämningslänkar publicerades. Därför ska PDF:ens ursprungliga datum inte återges som gällande frist. Den officiella upphandlingsspecifikationen v2 anger MLPerf Training v5.1 och Inference v5.1 som tekniska benchmarkramar. 2EU Brussels rapporterade separat den 11 november att EuroHPC den 10 november hade uppdaterat testkraven till MLPerf v5.1; den exakta portalversionshistoriken för denna tekniska ändring har inte hämtats och uppgiften tillskrivs därför 2EU. AI Gigafactory Northerns besked om att konsortiet avser att lämna anbud är inte bevis för att ett anbud har lämnats, att konsortiet har tilldelats uppdraget eller att någon av anläggningarna är i drift.
+
+AI Gigafactory Northern är ett nytt nordisk-baltiskt konsortium och ska hållas åtskilt från BRAIN++ i Sofia och från den bulgariska gigafabriksidé som nämndes 2025. Vid kontroll den 19 november hade inget offentliggjort tilldelningsbeslut, bekräftat anbud eller ny svensk lokalisering identifierats.
+
+Sofia visar därför både vad som händer när EU-finansiering och nationell medfinansiering omsätts i en konkret superdatorupphandling – och hur flera helt olika initiativ kan rymmas under samma politiska etikett utan att ha samma finansiering, beslut eller byggstatus.
 
 ---
 
-## 7. Skellefteå: en gigawatt är en möjlig framtid, inte dagens drift
+### Tjeckien: Prague Gateway – 50 MW säkrad nätkraft, men första modulen väntas 2028
 
-Det tidigare Northvolt-området i Skellefteå håller på att få en ny industriell roll. Lyten förvärvade Northvolts svenska tillgångar i februari 2026. EdgeConneX har samtidigt presenterat planer på att utveckla ett datacentercampus på området.
+Corilis Digital Infrastructure redovisade i sin delårsrapport till den 30 september, publicerad den 24 november 2026, att byggandet av CRA:s Prague Gateway inleddes i september. Rapporten anger 50 MW säkrad nätkraft genom två separata nätanslutningar. Om båda används som primärförsörjning kan anläggningen nyttja hela den effekten, men om den ena anslutningen hålls som reserv uppger bolaget att 22 MW kan drivas med full 2N-redundans, motsvarande 17,3 MW redundant IT-kapacitet över tre moduler. Dessa tal beskriver olika konfigurationer och får inte adderas.
 
-EdgeConneX meddelade den 27 februari 2026 att bolaget avsåg att förvärva en datacenterplats från Lyten och utveckla ett campus med en potentiell kapacitet på upp till en gigawatt, under förutsättning att nödvändiga administrativa och regulatoriska processer slutförs.
+Bolaget anger att fas 1 kan kosta upp till 2,1 miljarder tjeckiska koruna. Beloppet omfattar stomme och skal för samtliga tre moduler samt färdigställandet av den första fullt redundanta modulen på 4 MW. De senare modulernas utrustning är ännu inte fullt beställd; rapporten uppskattar ytterligare minst 1,8 miljarder koruna för modul 2 och 3, beroende på slutlig omfattning och konfiguration. Den första modulen väntas enligt bolaget kunna tas i drift tidigast omkring mitten av 2028.
 
-Lyten uppger på sin aktuella sida för den svenska verksamheten att batteritillverkningen vid Lyten Ett har återstartat och att upptrappning pågår. Bolaget skriver också att EdgeConneX har valts för att utveckla datacenterområdet och att arbete har inletts med fas 1.
+Corilis uppger att avsiktsförklaringar från potentiella ankarkunder överstiger 45 MW. Bland de namngivna intressenterna finns offentlig sektor, Bull, Cloudflare, Era4 och Polarise. Detta är avsiktsförklaringar och efterfrågeindikationer, inte bindande elförbrukningsavtal eller bevis på att 45 MW är uthyrt. Rapporten anger separat att CRA hade GPU-as-a-Service-kontrakt med sju kunder vid periodens slut, med cirka 200 miljoner koruna i kontrakterad årlig intäkt; den uppgiften avser CRA:s GPUaaS-verksamhet och ska inte automatiskt hänföras till Prague Gateway.
 
-Den formuleringen visar att utvecklingsarbete har startat enligt bolaget. Den fastställer inte i sig att en datacenterbyggnad är färdig, att en nätanslutning på en gigawatt har beviljats eller att motsvarande IT-last är installerad.
+CRA:s projekt har identifierats som centrum för den tjeckiska kandidaturen i EuroHPC-processen, men delårsrapporten bekräftar inte att ett formellt anbud har lämnats in eller att ett gigafabriksuppdrag har tilldelats. Prague Gateway är alltså ett konkret byggprojekt med uppgiven nätkapacitet och pågående byggnation – inte ännu en driftsatt AI-gigafabrik.
 
-Skellefteå kommuns FAQ säger att EdgeConneX senare förvärvade delar av området och att markaffären har koppling till Lytens förvärv av Northvolts tillgångar. Den exakta överlåtelsekedjan och fastighetsgränserna behöver ändå kontrolleras mot lagfart och överlåtelsehandlingar om de ska beskrivas i detalj.
+### OVHcloud: befintlig kapacitet blir europeiska AI-tjänster
 
-Kommunen återger också Skellefteå Krafts bedömning att etableringen inte ska ge någon betydande påverkan på elpriser, leveranssäkerhet, nätstabilitet eller nätavgifter för befintliga kunder. Detta är en kommunal och lokal nätbolagsbedömning – inte en oberoende revision av den framtida lastprofilen. Kommunen beskriver även den planerade kylningen som ett slutet vattensystem utan avdunstning.
+Den 19 november presenterade OVHcloud 55 nya moln- och AI-produkter. Bolaget uppger att det lägger till NVIDIA RTX 6000 Pro, Blackwell B300 och Rubin R200 i sina Bare Metal- och Public Cloud-erbjudanden. Enligt bolagets pressmeddelande kan den befintliga datacenterkapaciteten hantera upp till 60 000 B300-GPU:er eller 35 000 R200-GPU:er. Reuters återger bolagets uppgift om cirka 110 MW ledig kapacitet.
 
-Det finns alltså en konkret plats, namngivna utvecklare och en potentiell gigawattambition. Men det som återstår att fastställa är minst lika viktigt: formella bygglov, miljövillkor, faktisk nätanslutning, effektreservationer, vatten- och värmeplaner, kundavtal och finansiering.
+OVHcloud meddelade samtidigt partnerskap med Shadow, Qwant och European Search Perspective. Reuters rapporterar att Qwants AI-sammanfattningar redan körs på OVHclouds europeiska infrastruktur och hanterar upp till tre miljoner frågor per dag. Uppgifterna visar en annan väg till europeisk AI-kapacitet än en ny gigafabrik: att bygga tjänster ovanpå redan existerande datacenter och molnplattformar.
+
+**Källstatus:** Produktlanseringen och GPU-kapaciteten är bolagsuppgifter. Uppgiften om 110 MW ledig kapacitet och Qwants trafik återges av Reuters från bolagets besked. Underlaget visar inte hur kapaciteten fördelas mellan enskilda anläggningar, hur mycket som faktiskt används eller hur mycket som redan är kontrakterat. OVHclouds produktlansering ska därför inte räknas som 110 MW nybyggd eller nyansluten kapacitet.
+
+### Molnsuveränitet: upphandlingarna rör sig, marknaden består
+
+Den 17 april 2026 tilldelade EU-kommissionen fyra parallella kontrakt för suveräna molntjänster med ett sammanlagt värde på **upp till 180 miljoner euro under sex år**. Leverantörsgrupperna leds av Post Telecom, STACKIT, Scaleway respektive Proximus. Det är en ram för EU:s institutioner, organ och byråer att köpa molntjänster – inte ett bygganslag till nya datacenter och inte ett löfte om att hela beloppet kommer att användas. Kommissionens Cloud Sovereignty Framework bedömer åtta områden, bland annat strategisk, juridisk och operativ kontroll, miljö, leveranskedjors transparens, teknisk öppenhet och säkerhet.
+
+Kommissionens egen förklaring av tilldelningen visar också varför ordet ”europeisk” inte får likställas med en helt europeisk teknikstack. Post Telecom-gruppen, STACKIT och Scaleway nådde enligt kommissionen SEAL-3, medan Proximus/S3NS nådde SEAL-2. S3NS är ett samarbete mellan Thales och Google Cloud och använder Google Cloud-teknik i en miljö som enligt kommissionen drivs exklusivt av EU-bolag. SEAL-4 – en fullständigt europeisk leveranskedja från chip till programvara – är en separat och högre nivå. Tilldelningen visar alltså att teknisk suveränitet kan bedömas genom kontroll, drift och avtalsvillkor, inte enbart genom leverantörens nationalitet.
+
+Nederländernas regering slöt den 23 april ett ramavtal med STACKIT. Statliga organisationer kan köpa tjänster enligt villkor som bland annat kräver att data lagras inom EES och ger staten revisionsrätt. Avtalet innehåller också möjlighet att avsluta kontrakt om leverantören hamnar under ägande från en part utanför EES. Det finns däremot inget obligatoriskt uttag eller minsta köpvolym: myndigheterna avgör själva om och i vilken omfattning de använder tjänsterna.
+
+Schweiz valde en annan modell när förbundets IT-myndighet den 20 oktober 2026 öppnade upphandlingen Swiss Government Cloud. Den delar upp behovet i tre nivåer: global publik molntjänst, publik molntjänst med förstärkt datastyrning där data lagras och behandlas uteslutande i Schweiz samt privat moln på plats i federala datacenter. Det angivna maximala upphandlingsvärdet på sju miljarder schweizerfranc över 14 år är ett tak för möjliga avrop, inte en redan beslutad utgift. Kostnader ska uppstå först när resurser faktiskt används. Upphandlingen är ännu inte ett tilldelningsbeslut; regeringen anger sensommaren 2027 som förväntad tid för tilldelning och avtal, förutsatt att processen inte försenas av invändningar.
+
+Reuters rapporterade den 23 november att suveränitetskrav får större betydelse i europeiska offentliga upphandlingar och i reglerade branscher. Kriterierna gäller i allt högre grad operativ självständighet, kontroll över krypteringsnycklar, motståndskraft och möjligheten att lämna en leverantör – inte bara var serverhallen står. Samtidigt beskriver de intervjuade företagsföreträdarna långa migrationsprocesser, ofta 12–24 månader, och en fortsatt stark inlåsning i etablerade plattformar.
+
+Kommissionens förslag till Cloud and AI Development Act från juni 2026 beskriver marknadens strukturella utgångsläge: EU-leverantörernas andel av molnmarknaden sjönk från 29 procent 2017 till 15 procent 2022 och hade enligt förslaget därefter legat stilla. Tre leverantörer utanför EU uppges kontrollera mer än 70 procent av den europeiska marknaden. Det är kommissionens marknadsbild i ett lagförslag, med historiska jämförelseår – inte en ny oberoende mätning av marknadsandelarna i november 2026.
+
+De nya upphandlingarna visar därför en faktisk förskjutning i hur offentliga kunder formulerar sina krav, men de bevisar ännu inte att Europas molnmarknad har bytt struktur. Suveränitet måste kunna visas i drift, kontroll, leveranskedja, avtalsrätt och faktisk möjlighet att byta leverantör. En europeisk adress räcker inte; ett europeiskt namn på ett avtal räcker inte heller.
+
+## 7. Skellefteå: en gigawatt är en möjlig framtid – men bygglov och nät är separata steg
+
+Det tidigare Northvolt-området i Bergsbyn i Skellefteå håller på att få en ny industriell roll. Lyten förvärvade Northvolts svenska tillgångar i februari 2026. EdgeConneX har presenterat planer på ett datacentercampus med en potentiell kapacitet på upp till en gigawatt, under förutsättning att nödvändiga administrativa och regulatoriska processer slutförs.
+
+Projektet har sedan dess passerat två konkreta kommunala steg. Skellefteå kommuns kungörelse, daterad den 28 september 2026, anger att bygg- och miljönämnden den 24 september beviljade bygglov för nybyggnad av datacentret DC02 och ändrad användning av de befintliga byggnaderna DS4 och FA03 till datacentret DC01 på fastigheten Ackumulatorn 3. Kungörelsen har diarienummer 2026-3140. Bygglovet gäller de två första byggnaderna – inte hela den planerade sjuhallsutbyggnaden.
+
+SVT rapporterade den 28 september, med hänvisning till samrådshandlingar, att EdgeConneX planerar sju byggnader på mellan 96 och 150 MW vardera. Det motsvarar en sammanlagd planerad effekt på cirka 672–1 050 MW i handlingarnas projekterade skala. Enligt samma rapport ska de två byggnaderna i första fasen vara färdiga i början av 2028; ytterligare fem byggnader är tänkta till början av 2031. Dessa är planeringsuppgifter, inte beviljad nätanslutning, installerad IT-last eller uppmätt elförbrukning. Bolagets uppgift om upp till en gigawatt är en separat campusambition och ska inte behandlas som ett kontrakterat effektuttag.
+
+Ett ytterligare steg rapporterades av Norran den 9 november: kommunen ska den 29 oktober ha gett ett delstartbesked som endast omfattar grundläggningsarbeten för den första etappen. DataCenterSweden återger Norrans rapport och uppger att själva delstartbeskedet inte har publicerats. Något startbesked för övriga byggnadsarbeten har inte identifierats. Det är därför korrekt att säga att grundläggningen har fått ett rapporterat delstartbesked – inte att hela datacentret har fått klartecken för byggstart.
+
+Skellefteå kommuns FAQ beskriver etableringen som ett projekt i ett tidigt utvecklingsskede och återger kommunens bedömning att den diskuterade energianvändningen redan fanns med i planeringen för batterifabriken. Det är kommunens bedömning, inte ett oberoende besked om den faktiska framtida lastprofilen. Skellefteå Kraft har inte offentliggjort den avtalade nätkapaciteten för EdgeConneX. Det är inte heller offentligt klarlagt hur tidigare Northvoltanslutningar fördelas mellan EdgeConneX och Lyten.
+
+Den konkreta statusen är därmed mer långt gången än en ren avsiktsförklaring: bygglov finns för DC01 och DC02 och ett delstartbesked för grundläggningen har rapporterats. Men campusets fulla omfattning är fortfarande inte byggd eller nätmässigt klarlagd. Det som återstår att fastställa är bygglovets laga kraft, startbesked för återstående arbeten, avtalad nätkapacitet och effektprofil, faktisk IT-last, vatten- och kylsystem, reservkraft, kundavtal och finansiering.
 
 ### Europeisk hårdvara och moln – men ännu ingen offentlig kapacitetsorder
 
@@ -233,9 +304,58 @@ ACER:s siffror visar att nätkostnader och flaskhalsar redan har en stor ekonomi
 Det är där den verkliga frågan om digital suveränitet börjar. Suveränitet handlar inte bara om var servrarna står eller vilken jurisdiktion molnleverantören lyder under. Den handlar också om vem som kontrollerar marken, nätet, elproduktionen, finansieringen, hårdvaran och möjligheten att säga nej när ett projekt inte längre är samhällsekonomiskt hållbart.
 
 
+Den 19 november publicerade IEA sin *World Energy Outlook 2026*. Rapporten gör en viktig reservation: den globala analysen visar ännu inget entydigt samband mellan datacentertillväxt och högre elpriser. Effekten beror bland annat på ledig kapacitet vid anslutningspunkten, anläggningens storlek och driftprofil, behovet av nät- och produktionsinvesteringar samt om kostnaderna läggs på den nya kunden eller på elkunderna gemensamt. Det är inte ett argument för att datacenter saknar kostnadseffekter; det är en varning mot att tillskriva sektorn prisökningar utan att följa den konkreta kostnadskedjan.
+
+Som ett branschperspektiv varnade Schneider Electrics digitalchef Peter Weckesser i Reuters den 19 november för att höga europeiska elpriser, otillräckliga nätinvesteringar och splittrad reglering kan bromsa AI-etableringar eller flytta investeringar till andra regioner. Det är en företagsföreträdares bedömning, inte en oberoende mätning av hur mycket investeringar som faktiskt har flyttats.
+
+### Spanien: nya villkor för el, vatten och digital suveränitet
+
+Spanien har gått från politiskt besked till gällande förordning. **Real Decreto 1032/2026**, daterat den 20 november, publicerades i Spaniens officiella statstidning den 21 november 2026 som BOE-A-2026-24439. Enligt slutbestämmelsen trädde förordningen i kraft dagen efter publiceringen, alltså **22 november 2026**. Den reglerar villkoren för datacenters nätåtkomst, energimässig och vattenmässig effektivitet samt digital resiliens och suveränitet.
+
+Förordningen använder ett precist tröskelvärde: huvudkraven för nätåtkomst gäller datacenter med **anslutningseffekt på minst 10 MW**. Det är nätets access power, inte serverutrustningens IT-effekt; datacenter med samma ägare på samma plats räknas samman när tröskeln prövas. Separat gäller den årliga rapporteringen för IT-effekt på minst 500 kW, oavsett access power. För nya och ännu inte avgjorda ansökningar om nätåtkomst och anslutning krävs bland annat en ansvarsförsäkran om digital suveränitet, ett åtagande om energi- och vatteneffektivitet samt åtaganden om förnybar additionalitet och timvis korrelation.
+
+Två separata 80-procentskrav får inte blandas ihop. Enligt artikel 7 ska minst **80 procent av datacentrets totala elanvändning** täckas av egen förnybar produktion eller långsiktiga avtal med förnybara producenter och tillhörande lagring i Spanien. De anläggningar som används för att uppfylla additionalitetskravet ska som huvudregel ha fått sitt driftsättningstillstånd högst 36 månader före datacentrets driftstart eller första användning av energin. Enligt artikel 8 ska dessutom minst **80 procent av elanvändningen under varje enskild timme** täckas av en motsvarande mängd förnybar el som produceras under samma timme. Förnybarhetscertifikat eller finansiella produkter utan tydlig koppling till identifierade produktionsanläggningar ersätter inte automatiskt dessa krav. PPA-avtal ska identifiera parterna och de anläggningar som kopplas till datacentret, ha minst sex års löptid och uppfylla övriga formkrav; finansiella kontrakt som enbart bygger på ursprungsgarantier är uttryckligen uteslutna. Till och med den 31 december 2028 får ett datacenter upp till sex månader från att nätåtkomstavtalet formaliseras för att nå additionalitetsnivån. Solcellsanläggningar kan under särskilda villkor räknas som additionalitet oavsett driftsättningsdatum, om de inte redan var bundna av ett eller flera sådana PPA-avtal när förordningen trädde i kraft. Förordningen innehåller också en villkorad nationell genväg: om den förnybara andelen i Spaniens elproduktion överstiger 90 procent under referensåret n−2 kan additionalitet och timkorrelation anses uppfyllda, men då begränsas antalet timmar då datacentret får ta el från nätet. Innan myndighetens särskilda resolution har publicerats ska andelen räknas som under 90 procent.
+
+Förordningen innehåller en alternativ övergångsväg för anläggningar som deltar i Spaniens system för automatisk effektminskning (SRAP) och kan reducera sin nätförbrukning till noll när systemoperatören aktiverar det. Under en femårsperiod kan timkravet då fasas in: 60 procent under P1-timmar till och med 2028 och därefter 70 procent under P1 samt 60 procent under P2. Det är ett villkorat flexibilitetsalternativ, inte ett generellt undantag från förnybarhetskraven.
+
+Energi- och vatteneffektiviteten ska motsvara klass A enligt den europeiska märkningsordningen. Fram till dess att den europeiska märkningen och den nationella normaliseringsmetoden börjar tillämpas anger övergångsbestämmelserna PUE högst 1,25 och WUE högst 0,1. Effektivitetsnivån för energi ska nås efter två år från driftstart och vattennivån efter ett år. Datacenter med IT-effekt på minst 500 kW ska årligen rapportera uppgifter om energi, förnybar elanvändning, vatten och efterfrågan; uppgifterna ska göras tillgängliga på ministeriets webbplats.
+
+Digital suveränitet har en snävare men viktig tillämpning. Artikel 5 gäller när ett datacenter hyser informationssystem i den högsta säkerhetskategorin, **ALTA**, enligt Spaniens nationella säkerhetsramverk. Kraven gäller oavsett anläggningens MW-tal, men blir tillämpliga på ett visst system först när den ansvarige har underrättats om att systemet tillhör ALTA-kategorin. Innehållsdata och data som härletts ur användningen ska då stanna inom EU/EES; tekniska metadata och telemetri undantas från just denna regel. Administration, support och underhåll från länder utanför EU/EES får bara ske när det är tekniskt nödvändigt, begränsas till minsta nödvändiga åtgärd och tid samt loggas. Förordningen ställer inte ett generellt nationalitets- eller ägarkrav på alla datacenter och förbjuder inte varje tekniskt nödvändig tredjelandsinsats.
+
+Det finns också en särskild övergångsordning för europeiska strategiska projekt inom digital suveränitet, däribland AI-gigafabriker och superdatorer. Den kan bli relevant för projekt som deltar i en EU-utlysning som öppnats före förordningens ikraftträdande, men den gäller inte automatiskt för varje konsortium eller anläggning. Projektet måste bland annat visa att de aktiva servrarna och beräkningsresurserna står under faktisk kontroll av en EU-etablerad och EU-huvudsakligen baserad aktör, utan avgörande kontroll från tredjeland. Dessutom krävs två bindande positiva utlåtanden: ett från ministeriet för digital omställning om kontrollvillkoren och ett från systemoperatören om påverkan på elsystemet. Först när båda finns i nätärendet kan specialregimen tillämpas. Inget underlag i denna kontroll visar att AI Gigafactory Northern eller ett annat namngivet konsortium redan har fått sådana utlåtanden. Specialregimen är inte ett generellt undantag: den har egna effektivitetsnivåer (PUE/WUE 1,35/0,4 för anläggningar i drift eller med tillstånd vid ikraftträdandet; 1,25/0,2 för anläggningar som tas i drift senast 2029; 1,15/0,1 från 2030), ett 60-månadersfönster för additionalitet och timkorrelation kopplad till föregående års nationella förnybarandel.
+
+För projekt som hade nätåtkomst- och anslutningstillstånd men ännu inte kopplats in vid ikraftträdandet gäller en sexmånadersfrist för att visa efterlevnad; annars kan tillstånden förfalla och säkerheter tas i anspråk. Ansökningar som fortfarande var oavgjorda omfattas av de nya kraven och kan avslås efter tre månader om kraven inte har styrkts efter föreläggande och möjlighet att yttra sig. Det finns samtidigt en möjlighet att frivilligt avstå från vissa ännu inte utnyttjade tillstånd inom sex månader utan att säkerheterna verkställs. Myndigheterna ska publicera den första uppföljningsrapporten inom sex månader från ikraftträdandet och därefter varje halvår; CNMC ska utvärdera reglernas tillämpning vartannat år. Dessa övergångsregler gör det viktigt att skilja redan anslutna datacenter från projekt som har tillstånd men ännu inte tagit el från nätet.
+
+Förordningens ingress anger att mer än 15 GW nätåtkomstkapacitet hade beviljats datacenter: drygt 6 GW i transmissionsnätet och omkring 8,8 GW i distributionsnäten. Den jämför detta med AI-strategins uppskattning på 2,5 GW beräkningskapacitet 2030, motsvarande cirka 3,5–4 GW elbehov. Det är regeringens officiella motivering till regleringen. Tillståndskapacitet är dock inte samma sak som byggd anläggning, ansluten last eller uppmätt förbrukning. El País rapporterade separat att energiministern talade om 15 GW i tillstånd och ytterligare 20 GW i kö; den rapporterade uppdelningen 6+9 GW är avrundad och har inte stämts av mot varje nätägares register.
+
+Samma dag som dekretet publicerades godkände regeringen också en bindande elnätsplan med horisont 2030 och investeringar på mer än 17 miljarder euro. La Moncloa anger att planen ska möjliggöra 47 GW ny efterfrågan, omfatta 193 nya transformatorstationsparker och 6 707 kilometer nya ledningar samt förstärka ytterligare 8 164 kilometer befintliga ledningar. Det är en nationell plan för flera sektorer, inte reserverad datacenterkapacitet eller ett löfte om anslutning till enskilda AI-campus.
+
+Spain DC har aviserat att organisationen tänker angripa dekretet i domstol och begära interimistisk suspension. Organisationen uppger att reglerna riskerar 66,9 miljarder euro i potentiella investeringar till 2030 och att datacenter står för 0,8 procent av Spaniens elanvändning. Det är branschens egna uppskattningar och argument, inte oberoende reviderade mått. Reuters rapporterar att oppositionspartiet PP lovat att riva upp reglerna om partiet vinner valet den 29 november och att två utvecklare överväger Frankrike eller Portugal för projekt som kan bli olönsamma under de nya energikraven. AWS och Microsoft uppgav däremot att deras regionala planer låg fast. Det är politiska, bransch- och bolagspositioner; de visar inte att investeringar redan har flyttats eller att en domstol har upphävt förordningen.
+
+Spanien blir därmed ett konkret test av den europeiska avvägningen mellan snabb kapacitetsutbyggnad, förnybar el, vattenanvändning, nätkostnader och kontroll över kritiska offentliga data. Den avgörande prövningen börjar nu i handläggningen av nya och äldre ansökningar, i kontrollen av faktiska timvärden och i hur övergångsreglerna tillämpas på projekt som redan har tillstånd men ännu inte är anslutna.
+### Belgien: Google-projektet i Aiseau-Presles stoppas efter tillståndskonflikt
+
+Den 26 november 2026 beordrade regionala inspektörer i Vallonien att byggarbetet vid Googles datacenterprojekt i Aiseau-Presles skulle stoppas. Nyhetsbyrån Belga rapporterade att den regionala tjänstemannen Raphaël Stokys meddelade ett muntligt stopp efter en inspektion då omkring 300 arbetare fanns på plats. The Guardian rapporterade den 27 november att ordern därefter bekräftades skriftligen till Google och att regionala företrädare avsåg att överlämna ett ärende till åklagare med misstanke om olovligt byggande. Det är en myndighetsanknuten anklagelse och ett rapporterat tillsynssteg – inte en dom eller ett slutligt domstolsavgörande.
+
+Tvisten gäller skillnaden mellan det ursprungliga bygglovet och en senare ändring. Enligt Belga omfattade 2024 års tillstånd tre byggnader. Googlebolaget Crystal Computing sökte därefter ändra upplägget så att två byggnader slogs samman till en större anläggning. Ändringen innebar även att kylningen skulle använda vatten från floden Sambre. The Guardian rapporterade att den reviderade lösningen skulle kunna ta upp till 600 kubikmeter vatten per timme. Valloniens infrastrukturminister återkallade den ändrade tillståndsgivningen i augusti 2026 efter invändningar och oro för vattenförsörjning under torka.
+
+Det ursprungliga tillståndet för tre luftkylda byggnader har enligt rapporteringen inte automatiskt upphört att gälla. Den rättsliga frågan är därför inte förenklat om Google saknar varje form av bygglov, utan om det som faktiskt byggts ryms inom det ursprungliga tillståndet eller omfattas av den återkallade ändringen. Google har överklagat ministerbeslutet; The Guardian uppger att Belgiens Conseil d’État väntas behandla frågan den 7 januari 2027. Google har enligt samma rapportering sagt att bolaget vill upprätthålla en öppen dialog med regionala myndigheter och experter.
+
+Greenpeace Belgien uppgav den 25 november att organisationen begärt ett skyndsamt stopp och hänvisade till satellitbilder och uppgifter från boende. Det är organisationens partsuppgift och kampanjunderlag, inte en oberoende teknisk granskning av hela byggplatsen. Den regionala inspektionen och stoppordern har däremot rapporterats av Belga och The Guardian. Någon fullständig myndighetsakt med inspektionsprotokoll, skriftlig order, bygglovsritningar och exakt avgränsning av de arbeten som stoppats har inte hämtats i denna kontroll.
+
+Fallet visar hur tillstånd, vatten och lokal kontroll kan bli avgörande för ett projekt även när investeringen redan är långt gången. Det visar inte att alla datacenterprojekt med vattenkylning är otillåtna, och det avgör inte heller om den ursprungliga bygglovsramen medger delar av den pågående byggnationen. Den bedömningen måste vila på tillståndshandlingarna och den kommande rättsliga prövningen.
+
 ## 9. Nscale: kontrakt är inte samma sak som levererad kapacitet
 
 Nscale visar hur ett europeiskt bolags datacenterplaner kan vara beroende av både nätanslutning och finansiering över flera jurisdiktioner. I en ändring av bolagets amerikanska börsregistrering, inlämnad till SEC den 12 november 2026, redovisar Nscale plc flera villkorade kundåtaganden och betydande kapitalbehov. Dokumentet är bolagets eget preliminära prospektunderlag, inte en oberoende revision och inte bevis för att en planerad anläggning är i drift.
+
+### Bankernas exponering mot AI-infrastruktur
+
+Europeiska centralbankens *Financial Stability Review* från november 2026 ger en bredare bild av finansieringen. Data till juni 2026 visar att euroområdets banker hade låneåtaganden på 24,3 miljarder euro till 165 betydande företag i AI-försörjningskedjan och deras dotterbolag; 11 miljarder var ännu inte utnyttjade. ECB betonar att den snävare mätningen kan underskatta exponeringen eftersom vissa lån utanför euroområdet inte fångas.
+
+En bredare sektorsbaserad beräkning når omkring 75 miljarder euro, motsvarande 1,1 procent av bankernas samlade företagsåtaganden. ECB varnar samtidigt för att detta bredare mått överskattar den egentliga AI-försörjningskedjan, eftersom det omfattar hela kategorier av datacenter-, halvledar- och mjukvaruföretag. Rapporten säger att lån till datacenter hittills har utvecklats väl, medan kreditkvaliteten för mjukvaru- och halvledarföretag har försvagats sedan 2023.
+
+Detta är euroområdesdata, inte en global uppskattning och inte ett mått på Nscales egen finansiering. Men den visar varför datacenterfinansiering måste granskas tillsammans med exponering mot privata kreditfonder, leverantörer, halvledare och kundernas framtida betalningsförmåga.
 
 ### Kontrakterat värde, faktisk omsättning och finansieringsgap
 
@@ -259,6 +379,14 @@ Samma SEC-handling anger att Nscale räknar med investeringar på omkring 2–3 
 
 Detta är bolagets investeringsprognoser och upparbetade kostnader, inte en oberoende bekräftelse av installerad IT-last eller faktisk elförbrukning. Siffrorna visar ändå varför nätanslutning, byggkostnad och GPU-finansiering måste granskas som separata delar av samma projekt.
 
+### NVE:s spillvärmeanalys och Nscales överklagande
+
+Den 29 september meddelade Norges vassdrags- og energidirektorat (NVE) att Nscale hade inlett byggandet utan att först ha lämnat in den kostnads-nyttoanalys av spillvärme som krävs enligt energilagen för större datacenter. NVE krävde en analys av möjligheterna att använda överskottsvärmen och varnade för tvangsmulkt om den inte kom in senast den 15 november.
+
+Den 9 november rapporterade NTB, med hänvisning till Energiwatch och ett svar från NVE, att Nscale hade överklagat föreläggandet. Bolaget hävdar att de fysiska byggarbetena startade 2022, före regelns ikraftträdande den 1 april 2025, och begär att NVE omprövar beslutet. Nscale uppgav att Sweco hade tagit fram analysen; ett utkast skickades den 1 september och NVE uppgav till Energiwatch att den slutliga analysen hade kommit in veckan före den 9 november. NVE sade att både klagomålet och den slutliga analysen skulle behandlas.
+
+Det betyder att analysen har lämnats in, men inte att NVE har godkänt den eller att tvisten är avgjord. Vid ny kontroll den 19 november hade ingen senare offentlig NVE-prövning, återkallelse av föreläggandet eller beslutad tvangsmulkt identifierats. NVE:s publicerade varsel är fortfarande daterat den 29 september; den senaste identifierade processuppgiften är NTB:s rapport den 9 november om att NVE mottagit den slutliga Sweco-analysen och skulle behandla den tillsammans med klagomålet. Nscales uppgift om byggstart 2022 är bolagets rättsliga invändning, inte ett fastställt myndighets- eller domstolsavgörande.
+
 ### Monarch i USA: den globala finansieringsrisken
 
 Nscale redovisar fyra avtal med Anthropic om möjliga betalningar på upp till 44,6 miljarder dollar för GPU-tjänster vid Monarch Compute Campus i West Virginia. Den platsen ligger i USA och ska inte räknas som europeisk kapacitet. Den är relevant här därför att den visar hur samma bolag kan bära mycket stora åtaganden på flera marknader samtidigt.
@@ -269,11 +397,57 @@ Prospektet anger att Nscale ska använda bästa ansträngningar för att ordna k
 
 Nscale-fallet knyter ihop artikelns huvudfråga: kontrakterad efterfrågan är inte kontant betalning, en planerad GPU-installation är inte driftsatt kapacitet och en reserverad effekt är inte säker leverans. För Europa är Kvandal och Loughton de direkta geografiska exemplen; Monarch visar hur finansieringsrisken kan växa när ett bolag binder sig till stora leveransåtaganden i flera länder.
 
+## 10. Uniper: nätanslutningen blir en tillgång
+
+Energibolaget Uniper beskriver nu datacenter som ett nytt användningsområde för äldre kraftverks- och industriområden. I bolagets Capital Markets Day-presentation från november 2026 anges omkring **700 MW säkrad nätkapacitet för datacenterprojekt i avancerad utvecklingsfas**. Kartan på presentationens sida 59 pekar ut projektområden i Storbritannien, Nederländerna, Tyskland och Skandinavien. Uniper lyfter fram brownfield-mark, befintliga produktionsanläggningar och möjligheten att kombinera egna energitillgångar med nätanslutning.
+
+Det är en viktig skillnad mellan att ha en plats, att ha ett nätbesked och att ha en färdig serverhall. Unipers siffra är bolagets egen uppgift om nätkapacitet i projekt under utveckling. Den betyder inte att 700 MW redan är installerade, att samtliga projekt har bygglov eller att elen redan förbrukas av datacenter. Presentationen namnger inte alla enskilda projekt eller kunder.
+
+Financial Times rapporterade den 16 november att Uniper närmade sig ett första avtal och förde avancerade samtal om ytterligare två platser. Det är oberoende rapportering om förhandlingsläget, inte ett offentligt undertecknat kundavtal. De två uppgifterna ska hållas isär: Unipers presentation styrker bolagets egen uppgift om cirka 700 MW i avancerad utveckling; FT beskriver hur nära bolaget enligt tidningens källor är att omsätta delar av portföljen i affärer.
+
+Uniper visar därmed en annan typ av aktör än de vanliga hyperscalers och datacenterutvecklarna. Ett energibolag med mark, kraftverk och tillgång till nät kan bli både platsutvecklare och energipartner. I ett system med långa anslutningsköer kan den befintliga nätpositionen bli en strategisk tillgång i sig. Men det avgörande är fortfarande vilka projekt som når bindande kundavtal, tillstånd, finansiering och faktisk leverans.
+
+## 11. EBRD: elnätsgapet är också ett geografiskt gap
+
+Europeiska banken för återuppbyggnad och utveckling (EBRD) placerar datacenterfrågan i ett bredare konkurrenskraftsperspektiv. I sammanfattningen av *Transition Report 2026–27: Frontiers of Competitiveness* anges att världens datacenter använde uppskattningsvis **485 TWh el under 2025**, motsvarande omkring **1,5 procent av den globala elanvändningen**. Rapporten anger också att USA och Kina väntas stå för **78 procent av den globala ökningen av datacenterkapacitet**.
+
+Reuters sammanfattade den 17 november rapportens regionala varning: i nästan hälften av EBRD:s verksamhetsländer bedöms elnäten inte kunna bära ens ett datacenter. Den uppgiften gäller EBRD:s breda verksamhetsregion – som omfattar länder utanför EU – och får inte återges som ett mått på EU:s medlemsstater. EBRD:s egen kapitelöversikt betonar samtidigt att den största möjligheten för många av dessa ekonomier kan ligga i att använda och utveckla AI-tillämpningar, inte nödvändigtvis i att konkurrera om varje hyperscale-anläggning.
+
+Det förändrar hur Europas karta bör läsas. Tillgång till mark och kapital räcker inte om nätet saknar kapacitet, och ett land kan få större ekonomisk nytta av kompetens, programvara och AI-användning än av att försöka locka till sig en mycket stor serverhall. Det är en regional konkurrensfråga – men också en fördelningsfråga: vilka samhällen får arbetstillfällen och skattebas, vilka får elnätskostnader och miljöbelastning, och vilka blir stående utanför därför att infrastrukturen inte räcker?
+
+EBRD:s globala siffror och regionala bedömning ska inte blandas ihop med en prognos för enskilda europeiska projekt. De ger däremot en nödvändig motvikt till rubriker om annonserade gigawatt: Europas förmåga att bygga AI-infrastruktur avgörs av var elnät, finansiering, kompetens och tillstånd faktiskt möts.
+
+## 12. Gasen som reservväg – annonserad effekt är inte byggd effekt
+
+BloombergNEF publicerade den 11 november 2026 rapporten *Powering the Data Center Boom: How Grid Policy Can Deliver Clean Power Faster*, beställd av Bloomberg Philanthropies. Databasen har brytdatum 5 oktober 2026.
+
+BNEF har identifierat 181 GW annonserad gaseldad kapacitet föreslagen i anslutning till datacenter globalt. 165 GW ligger i USA; rapporten beskriver mindre koncentrationer bland annat i Kanada, Storbritannien och Irland. Omkring 84 GW i tidsfördelningen saknar angivet driftsättningsår. Detta är en annonserad projektpipeline med mycket varierande mognad – inte installerad effekt, inte ett tillståndsregister och inte en prognos för vad som faktiskt byggs.
+
+BNEF:s utsläppsscenario gäller USA: om alla identifierade amerikanska anläggningar byggs och körs vid en antagen kapacitetsfaktor på 60 procent uppskattas utsläppen till cirka 345 Mt CO2e per år, omkring 152 Mt mer än om motsvarande datacenterkapacitet försörjdes med genomsnittlig amerikansk nätel. Siffran får inte tillskrivas Europa. BNEF bedömer att den lägre marginalkostnaden efter byggstart kan göra att gasanläggningar fortsätter leverera efter att nätanslutning har erhållits; flera utvecklare beskriver gasen som en fem–sjuårig brygga, medan kraftverkens ekonomiska livslängd kan vara betydligt längre.
+
+Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankrike har identifierat sex snabbspårsområden med totalt 4,4 GW nätkapacitet; ett av områdena siktar på 700 MW till 2029. Storbritanniens då föreslagna reform innehåller finansiell säkerhet om £237 500–£712 500 per MW vid accepterat anslutningserbjudande och mognadsmilstolpar. Den brittiska modellen var ett förslag, inte en slutligt gällande regel. BNEF beskriver samtidigt Spaniens hållbarhetsbaserade kapacitetstilldelning och Tysklands mognadsbaserade köprocess.
+
+**OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 11 november om samma BNEF-underlag och om brittiska platsförslag vid Wapseys Wood och Quest Park. De lokala planerings- och miljöakterna för dessa gasanläggningar har inte hämtats i denna kontroll.
+
+IEA:s *World Energy Outlook 2026*, som publicerades den 19 november, ger en separat global jämförelse. IEA uppskattar att kol- och naturgasbaserad elproduktion tillsammans står för omkring 60 procent av den fysiska elförsörjningen till datacenter i världen i dag. I rapportens STEPS-scenario (Stated Policies Scenario) väntas utsläppen från sektorn öka med omkring 70 procent till 2030 när kol- och gaskraft växer. Det är ett globalt scenario, inte en prognos för Europa. IEA:s regionala bild för 2030 visar att förnybar el dominerar EU:s datacenterförsörjning, medan kärnkraft och gas utgör mindre delar än i USA och Kina.
+
+IEA uppskattar också att omkring 180 GW gaseldad kapacitet i USA, 11 GW i Kanada och 4 GW i övriga världen hade planerats för datacenter per augusti 2026. Rapporten bedömer att merparten av dessa projekt inte väntas vara i drift förrän under 2030-talet på grund av långa leveranstider för gasturbiner. Dessa tal beskriver planerad kapacitet och ska inte summeras med BNEF:s 181 GW: rapporterna använder olika underlag och definitioner. De är inte mått på färdigbyggda kraftverk.
+
+**Vad underlaget visar:** Den centrala europeiska frågan är inte att 181 GW gas redan byggs, utan vilka av de annonserade projekten som når mark, nät, miljötillstånd, turbiner och finansiering – och om ett utpekat reservkraftverk fortsätter att köras när nätanslutningen väl finns.
+
+**Källor:**
+- BNEF pressmeddelande: https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
+- BNEF fullrapport: https://assets.bbhub.io/professional/sites/44/BNEF-BP-Powering-the-Data-Center-Boom-How-Grid-Policy-Can-Deliver-Clean-Power-Faster.pdf
+- The Guardian: https://www.theguardian.com/world/2026/nov/11/ai-datacentres-plan-on-site-gas-fired-power-stations
+
+
+
+
 ## Slutsats
 
 Europa bygger AI-infrastruktur på flera fronter samtidigt. På vissa platser finns redan tillstånd, äldre nätavtal och stora kunder. På andra finns finansieringspaket, reserverade nätvolymer, planerade superdatorer eller politiska ambitioner som fortfarande väntar på upphandling, miljöprövning och effekt.
 
-Det finns ingen enda europeisk modell. Amsterdam visar hur äldre rättigheter kan forma dagens nätdebatt. Norge visar att tillgång till el och tillgång till nät inte är samma sak. Finland visar att miljöprövning kan stoppa betydande markarbeten utan att projektet därmed är avbrutet. Skottland visar hur offentlig kreditrisk kan hjälpa privat finansiering. Sofia visar hur en EU-superdatorupphandling skiljer sig från en separat gigafabriksvision. Skellefteå visar hur en industriell fastighet kan marknadsföras som framtida AI-campus långt innan kapaciteten är byggd.
+Det finns ingen enda europeisk modell. Amsterdam visar hur äldre rättigheter kan forma dagens nätdebatt. Norge visar att tillgång till el och tillgång till nät inte är samma sak. Finland visar att miljöprövning kan stoppa betydande markarbeten utan att projektet därmed är avbrutet. Skottland visar hur offentlig kreditrisk kan hjälpa privat finansiering. Sofia visar hur en EU-superdatorupphandling skiljer sig från en separat gigafabriksvision. Skellefteå visar hur en industriell fastighet kan marknadsföras som framtida AI-campus långt innan kapaciteten är byggd. Uniper visar hur energibolag kan bli plats- och nätaktörer, medan EBRD:s regionala analys visar att elnätskapacitet och kompetens är ojämnt fördelade. OVHcloud visar samtidigt att europeiska leverantörer kan bygga AI-tjänster på redan existerande kapacitet. EU-kommissionens och Nederländernas molnupphandlingar visar att operativ kontroll och exit-rättigheter börjar skrivas in i avtalen, men kommissionens egen marknadsbild visar att detta ännu inte har brutit de stora leverantörernas dominans. ECB:s nya analys visar växande men metodologiskt svårmätta kreditexponeringar. BNEF:s och IEA:s globala underlag visar dessutom varför reservkraft, elmix och utsläpp måste följas separat från nätanslutning och faktisk drift.
 
 FOLKTRIBUNALENS slutsats är att Europas AI-kapplöpning inte kan mätas i annonserade gigawatt eller miljardbelopp ensamma. Den måste mätas i faktisk levererad beräkningskapacitet, verifierad elförsörjning, fungerande tillstånd, transparent finansiering och den nytta som kan visas för de samhällen som står för marken, infrastrukturen och en del av risken.
 
@@ -281,18 +455,9 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 ---
 
+---
 
-## Bildförslag – redaktionellt underlag
-
-1. **Huvudbild:** dokumentärbild av en datacenterhall med högspänningsställverk eller transformatorstation i förgrunden. Bildtext: *Serverhallen är bara en del av infrastrukturen – elanslutningen avgör om kapaciteten kan levereras.*
-2. **Amsterdam:** översiktsbild av Plimsollweg-området och hamnens elinfrastruktur. Undvik att använda en bild från en annan Microsoft-anläggning som om den föreställde just denna plats.
-3. **Sofia:** Sofia Tech Park eller Discoverer-superdatorns faktiska installation. Märk tydligt om bilden visar Discoverer och inte den ännu ej bekräftade slutliga Discoverer++-leveransen.
-4. **Skellefteå:** flygbild av det tidigare Northvolt-området, med tydlig bildtext att 1 GW är en utvecklaruppgift om möjlig framtida campuskapacitet.
-5. **Norge:** Statnetts transmissionsnät eller Kvandal-området. Kontrollera plats och bildrättigheter innan publicering.
-
-Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens eller uttryckligen licensierat bildmaterial. Bildförslag är inte ett påstående om att en viss anläggning redan är färdig.
-
-## Faktaruta: Europas projekt och kapacitet
+## Faktaruta: Europas projekt, kapacitet och nya villkor
 
 | Projekt / plats | Offentliggjord siffra | Vad siffran betyder | Status enligt kontrollerat underlag |
 |---|---:|---|---|
@@ -302,9 +467,15 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 | Norge | 9 100 MW | Kapacitet i anslutningskö | Kö, inte beviljad anslutning |
 | Norge | 18 000 MW | Ytterligare anslutningsförfrågningar | Förfrågningar, inte projekt i drift |
 | DataVita / Lanarkshire | 500 MW | Planerad datacenterutveckling enligt oberoende rapportering | Planerad; fullt nätförsörjd enligt bolagets uppdaterade FAQ |
+| Skottland / EIA-regel | Över 50 MW | EIA krävs för nya datacenteransökningar över tröskeln | Skotsk riktlinje i kraft sedan 17 september 2026 |
 | BRAIN++ / Sofia | 90 miljoner euro | Övergripande projektbudget enligt Sofia Tech Park/INSAIT | AI-fabriksprojekt |
 | Discoverer++ / Sofia | 54,23 miljoner euro | Uppskattat upphandlingsvärde för superdatorsystemet | Upphandlingen stängd; tilldelning behöver kontrolleras |
 | EdgeConneX / Skellefteå | Upp till 1 GW | Potentiell framtida campuskapacitet enligt utvecklaren | Plan/utveckling; inte installerad eller ansluten effekt |
+| Sverige / EuroHPC | Upp till 50 miljoner euro | Riksdagens bemyndigande till statliga åtaganden för beräkningskraft under fem år | Offentligt åtagande till gemensam upphandling; inte byggbudget eller garanti för en svensk anläggning |
+| Uniper / flera europeiska platser | Cirka 700 MW | Bolagets uppgift om säkrad nätkapacitet för datacenterprojekt i avancerad utvecklingsfas | Bolagsuppgift; inte driftsatt effekt eller bekräftade kundavtal |
+| Spanien / Real Decreto 1032/2026 | Minst 10 MW anslutningseffekt (aggregeras per plats/ägare); 500 kW IT för rapportering; 80 % + 80 % | Additionalitet och timkorrelation; PUE ≤1,25/WUE ≤0,1 generellt övergångsvärde; separat EU-projektregim | BOE-A-2026-24439 publicerad 21 november; i kraft 22 november 2026 |
+| EU-kommissionens suveräna molnupphandling | Upp till 180 miljoner euro över sex år | Ram för avrop av molntjänster från fyra leverantörsgrupper; inte byggbudget | Tilldelad 17 april 2026; faktisk avropsvolym återstår |
+| Swiss Government Cloud | Upp till 7 miljarder CHF över 14 år | Maximalt upphandlingsvärde för tre molnnivåer; kostnader vid faktisk användning | Upphandling öppnad 20 oktober 2026; tilldelning ännu inte beslutad |
 
 **Viktig måttregel:** siffrorna ovan avser olika saker. De ska inte summeras till en totalsiffra för Europas byggda eller driftsatta AI-kapacitet.
 
@@ -333,57 +504,155 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 7. **Finlands Lupa- ja valvontavirasto – Tuike Finland och förberedelsearbeten i Muhos och Kajaani**, 6 oktober 2026:  
    https://lvv.fi/-/lupa-ja-valvontavirasto-kehottaa-tuike-finland-oy-ta-keskeyttamaan-muhoksen-ja-kajaanin-datakeskushankkeiden-valmistelutoimet
 
-8. **UK Government – Lanarkshire AI Growth Zone secures £300 million investment**, 18 augusti 2026:  
+8. **LVV – Lupa- ja valvontavirasto vaatii Tuike Finland Oy:ltä toimenpiteitä**, 22 oktober 2026. Myndighetens egen redogörelse för vattenhanteringsplan, cirka nio kilometer planerade diken, svartskiffer, vattenlagstillstånd och polisens utredningsbegäran:  
+   https://www.sttinfo.fi/tiedote/72435808/lupa-ja-valvontavirasto-vaatii-tuike-finland-oylta-toimenpiteita
+
+9. **UK Government – Lanarkshire AI Growth Zone secures £300 million investment**, 18 augusti 2026:  
    https://www.gov.uk/government/news/lanarkshire-ai-growth-zone-secures-300-million-investment-as-dell-establishes-scottish-base
 
-9. **National Wealth Fund – DataVita secures £300m financing package**, 2026:  
+10. **National Wealth Fund – DataVita secures £300m financing package**, 2026:  
    https://www.nationalwealthfund.org.uk/news/datavita-secures-300m-financing-package-to-accelerate-ai-growth-zone-in-scotland
 
-10. **DataVita – Lanarkshire AI Growth Zone FAQs**, uppdaterad november 2026:  
+11. **DataVita – Lanarkshire AI Growth Zone FAQs**, uppdaterad november 2026:  
     https://www.datavita.co.uk/lanarkshire-ai-growth-zone/faqs
 
-11. **EuroHPC JU – BRAIN++ Bulgaria:**  
+12. **EuroHPC JU – BRAIN++ Bulgaria:**  
     https://www.eurohpc-ju.europa.eu/ai-factories/bulgaria_en
 
-12. **EuroHPC JU – Discoverer++ procurement**, upphandling EuroHPC/2025/OP/0005:  
+13. **EuroHPC JU – Discoverer++ procurement**, upphandling EuroHPC/2025/OP/0005:  
     https://www.eurohpc-ju.europa.eu/acquisition-delivery-installation-and-maintenance-hardware-and-software-discoverer-ai-optimised_en
 
-13. **Sofia Tech Park och INSAIT – BRAIN++ och projektbudget på 90 miljoner euro:**  
+14. **Sofia Tech Park och INSAIT – BRAIN++ och projektbudget på 90 miljoner euro:**  
     https://sofiatech.bg/en/news/sofia-tech-park-and-insait-are-selected-for-e90-million-eu-project-bulgaria-will-be-home-to-one-of-six-new-eu-ai-factories/
 
-14. **EdgeConneX – planerat campus i Skellefteå**, 27 februari 2026:  
+15. **EdgeConneX – planerat campus i Skellefteå**, 27 februari 2026:  
     https://www.edgeconnex.com/news/press-releases/edgeconnex-looks-to-enter-swedish-market-as-part-of-european-data-center-expansion-strategy/
 
-15. **Lyten – Lyten Sweden Operations**, aktuell bolagsstatus:  
+16. **Lyten – Lyten Sweden Operations**, aktuell bolagsstatus:  
     https://lyten.com/operations/lyten-sweden/
 
-16. **Skellefteå kommun – frågor och svar om Bergsbyns industriområde:**  
+17. **Skellefteå kommun – frågor och svar om Bergsbyns industriområde:**  
     https://skelleftea.se/extraordinara-handelser/bergsbyns-industriomrade/utvecklingen-pa-bergsbyns-industriomrade-i-skelleftea/fragor-och-svar
 
-17. **Bull – Bull and Schwarz Digits: a Franco-German alliance for Europe’s digital sovereignty**, 3 november 2026:  
+18. **Bull – Bull and Schwarz Digits: a Franco-German alliance for Europe’s digital sovereignty**, 3 november 2026:  
     https://www.bull.com/en/press-releases/pr-bull-and-schwarz-digits-a-franco-german-alliance-for-europes-digital-sovereign
 
 
-18. **Statnett – tillfälliga åtgärder för datacenteranslutningar**, 9 november 2026:
+19. **Statnett – tillfälliga åtgärder för datacenteranslutningar**, 9 november 2026:
     https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/
 
-19. **Statnett – skriftlig redogörelse till RME om NO3**, daterad 11 november och publicerad 12 november 2026:
+20. **Statnett – skriftlig redogörelse till RME om NO3**, daterad 11 november och publicerad 12 november 2026:
     https://www.statnett.no/globalassets/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/skriftlig-redegjorelse-til-rme---oppfolging-og-anmodning-om-a-lukke-avvik.pdf
 
-20. **Statnett – utredning av åtgärder för ökad förbrukning i NO3**, november 2026:
+21. **Statnett – utredning av åtgärder för ökad förbrukning i NO3**, november 2026:
     https://www.statnett.no/globalassets/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/utredning-av-tiltak-for-okt-forbruk-i-no3.pdf
 
-21. **Menon Economics – ekonomiska sidor av datacenterbranschen i Norge**, beställd av Digitaliserings- og forvaltningsdepartementet, 29 oktober 2026:
+22. **Menon Economics – ekonomiska sidor av datacenterbranschen i Norge**, beställd av Digitaliserings- og forvaltningsdepartementet, 29 oktober 2026:
     https://www.regjeringen.no/no/aktuelt/ny-rapport-okonomiske-sider-ved-datasentersenternaringen/id3186921/
 
-22. **Europeiska kommissionen, DG Energy – gemensamt märkningssystem och konsultation om minimistandarder för datacenter**, 21 september 2026:
+23. **Europeiska kommissionen, DG Energy – gemensamt märkningssystem och konsultation om minimistandarder för datacenter**, 21 september 2026:
     https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en
 
-23. **SEC – Nscale plc, Amendment No. 1 to Form S-1**, inlämnad 12 november 2026:
+24. **SEC – Nscale plc, Amendment No. 1 to Form S-1**, inlämnad 12 november 2026:
     https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm
+25. **Polisen i Finland – förundersökning om Tuike Finlands förberedelsearbeten i Muhos**, 29 oktober 2026:
+    https://poliisi.fi/-/poliisi-on-aloittanut-rikostutkinnan-tuike-finland-oy-n-muhoksen-datakeskushankkeen-valmisteleviin-toihin-liittyen
+
+26. **EuroHPC JU – aktuell upphandlingssida för AI Gigafactories**, direktkontrollerad 22 november 2026: status Open, äldre utkast och anbud ogiltiga för den aktuella processen och nya inlämningslänkar tillgängliga för båda lotten:
+    https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+27. **Skellefteå kommun – kungörelse om bygglov för DC01 och DC02, Ackumulatorn 3, dnr 2026-3140**, 28 september 2026:
+    https://skelleftea.se/download/18.37dfe2e81a0adc9019bf50f/1790595282269/2026-09-28_SAM-2026-3140_96_Kung%C3%B6relse.pdf
+
+
+28. **Uniper – Capital Markets Day Presentation, November 2026**, särskilt s. 13 och 59: bolagets uppgift om cirka 700 MW säkrad nätkapacitet för datacenterprojekt i avancerad utveckling och kartan över identifierade projektområden.  
+    https://www.uniper.energy/system/files/2026-11/Uniper_Capital%20Markets%20Day%20Presentation_November_2026.pdf
+29. **EBRD – Transition Report 2026–27, kapitelöversikt, särskilt kapitel 3 “Building the AI economy”**, global elförbrukning för datacenter och fördelningen av förväntad kapacitetsökning.  
+    https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27/chapters.html
+
+30. **EBRD – Transition Report 2026–27**, officiell publikationssida, publicerad 17 november 2026. Används för rapportens datum, omfattning och redaktionella inramning; kapitelöversikten anges separat ovan.  
+    https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/transition-report-2026-27.html
+31. **Telia – AI Gigafactory Northern**, partnernas pressmeddelande 16 november 2026 om konsortiets bildande, avsikt att lämna anbud och planerade nordisk-baltiska platser. Detta är konsortiets egen beskrivning, inte ett tilldelningsbeslut.  
+    https://press.telia.se/news/telia-och-europeiska-teknikledare-bildar-ai-gigafactory-northern-med-sikte-paa-en-ny-saeker-ai-infrastruktur-515055
+32. **NVE – NVE gir Nscale varsel om tvangsmulkt**, 29 september 2026, myndighetens föreläggande om spillvärmeanalys och varning om möjlig tvangsmulkt.  
+    https://www.nve.no/nytt-fra-nve/nyheter-energi/nve-gir-nscale-varsel-om-tvangsmulkt/
+
+
+33. **Sveriges riksdag – Betänkande 2026/27:FiU12, bemyndigande om ekonomiska åtaganden för beräkningskraft**, beslut 21 oktober 2026. Bemyndigande upp till 50 miljoner euro under fem år:
+   https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/andring-i-statens-budget-for-2026-bemyndigande_he01fiu12/
+
+34. **Regeringskansliet – Nästa steg i satsningen på europeiska AI-gigafabriker**, 22 oktober 2026. Sverige stödjer en nod i Sverige knuten till en AI-gigafabrik i Finland genom köp av beräkningskraft:
+   https://www.regeringen.se/pressmeddelanden/2026/10/nasta-steg-i-satsningen-pa-europeiska-ai-gigafabriker/
+
+35. **Nokia – European technology leaders form AI Gigafactory Northern consortium**, 16 november 2026. Namnger Iru i Estland och de fem grundande partnerna:
+   https://www.nokia.com/newsroom/european-technology-leaders-form-ai-gigafactory-northern-consortium-to-build-trusted-sustainable-ai-infrastructure/
+
+
+
+36. **IEA – World Energy Outlook 2026**, publicerad 19 november 2026. Se kapitel 1, särskilt s. 83–86, om datacenterkapacitet, nätbegränsningar, fossil elförsörjning, utsläpp och regionala skillnader:  
+    https://www.iea.org/reports/world-energy-outlook-2026
+
+37. **Europeiska centralbanken – Financial Stability Review, November 2026**, särskilt avsnitt 3.3 och not 51–53. Bankernas direkta åtaganden till 165 viktiga företag i AI-försörjningskedjan var 24,3 miljarder euro vid juni 2026; det bredare sektorsmåttet på cirka 75 miljarder euro omfattar även företag som inte nödvändigtvis ingår i AI-försörjningskedjan:  
+    https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202611~e03b919d36.en.pdf
+
+38. **OVHcloud – OVH takes the AI turn at full speed**, 19 november 2026. Bolagets uppgifter om 55 nya produkter och kapacitet för upp till 60 000 B300- eller 35 000 R200-GPU:er:  
+    https://corporate.ovhcloud.com/en/newsroom/news/ovh-ai-turn-55-products/
+39. **Spaniens Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO) – godkännande av datacenterdekretet**, 20 november 2026. Ministeriets redogörelse för tröskeln över 10 MW, 80 procents timvis förnybar el, additionalitet, vatten- och energieffektivitet, rapportering, kompensationer och digital suveränitet:  
+    https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/noviembre/el-gobierno-aprueba-el-real-decreto-para-la-sostenibilidad-energ.html
+
+40. **La Moncloa – ministerrådets referens 20 november 2026**, avsnitten om datacenterdekretet och den bindande elnätsplanen till 2030. Används för ministerrådets godkännande, suveränitetskravens avgränsning och planens nationella nätinvesteringar:  
+    https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20261120-referencia-rueda-de-consejo-ministros-ext.aspx
+
+41. **BOE – Real Decreto-ley 7/2026**, 20 mars 2026, särskilt tilläggsbestämmelse 1. Den anger den rättsliga grunden för ett kommande kungligt dekret och att kraven ska gälla för datacenter som ansluts efter att det utvecklande dekretet trätt i kraft:  
+    https://www.boe.es/eli/es/rdl/2026/03/20/7/con
+
+42. **BOE – Real Decreto 1032/2026, de 20 de noviembre**, publicerad 21 november 2026 som BOE-A-2026-24439; fullständig rättsakt om datacenters nätåtkomst, förnybar additionalitet, timvis korrelation, effektivitet, digital suveränitet och övergångsregler. Trädde i kraft 22 november 2026:  
+    https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439
+
+43. **Scottish Government – Data centres: Chief Planner letter and EIA Direction**, 16 september 2026. Riktlinjen kräver EIA för nya datacenter med föreslagen effekt över 50 MW och trädde i kraft 17 september 2026:  
+    https://www.gov.scot/publications/chief-planner-letter-eia-direction-on-data-centres/
+
+44. **EuroHPC JU / Europeiska kommissionen – Tender Specifications v2, ref. Ares(2026)9990852**, daterad 23 oktober 2026. Den officiella upphandlingsspecifikationen anger MLPerf Training v5.1 och Inference v5.1 i benchmarkramen. Detta dokument fastställer benchmarkversionerna men inte i sig den separata portaländring 10 november som rapporterats av 2EU:  
+    https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/docs/bc712395-692d-41ab-aa25-8e254ae86eb2-CN/CfT%20AIGF%20-%20Tender%20Specifications%20v2_V1.pdf
+
+45. **EuroHPC Joint Undertaking – aktuell utlysningssida för AI Gigafactories**, uppdaterad 25 november 2026 och kontrollerad 28 november. Den anger status Open, Lot 2-frist 30 december 2026 kl. 17.00 och Lot 1-frist 4 februari 2027 kl. 17.00, samt att gamla utkast/inlämningar måste återskapas via nya länkar. Sista dag för frågor om Lot 2 är 9 december. Denna uppdaterade sida är aktuell för tidsfristerna; Tender Specifications v2 visar den ursprungliga tidsplanen:
+  
+    https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+46. **Europeiska kommissionen – Commission advances cloud sovereignty through strategic procurement**, 17 april 2026. Tilldelning av upp till 180 miljoner euro över sex år, de fyra leverantörsgrupperna och Cloud Sovereignty Framework:  
+    https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_en
+
+47. **Europeiska kommissionen – Sovereign Cloud Framework explained**, 1 juni 2026. Förklarar SEAL-nivåerna, däribland skillnaden mellan SEAL-3 och full EU-leveranskedja på SEAL-4:  
+    https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en
+
+48. **Nederländernas regering – Rijksoverheid sluit deal met Europees cloudplatform STACKIT**, 23 april 2026. Ramavtal, EES-lagring, revisionsrätt, exitvillkor och frånvaro av obligatorisk minimiavropning:  
+    https://www.rijksoverheid.nl/actueel/nieuws/2026/04/23/rijksoverheid-sluit-deal-met-europees-cloudplatform-stackit
+
+49. **Schweiziska förbundsrådet – Swiss Government Cloud: tender procedure launched**, 20 oktober 2026. Tre molnnivåer, upphandlingens maximala volym och principen att kostnader uppstår vid faktisk användning:  
+    https://www.admin.ch/en/newnsb/vL4DxR3WIhey
+
+50. **EUR-Lex – Proposal for a Cloud and AI Development Act, COM(2026) 502**, 3 juni 2026. Kommissionens marknadsbeskrivning: EU-leverantörernas andel 29 procent 2017 och 15 procent 2022 samt över 70 procents samlad andel för tre leverantörer utanför EU:  
+    https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0502
+
+51. **Europeiska unionens råd – Grids package: Council and Parliament agree to streamline permitting for a faster clean energy transition**, pressmeddelande 939/26, 18 november 2026. Preliminär överenskommelse, omfattade tillståndsområden, villkor för formellt antagande och 18 månaders införlivandefrist:  
+    https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/pdf/
+
+52. **Terna – 9M 2026 Consolidated Results Presentation**, 12 november 2026, sida 3. Terna anger cirka 108 GW anslutningsförfrågningar för datacenter per september 2026 och cirka 2 GW *ready to build*:  
+    https://download.terna.it/terna/Terna_9M_2026_Consolidated_Results_Presentation_8df40c85fce1506.pdf
+
+53. **Terna – Econnextion**, officiell beskrivning av den månatligt uppdaterade anslutningsdashboarden och dess databegränsningar. Uppgifterna bygger på information som sökande lämnar; Terna garanterar inte fullständighet eller riktighet:  
+    https://dati.terna.it/connessioni/econnextion
+
+
+54. **Corilis Digital Infrastructure – Interim Report to 30 September 2026**, publicerad 24 november 2026. Emittentens delårsrapport för CRA/Prague Gateway: 50 MW säkrad nätkraft, redundanskonfigurationer, investeringsram, byggtidplan och avsiktsförklaringar. Uppgifterna är bolagets rapportering och inte oberoende verifierade driftsdata:  
+    https://www.lse.co.uk/rns/CORD/interim-report-to-30-september-2026-n2ichdjf7nq7fd7.html
+
+
+
+55. **Greenpeace Belgium – La Région wallonne suspend la construction du data center de Google à la suite d’une enquête de Greenpeace**, 27 november 2026. Partskälla om organisationens brådskande begäran, satellitunderlag och dess återgivning av det rapporterade byggstoppet; används inte som oberoende bevis för tillståndsöverträdelse:  
+    https://www.greenpeace.org/belgium/fr/communique-de-presse/83017/la-region-wallonne-suspend-la-construction-du-data-center-de-google-a-la-suite-dune-enquete-de-greenpeace/
 
 ## Oberoende rapportering och kompletterande källor
-
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
    https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/
 
@@ -396,106 +665,85 @@ Använd i första hand egna bilder, myndighetsbilder med kontrollerad licens ell
 4. **Reuters – Bull and Schwarz Digits partner to build European AI computing services**, 3 november 2026:  
    https://www.reuters.com/business/retail-consumer/schwarz-digits-bull-partner-up-build-european-ai-computing-services-2026-11-03/
 
-5. **Reuters – protester vid datacenter i Amsterdam**, 6 november 2026, kompletterande internationell rapportering:  
-   https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/
 
 
-6. **Le Monde – protests against data centres held across Europe**, 9 november 2026:
+5. **Le Monde – protests against data centres held across Europe**, 9 november 2026:
    https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html
 
-7. **Reuters – Norway reins in data centre industry after Statnett pauses new grid reservations**, 9 november 2026:
+6. **Reuters – Norway reins in data centre industry after Statnett pauses new grid reservations**, 9 november 2026:
    https://www.reuters.com/business/energy/norways-statnett-pauses-new-grid-capacity-data-centres-protect-power-system-2026-11-09/
 
-8. **Reuters – Microsoft pulls out of UK data centre deal with Nscale**, 18 oktober 2026:
+7. **Reuters – Microsoft pulls out of UK data centre deal with Nscale**, 18 oktober 2026:
    https://www.reuters.com/business/media-telecom/microsoft-pulls-out-uk-data-center-deal-with-nscale-telegraph-reports-2026-10-18/
 
-9. **Financial Times – Nscale warns it needs more cash ahead of $35bn IPO**, 13 november 2026 (bakom betalvägg; används för den uttryckligt attribuerade uppgiften om sexmånadersfönstret):
+8. **Financial Times – Nscale warns it needs more cash ahead of $35bn IPO**, 13 november 2026 (bakom betalvägg; används för den uttryckligt attribuerade uppgiften om sexmånadersfönstret):
    https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47
+
+9. **SVT Nyheter Västerbotten – sju planerade datacenterbyggnader i Skellefteå**, 28 september 2026:
+    https://www.svt.se/nyheter/lokalt/vasterbotten/nya-uppgifter-om-datacentret-i-skelleftea-planerar-sju-byggnader
+
+10. **DataCenterSweden – återger Norrans rapport om delstartbesked för grundläggning i Skellefteå**, 9 november 2026:
+    https://www.datacentersweden.se/news/edgeconnex-skelleftea-partial-start-notice-2026-11/
+
+11. **2EU Brussels – EuroHPC kräver återskapade anbud och rapporterar uppdaterade testkrav**, 11 november 2026:
+    https://2eu.brussels/en/news/eurohpc-extends-deadline-for-medium-scale-ai-gigafactories-and-requires-resubmission-for-both-lots
+
+12. **MLCommons – MLPerf i EU:s AI Gigafactories-upphandling**, oktober 2026:
+    https://mlcommons.org/2026/10/open-submissions-endpoints-v1-0/
+
+
+13. **Financial Times – Uniper in talks to develop data centres at 10 sites across Europe**, 16 november 2026. Uppgiften om ett första nära förestående avtal och två ytterligare avancerade samtal tillskrivs tidningens rapportering; det är inte ett publicerat undertecknat avtal.  
+    https://www.ft.com/content/74756c50-cedb-4ff9-9cad-43abd5b0646d
+14. **Reuters – EBRD varnar för att utvecklingsekonomier kan missa AI- och försvarsboomen**, 17 november 2026. Återger rapportens bedömning om elnätskapacitet i nästan hälften av EBRD:s verksamhetsländer.  
+    https://www.reuters.com/business/finance/developing-economies-risk-missing-out-defence-ai-boom-ebrd-warns-2026-11-17/
+15. **E24 – Nscale-prosjekt slipper strømfrys**, 17 november 2026. Dokumentbaserad rapportering om åtta projekt som får fortsätta genom tekniska steg, däribland Nscale Narvik med 115 MW av ursprungligen 230 MW.  
+    https://e24.no/naeringsliv/i/0vE68o/nscale-prosjekt-slipper-stroemfrys
+16. **NTB, återgiven av Radio Haugaland – Dataselskap klager på NVE-pålegg**, 9 november 2026. Återger Nscales invändning och NVEs uppgift att den slutliga analysen mottagits och ska behandlas tillsammans med klagomålet.  
+    https://radio.haugaland.no/dataselskap-klager-pa-nve-palegg/
+
+
+17. **Kaleva – Google sai lisäaikaa Muhoksen vesienhallintaselvityksen toimittamiseen**, 5 november 2026. Rapporterar att LVV beviljade Tuike Finland mer tid för vattenhanteringsplanen; den nya tidsfristen anges inte.  
+    https://www.kaleva.fi/google-sai-lisaaikaa-muhoksen-vesienhallintaselvit/13742874
 
 ---
 
-## Faktastatus
+18. **DataCenterSweden – Telia, Nokia and three partners form AI Gigafactory Northern consortium with Swedish site not yet chosen**, 17 november 2026. Skiljer konsortiets ännu ej valda svenska plats från Sveriges offentliga åtagande om en nod kopplad till en AI-gigafabrik i Finland:
+   https://datacentersweden.se/news/telia-ai-gigafactory-northern-consortium-2026-11/
 
-- **BEKRÄFTAT I EU- OCH ACER-DOKUMENT:** EU:s kapacitetsambition, elnätsinvesteringar, projektförseningar och kostnader för nätträngsel.
-- **BEKRÄFTAT I NEDERLÄNDSKA PARLAMENTSHANDLINGAR:** Amsterdamprojektets tre torn, 99 MW anslutning, areatröskeln i hyperscale-definitionen, Microsofts reserverade kapacitet och regeringens beräkning på 0,87 TWh vid kontinuerlig full belastning.
-- **BEKRÄFTAT I NORSKA REGERINGSHANDLINGAR:** 800 MW anslutet, 4 200 MW reserverat, 9 100 MW i kö och 18 000 MW i ytterligare förfrågningar. Dessa är separata statuskategorier.
-- **BEKRÄFTAT I NORSKA REGERINGSHANDLINGAR:** regeringen aviserade den 10 november en framtida licensordning. Huvudprinciperna väntas hösten 2027; detta är ännu inte gällande lag.
-- **BEKRÄFTAT AV LVV:** myndigheten uppmanade Tuike Finland att avbryta betydande miljöpåverkande förberedelsearbeten i Muhos och Kajaani tills miljökonsekvensbedömningarna är färdiga. Det är inte ett beslut om att projekten är avbrutna.
-- **OBEROENDE RAPPORTERING:** Yle rapporterade den 29 oktober om en preliminär polisundersökning i Muhos. Misstanke är inte fastställd skuld.
-- **BEKRÄFTAT I UK GOVERNMENT OCH NWF-UNDERLAG:** Lanarkshire-paketet omfattar en garanti på 202 miljoner pund som hjälper till att låsa upp ett finansieringspaket på omkring 300 miljoner pund. Det är inte ett direkt kontantbidrag på 202 miljoner pund.
-- **PARTSUPPGIFT:** DataVitas aktuella FAQ säger att datacentren är fullt nätförsörjda och att framtida direktförsörjning från närliggande förnybar produktion kan bli aktuell genom en separat ansökan.
-- **BEKRÄFTAT I EUROHPC-DOKUMENT:** Discoverer++-upphandlingen hade uppskattat värde 54 228 600 euro och sista anbudsdag 16 oktober 2026. EuroHPC-sidan anger stängd status och planerad installation före årsskiftet 2026.
-- **INTE FASTSTÄLLT I KONTROLLERAT MATERIAL:** slutlig Discoverer++-leverantör, undertecknat kontrakt, slutligt kontraktsvärde eller faktisk installation.
-- **PARTSUPPGIFT:** EdgeConneX har beskrivit upp till en gigawatt som potentiell campuskapacitet i Skellefteå. Det är inte installerad eller nätansluten effekt.
-- **PARTSUPPGIFT:** Lyten uppger att arbete med fas 1 har inletts, men har inte definierat exakt vilken fysisk eller administrativ fas arbetet avser.
-- **BEKRÄFTAT I BOLAGSKOMMUNIKATION:** Bull och Schwarz Digits ingick ett MoU den 3 november. Finansiella villkor, MW-tal och kundbeställningar har inte offentliggjorts.
+19. **Reuters – France's OVHcloud launches AI cloud products hosted in Europe**, 19 november 2026. Återger bolagets uppgift om 110 MW ledig kapacitet samt partnerskapen med Shadow, Qwant och EUSP:  
+    https://www.reuters.com/business/ovhcloud-launches-ai-cloud-products-hosted-europe-2026-11-19/
 
-- **BEKRÄFTAT I SEC-HANDLING, MEN BOLAGSUPPGIFT:** Nscale:s S-1/A den 12 november redovisar ett avslutat Microsoft-SOW på 3,22 miljarder USD efter att Loughtons nätanslutningsdatum och effektallokering drogs tillbaka. Bolaget säger att övriga Microsoft-SOW inte påverkades.
+20. **Reuters – Schneider Electric warns high power costs could push AI investment out of Europe**, 19 november 2026. Återger en branschföreträdares bedömning om elpriser, nätinvesteringar och reglering; använd som parts-/branschperspektiv, inte som självständig prognos:  
+    https://www.reuters.com/business/energy/schneider-electric-warns-high-power-costs-could-push-ai-investment-out-europe-2026-11-19/
 
-- **PRELIMINÄR BOLAGSREDOVISNING, EJ REVIDERAD:** Nscale:s S-1/A anger för nio månader till 30 september 2026 omsättning 307,5 miljoner USD, rörelseförlust 837,5 miljoner och nettoförlust 1,6919 miljarder; uppskattad kassa 3,5759 miljarder och total skuld 5,5163 miljarder. KPMG hade inte granskat eller reviderat dessa preliminära uppgifter vid prospektdatumet.
-- **BOLAGETS TCV-MÅTT:** Nscale anger 6,4 miljarder USD aktiv TCV och 105,8 miljarder USD aktiv plus kontrakterad TCV, med cirka 461 000 GPU:er aktiva eller kontrakterade. TCV är inte samma sak som redovisad omsättning, kontanter eller levererad kapacitet.
-- **OBEROENDE RAPPORTERING:** Financial Times rapporterar ett sexmånadersfönster för att säkra finansiering till Monarch. SEC-handlingen bekräftar att bindande finansieringsåtaganden saknades men anger endast en ospecificerad avtalsperiod; tidsfristen sex månader tillskrivs därför FT.
-- **NVIDIA-FINANSIERING:** SEC-handlingen redovisar NVIDIA som part/investerare i osäkrade konvertibla finansieringsinstrument. Detta är inte belägg för att NVIDIA-aktier har pantsatts; huvudspår 6 kräver separat dokumentation av eventuell aktiepant.
+21. **Reuters – Spain's burgeoning data centres become election issue with new rules**, 20 november 2026. Oberoende rapportering om oppositionspartiets återkallelsehot, branschens invändningar och utvecklarnas syn på investeringsvillkoren:  
+    https://www.reuters.com/business/environment/spain-sets-green-standards-data-centres-despite-industry-criticism-2026-11-20/
 
-- **BOLAGSUPPGIFT / PROGNOS:** Nscale uppskattar Kvandal i Norge till 2–3 miljarder USD i datacenter- och kraftinvesteringar samt 7–8 miljarder USD i GPU/compute-utrustning. Upparbetade kostnader per 30 september är bolagets redovisning, inte en oberoende teknisk kontroll.
-- **BEKRÄFTAT I SEC-HANDLING:** Nscale uppger att Anthropic-avtalen kan ge upp till 44,6 miljarder USD i betalningar, men att nödvändiga finansieringar inte hade bindande åtaganden vid prospektdatumet. Monarch ligger i West Virginia och räknas inte som europeisk kapacitet.
-- **OBEROENDE RAPPORTERING / ARRANGÖRSUPPGIFT:** Le Monde rapporterade protester i omkring 15 länder; uppgiften om 90 evenemang kommer från arrangörskoalitionen och är inte myndighetsverifierad.
-- **FÖRSLAG / PÅGÅENDE PROCESS:** EU-kommissionens datacenter-rating och konsultation om minimistandarder från 21 september 2026 är inte samma sak som redan gällande minimikrav.
-- **STATNETT-UPPGIFT:** NO3:s 2 800 MW mogna projekt och 3 800 MW omogna förfrågningar gäller all ny förbrukning, inte enbart datacenter. Statnetts begäran till RME om att stänga avvikelsepunkter är inte ett RME-beslut.
+22. **El País – El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica a una semana de las elecciones**, 20 november 2026. Kompletterande rapportering om den politiska processen och invändningarna under beredningen:  
+    https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html
 
+23. **Le Monde – Opposition to data centers grows worldwide, from India to Chile, via Ireland and Japan**, 21 november 2026. Rapportering om protesten i Edinburgh den 14 november och motstånd mot planerade datacenter i flera länder. Används för protest- och samhällskontext, inte som primärkälla för skotska tillstånd:  
+    https://www.lemonde.fr/en/international/article/2026/11/21/opposition-to-data-centers-grows-worldwide-from-india-to-chile-via-ireland-and-japan_6786331_4.html
 
-## Ny kontrollpunkt – datacenterkraftens fossila reservväg
+24. **Reuters – Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant**, 23 november 2026. Rapportering om offentlig upphandling, operativ kontroll, leverantörsinlåsning och långsamma migrationsprocesser:  
+    https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/
 
-BloombergNEF publicerade den 11 november 2026 rapporten *Powering the Data Center Boom: How Grid Policy Can Deliver Clean Power Faster*, beställd av Bloomberg Philanthropies. Databasen har brytdatum 5 oktober 2026.
+25. **Reuters – EU reaches provisional deal to speed permits for renewable energy projects**, 18 november 2026. Oberoende rapportering om överenskommelsens preliminära status och att formellt godkännande återstår:  
+    https://www.reuters.com/business/energy/eu-reaches-provisional-deal-speed-permits-renewable-energy-projects-2026-11-18/
 
-BNEF har identifierat 181 GW annonserad gaseldad kapacitet föreslagen i anslutning till datacenter globalt. 165 GW ligger i USA; rapporten beskriver mindre koncentrationer bland annat i Kanada, Storbritannien och Irland. Omkring 84 GW i tidsfördelningen saknar angivet driftsättningsår. Detta är en annonserad projektpipeline med mycket varierande mognad – inte installerad effekt, inte ett tillståndsregister och inte en prognos för vad som faktiskt byggs.
+26. **Reuters, återpublicerad av The Economic Times – Italy data centre connection requests top 100 GW, Terna CEO says**, 14 oktober 2026. Oberoende rapportering om närmare 600 ansökningar, mer än 100 GW och Terna-ledningens varning om skillnaden mellan ansökningar och genomförbara projekt:  
+    https://economictimes.indiatimes.com/tech/technology/italy-data-centre-connection-requests-top-100-gw-terna-ceo-says/articleshow/134942281.cms
 
-BNEF:s utsläppsscenario gäller USA: om alla identifierade amerikanska anläggningar byggs och körs vid en antagen kapacitetsfaktor på 60 procent uppskattas utsläppen till cirka 345 Mt CO2e per år, omkring 152 Mt mer än om motsvarande datacenterkapacitet försörjdes med genomsnittlig amerikansk nätel. Siffran får inte tillskrivas Europa. BNEF bedömer att den lägre marginalkostnaden efter byggstart kan göra att gasanläggningar fortsätter leverera efter att nätanslutning har erhållits; flera utvecklare beskriver gasen som en fem–sjuårig brygga, medan kraftverkens ekonomiska livslängd kan vara betydligt längre.
-
-Rapporten ger också en konkret jämförelse av europeiska nätpolicyer. Frankrike har identifierat sex snabbspårsområden med totalt 4,4 GW nätkapacitet; ett av områdena siktar på 700 MW till 2029. Storbritanniens då föreslagna reform innehåller finansiell säkerhet om £237 500–£712 500 per MW vid accepterat anslutningserbjudande och mognadsmilstolpar. Den brittiska modellen var ett förslag, inte en slutligt gällande regel. BNEF beskriver samtidigt Spaniens hållbarhetsbaserade kapacitetstilldelning och Tysklands mognadsbaserade köprocess.
-
-**OBEROENDE BEKRÄFTELSE:** The Guardian rapporterade 11 november om samma BNEF-underlag och om brittiska platsförslag vid Wapseys Wood och Quest Park. De lokala planerings- och miljöakterna för dessa gasanläggningar har inte hämtats i denna kontroll.
-
-**Redaktionell slutsats:** Den centrala europeiska frågan är inte att 181 GW gas redan byggs, utan vilka av de annonserade projekten som når mark, nät, miljötillstånd, turbiner och finansiering – och om ett utpekat reservkraftverk fortsätter att köras när nätanslutningen väl finns.
-
-**Källor:**
-- BNEF pressmeddelande: https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/
-- BNEF fullrapport: https://assets.bbhub.io/professional/sites/44/BNEF-BP-Powering-the-Data-Center-Boom-How-Grid-Policy-Can-Deliver-Clean-Power-Faster.pdf
-- The Guardian: https://www.theguardian.com/world/2026/nov/11/ai-datacentres-plan-on-site-gas-fired-power-stations
+27. **Quotidiano Energia – Impianti Fer: a settembre 675 MW, richieste data center verso 110 GW**, 15 oktober 2026. Branschrapportering baserad på Terna/Econnextion och septemberuppgiften om närmare 109 GW:  
+    https://www.quotidianoenergia.it/module/news/page/entry/id/537419
 
 
-## Öppna frågor före eventuell publicering
 
-1. Hämta den fullständiga Amsterdamakten, inklusive aktuell överklagandestatus för miljötillstånden, nätavtalets datum och villkor, faktisk effektprofil, vattenvillkor och reservkraft.
-2. Begär ut Statnetts fullständiga kapacitetsunderlag och den planerade norska licensmodellens övergångsregler, kriterier och kostnadsfördelning.
-3. Följ LVV:s och polisens fortsatta handläggning av Tuike Finland-projekten samt om miljöbedömningarna och vattenhanteringsplanerna har godkänts.
-4. Hämta DataVitas fullständiga PPA-villkor, nätanslutningsbeslut och finansieringsavtal. Fastställ också hur många av de 3 400 förväntade arbetstillfällena som avser byggtid respektive permanent drift.
-5. Hämta EuroHPC:s tilldelningsmeddelande, slutligt kontrakt och acceptansplan för Discoverer++.
-6. Begär ut fastighetsöverlåtelser, bygglov, nätanslutningsvillkor och miljöhandlingar för EdgeConneX i Skellefteå. Fastställ vad ”Phase 1 work” faktiskt omfattar.
-7. Begär ut första kommersiella avtal, leveransplan, tekniska specifikationer och eventuella investeringar bakom Bull/Schwarz Digits MoU.
-8. Jämför slutligen annonserad MW-kapacitet med faktisk IT-last och uppmätt elförbrukning när de första anläggningarna når drift.
+31. **Belga, återgiven av Télésambre – Chantier Google : La Wallonie impose l'arrêt du chantier du data center à Aiseau-Presles**, 27 november 2026. Nyhetsbyrårapportering om den muntliga stoppordern den 26 november, regional tjänstemans uppgifter och tillståndens bakgrund:  
+    https://www.telesambre.be/index.php/info/chantier-google-la-wallonie-impose-larret-du-chantier-du-data-center-aiseau-presles/84288
 
-9. Följ Nscale:s Loughton-alternativ och Kvandal-projektets nätanslutning, byggtakt och faktiska kapitalutgifter; skilj bolagets prognoser från externa bekräftelser.
-10. Följ finansieringsvillkoren för Anthropic-avtalen och uppdatera endast när nya bindande finansieringsåtaganden eller avtalsändringar offentliggörs.
-11. Följ Nscale:s preliminära 9M-resultat mot slutligt reviderade siffror, den rapporterade sexmånadersfristen och villkoren för NVIDIA-relaterade konvertibla instrument.
+32. **The Guardian – Google told to halt Belgium datacentre construction over lack of planning permit**, 27 november 2026. Oberoende rapportering om den skriftliga ordern, omkring 300 arbetare, den rapporterade hänskjutningen till åklagare och den planerade prövningen i Conseil d’État; myndighetsanknutna anklagelser hålls åtskilda från rättsligt avgörande:  
+    https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits
 
-
-**Redaktionell status:** Reviderat sammanhållet utkast för huvudspår 2, uppdaterat 13 november 2026 kl. 08:03 EET. Paketet innehåller komplett artikeltext, bildförslag, primärkällor, oberoende rapportering, faktastatus och öppna frågor. Nscale:s bolagsuppgifter skiljs från oberoende bekräftelse och Monarch i USA räknas inte som europeisk kapacitet. Utkastet är inte godkänt, inte mergat och inte publicerat.
-
-
-### 13 november 2026 – EuroHPC:s AI-gigafabrikupphandling är fortfarande öppen
-
-**PRIMÄRKÄLLA – EuroHPC Joint Undertaking, sidan uppdaterad 5 november 2026:** Upphandlingen för AI-gigafabrikskonsortier har ändrade sista inlämningsdagar: Lot 2 den 3 december 2026 och Lot 1 den 4 februari 2027. Upphandlingen är alltså inte stängd efter den tidigare 12-novemberfristen. EuroHPC anger att tidigare inskickade anbud och utkast inte kommer att beaktas efter tekniska problem med inlämningslösningen; sökande måste använda den uppdaterade processen. Inga vinnande konsortier eller slutliga anläggningsplatser är ännu beslutade. Detta är en upphandlingsprocess, inte beviljad finansiering eller byggstart.
-
-**PRIMÄRKÄLLA – Europeiska kommissionen:** Konsultationen om gemensamt märkningssystem och minimiprestandakrav för datacenter är öppen till den 14 december 2026. Kommissionens aviserade lagstiftningsförslag är planerat till andra kvartalet 2027.
-
-**Källor:** EuroHPC, https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en ; Europeiska kommissionen, https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en .
-
-
-### Skellefteå – kommunens aktuella statusbesked, 13 november 2026
-
-**PRIMÄRKÄLLA – Skellefteå kommun:** Kommunens FAQ anger att EdgeConnex förvärvade delar av Bergsbyns industriområde efter konkursen och planerar AI-datacenter på ytor som ingick i Northvolts expansionsplaner. Kommunen beskriver projektet som ett tidigt skede som kommer att ta flera år att utveckla. Kommunen bedömer att dagens diskuterade energibehov redan fanns med i planeringen för batterifabriken och att det därför inte ska ge någon betydande påverkan på elpriserna under normala förhållanden. Det är kommunens bedömning – inte en offentlig nätanslutningsgaranti eller oberoende verifiering av effekt, topplast, vattenbehov eller reservkraft. Ingen slutlig driftsatt kapacitet eller byggstart anges.
-
-**Öppna kontrollpunkter:** begär ut detaljplan, bygglov, nätanslutningsbesked från nätägaren, effektprofil, vatten-/kylsystem, reservkraft och villkor för spillvärme innan projektet beskrivs som säkrat eller färdigfinansierat.
-
-**Källa:** Skellefteå kommun, Frågor och svar om Bergsbyns industriområde, https://skelleftea.se/extraordinara-handelser/bergsbyns-industriomrade/utvecklingen-pa-bergsbyns-industriomrade-i-skelleftea/fragor-och-svar .
+33. **AFP, återgiven av TV5MONDE – Belgique : Google contraint de suspendre un chantier de data center faute de permis**, 27 november 2026. Separat nyhetsbyrårapportering om det regionala stoppet och tillståndstvisten:  
+    https://information.tv5monde.com/economie/belgique-google-contraint-de-suspendre-un-chantier-de-data-center-faute-de-permis-2847243
