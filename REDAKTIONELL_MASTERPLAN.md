@@ -1,3 +1,15 @@
+## Teknisk kontroll – komplettering 28 november 2026, 09:03 EET
+
+- Render workspace-listan bekräftade **My Workspace** (`tea-dbjt81flk1mc73a82rg0`).
+- Statisk tjänst `folktribunalen` (`srv-dblpumgm7kps73bv55e0`) har auto-deploy från `main`; senaste deployment i Render-listan är fortfarande LIVE `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 00:24:32 UTC.
+- Backend `folktribunalen-editorial` (`srv-dblq2r0n74is73cchqh0`) har auto-deploy från `main`; senaste deployment är LIVE `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 21:22:06 UTC.
+- Båda tjänsterna är inte suspenderade och deras service-allowlist visar 0.0.0.0/0. Detta ändrar inte databasens separata nätverksregler.
+- Postgres `folktribunalen-db` (`dpg-dblq2fqfngtc73c0h9gg-a`) är metadata-status `available`, men `ipAllowList=[]`. En read-only `SELECT 1` nekades av Render: externa anslutningar blockeras när IP-allowlistan är tom; Render-hostad MCP har ingen allowlistbar IP. Verktyget föreslår lokal Render MCP eller att en betrodd klient-IP läggs till i Dashboard > Networking. Ingen ändring gjordes.
+- Databasens metadata anger `expiresAt=2026-12-04T21:18:55Z` (23:18:55 Sofia-tid). Detta är 4 december, inte 3 december.
+- Publik öppning av `https://folktribunalen.onrender.com/`, artikelrouten `/#/artikel/europas-ai-infrastruktur` och `https://folktribunalen-editorial.onrender.com/api/health` gav URL-not-accessible i webbläsarkontrollen. Ingen HTTP-status, sidtext, rubrik, ingress eller fulltext kunde verifieras.
+- **Blockerande steg:** (1) tillåt en betrodd lokal klient för Postgres eller anslut via lokal Render MCP; (2) återställ åtkomlig DNS/HTTP för publik frontend och backend; (3) därefter testa adminens autentisering och import av exakt godkänd artikelcommit. Render deploymentstatus LIVE är inte bevis på att routes fungerar.
+- Ingen deploy, merge, databasändring eller frontendändring utfördes. PR #71 och #73 förblir Open/Draft.
+
 ## Senaste arbetskontroll – 28 november 2026, 08:56 EET
 
 ### Aktiv huvudartikel – spår 2: Europas AI-infrastruktur
