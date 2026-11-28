@@ -647,6 +647,11 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 54. **Corilis Digital Infrastructure – Interim Report to 30 September 2026**, publicerad 24 november 2026. Emittentens delårsrapport för CRA/Prague Gateway: 50 MW säkrad nätkraft, redundanskonfigurationer, investeringsram, byggtidplan och avsiktsförklaringar. Uppgifterna är bolagets rapportering och inte oberoende verifierade driftsdata:  
     https://www.lse.co.uk/rns/CORD/interim-report-to-30-september-2026-n2ichdjf7nq7fd7.html
 
+
+
+55. **Greenpeace Belgium – La Région wallonne suspend la construction du data center de Google à la suite d’une enquête de Greenpeace**, 27 november 2026. Partskälla om organisationens brådskande begäran, satellitunderlag och dess återgivning av det rapporterade byggstoppet; används inte som oberoende bevis för tillståndsöverträdelse:  
+    https://www.greenpeace.org/belgium/fr/communique-de-presse/83017/la-region-wallonne-suspend-la-construction-du-data-center-de-google-a-la-suite-dune-enquete-de-greenpeace/
+
 ## Oberoende rapportering och kompletterande källor
 1. **Reuters – protest vid Microsoft/Pure Data Centres i Amsterdam**, 6 november 2026:  
    https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/
@@ -732,9 +737,6 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 27. **Quotidiano Energia – Impianti Fer: a settembre 675 MW, richieste data center verso 110 GW**, 15 oktober 2026. Branschrapportering baserad på Terna/Econnextion och septemberuppgiften om närmare 109 GW:  
     https://www.quotidianoenergia.it/module/news/page/entry/id/537419
 
-
-55. **Greenpeace Belgium – La Région wallonne suspend la construction du data center de Google à la suite d’une enquête de Greenpeace**, 27 november 2026. Partskälla om organisationens brådskande begäran, satellitunderlag och dess återgivning av det rapporterade byggstoppet; används inte som oberoende bevis för tillståndsöverträdelse:  
-    https://www.greenpeace.org/belgium/fr/communique-de-presse/83017/la-region-wallonne-suspend-la-construction-du-data-center-de-google-a-la-suite-dune-enquete-de-greenpeace/
 
 
 28. **Belga, återgiven av Télésambre – Chantier Google : La Wallonie impose l'arrêt du chantier du data center à Aiseau-Presles**, 27 november 2026. Nyhetsbyrårapportering om den muntliga stoppordern den 26 november, regional tjänstemans uppgifter och tillståndens bakgrund:  
