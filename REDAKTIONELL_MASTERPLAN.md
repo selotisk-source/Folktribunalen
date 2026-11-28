@@ -1052,3 +1052,9 @@ Tidigare uppgifter i denna masterplan och äldre daterade dossiernoter om Lot 2 
 - I PR #71 flyttades Greenpeace Belgiums pressmeddelande till primär-/partsuppgiftsdelen; det ligger inte längre under oberoende rapportering. Greenpeace är part i ärendet och används inte som oberoende bevis för tillståndsöverträdelse.
 - PR #71:s nya aktuella head efter denna korrigering är `4a49d4d1ab8e740aeaa76e7fb0d08dd07c43eec8`. Ingen versionsbunden chefredaktörsbekräftelse finns för denna head.
 - PR #71 och PR #73 förblir Open/Draft. Inga review submissions/threads på PR #71. Ingen merge, deploy, DB-ändring, frontendändring eller publicering.
+
+
+### Slutlig versionskontroll – 28 november 2026
+- Efter dossierns källklassificeringsnotering är PR #71:s aktuella head `c493f86a04392440797bd8ec24c43cdf5ca3e65d` (51 commits, två ändrade filer). Senaste artikeltextcommit är `4a49d4d1ab8e740aeaa76e7fb0d08dd07c43eec8`; efterföljande commit uppdaterade dossiern.
+- PR #71 är Open/Draft, inga review submissions eller review threads. Det finns inget separat godkännande av denna head.
+- Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering.
