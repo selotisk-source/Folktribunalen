@@ -739,11 +739,11 @@ Den avgörande frågan är inte bara hur mycket AI Europa kan bygga. Det är om 
 
 
 
-28. **Belga, återgiven av Télésambre – Chantier Google : La Wallonie impose l'arrêt du chantier du data center à Aiseau-Presles**, 27 november 2026. Nyhetsbyrårapportering om den muntliga stoppordern den 26 november, regional tjänstemans uppgifter och tillståndens bakgrund:  
+31. **Belga, återgiven av Télésambre – Chantier Google : La Wallonie impose l'arrêt du chantier du data center à Aiseau-Presles**, 27 november 2026. Nyhetsbyrårapportering om den muntliga stoppordern den 26 november, regional tjänstemans uppgifter och tillståndens bakgrund:  
     https://www.telesambre.be/index.php/info/chantier-google-la-wallonie-impose-larret-du-chantier-du-data-center-aiseau-presles/84288
 
-29. **The Guardian – Google told to halt Belgium datacentre construction over lack of planning permit**, 27 november 2026. Oberoende rapportering om den skriftliga ordern, omkring 300 arbetare, den rapporterade hänskjutningen till åklagare och den planerade prövningen i Conseil d’État; myndighetsanknutna anklagelser hålls åtskilda från rättsligt avgörande:  
+32. **The Guardian – Google told to halt Belgium datacentre construction over lack of planning permit**, 27 november 2026. Oberoende rapportering om den skriftliga ordern, omkring 300 arbetare, den rapporterade hänskjutningen till åklagare och den planerade prövningen i Conseil d’État; myndighetsanknutna anklagelser hålls åtskilda från rättsligt avgörande:  
     https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits
 
-30. **AFP, återgiven av TV5MONDE – Belgique : Google contraint de suspendre un chantier de data center faute de permis**, 27 november 2026. Separat nyhetsbyrårapportering om det regionala stoppet och tillståndstvisten:  
+33. **AFP, återgiven av TV5MONDE – Belgique : Google contraint de suspendre un chantier de data center faute de permis**, 27 november 2026. Separat nyhetsbyrårapportering om det regionala stoppet och tillståndstvisten:  
     https://information.tv5monde.com/economie/belgique-google-contraint-de-suspendre-un-chantier-de-data-center-faute-de-permis-2847243
