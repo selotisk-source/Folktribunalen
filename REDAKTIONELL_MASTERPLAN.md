@@ -1,3 +1,61 @@
+## Senaste arbetskontroll – 28 november 2026, 08:56 EET
+
+### Aktiv huvudartikel – spår 2: Europas AI-infrastruktur
+- **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
+- **PR #71:** Open/Draft, branch `editorial/europe-ai-infrastructure-review-2026-11-17`, head `00da6a75045ddf696740512f8bb4f3ee89a644ae`, uppdaterad 28 nov 01:20 UTC. 47 commits, två ändrade filer enligt PR-diffens nuvarande sammanfattning.
+- **Versionsbeslut:** Chefredaktörens uttryckliga publiceringsbesked är dokumenterat för äldre commit `d7a9d7e907f6e3bccfb2a6e212402ca297d06b7a` (tidigare godkännandekedja). Nuvarande head är en materiellt senare revision och saknar separat godkännande. PR #71:s review submissions är tomma. Den måste förbli Open/Draft; inget äldre godkännande överförs till aktuell head.
+- **Aktuell textstatus:** 12 huvudavsnitt, ingress, slutsats, faktaruta, bildförslag och källförteckning. Dossierets slutliga klassificering anger 54 primära/operativa dokument och 33 oberoende/kompletterande rapporteringskällor; Greenpeace Belgium är separat märkt partsuppgift. Källnumreringen 31–33 för Belgien är rättad.
+- **Viktig ny primärkälla:** EuroHPC:s officiella upphandlingssida, uppdaterad 25 november, anger Lot 2-deadline **30 december 2026 kl. 17.00 Europe/Luxembourg**, Lot 1 **4 februari 2027 kl. 17.00** och sista dag för frågor om Lot 2 **9 december 2026**. Upphandlingen är fortsatt Open. Den tidigare 3 december-fristen är supersederad. https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+- **Oberoende bekräftelse:** Agence Europe 27 november rapporterar Lot 2-förlängningen och beskriver den som minst femte tidsförskjutningen. https://agenceurope.eu/en/bulletin/article/13991/24/ai-gigafactories-eurohpc-postpones-tender-submission-deadline-to-30-december
+- **Ny Belgien-granskning:** regional myndighet i Vallonien beordrade Google att stoppa arbetet vid Aiseau-Presles. The Guardian 27 november rapporterar skriftlig bekräftelse och avsikt att överlämna misstanke om olovligt byggande till åklagare. Detta är en myndighetsåtgärd/misstanke, inte dom eller fastställt brott. Håll isär det ursprungliga 2024-tillståndet och återkallad ändring för vattenkylning. Originalbeslut och bygglovsakter saknas ännu. https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits
+- **Nästa huvudartikel:** PR #38, *Synkronicitetsprotokollet*, förblir parkerad tills artikel 2 är publicerad genom godkänd adminväg och LIVE-innehållet har kontrollerats.
+
+### PR-spärr och versionssäkerhet
+- PR #71: Open/Draft; head `00da6a75045ddf696740512f8bb4f3ee89a644ae`; inga review submissions.
+- PR #73: Open/Draft; head `f2628cb7430e19ec473c96e67d30e46a9d8734e4`; inga review submissions. Denna commit uppdaterar endast masterplanen.
+- PR #83 (strategiska råvaror), #84 (Hormuz) och #85 (Skaga kronologi/dendrokronologi) är Open/Draft. PR #85:s evidensnot från 28 november skiljer dendrokronologiskt provresultat (yttersta årsring 1210) från säker byggnadsdatering och dokumenterar källkonflikten om rivningsår 1825/1826. Denna not är research, inte färdig artikel.
+- Senaste öppna PR-listan visar även PR #82 Libanon, #77 Sofia, #78 ODJURET UR DJUPET, #76 Athos, #75/#69 Skaga, #74 Frölunda, #81/#72 Cypern och #80 Varna/Svarta havet. Samtliga kontrollerade i listningen som Draft.
+- PR #71 och #73 har inga review submissions. PR #85 har inga review submissions.
+- Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller LIVE-publicering utförd i denna körning.
+
+### Nio huvudspår – levande status
+1. **Palantir och den offentliga makten:** PR #55 historiskt mergad; senast dokumenterade publika route-test HTTP 200 den 13 november. Q3/SEC-insideruppgifter fortsätter i nyhetsbevakning.
+2. **Europas AI-datacenter:** PR #71 komplett granskningsutkast, aktuell head ej godkänd; enda aktiva huvudartikel.
+3. **Synkronicitetsprotokollet:** PR #38 Draft; komplett första utkast, parkerat tills spår 2 LIVE-kontrollerats.
+4. **Sofia – staden under staden:** PR #77 researchpaket/evidensnoter; komplett huvudartikel återstår.
+5. **Europas strategiska råvaror:** PR #83 kompletterar Skyline/CRMN och SuperCritical som separata spår; PR #65 och #51 äldre Draft-delcase. Skilj fyndighet, resurs, reserv, tillstånd, finansiering och produktion.
+6. **NVIDIA – aktier som säkerhet för lån:** PR #14/#23/#47 innehåller relaterad finans-/bolagsstyrningsresearch; dokumenterad faktisk pantsättning av NVIDIA-aktier är fortfarande en separat bevislucka. Blanda inte aktiepant med GPU-finansiering eller konvertibler.
+7. **Libanons kristna historia:** PR #82 är ny kompletterande UNIFIL-not; PR #22/#39 huvudspårsdelar. Komplett sammanhållen artikel om Geagea, Gemayel, Syrien och kyrkan återstår.
+8. **Kyrkorna som överlevde imperierna:** ingen komplett huvudartikel; Wiesbaden, Warszawa och Prag behöver var sin byggnadsakt. Sofia/Varna möjliga fortsättningar.
+9. **Fennoskandien – urberget, skogen och hästen:** PR #4/#32/#37/#43 delcase; sammanhängande huvudartikel återstår.
+
+### Separata projekt och serier
+- **ODJURET UR DJUPET:** PR #78 Draft kompletterar PR #28. Symbolisk parallell mellan Uppenbarelsebokens havsodjur och Storsjöodjuret; ingen obelagd historisk påverkan får påstås. Frösöstenen och Peter Thiels egna föreläsningar kräver primärtext-/runologisk kontroll.
+- **Cladonia/Alex Karp – Storsjö kapell, Härjedalen:** PR #4/#32. Cirka 15 000 ha är rapporterad areal, inte slutligt fastställd här. Fastighetsgränser måste hämtas ur förrättningsakter och överlagras med Fornsök, gravar, bronsålderslämningar, depåfynd, samfälligheter och lokala rättigheter. Håll helt åtskilt från Storsjön vid Östersund/Frösön.
+- **Skaga kapell – åtta delar:** PR #85 ger ny kronologi-/dendrokronologinot. En väggstavs yttersta daterade årsring är 1210; rapportförfattarens bedömning är byggtid under 1200-talets andra decennium, inte exakt byggår. RA-publikation anger rivning 1825, Svenska kyrkans historik 1826. 1957–58 byggarbete, 1960 invigning, brand vid nyåret 2000 och återinvigning midsommar 2001 ska hållas isär. PR #69/#75/#85 är research, inte godkända artiklar.
+- **Böckernas väg till Athos:** PR #26/#76 Draft; research om manuskript, katalogstatus och arkivbelägg.
+- **Från skrift till storebror:** PR #21/#41/#45/#54 delutkast; en sammanhängande huvudartikel återstår.
+
+### Nyhetsbevakning – kontrollerade uppdateringar
+- **Hormuz:** PR #84 är supplemental Draft om JMIC 117 och UKMTO 222–223. Händelser ska hållas åtskilda per varning, fartyg och källa; partsuppgifter får inte presenteras som oberoende bekräftade.
+- **USA:s kongress:** håll isär valresultat/projektioner från formellt fastställd mandatfördelning och från att den nya kongressen tillträder. Ingen ny primärkälla i dagens kontroll som motiverar att ändra den senaste dokumenterade sammanställningen.
+- **Palantir:** Q3 och SEC Form 4 ska skiljas från Form 144-förslag; automatiska skatteförsäljningar ska inte beskrivas som diskretionär insiderdumpning utan stöd.
+- **Gripen över Polen:** Försvarsmaktens primärkälla 20 november bekräftar svensk Gripen-insats flera timmar under svåra väderförhållanden, lufttankning och polska F-16/nederländskt tankflyg. Den bekräftar inte i sig uppgifter om ett specifikt eldtillstånd eller exakt antal mål. https://www.forsvarsmakten.se/kontakt/press-och-media/svenska-jas-gripen-i-luftforsvarsinsats-over/
+
+### Publiceringssystem – senaste verifierbara läge
+- Senaste masterplanens Render-notering från 27 november anger statisk frontend och backend som LIVE i Render-metadata men betonar att detta inte bevisar fungerande publik route.
+- Publik route och backend-health gav URL-not-accessible 27 november; ingen HTTP-status, rubrik, ingress eller fulltext kunde fastställas.
+- Postgres senast känd som available men `ipAllowList=[]`; ingen ny DB-anslutning eller ändring har gjorts i denna GitHub-körning.
+- Frontendens artikeldata ligger enligt tidigare kodgranskning i statiska arrayer i `src/app.js`; admin importerar inte PR-fulltext och binder inte publicering till exakt GitHub-commit. Ingen parallell statisk publiceringsväg får användas.
+- Postgres dokumenterade utgångstid är 4 december 2026 kl. 23:18:55 Sofia-tid (uppgift från tidigare kontroll; måste återkontrolleras mot aktuell Render-metadata).
+
+### Återkommande hyllning
+Varje utgåva ska innehålla Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski (Васил Левски; 1837–1873). Levski-texten ska bygga på National Museum Vasil Levski och Bulgariens nationalbibliotek: https://vlevskimuseum-bg.org/en/documentary-heritage/ och https://www.nationallibrary.bg/levski/. Skilj arkivbelagda fakta från hyllning; inga citat utan originalkontroll.
+
+**Arbetsbeslut 28 november:** PR #71 förblir enda aktiva huvudartikel och Draft. EuroHPC Lot 2-datumet 3 december är supersederat av 30 december. Belgien/Aiseau-Presles har lagts in som attribuerad myndighets-/tillståndsgranskning. PR #85:s Skaga-not är en researchleverans. PR #38 förblir parkerad. Ingen artikel publiceras eller mergas i denna körning.
+
+---
+
 ## Senaste arbetskontroll – 27 november 2026, 02:44 EET
 
 ### Aktiv huvudartikel – Europas AI-infrastruktur
