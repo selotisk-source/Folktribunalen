@@ -567,3 +567,35 @@ Den tidigare uppgiften i artikelutkastet om Lot 2-frist den 3 december 2026 är 
 Detta är en senare ändring än den 5 november-notis som låg till grund för tidigare artikeltext. Den nya fristen gäller därför före äldre sammanfattningar och sekundärkällor som fortfarande anger 3 december. Förlängningen bekräftar inte att något konsortium lämnat anbud, blivit utvalt eller fått finansiering.
 
 **Redaktionell åtgärd:** huvudtextens Lot 2-datum har korrigerats från 3 till 30 december 2026. Äldre daterade noteringar i dossiern ska läsas som historiska och supersederade där de anger 3 december. Ingen artikelpublicering eller LIVE-status följer av denna korrigering.
+
+
+## Ny faktakontroll – Belgien / Google Aiseau-Presles, 28 november 2026
+
+### Händelseförlopp och källstatus
+- **26 november:** Belga rapporterade att den regionala planeringstjänstemannen Raphaël Stokys meddelade en muntlig stopporder efter inspektion av byggplatsen i Aiseau-Presles. Omkring 300 arbetare ska ha varit på plats enligt tjänstemannens uppgift. Belga-rapporten återges av Télésambre: https://www.telesambre.be/index.php/info/chantier-google-la-wallonie-impose-larret-du-chantier-du-data-center-aiseau-presles/84288
+- **27 november:** The Guardian rapporterade att stoppordern därefter bekräftades skriftligen till Google och att regionala företrädare avsåg att överlämna ett ärende till åklagare med misstanke om olovligt byggande. Detta är rapporterad myndighetsåtgärd och misstanke, inte dom eller slutligt avgörande: https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits
+- AFP rapporterade separat att Vallonien beordrat arbetet att avbrytas efter Greenpeace-varning: https://information.tv5monde.com/economie/belgique-google-contraint-de-suspendre-un-chantier-de-data-center-faute-de-permis-2847243
+- **Partsuppgift:** Greenpeace Belgium uppger att organisationen begärde ett skyndsamt stopp och använde satellitbilder/uppgifter från boende. Organisationens egen pressrelease beskriver kampanjens ståndpunkt, inte en oberoende byggteknisk eller juridisk granskning: https://www.greenpeace.org/belgium/fr/communique-de-presse/82978/ och https://www.greenpeace.org/belgium/fr/communique-de-presse/83017/la-region-wallonne-suspend-la-construction-du-data-center-de-google-a-la-suite-dune-enquete-de-greenpeace/
+- **Tillståndshistorik enligt Belga/Guardian:** det ursprungliga tillståndet från 2024 omfattade tre luftkylda byggnader. En senare ändring skulle slå samman två byggnader och använda vatten från Sambre för kylning. Den ändrade lösningen godkändes regionalt i april 2026 men återkallades av Valloniens infrastrukturminister i augusti efter invändningar och oro kring vattenförsörjning/torka. Guardian anger upp till 600 m³ vatten per timme för den föreslagna lösningen.
+- **Rättslig reservation:** rapporteringen skiljer mellan det ursprungliga tillståndet, som fortfarande uppges gälla, och den återkallade ändringen. Den avgörande frågan är om de faktiska arbetena ryms inom ursprungligt tillstånd eller följer den ändrade designen. Skriv inte att hela projektet saknar varje bygglov eller att ett brott är fastställt.
+- **Kommande prövning:** Guardian rapporterar att Googles överklagande ska behandlas av Conseil d’État den 7 januari 2027. Detta är en framtida förhandling, inte ett förhandsbesked om utgången.
+- **Bolagets ståndpunkt:** Google uppges ha sagt att bolaget vill upprätthålla en öppen dialog med regionala myndigheter och experter. Inget mer omfattande bemötande eller fullständig teknisk redogörelse har hämtats i denna kontroll.
+
+### Vad saknas för full primärkällekontroll?
+1. Valloniens skriftliga stopporder och inspektionsprotokoll.
+2. Ursprungligt bygglov från 2024, ansökan om ändring 2025, regionalt godkännande april 2026 och ministerbeslutet i augusti i fulltext.
+3. Handlingarna i överklagandet till Conseil d’État och exakt processuell status inför 7 januari.
+4. Officiell kart-/ritningsjämförelse som visar vilka delar av byggnaden som omfattas av ursprungligt respektive återkallat tillstånd.
+5. Oberoende verifierad vattenbalans för den föreslagna kylningen; 600 m³/h ska tills vidare tillskrivas rapporteringen om projektets förslag.
+
+### Redaktionell åtgärd i PR #71
+- Ny underrubrik införd i artikelns avsnitt 8, efter Spanien och före Nscale.
+- Texten skiljer uttryckligen myndighetsanknuten misstanke, bolagets ståndpunkt, Greenpeace som partsuppgift och det ännu oavgjorda tillstånds-/domstolsläget.
+- Greenpeace har lagts som parts-/primärkälla, medan Belga, The Guardian och AFP redovisas som oberoende/kompletterande rapportering.
+- EuroHPC-källposten i artikeln har rättats till uppdateringsdatum 25 november 2026. Officiell sida kontrollerad 28 november: status Open; Lot 2 30 december 2026 kl. 17.00 Europe/Luxembourg; Lot 1 4 februari 2027 kl. 17.00; frågor om Lot 2 senast 9 december. https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+
+### Status och spärr
+- Artikelns fulltext har kompletterats i PR #71:s Draft-gren. Ny commit: `ad021df5dbb2f2db4f3ce29a62e2fc9e1cf1cfb6`.
+- Denna version är ny och har inget versionsbundet chefredaktörsgodkännande. PR #71 ska förbli Draft.
+- Ingen merge, cherry-pick, deploy, databasändring, frontendändring eller publicering.
+- Källunderlaget är tillräckligt för en tydligt attribuerad redaktionell redogörelse, men inte för att slå fast lagbrott eller exakt vilka byggnadsdelar som saknar tillstånd.
