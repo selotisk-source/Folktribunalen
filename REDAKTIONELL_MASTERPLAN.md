@@ -1015,3 +1015,34 @@ Tidigare uppgifter i denna masterplan och äldre daterade dossiernoter om Lot 2 
 
 
 **Slutlig head-kontroll 27 november 2026, 08:45 EET:** efter en ytterligare precisering av artikelns EuroHPC-stycke är PR #71:s aktuella Draft-head `e61491b9241997cdb28da757d37401f766b90096` (47 commits, två filer). Denna head ersätter tidigare noterade `71fc990a51a7a218919db00c75817787a89d73b1`. PR #73:s masterplan-head efter dagens dokumentationsuppdatering är `590839f426a83c90739c2813ed98bd2a9c816977`. Båda PR:erna är Open/Draft. Ingen review submission finns för #71. Det tidigare chefredaktörsgodkännandet gäller inte den nya headen.
+
+
+---
+
+## Daglig arbetskontroll – 28 november 2026, 03:16 EET
+
+### Aktiv huvudartikel – PR #71
+- **Artikel:** *Vem bygger Europas AI-infrastruktur – och vem betalar elräkningen?*
+- **Aktuell artikelversion:** commit `ad021df5dbb2f2db4f3ce29a62e2fc9e1cf1cfb6`; PR-head efter dossieruppdateringen `9e31b5ce85c7fb765d3c633afb6f79a39d168386`.
+- **Nytt case:** Belgien/Aiseau-Presles. Artikeltexten redogör för Valloniens stopporder 26 november, med tydlig skillnad mellan ursprungligt bygglov och återkallad ändring, partsuppgifter från Greenpeace, rapportering från Belga/AFP/The Guardian samt att misstanke inte är dom. Dossiern listar de fem centrala originalhandlingar som fortfarande saknas.
+- **EuroHPC:** officiell sida direktkontrollerad 28 november. Status Open; Lot 2 30 december 2026 kl. 17.00, Lot 1 4 februari 2027 kl. 17.00, frågor Lot 2 senast 9 december. Äldre 3-decemberdatum är supersederade.
+- **PR-state:** Open/Draft, 49 commits, två ändrade filer. Inga review submissions eller review threads. Aktuell version saknar versionsbundet chefredaktörsgodkännande; tidigare godkännande täckte endast äldre commit `e604b54471a563b019251a2ae6fe567b84e73364`.
+- **Artikelstruktur:** tolv huvudavsnitt, slutsats, faktaruta, primärkällor/partsuppgifter och oberoende rapportering; fulltext, faktakontroll, bildförslag och öppna frågor finns i dossiern. Ingen publiceringsåtgärd.
+
+### GitHub, Render och faktisk route
+- **PR #71:** https://github.com/selotisk-source/Folktribunalen/pull/71 – Open/Draft, head `9e31b5ce85c7fb765d3c633afb6f79a39d168386`.
+- **PR #73:** denna masterplanändring ligger kvar i separat Draft-PR; ingen merge.
+- **Statisk Render-tjänst:** `folktribunalen`, service `srv-dblpumgm7kps73bv55e0`, inte suspenderad, auto-deploy från main. Senaste listade Live-deploy: `dep-dbt4qddg1s2s738p7bmg`, commit `a43f1579058824a36ccad6245d4616551505431e`, färdig 16 november 2026 00:24:32 UTC.
+- **Redaktionell backend:** `folktribunalen-editorial`, service `srv-dblq2r0n74is73cchqh0`, inte suspenderad, auto-deploy från main. Senaste listade Live-deploy: `dep-dblq3nafngtc73c0l87g`, commit `6a835783553565f239864a9da7160d9f79f692b2`, färdig 4 november 2026 21:22:06 UTC.
+- **Postgres:** status `available`, Free-plan, `ipAllowList=[]`, expiry `2026-12-04T21:18:55Z`. Ingen databasfråga eller ändring gjord.
+- **Route-test 28 november:** `curl` mot startsidan, artikelrouten och backend `/api/health` gav DNS-fel `Could not resolve host`, HTTP `000`. Ingen HTTP-status, rubrik, ingress eller fulltext kunde hämtas. LIVE-kontroll saknas.
+- **Arkitekturspärr:** publika frontend läser statiska arrayer i `src/app.js`; admin kan inte importera PR-fulltext eller binda publicering till exakt commit. Databasstatus och adminväg utgör inte en fungerande publiceringskedja till den publika frontenden.
+
+### Redaktionella beslut och övriga spår
+- PR #71 förblir Draft. Ingen merge, cherry-pick, deploy, DB-ändring, frontendändring eller publicering.
+- PR #38 – Synkronicitetsprotokollet – fortsatt parkerad. Ingen nästa huvudartikel startas före versionsbundet godkännande, fungerande ansluten publiceringsväg och faktisk LIVE-kontroll av artikel 2.
+- PR #69 (Skaga/Hormuz research), PR #77 (Sofia-evidensnoter) och övriga sidospår hålls som research/Draft; inga parallella huvudartiklar.
+- Övriga huvudspår behåller tidigare ordning och status. Cladonia/Storsjö, Religion/Folket/Tradition, Hormuz, Skaga och Sofia är fortsatt research- eller sidospår, inte aktiv huvudartikel.
+- Återkommande hyllning i varje utgåva: Johannes Gutenberg, Carl von Linné, Voltaire, Sankta Paraskevi, Sankt Charbel och Vasil Levski. Levski-underlag: https://vlevskimuseum-bg.org/en/documentary-heritage/ och https://www.nationallibrary.bg/levski/. Arkivuppgifter skiljs från hyllning/tolkning; inga citat utan originalkontroll.
+
+**Status:** Artikel 2 är fortsatt enda aktiva huvudartikel och komplett utkast i Draft. Faktauppdatering 28 november införd. Godkännande av aktuell commit saknas. Publicering och LIVE-kontroll ej utförda.
